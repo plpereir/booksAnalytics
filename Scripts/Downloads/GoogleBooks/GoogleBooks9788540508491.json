@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GvrmsgEACAAJ",
+   "etag": "NR/9Yq+80Ro",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GvrmsgEACAAJ",
+   "volumeInfo": {
+    "title": "O brilho do bronze",
+    "publishedDate": "2014",
+    "description": "\"Diante da morte da esposa, com quem foi casado por 49 anos, o historiador Boris Fausto decide revisitar um hábito da juventude e escreve um diário. A princípio voltado a reflexões dolorosas acerca do luto, os escritos pouco a pouco se abrem para o cotidiano concreto, ainda que envolto pela marca da ausência. O resultado revela um olhar crítico e atento à vida contemporânea, permeado pelo senso de humor inabálavel do autor. \" -- publisher website",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8540508494"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788540508491"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Diaries in literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GvrmsgEACAAJ&dq=isbn:9788540508491&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GvrmsgEACAAJ&dq=isbn:9788540508491&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_brilho_do_bronze.html?hl=&id=GvrmsgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GvrmsgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Diante da morte da esposa, com quem foi casado por 49 anos, o historiador Boris Fausto decide revisitar um hábito da juventude e escreve um diário."
+   }
+  }
+ ]
+}

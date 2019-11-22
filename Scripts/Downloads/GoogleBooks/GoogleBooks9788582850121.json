@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PCEXvgAACAAJ",
+   "etag": "KeeKCAr45aA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PCEXvgAACAAJ",
+   "volumeInfo": {
+    "title": "FORA DA CURVA - OS SEGREDOS DOS GRANDES",
+    "subtitle": "INVESTIDORES DO BRASIL",
+    "authors": [
+     "PIERRE MOREAU"
+    ],
+    "description": "Organizado pelo investidor Florian Bartunek, pelo advogado e sócio da Casa do Saber Pierre Moreau e pela jornalista Giuliana Napolitano, Fora da curva reúne depoimentos de alguns dos maiores investidores do país como André Jakurski, Antonio Bonchristiano, Luis Stuhlberger, Guilherme Affonso Ferreira, Guilherme Aché, José Carlos Reis de Magalhães Neto, Luiz Fernando Figueiredo, Meyer Joseph Nigri, Pedro Damasceno e o próprio Bartunek. No total, eles administram cerca de 80 bilhões de reais. Muitas dessas personalidades são avessas a entrevistas, mas decidiram contar a história de suas carreiras a fim de espalhar valiosas lições de negócios para o público brasileiro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582850123"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582850121"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PCEXvgAACAAJ&dq=isbn:9788582850121&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PCEXvgAACAAJ&dq=isbn:9788582850121&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FORA_DA_CURVA_OS_SEGREDOS_DOS_GRANDES.html?hl=&id=PCEXvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PCEXvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Organizado pelo investidor Florian Bartunek, pelo advogado e sócio da Casa do Saber Pierre Moreau e pela jornalista Giuliana Napolitano, Fora da curva reúne depoimentos de alguns dos maiores investidores do país - como André Jakurski, ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cFd3twEACAAJ",
+   "etag": "O+v/Vr4O6QE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cFd3twEACAAJ",
+   "volumeInfo": {
+    "title": "Vamos Jogar Futebol",
+    "authors": [
+     "Fernanda Colombo"
+    ],
+    "publishedDate": "2018-06-05",
+    "description": "Vamos jogar futebol apresenta de uma maneira lúdica as regras do futebol e mostra a importância da arbitragem para que os jogos aconteçam de maneira justa. OS pequenos torcedores poderão refletir, respeitar e admirar ainda mais o esporte e todos os profissionais em campo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8538086200"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538086208"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cFd3twEACAAJ&dq=isbn:9788538086208&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cFd3twEACAAJ&dq=isbn:9788538086208&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vamos_Jogar_Futebol.html?hl=&id=cFd3twEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cFd3twEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vamos jogar futebol apresenta de uma maneira lúdica as regras do futebol e mostra a importância da arbitragem para que os jogos aconteçam de maneira justa."
+   }
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "j_CqnQEACAAJ",
+   "etag": "S1xRmBPRtQ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j_CqnQEACAAJ",
+   "volumeInfo": {
+    "title": "DR. HOUSE - UM GUIA PARA A VIDA",
+    "authors": [
+     "TONI DE LA TORRE",
+     "ANGELO DOS SANTOS PEREIRA"
+    ],
+    "description": "Dr. House é um médico politicamente incorreto que resolve casos que ninguém mais consegue enquanto detona seus pacientes, destila comentários sarcásticos em todos que estão à sua volta (especialmente seus subordinados) e se acha o dono da verdade. Este livro faz um raio X da vida do Dr. House e dá lições práticas de como ser mais parecido com ele e utilizar suas filosofias no seu dia a dia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563066293"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563066299"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=j_CqnQEACAAJ&dq=isbn:9788563066299&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=j_CqnQEACAAJ&dq=isbn:9788563066299&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DR_HOUSE_UM_GUIA_PARA_A_VIDA.html?hl=&id=j_CqnQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j_CqnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro faz um raio X da vida do Dr. House e dá lições práticas de como ser mais parecido com ele e utilizar suas filosofias no seu dia a dia."
+   }
+  }
+ ]
+}

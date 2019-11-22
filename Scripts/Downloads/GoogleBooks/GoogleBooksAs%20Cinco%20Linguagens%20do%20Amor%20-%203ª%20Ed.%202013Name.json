@@ -1,0 +1,170 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "WTnuQ8fG1kg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=As+Cinco+Linguagens+do+Amor+-+3%C2%AA+Ed.+2013&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lj1nDwAAQBAJ",
+   "etag": "wOCXU7UEkxg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lj1nDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Curso de Direito da Criança e do Adolescente",
+    "authors": [
+     "Katia Ferreira Maciel"
+    ],
+    "publisher": "Saraiva Educação S.A.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502619876"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "850261987X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lj1nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lj1nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lj1nDwAAQBAJ&printsec=frontcover&dq=As+Cinco+Linguagens+do+Amor+-+3%C2%AA+Ed.+2013&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lj1nDwAAQBAJ&dq=As+Cinco+Linguagens+do+Amor+-+3%C2%AA+Ed.+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_Direito_da_Crian%C3%A7a_e_do_Adoles.html?hl=&id=lj1nDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Curso_de_Direito_da_Crian%C3%A7a_e_do_Adoles-sample-epub.acsm?id=lj1nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lj1nDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

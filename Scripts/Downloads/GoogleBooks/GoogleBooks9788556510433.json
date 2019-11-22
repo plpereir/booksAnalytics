@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XWzjtAEACAAJ",
+   "etag": "Qfa6WbdQFOE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XWzjtAEACAAJ",
+   "volumeInfo": {
+    "title": "O Labirinto Dos Espíritos",
+    "authors": [
+     "Carlos Ruiz Zafon",
+     "Paulina Wacht",
+     "Ari Roitman"
+    ],
+    "publishedDate": "2017-08-22",
+    "description": "Madrid, anos 1950. Alicia Gris é uma alma nascida das sombras da guerra, que lhe tirou os pais e lhe deu em troca uma vida de dor crônica. Investigadora talentosa, é a ela que a polícia recorre quando o ilustre ministro Mauricio Valls desaparece; um mistério que os meios oficiais falharam em solucionar. Em Barcelona, Daniel Sempere não consegue escapar dos enigmas envolvendo a morte de sua mãe, Isabella. O desejo de vingança se torna uma sombra que o espreita dia e noite, enquanto mergulha em investigações inúteis sobre seu maior suspeito - o agora desaparecido ministro Valls. Os fios dessa trama aos poucos unem os destinos de Daniel e Alicia, conduzindo-os de volta ao passado, às celas frias da prisão de Montjuic, onde um escritor atormentado escreveu sobre sua vida e seus fantasmas; aos últimos dias de vida de Isabella, com seus arrependimentos e confissões; e a intrigas ainda mais perigosas, envolvendo figuras capazes de tudo para manter antigos esqueletos enterrados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8556510434"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788556510433"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 680,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XWzjtAEACAAJ&dq=isbn:9788556510433&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XWzjtAEACAAJ&dq=isbn:9788556510433&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Labirinto_Dos_Esp%C3%ADritos.html?hl=&id=XWzjtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XWzjtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Madrid, anos 1950."
+   }
+  }
+ ]
+}

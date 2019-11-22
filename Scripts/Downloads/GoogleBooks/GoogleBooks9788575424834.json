@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wXOAPgAACAAJ",
+   "etag": "H0OW3+2tVk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wXOAPgAACAAJ",
+   "volumeInfo": {
+    "title": "O Ponto Da Virada",
+    "authors": [
+     "Malcolm Gladwell",
+     "Talita M. Rodrigues"
+    ],
+    "description": "O que faz com que um produto, um serviço ou mesmo atitudes virem moda da noite para o dia? Que tipo de mudança faz, por exemplo, com que livros desconhecidos se transformem em best-sellers? Ou o que explica o aumento do consumo de cigarros entre os adolescentes, apesar da campanha antitabagista? Neste livro Malcolm Gladwell pretende mostrar como entender fenômenos sociais desse tipo - vê-los como epidemias. O momento decisivo em que essas novidades se alastram - ou se acabam - é o que o autor chama de 'O ponto da virada'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575424831"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575424834"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wXOAPgAACAAJ&dq=isbn:9788575424834&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wXOAPgAACAAJ&dq=isbn:9788575424834&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Ponto_Da_Virada.html?hl=&id=wXOAPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wXOAPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro Malcolm Gladwell mostra como entender fenômenos sociais desse tipo - vê-los como epidemias. O momento decisivo em que essas novidades se alastram - ou se acabam - é o que o autor chama de &#39;O ponto da virada&#39;."
+   }
+  }
+ ]
+}

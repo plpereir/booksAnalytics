@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OyVavgAACAAJ",
+   "etag": "zLQ33NIQ11Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OyVavgAACAAJ",
+   "volumeInfo": {
+    "title": "MARIA",
+    "authors": [
+     "RODRIGO ALVAREZ"
+    ],
+    "description": "A Virgem, a Nossa Senhora, a Mãe de Deus. Todos sabemos quem é Maria, mas qual a sua história? Pouco é dito sobre ela nos evangelhos e nos relatos bíblicos sobre os primeiros dias do cristianismo. No entanto, a história nos revela que Maria sofreu acusações duras, foi vítima de ataques furiosos e, sem saber, motivou embates entre religiosos e até imperadores. Nesta biografia o autor nos apresenta diversas faces daquela que se tornou uma das figuras femininas mais importantes de todos os tempos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525061514"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525061515"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OyVavgAACAAJ&dq=isbn:9788525061515&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OyVavgAACAAJ&dq=isbn:9788525061515&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MARIA.html?hl=&id=OyVavgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OyVavgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O autor está de volta com seu novo livro Maria – A biografia da mulher que gerou o homem mais importante da história, viveu um inferno, dividiu os cristãos, conquistou meio mundo e é chamada de Mãe de Deus.Nesta biografia, Rodrigo ..."
+   }
+  }
+ ]
+}

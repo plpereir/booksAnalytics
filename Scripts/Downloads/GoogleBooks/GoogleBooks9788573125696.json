@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gqTSpXsCYxkC",
+   "etag": "NFNRK2i+xhk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gqTSpXsCYxkC",
+   "volumeInfo": {
+    "title": "Coragem de Confiar, a",
+    "authors": [
+     "ROBERTO SHINYASHIKI"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2009",
+    "description": "As pessoas vivem angustiadas, preocupadas e depressivas, com medo de tudo. Medo de perder o emprego, de ser roubadas, de ficar sozinhas, de arriscar e de que as suas tentativas não deem certo. Elas têm receio de falhar e de não dar conta do que se propõem a fazer. O medo está virando um estilo de vida. O mundo está tomado pela insegurança. Isso mata a alegria de viver e sufoca o seu desejo de ser feliz e de se realizar. No entanto, se você quer mais da vida, essa não é uma boa opção. Você não pode deixar que os seus receios se tornem o seu estilo de viver. Neste livro, Roberto Shinyashiki alerta que o medo não pode ser nosso companheiro de viagem. No máximo, ele pode ser uma placa na beira da estrada, assinalando uma curva perigosa no caminho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573125691"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573125696"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 162,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gqTSpXsCYxkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gqTSpXsCYxkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gqTSpXsCYxkC&printsec=frontcover&dq=isbn:9788573125696&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gqTSpXsCYxkC&dq=isbn:9788573125696&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Coragem_de_Confiar_a.html?hl=&id=gqTSpXsCYxkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gqTSpXsCYxkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, Roberto Shinyashiki alerta que o medo não pode ser nosso companheiro de viagem. NO máximo, ele pode ser uma placa na beira da estrada, assinalando uma curva perigosa no caminho."
+   }
+  }
+ ]
+}

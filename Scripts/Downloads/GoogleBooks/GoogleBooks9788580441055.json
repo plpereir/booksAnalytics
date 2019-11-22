@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "b3aeZwEACAAJ",
+   "etag": "fqVSk28zE6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b3aeZwEACAAJ",
+   "volumeInfo": {
+    "title": "Guia politicamente incorreto da América Latina",
+    "authors": [
+     "Leandro Narloch",
+     "Duda Teixeira"
+    ],
+    "publishedDate": "2011-01-01",
+    "description": "Leandro Narloch e Duda Teixeira retomam alguns dos personagens e fatos marcantes da história da América Latina visando mostrar que a história não aconteceu exatamente como se aprende na escola. 'Fidel Castro foi capitalista', 'Che Guevara ordenava torturas' ou 'Os Incas aprovaram a dominação espanhola' são algumas das afirmações que os autores defendem e explicam por meio de outras correntes de pesquisa histórica rejeitadas como oficiais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580441056"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580441055"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Latin America"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=b3aeZwEACAAJ&dq=isbn:9788580441055&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=b3aeZwEACAAJ&dq=isbn:9788580441055&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guia_politicamente_incorreto_da_Am%C3%A9rica.html?hl=&id=b3aeZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b3aeZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Leandro Narloch e Duda Teixeira retomam alguns dos personagens e fatos marcantes da história da América Latina visando mostrar que a história não aconteceu exatamente como se aprende na escola."
+   }
+  }
+ ]
+}

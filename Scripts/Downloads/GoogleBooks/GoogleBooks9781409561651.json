@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YO1RvgAACAAJ",
+   "etag": "lxXMXrQwTEY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YO1RvgAACAAJ",
+   "volumeInfo": {
+    "title": "CEM HISTORIAS ILUSTRADAS",
+    "authors": [
+     "LESLEY SIMS",
+     "NANCY LESCHNIKOFF",
+     "FABIOLA BITTENCOURT"
+    ],
+    "description": "Uma coleção de histórias perfeitas para ler nas férias ou na hora de dormir. Clássicos recontados como 'Sonho de uma noite de verão', além de contos originais com belíssimas ilustrações. Desperte a imaginação das crianças e o prazer pela leitura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1409561658"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409561651"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YO1RvgAACAAJ&dq=isbn:9781409561651&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YO1RvgAACAAJ&dq=isbn:9781409561651&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CEM_HISTORIAS_ILUSTRADAS.html?hl=&id=YO1RvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YO1RvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma coleção de histórias perfeitas para ler nas férias ou na hora de dormir."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "E4CStAEACAAJ",
+   "etag": "EGjUnJlVmrE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E4CStAEACAAJ",
+   "volumeInfo": {
+    "title": "Filosofia Sem As Partes Chatas",
+    "authors": [
+     "Alain Stephen",
+     "Ana Lucia Da Rocha Franco",
+     "Carlos Augusto Leuba Salum"
+    ],
+    "description": "Temos mesmo livre-arbítrio? Como sabemos a diferença entre certo e errado? Se Deus existe, por que permite o sofrimento? O que é o tempo? Existe vida depois da morte? Perguntas como essas têm ocupado e perturbado as mentes mais brilhantes do mundo ao longo da história da civilização humana, provocando sempre muita discussão e debate. Neste livro curioso e visceral, Alain Stephen explora algumas dessas questões básicas. Ele explica todos os principais conceitos da filosofia, desde a Grécia Antiga até os grandes intelectuais da França do século XX. Com uma linguagem clara e livre de jargões, este livro propicia momentos de deleite e reflexão tanto para o pensador erudito quanto para qualquer pessoa que se interesse em filosofar sobre os grandes enigmas da vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531613833"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531613838"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=E4CStAEACAAJ&dq=isbn:9788531613838&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=E4CStAEACAAJ&dq=isbn:9788531613838&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Filosofia_Sem_As_Partes_Chatas.html?hl=&id=E4CStAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E4CStAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O que é o tempo? Existe vida depois da morte? Perguntas como essas têm ocupado e perturbado as mentes mais brilhantes do mundo ao longo da história da civilização humana, provocando sempre muita discussão e debate."
+   }
+  }
+ ]
+}

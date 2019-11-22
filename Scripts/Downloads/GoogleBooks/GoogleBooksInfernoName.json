@@ -1,0 +1,720 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 365,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oVSgTT1xGncC",
+   "etag": "BnpSS+mSIXw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oVSgTT1xGncC",
+   "volumeInfo": {
+    "title": "O céu e o inferno",
+    "authors": [
+     "EMANUEL SWEDENBORG"
+    ],
+    "publisher": "Livraria Alexandria",
+    "description": "Este livro é a descrição do mundo espiritual visitado por Swedenborg e sua divisão em três planos - os céus, o mundo dos espíritos e o inferno. O autor descreve os aspectos da vida dos anjos e espíritos ali e relata a entrada do homem naquela vida, após a morte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788586441998"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8586441996"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 401,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oVSgTT1xGncC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oVSgTT1xGncC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oVSgTT1xGncC&printsec=frontcover&dq=Inferno&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oVSgTT1xGncC&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_c%C3%A9u_e_o_inferno.html?hl=&id=oVSgTT1xGncC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oVSgTT1xGncC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro é a descrição do mundo espiritual visitado por Swedenborg e sua divisão em três planos - os céus, o mundo dos espíritos e o inferno."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7ZzTaErgWlAC",
+   "etag": "5PuYxXXW/Os",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7ZzTaErgWlAC",
+   "volumeInfo": {
+    "title": "O Inferno",
+    "authors": [
+     "Auguste Callet"
+    ],
+    "publisher": "Library of Alexandria",
+    "publishedDate": "1870",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781465568601"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1465568603"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 233,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7ZzTaErgWlAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7ZzTaErgWlAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7ZzTaErgWlAC&printsec=frontcover&dq=Inferno&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7ZzTaErgWlAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7ZzTaErgWlAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7ZzTaErgWlAC&rdid=book-7ZzTaErgWlAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Inferno-sample-epub.acsm?id=7ZzTaErgWlAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7ZzTaErgWlAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0-NJ4gOeBm0C",
+   "etag": "20MTiSVSozU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0-NJ4gOeBm0C",
+   "volumeInfo": {
+    "title": "Inferno",
+    "authors": [
+     "Patrícia Melo"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2011-08-10",
+    "description": "O Reizinho do morro do Berimbau tem 11 anos, se chama José Luis e não vai à escola há seis meses. Recebeu o primeiro salário e o primeiro tiro, dado pelo próprio chefe, praticamente ao mesmo tempo. Como tantos, é filho de empregada doméstica e seu maior desejo é comprar um tênis de marca. Sonha acordado com um pai branco que o leva para passear, mas sabe que o verdadeiro era negro, bebia e abandonou a família. Não consegue ver graça no vôo das pipas, mas, sim, no dos urubus. No Berimbau, Reizinho não é rei de nada. Trabalha como olheiro junto com outros garotos da sua idade na quadrilha de Miltão – este sim o soberano do morro. Subindo ruas de terra batida, entre piolhos, trambiques, gente boa, escroques, costureiras, babás, fofocas, crianças e submetralhadoras, José Luis experimenta o cotidiano caótico da favela. Essa típica paisagem carioca – com suas cacofonias de gargalhadas, televisão, latidos e tiros – é reproduzida com minúcia pela paulista Patrícia Melo. Em “Inferno”, a autora nos conta a saga de um traficante: de olheiro a bandido mais procurado do Rio, de Reizinho a dono do morro. Retrato contundente da tragédia social brasileira e da infância perdida no crime, o romance sagrou-se vencedor do Prêmio Jabuti de 2001.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564126619"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564126613"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.40.40.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0-NJ4gOeBm0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0-NJ4gOeBm0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0-NJ4gOeBm0C&printsec=frontcover&dq=Inferno&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0-NJ4gOeBm0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0-NJ4gOeBm0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0-NJ4gOeBm0C&rdid=book-0-NJ4gOeBm0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.422E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Inferno-sample-epub.acsm?id=0-NJ4gOeBm0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Inferno-sample-pdf.acsm?id=0-NJ4gOeBm0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0-NJ4gOeBm0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &quot;Inferno&quot;, a autora nos conta a saga de um traficante: de olheiro a bandido mais procurado do Rio, de Reizinho a dono do morro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yk66aYB1c_4C",
+   "etag": "mT000o4vaPM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yk66aYB1c_4C",
+   "volumeInfo": {
+    "title": "A divina comédia inferno",
+    "authors": [
+     "Dante Alighieri",
+     "Italo Eugenio Mauro"
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "1998",
+    "description": "Edição bilíngue (português/italiano), com tradução e notas de Italo Eugenio Mauro. 3 volumes - Inferno; Purgatório; Paraíso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573261218"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573261219"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Italian poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yk66aYB1c_4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yk66aYB1c_4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yk66aYB1c_4C&printsec=frontcover&dq=Inferno&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yk66aYB1c_4C&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_divina_com%C3%A9dia_inferno.html?hl=&id=yk66aYB1c_4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yk66aYB1c_4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Texto fundador da língua italiana, súmula da cosmovisão de toda uma época, monumento poético de rigor e beleza, obra magna da literatura universal. É fato que a &quot;Comédia&quot; merece esses e muitos outros adjetivos de louvor, incluindo o  ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WUCtMQjMqb8C",
+   "etag": "+CO6RTJkFOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WUCtMQjMqb8C",
+   "volumeInfo": {
+    "title": "Auto da barca do inferno",
+    "authors": [
+     "Gil Vicente"
+    ],
+    "publisher": "Atelie Editorial",
+    "publishedDate": "1966",
+    "description": "O livro destina-se, em princípio, ao estudante que se prepara para o vestibular, mas certamente permanecerá na estante do leitor interessado em boa literatura. A obra apresenta prefácio e notas por Ivan Teixeira, professor na Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585851104"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585851101"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 130,
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WUCtMQjMqb8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WUCtMQjMqb8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WUCtMQjMqb8C&printsec=frontcover&dq=Inferno&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WUCtMQjMqb8C&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Auto_da_barca_do_inferno.html?hl=&id=WUCtMQjMqb8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WUCtMQjMqb8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro destina-se, em princípio, ao estudante que se prepara para o vestibular, mas certamente permanecerá na estante do leitor interessado em boa literatura."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oh96d052oBsC",
+   "etag": "x8Yy3WGoseY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oh96d052oBsC",
+   "volumeInfo": {
+    "title": "Inferno no mar",
+    "authors": [
+     "Claudio Paiva"
+    ],
+    "publisher": "Editora 34",
+    "description": "Uma deliciosa sátira aos livros de viagem e aos diários de bordo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585490640"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585490645"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 127,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oh96d052oBsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oh96d052oBsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oh96d052oBsC&printsec=frontcover&dq=Inferno&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oh96d052oBsC&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Inferno_no_mar.html?hl=&id=oh96d052oBsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oh96d052oBsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma deliciosa sátira aos livros de viagem e aos diários de bordo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "anxVAAAAMAAJ",
+   "etag": "JB6g4/H4zwM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/anxVAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Uma estação no inferno ...",
+    "publishedDate": "1952",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023932442"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 45,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=anxVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=anxVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=anxVAAAAMAAJ&q=Inferno&dq=Inferno&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=anxVAAAAMAAJ&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_esta%C3%A7%C3%A3o_no_inferno.html?hl=&id=anxVAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=anxVAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HqkQhQxEhDgC",
+   "etag": "W/nVoQ2DjZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HqkQhQxEhDgC",
+   "volumeInfo": {
+    "title": "Matrimônio do céu e do inferno",
+    "authors": [
+     "William Blake"
+    ],
+    "publisher": "Editora Iluminuras Ltda",
+    "description": "'O matrimônio do Céu e do Inferno' consiste numa sequência de aforismos, nos quais o autor estuda a moralidade convencional, proclamando que o homem não se reduz à dualidade alma = bem e corpo = mal. 'O livro de Thel' apresenta a jovem Thel lamentando a transitoriedade e a mutabilidade às margens do rio de Adona.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573212799"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573212792"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 86,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HqkQhQxEhDgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HqkQhQxEhDgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HqkQhQxEhDgC&printsec=frontcover&dq=Inferno&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HqkQhQxEhDgC&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Matrim%C3%B4nio_do_c%C3%A9u_e_do_inferno.html?hl=&id=HqkQhQxEhDgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HqkQhQxEhDgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;O matrimônio do Céu e do Inferno&#39; consiste numa sequência de aforismos, nos quais o autor estuda a moralidade convencional, proclamando que o homem não se reduz à dualidade alma = bem e corpo = mal."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "17eUWHUCKCcC",
+   "etag": "tvsFXazS1yU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/17eUWHUCKCcC",
+   "volumeInfo": {
+    "title": "Saveiro do inferno",
+    "authors": [
+     "Silvio Roberto de Oliveira"
+    ],
+    "publisher": "Editora Iluminuras Ltda",
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585219734"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585219734"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 94,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=17eUWHUCKCcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=17eUWHUCKCcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=17eUWHUCKCcC&pg=PA7&dq=Inferno&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=17eUWHUCKCcC&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Saveiro_do_inferno.html?hl=&id=17eUWHUCKCcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=17eUWHUCKCcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quase prefácio Saveiro do \u003cb\u003einferno\u003c/b\u003e é um livro estranho e belo. Não tão estranho \u003cbr\u003e\npara quem já conhece as invenções e reinvenções havidas na literatura deste \u003cbr\u003e\nséculo. Não tão belo para quem gostou de Quixotinadas, Modo Nordeste,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n6a14_7mwkcC",
+   "etag": "u6ivjL3vrYw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n6a14_7mwkcC",
+   "volumeInfo": {
+    "title": "Céu, inferno",
+    "subtitle": "ensaios de crítica literária e ideológica",
+    "authors": [
+     "Alfredo Bosi"
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "2003-01-01",
+    "description": "'Céu, inferno' desempenha papel singular na obra de Alfredo Bosi. A formação do crítico se deixa entrever na própria arquitetura do livro. Sob o prisma do passado, desenha-se todo um percurso intelectual - dos artigos sobre literatura italiana, publicados na década de 60 no Suplemento Literário de O Estado de S. Paulo, passando pela releitura de clássicos brasileiros, até abrir-se à atualíssima reflexão teórica em torno do método hermenêutico. Esta edição, revista e acrescida de novos ensaios, acentua as linhas de força do volume que, desde o título, expressa uma vocação dialética. 'Céu, inferno' integra, no mesmo movimento crítico, autores como Croce e Gramsci, Mário de Andrade e Carpeaux, Cecília Meireles e Ferreira Gullar. Mais do que um roteiro erudito de leituras, a presença desses e de outros nomes revela uma perspectiva histórica profunda. Entrelaçar as modulações das vozes individuais no tecido enervado das ideologias foi a tarefa que se impôs este intérprete.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573262648"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573262643"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 493,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian literature"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=n6a14_7mwkcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=n6a14_7mwkcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=n6a14_7mwkcC&printsec=frontcover&dq=Inferno&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=n6a14_7mwkcC&dq=Inferno&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/C%C3%A9u_inferno.html?hl=&id=n6a14_7mwkcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n6a14_7mwkcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Além de interpretações das obras de Graciliano Ramos, Guimarães Rosa, Drummond e outros, este livro reúne ensaios sobre autores italianos como Verga, Svevo, Pirandello, Moravia, Montale e Ungaretti, que recebem aqui o foco de uma ..."
+   }
+  }
+ ]
+}

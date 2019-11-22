@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6MWoQwAACAAJ",
+   "etag": "El0zrX0g8Fs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6MWoQwAACAAJ",
+   "volumeInfo": {
+    "title": "PODER SEM LIMITES",
+    "authors": [
+     "ANTHONY ROBBINS"
+    ],
+    "description": "Não importa a idade, posição social ou profissional, para Anthony Robbins, todos são capazes de fazer, ter e ser exatamente o que quiserem. Esta obra procura revelar as principais técnicas para o sucesso baseadas no autoconhecimento e na ação. Com elas, o leitor poderá desenvolver alicerces para sua saúde mental e emocional, garantindo uma vida melhor no trabalho, com os amigos e com a família.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576844192"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576844198"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 386,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6MWoQwAACAAJ&dq=isbn:9788576844198&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6MWoQwAACAAJ&dq=isbn:9788576844198&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PODER_SEM_LIMITES.html?hl=&id=6MWoQwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6MWoQwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não importa a idade, posição social ou profissional, para Anthony Robbins, todos são capazes de fazer, ter e ser exatamente o que quiserem."
+   }
+  }
+ ]
+}

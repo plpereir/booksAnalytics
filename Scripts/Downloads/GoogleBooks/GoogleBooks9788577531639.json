@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "haW8XwAACAAJ",
+   "etag": "8bH15dnJTbk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/haW8XwAACAAJ",
+   "volumeInfo": {
+    "title": "Pedagogia da autonomia",
+    "authors": [
+     "Paulo Freire"
+    ],
+    "publishedDate": "2004",
+    "description": "Neste livro, Paulo Freire procura apresentar uma reflexão sobre a relação entre educadores e educandos, elaborando propostas de práticas pedagógicas, orientadas por uma ética universal, que visam a desenvolver a autonomia, a capacidade crítica e a valorização da cultura e conhecimentos empíricos de uns e outros. Criando os fundamentos para a implementação e consolidação desse diálogo político-pedagógico e sintetizando diferentes questões para a formação dos educadores e para uma prática educativo-progressiva, Paulo Freire estabelece relações e condições para a tarefa da educação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577531635"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577531639"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=haW8XwAACAAJ&dq=isbn:9788577531639&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=haW8XwAACAAJ&dq=isbn:9788577531639&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pedagogia_da_autonomia.html?hl=&id=haW8XwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=haW8XwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Saberes necessários à prática educativa Na Pedagogia da autonomia, de 1996, Paulo Freire nos apresenta uma reflexão sobre a relação entre educadores e educandos e elabora propostas de práticas pedagógicas, orientadas por uma ética ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4DSFoAEACAAJ",
+   "etag": "xIIikQqdV4w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4DSFoAEACAAJ",
+   "volumeInfo": {
+    "title": "Da minha terra à Terra",
+    "authors": [
+     "Sebastião Salgado",
+     "Isabelle Francq"
+    ],
+    "publishedDate": "2014",
+    "description": "Publicly for the first time, the world's largest photojournalist tells his story.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8565530566"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565530569"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Journalists"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4DSFoAEACAAJ&dq=isbn:9788565530569&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4DSFoAEACAAJ&dq=isbn:9788565530569&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Da_minha_terra_%C3%A0_Terra.html?hl=&id=4DSFoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4DSFoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Da minha terra à Terra, é seu talento como narrador que surpreende. A autenticidade de um homem que sabe como poucos combinar militância, profissionalismo, talento e generosidade."
+   }
+  }
+ ]
+}

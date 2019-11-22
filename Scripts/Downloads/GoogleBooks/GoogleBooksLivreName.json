@@ -1,0 +1,650 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 399,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VwprDwAAQBAJ",
+   "etag": "ujqXYSdNKm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VwprDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Livre!",
+    "subtitle": "Um livro que vai mudar seu jeito de olhar o mundo!",
+    "authors": [
+     "Lucas Nunes Coelho"
+    ],
+    "publisher": "Lucas Nunes Coelho",
+    "publishedDate": "2018-08-29",
+    "description": "Um livro que traz ao leitor uma sensação indescritível de um realçe no mundo exterior! \"Livre!\" é um belo livro de poemas que traz ao leitor uma nova concepção do que é poesia!",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VwprDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VwprDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VwprDwAAQBAJ&printsec=frontcover&dq=Livre&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VwprDwAAQBAJ&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Livre.html?hl=&id=VwprDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Livre-sample-epub.acsm?id=VwprDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VwprDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um livro que traz ao leitor uma sensação indescritível de um realçe no mundo exterior! &quot;Livre!&quot; é um belo livro de poemas que traz ao leitor uma nova concepção do que é poesia!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UlGhMN7UXpgC",
+   "etag": "8PEs++oTwDs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UlGhMN7UXpgC",
+   "volumeInfo": {
+    "title": "Trabalho livre, trabalho escravo",
+    "subtitle": "Brasil e Europa, séculos XVIII e XIX",
+    "authors": [
+     "Douglas Cole Libby",
+     "Júnia Ferreira Furtado"
+    ],
+    "publisher": "Annablume",
+    "publishedDate": "2006-01-01",
+    "description": "Este livro agrega estudos sobre o trabalho livre e o trabalho escravo numa perspectiva comparativa. Reúne vários estudiosos no Brasil, na Europa e nos EUA de temas relacionados ao trabalho, à sociedade livre e à sociedade escravista. Sua importância espec",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574196274"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574196275"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 463,
+    "printType": "BOOK",
+    "categories": [
+     "Antislavery movements"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UlGhMN7UXpgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UlGhMN7UXpgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UlGhMN7UXpgC&pg=PA11&dq=Livre&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UlGhMN7UXpgC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trabalho_livre_trabalho_escravo.html?hl=&id=UlGhMN7UXpgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UlGhMN7UXpgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Trabalho \u003cb\u003elivre\u003c/b\u003e, trabalho escravo: perspectivas de comparação Douglas Cole \u003cbr\u003e\nLibby Júnia Ferreira Furtado Após a visita do professor Dick Geary, do \u003cbr\u003e\nDepartamento de História da University of Nottingham, ao Programa de Pós-\u003cbr\u003e\nGraduação em&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n1HHGP855ewC",
+   "etag": "aNjOBWQD4Gk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n1HHGP855ewC",
+   "volumeInfo": {
+    "title": "A Mao Livre - Linguagem E as Tecnicas Do Desenho",
+    "authors": [
+     "Philip Hallawell"
+    ],
+    "publisher": "Editora Melhoramentos",
+    "description": "Este livro destina-se à todos os interessados no desenho e na pintura, desde o iniciante nas artes até o estudante universitário. Artistas plásticos que não têm base sólida de desenho e técnicas também podem encontrar nesta obra um grande apoio. O primeiro volume focaliza a linguagem e os fundamentos do desenho; composição e eixos, perspectiva, concepção de espaço, luz e sombra; além de orientações sobre o processo criativo. O segundo volume relaciona os materiais necessários e os melhores modos de manipulá-los. Também discute características e limitações de cada técnica, orientando o leitor em suas escolhas. Com esses dois livros, reunidos nesta edição, o leitor poderá ter as informações de que necessita para desenvolver qualquer técnica de desenho. A intenção do autor não é formar artistas plásticos, mas enriquecer a vida das pessoas, proporcionando-lhes um meio de expressar sua criatividade. O volume é complementado com ilustrações do autor, exemplos passo a passo, esquemas, fotografias dos materiais e reproduções de quadros de artistas do mundo todo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8506049784"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506049785"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=n1HHGP855ewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=n1HHGP855ewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=n1HHGP855ewC&printsec=frontcover&dq=Livre&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=n1HHGP855ewC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Mao_Livre_Linguagem_E_as_Tecnicas_Do_D.html?hl=&id=n1HHGP855ewC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n1HHGP855ewC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro destina-se à todos os interessados no desenho e na pintura, desde o iniciante nas artes até o estudante universitário."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7AgdZ26Ej-gC",
+   "etag": "CsGPSlEvgQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7AgdZ26Ej-gC",
+   "volumeInfo": {
+    "title": "Eu Sou Eternamente Livre",
+    "authors": [
+     "LUIS CARLOS SILVEIRA DIAS JUNIOR"
+    ],
+    "publisher": "DIVINA PRESENCA",
+    "publishedDate": "2012-05",
+    "description": "EU SOU ETERNAMENTE LIVRE é um livro que contém os principais ensinamentos dos Mestres Ascensionados para a Era em que vivemos. Os Mestres esperam que os homens que estão em busca da Luz e da espiritualidade genuína atuem como verdadeiros Focos de Luz na Terra, atraindo e irradiando ao seu redor o Amor, a Luz, o Poder e a Liberdade que Deus oferece aos seus filhos. Através deste livro, o leitor pode conhecer e mergulhar na palavra dos Mestres Ascensionados e também praticar as invocações e exercícios propostos, com o objetivo de aperfeiçoar-se como ser humano e contribuir para a manifestação visível de um Novo Tempo de Amor e de Harmonia. Edição: 4 Ano: 2015 País de Produção: BRASIL Código de Barras: 9788562631054 ISBN: 8562631051 Encadernação: BROCHURA Altura: 23,00 cm Largura: 16,00 cm Comprimento: 1,50 cm Peso: 00,45 kg Nº de Páginas: 294",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 283,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7AgdZ26Ej-gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7AgdZ26Ej-gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7AgdZ26Ej-gC&printsec=frontcover&dq=Livre&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7AgdZ26Ej-gC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Eu_Sou_Eternamente_Livre.html?hl=&id=7AgdZ26Ej-gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7AgdZ26Ej-gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EU SOU ETERNAMENTE LIVRE é um livro que contém os principais ensinamentos dos Mestres Ascensionados para a Era em que vivemos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TWpgPGwEeJoC",
+   "etag": "MrZMKTuXt9o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TWpgPGwEeJoC",
+   "volumeInfo": {
+    "title": "Curso Livre de Teoria Crítica",
+    "authors": [
+     "Marcos Nobre"
+    ],
+    "publisher": "Papirus Editora",
+    "publishedDate": "2008",
+    "description": "Este livro pretende fornecer um panorama da tradição intelectual de Teoria Crítica, mostrando sua diversidade e seu interesse aos não especialistas. Os capítulos são dedicados à apresentação do pensamento de vários autores, como Theodor W. Adorno, Walter Benjamin, Herbert Marcuse, Jürgen Habermas, Friedrich Pollock, Franz Neumann e Otto Kirchheimer. Contudo, o foco não se restringe a uma produção já histórica, mas abrange também temas e autores contemporâneos. Tratando de assuntos como o feminismo, a tolerância e a psicanálise, a obra pretende discutir também a situação atual da Teoria Crítica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8530808622"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788530808624"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 302,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TWpgPGwEeJoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TWpgPGwEeJoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TWpgPGwEeJoC&pg=PA35&dq=Livre&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TWpgPGwEeJoC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Curso_Livre_de_Teoria_Cr%C3%ADtica.html?hl=&id=TWpgPGwEeJoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TWpgPGwEeJoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... em que Horkheimer procura responder a objeções e apresentar \u003cbr\u003e\nesclarecimentos conceituais. instauração de uma sociedade de homens e \u003cbr\u003e\nmulheres \u003cb\u003elivres\u003c/b\u003e e. Curso \u003cb\u003elivre\u003c/b\u003e de Teoria Crítica 35 MAX HORKHEIMER A TEORIA \u003cbr\u003e\nCRITICA ENTRE&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XlMtAAAAYAAJ",
+   "etag": "mGIzx7a8saY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XlMtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O livre arbítrio",
+    "subtitle": "(dissecado à luz de um encontro internacional).",
+    "authors": [
+     "António Jorge Azzi"
+    ],
+    "publishedDate": "1972",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022881743"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 123,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XlMtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XlMtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XlMtAAAAYAAJ&q=Livre&dq=Livre&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XlMtAAAAYAAJ&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_livre_arb%C3%ADtrio.html?hl=&id=XlMtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XlMtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_EpK2udXZQ0C",
+   "etag": "v4cup6BJseo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_EpK2udXZQ0C",
+   "volumeInfo": {
+    "title": "Desenho livre infantil",
+    "subtitle": "leituras fenomenológicas",
+    "authors": [
+     "Eloisa Aguiar"
+    ],
+    "publisher": "Editora E-papers",
+    "publishedDate": "2004",
+    "description": "Investigação psicológica do desenho livre infantil sob a ótica da abordagem fenomenológico-existencial, apresentando vários exemplos de interpretação de desenhos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576500049"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576500043"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Infant psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_EpK2udXZQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_EpK2udXZQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_EpK2udXZQ0C&printsec=frontcover&dq=Livre&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_EpK2udXZQ0C&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Desenho_livre_infantil.html?hl=&id=_EpK2udXZQ0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_EpK2udXZQ0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Investigação psicológica do desenho livre infantil sob a ótica da abordagem fenomenológico-existencial, apresentando vários exemplos de interpretação de desenhos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ufmfJNQ2CLQC",
+   "etag": "5OF6jQ271Zo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ufmfJNQ2CLQC",
+   "volumeInfo": {
+    "title": "Ontem Cidade Livre, hoje cidade livro",
+    "publisher": "Thesaurus Editora",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8570623097"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788570623096"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 79,
+    "printType": "BOOK",
+    "categories": [
+     "Brasília (Brazil)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ufmfJNQ2CLQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ufmfJNQ2CLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ufmfJNQ2CLQC&pg=PA57&dq=Livre&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ufmfJNQ2CLQC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ontem_Cidade_Livre_hoje_cidade_livro.html?hl=&id=ufmfJNQ2CLQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ufmfJNQ2CLQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cidade \u003cb\u003eLivre\u003c/b\u003e) que foi o primeiro hospital de Brasília. Meu esposo trabalhava, e \u003cbr\u003e\ntínhamos esse alojamento nas dependências. O fogo que houve na Cidade \u003cb\u003eLivre\u003c/b\u003e \u003cbr\u003e\nfoi horrível. Assistimos de perto e deixou muita gente desagasalhada, e não&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zPYC6F4LjxEC",
+   "etag": "i/mwhwI5sQw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zPYC6F4LjxEC",
+   "volumeInfo": {
+    "title": "Policiando uma Sociedade Livre Vol. 9",
+    "authors": [
+     "HERMAN GOLDSTEIN"
+    ],
+    "publisher": "EdUSP",
+    "publishedDate": "2003",
+    "description": "Analisa questões que estão na base dos processos de reforma e de aperfeiçoamento da polícia e de seus métodos em sociedades democráticas contemporâneas : a função da polícia, o poder discricionário dos policiais e seu compromisso com valores democráticos, as expectativas da sociedade, os sistemas de justiça criminal e de avaliação do serviço prestado. Aponta diversas possibilidades de aprimoramento da atuação da polícia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531407818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531407819"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 463,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zPYC6F4LjxEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zPYC6F4LjxEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zPYC6F4LjxEC&pg=PA13&dq=Livre&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zPYC6F4LjxEC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Policiando_uma_Sociedade_Livre_Vol_9.html?hl=&id=zPYC6F4LjxEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zPYC6F4LjxEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em uma sociedade \u003cb\u003elivre\u003c/b\u003e, pela natureza estritas de suas funções, a polícia é uma \u003cbr\u003e\nanomalia. É investida de uma enorme autoridade, em um sistema de governo \u003cbr\u003e\nem que a autoridade é relutantemente concedida e, quando isso acontece, é \u003cbr\u003e\nlogo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g46-59wzT-sC",
+   "etag": "DV8hHggOu84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g46-59wzT-sC",
+   "volumeInfo": {
+    "title": "Análises Econômicas do Software Livre no Contexto Universitário",
+    "publisher": "Guilherme Dornelas",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g46-59wzT-sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g46-59wzT-sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g46-59wzT-sC&pg=PT16&dq=Livre&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g46-59wzT-sC&dq=Livre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An%C3%A1lises_Econ%C3%B4micas_do_Software_Livre.html?hl=&id=g46-59wzT-sC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g46-59wzT-sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O movimento do software \u003cb\u003elivre\u003c/b\u003e é expressão autêntica desse potencial da rede \u003cbr\u003e\ne o grande modelo para a consolidação de soluções compartilhadas diante de \u003cbr\u003e\nquestões complexas, a partir da interação multiétnica, multinacional e \u003cbr\u003e\nmulticultural."
+   }
+  }
+ ]
+}

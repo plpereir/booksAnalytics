@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wbKeDAEACAAJ",
+   "etag": "DZa6Hpmr1MQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wbKeDAEACAAJ",
+   "volumeInfo": {
+    "title": "A maior poça de lama do mundo",
+    "authors": [
+     "Neville Astley"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516095134"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516095130"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 28,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wbKeDAEACAAJ&dq=isbn:9788516095130&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wbKeDAEACAAJ&dq=isbn:9788516095130&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_maior_po%C3%A7a_de_lama_do_mundo.html?hl=&id=wbKeDAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wbKeDAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Peppa adora os dias de chuva. Sabe por quê? Porque, depois que a chuva se espalha pelo chão, debaixo de toda aquela água só pode existir... &#39;A maior poça de lama do mundo!&#39;"
+   }
+  }
+ ]
+}

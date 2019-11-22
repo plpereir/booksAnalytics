@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "j3AYYAAACAAJ",
+   "etag": "/hDlrMupHoM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j3AYYAAACAAJ",
+   "volumeInfo": {
+    "title": "ASSASSIN'S CREED - RENASCENÇA",
+    "authors": [
+     "OLIVER BOWDEN",
+     "ANA CAROLINA MESQUITA"
+    ],
+    "description": "Traído pelas famílias que governam as cidades-estado italianas, um jovem embarca em uma jornada épica em busca de vingança. Para erradicar a corrupção e restaurar a honra de sua família, ele irá aprender a Arte dos Assassinos. Ao longo do caminho, Ezio terá de contar com a sabedoria de mentores, como Leonardo da Vinci e Nicolau Maquiavel, sabendo que sua sobrevivência depende inteiramente de sua perícia e habilidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501091332"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501091338"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 378,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=j3AYYAAACAAJ&dq=isbn:9788501091338&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=j3AYYAAACAAJ&dq=isbn:9788501091338&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ASSASSIN_S_CREED_RENASCEN%C3%87A.html?hl=&id=j3AYYAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j3AYYAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Traído pelas famílias que governam as cidades-estado italianas, um jovem embarca em uma jornada épica em busca de vingança."
+   }
+  }
+ ]
+}

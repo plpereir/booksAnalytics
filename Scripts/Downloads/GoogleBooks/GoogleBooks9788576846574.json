@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4-wTlAEACAAJ",
+   "etag": "BHLV+xR+Rek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4-wTlAEACAAJ",
+   "volumeInfo": {
+    "title": "METODO DUKAN ILUSTRADO, O",
+    "authors": [
+     "PIERRE DUKAN",
+     "ANA ADAO"
+    ],
+    "publishedDate": "2013-01-30",
+    "description": "Esta obra traz ilustrações, atualizações nos exercícios, cardápios revistos e as fases da dieta revisadas e refinadas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576846578"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576846574"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4-wTlAEACAAJ&dq=isbn:9788576846574&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4-wTlAEACAAJ&dq=isbn:9788576846574&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/METODO_DUKAN_ILUSTRADO_O.html?hl=&id=4-wTlAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4-wTlAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Grande sucesso de vendas, primeiro lugar nas principais listas de mais vendidos, com mais de 25 milhões de leitores no mundo, o fenômeno cultural do método Dukan, ganha agora uma versão ainda melhor."
+   }
+  }
+ ]
+}

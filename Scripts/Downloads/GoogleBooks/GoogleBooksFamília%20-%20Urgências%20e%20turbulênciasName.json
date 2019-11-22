@@ -1,0 +1,712 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 21,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3-IqDwAAQBAJ",
+   "etag": "uQm6gM5SBT0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3-IqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Família, urgências e turbulências",
+    "authors": [
+     "Mario Sergio Cortella"
+    ],
+    "publisher": "Cortez Editora",
+    "publishedDate": "2017-06-23",
+    "description": "Em \"Família: Urgências e Turbulências\", Mario Sergio Cortella se vê agora desafiado por perguntas que têm provocado preocupação em diversos segmentos da sociedade, especialmente entre os pais que percebem uma irrefreável erosão das relações familiares: + Como melhorar o convívio entre pais e filhos? + Como educar os jovens? Como estipular limites a eles? + Como ser presente na criação e educação dos filhos, diante da vida atribulada que os adultos têm? + Como evitar a fragmentação das relações familiares? Como não deixar que a tecnologia atrapalhe o convívio e os estudos? + Como impor autoridade a jovens cada vez mais desacostumados a obedecer? + Como lidar com crianças e jovens que parecem estar tão mimados, quanto despreparados para enfrentar as dificuldades da vida? A obra traz em suas páginas, além de respostas para estes e outros questionamentos, um posicionamento firme e claro: os pais que enfrentam situações como essas devem estar sempre alertas aos riscos que os conflitos em família podem provocar e, mais do que isso, devem adotar uma postura ativa, urgente e corajosa para encontrar soluções.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524925313"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8524925310"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3-IqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3-IqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3-IqDwAAQBAJ&printsec=frontcover&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3-IqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3-IqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3-IqDwAAQBAJ&rdid=book-3-IqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.04E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.216E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fam%C3%ADlia_urg%C3%AAncias_e_turbul%C3%AAncias-sample-epub.acsm?id=3-IqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fam%C3%ADlia_urg%C3%AAncias_e_turbul%C3%AAncias-sample-pdf.acsm?id=3-IqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3-IqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &quot;Família: Urgências e Turbulências&quot;, Mario Sergio Cortella se vê agora desafiado por perguntas que têm provocado preocupação em diversos segmentos da sociedade, especialmente entre os pais que percebem uma irrefreável erosão das ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vptyuQEACAAJ",
+   "etag": "v8txm5EwdV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vptyuQEACAAJ",
+   "volumeInfo": {
+    "title": "Familia: Urgencias y turbulencias",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8427724721"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788427724723"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=vptyuQEACAAJ&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vptyuQEACAAJ&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Familia_Urgencias_y_turbulencias.html?hl=&id=vptyuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vptyuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kx5WDwAAQBAJ",
+   "etag": "ZrMZFvgo0G0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kx5WDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pré-adolescente",
+    "subtitle": "Um guia para entender seu filho",
+    "authors": [
+     "Daniela Tófoli"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2018-04-18",
+    "description": "De repente, seu filho não é mais uma criança. Mas também ainda não é adolescente! Ou, para complicar ainda mais, às vezes se comporta como um, às vezes age como outro. Para ajudar os pais a entenderem a pré-adolescência, essa fase da vida que vai dos 8 aos 12 anos,a jornalista Daniela Tófoli mostra todas as mudanças que acontecem na cabeça e no corpo do seu filho e aborda os principais desafios dessa etapa baseada em uma ampla análise das pesquisas mais recentes e de entrevistas com especialistas em saúde, educação e comportamento. Pré-adolescente – um guia para entender o seu filho vai apoiar as famílias nessa rica e desafiadora travessia entre a infância e a adolescência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525066411"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525066419"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kx5WDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kx5WDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kx5WDwAAQBAJ&pg=PT141&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kx5WDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kx5WDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.17,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kx5WDwAAQBAJ&rdid=book-kx5WDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.317E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A9_adolescente-sample-epub.acsm?id=kx5WDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pr%C3%A9_adolescente-sample-pdf.acsm?id=kx5WDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kx5WDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lídia S. Rocha de Macedo – psicóloga clínica, terapeuta de família, professora \u003cbr\u003e\ncolaboradora do Mestrado Profissional em Prevenção e Assistência a ... \u003cbr\u003e\nEscreveu, entre outros muitos livros, \u003cb\u003eFamília\u003c/b\u003e: \u003cb\u003eurgências e turbulências\u003c/b\u003e (Editora \u003cbr\u003e\nCortez)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "58pEAQAAIAAJ",
+   "etag": "gvkqMmQRlE0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/58pEAQAAIAAJ",
+   "volumeInfo": {
+    "title": "XXIV Bienal de São Paulo: Arte contemporânea Brasileira",
+    "authors": [
+     "Pavilhão Ciccillo Matarazzo (São Paulo, Brazil)"
+    ],
+    "publishedDate": "1998-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858529809X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585298098"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 4,
+    "printType": "BOOK",
+    "categories": [
+     "Art, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=58pEAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=58pEAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=58pEAQAAIAAJ&q=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=58pEAQAAIAAJ&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/XXIV_Bienal_de_S%C3%A3o_Paulo_Arte_contempor.html?hl=&id=58pEAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=58pEAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É como se todos passassem o dia desesperando-se com as \u003cb\u003eturbulências\u003c/b\u003e para \u003cbr\u003e\nacalmar-se à noite, quando a novela coloca em ... Os personagens da novela \u003cbr\u003e\ndas oito formam uma espécie de \u003cb\u003efamília\u003c/b\u003e-prótese plugada nos lares brasileiros \u003cbr\u003e\nque os ... Poderíamos considerar que a baixa antropofagia insere-se na tradição \u003cbr\u003e\ndesencarnada da elite brasileira, a qual não responde às \u003cb\u003eurgências\u003c/b\u003e de criação \u003cbr\u003e\nde&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kaAVcF_70CEC",
+   "etag": "oV0CKBnJFvk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kaAVcF_70CEC",
+   "volumeInfo": {
+    "title": "Magistro et amico",
+    "subtitle": "diez estudios en homenaje al profesor Enrique Giménez López",
+    "authors": [
+     "Enrique Giménez López",
+     "Antonio Mestre"
+    ],
+    "publisher": "Universidad de Alicante",
+    "publishedDate": "2012",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788497172073"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8497172078"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 309,
+    "printType": "BOOK",
+    "categories": [
+     "Historians"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kaAVcF_70CEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kaAVcF_70CEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=kaAVcF_70CEC&pg=PA292&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kaAVcF_70CEC&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Magistro_et_amico.html?hl=&id=kaAVcF_70CEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kaAVcF_70CEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Al parecer se trataba de una \u003cb\u003efamilia\u003c/b\u003e de labradores suficientemente acaudalados \u003cbr\u003e\ncomo para auxiliar en ocasiones las \u003cb\u003eurgencias\u003c/b\u003e del abasto. De hecho la hidalguía \u003cbr\u003e\nla había obtenido su padre en 1766 con ocasión de las \u003cb\u003eturbulencias\u003c/b\u003e del pan&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xugv0oR_WicC",
+   "etag": "POiQIXZwFAY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xugv0oR_WicC",
+   "volumeInfo": {
+    "title": "DICCIONARIO NUMISMATICO GENERAL",
+    "subtitle": "PARA LA PERFECTA INTELIGENCIA DE LAS MEDALLAS ANTIGUAS, SUS SIGNOS, NOTAS, E INSCRIPCIONES, Y GENERALMENTE DE TODO LO QUE SE CONTIENE EN ELLAS. CON INFORME DE LAS DEIDADES PAGANAS, Héroes, Ninfas, Reyes, Emperadores, Augustas, Personas, y Familias: de las Provincias, Regiones, Paises, Ciudades, Pueblos, Montes, Rios, Fuentes, Arboles, Plantas, Frutas, Animales, Aves, Peces, Edificios, Armas, Magistrados, Oficios, Dignidades, y demas de que se hace exprsion en ellas",
+    "authors": [
+     "Tomás Andrés de Gusseme y Delgado"
+    ],
+    "publishedDate": "1776",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NKP:1003122682"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xugv0oR_WicC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xugv0oR_WicC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=xugv0oR_WicC&pg=PA286&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xugv0oR_WicC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xugv0oR_WicC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=xugv0oR_WicC&rdid=book-xugv0oR_WicC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xugv0oR_WicC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Despues de la muerte de Julio Cesar en las \u003cb\u003eturbulencias\u003c/b\u003e de aquella ciudad tuvo \u003cbr\u003e\ná su cargo un considerable exército, y con él ... se quedó en Roma para ocurrir á \u003cbr\u003e\ngraves \u003cb\u003eurgencias\u003c/b\u003e, y sosegar espíritus perturbados , en cuya ocasion el primero á \u003cbr\u003e\nquien ... Sus medallas suelen andar confundidas con las de la \u003cb\u003efamilia\u003c/b\u003e Emilia, de \u003cbr\u003e\nque él era; pero separando las que tocan á su persona, se reducen á estas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oAlSAQAAMAAJ",
+   "etag": "unfG5imJouU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oAlSAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Diario de sesiones",
+    "publishedDate": "1953",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112109767266"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Uruguay"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oAlSAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oAlSAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=oAlSAQAAMAAJ&q=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oAlSAQAAMAAJ&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_de_sesiones.html?hl=&id=oAlSAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oAlSAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hemos dado preminencia, en nuestrae leyes de colonización y de viviendas, a la \u003cbr\u003e\n\u003cb\u003efamilia\u003c/b\u003e organizada. ... Hablemos ahora de algo que de un tiempo a esta parte \u003cbr\u003e\nocupa el primer plano de las inquietudes y de las \u003cb\u003eurgencias\u003c/b\u003e de todos los partidos \u003cbr\u003e\ny de todos los hombres el ... absolutamente todos, miramos en actitud \u003cbr\u003e\nesperanzada, y muchos con acento de reconciliación frente a las \u003cb\u003eturbulencias\u003c/b\u003e \u003cbr\u003e\nhumanas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mmuxbFMLgYIC",
+   "etag": "slIx6oSjgv0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mmuxbFMLgYIC",
+   "volumeInfo": {
+    "title": "Diario Oficial",
+    "authors": [
+     "Uruguay"
+    ],
+    "publishedDate": "1953-11-17",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:C2628188"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mmuxbFMLgYIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mmuxbFMLgYIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=mmuxbFMLgYIC&q=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mmuxbFMLgYIC&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_Oficial.html?hl=&id=mmuxbFMLgYIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mmuxbFMLgYIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hemos dado preminencia, en nuestrae leyes de colonización y de viviendas, a la \u003cbr\u003e\n\u003cb\u003efamilia\u003c/b\u003e organizada. Y hemos ... y de las \u003cb\u003eurgencias\u003c/b\u003e de todos los partidos y de \u003cbr\u003e\ntodos los hombres del país que tienen una cuota de responsabilidad en los \u003cbr\u003e\nasuntos públicos. ... Haeia ellos todos, absolutamente todos, miramos en actitud \u003cbr\u003e\nesperanzada, y muchos con acento de reconciliación frente a las \u003cb\u003eturbulencias\u003c/b\u003e \u003cbr\u003e\nhumanas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pAVHAAAAYAAJ",
+   "etag": "vCoSOf3oYuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pAVHAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Rompan filas",
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172135030307"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pAVHAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pAVHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=pAVHAAAAYAAJ&q=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pAVHAAAAYAAJ&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rompan_filas.html?hl=&id=pAVHAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pAVHAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "La época de la adolescencia es una época de \u003cb\u003eturbulencia\u003c/b\u003e en comparación con \u003cbr\u003e\nla edad anterior, la escolar. ... Los servicios de \u003cb\u003eurgencias\u003c/b\u003e atienden las \u003cbr\u003e\ncondiciones que de manera súbita o inesperada ponen en peligro la vida del \u003cbr\u003e\nindividuo o que afectan la función de ... Esto tiene particular importancia cuando \u003cbr\u003e\nse trata de niños o jóvenes ya que representan el centro de una \u003cb\u003efamilia\u003c/b\u003e y el \u003cbr\u003e\nfuturo de la patria."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FjoHAAAAMAAJ",
+   "etag": "jdF2Gyy6uGs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FjoHAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Teoría de las Cortes",
+    "authors": [
+     "Francisco Martínez Marina",
+     "José Manuel Pérez-Prendes y Muñoz de Arracó"
+    ],
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8427605013"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788427605015"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1704,
+    "printType": "BOOK",
+    "categories": [
+     "Constitutional history"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FjoHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FjoHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=FjoHAAAAMAAJ&q=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FjoHAAAAMAAJ&dq=Fam%C3%ADlia+-+Urg%C3%AAncias+e+turbul%C3%AAncias&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teor%C3%ADa_de_las_Cortes.html?hl=&id=FjoHAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FjoHAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... de su heredero antes de reconocerle: porque habiéndose establecido para \u003cbr\u003e\nevitar las inquietudes y \u003cb\u003eturbulencias\u003c/b\u003e de la ... las gravisimas \u003cb\u003eurgencias\u003c/b\u003e del estado, \u003cbr\u003e\ny no haber á la sazon persona de la \u003cb\u003efamilia\u003c/b\u003e Real capaz de llevar las riendas del\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

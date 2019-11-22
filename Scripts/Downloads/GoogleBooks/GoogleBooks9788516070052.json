@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MzsKtwAACAAJ",
+   "etag": "rER6LPmCzdo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MzsKtwAACAAJ",
+   "volumeInfo": {
+    "title": "A garota da capa vermelha",
+    "authors": [
+     "Sarah Blakley-Cartwright",
+     "David Leslie Johnson",
+     "Paulo Afonso",
+     "Ligia Arata Guimaraes Barros"
+    ],
+    "publishedDate": "2011",
+    "description": "O corpo de uma garota é descoberto em um campo de trigo. Em sua carne mutilada, marcas de garras. Quando Valerie descobre que sua irmã foi assassinada pela lendária criatura, ela acaba mergulhando de forma irreversível em um grande mistério que vem amaldiçoando sua aldeia por gerações. A revelação vem com Father Solomon - o Lobo que está entre eles - o que torna qualquer pessoa do vilarejo suspeita. Estaria Peter, sua paixão secreta desde a infância, envolvido nos ataques? Ou seria Henry, seu noivo, o Lobisomem que assola as redondezas? Enquanto todos estão à caça da besta, Valerie recorre à Avó em busca de ajuda, que dá à neta uma capa vermelha feita à mão e a orienta através da rede de mentiras, intrigas e decepções que vem controlando o vilarejo por muito tempo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516070050"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516070052"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 339,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MzsKtwAACAAJ&dq=isbn:9788516070052&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=MzsKtwAACAAJ&dq=isbn:9788516070052&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_garota_da_capa_vermelha.html?hl=&id=MzsKtwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MzsKtwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O corpo de uma garota é descoberto em um campo de trigo."
+   }
+  }
+ ]
+}

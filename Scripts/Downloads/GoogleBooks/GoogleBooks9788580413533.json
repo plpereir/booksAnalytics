@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Q2xHvgAACAAJ",
+   "etag": "hFShWYk1SsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q2xHvgAACAAJ",
+   "volumeInfo": {
+    "title": "A MUSICA DO SILENCIO",
+    "authors": [
+     "PATRICK ROTHFUSS",
+     "VERA RIBEIRO"
+    ],
+    "description": "Debaixo da Universidade, bem lá no fundo, há um lugar escuro. Poucas pessoas sabem de sua existência, uma rede descontínua de antigas passagens e cômodos abandonados. Ali, bem no meio desse local esquecido, situado no coração dos Subterrâneos, vive uma jovem. Seu nome é Auri, e ela é cheia de mistérios. A música do silêncio é um recorte breve e agridoce de sua vida, uma pequena aventura só dela. Ao mesmo tempo alegre e inquietante, esta história oferece a oportunidade de enxergar o mundo pelos olhos de Auri. E dá a chance de conhecer algumas coisas que só ela sabe...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580413532"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580413533"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q2xHvgAACAAJ&dq=isbn:9788580413533&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Q2xHvgAACAAJ&dq=isbn:9788580413533&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_MUSICA_DO_SILENCIO.html?hl=&id=Q2xHvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q2xHvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seu nome é Auri, e ela é cheia de mistérios. A música do silêncio é um recorte breve e agridoce de sua vida, uma pequena aventura só dela."
+   }
+  }
+ ]
+}

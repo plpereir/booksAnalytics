@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wiWLtAEACAAJ",
+   "etag": "oDMCJ3fJ3YQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wiWLtAEACAAJ",
+   "volumeInfo": {
+    "title": "Um livro de cinco anéis",
+    "authors": [
+     "Miyamoto Musashi",
+     "Jose Yamashiro"
+    ],
+    "publishedDate": "1984",
+    "description": "Um tratado de artes marciais escrito no século XVII por Miyamoto Musashi, o samurai invencível, Gorin No Sho desenha os princípios do pensamento estratégico e sua aplicação em qualquer combate. Mais do que isso, porém, ele reflete o caminho do guerreiro na busca de sabedoria. E como Escreve Musashi- Na travessia da vida, uma pessoa certamente terá de superar correntes críticas em muitos lugares. (...) Disposição para transpor obstáculos é necessária na travessia da vida - o que exige espírito separado para superar quaisquer acontecimentos críticos. Na arte militar,igualmente, durante um combate, é essencial vencer os momentos críticos, conhecendo a capacidade do adversário e utilizando corretamente a própria competência. dessa forma, apoiado em seus conhecimentos e em seus prícipios - tal como um bom navegante supera sua rota marítima -, alcaçará a tranquilidade de espírito, atravessando as correntes críticas. Do domínio de sua armaou do seu ofício, o homem chega ao domínio de si e, em consequência, á vitório nas mais diversas situações. Este é um livro de cabeceira, agora em edição especial, para quem ambiciona vencer.Nos negócios e na vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542806026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542806021"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 105,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wiWLtAEACAAJ&dq=isbn:9788542806021&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wiWLtAEACAAJ&dq=isbn:9788542806021&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_livro_de_cinco_an%C3%A9is.html?hl=&id=wiWLtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wiWLtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um tratado de artes marciais escrito no século XVII por Miyamoto Musashi, o samurai invencível, Gorin No Sho desenha os princípios do pensamento estratégico e sua aplicação em qualquer combate."
+   }
+  }
+ ]
+}

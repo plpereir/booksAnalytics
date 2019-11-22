@@ -1,0 +1,806 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 20,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xTHDDAAAQBAJ",
+   "etag": "uwL7gNe4+qY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xTHDDAAAQBAJ",
+   "volumeInfo": {
+    "title": "A garota do calendário: Março",
+    "authors": [
+     "Audrey Carlan"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2016-07-22",
+    "description": "Fenômeno editorial nos Estados Unidos com mais de 2,5 milhões de cópias vendidas Mia Saunders precisa de dinheiro. Muito dinheiro. Ela tem um ano para pagar o agiota que está ameaçando a vida de seu pai por causa de uma dívida de jogo. Um milhão de dólares, para ser mais exato. A missão de Mia é simples: trabalhar como acompanhante de luxo na empresa de sua tia e pagar mensalmente a dívida. Um mês em uma nova cidade com um homem rico, com quem ela não precisa transar se não quiser? Dinheiro fácil. Parte do plano é manter o seu coração selado e os olhos na recompensa. Ao menos era assim que deveria ser... Mia vai passar o mês de março em Chicago com o empresário Anthony Fasano, que a contrata para fingir ser noiva dele. A princípio Mia não entende por que um homem tão lindo e másculo precisa de uma falsa noiva, mas ela está prestes a descobrir...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576865391"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576865394"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.25.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xTHDDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xTHDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xTHDDAAAQBAJ&printsec=frontcover&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xTHDDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xTHDDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xTHDDAAAQBAJ&rdid=book-xTHDDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.176E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_garota_do_calend%C3%A1rio_Mar%C3%A7o-sample-epub.acsm?id=xTHDDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_garota_do_calend%C3%A1rio_Mar%C3%A7o-sample-pdf.acsm?id=xTHDDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xTHDDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fenômeno editorial nos Estados Unidos com mais de 2,5 milhões de cópias vendidas Mia Saunders precisa de dinheiro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ORMAQAAIAAJ",
+   "etag": "js7DJfrW5cA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ORMAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Alceu Penna e as garotas do Brasil",
+    "subtitle": "moda e imprensa, 1933 a 1975",
+    "authors": [
+     "Gonçalo Júnior"
+    ],
+    "publishedDate": "2011-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105217858625"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Fashion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5ORMAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5ORMAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5ORMAQAAIAAJ&q=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5ORMAQAAIAAJ&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Alceu_Penna_e_as_garotas_do_Brasil.html?hl=&id=5ORMAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5ORMAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em português, poderia ser vulgarmente definida como \u003cb\u003ea\u003c/b\u003e &quot;\u003cb\u003egarota\u003c/b\u003e do poster da \u003cbr\u003e\nborracharia&quot; ou &quot;do \u003cb\u003ecalendário\u003c/b\u003e&quot;. ... Essa mesma popularidade só aumentaria \u003cbr\u003e\ndepois do fim da guerra, o que fez desse recurso gráfico um \u003cb\u003emarco\u003c/b\u003e na imprensa \u003cbr\u003e\ntípico&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i4flDQAAQBAJ",
+   "etag": "ghC4QnP/+Oc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i4flDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Nujeen: a incrível jornada de uma garota que fugiu da guerra na Síria em uma cadeira de rodas",
+    "subtitle": "",
+    "authors": [
+     "Christina Lamb",
+     "Nujeen Mustafa"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2017-01-13",
+    "description": "A emocionante jornada de uma garota que fugiu da guerra na Síria em uma cadeira de rodas e se tornou inspiração para milhares de pessoas em meio a uma tragédia humanitária. Escrito pela mesma coautora de “Eu sou Malala”. Christina Lamb, premiada jornalista e coautora do best-seller Eu sou Malala, agora conta a história inspiradora de outra notável jovem heroína: Nujeen Mustafa. A angustiante jornada de Nujeen para fugir da Síria devastada pela guerra até chegar à Alemanha é uma história empolgante de força, coragem e esperança que dá um rosto para a grande questão humanitária do nosso tempo: a crise dos refugiados sírios. Para milhões de pessoas ao redor do mundo, essa adolescente de dezessete anos personifica o melhor do espírito humano. Com a locomoção limitada à cadeira de rodas devido à paralisia cerebral e sem poder frequentar a escola na Síria por causa de sua doença, Nujeen aprendeu inglês sozinha, assistindo a novelas americanas na TV. Quando sua pequena cidade se transformou no epicentro do combate brutal entre os militantes do Estado Islâmico e os soldados curdos apoiados pelos EUA, em 2014, ela e sua família foram obrigados a fugir. Apesar de suas limitações físicas, Nujeen iniciou a árdua jornada rumo à segurança e a uma nova vida. A exaustiva odisseia de dezesseis meses incluiu viagens de ônibus e travessias em botes, através da Turquia e do Mar Mediterrâneo até a Grécia, através da Macedônia até a Sérvia e a Hungria e, finalmente, até a Alemanha. Ainda assim, apesar de todas as dificuldades físicas, o extraordinário otimismo de Nujeen jamais esmoreceu. Ela manteve a cabeça erguida, recusando-se a ceder ao desespero ou a enxergar a si mesma como uma vítima passiva. “Você precisa lutar para conseguir o que deseja neste mundo”, disse a um repórter da BBC. A positividade e a coragem de Nujeen permeiam esta história inesquecível de uma jovem determinada a encontrar uma vida melhor para si mesma. Este é um livro de memórias poderoso e único, que retrata a crise dos refugiados sírios, ajudando-nos a entender que o mundo precisa mudar, ao mesmo tempo em que nos oferece a inspiração para transformar essa mudança em realidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550301174"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550301175"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i4flDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i4flDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=i4flDQAAQBAJ&pg=PT33&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=i4flDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-i4flDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=i4flDQAAQBAJ&rdid=book-i4flDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nujeen_a_incr%C3%ADvel_jornada_de_uma_garota-sample-epub.acsm?id=i4flDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nujeen_a_incr%C3%ADvel_jornada_de_uma_garota-sample-pdf.acsm?id=i4flDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i4flDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Odeio esse dia – gostaria \u003cb\u003ede\u003c/b\u003e poder apagálo do \u003cb\u003ecalendário\u003c/b\u003e. ... \u003cb\u003eMarço\u003c/b\u003e na verdade \u003cbr\u003e\né \u003cb\u003ea\u003c/b\u003e melhor e a pior época para os curdos porque é o mês do nosso festival anual\u003cbr\u003e\n, o Newroz, que marca o início da primavera; compartilhamos esse festival com&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7SiN87tAHi0C",
+   "etag": "7eShrX8uuQk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7SiN87tAHi0C",
+   "volumeInfo": {
+    "title": "Almanhaque para 1949, Primeiro Semestre ou Almanhaque d'A Manha",
+    "publisher": "EdUSP",
+    "publishedDate": "2002",
+    "description": "Paródia dos almanaques tradicionais, o 'Almanhaque' reunia textos de Aparício Torelly, o 'Barão de Itararé' além de passatempos, jogos, anedotas, quadrinhas e contos humorísticos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853140696X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531406966"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian wit and humor"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7SiN87tAHi0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7SiN87tAHi0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7SiN87tAHi0C&pg=PA22&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7SiN87tAHi0C&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Almanhaque_para_1949_Primeiro_Semestre_o.html?hl=&id=7SiN87tAHi0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7SiN87tAHi0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fieis \u003cb\u003ea\u003c/b\u003e este bélo programa igualitário, elaboramos um projeto cie reforma do \u003cbr\u003e\natual \u003cb\u003ecalendário\u003c/b\u003e, que apontamos com \u003cb\u003euma\u003c/b\u003e das causas da desordem reinante no \u003cbr\u003e\nmundo. O papa ... Para isto, vamos expropriar um dia \u003cb\u003ede\u003c/b\u003e janeiro, tiramos \u003cbr\u003e\ncompulsoriamente outro dia \u003cb\u003ede março\u003c/b\u003e e entregaremos ... \u003cb\u003eA\u003c/b\u003e gente péga esse dia \u003cbr\u003e\npara ir tomar banho \u003cb\u003ede\u003c/b\u003e mar com as \u003cb\u003egarotas\u003c/b\u003e e beber limonada \u003cb\u003ede\u003c/b\u003e canudo até \u003cbr\u003e\ndoer \u003cb\u003ea\u003c/b\u003e barriga."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pse5CgAAQBAJ",
+   "etag": "DioDcoQsRrc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pse5CgAAQBAJ",
+   "volumeInfo": {
+    "title": "Capitolina",
+    "subtitle": "O poder das garotas",
+    "authors": [
+     "Várias autoras"
+    ],
+    "publisher": "Editora Seguinte",
+    "publishedDate": "2015-10-12",
+    "description": "Textos escritos e ilustrados por garotas que buscam representar todas as jovens, inclusive as que não se encaixam nos moldes tradicionais da adolescência. A revista on-line Capitolina surgiu em 2014 como uma alternativa à mídia tradicional voltada para meninas adolescentes. Sua proposta é criar um conteúdo colaborativo, inclusivo e livre de preconceitos, abordando temas como relacionamentos, feminismo, cinema, moda, games, viagens e muito mais. Esta edição reúne os melhores textos publicados em um ano de revista, além de vários artigos inéditos, todos eles ilustrados. No total, são 41 jovens escritoras e 23 artistas talentosas. As leitoras vão encontrar conselhos, dicas, reflexões, muito apoio e, principalmente, a sensação de que não estão sozinhas. A edição digital é especial pois traz diversos links para vídeos, músicas e outros artigos da Capitolina relacionados a cada tema, e ainda vem acompanhada de um Caderno de Atividades disponível on-line para imprimir. Nele você encontrará atividades (algumas totalmente inéditas!) para interagir depois de ler cada um dos textos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543803975"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543803977"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.9.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pse5CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pse5CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pse5CgAAQBAJ&pg=PT111&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pse5CgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pse5CgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pse5CgAAQBAJ&rdid=book-pse5CgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Capitolina-sample-epub.acsm?id=pse5CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Capitolina-sample-pdf.acsm?id=pse5CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pse5CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O poder das \u003cb\u003egarotas\u003c/b\u003e Várias autoras. trancadas dentro da fábrica, que foi \u003cbr\u003e\nincendiada, e o Dia da Mulher teria sido criado em homenagem \u003cb\u003ea\u003c/b\u003e essas vítimas. \u003cbr\u003e\nEntretanto ... do setor \u003cb\u003ede\u003c/b\u003e tecelagem, no dia 23 \u003cb\u003ede\u003c/b\u003e fevereiro do \u003cb\u003ecalendário\u003c/b\u003e juliano \u003cbr\u003e\ne 8 \u003cb\u003ede março\u003c/b\u003e no \u003cb\u003ecalendário\u003c/b\u003e gregoriano, que teria sido o estopim da Revolução \u003cbr\u003e\nRussa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sJwqDwAAQBAJ",
+   "etag": "h0JK3CRJ4YQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sJwqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Poliana Okimoto",
+    "subtitle": "",
+    "authors": [
+     "Daniel Takata Gomes",
+     "Helio de la Peña"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2017-07-10",
+    "description": "“Poliana Okimoto é a maior nadadora da história do Brasil.” Cesar Cielo - (Campeão olímpico e recordista mundial) Em um país que valoriza pouco seus atletas, a trajetória de Poliana Okimoto serve de inspiração para uma legião de nadadores. Sua medalha olímpica, conquistada em 2016 no Rio de Janeiro na maratona aquática, foi a primeira obtida por uma mulher brasileira na natação. Poliana precisou de muito trabalho e paciência para chegar lá, percorrendo um caminho repleto de alegria, decepção, superação, pioneirismo e glória. Esta obra é o relato de uma história de perseverança, esforço e realização, que serve de exemplo para atletas e não atletas, além de um importante registro para a memória esportiva brasileira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788552000143"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8552000148"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sJwqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sJwqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sJwqDwAAQBAJ&pg=PT21&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sJwqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sJwqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sJwqDwAAQBAJ&rdid=book-sJwqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Poliana_Okimoto-sample-epub.acsm?id=sJwqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Poliana_Okimoto-sample-pdf.acsm?id=sJwqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sJwqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em muitos aspectos, ela realmente se parece com \u003cb\u003ea garota\u003c/b\u003e do livro, em especial \u003cbr\u003e\nno sentido \u003cb\u003ede\u003c/b\u003e sempre tentar tirar algo positivo das ... Aquela que viria \u003cb\u003ea\u003c/b\u003e ser \u003cb\u003euma\u003c/b\u003e \u003cbr\u003e\npioneira em várias conquistas para \u003cb\u003ea\u003c/b\u003e natação feminina do país nasceu no dia 8 \u003cbr\u003e\n\u003cb\u003ede março\u003c/b\u003e. Dia Internacional da Mulher. Estava escrito também no \u003cb\u003ecalendário\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "buFxAwAAQBAJ",
+   "etag": "C/wwLfSjqAo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/buFxAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Rakushisha",
+    "authors": [
+     "Adriana Lisboa"
+    ],
+    "publisher": "Suma",
+    "publishedDate": "2014-04-29",
+    "description": "Haruki é um desenhista carioca, de origem nipônica, que é convidado para ilustrar a tradução de uma clássica obra japonesa, o Diário de Saga, de Matsuo Bashō. Diante do desafio, ele resolve passar um tempo no país de seus antepassados — algo que nunca havia pensado em fazer antes. Às vésperas da viagem, num vagão de metrô do Rio de Janeiro, seu destino se cruza com o de Celina, uma mulher enigmática com quem estabelece uma conexão imediata. Em um gesto impensado, o desenhista a convida para ir com ele ao Japão, numa viagem que irá mudar o rumo de suas vidas. Em um país tão distinto de sua realidade brasileira, os dois encontram a liberdade necessária para acertar as contas com o passado e trilham um caminho vertiginoso para dentro de seus próprios sentimentos. Uma das vozes mais vibrantes da literatura brasileira contemporânea, Adriana Lisboa descortina, em \"Rakushisha\", o Japão moderno, suas cores e sua cultura, ao mesmo tempo em que mergulha nas contradições e na poesia da própria natureza humana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579623059"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579623057"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=buFxAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=buFxAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=buFxAwAAQBAJ&pg=PT63&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=buFxAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-buFxAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=buFxAwAAQBAJ&rdid=book-buFxAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rakushisha-sample-epub.acsm?id=buFxAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rakushisha-sample-pdf.acsm?id=buFxAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=buFxAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMarco\u003c/b\u003e. As coisas que faziam pensar em \u003cb\u003eMarco\u003c/b\u003e. Duas bolachas \u003cb\u003ede\u003c/b\u003e chope: \u003cbr\u003e\nAlchemy Ale, Pints Pub, Denver, Colorado. As anotações rabiscadas no seu \u003cbr\u003e\nimenso \u003cb\u003ecalendário\u003c/b\u003e do Greenpeace que ficava pendurado na cozinha (números \u003cbr\u003e\nque só ele sabia \u003cb\u003ea\u003c/b\u003e que se referiam, iniciais, palavras ... O amasso no ônibus com \u003cbr\u003e\n\u003cb\u003euma garota\u003c/b\u003e desconhecida na viagem até \u003cb\u003ea\u003c/b\u003e Argentina, aos dezenove anos (e \u003cbr\u003e\ndepois os dois&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3Kw8AQAAIAAJ",
+   "etag": "ZjnKRLShHBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3Kw8AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Veja Rio",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105123432127"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3Kw8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3Kw8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3Kw8AQAAIAAJ&q=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3Kw8AQAAIAAJ&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja_Rio.html?hl=&id=3Kw8AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3Kw8AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Curta Petrobras às Seis: Im- minente Luna, \u003cb\u003ede\u003c/b\u003e Maurício Lanzara; Dona Cristina \u003cbr\u003e\nPerdeu \u003cb\u003ea\u003c/b\u003e Memória, \u003cb\u003ede\u003c/b\u003e Ana Luiza Azevedo; ... Rua Primeiro \u003cb\u003ede Março\u003c/b\u003e, 66, Centro, \u003cbr\u003e\n« 3808-2020. ... Sessão Telecine: As \u003cb\u003eGarotas do Calendário\u003c/b\u003e, \u003cb\u003ede\u003c/b\u003e Nigel Cole."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Eq6Wa_DYS7sC",
+   "etag": "xcJ7i3jeZ+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Eq6Wa_DYS7sC",
+   "volumeInfo": {
+    "title": "hospício no japão I, Um",
+    "authors": [
+     "MORIO KITA"
+    ],
+    "publisher": "Marco Zero",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8527900939"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788527900935"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Eq6Wa_DYS7sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Eq6Wa_DYS7sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Eq6Wa_DYS7sC&pg=PA497&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Eq6Wa_DYS7sC&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/hosp%C3%ADcio_no_jap%C3%A3o_I_Um.html?hl=&id=Eq6Wa_DYS7sC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Eq6Wa_DYS7sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As \u003cb\u003egarotas\u003c/b\u003e tinham certeza \u003cb\u003ede\u003c/b\u003e que ela dissera isso. ... do \u003cb\u003ecalendário\u003c/b\u003e imperial, \u003cbr\u003e\ntendo o primeiro Imperador supostamente subido ao trono em 660 a.C. Isso \u003cbr\u003e\nexigia \u003cb\u003euma\u003c/b\u003e celebração condigna, pois \u003cb\u003ea\u003c/b\u003e solene data \u003cb\u003ede\u003c/b\u003e 2600 fornecia \u003cb\u003eà\u003c/b\u003e mídia \u003cbr\u003e\num&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XpAwAAAAYAAJ",
+   "etag": "3bA2KaWYkSo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XpAwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172149299730"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XpAwAAAAYAAJ&q=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XpAwAAAAYAAJ&dq=A+garota+do+calend%C3%A1rio+%E2%80%93+Mar%C3%A7o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=XpAwAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XpAwAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Promoção \u003cb\u003ede\u003c/b\u003e segunda \u003cb\u003ea\u003c/b\u003e quarta, exceto feriados, R$ 10,00 nas sessões iniciadas \u003cbr\u003e\nantes \u003cb\u003ede\u003c/b\u003e 14h e depois \u003cb\u003ede\u003c/b\u003e 21h. MO SUL Sala ... Rua Primeiro \u003cb\u003ede Março\u003c/b\u003e, 66, \u003cbr\u003e\nCentro, w 3808-2020. ... Sessão Telecíne: As \u003cb\u003eGarotas do Calendário\u003c/b\u003e, \u003cb\u003ede\u003c/b\u003e Nigel \u003cbr\u003e\nCole."
+   }
+  }
+ ]
+}

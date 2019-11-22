@@ -1,0 +1,910 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 113,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LkgXox8dUqwC",
+   "etag": "oZlhg9POVE0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LkgXox8dUqwC",
+   "volumeInfo": {
+    "title": "O destino do tigre",
+    "authors": [
+     "Colleen Houck"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2013-04-09",
+    "description": "Kelsey, Ren e Kishan sobreviveram a três aventuras dramáticas e muitas provações. Mas, antes que possam partir na busca pelo último presente da deusa Durga, têm que enfrentar o feiticeiro Lokesh em seu próprio território.O vilão sequestrou Kelsey e já detém o poder de três amuletos. Ela precisa escapar de suas garras para quebrar a maldição do tigre, libertando seus amados príncipes. Esse, porém, é apenas o início da história em que escolhas difíceis e decisivas devem ser feitas por todos.O elemento principal agora é o fogo, e em meio a lava, demônios, animais fantásticos e zumbis, o trio enfrenta seu derradeiro desafio. O caminho é arriscado e cheio de reviravoltas potencialmente fatais. Só uma coisa é certa: ninguém pode fugir de seu destino.A saga dos tigres chega ao auge. Nunca antes Kelsey, Ren e Kishan sofreram tanto, estiveram tão unidos e precisaram lutar contra inimigos com tamanho poder. Emocionante do início ao fim, O destino do tigre explica todos os mistérios que unem os personagens e promete surpreender os leitores.\"Preparem-se para paixões abrasadoras, uma batalha épica e uma escolha definitiva. Os fãs vão ficar com os olhos marejados e o coração na boca!\" – Kirkus Reviews",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580411546"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580411548"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.16.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LkgXox8dUqwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LkgXox8dUqwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LkgXox8dUqwC&printsec=frontcover&dq=O+destino+do+tigre&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LkgXox8dUqwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LkgXox8dUqwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LkgXox8dUqwC&rdid=book-LkgXox8dUqwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_destino_do_tigre-sample-epub.acsm?id=LkgXox8dUqwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_destino_do_tigre-sample-pdf.acsm?id=LkgXox8dUqwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LkgXox8dUqwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Emocionante do início ao fim, O destino do tigre explica todos os mistérios que unem os personagens e promete surpreender os leitores. &quot;Preparem-se para paixões abrasadoras, uma batalha épica e uma escolha definitiva."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h40uBgAAQBAJ",
+   "etag": "lMybUeo76Pg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h40uBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Box A maldição do tigre",
+    "subtitle": "Série completa com 5 títulos - A maldição do tigre, O resgate do tigre, A viagem do tigre, O destino do tigre e A promessa do tigre",
+    "authors": [
+     "Colleen Houck"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2014-12-22",
+    "description": "Quando a jovem órfã Kelsey Hayes vai trabalhar no circo da cidade e se encanta pelo tigre Ren, não imagina que ele na verdade é o príncipe indiano Alagan Dhiren Rajaram. Determinada a ajudá-lo, ela embarca em uma perigosa jornada pela Índia, onde enfrenta criaturas imortais e mundos místicos.A maldição do tigre Ao desejar que o tigre Ren seja livre, Kelsey acaba tornando possível que ele volte a ser Dhiren, o príncipe indiano amaldiçoado há 300 anos por um feiticeiro. Mas Ren só pode assumir a forma humana durante 24 minutos por dia e, para quebrar de vez a maldição, precisa convencer Kelsey a desvendar uma profecia e enfrentar grandes desafios na busca pelas oferendas à deusa Durga.O resgate do tigre Ameaças terríveis obrigam Kelsey a encarar uma nova busca – dessa vez com Kishan, o irmão bad boy de Ren –, e a dupla improvável começa a questionar seu destino. A vida de Ren está por um fio, assim como a verdade no coração de Kelsey.A viagem do tigre Kelsey e os príncipes-tigres precisam superar dragões míticos e riscos terríveis, e a montanha-russa emocional se torna mais angustiante do que nunca. O desprezível Lokesh, irritado pela recente derrota sofrida, está à espreita, deixando claro que, para desfazer a maldição, Kelsey precisa passar por ele primeiro.O destino do tigre Antes que possam procurar o último presente da deusa Durga, Kelsey, Ren e Kishan têm que enfrentar o feiticeiro Lokesh em seu próprio território. Em meio a lava, demônios, animais fantásticos e zumbis, o trio enfrenta seu derradeiro desafio.A promessa do tigre Mais de 300 anos antes de Kelsey surgir na vida de Ren e Kishan, a jovem Yesubai cruzou o caminho dos príncipes. Seu amor por um deles mudou o curso da história e o destino da família Rajaram. Este livro revela os acontecimentos que deram origem à saga A maldição do tigre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580411706"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858041170X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1808,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.21.20.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h40uBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h40uBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h40uBgAAQBAJ&printsec=frontcover&dq=O+destino+do+tigre&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=h40uBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-h40uBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=h40uBgAAQBAJ&rdid=book-h40uBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Box_A_maldi%C3%A7%C3%A3o_do_tigre-sample-epub.acsm?id=h40uBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Box_A_maldi%C3%A7%C3%A3o_do_tigre-sample-pdf.acsm?id=h40uBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h40uBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando a jovem órfã Kelsey Hayes vai trabalhar no circo da cidade e se encanta pelo tigre Ren, não imagina que ele na verdade é o príncipe indiano Alagan Dhiren Rajaram."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oyoIBAAAQBAJ",
+   "etag": "KZhxOynRuA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oyoIBAAAQBAJ",
+   "volumeInfo": {
+    "title": "A promessa do tigre",
+    "authors": [
+     "Colleen Houck"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2014-08-05",
+    "description": "Medo. Esperança. Dúvidas. Antes da maldição, uma promessa. Mais de 300 anos antes de Kelsey Hayes surgir na vida de Ren e Kishan, uma jovem cruzou o caminho dos príncipes. Seu amor por um deles mudou o curso da história e o destino da família Rajaram. Criada longe dos olhos da corte, isolada do convívio no castelo, Yesubai luta para suportar os maus-tratos do pai e manter em segredo suas habilidades mágicas. Lokesh é um poderoso e cruel feiticeiro que foi capaz de assassinar a própria esposa porque ela lhe deu uma filha em vez de um filho. Ao completar 16 anos, Yesubai é surpreendida por um anúncio do rei. Procurando fortalecer suas relações diplomáticas, o nobre acredita que um casamento entre a filha de Lokesh, comandante de seu exército, e um pretendente de algum dos reinos vizinhos será uma boa estratégia para diminuir os conflitos na região. A jovem recebe a notícia com alegria. Pela primeira vez ela enxerga um fio de esperança, a perspectiva de escapar do controle do pai e de levar uma vida fora do confinamento de seus aposentos. Mas esses não são os planos do feiticeiro. Ele vê no iminente casamento de Yesubai uma oportunidade de conseguir ainda mais poder e não poupará esforços para atingir seus objetivos sombrios. A promessa do tigre conta a origem da história dos príncipes Ren e Kishan e os acontecimentos que levaram às aventuras da aclamada série A maldição do tigre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580413021"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580413028"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oyoIBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oyoIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oyoIBAAAQBAJ&printsec=frontcover&dq=O+destino+do+tigre&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oyoIBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oyoIBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oyoIBAAAQBAJ&rdid=book-oyoIBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_promessa_do_tigre-sample-epub.acsm?id=oyoIBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_promessa_do_tigre-sample-pdf.acsm?id=oyoIBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oyoIBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A promessa do tigre conta a origem da história dos príncipes Ren e Kishan e os acontecimentos que levaram às aventuras da aclamada série A maldição do tigre."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0IRjDwAAQBAJ",
+   "etag": "Ww+chmzyVio",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0IRjDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O sonho do tigre",
+    "authors": [
+     "Colleen Houck"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2018-08-01",
+    "description": "Com a derrota do feiticeiro Lokesh, só parecia restar ao príncipe Kishan Rajaram passar a eternidade cumprindo a promessa de proteger a linda e irascível deusa Durga. Preso no passado, ele sofre depois que seu irmão, Ren, e Kelsey, a garota que ambos amam, voltam ao presente e começam a viver o seu \"felizes para sempre\".Então, quando o xamã Phet aparece pedindo sua ajuda para salvar Kelsey, Kishan agarra a oportunidade com unhas e dentes, disposto a voltar atrás na sua decisão de ficar no passado e assim mudar seu destino. O tigre negro está prestes a descobrir que aquilo que parece o fim pode ser apenas um recomeço...Com um desfecho extraordinário, a autora Colleen Houck apresenta neste quinto volume uma visão completa da empolgante saga dos tigres. Numa complexa teia de viagens pelo tempo, Kishan e Durga concluem, entre idas e vindas, uma tarefa após a outra para garantir que a linha traçada para o destino da humanidade seja cumprida – o tempo todo lutando contra a tentação de interferir e redesenhar o futuro.\"A maneira como Colleen tece a cultura indiana, o hinduísmo e o conto de fadas criado por ela, transformando-os em uma história de amor repleta de ação, é arrebatadora.\" – blog Hollywood Crush, MTV.com\"Uma montanha-russa do começo ao fim: este livro tem ação, história, poesia, romance, magia, tudo o que você poderia querer. Um livro com tanta paixão e emoção que você não será capaz de largá-lo.\" – RT Book Review\"Colleen Houck claramente foi fundo em suas pesquisas sobre a cultura indiana e, com isso, criou descrições detalhadas capazes de fazer os leitores visualizarem os cenários da história com perfeição.\" – School Library Journal",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580418743"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580418747"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0IRjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0IRjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0IRjDwAAQBAJ&pg=PT5&dq=O+destino+do+tigre&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0IRjDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0IRjDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0IRjDwAAQBAJ&rdid=book-0IRjDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_sonho_do_tigre-sample-epub.acsm?id=0IRjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0IRjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CATALOGAÇÃO NA PUBLICAÇÃO SINDICATO NACIONAL DOS EDITORES DE \u003cbr\u003e\nLIVROS, RJ H831s Houck, Colleen \u003cb\u003eO\u003c/b\u003e sonho do \u003cb\u003etigre\u003c/b\u003e [recurso eletrônico] / \u003cbr\u003e\nColleen Houck; tradução de Raquel Zampil. São Paulo: Arqueiro, 2018. recurso\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JbNRNMLkTSkC",
+   "etag": "NdbCkHTLQ/E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JbNRNMLkTSkC",
+   "volumeInfo": {
+    "title": "A viagem do tigre",
+    "authors": [
+     "Colleen Houck"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2012-12-28",
+    "description": "Em sua terceira busca, a jovem Kelsey Hayes e seus tigres precisam vencer desafios incríveis propostos por cinco dragões míticos. O elemento comum é a água, e o cenário de mar aberto obriga Kelsey a enfrentar seus piores temores. Dessa vez, sua missão é encontrar o Colar de Pérolas Negras de Durga e tentar libertar seu amado Ren tanto da maldição do tigre quanto de sua repentina amnésia. No entanto o irmão dele, Kishan, tem outros planos, e os dois competem por sua afeição, além de afastarem aqueles que planejam frustrar seus objetivos. Em A viagem do tigre, terceiro volume da série A maldição do tigre, Kelsey, Ren e Kishan retomam a jornada em direção ao seu verdadeiro destino numa história com muito suspense, criaturas encantadas, corações partidos e ação de primeira. A épica saga dos tigres já foi lançada em 18 países e ocupou os primeiros lugares na lista dos mais vendidos do The New York Times.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580411188"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580411181"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.6.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JbNRNMLkTSkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JbNRNMLkTSkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JbNRNMLkTSkC&printsec=frontcover&dq=O+destino+do+tigre&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JbNRNMLkTSkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JbNRNMLkTSkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JbNRNMLkTSkC&rdid=book-JbNRNMLkTSkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_viagem_do_tigre-sample-epub.acsm?id=JbNRNMLkTSkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_viagem_do_tigre-sample-pdf.acsm?id=JbNRNMLkTSkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JbNRNMLkTSkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em A viagem do tigre, terceiro volume da série A maldição do tigre, Kelsey, Ren e Kishan retomam a jornada em direção ao seu verdadeiro destino numa história com muito suspense, criaturas encantadas, corações partidos e ação de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c4akBwAAQBAJ",
+   "etag": "AvBBwQZnc3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c4akBwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Tigre",
+    "authors": [
+     "John Vaillant"
+    ],
+    "publisher": "Editorial Presença",
+    "publishedDate": "2014-11-12",
+    "description": "Em dezembro de 1997, no Extremo Oriente da Rússia, um tigre siberiano, um dos poucos exemplares que ainda vivem em estado selvagem, anda à caça de homens. Depois de vários caçadores terem sido vítimas dos seus violentos ataques, uma brigada que patrulha a floresta de Primorye, na Sibéria, com o objetivo de intermediar a relação entre homens e tigres numa região habitada por ambos, é destacada para encontrar o animal que protagonizou os sangrentos e mortais ataques. Mas para Yuri Trush, o chefe da missão, cedo se tornam óbvios os sinais que denunciam o caráter estranhamente intencional e vingativo do grande felino. O Tigre é um livro magnífico, baseado em factos verídicos, que capta de forma exímia a mente daquele que é um dos animais mais carismáticos, majestosos e mortíferos da natureza.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722354257"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722354256"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c4akBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c4akBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=c4akBwAAQBAJ&pg=PT275&dq=O+destino+do+tigre&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=c4akBwAAQBAJ&dq=O+destino+do+tigre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Tigre.html?hl=&id=c4akBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Tigre-sample-epub.acsm?id=c4akBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Tigre-sample-pdf.acsm?id=c4akBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c4akBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "exceção dos seus netos — é \u003cb\u003eo destino do tigre\u003c/b\u003e Amur e do seu primo muito mais \u003cbr\u003e\nraro, o leopardo Amur. A tensão entre essa preocupação, o protocolo de \u003cbr\u003e\nMoscovo para matar tigres, a sua responsabilidade profundamente sentida de \u003cbr\u003e\nproteger&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NehDDwAAQBAJ",
+   "etag": "6DeCb7ZChM4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NehDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um lugar para todos",
+    "authors": [
+     "Thrity Umrigar"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2017-12-20",
+    "description": "Um lugar para todos acompanha as trajetórias de um grupo de moradores de um bairro de classe média em Bombaim e a forma como sua vida é influenciada pelas mudanças ocorridas na cidade ao longo dos anos. Reunidos para o casamento de um dos residentes mais novos, os mais velhos revisitam as pessoas que eram quando jovens guiados por amores e ideais há muito deixados para trás. Com sabedoria e compaixão, Thrity Umrigar nos apresenta os homens e as mulheres que cresceram juntos na antiga comunidade de Wadia Baug, como o homem que teve sua vida desintegrada pelo alcoolismo; a velha fofoqueira do bairro; o bem-sucedido advogado, considerado um exemplo para toda a vizinhança; e um comerciante de meia idade que luta para aceitar um casamento ruim e a percepção de que muitos dos seus sonhos jamais se realizarão. Um romance surpreendente a respeito de pessoas notáveis, ao mesmo tempo completamente únicas e tão parecidas com cada um de nós.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525065209"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "852506520X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NehDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NehDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NehDDwAAQBAJ&pg=PT217&dq=O+destino+do+tigre&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NehDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NehDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NehDDwAAQBAJ&rdid=book-NehDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.69E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_lugar_para_todos-sample-epub.acsm?id=NehDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_lugar_para_todos-sample-pdf.acsm?id=NehDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NehDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tehmi se perguntou repetidas vezes sobre a vaidade daquela crença, se ela \u003cbr\u003e\ntinha ou não desafiado e provocado \u003cb\u003eo destino\u003c/b\u003e com sua arrogância. Talvez \u003cb\u003eo tigre\u003c/b\u003e \u003cbr\u003e\nbranco tivesse sido um teste, um teste de humildade, de sua fé. Talvez, até ela \u003cbr\u003e\nter&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r2yzDQAAQBAJ",
+   "etag": "d/OvepLR254",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r2yzDQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Phoenix - O Legado Maytreel",
+    "authors": [
+     "Alexsandra Figueiredo"
+    ],
+    "publisher": "Editora Pendragon (Roberta Pitanga Santos De Stefani)",
+    "publishedDate": "2016-10-06",
+    "description": "Este é o primeiro livro da trilogia O Legado Maytreel, narrando a história de Harriet, que está completando seus dezesseis anos de idade, tendo sua vida equilibrada como sempre desejou que fosse. Rodeada por pessoas que dizem amá-la, e que estão sempre dispostos a apoiá-la, ela se acomoda ao conforto de sua vida. Mas subitamente, após seu aniversário, se dá conta de que há algo de errado e diferente consigo mesma. E não seria por menos. Seu mundo cai ao descobrir que é adotada e que possui poderes sobrenaturais, que são absurdamente incontroláveis. Ela então é deixada pelos pais adotivos, com Caleb, um ex professor de matemática que mora sozinho em uma mansão fora da cidade. Seus pais acreditam que Harriet tem de descobrir suas raízes e para isso ela terá que enfrentar muitos conflitos buscando respostas com desconhecidos. Harriet é enviada por Caleb a um Instituto de jovens assim como ela, próximo a cidade de Nova Orleans (Pensilvânia), e é deixada novamente por mais uma pessoa em que ela se deixou confiar. No entanto, percebe que talvez não seja a única garota diferente e que talvez não seja tão ruim ser o que ela é. Em Claverd, ela fica envolvida por pessoas que a ajudam a procurar as respostas que ela tanto precisa. Mas a cada enigma que ela desvenda, outro surge em seu lugar. Sendo uma Phoenix do fogo, Harriet descobre que há mais quatro Phoenix além dela, e que todos eles têm um destino em comum. Todos têm de encarar diversos mistérios sobre si mesmos e sobre a origem do universo ao qual eles pertencem. Harriet está convicta em descobrir quem são seus verdadeiros pais e enfrentar todos os obstáculos ao lado de seus novos amigos. Será que ela irá aceitar as respostas que encontrar? sobre a origem de seu mundo, sua família e talvez um grande amor? Até onde vai a sua fé? Até que ponto você acredita no poder da vida e do mundo surreal?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569782377"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8569782373"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r2yzDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r2yzDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r2yzDQAAQBAJ&pg=PT9&dq=O+destino+do+tigre&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r2yzDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r2yzDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r2yzDQAAQBAJ&rdid=book-r2yzDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Phoenix_O_Legado_Maytreel-sample-epub.acsm?id=r2yzDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Phoenix_O_Legado_Maytreel-sample-pdf.acsm?id=r2yzDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r2yzDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ascensão da Fênix A Fênix em ascensão sabe seu destino? Ela nasce, cresce ... \u003cbr\u003e\nQuando o calor purgante da pira levanta, Consome toda a sua luta terrena? Faz \u003cbr\u003e\necoar picadas de ... Collen Houck (\u003cb\u003eO Destino do Tigre\u003c/b\u003e). Prólogo O Início de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ut_1V1CgJEgC",
+   "etag": "/A6qEavYxmM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ut_1V1CgJEgC",
+   "volumeInfo": {
+    "title": "O Poder Do Tigre",
+    "authors": [
+     "Analía L’abbate e Karina Qian Gao"
+    ],
+    "publisher": "Vergara e Riba Editoras Ltda",
+    "description": "'O poder do tigre' é uma coletânea de contos chineses voltados para a ação empreendedora e a liderança. O tigre, na simbologia chinesa, representa coragem, poder e inteligência. A obra é composta por 32 contos com citações de pensadores e personalidades do ramo empresarial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576831449"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576831440"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ut_1V1CgJEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ut_1V1CgJEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ut_1V1CgJEgC&pg=PA67&dq=O+destino+do+tigre&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Ut_1V1CgJEgC&dq=O+destino+do+tigre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Poder_Do_Tigre.html?hl=&id=Ut_1V1CgJEgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ut_1V1CgJEgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um velho sábio, que tinha como emblema \u003cb\u003eo Tigre\u003c/b\u003e - dada sua inteligência e \u003cbr\u003e\nintuição -, decidiu testar \u003cb\u003eo\u003c/b\u003e estudante. Deixou a seu alcance ... Ao ler isso, Zhu \u003cbr\u003e\nacreditou que \u003cb\u003eo destino\u003c/b\u003e havia posto em suas mãos uma grande fórmula. Correu \u003cbr\u003e\npara \u003cb\u003eo\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ltlGAgAAQBAJ",
+   "etag": "xht7Lxe+ilI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ltlGAgAAQBAJ",
+   "volumeInfo": {
+    "title": "O destino do xeque",
+    "authors": [
+     "Olivia Gates"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2014-01-16",
+    "description": "Era sedução sincera? Rashid Aal Munsoori tinha encontrado o seu destino. Mas para reclamar o trono de Azmahar precisava de Laylah Aal Shalaan. Seduzindo-a derrotaria os seus rivais e, se conseguisse que lhe desse um herdeiro, deteria o controlo absoluto sobre a sua terra natal. Laylah, por sua vez, tinha sempre amado Rashid em segredo. O xeque tinha cicatrizes por dentro e por fora, mas isso só fazia com que o amasse mais ainda... até que descobriu os seus interesses ocultos. Se calhar nunca voltaria a confiar no seu amante, mas como ia abandonar o pai do seu futuro filho, um bebé destinado a unir para sempre dois reinos do deserto?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788468749921"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8468749923"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ltlGAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ltlGAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ltlGAgAAQBAJ&pg=PT86&dq=O+destino+do+tigre&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ltlGAgAAQBAJ&dq=O+destino+do+tigre&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_destino_do_xeque.html?hl=&id=ltlGAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_destino_do_xeque-sample-epub.acsm?id=ltlGAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_destino_do_xeque-sample-pdf.acsm?id=ltlGAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ltlGAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Resistindo-se a conceder-lhe \u003cb\u003eo\u003c/b\u003e prazer de vê-la perder as estribeiras, Laylah \u003cbr\u003e\npegou no copo e bebeu todo \u003cb\u003eo\u003c/b\u003e conteúdo ... Só durante um tempo, até nascer \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\nbebé, no máximo. ... Um \u003cb\u003etigre\u003c/b\u003e também \u003cb\u003eo\u003c/b\u003e é, mas não sobreviveremos ao seu \u003cbr\u003e\nataque»."
+   }
+  }
+ ]
+}

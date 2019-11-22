@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4xhatAEACAAJ",
+   "etag": "nrDkhRu1HqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4xhatAEACAAJ",
+   "volumeInfo": {
+    "title": "Magnus Chase, V.2 - O Martelo De Thor",
+    "authors": [
+     "Rick Riordan",
+     "Regiane Winarski"
+    ],
+    "description": "Em \"A espada do verão\", primeiro livro da série, os leitores são apresentados a Magnus Chase, um herói boa-pinta que é a cara do astro de rock Kurt Cobain. Morador de rua, sua vida muda completamente quando ele é morto por um gigante do fogo. Por sorte, na mitologia nórdica os heróis mortos vão parar em Valhala, o paraíso pós-vida dos guerreiros vikings. Lá, Magnus descobre que é filho de Frey, o deus do verão, da fertilidade e da medicina. Desde então, seis semanas se passaram, e nesse meio-tempo o garoto começou a se acostumar ao dia a dia no Hotel Valhala. Quer dizer, pelo menos o máximo que um ex-morador de rua e ex-mortal poderia se acostumar. Magnus não é tão popular quanto os filhos dos deuses da guerra, como Thor e Tyr, mas fez bons amigos e está treinando para o dia do Juízo Final com os soldados de Odin tudo segue na mais completa paz sanguinolenta do mundo viking. Mas Magnus deveria imaginar que não seria assim por muito tempo. \"O martelo de Thor\" ainda está desaparecido. E os inimigos do deus do trovão farão de tudo para aproveitar esse momento de fraqueza e invadir o mundo humano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8551000705"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551000700"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4xhatAEACAAJ&dq=isbn:9788551000700&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4xhatAEACAAJ&dq=isbn:9788551000700&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Magnus_Chase_V_2_O_Martelo_De_Thor.html?hl=&id=4xhatAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4xhatAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &quot;A espada do verão&quot;, primeiro livro da série, os leitores são apresentados a Magnus Chase, um herói boa-pinta que é a cara do astro de rock Kurt Cobain."
+   }
+  }
+ ]
+}

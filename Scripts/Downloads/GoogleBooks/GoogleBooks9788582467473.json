@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cnI1twEACAAJ",
+   "etag": "1Xae2ygRQ+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cnI1twEACAAJ",
+   "volumeInfo": {
+    "title": "A Barraca Do Beijo",
+    "authors": [
+     "Beth Reekles"
+    ],
+    "publishedDate": "2018-05-28",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582467478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582467473"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cnI1twEACAAJ&dq=isbn:9788582467473&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cnI1twEACAAJ&dq=isbn:9788582467473&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Barraca_Do_Beijo.html?hl=&id=cnI1twEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cnI1twEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essa paixão cresce ainda mais quando Elle e Lee decidem organizar uma barraca do beijo no festival da Primavera da escola e Noah acaba aparecendo por lá. Mas o romance desses dois está bem longe de ser um conto de fadas."
+   }
+  }
+ ]
+}

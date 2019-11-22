@@ -1,0 +1,857 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 367,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GXvfBAAAQBAJ",
+   "etag": "Vy3X1gg6P4w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GXvfBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Segundo Eu me chamo Antônio",
+    "subtitle": "",
+    "authors": [
+     "Pedro Gabriel"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2014-11-12",
+    "description": "Alter ego do autor Pedro Gabriel, Antônio é personagem de um romance que ainda vai ser escrito. Enquanto não ganha as páginas, ele expressa, entre um chope e outro, seus sentimentos em ilustrações feitas em guardanapos de papel. Em Segundo – Eu me chamo Antônio, além de frases irreverentes e poéticas, o personagem abre para o mundo as páginas do caderno em que escreve fragmentos de textos – alguns de seus pensamentos mais profundos – e explora sua criatividade brincando com frases e esboços rabiscados nervosamente. A arte de Pedro Gabriel expande-se para além dos guardanapos em ilustrações inéditas que pontuam essa nova obra. Com Eu me chamo Antônio (2013), seu livro de estreia, Pedro Gabriel transferiu para as livrarias o sucesso que conquistou nas redes sociais. Ele conta com mais de 800.000 fiéis seguidores no Facebook e 500.000 no Instagram, desde que começou a divulgar na internet suas criações feitas com caneta hidrográfica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576306"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858057630X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GXvfBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GXvfBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GXvfBAAAQBAJ&printsec=frontcover&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GXvfBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GXvfBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GXvfBAAAQBAJ&rdid=book-GXvfBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.521E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segundo_Eu_me_chamo_Ant%C3%B4nio-sample-epub.acsm?id=GXvfBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segundo_Eu_me_chamo_Ant%C3%B4nio-sample-pdf.acsm?id=GXvfBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GXvfBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alter ego do autor Pedro Gabriel, Antônio é personagem de um romance que ainda vai ser escrito."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "puTZDAAAQBAJ",
+   "etag": "uUrp78grUTY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/puTZDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Ilustre Poesia",
+    "subtitle": "Eu me chamo Antônio",
+    "authors": [
+     "Pedro Gabriel"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2016-08-23",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551000632"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551000632"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=puTZDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=puTZDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=puTZDAAAQBAJ&printsec=frontcover&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=puTZDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-puTZDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.71,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=puTZDAAAQBAJ&rdid=book-puTZDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.971E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ilustre_Poesia-sample-epub.acsm?id=puTZDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ilustre_Poesia-sample-pdf.acsm?id=puTZDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=puTZDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SHo7BgAAQBAJ",
+   "etag": "PIN7FWzkldY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SHo7BgAAQBAJ",
+   "volumeInfo": {
+    "title": "A verdade é uma caverna nas montanhas negras",
+    "subtitle": "",
+    "authors": [
+     "Neil Gaiman"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-02-20",
+    "description": "Publicada incialmente em uma coletânea de contos do autor, A verdade é uma caverna nas Montanhas Negras é uma história fascinante sobre família, a busca por um tesouro e a descoberta de um mundo invisível. Em uma colaboração inédita, os personagens e as paisagens de Gaiman ganham forma com um traçado sombrio e impreciso do artista Eddie Campbell, e o resultado é uma obra que passeia entre o livro ilustrado e o graphic novel, desafiando os limites entre texto e imagem em uma explosão de cor e sombra, memória e arrependimento, vingança e, principalmente, amor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576689"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580576687"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SHo7BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SHo7BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SHo7BgAAQBAJ&pg=PT85&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SHo7BgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SHo7BgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SHo7BgAAQBAJ&rdid=book-SHo7BgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_verdade_%C3%A9_uma_caverna_nas_montanhas_n-sample-epub.acsm?id=SHo7BgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_verdade_%C3%A9_uma_caverna_nas_montanhas_n-sample-pdf.acsm?id=SHo7BgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SHo7BgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neil Gaiman. Leia também Eu. me chamo Antônio Pedro Gabriel \u003cb\u003eSegundo Eu\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eme chamo Antônio\u003c/b\u003e Pedro Gabriel O rei de amarelo Robert W. Chambers."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0_M4DwAAQBAJ",
+   "etag": "KmZ/vj4fzyY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0_M4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Diálogos entre culturas e sociedade: Anais da I Jornada de Estudos Linguísticos e Literários",
+    "authors": [
+     "Wânia Terezinha Ladeira",
+     "Joelma Santana Siqueira"
+    ],
+    "publisher": "Clock-Book",
+    "publishedDate": "2017-10-09",
+    "description": "Os Anais da I Jornada de Estudos Linguísticos e Literários – diálogos entre culturas e sociedade, ISBN 978-85-92525-20-0, reunem os trabalhos apresentados no evento homônimo que aconteceu entre os dias 31 de outubro e 01 de novembro de 2016, no Departamento de Letras, com apoio do Programa de Pós-Graduação em Letras da Universidade Federal de Viçosa. A iniciativa do evento e desta publicação partiu dos discentes do curso de Mestrado em Letras da UFV e objetivo pretendido era, sobretudo, divulgar as pesquisas e fortalecer os diálogos entre as duas áreas de conhecimento do Programa – Estudos Literários e Estudos Linguísticos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788592525200"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8592525209"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 428,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0_M4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0_M4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0_M4DwAAQBAJ&pg=PA66&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0_M4DwAAQBAJ&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1logos_entre_culturas_e_sociedade_Ana.html?hl=&id=0_M4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1logos_entre_culturas_e_sociedade_Ana-sample-pdf.acsm?id=0_M4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0_M4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Assim, a leitura de textos literários é marcada pela pluralidade do mesmo, que \u003cbr\u003e\n\u003cb\u003esegundo\u003c/b\u003e Ivanda Martins (2006) se ... Ensino médio, pautada na produção \u003cbr\u003e\npoética contemporânea de Pedro Gabriel, em sua obra \u003cb\u003eEu me chamo Antônio\u003c/b\u003e (\u003cbr\u003e\n2013)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZMqCDwAAQBAJ",
+   "etag": "jbbwqVLqN44",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZMqCDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Caminhando no Passado",
+    "authors": [
+     "Gerardo de Majela Melo Fortes"
+    ],
+    "publisher": "Quártica Premium",
+    "publishedDate": "2019-01-08",
+    "description": "Este é um romance singelo, curioso e envolvente, que nos encanta e transporta para o passado, despertando em nós, leitores, uma enorme vontade de chegar ao seu final. O cenário descortina uma região de fazendas e usinas no Estado de Alagoas. O universo de Caminhando no passado tem início na década de 1950, marcada por cavalheirismo, respeito, costumes e conceitos da época. O personagem central é um menino de apenas 11 anos, nascido de uma família pobre e apelidado de Toninho, sendo ele o mais velho de três irmãos. Não existe suspense recortando a obra de Gerardo de Majela, mas nada é subtraído em função disso, pois fica o desejo e, mesmo, a ansiedade de saber o que virá na página seguinte. O autor, que fez uso, ao mesmo tempo, da ficção e da realidade, estruturou o texto de modo descritivo e inteligentemente poético, contando histórias de amor e pura emoção. Como num passe mágico, o simples atravessar de uma cancela foi o bastante para que este romance fosse escrito e, nele, fosse descoberta uma infinidade de histórias dentro da própria história, que, com certeza, irá nos marcar após a leitura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582210925"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582210922"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZMqCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZMqCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZMqCDwAAQBAJ&pg=PT19&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZMqCDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZMqCDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.6,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZMqCDwAAQBAJ&rdid=book-ZMqCDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.56E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.56E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caminhando_no_Passado-sample-epub.acsm?id=ZMqCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caminhando_no_Passado-sample-pdf.acsm?id=ZMqCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZMqCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003e2\u003c/b\u003e. OS CAVALOS, VELHOS COMPANHEIROS do seu Honório, eram chamados \u003cbr\u003e\nde Tistu e Chocolate, nomes carinhosos dados pelas ... \u003cb\u003eEu me chamo Antônio\u003c/b\u003e, \u003cbr\u003e\nmas o pessoal, lá em casa, e os meus amiguinhos me chamam de Toninho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tVZuDwAAQBAJ",
+   "etag": "2OnQY+evQZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tVZuDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Liberta-me",
+    "authors": [
+     "Caira de Carli"
+    ],
+    "publisher": "Gramma",
+    "publishedDate": "2018-09-13",
+    "description": "A obra narra a trajetória de vida de dois escravos órfãos, Tonico e Ana, criados e educados por nobres, a Baronesa Eleutéria e seu marido. Após uma grave enfermidade psíquica a Baronesa termina por ser internada em um sanatório, ainda que contra o desejo do Barão. O leitor passa então a acompanhar a saga de Tonico em busca da realização do sonho de se tornar um dos primeiros médicos negros. Suas desventuras, paixões e conflitos em meio a uma sociedade escravocrata e racista. Um romance de grande lirismo e beleza, encenado no cruel Brasil colonial, assim é “Liberta-me”.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788559683950"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "855968395X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tVZuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tVZuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tVZuDwAAQBAJ&pg=PA85&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tVZuDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tVZuDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tVZuDwAAQBAJ&rdid=book-tVZuDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Liberta_me-sample-pdf.acsm?id=tVZuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tVZuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao subir as escadas, em direção à sua sala no \u003cb\u003esegundo\u003c/b\u003e andar, escutou risos, \u003cbr\u003e\nolhou para trás e uma pequena aglomeração havia se formado na entrada, e \u003cbr\u003e\nmuitos adolescentes ... \u003cb\u003eEu me chamo Antônio\u003c/b\u003e, mas todos me chamam de Tonico."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0Dh9AgAAQBAJ",
+   "etag": "OKNO+6k92k8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0Dh9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "As Lendas Cristãs",
+    "subtitle": "",
+    "authors": [
+     "Teófilo Braga"
+    ],
+    "publisher": "Ediçoes Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Nada mais difícil de coordenar na sua complexíssima variedade do que essa livre eflorescência das tradições vulgares e eruditas que deram força à expansão da religião prosélica e contra as quais a Igreja, depois de constituída, teve de reagir desprezando-as como apócrifas, e retirando-lhes a sua autoridade canónica. Essas tradições provieram de um fundo comum de elementos subjetivos, dos quais uns ficaram nos contos populares, outros desenvolveram-se em epopeias anónimas, muitos dramatizaram-se nos costumes sociais e não poucos renovaram-se na forma de mitos religiosos ou se tornaram temas de complicadas teologias.\" Texto segundo o Novo Acordo Ortográfico.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897002014"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897002014"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0Dh9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0Dh9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0Dh9AgAAQBAJ&printsec=frontcover&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0Dh9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0Dh9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.05,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.05,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0Dh9AgAAQBAJ&rdid=book-0Dh9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.805E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.805E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Lendas_Crist%C3%A3s-sample-epub.acsm?id=0Dh9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Lendas_Crist%C3%A3s-sample-pdf.acsm?id=0Dh9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0Dh9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Nada mais difícil de coordenar na sua complexíssima variedade do que essa livre eflorescência das tradições vulgares e eruditas que deram força à expansão da religião prosélica e contra as quais a Igreja, depois de constituída, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JBjQ8vaJlc4C",
+   "etag": "b+SAr8Gf09g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JBjQ8vaJlc4C",
+   "volumeInfo": {
+    "title": "O corsario",
+    "subtitle": "romance rio-grandense",
+    "authors": [
+     "José Antônio do Vale Caldre e Fião"
+    ],
+    "publishedDate": "1851",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0022140031"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JBjQ8vaJlc4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JBjQ8vaJlc4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JBjQ8vaJlc4C&pg=PA61&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JBjQ8vaJlc4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JBjQ8vaJlc4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=JBjQ8vaJlc4C&rdid=book-JBjQ8vaJlc4C&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JBjQ8vaJlc4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "romance rio-grandense José \u003cb\u003eAntônio\u003c/b\u003e do Vale Caldre e Fião ... sobre emprestimo, \u003cbr\u003e\neu tenho algumas duvidas; \u003cb\u003esegundo\u003c/b\u003e eu creio, aquela carta não foi senão um \u003cbr\u003e\nlaço para me pilhar. ... Se \u003cb\u003eeu me\u003c/b\u003e não tivesse tornado matreiro, fugindo daqui e d&#39;\u003cbr\u003e\nali, sem duvida teria levado uma esfrega em que teria perdido couro e cabello."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "969EAAAAIAAJ",
+   "etag": "TP/oGOgvteQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/969EAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Conversas Sul-americanas",
+    "authors": [
+     "Daniel Lee Hamilton",
+     "Albert Richard Lopes",
+     "William X. Walsh"
+    ],
+    "publishedDate": "1946",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:$B311458"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 218,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese language"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=969EAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=969EAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=969EAAAAIAAJ&q=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=969EAAAAIAAJ&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Conversas_Sul_americanas.html?hl=&id=969EAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=969EAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eAntônio\u003c/b\u003e. É verdade, e também o desprezo geral do povo pelos legumes frescos, \u003cbr\u003e\nsobretudo as verduras. Mas as ... Deve ser o Rio Grande do Sul, \u003cb\u003esegundo eu me\u003c/b\u003e \u003cbr\u003e\nlembro. 20 \u003cb\u003eAntônio\u003c/b\u003e. Tem razão. Bom, a cultura do trigo se fazia no Rio Grande&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8vMuAAAAYAAJ",
+   "etag": "JbOlgkFvJiM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8vMuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Análise literária",
+    "subtitle": "introdução metodológica a uma estilística integral",
+    "publishedDate": "1968",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018290415"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8vMuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8vMuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8vMuAAAAYAAJ&q=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=8vMuAAAAYAAJ&dq=Segundo+-+Eu+me+chamo+Ant%C3%B4nio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/An%C3%A1lise_liter%C3%A1ria.html?hl=&id=8vMuAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8vMuAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E êsse acréscimo aos anais de \u003cb\u003eAntônio\u003c/b\u003e Quiroga, Luís Dávila o efetua de seu &quot;\u003cbr\u003e\nponto de vista&quot;. ... Não disse ainda que \u003cb\u003eme chamo Antônio\u003c/b\u003e Quiroga. ... agora será \u003cbr\u003e\no do narrador — protagonista, embora o \u003cb\u003eeu\u003c/b\u003e, a primeira pessoa gramatical \u003cbr\u003e\ncorrespondente ao narrador \u003cb\u003eAntônio\u003c/b\u003e Quiroga, ... O \u003cb\u003esegundo\u003c/b\u003e nódulo ou \u003cbr\u003e\nmovimento gerador de jôgo nove- lesco consiste na criação de uma espécie de &quot;\u003cbr\u003e\nclima&quot; obsessivo&nbsp;..."
+   }
+  }
+ ]
+}

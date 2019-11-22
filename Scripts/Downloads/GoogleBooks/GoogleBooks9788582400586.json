@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TUpDvgAACAAJ",
+   "etag": "yYnS7+gvBmM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TUpDvgAACAAJ",
+   "volumeInfo": {
+    "title": "UM PEDIDO AS ESTRELAS",
+    "authors": [
+     "PRISCILLE SIBLEY",
+     "SULAMITA PEN"
+    ],
+    "description": "Após um grave acidente, Elle sofre um trauma cerebral irreversível, mas em seu ventre cresce uma vida. Apesar da fragilidade da situação, há uma possibilidade de ela dar à luz o tão filho aguardado. No entanto, com a mesma força com que desejou um filho, Elle se opunha a manter uma vida artificialmente. Se ela pudesse decidir, o que falaria mais alto?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582400586"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582400586"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TUpDvgAACAAJ&dq=isbn:9788582400586&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TUpDvgAACAAJ&dq=isbn:9788582400586&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/UM_PEDIDO_AS_ESTRELAS.html?hl=&id=TUpDvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TUpDvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Após um grave acidente, Elle sofre um trauma cerebral irreversível, mas em seu ventre cresce uma vida."
+   }
+  }
+ ]
+}

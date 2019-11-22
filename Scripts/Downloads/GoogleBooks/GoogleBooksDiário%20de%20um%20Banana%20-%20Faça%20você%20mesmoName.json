@@ -1,0 +1,969 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 81,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mJhyDQAAQBAJ",
+   "etag": "oUtSpl960Cs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mJhyDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Vai ou racha",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley nunca esteve tão perto da fama. Ouvir os conselhos de sua mãe sobre explorar seu lado criativo fez bem a ele. Agora, Greg está na banda da escola e poderá ir à festa de Dia das Bruxas mais bombada de todas. Será que ele conseguirá mostrar o quanto é maneiro e talentoso? Ou será que seu sonho vai rachar de vez?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550700618"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550700614"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mJhyDQAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mJhyDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&rdid=book-mJhyDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=mJhyDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=mJhyDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mJhyDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água ... um Banana: Caindo na estrada Diário de \u003cbr\u003e\num Banana: Bons tempos \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eFaça você mesmo\u003c/b\u003e EM BREVE \u003cbr\u003e\nMais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GCDbCgAAQBAJ",
+   "etag": "WBGLrEvwDTo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GCDbCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Bons tempos",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "A vida era melhor antigamente. Pelo menos é o que dizem. Mas Greg Heffley, um garoto bastante acostumado ao conforto do mundo moderno, não concorda muito com isso. E uma decisão polêmica vai colocar o seu paraíso tecnológico em curto-circuito: todos em sua cidade decidem dar um tempo dos aparelhos eletrônicos. Dentro e fora de casa, Greg terá que enfrentar o dia a dia à moda antiga. Será que ele vai conseguir sobreviver do mesmo jeitinho que se fazia nos \"velhos e bons tempos\"?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576839446"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857683944X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GCDbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GCDbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GCDbCgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GCDbCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GCDbCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GCDbCgAAQBAJ&rdid=book-GCDbCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=GCDbCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=GCDbCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GCDbCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éocara Diário \u003cbr\u003e\nde um Banana: A gota d&#39;água Diário ... de azar Diário de um Banana: Caindo na \u003cbr\u003e\nestrada \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eFaça você mesmo\u003c/b\u003e Diário de um Banana: O livro&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MTL1CAAAQBAJ",
+   "etag": "Z+hjNuBfqvs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MTL1CAAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Caindo na estrada",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley está de volta com confusões tamanho família! Uma viagem de carro em família tem tudo para ser algo muito divertido... ou não, ainda mais se for a família do Greg Heffley. A jornada começa cheia de promessas, mas logo sofre reviravoltas dramáticas. Banheiros de postos de gasolina, gaivotas ensandecidas, malas perdidas, um porco faminto... Mas até a viagem mais desastrosa pode virar uma grande aventura – e desta os Heffley não vão se esquecer tão cedo. #150 milhões de livros vendidos no mundo todo #Best-seller do New York Times #Um dos maiores fenômenos recentes da literatura infantojuvenil #Sucesso também nos cinemas Sobre o autor: Jeff Kinney cresceu em Washington, D. C. e atualmente mora no sul de Massachusetts com a mulher e seus dois filhos. Além de escrever, Jeff desenvolve e projeta jogos online. Ao contrário de seu personagem Greg Heffley, o autor não tem nada de \"banana\": a prova disso é que tem liderado a lista de livros mais vendidos do New York Times. Em 2009, Jeff foi escolhido como uma das 100 Pessoas Mais Influentes do Mundo pela revista Time. A série \"Diário de um Banana\" já foi traduzida para diversas línguas e é um sucesso no mundo todo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576838265"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576838265"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MTL1CAAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MTL1CAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&rdid=book-MTL1CAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=MTL1CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=MTL1CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MTL1CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água Diário de ... Diário de um Banana: \u003cbr\u003e\nSegurando vela Diário de um Banana: Maré de azar \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eFaça\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003evocê mesmo\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VLkqAgAAQBAJ",
+   "etag": "JJ7c5+AMcbU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VLkqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 7",
+    "subtitle": "Segurando vela",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "O Dia dos Namorados está chegando e Greg Heffley continua sozinho. Mas um baile organizado pela escola pode mudar tudo. Ele precisa encontrar uma garota urgentemente. Para isso, conta com a ajuda de outro \"solteirão\", Rowley, seu melhor amigo. A ideia de Greg é usar Rowley como isca para atrair as meninas, uma espécie de coadjuvante de luxo que auxilia o ator principal a brilhar. Será que esse plano vai dar certo? Ou será que a flecha do cupido vai tomar um rumo inesperado?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576836162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576836165"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VLkqAgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VLkqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.63,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&rdid=book-VLkqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.663E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-epub.acsm?id=VLkqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-pdf.acsm?id=VLkqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VLkqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água ... de um Banana: A verdade nua e crua \u003cbr\u003e\nDiário de um Banana: Casa dos horrores \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eFaça você\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003emesmo\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ELsqAgAAQBAJ",
+   "etag": "etHBi0A60Zc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ELsqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 6",
+    "subtitle": "Casa dos horrores",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Em sua sexta aventura, Greg Heffley passará por grandes apuros. As coisas para ele vão de mal a pior, tanto na escola como em sua casa. Greg será suspeito de vandalismo e se tornará um suposto foragido da polícia. Além disso, uma forte tempestade de neve faz com que ele e sua família fiquem presos em casa. Em pouco tempo, o seu lar doce lar se transformará em uma verdadeira Casa dos horrores. Divirta-se com as novas confusões de Greg, ele nunca esteve tão Banana!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835233"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835231"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ELsqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ELsqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ELsqAgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ELsqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ELsqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ELsqAgAAQBAJ&rdid=book-ELsqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_6-sample-epub.acsm?id=ELsqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_6-sample-pdf.acsm?id=ELsqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ELsqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água Diário de um Banana: Dias de cão Diário de \u003cbr\u003e\num Banana: A verdade nua e crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eFaça você mesmo\u003c/b\u003e \u003cbr\u003e\nDiário&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IZn0AQAAQBAJ",
+   "etag": "FwhhXWWZpm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IZn0AQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no ensino fundamental, onde fracotes subdesenvolvidos dividem os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, Greg nos conta as desventuras de sua vida escolar. Em busca de um pouco de popularidade (e também de um pouco de proteção), o garoto se envolve em uma série de situações que procura resolver de uma maneira muito particular. No primeiro livro da coleção, o autor e ilustrador Jeff Kinney nos apresenta um herói improvável e encantador. Um garoto comum às voltas com os desafios da puberdade",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835189"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835185"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IZn0AQAAQBAJ&pg=PA198&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IZn0AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&rdid=book-IZn0AQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=IZn0AQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=IZn0AQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IZn0AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se \u003cb\u003evocê\u003c/b\u003e consegue aparecer nessa página, vira praticamente um imortal. \u003cb\u003eMesmo\u003c/b\u003e \u003cbr\u003e\nque \u003cb\u003evocê\u003c/b\u003e não cumpra a coisa pela qual foi escolhido, não importa, porque está \u003cbr\u003e\nmarcado para sempre. As pessoas ainda tratam o Bill Watson como se fosse&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CrkqAgAAQBAJ",
+   "etag": "utoIlaurpWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CrkqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 4",
+    "subtitle": "Dias de cão",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Férias de verão: o tempo está lindo, e toda garotada está se divertindo ao ar livre. Onde está Greg Heffley? Dentro da sua casa, jogando videogame com as cortinas fechadas. Greg, um \"caseiro\" assumido, está vivendo sua última fantasia de verão: nada de responsabilidades e regras. Mas a mãe do Greg tem uma visão diferente para um verão ideal...muitas atividades fora de casa e \"união da família\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835219"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835215"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CrkqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CrkqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CrkqAgAAQBAJ&pg=PA80&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CrkqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CrkqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CrkqAgAAQBAJ&rdid=book-CrkqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_4-sample-epub.acsm?id=CrkqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_4-sample-pdf.acsm?id=CrkqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CrkqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu poderia simplesmente dormir ali \u003cb\u003emesmo\u003c/b\u003e na poltrona. Além disso, essas \u003cbr\u003e\npoltronas ... E \u003cb\u003evocÊ\u003c/b\u003e tem que parar de deixar suas roupas sujas no banheiro A \u003cbr\u003e\núnica razão que eu teria para me levantar seria para ir ao banheiro. Mas \u003cbr\u003e\ntalvezeu deva&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oy3dDQAAQBAJ",
+   "etag": "PQAszZ4Zna0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oy3dDQAAQBAJ",
+   "volumeInfo": {
+    "title": "A troca",
+    "authors": [
+     "Megan Shull"
+    ],
+    "publisher": "HarperCollins Brasil",
+    "publishedDate": "2017-01-09",
+    "description": "No livro que deu origem ao filme original do Disney Channel, estrelado por Peyton List (Diário de um banana) e Jacob Bertrand (A origem dos guardiões), você vai conhecer Ellie e Jack: bem diferentes, mas ao mesmo tempo com muita coisa em comum... Os dois achavam que a vida um do outro era moleza, até ter que vivê-la! Agora Jack vai ter que enfrentar a menina mais popular da escola, que resolveu pegar no pé de Ellie, e Ellie se vê frente a frente com o Capitão, o pai mais que durão de Jack. Será que eles vão conseguir sobreviver ao fim de semana mais louco de todos os tempos? \"Chorei de soluçar quando terminei A troca! AMEI!\" Lauren Myracle, autora de Deixe a neve cair \"Incrível! Muito engraçado e, ao mesmo tempo, emocionante. Não sei como Megan conseguiu este feito, mas ainda bem que conseguiu!\" MEG CABOT, autora de O diário da princesa",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595080539"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595080534"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oy3dDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oy3dDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oy3dDQAAQBAJ&printsec=frontcover&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oy3dDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oy3dDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oy3dDQAAQBAJ&rdid=book-oy3dDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_troca-sample-epub.acsm?id=oy3dDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_troca-sample-pdf.acsm?id=oy3dDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oy3dDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Chorei de soluçar quando terminei A troca! AMEI!&quot; Lauren Myracle, autora de Deixe a neve cair &quot;Incrível! Muito engraçado e, ao mesmo tempo, emocionante. Não sei como Megan conseguiu este feito, mas ainda bem que conseguiu!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QMX5znyp3GsC",
+   "etag": "ziDLC8vv9Ws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QMX5znyp3GsC",
+   "volumeInfo": {
+    "title": "Diário da Julieta 3 : o blog de férias da Menina Maluquinha",
+    "authors": [
+     "Ziraldo"
+    ],
+    "publisher": "Globo Livros",
+    "description": "Para muita gente, tirar férias é sinônimo de ter tempo de sobra para não fazer nada. Definitivamente, este não é o caso da Julieta, a namoradinha do Menino Maluquinho. Irrequieta e comunicativa, ela não só aproveita ao máximo cada dia de folga como ainda dá um jeito de manter seus amigos a par de todas as novidades – mesmo quando ela viaja para longe da turma. Como? A menina, que sempre amou fazer diários, agora virou blogueira. Viagem, praia, cinema, hotel-fazenda, piquenique e até congestionamento na estrada – tudo o que acontece, ela posta em seu blog de férias, para ser comentado por uma legião de seguidores. Assim é o Diário da Julieta 3: o blog de férias da Menina Maluquinha o mais novo livro da bem-sucedida série protagonizada pela Menina Maluquinha. Mais uma vez, antenadíssimo com o universo de referências da garotada, Ziraldo acrescenta uma novidade genial a suas histórias em quadrinhos. Em Diário da Julieta 2 o autor uniu o brilhantismo das HQs à criatividade dos scrapbooks. Já nesse lançamento traz histórias em quadrinhos inéditas da Julieta e sua turma intercaladas com os posts blogados pela personagem com comentários dos amigos a respeito de cada aventura. Ao todo, são 12 histórias em quadrinhos e 12 posts recheados com o humor afiado de um autor que, como poucos, consegue falar com a criança de igual para igual.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525054357"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525054356"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QMX5znyp3GsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QMX5znyp3GsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QMX5znyp3GsC&pg=PT76&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QMX5znyp3GsC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QMX5znyp3GsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.28,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QMX5znyp3GsC&rdid=book-QMX5znyp3GsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.24E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.128E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_da_Julieta_3_o_blog_de_f%C3%A9rias_d-sample-epub.acsm?id=QMX5znyp3GsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_da_Julieta_3_o_blog_de_f%C3%A9rias_d-sample-pdf.acsm?id=QMX5znyp3GsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QMX5znyp3GsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EU I: DISSE PRA \u003cb\u003eVOCÊ\u003c/b\u003e &#39; ` ABASTECER O CARRO ANTES DA VIAGEM! \\ llÍ/ ››\u003cbr\u003e\ní11 `l1; XII/III.. E \u003cb\u003eMEsMO\u003c/b\u003e. E Os &quot; A; ¡ I _ CARROS ESTÃO I _ ,&#39;11 «. w W \u003cbr\u003e\nVOLTANDO A ANDAR. ,_ ...TOOO MuNoO vINo DE LÁ oA FRENTE f cOMENoO \u003cbr\u003e\n\u003cb\u003eBANANA\u003c/b\u003e!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QYdEAAAAYAAJ",
+   "etag": "adnP/1VHZeA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QYdEAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O Brasil privatizado",
+    "authors": [
+     "Aloysio Biondi"
+    ],
+    "publishedDate": "2001",
+    "description": "Críticas e denúncias sobre as privatizações realizadas pelo governo brasileiro nos anos 90.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173005309259"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Privatization"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QYdEAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QYdEAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QYdEAAAAYAAJ&q=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QYdEAAAAYAAJ&dq=Di%C3%A1rio+de+um+Banana+-+Fa%C3%A7a+voc%C3%AA+mesmo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Brasil_privatizado.html?hl=&id=QYdEAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QYdEAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Diferença entre Covas e Itamar \u003cb\u003eDiário\u003c/b\u003e Popular, 12/10/1999 Procure \u003cb\u003evocê mesmo\u003c/b\u003e \u003cbr\u003e\nas entrevistas do governador paulista ... A venda das estatais paulistas está \u003cbr\u003e\nsendo feita sempre a preço de \u003cb\u003ebanana\u003c/b\u003e: o pedaço da Cesp vai ser leiloado pela&nbsp;..."
+   }
+  }
+ ]
+}

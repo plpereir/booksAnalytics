@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "x_4cvgAACAAJ",
+   "etag": "LEcu7bTSsDk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x_4cvgAACAAJ",
+   "volumeInfo": {
+    "title": "STAR WARS - A TRILOGIA",
+    "authors": [
+     "GEORGE LUCAS",
+     "DONALD F. GLUT",
+     "JAMES KHAN",
+     "ALEXANDRE MATIAS",
+     "PETE RISSATTI",
+     "ANTONIO TIBAU"
+    ],
+    "description": "As histórias clássicas de Luke Skywalker, Han Solo, Princesa Leia, Mestre Yoda e Darth Vader vão ganhar as páginas luxuosas de 'Star Wars - A Trilogia'. Este livro reúne os romances inspirados nos três primeiros filmes do universo fantástico criado por George Lucas - Uma Nova Esperança, O Império Contra-Ataca e O Retorno de Jedi.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8566636260"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788566636260"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=x_4cvgAACAAJ&dq=isbn:9788566636260&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=x_4cvgAACAAJ&dq=isbn:9788566636260&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/STAR_WARS_A_TRILOGIA.html?hl=&id=x_4cvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x_4cvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As histórias clássicas de Luke Skywalker, Han Solo, Princesa Leia, Mestre Yoda e Darth Vader vão ganhar as páginas luxuosas de &#39;Star Wars - A Trilogia&#39;."
+   }
+  }
+ ]
+}

@@ -1,0 +1,930 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 377,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "U-6yDgAAQBAJ",
+   "etag": "gnnazMlTyc0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U-6yDgAAQBAJ",
+   "volumeInfo": {
+    "title": "A profecia das sombras",
+    "subtitle": "",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2017-05-02",
+    "description": "No segundo volume da série As provações de Apolo, o ex-deus olimpiano terá que libertar um oráculo assustador das mãos de um velho conhecido Não basta ter perdido os poderes divinos e ter sido enviado para a terra na forma de um adolescente espinhento, rechonchudo e desajeitado. Não basta ter sido humilhado e ter virado servo de uma semideusa maltrapilha e desbocada. Nããão. Para voltar ao Olimpo, Apolo terá que passar por algumas provações. A primeira já foi: livrar o oráculo do Bosque de Dodona das garras de Nero, um dos membros do triunvirato do mal que planeja destruir todos os oráculos existentes para controlar o futuro. Em sua mais nova missão, o ex-deus do Sol, da música, da poesia e da paquera precisa localizar e libertar o próximo oráculo da lista: uma caverna assustadora que pode ajudar Apolo a recuperar sua divindade — isso se não matá-lo ou deixá-lo completamente louco. Para piorar ainda mais a história, entra em cena um imperador romano fascinado por espetáculos cruéis e sanguinários, um vilão que até Nero teme e que Apolo conhece muito bem. Bem demais. Nessa nova aventura eletrizante, hilária e recheada de péssimos haicais, o ex-imortal contará com a ajuda de Leo Valdez e de alguns aliados inesperados — alguns velhos conhecidos, outros nem tanto, mas todos com a mesma certeza: é impossível não amar Apolo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551001721"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551001728"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=U-6yDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=U-6yDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=U-6yDgAAQBAJ&printsec=frontcover&dq=A+profecia+das+sombras&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=U-6yDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-U-6yDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=U-6yDgAAQBAJ&rdid=book-U-6yDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_profecia_das_sombras-sample-epub.acsm?id=U-6yDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_profecia_das_sombras-sample-pdf.acsm?id=U-6yDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=U-6yDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No segundo volume da série As provações de Apolo, o ex-deus olimpiano terá que libertar um oráculo assustador das mãos de um velho conhecido Não basta ter perdido os poderes divinos e ter sido enviado para a terra na forma de um ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tPFUDwAAQBAJ",
+   "etag": "cqxpE3Z6X0s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tPFUDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O labirinto de fogo",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2018-05-03",
+    "description": "No terceiro livro da série, o deus Apolo vai ser posto à prova ao enfrentar uma perigosa armadilha Apolo, o deus mais glorioso e belo que já existiu, causou a ira de Zeus e foi expulso do Olimpo. Ele foi parar na terra, mais precisamente em uma caçamba de lixo em Nova York. Agora, ele é Lester Papadopoulos, um mortal desajeitado e sem poderes divinos. Para reconquistar seu lugar ao lado do todo-poderoso, Apolo terá que libertar cinco oráculos desaparecidos. Com a ajuda de alguns amigos semideuses, como Percy Jackson, Leo Valdez e a desbocada Meg McCaffrey, Apolo conseguiu sobreviver às duas primeiras provações de sua temporada terrena. Agora, ele vai ter que enfrentar mais um componente do triunvirato do mal formado por antigos imperadores romanos e deve descer até o Labirinto de Dédalo para impedir que o terceiro imperador destrua o próximo oráculo da lista. Outros livros da série: O oráculo oculto, A profecia das sombras e Segredos do acampamento meio-sangue",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551003329"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551003321"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tPFUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tPFUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tPFUDwAAQBAJ&printsec=frontcover&dq=A+profecia+das+sombras&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tPFUDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tPFUDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tPFUDwAAQBAJ&rdid=book-tPFUDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_labirinto_de_fogo-sample-epub.acsm?id=tPFUDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_labirinto_de_fogo-sample-pdf.acsm?id=tPFUDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tPFUDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No terceiro livro da série, o deus Apolo vai ser posto à prova ao enfrentar uma perigosa armadilha Apolo, o deus mais glorioso e belo que já existiu, causou a ira de Zeus e foi expulso do Olimpo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rTpODwAAQBAJ",
+   "etag": "h0dSHe4rZKE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rTpODwAAQBAJ",
+   "volumeInfo": {
+    "title": "Segredos do acampamento Meio-Sangue:O verdadeiro guia do acampamento para semideuses",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2018-03-26",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002995"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002996"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rTpODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rTpODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rTpODwAAQBAJ&printsec=frontcover&dq=A+profecia+das+sombras&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rTpODwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-rTpODwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rTpODwAAQBAJ&rdid=book-rTpODwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.691E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segredos_do_acampamento_Meio_Sangue_O_ve-sample-epub.acsm?id=rTpODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segredos_do_acampamento_Meio_Sangue_O_ve-sample-pdf.acsm?id=rTpODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rTpODwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LpBEDwAAQBAJ",
+   "etag": "RaHGX4mwfu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LpBEDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A PROFECIA 2o edição",
+    "authors": [
+     "Antonio Costeira"
+    ],
+    "publisher": "Edições Vieira da Silva",
+    "publishedDate": "2017-04-04",
+    "description": "Naur ́Can Nascidos em duas pequenas localidades, situadas em lados opostos das mágicas e frias montanhas do Norte, as Montanhas do Urso, dois jovens são unidos por uma grande amizade, fortalecida por anos de convivência no colégio de Nuria. Cada um à sua maneira, sentem um apelo inexplicável pela vida nas florestas da Montanha, que é tema de conversa sempre que regressam de férias. Não desconfiavam ainda que um destino diferente, fadado por uma Profecia milenar, era a causa de tamanha atração. Num passado muito distante, a harmonia da vida trazida à terra pela benevolência dos deuses sob a forma do Livro das Runas, é posta em causa quando a soberba de Davdak, meio homem, meio elfo, exige o Livro só para si. Com o equilíbrio da natureza alterado, e o Livro Sagrado perdido, uma catastrófica ira da natureza e dos deuses envia Naur?Can, a bela capital de Alagosadhar, para as profundezas das areias do deserto, provocando o êxodo do povo para sul em busca do restabelecimento perdido. Para trás, ficam centenas de anos de existência próspera e pacífica, mas também a esperança, fundamentada numa Profecia que Angolon, o mais sábio dos Dragões, forjou: «O inverno do mundo será longo. Um dia o Livro abrir-se-á e de um futuro distante virá o Guerreiro que o beijo dos deuses abençoou. Juntos trarão o equilíbrio perdido em Naur?Can» Angolon ofereceu à humanidade três ovos de Dragão: um para os elfos, um para os Anões, e outro ainda para os homens. Astrid, a sábia maga que durante anos soubera dar bom uso aos ensinamentos do Livro das Runas, soube também distribuir os mágicos ovos de Dragão pelos três povos, juntamente com a Profecia para a qual todos se deviam preparar. Mas Davdak não desistira ainda de recuperar o Livro das Runas e acrescentara à sua ambição, como vingança do exílio a que fora votado, o domínio absoluto de todos os povos. Depois de centenas de anos a preparar-se, encontrou no reino dos homens terreno fértil e o momento ideal para retomar a sua ambição, fazendo despertar a Profecia. De cada lado das Montanhas do Urso, a magia que delas emanava desde tempos remotos, transformou as férias dos dois jovens estudantes e amigos, chamando-os a intervir no epílogo da ancestral Profecia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897367045"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897367047"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 388,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LpBEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LpBEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LpBEDwAAQBAJ&pg=PA35&dq=A+profecia+das+sombras&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LpBEDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LpBEDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LpBEDwAAQBAJ&rdid=book-LpBEDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_PROFECIA_2o_edi%C3%A7%C3%A3o-sample-pdf.acsm?id=LpBEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LpBEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eSombras\u003c/b\u003e misteriosas moviam-se entre as janelas, primeiro como se receosas, \u003cbr\u003e\ndepois mais ousadas à medida que se internava na cidade. A sua mente \u003cbr\u003e\ninvocou uma magia de proteção quando Êl se aproximou e retirou o arco da sela\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q6K2BAAAQBAJ",
+   "etag": "oPwfEMUATpY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q6K2BAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Profecia de Samsara",
+    "authors": [
+     "Leticia Vilela"
+    ],
+    "publisher": "Gutemberg",
+    "publishedDate": "2014-09-30",
+    "description": "Quando um dos príncipes do Clã mágico dos Devas é assassinado, as suspeitas recaem sobre sua própria mestra, Draupadi. O irmão do príncipe, o jovem Arjuna, jura vingar sua morte e persegue a criminosa pelos reinos mágicos da antiga Índia. Draupadi inicia sua fuga ao lado de Asti, uma humana a quem chama de filha, que guarda um segredo em seu corpo desde que nasceu: uma maldição ancestral em forma de tatuagem, da qual procura desesperadamente se libertar. Todos os fatos fazem os destinos de Arjuna e Asti convergirem definitivamente, o que torna inevitável a concretização da temível Profecia de Samsara.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565383905"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565383903"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q6K2BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q6K2BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q6K2BAAAQBAJ&pg=PT214&dq=A+profecia+das+sombras&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Q6K2BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Q6K2BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Q6K2BAAAQBAJ&rdid=book-Q6K2BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Profecia_de_Samsara-sample-epub.acsm?id=Q6K2BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Profecia_de_Samsara-sample-pdf.acsm?id=Q6K2BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q6K2BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vendo Naguendra no canto do olho, Arjuna virou-se com rapidez e mirou com \u003cbr\u003e\ngosto, atirando-lhe uma flecha que o reduziria a um esqueleto, se Lorde Raveni, \u003cbr\u003e\nainda se recuperando, não o envolvesse em suas \u003cb\u003esombras\u003c/b\u003e e o transportasse a&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yj6MDwAAQBAJ",
+   "etag": "0wqi14c2lzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yj6MDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Avana, volume 1: A profecia do Druida",
+    "authors": [
+     "Annie Lavigne"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2019-02-18",
+    "description": "✤ Uma incrível saga fantástica que nos leva à Irlanda e à Escócia há 2000 anos atrás, quando os deuses celtas e a magia ainda existiam... ✤ Uma filha da tribo de Dana, os deuses da terra de Erin, nasceu no reino dos homens. Meio deusa, meio mortal, Avana é a chave para abrir a porta das Trevas e será caçada pelo seu sangue pelo Grande Lorde Zha'hor. Quando adolescente, inconsciente do segredo de seu nascimento e entristecida por não lhe ensinarem os segredos dos druidas, ela foge para Scottie. O destino vai colocar em seu caminho uma mulher professora pronta para transmitir a ela os segredos da Fé Antiga. É em uma fortaleza cheia de jovens espirituosos que ela treina para se tornar uma guerreira Ulate. Nesse mesmo lugar, ela se encontrará com Valmir, o Connaughta, inimigo de seu povo, mas que fará bater seu coração bater mais forte... Filha de Lug, o Deus Luz, mas também da malvada Ess Enchenn, Avana estará frente a frente com sua Sombra. Rejeitada por seu povo por tentar libertar sua mãe, a criança iluminada será capaz de resistir ao chamado da Escuridão? Enquanto isso, o druida Emroth, com o coração partido pela partida de sua amada, se refugia na Ilha de Man para aprender os segredos da magia elementar. Na companhia dos Magos, ele se comprometerá de corpo e alma na busca pelos 4 elementos que, unidos em um disco, são a única esperança para os habitantes da terra de Erin sobreviverem à invasão das Trevas. Deixe-se transportar para esta saga celta repleta de magia, que assume a forma de um romance em que os personagens devem dominar sua Sombra e encontrar neles a Luz. A autora nos leva a um fantástico mundo de luz e escuridão que reflete a vida do homem, onde tudo nunca é branco ou preto, mas sim um certo tom de cinza. Qualquer mulher se identificará facilmente com Avana, que pode ter vivido 2000 anos atrás, mas que tem as mesmas aspirações em seu coração que qualque",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781547573257"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1547573252"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 125,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yj6MDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yj6MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yj6MDwAAQBAJ&pg=PT246&dq=A+profecia+das+sombras&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yj6MDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yj6MDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yj6MDwAAQBAJ&rdid=book-yj6MDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yj6MDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sentado no chão, ele tentava recuperar os sentidos. - O que foram esses \u003cbr\u003e\nmonstros? - \u003cb\u003eSombras\u003c/b\u003e, provavelmente enviadas pelos Lordes Fomorianos, \u003cbr\u003e\nrespondeu Armos. Vendo o olhar confuso de Emroth, Cavad explicou: - No Outro \u003cbr\u003e\nMundo,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w-SCBgAAQBAJ",
+   "etag": "bgUR9u2jk9E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w-SCBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Confissões & Profecias",
+    "authors": [
+     "Marcelo José Santos"
+    ],
+    "publisher": "Revolução eBook",
+    "publishedDate": "2015-01-20",
+    "description": "Livro de estréia de Marcelo José Santos, Confissões & Profecias, tem linguagem entre o coloquial e o solene. Nele o autor revela sua religiosidade, seu apego às tradições e, ao mesmo tempo, se afasta da nova tradição do hermetismo. Com profundidade busca o sagrado da poesia. Sua busca pelo essencial faz com que a poesia ganhe tons e sentidos que vão muito além de uma mera arquitetura de palavras. Confissões & Profecias é um livro que busca acrescentar à nossa poesia uma dimensão que só o sagrado alcançou.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781942159612"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1942159617"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 50,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w-SCBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w-SCBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=w-SCBgAAQBAJ&pg=PT4&dq=A+profecia+das+sombras&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=w-SCBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-w-SCBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=w-SCBgAAQBAJ&rdid=book-w-SCBgAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w-SCBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "em interrogações: “Terei sido uma esperança, afinal uma forma \u003cb\u003ede profecia\u003c/b\u003e./ O \u003cbr\u003e\nque foram meus segredos ... São o amarelo e o preto perdido por Borges, \u003cbr\u003e\nreencontrados nas mil e uma noites de \u003cb\u003esombra\u003c/b\u003e e criação. E das cicatrizes sem \u003cbr\u003e\nferida,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q3qZBAAAQBAJ",
+   "etag": "Qm9l8KvVSyU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q3qZBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Sombras, Tipos e Mistérios da Bíblia",
+    "authors": [
+     "Joel Leitão de Melo"
+    ],
+    "publisher": "CPAD - Casa Publicadora das Assembleias de Deus",
+    "publishedDate": "2014-08-25",
+    "description": "O simbolismo das Escrituras Sagradas é um assunto sobre o qual não existe muita coisa na literatura evangélica no Brasil. Rituais, figuras, símbolos, numerologia, parábolas. Esta obra se preocupa com este tema de alta importância, permitindo àqueles que gostam de estudar a Palavra de Deus maiores informações, que auxiliarão no entendimento da linguagem bíblica. Um produto CPAD.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526312043"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526312049"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q3qZBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q3qZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=q3qZBAAAQBAJ&pg=PT97&dq=A+profecia+das+sombras&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=q3qZBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-q3qZBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=q3qZBAAAQBAJ&rdid=book-q3qZBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.31E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.455E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sombras_Tipos_e_Mist%C3%A9rios_da_B%C3%ADblia-sample-epub.acsm?id=q3qZBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sombras_Tipos_e_Mist%C3%A9rios_da_B%C3%ADblia-sample-pdf.acsm?id=q3qZBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q3qZBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cumpre \u003cb\u003ea profecia\u003c/b\u003e de Judas “os quais vos diziam que no último tempo haveria \u003cbr\u003e\nescarnecedores que andariam segundo as suas ímpias concupiscências. Estes \u003cbr\u003e\nsão os que causam divisões, sensuais, que não têm o Espírito” (Jd vs 18,19)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "2dpGclc+Yc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=A+profecia+das+sombras&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_6ctAAAAYAAJ",
+   "etag": "qHM6/aWBxHI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_6ctAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ensolarando sombras",
+    "authors": [
+     "Vera Brant"
+    ],
+    "publishedDate": "1986",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022877510"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 175,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_6ctAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_6ctAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_6ctAAAAYAAJ&q=A+profecia+das+sombras&dq=A+profecia+das+sombras&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_6ctAAAAYAAJ&dq=A+profecia+das+sombras&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ensolarando_sombras.html?hl=&id=_6ctAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_6ctAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este quadro deve pertencer a quem cumprirá \u003cb\u003ea profecia\u003c/b\u003e nele contida. É seu. \u003cbr\u003e\nGrande e carinhoso abraço, Vera À tarde, lá pelas quatro horas, fui ao hospital \u003cbr\u003e\nlevar o presente e fazer uma visita à Risoleta e filhos. Estava uma confusão tão&nbsp;..."
+   }
+  }
+ ]
+}

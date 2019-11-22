@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vuwDjwEACAAJ",
+   "etag": "FfYHfg5AyZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vuwDjwEACAAJ",
+   "volumeInfo": {
+    "title": "Não se apega, não",
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580575338"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580575330"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Man-woman relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vuwDjwEACAAJ&dq=isbn:9788580575330&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vuwDjwEACAAJ&dq=isbn:9788580575330&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/N%C3%A3o_se_apega_n%C3%A3o.html?hl=&id=vuwDjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vuwDjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Parece fácil, mas atrapalhada do jeito que é, Isabela precisa primeiro lidar com o assédio de um primo gostosão, com as tentações da balada e, principalmente, entender que o príncipe encantado é artigo em falta no mercado."
+   }
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "T2a4jgEACAAJ",
+   "etag": "pyJfXsy9KEo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T2a4jgEACAAJ",
+   "volumeInfo": {
+    "title": "Minha mãe é uma peça",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539006227"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539006229"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 150,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=T2a4jgEACAAJ&dq=isbn:9788539006229&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=T2a4jgEACAAJ&dq=isbn:9788539006229&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Minha_m%C3%A3e_%C3%A9_uma_pe%C3%A7a.html?hl=&id=T2a4jgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T2a4jgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E, ao contrário dos manuais que ensinam como segurar o marido, conta os segredos para não perder o ex. Paulo Gustavo ficou famoso com o monólogo Minha mãe é uma peça, em cartaz desde 2006."
+   }
+  }
+ ]
+}

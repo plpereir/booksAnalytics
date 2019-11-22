@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Q2hNAQAAIAAJ",
+   "etag": "97eR9XzgEwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q2hNAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Diario do Congresso Nacional",
+    "authors": [
+     "Brazil. Congresso Nacional"
+    ],
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105117555644"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q2hNAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q2hNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q2hNAQAAIAAJ&q=Di%C3%A1rio+de+uma+garota+nada+popular+v3.5&dq=Di%C3%A1rio+de+uma+garota+nada+popular+v3.5&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Q2hNAQAAIAAJ&dq=Di%C3%A1rio+de+uma+garota+nada+popular+v3.5&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_do_Congresso_Nacional.html?hl=&id=Q2hNAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q2hNAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A primeira vez que o Presidente Geisel comparece diante do povo para a ele \u003cbr\u003e\nfalar. recebeu a consagração. o aplauso. o estímulo. a solidariedade do \u003cbr\u003e\ntrabalhador brasileiro. traduzido na grande manifestação \u003cb\u003epopular\u003c/b\u003e de ontem. na \u003cbr\u003e\nCapital do&nbsp;..."
+   }
+  }
+ ]
+}

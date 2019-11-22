@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rlZTSAAACAAJ",
+   "etag": "boiV07/VEYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rlZTSAAACAAJ",
+   "volumeInfo": {
+    "title": "Marketing 3.0",
+    "subtitle": "as forças que estão definindo o novo marketing centrado no ser humano",
+    "authors": [
+     "Philip Kotler",
+     "Hermawan Kartajaya",
+     "Iwan Setiawan"
+    ],
+    "publishedDate": "2010",
+    "description": "O novo modelo de marketing - Marketing 3.0 - trata os clientes não como meros clientes, mas como os seres complexos e multifacetados. Estes, por sua vez, estão escolhendo produtos e serviços que satisfaçam suas necessidades de participação, criatividade, comunidade e idealismo. Neste livro, Philip Kotler mostra porque o futuro do marketing está em criar produtos, serviços e empresas que inspirem, incluam e reflitam os valores de seus consumidores-alvo. Ele também explica o futuro do marketing e porque a maioria de seus profissionais está presa ao passado.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535238697"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535238693"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rlZTSAAACAAJ&dq=isbn:9788535238693&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rlZTSAAACAAJ&dq=isbn:9788535238693&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Marketing_3_0.html?hl=&id=rlZTSAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rlZTSAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O novo modelo de marketing - Marketing 3.0 - trata os clientes não como meros clientes, mas como os seres complexos e multifacetados."
+   }
+  }
+ ]
+}

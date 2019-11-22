@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5LEVAAAACAAJ",
+   "etag": "y1buloTZeks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5LEVAAAACAAJ",
+   "volumeInfo": {
+    "title": "Le Cordon Bleu: todas as técnicas culinárias",
+    "authors": [
+     "Jeni Wright",
+     "Eric Treuille"
+    ],
+    "publishedDate": "2005",
+    "description": "A obra contém mais de oitocentos segredos de preparação e técnicas de cozinha, ilustrados passo a passo. Inclui, também, dicas, sugestões e receitas dos 'top chefs' da escola. Um guia completo e ilustrado de ingredientes e técnicas, com mais de duzentas receitas básicas da mais famosa escola de culinária do mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8527902958"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788527902953"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 351,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5LEVAAAACAAJ&dq=isbn:9788527902953&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5LEVAAAACAAJ&dq=isbn:9788527902953&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Le_Cordon_Bleu_todas_as_t%C3%A9cnicas_culin.html?hl=&id=5LEVAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5LEVAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A obra contém mais de oitocentos segredos de preparação e técnicas de cozinha, ilustrados passo a passo."
+   }
+  }
+ ]
+}

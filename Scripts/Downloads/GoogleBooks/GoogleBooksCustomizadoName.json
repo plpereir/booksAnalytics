@@ -1,0 +1,841 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 159,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RJg3FkAWXHsC",
+   "etag": "z9r0zEwi2Aw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RJg3FkAWXHsC",
+   "volumeInfo": {
+    "title": "Manual Usuário e Administrador vtiger CRM",
+    "authors": [
+     "Valmir Carlos Trindade"
+    ],
+    "publisher": "Valmir Carlos Trindade",
+    "description": "Neste Manual apresentamos todas as funcionalidades do software Open Source vtiger CRM, bem como todos os recursos disponíveis para configuração do Sistema.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RJg3FkAWXHsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RJg3FkAWXHsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RJg3FkAWXHsC&pg=PA167&dq=Customizado&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RJg3FkAWXHsC&dq=Customizado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manual_Usu%C3%A1rio_e_Administrador_vtiger_C.html?hl=&id=RJg3FkAWXHsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RJg3FkAWXHsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Elas serão necessárias, caso você queira converter Leads para Oportunidades \u003cbr\u003e\ncomo descrito na seção seguinte. Campos \u003cb\u003eCustomizados\u003c/b\u003e para Leads Os \u003cbr\u003e\ncampos \u003cb\u003ecustomizados\u003c/b\u003e para Leads são especiais. Você pode decidir o que fará \u003cbr\u003e\ncom o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8xT9sD0kpfUC",
+   "etag": "bQLJaPifrdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8xT9sD0kpfUC",
+   "volumeInfo": {
+    "title": "Sistemas Digitais",
+    "authors": [
+     "Frank Vahid"
+    ],
+    "publisher": "Bookman Editora",
+    "publishedDate": "2009-01-01",
+    "description": "Uma coletânea de textos de pesquisadores reconhecidos, oferece uma ampla visão da aprendizagem organizacional e de temas relacionados ao conhecimento em organizações no Brasil. Conta com a contribuição de dois professores convidados que atuam internacionalmente nesta área de pesquisa. Além de sistematizar textos predominantemente conceituais que abordam o atual debate, busca demonstrar o desenvolvimento de trabalhos nacionais e apresentar temas futuros que cobrem tópicos relacionados à Aprendizagem Organizacional e ao Conhecimento Organizacional",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577802371"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857780237X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 557,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.51.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8xT9sD0kpfUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8xT9sD0kpfUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8xT9sD0kpfUC&pg=PA398&dq=Customizado&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8xT9sD0kpfUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8xT9sD0kpfUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 153.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 153.6,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8xT9sD0kpfUC&rdid=book-8xT9sD0kpfUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.536E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.536E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sistemas_Digitais-sample-pdf.acsm?id=8xT9sD0kpfUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8xT9sD0kpfUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A seguir, decidem _ k AIertaParaCinto onde colocar cada transistor sobre a \u003cbr\u003e\nsuper- = fície do chip, como orientar cada um deles p (por exemplo, da esquerda \u003cbr\u003e\npara a d1re1ta, da = )-_› Lelaute \u003cb\u003ecustomizado\u003c/b\u003e direita para a esquerda, de cima \u003cbr\u003e\npara&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XcRVdBSDyI0C",
+   "etag": "ESrdVTlQKLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XcRVdBSDyI0C",
+   "volumeInfo": {
+    "title": "ORTODONTIA - PRINCIPIOS E TECNICAS ATUAIS",
+    "authors": [
+     "Lee W. Graber",
+     "Robert L. Vanarsdall Jr.",
+     "Katherine W.l. Vig"
+    ],
+    "publisher": "Elsevier Brasil",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535251975"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535251979"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1112,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XcRVdBSDyI0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XcRVdBSDyI0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XcRVdBSDyI0C&pg=PA615&dq=Customizado&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XcRVdBSDyI0C&dq=Customizado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ORTODONTIA_PRINCIPIOS_E_TECNICAS_ATUAIS.html?hl=&id=XcRVdBSDyI0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XcRVdBSDyI0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A introdução de bráquetes e arcos \u003cb\u003ecustomizados\u003c/b\u003e será descrita e ilustrada como \u003cbr\u003e\né usada no Sistema Incognito (TOP-Service für Lingualtechnik GmbH, 3M \u003cbr\u003e\nCompany, Bad Essen, Alemanha). O uso do bráquete \u003cb\u003ecustomizado\u003c/b\u003e tem permitido \u003cbr\u003e\naos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QMsLBAAAQBAJ",
+   "etag": "iek3PITftN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QMsLBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Gestão de Propriedades Rurais - 7.ed.",
+    "subtitle": "",
+    "authors": [
+     "Ronald D. Kay",
+     "William M. Edwards",
+     "Patricia A. Duffy"
+    ],
+    "publisher": "AMGH Editora",
+    "publishedDate": "2014-07-01",
+    "description": "Os estabelecimentos agropecuários, como qualquer outra empresa, precisam de uma boa gestão para sobreviver e prosperar. Seus gestores precisam estar atentos a novas tecnologias, tendências de mercado (interno e externo) e preferências do consumidor, além de conhecer as políticas e regras governamentais relativas a meio ambiente, subsídios e tributação. Para tanto, este livro trata da gestão de propriedades rurais, com conteúdo atualizado e bem distribuído entre os capítulos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580553963"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580553962"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 466,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QMsLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QMsLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QMsLBAAAQBAJ&pg=PA423&dq=Customizado&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QMsLBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QMsLBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 109.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 109.6,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QMsLBAAAQBAJ&rdid=book-QMsLBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.096E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.096E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gest%C3%A3o_de_Propriedades_Rurais_7_ed-sample-pdf.acsm?id=QMsLBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QMsLBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Contratação \u003cb\u003ecustomizada\u003c/b\u003e Quando há os dados de custo necessários, o ponto de \u003cbr\u003e\nequilíbrio pode ser obtido por meio da seguinte equação: Ponto de equílibrio \u003cbr\u003e\nCustos fixos totais anuais Contratação \u003cb\u003ecustomizada\u003c/b\u003e Custos variáveis por \u003cbr\u003e\nunidade&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "42M3AgAAQBAJ",
+   "etag": "8XXx3XT+Uc4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/42M3AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Contabilidade Gerencial - 14ed",
+    "authors": [
+     "Ray H. Garrison",
+     "Eric W. Noreen",
+     "Peter C. Brewer"
+    ],
+    "publisher": "AMGH Editora",
+    "publishedDate": "2013-01-01",
+    "description": "A contabilidade gerencial é instrumento essencial para a análise das necessidades internas de qualquer organização[Created by]; por meio dela, obtemos as informações necessárias para os planos de ação, as atividades de controle e as tomadas de decisão. Esta 14ª edição de Contabilidade gerencial mostra como coletar e interpretar as informações contábeis e apresenta novas ferramentas didáticas para auxiliar o estudo, como resolução de exercícios com o uso de fórmulas no Excel®, textos para análise com base em casos reais de grandes empresas e outros recursos aplicados à sua realidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580551624"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580551625"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 776,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=42M3AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=42M3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=42M3AgAAQBAJ&pg=PA288&dq=Customizado&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=42M3AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-42M3AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 180.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 180.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=42M3AgAAQBAJ&rdid=book-42M3AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.8E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.8E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Contabilidade_Gerencial_14ed-sample-pdf.acsm?id=42M3AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=42M3AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Caixas de bússolas \u003cb\u003ecustomizadas\u003c/b\u003e 1. Esse é um produto \u003cb\u003ecustomizado\u003c/b\u003e que exige \u003cbr\u003e\nnovos recursos para ser projetado. 2. Foram feitos 400 pedidos de caixas de \u003cbr\u003e\nbússolas \u003cb\u003ecustomizadas\u003c/b\u003e. Os pedidos desse produto são feitos separadamente&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uH_8BAAAQBAJ",
+   "etag": "Dc0ZaS7u3Ls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uH_8BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Recordação mortal",
+    "authors": [
+     "J.D. Robb"
+    ],
+    "publisher": "Editora Bertrand Brasil",
+    "publishedDate": "2014-10-10",
+    "description": "Em Recordação Mortal, a corajosa tenente Eve Dallas é forçada a mergulhar de volta em seu passado. Trudy Lombard, uma mulher cruel e oportunista que diz ser sua mãe, aparece na Central de Polícia e desperta as piores lembranças na tenente, fazendo-a relembrar o tempo em que era atormentada e torturada diariamente. Mas parece que Eve não foi a única a sofrer nas mãos de Trudy, e talvez alguém esteja em busca de vingança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788528619881"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8528619885"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 476,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uH_8BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uH_8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uH_8BAAAQBAJ&pg=PT29&dq=Customizado&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uH_8BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uH_8BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uH_8BAAAQBAJ&rdid=book-uH_8BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.6E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Recorda%C3%A7%C3%A3o_mortal-sample-epub.acsm?id=uH_8BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Recorda%C3%A7%C3%A3o_mortal-sample-pdf.acsm?id=uH_8BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uH_8BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu até lhe preparei um pacotinho \u003cb\u003ecustomizado\u003c/b\u003e, só para ele. — \u003cb\u003eCustomizado\u003c/b\u003e? — \u003cbr\u003e\nPresente de Natal. Não cobrei nada, nem exigi favores em troca. Eu é que devia \u003cbr\u003e\nprocessá-lo, sabia? Deveria jogar um processo em cima desse rato idiota, por&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KecchgvmTPAC",
+   "etag": "dWqwnOY9BeE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KecchgvmTPAC",
+   "volumeInfo": {
+    "title": "Oftalmologia",
+    "authors": [
+     "Myron Yanoff",
+     "Jay S. DUKER"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2011-07-28",
+    "description": "CONTÉM EXATAMENTE O QUE VOCÊ PRECISA... Com base no feedback dos leitores, os doutores Yanoff e Duker dinamizaram este livro de referência que é um sucesso de vendas. A maior parte das informações científicas básicas e das informações de anatomia foram reestruturadas nesta nova edição, que se concentra nas orientações práticas que precisam ser buscadas com maior frequência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535254983"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535254986"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 1552,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.9.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KecchgvmTPAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KecchgvmTPAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KecchgvmTPAC&pg=PA172&dq=Customizado&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KecchgvmTPAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KecchgvmTPAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 783.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 783.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KecchgvmTPAC&rdid=book-KecchgvmTPAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.8325E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.8325E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Oftalmologia-sample-epub.acsm?id=KecchgvmTPAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KecchgvmTPAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "3.7-4D, 3.7-10). Depois de obter dados de ambos os equipamentos, o software \u003cbr\u003e\nZlink os combina para gerar o perfil de ablação \u003cb\u003ecustomizado\u003c/b\u003e em uma janela que \u003cbr\u003e\nFig. 3.7-9 Tela do LADARWave mostrando o valor de cada aberração. inclui o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iQqUm93DYJYC",
+   "etag": "M1cF/PHXVAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iQqUm93DYJYC",
+   "volumeInfo": {
+    "title": "Da válvula ao Microchip - Parte 3",
+    "publisher": "Da Válvula ao Microchip",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iQqUm93DYJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iQqUm93DYJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iQqUm93DYJYC&pg=PA100&dq=Customizado&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iQqUm93DYJYC&dq=Customizado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Da_v%C3%A1lvula_ao_Microchip_Parte_3.html?hl=&id=iQqUm93DYJYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iQqUm93DYJYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A tendência, a partir de então, passa pelo surgimento de diversos canais de \u003cbr\u003e\ninformação \u003cb\u003ecustomizada\u003c/b\u003e, assim como já ... que ele prefere, a emissora +Mais \u003cbr\u003e\nConteúdo \u003cb\u003eCustomizado\u003c/b\u003e ACESSE O SITE As Organizações Globo já possuem \u003cbr\u003e\numa&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s48Wk4Nj5EoC",
+   "etag": "ZALz+/EWgu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s48Wk4Nj5EoC",
+   "volumeInfo": {
+    "title": "Dicionário de Administração",
+    "authors": [
+     "Duarte, Geraldo"
+    ],
+    "publisher": "KBR",
+    "publishedDate": "2015-12-29",
+    "description": "Terminologia usual na iniciativa privada e no serviço público, Siglas, jargões e curiosidades da Administração. Indicações temáticas referenciais de verbetes por assunto. Equivalência em inglês dos termos e expressões técnicas. Inclui a Legislação e o Código de Ética da Profissão de Administrador, assim como termos e conceitos utilizados em concursos públicos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564046122"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564046121"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 687,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s48Wk4Nj5EoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s48Wk4Nj5EoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s48Wk4Nj5EoC&pg=PT395&dq=Customizado&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s48Wk4Nj5EoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s48Wk4Nj5EoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s48Wk4Nj5EoC&rdid=book-s48Wk4Nj5EoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_de_Administra%C3%A7%C3%A3o-sample-epub.acsm?id=s48Wk4Nj5EoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_de_Administra%C3%A7%C3%A3o-sample-pdf.acsm?id=s48Wk4Nj5EoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s48Wk4Nj5EoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eCustomizar\u003c/b\u003e. Ajustar ou fazer de acordo com as necessidades do cliente. Ver: \u003cbr\u003e\ncustomização, cliente, foco no cliente, marketing de relacionamento e gestão de \u003cbr\u003e\nrelacionamento com o cliente. Customize (Ingl). Customization. Customização (\u003cbr\u003e\nver)&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ENgSAQAAMAAJ",
+   "etag": "Bg8eMxpNWMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ENgSAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Jargão",
+    "subtitle": "o dicionário informal dos termos da informática",
+    "authors": [
+     "Robin Williams",
+     "Steve Cummings"
+    ],
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "CHI:54868138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 692,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ENgSAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ENgSAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ENgSAQAAMAAJ&q=Customizado&dq=Customizado&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ENgSAQAAMAAJ&dq=Customizado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jarg%C3%A3o.html?hl=&id=ENgSAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ENgSAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Estes são os pontos de controle, ou BCPS. \u003cb\u003ecustomizar\u003c/b\u003e, \u003cb\u003ecustomizado\u003c/b\u003e custom \u003cbr\u003e\n\u003cb\u003eCustomizar\u003c/b\u003e um item (programa, ícone etc.) é personalizá-lo; um ícone \u003cbr\u003e\n\u003cb\u003ecustomizado\u003c/b\u003e é um ícone desenhado por você. CUt Veja recortar. cybernetics \u003cbr\u003e\nVeja cibernética."
+   }
+  }
+ ]
+}

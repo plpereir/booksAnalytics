@@ -1,0 +1,785 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 455,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GNvDCgAAQBAJ",
+   "etag": "MGO23Ps1cPk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GNvDCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Brasil tem cura",
+    "authors": [
+     "Rachel Sheherazade"
+    ],
+    "publisher": "Editora Mundo Cristão",
+    "publishedDate": "2015-11-13",
+    "description": "\"O Brasil tem cura\" faz uma radiografia, sem máscaras, da nossa pátria. Em busca de soluções, põe sob os holofotes as principais mazelas que assolam o país. Partindo de uma análise histórica, Rachel Sheherazade identifica alguns dos problemas que adoecem o Brasil e propõe caminhos para saná-los. A obra se guia pelo pressuposto de que o país só será passado a limpo se cada brasileiro fizer a sua parte e passar a agir com integridade inegociável, ensinando essa postura às futuras gerações. Convido-o a, juntos, descobrirmos por que nosso país enveredou por caminhos tão penosos e a refletir acerca de quais escolhas nos têm feito pagar um preço tão alto por sermos brasileiros. Proponho-me a indicar e a contextualizar as que entendo ser algumas das principais mazelas do Brasil, de modo que sirvam de ponto de partida para repensarmos tudo o que precisa ser mudado. Rachel Sheherazade",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543301181"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543301181"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GNvDCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GNvDCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GNvDCgAAQBAJ&printsec=frontcover&dq=O+Brasil+tem+cura&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GNvDCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GNvDCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.23,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GNvDCgAAQBAJ&rdid=book-GNvDCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.223E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_tem_cura-sample-epub.acsm?id=GNvDCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_tem_cura-sample-pdf.acsm?id=GNvDCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GNvDCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;O Brasil tem cura&quot; faz uma radiografia, sem máscaras, da nossa pátria."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bC0EAAAAMBAJ",
+   "etag": "TsD89/xzH10",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bC0EAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Trip",
+    "publishedDate": "1990-01",
+    "description": "Revista Trip. Um olhar criativo para a diversidade, em reportagens de comportamento, esportes de prancha, cultura pop, viagens, além dos ensaios de Trip Girl e grandes entrevistas",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bC0EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bC0EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bC0EAAAAMBAJ&pg=PT6&dq=O+Brasil+tem+cura&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bC0EAAAAMBAJ&dq=O+Brasil+tem+cura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trip.html?hl=&id=bC0EAAAAMBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bC0EAAAAMBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "TRlP Como presidente da Bolsa, como uma pessoa que já conheceu vários \u003cbr\u003e\npaíses, você acha que \u003cb\u003eo Brasil tem cura\u003c/b\u003e? FERNANDO O grande problema do \u003cbr\u003e\nBrasil é a gente não ter uma mentalidade internacional. O Brasil faz parte do \u003cbr\u003e\nmundo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6tkDAQAAIAAJ",
+   "etag": "iP+kSzIXsrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6tkDAQAAIAAJ",
+   "volumeInfo": {
+    "title": "O Desemprego Tem Cura?",
+    "authors": [
+     "José Pastore"
+    ],
+    "publisher": "Makron Books",
+    "publishedDate": "1998-01-01",
+    "description": "'O Desemprego Tem Cura?' faz um balanço extenso das experiências bem-sucedidas, examina os fatores que vêm determinando o desemprego e subemprego no Brasil e ressalta a grande potencialidade de geração de trabalho na economia brasileira. 'O Desemprego Tem",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105028992704"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 270,
+    "printType": "BOOK",
+    "categories": [
+     "Labor market"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6tkDAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6tkDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6tkDAQAAIAAJ&q=O+Brasil+tem+cura&dq=O+Brasil+tem+cura&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6tkDAQAAIAAJ&dq=O+Brasil+tem+cura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Desemprego_Tem_Cura.html?hl=&id=6tkDAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6tkDAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;O Desemprego Tem Cura?&#39; faz um balanço extenso das experiências bem-sucedidas, examina os fatores que vêm determinando o desemprego e subemprego no Brasil e ressalta a grande potencialidade de geração de trabalho na economia ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dhLFp6qfVq4C",
+   "etag": "wnT70p1wwNg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dhLFp6qfVq4C",
+   "volumeInfo": {
+    "title": "Retratos do Brasil",
+    "publisher": "EDIPUCRS",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574304743"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574304748"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dhLFp6qfVq4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dhLFp6qfVq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dhLFp6qfVq4C&pg=PA53&dq=O+Brasil+tem+cura&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dhLFp6qfVq4C&dq=O+Brasil+tem+cura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Retratos_do_Brasil.html?hl=&id=dhLFp6qfVq4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dhLFp6qfVq4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Encargos sociais - implicações para \u003cb\u003eo\u003c/b\u003e salário, emprego e competitividade. São \u003cbr\u003e\nPaulo: Editora LTR, 1997; PASTORE, José. \u003cb\u003eO\u003c/b\u003e desemprego \u003cb\u003etem cura\u003c/b\u003e? São Paulo: \u003cbr\u003e\nMakron Books \u003cb\u003edo Brasil\u003c/b\u003e, 1998. de vista \u003cb\u003edo\u003c/b\u003e emprego e da economia, e usando&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "p5AeZ7KIeVU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=O+Brasil+tem+cura&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4wQmDwAAQBAJ",
+   "etag": "r+CBaPHVPoM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4wQmDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Bíblia Sagrada Edição Bilíngue — Holy Bible Bilingual Edition (RC - KJV)",
+    "subtitle": "Português-English: Almeida Revista e Corrigida — King James Version",
+    "authors": [
+     "Sociedade Bíblica do Brasil"
+    ],
+    "publisher": "Sociedade Bíblica do Brasil",
+    "publishedDate": "2017-05-31",
+    "description": "BÍBLIA SAGRADA EDIÇÃO BILÍNGUE Este e-book traz a Bíblia Sagrada em dois idiomas: português e inglês. As traduções escolhidas foram a Almeida Revista e Corrigida (ARC) e a King James Version (KJV). Alinhadas versículo a versículo, essas duas versões clássicas e amadas do texto sagrado apresentam a Palavra de Deus de uma maneira precisa, usando uma linguagem conhecida, que fala diretamente ao coração. Ideal para quem quer aprender idiomas ou se aprofundar no aprendizado deles, e para todos aqueles que desejam ler o texto bíblico em versões primorosas, comparando traduções fiéis da Palavra de Deus. HOLY BIBLE BILINGUAL EDITION This eBook contains the Holy Bible in two languages: Portuguese and English. The translations chosen were the Almeida Revista e Corrigida (ARC) and the King James Version (KJV). Aligned verse-by-verse, these two classic and beloved versions of the sacred text present the Word of God in a precise way, using a familiar language that speaks directly to the heart. Ideal for those who want to learn languages or to deepen their learning, and for those who wish to read the biblical text in beautiful versions, comparing faithful translations of the Word of God.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531116179"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8531116171"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 6345,
+    "printType": "BOOK",
+    "categories": [
+     "Bibles"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4wQmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4wQmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4wQmDwAAQBAJ&printsec=frontcover&dq=O+Brasil+tem+cura&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4wQmDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4wQmDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.96,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4wQmDwAAQBAJ&rdid=book-4wQmDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7960000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7110000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/B%C3%ADblia_Sagrada_Edi%C3%A7%C3%A3o_Bil%C3%ADngue_Holy-sample-epub.acsm?id=4wQmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4wQmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ideal for those who want to learn languages or to deepen their learning, and for those who wish to read the biblical text in beautiful versions, comparing faithful translations of the Word of God."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lyWoBAAAQBAJ",
+   "etag": "vocmkpm0lsk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lyWoBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O Brasil é bom",
+    "authors": [
+     "André Sant'Anna"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2014-03-26",
+    "description": "O Brasil é bom. Afinal, a Amazônia não será desmatada, os deputados não são ricos nem corruptos, as obras da Copa não foram superfaturadas e não há milhares de crianças pobres dormindo na rua. Escrevendo em um permanente tom irônico, André Sant'Anna, que em O paraíso é bem bacana e Sexo e amizade já havia mergulhado no terreno da crítica social, criou aqui o seu livro mais mordaz. Nos 22 contos que formam O Brasil é bom, a velha classe média observa - apavorada e temerosa - a ascensão da nova classe média, o consumismo é uma epidemia nociva, o dinheiro é a única coisa que move os brasileiros e a Igreja explora os fiéis. Em \"Lodaçal\", o texto mais longo, dois garotos que vivem à margem da sociedade imaginam, em uma narrativa delirante, inúmeros futuros para si - todos interrompidos pela violência. A metralhadora de André Sant'Anna aponta para diversos alvos: em um momento, satiriza o discurso daqueles que se consideram \"cidadãos de bem\" e nutrem fantasias dignas do tempo da ditadura; em outro, critica as medidas paliativas que transformaram a classe C em uma horda de consumidores, dando a eles a ilusão de que o país está melhorando e de que agora foram incluídos na sociedade. O resultado é uma visão pessimista e apocalíptica, que expõe os conflitos raciais e sociais do Brasil que apenas começaram a explodir.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580869705"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580869706"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lyWoBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lyWoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lyWoBAAAQBAJ&pg=PT90&dq=O+Brasil+tem+cura&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lyWoBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lyWoBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lyWoBAAAQBAJ&rdid=book-lyWoBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.75E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.75E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_%C3%A9_bom-sample-epub.acsm?id=lyWoBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_%C3%A9_bom-sample-pdf.acsm?id=lyWoBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lyWoBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "porque \u003cb\u003eo\u003c/b\u003e Chiquinho já passou da idade de não tomar umas porradas, da idade \u003cbr\u003e\nde ser bonitinho, um trocinho assim que ... olha lá, tudo vagabundo já, não \u003cb\u003etem\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ecura\u003c/b\u003e mais, não, \u003cb\u003eo\u003c/b\u003e Chiquinho e o Toninho fumando folha de árvore, muito louco&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ne0kbz7O8iMC",
+   "etag": "zV4MXzAtcxg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ne0kbz7O8iMC",
+   "volumeInfo": {
+    "title": "O Brasil tem jeito?",
+    "publisher": "Zahar",
+    "publishedDate": "2006",
+    "description": "\"O Brasil Tem Jeito?\", com organização de Arthur Ituassu e Rodrigo de Almeida, discute temas que estão na pauta da sociedade brasileira. Os autores recorreram a especialistas das áreas de educação, saúde, justiça e segurança para obter respostas para o país. Os escolhidos para responderem às questões propostas foram Adib Jatene (médico-cardiologista e ex-ministro da Saúde), Dalmo Dallari (professor emérito da USP), Luiz Eduardo Soares (ex-secretário nacional de Segurança Pública), Miriam Guindani (criminóloga e professora da UFRJ), Maria Helena Guimarães de Castro (secretária estadual de Educação de São Paulo), entre outros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857110932X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571109322"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ne0kbz7O8iMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ne0kbz7O8iMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ne0kbz7O8iMC&pg=PA59&dq=O+Brasil+tem+cura&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ne0kbz7O8iMC&dq=O+Brasil+tem+cura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Brasil_tem_jeito.html?hl=&id=ne0kbz7O8iMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ne0kbz7O8iMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se a dúvida fosse sobre remédio ou \u003cb\u003ecura\u003c/b\u003e, seria como admitir a existência de \u003cbr\u003e\numa doença. Mas &quot;jeito&quot;? Jeito é uma instituição caracteristicamente brasileira, \u003cbr\u003e\nde natureza &quot;paralegal&quot;, como dizia \u003cb\u003eo\u003c/b\u003e mestre Roberto Campos, algo como a &quot;rua\u003cbr\u003e\n&quot;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ByZ8ysl8p7YC",
+   "etag": "zUb/cO/ciZ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ByZ8ysl8p7YC",
+   "volumeInfo": {
+    "title": "Acne tem Cura",
+    "authors": [
+     "Lydia Preston"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2007",
+    "description": "'Acne Tem Cura', escrito pelo dermatologista Otávio Macedo e pela jornalista Lydia Preston faz um exame abrangente das complexidades da acne para ajudar na compreensão da doença e contribuir para a eficácia do tratamento. A publicação traz informações atualizadas que os autores colheram em suas experiências profissionais além de suas próprias vivências com o problema. Descreve o processo de surgimento da doença e aborda as características dos diferentes tipos de acne, como a branda, a inflamatória, a cosmética. Mostra de que forma seguir um tratamento demartológico efetivo, seguro e capaz de minimizar e evitar as cicatrizes. Aponta também técnicas alternativas como a acupuntura. Orienta de forma didática de que maneira escolher diante das inúmeras opções de produtos para limpeza de pele, tônicos, loções, máscaras. Apresenta as descobertas mais recentes, os avanços e o que ainda não foi decifrado. Investiga o que estimula e agrava os surtos. E derruba mitos ao afirmar que 'nunca se comprovou cientificamente que o chocolate cause acne'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525041580"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525041586"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Acne"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ByZ8ysl8p7YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ByZ8ysl8p7YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ByZ8ysl8p7YC&pg=PA62&dq=O+Brasil+tem+cura&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ByZ8ysl8p7YC&dq=O+Brasil+tem+cura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Acne_tem_Cura.html?hl=&id=ByZ8ysl8p7YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ByZ8ysl8p7YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... médica legítima) são regulados pelo FDA e pela Anvisa (Agência Nacional de \u003cbr\u003e\nVigilância Sanitária, órgão regulador \u003cb\u003edo Brasil\u003c/b\u003e). ... Assim, \u003cb\u003eo\u003c/b\u003e produto que no rótulo \u003cbr\u003e\npromete tratar a acne \u003cb\u003etem\u003c/b\u003e de conter pelo menos um dos quatro agentes na&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Iuk4AQAAMAAJ",
+   "etag": "BgG5xG7uSVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Iuk4AQAAMAAJ",
+   "volumeInfo": {
+    "title": "Corographia historica, chronographica, genealogica, nobiliaria, e politica do imperio do Brasil ...",
+    "authors": [
+     "Alexandre José Mello Moraes"
+    ],
+    "publishedDate": "1859",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "CORNELL:31924062544733"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Iuk4AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Iuk4AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Iuk4AQAAMAAJ&pg=RA1-PA451&dq=O+Brasil+tem+cura&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Iuk4AQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Iuk4AQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=Iuk4AQAAMAAJ&rdid=book-Iuk4AQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Iuk4AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Piratininga é villa da invocação da conversão de S. Paulo, está \u003cb\u003edo\u003c/b\u003e mar para \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\nsertão dentro doze Ieguas, é terra muito ... nao \u003cb\u003etem cura\u003c/b\u003e, riem outros sacerdotes, \u003cbr\u003e\nsenão os da companhia, aos quai-s \u003cb\u003etem\u003c/b\u003e grande amor e respeito, e por nenliiim&nbsp;..."
+   }
+  }
+ ]
+}

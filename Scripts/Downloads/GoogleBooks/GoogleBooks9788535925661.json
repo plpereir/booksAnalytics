@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "s0rFsgEACAAJ",
+   "etag": "miMQVc4tQ20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s0rFsgEACAAJ",
+   "volumeInfo": {
+    "title": "Brasil",
+    "subtitle": "uma biografia",
+    "authors": [
+     "Lilia Moritz Schwarcz",
+     "Heloisa Maria Murgel Starling"
+    ],
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853592566X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535925661"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 792,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s0rFsgEACAAJ&dq=isbn:9788535925661&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=s0rFsgEACAAJ&dq=isbn:9788535925661&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brasil.html?hl=&id=s0rFsgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s0rFsgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Aliando texto acessível e agradável, vasta documentação original e rica iconografia, Lilia Moritz Schwarcz e Heloisa Starling propõem uma nova (e pouco convencional) história do Brasil."
+   }
+  }
+ ]
+}

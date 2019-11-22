@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SzKOrgEACAAJ",
+   "etag": "98DVVaI1qPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SzKOrgEACAAJ",
+   "volumeInfo": {
+    "title": "As deliciosas receitas do Tempero de Família",
+    "authors": [
+     "Rodrigo Hilbert"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525057525"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525057525"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SzKOrgEACAAJ&dq=isbn:9788525057525&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=SzKOrgEACAAJ&dq=isbn:9788525057525&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_deliciosas_receitas_do_Tempero_de_Fam.html?hl=&id=SzKOrgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SzKOrgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rodrigo Hilbert transporta para seu livro, com quarenta e nove receitas e várias fotos incríveis para ensinar a fazer um delicioso salame caseiro ou um bolo de aipim que sua avó servia no café da tarde, a mesma irreverência com que ..."
+   }
+  }
+ ]
+}

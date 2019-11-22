@@ -1,0 +1,101 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Pq9GDQAAQBAJ",
+   "etag": "dUtAfHGhJZ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pq9GDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Divaldo Franco",
+    "subtitle": "A Trajetória de Um Dos Maiores Médiuns de Todos Os Tempos",
+    "authors": [
+     "Ana Landi"
+    ],
+    "publisher": "Belaletra Editora Ltda",
+    "publishedDate": "2015-02-23",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564431171"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564431173"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Pq9GDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Pq9GDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Pq9GDQAAQBAJ&printsec=frontcover&dq=isbn:9788564431171&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Pq9GDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Pq9GDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Pq9GDQAAQBAJ&rdid=book-Pq9GDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Divaldo_Franco-sample-epub.acsm?id=Pq9GDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Divaldo_Franco-sample-pdf.acsm?id=Pq9GDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Pq9GDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

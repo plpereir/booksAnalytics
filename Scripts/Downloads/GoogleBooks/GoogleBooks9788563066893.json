@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EGSktgAACAAJ",
+   "etag": "t3vtGVX/9EM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EGSktgAACAAJ",
+   "volumeInfo": {
+    "title": "MADRE TERESA CEO",
+    "authors": [
+     "RUMA BOSE",
+     "LOU FAUST"
+    ],
+    "description": "Utilizando técnicas que poderiam ser aplicadas em qualquer tipo de organização, a religiosa Madre Teresa criou e comandou por 47 anos a empresa Missionárias da Caridade, uma organização mundial em prol dos mais pobres. A autora do livro conviveu com Madre Teresa por um ano e a observou comandando uma instituição que lidava com voluntários de todas as partes do mundo. Passados 20 anos dessa experiência, ela percebeu como sua vida tinha sido influenciada pelo tempo na ordem, então convidou o empresário Lou Faust para juntos descreverem os princípios de sucesso daquela organização. O resultado é um manual de gestão contemporânea para profissionais de todos os ramos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563066897"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563066893"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EGSktgAACAAJ&dq=isbn:9788563066893&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=EGSktgAACAAJ&dq=isbn:9788563066893&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MADRE_TERESA_CEO.html?hl=&id=EGSktgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EGSktgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Passados 20 anos dessa experiência, ela percebeu como sua vida tinha sido influenciada pelo tempo na ordem, então convidou o empresário Lou Faust para juntos descreverem os princípios de sucesso daquela organização."
+   }
+  }
+ ]
+}

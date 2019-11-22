@@ -1,0 +1,81 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OACe5Fpx-boC",
+   "etag": "/JTfAxmi7m4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OACe5Fpx-boC",
+   "volumeInfo": {
+    "title": "O Poder Oculto",
+    "subtitle": "E Outros Ensaios Sobre a Ciência Da Mente",
+    "authors": [
+     "Thomas Troward"
+    ],
+    "publisher": "Clio Editora",
+    "publishedDate": "2012-01-10",
+    "description": "Pela \"Lei da atração\", segundo o movimento do Novo Pensamento, os pensamentos possuem energia - energia que pode transformar a vida das pessoas e ajudá-las no desenvolvimento e aumento da autoconfiança para a realização de seus objetivos. Para isso, é necessário controlar essa energia e praticar quatro ações: saber o que se quer; pedir pelo que se quer; sentir e agir como se estivesse alcançando o objeto de seu desejo; e, por fim, estar aberto para recebê-lo. Da mesma forma, pensar no que não se tem menifesta-se em não ter. Portanto, aderindo aos quatro princípios acima e evitando pensamentos negativos, o Universo irá se manifestar a favor e na direção da realização dos objetivos almejados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578310888"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578310882"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OACe5Fpx-boC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OACe5Fpx-boC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OACe5Fpx-boC&printsec=frontcover&dq=isbn:9788578310882&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OACe5Fpx-boC&dq=isbn:9788578310882&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Poder_Oculto.html?hl=&id=OACe5Fpx-boC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_Oculto-sample-pdf.acsm?id=OACe5Fpx-boC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OACe5Fpx-boC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pela &quot;Lei da atração&quot;, segundo o movimento do Novo Pensamento, os pensamentos possuem energia - energia que pode transformar a vida das pessoas e ajudá-las no desenvolvimento e aumento da autoconfiança para a realização de seus ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iKMOywAACAAJ",
+   "etag": "LJ9kpwjGi1I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iKMOywAACAAJ",
+   "volumeInfo": {
+    "title": "Steve Jobs",
+    "subtitle": "a biografia",
+    "authors": [
+     "Walter Isaacson",
+     "STEVE JOBS",
+     "Denise Guimarães Bottmann",
+     "Berilo Vargas",
+     "Pedro Maia Soares"
+    ],
+    "publishedDate": "2011",
+    "description": "Este livro, baseado em mais de quarenta entrevistas com Steve Jobs - e entrevistas com familiares, amigos, colegas, adversários e concorrentes -, narra a vida deste empresário, cuja paixão pela perfeição e cuja energia contribuíram para seis indústrias - a computação pessoal, o cinema de animação, a música, a telefonia celular, a computação em tablet e a edição digital.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535919716"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535919714"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 607,
+    "printType": "BOOK",
+    "categories": [
+     "Businesspeople"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iKMOywAACAAJ&dq=isbn:9788535919714&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iKMOywAACAAJ&dq=isbn:9788535919714&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Steve_Jobs.html?hl=&id=iKMOywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iKMOywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro, baseado em mais de quarenta entrevistas com Jobs ao longo de dois anos - e entrevistas com mais de cem familiares, amigos, colegas, adversários e concorrentes -, narra a vida atribulada do empresário extremamente inventivo e de ..."
+   }
+  }
+ ]
+}

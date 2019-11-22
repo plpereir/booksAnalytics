@@ -1,0 +1,841 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 147,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MR1_p79GNWEC",
+   "etag": "0lN/Bk1tSps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MR1_p79GNWEC",
+   "volumeInfo": {
+    "title": "Mil Dias em Veneza",
+    "authors": [
+     "Marlena de Blasi"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-02-28",
+    "description": "Ele viu-a do outro lado da Piazza San Marco e apaixonou-se à distância. Um ano mais tarde, quando volta a vê-la num café em Veneza, sabe que é o destino. Ele fala mal inglês; ela, uma chef americana divorciada, só fala italiano relacionado com comida. Marlena está convencida de não estar preparada para a intimidade, de que o seu coração perdeu a capacidade de se entregar a um amor romântico. Mas, alguns meses depois do seu primeiro encontro, ela faz as malas e deixa a sua casa em Saint Louis para casar com Fernando - «o estranho», como lhe chama - e viver na cidade dolorosamente encantadora em que se conheceram. Entusiasmada mas vagamente desorientada por esta atitude ousada, Marlena sente-se esmagada pela completa estranheza da sua nova casa, dos seus rituais e costumes. Mas há momentos deliciosos em que Veneza abre os braços a Marlena. Ela cozinha um festim americano de caviar do Mississipi, broa de milho e cebola frita para os habitantes locais... e dança o tango que aprendeu no ginásio da escola preparatória de Poughkeepsie numa trattoría iluminada por velas perto da Ponte Rialto. Entretanto, ela e Fernando, duas almas díspares, constroem uma vida extraordinária de paixão e possibilidades. Contendo as receitas incríveis da própria Marlena, Mil Dias em Veneza é a história encantadora de uma mulher que abre o seu coração - e se apaixona por um homem e por uma cidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722047463"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722047469"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MR1_p79GNWEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MR1_p79GNWEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MR1_p79GNWEC&printsec=frontcover&dq=Mil+dias+em+Veneza&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MR1_p79GNWEC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MR1_p79GNWEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MR1_p79GNWEC&rdid=book-MR1_p79GNWEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mil_Dias_em_Veneza-sample-epub.acsm?id=MR1_p79GNWEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mil_Dias_em_Veneza-sample-pdf.acsm?id=MR1_p79GNWEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MR1_p79GNWEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Contendo as receitas incríveis da própria Marlena, Mil Dias em Veneza é a história encantadora de uma mulher que abre o seu coração - e se apaixona por um homem e por uma cidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LW0J3vZfhzgC",
+   "etag": "ZS2miQzJQHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LW0J3vZfhzgC",
+   "volumeInfo": {
+    "title": "Mil dias na Toscana",
+    "subtitle": "Memórias de um pequeno vilarejo repleto de comida, romance e, acima de tudo, vida",
+    "authors": [
+     "Marlena de Blasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2011-04-07",
+    "description": "Há alguns anos, quando se conheceram, Marlena e Fernando se apaixonaram à primeira vista e começaram a viver uma história de amor que mais parecia um conto de fadas. Agora, decidem que chegou o momento de dar adeus a Veneza, onde tudo começou, e partem em busca de uma vida mais tranquila.O destino escolhido é San Casciano dei Bagni, um vilarejo com 200 habitantes, fontes termais e olivais centenários. De início, Fernando está mais empolgado do que Marlena. No entanto, nesse pedaço de terra onde a Toscana, a Úmbria e o Lácio se encontram, as amizades amadurecem à mesa, em torno de refeições gloriosas regadas a vinho tinto. O que poderia ser melhor para uma chef de cozinha?Novamente, Marlena e Fernando vivem um caso de amor à primeira vista. Dessa vez pela aldeia e pela vida no campo, pelos vinhos artesanais e pela esplêndida cozinha, pelo céu toscano e pelos sinos da igreja local. Mas, acima de tudo, pelo velho Barlozzo, que os recepciona, os adota e, aos poucos, também se apaixona por eles.Guiados pelo \"duque\", eles descobrem tabernas rústicas, onde o jantar é qualquer coisa que tenha sido colhida ou caçada naquele dia; participam da vindima; visitam festivais sazonais; catam castanhas no bosque; saem para caçar trufas e cogumelos selvagens; sobem em árvores para apanhar azeitonas, uma a uma, e depois experimentam o azeite recém-espremido sobre um pão simples de casca crocante.À medida que o afeto entre eles vai crescendo, Barlozzo começa a mostrar suas feridas abertas e a revelar seus segredos mais profundos. Um deles tem a ver com Floriana, uma linda e agradável senhora que logo se torna amiga inseparável de Marlena.Ambientado num dos lugares mais bonitos do planeta, Mil dias na Toscana é uma história sobre um estilo de vida simples, doces paixões, amizades e refeições compartilhadas. E, acima de tudo, é uma história de amor verdadeiro – um amor que não tem idade nem fim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575426500"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575426508"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.19.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LW0J3vZfhzgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LW0J3vZfhzgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LW0J3vZfhzgC&dq=Mil+dias+em+Veneza&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LW0J3vZfhzgC&dq=Mil+dias+em+Veneza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mil_dias_na_Toscana.html?hl=&id=LW0J3vZfhzgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LW0J3vZfhzgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ambientado num dos lugares mais bonitos do planeta, Mil dias na Toscana é uma história sobre um estilo de vida simples, doces paixões, amizades e refeições compartilhadas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GTdyBAAAQBAJ",
+   "etag": "s8oaqNiwoD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GTdyBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Amandine",
+    "authors": [
+     "Marlena de Blasi"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2014-09-05",
+    "description": "Como pano de Europa que se move inexoravelmente para a Segunda Guerra Mundial, Amandine acompanha a jornada de um jovem órfão em busca de sua herança. A história começa em Cracóvia, em 1931, como um bebé é concebido fora do casamento, o subproduto de um coração insensato e uma herança trágica. A avó da criança, uma condessa, acredita que ela está protegendo sua filha quando ela afirma que o bebê não sobreviveu. Na verdade, porém, ela depósitos a criança em um convento remoto no interior da França, deixando-a com uma grande soma de dinheiro e sob os cuidados de uma jovem governanta chamada Solange. Solange toma sobre si mesma para dar à criança um nome distinto, Amandine, e os dois formam uma ligação especial. Mas o amor incondicional mesmo de Solange não pode protegê-la gratuitamente. Desconfiava tanto pela abadessa e as meninas do convento, a Amandine excepcionalmente astuto e curioso descobre que sua infância cheia de desafios e questões - Quem é ela? Onde é que ela vem? Eventualmente, Solange é forçada a escolher entre os terrores do convento e os de uma guerra global iminente fora das suas portas. Assim, com um purseful de francos inúteis e um saco de provisões, os dois fogem para o norte para casa da infância de Solange. Mas o que deveria ter sido uma jornada de dois dias de trem torna-se uma perigosa, ano-longa odisséia através França ocupada - e mais profundamente as traições de guerra. Traçando o vôo de Amandine e Solange enquanto olha para a vida da condessa e sua filha, a mãe de Amandine, que ainda chora e sonha com a criança que ela acha que perdeu para sempre, romance épico de Marlena de Blasi ventos o seu caminho em direção a uma conclusão dramática e convincente , como mãe e filha desenhar cada vez mais perto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501068132"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501068136"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GTdyBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GTdyBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GTdyBAAAQBAJ&printsec=frontcover&dq=Mil+dias+em+Veneza&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GTdyBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GTdyBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GTdyBAAAQBAJ&rdid=book-GTdyBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.74E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Amandine-sample-epub.acsm?id=GTdyBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Amandine-sample-pdf.acsm?id=GTdyBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GTdyBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Traçando o vôo de Amandine e Solange enquanto olha para a vida da condessa e sua filha, a mãe de Amandine, que ainda chora e sonha com a criança que ela acha que perdeu para sempre, romance épico de Marlena de Blasi ventos o seu ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fl-QCkUjqogC",
+   "etag": "skWLE6iGVXs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fl-QCkUjqogC",
+   "volumeInfo": {
+    "title": "A doce vida na Úmbria",
+    "authors": [
+     "Marlena de Blasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2012-09-17",
+    "description": "Quando conheceu Fernando, Marlena de Blasi deixou para trás sua vida nos Estados Unidos e se mudou para Veneza, a fim de se casar com ele. Em seguida os dois partiram para a Toscana. Agora, novamente tomados pelo espírito itinerante, estão à procura do lar ideal. Depois de muitas buscas, acabam se apaixonando por um apartamento que fica no antigo salão de baile de um palácio medieval em Orvieto, a maior cidade da Úmbria. A negociação do aluguel é rápida, mas, antes que possam se mudar, o apartamento terá quepassar por uma grande reforma. Enquanto aguarda, Marlena vai aprender algumas lições importantes sobre a vida na Itália e, mais especificamente, na Úmbria. A primeira delas é que, nesse lugar, as coisas acontecem no seu tempo, não necessariamente conforme o planejado. A segunda é que essa é uma região extremamente apegada às suas tradições e muito resistente aos estrangeiros. Os anos de espera pelo salão de baile – sim, anos! – são marcados pela tentativa de conquistar os vizinhos e encontrar seu lugar entre eles. Para isso, Marlena vai recorrer ao que sabe fazer melhor: cozinhar. Com sua energia e sua capacidade de se encantar pela vida, ela conquistará o coração de pessoas das mais variadas classes sociais – pastores, cozinheiras, comerciantes, condes. E provará que, em volta da mesa e diante de uma boa comida, é possível encurtar as distâncias, superar as diferenças e até acabar com rancores de uma vida inteira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575428351"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575428357"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.16.16.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fl-QCkUjqogC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fl-QCkUjqogC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fl-QCkUjqogC&dq=Mil+dias+em+Veneza&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fl-QCkUjqogC&dq=Mil+dias+em+Veneza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_doce_vida_na_%C3%9Ambria.html?hl=&id=fl-QCkUjqogC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fl-QCkUjqogC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando conheceu Fernando, Marlena de Blasi deixou para trás sua vida nos Estados Unidos e se mudou para Veneza, a fim de se casar com ele."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MX05AAAAQBAJ",
+   "etag": "T0R8vYPu7pc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MX05AAAAQBAJ",
+   "volumeInfo": {
+    "title": "Antonia e suas filhas",
+    "subtitle": "Segredos, amor, amizade e família na Toscana",
+    "authors": [
+     "Marlena de Blasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2013-08-05",
+    "description": "Depois de levar os leitores a um passeio por diversas regiões da Itália, desta vez Marlena vai até o oeste da Toscana para descobrir e revelar a história surpreendente e real de Antonia e suas filhas.Marlena se instala em uma casa rústica, de pedra, com apenas um aposento, que lhe serve de refúgio para escrever seu novo livro. Nos arredores ela conhece Antonia e uma de suas filhas, Filippa, e depois passa a conviver com toda a família, participando das refeições preparadas e servidas na grande propriedade do clã, denominada Il Castelletto.A princípio, Antonia provoca Marlena, mostrando toda a sua aversão aos estrangeiros que decidem adquirir terras e viver na Toscana. Com habilidade e perspicácia, Marlena procura entender os motivos de Antonia, e à medida que conversam, cozinham, bebem e comem juntas, as duas descobrem que, apesar das diferenças culturais, têm muito em comum.É no verão de 2003 que Antonia conta a trajetória de sua vida, revela segredos de família, feridas não cicatrizadas, reflete sobre o amor e a amizade, erros e acertos, e descreve momentos de fartura e também de dificuldade passados durante a Segunda Guerra Mundial.Antonia e suas filhas é uma história verídica sobre a matriarca de quatro gerações de mulheres belas e valentes. Ao final do livro, a autora presenteia o leitor com receitas de deliciosas iguarias de Antonia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575429570"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575429574"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.20.21.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MX05AAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MX05AAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MX05AAAAQBAJ&dq=Mil+dias+em+Veneza&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=MX05AAAAQBAJ&dq=Mil+dias+em+Veneza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Antonia_e_suas_filhas.html?hl=&id=MX05AAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MX05AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Antonia e suas filhas é uma história verídica sobre a matriarca de quatro gerações de mulheres belas e valentes. Ao final do livro, a autora presenteia o leitor com receitas de deliciosas iguarias de Antonia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtlBCwAAQBAJ",
+   "etag": "aN2TtgVjHz8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtlBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Persuasão: Persuasion",
+    "subtitle": "Edição bilíngue português- inglês",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Jane Austen começou a escrever 'Persuasão', seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816. O livro foi publicado, postumamente, em 1818 e serviu como base do roteiro sobre o romance dos personagens interpretados por Sandra Bullock e Keanu Reeves, no filme 'A Casa do Lago', de 2006. 'Persuasão' costuma ser associado a outro de seus romances, 'A Abadia de Northanger', pois além dos dois livros terem sido originalmente publicados em um único volume, ambas as histórias são situadas na cidade de Bath, um balneário termal onde Jane Austen viveu de1801 a 1805. O enredo deste empolgante livro gira em torno dos amores de Anne Elliot que se apaixonara pelo pobre, mas ambicioso jovem oficial da marinha, capitão Frederick Wentworth. A família de Anne não concorda com essa relação e a convence romper seu relacionamento amoroso. Anos após Anne reencontra Frederick, agora cortejando sua amiga e vizinha, Louisa Musgrove. 'Persuasão' é amplamente apreciada, pois tem uma simpática história de amor, de trama simples e bem elaborada, e mostra o estilo de narrativa irônica de Jane Austen. Além disto, é original, pelo fato, entre outros motivos, de ser uma das poucas histórias da escritora que não apresenta a heroína em plena juventude. O romance também é um apanágio ao homem de iniciativa, através do personagem do capitão Frederick Wentworth que parte de uma origem humilde e que alcança influência e status pela força de seus méritos e não através de herança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781993"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781999"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 920,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jtlBCwAAQBAJ&printsec=frontcover&dq=Mil+dias+em+Veneza&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jtlBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&rdid=book-jtlBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-epub.acsm?id=jtlBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-pdf.acsm?id=jtlBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jtlBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jane Austen começou a escrever &#39;Persuasão&#39;, seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "jDmL3b6WzSA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=Mil+dias+em+Veneza&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oo92AgAAQBAJ",
+   "etag": "IVklp62pbjc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oo92AgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Margem",
+    "authors": [
+     "José Leon Machado"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-02",
+    "description": "Ao lado do cemitério, descia um caminho de terra em direcção ao rio. O Rocha encaminhou-se para aí e a Sandra acompanhou-o. Ele não levou muito a sério ela ter-lhe metido a mão no braço e o percurso foi ocupado com pequenos ditos inócuos. Em cinco minutos chegaram à margem e sentaram-se num tufo de erva que crescia entre os carvalhos e a água. Foi então que ele lhe pegou na mão, a puxou para si e a beijou. O beijo não foi grande coisa. A rapariga, ou não sabia beijar, ou nunca tinha beijado nenhum rapaz. Apertava os lábios com força num chilreio pouco natural. O Rocha largou-a e pôs-se a olhar o rio com o sol a dar-lhe de oriente em tons de prata.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392145"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392142"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oo92AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oo92AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oo92AgAAQBAJ&printsec=frontcover&dq=Mil+dias+em+Veneza&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oo92AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oo92AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.65,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.65,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oo92AgAAQBAJ&rdid=book-oo92AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.365E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.365E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Margem-sample-epub.acsm?id=oo92AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Margem-sample-pdf.acsm?id=oo92AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oo92AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ele não levou muito a sério ela ter-lhe metido a mão no braço e o percurso foi ocupado com pequenos ditos inócuos. Em cinco minutos chegaram à margem e sentaram-se num tufo de erva que crescia entre os carvalhos e a água."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oBtTAAAAMAAJ",
+   "etag": "v8yG2ZDFfV4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oBtTAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Aconteceu em Veneza",
+    "publishedDate": "1962",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023357253"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 190,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oBtTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oBtTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oBtTAAAAMAAJ&q=Mil+dias+em+Veneza&dq=Mil+dias+em+Veneza&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oBtTAAAAMAAJ&dq=Mil+dias+em+Veneza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Aconteceu_em_Veneza.html?hl=&id=oBtTAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oBtTAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com efeito, Deus, conforme as sagradas escrituras, levou sete \u003cb\u003edias\u003c/b\u003e . . . — E \u003cbr\u003e\ncomo o senhor é um simples mortal, conceder- ... O exército em miniatura \u003cbr\u003e\nfuncionou às \u003cb\u003emil\u003c/b\u003e maravilhas. Tomava aulas de português em \u003cb\u003edias\u003c/b\u003e alternados \u003cbr\u003e\ncom um&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A3IgAQAAIAAJ",
+   "etag": "98exFIkyiCY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A3IgAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Vinte e oito dias em agosto",
+    "authors": [
+     "João Céu e Silva"
+    ],
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9724614735"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789724614731"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 159,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A3IgAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A3IgAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=A3IgAQAAIAAJ&q=Mil+dias+em+Veneza&dq=Mil+dias+em+Veneza&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=A3IgAQAAIAAJ&dq=Mil+dias+em+Veneza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vinte_e_oito_dias_em_agosto.html?hl=&id=A3IgAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A3IgAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uns \u003cb\u003edias\u003c/b\u003e em França, outros em ltália, repartidos pelos dois países à ida e à volta. \u003cbr\u003e\n... que os ajudasse a fazer um roteiro e a única indicação expressa era o desejo \u003cbr\u003e\nde permanecerem por uma semana em \u003cb\u003eVeneza\u003c/b\u003e. ... Ainda faltam mais de \u003cb\u003emil\u003c/b\u003e."
+   }
+  }
+ ]
+}

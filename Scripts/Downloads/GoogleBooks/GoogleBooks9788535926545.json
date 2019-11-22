@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rdBbjwEACAAJ",
+   "etag": "QJDz84mVkFQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rdBbjwEACAAJ",
+   "volumeInfo": {
+    "title": "Diários da Presidência: 1995-1996",
+    "authors": [
+     "Fernando Henrique Cardoso"
+    ],
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535926542"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535926545"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 928,
+    "printType": "BOOK",
+    "categories": [
+     "Presidents"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rdBbjwEACAAJ&dq=isbn:9788535926545&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rdBbjwEACAAJ&dq=isbn:9788535926545&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rios_da_Presid%C3%AAncia_1995_1996.html?hl=&id=rdBbjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rdBbjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Durante seus dois mandatos como Presidente da República (a primeira entrada data de 25 de dezembro de 1994, quando o presidente eleito mas não empossado reflete sobre a composição do ministério), Fernando Henrique Cardoso manteve o ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WLgXSgAACAAJ",
+   "etag": "MaO8n7TcyYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WLgXSgAACAAJ",
+   "volumeInfo": {
+    "title": "O efeito sombra",
+    "authors": [
+     "Deepak Chopra",
+     "Debbie Ford",
+     "Marianne Williamson",
+     "ALICE KLESCK"
+    ],
+    "publishedDate": "2010",
+    "description": "A Sombra é um dos mais famosos ensinamentos de Carl Jung, e também é um assunto que continua em estudo em todas as áreas de autoajuda. O livro traz uma introdução dos três autores explicando o poder da Sombra e por que ela é considerada de natureza persuasiva. Os autores somaram seus conhecimentos e dividiram com o leitor a missão de se envolver através desta jornada de transformação da mente e do espírito.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563066137"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563066138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "categories": [
+     "Subconsciousness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WLgXSgAACAAJ&dq=isbn:9788563066138&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WLgXSgAACAAJ&dq=isbn:9788563066138&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_efeito_sombra.html?hl=&id=WLgXSgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WLgXSgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Sombra é um dos mais famosos ensinamentos de Carl Jung, e também é um assunto que continua em estudo em todas as áreas de autoajuda."
+   }
+  }
+ ]
+}

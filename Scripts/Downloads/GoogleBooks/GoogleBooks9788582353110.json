@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PBglvgAACAAJ",
+   "etag": "7/ASwtQVlAE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PBglvgAACAAJ",
+   "volumeInfo": {
+    "title": "UM ANO INESQUECIVEL",
+    "authors": [
+     "THALITA REBOUÇAS",
+     "PAULA PIMENTA",
+     "BABI DEWET",
+     "BRUNA VIEIRA"
+    ],
+    "description": "Dizem por aí que os melhores momentos da vida são vividos na adolescência. Os primeiros amores, os encontros, as festas, as viagens, as surpresas... E são sempre os instantes inesperados que transformam um dia comum em uma lembrança especial, daquelas que nunca deixarão de nos acompanhar. Este é um livro sobre esses momentos doces e sensíveis que não se apagam da memória tão facilmente. Quatro contos, em quatro estações do ano, sobre jovens que passam por vivências e sentimentos intensos. Paula Pimenta nos leva em uma viagem de inverno. Babi Dewet conta como um outono pode mudar tudo. Bruna Vieira mostra a paixão brotando com a primavera. E Thalita Rebouças narra um intenso amor de verão. Histórias de um ano inesquecível que vão ficar para sempre!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582353111"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582353110"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PBglvgAACAAJ&dq=isbn:9788582353110&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PBglvgAACAAJ&dq=isbn:9788582353110&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/UM_ANO_INESQUECIVEL.html?hl=&id=PBglvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PBglvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "PAula Pimenta, Babi Dewet, Bruna Vieira e Thalita Rebouças nos levam através das quatro estações do ano e de quatro histórias que serão lembradas por uma vida inteira."
+   }
+  }
+ ]
+}

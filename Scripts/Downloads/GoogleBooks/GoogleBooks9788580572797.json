@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XQvCNAEACAAJ",
+   "etag": "dY+r+dgH44Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XQvCNAEACAAJ",
+   "volumeInfo": {
+    "title": "Trilogia Cinquenta tons de cinza",
+    "authors": [
+     "E. L. James"
+    ],
+    "publisher": "Editora Intríseca",
+    "publishedDate": "2012-11-26",
+    "description": "Fenômeno editorial sem precedentes, a Trilogia Cinquenta tons de cinza conquistou uma legião de fãs ao redor do planeta, ultrapassando a marca inédita de 40 milhões de exemplares vendidos em todo o mundo. No Brasil, mais de 900 mil livros foram comercializados em 80 dias, uma média de 468 exemplares por hora. Agora, os três volumes da série que marca a estreia literária da inglesa E L James estão reunidos em um box especial, com edição limitada e design exclusivo: Cinquenta tons de cinza, que narra o início da ardente história de amor entre a recatada estudante Anastasia Steele e o enigmático empresário Christian Grey; Cinquenta tons de liberdade, em que Ana e Christian lutam para superar as diferenças e os problemas do passado e enfim ficar juntos; e Cinquenta tons de liberdade, que traz o tão aguardado desfecho da Trilogia que dominou o mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580572797"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580572797"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1536,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XQvCNAEACAAJ&dq=isbn:9788580572797&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XQvCNAEACAAJ&dq=isbn:9788580572797&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trilogia_Cinquenta_tons_de_cinza.html?hl=&id=XQvCNAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XQvCNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Agora, os três volumes da série que marca a estreia literária da inglesa E L James estão reunidos em um box especial, com edição limitada e design exclusivo: Cinquenta tons de cinza, que narra o início da ardente história de amor ..."
+   }
+  }
+ ]
+}

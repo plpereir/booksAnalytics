@@ -1,0 +1,243 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 3,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_IDkUxifbvYC",
+   "etag": "pQusAzdm0rY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_IDkUxifbvYC",
+   "volumeInfo": {
+    "title": "Danuza & sua visão de mundo sem juízo",
+    "authors": [
+     "Danuza Leão"
+    ],
+    "publisher": "Agir",
+    "publishedDate": "2012-12-12",
+    "description": "Quando comecei a reler minhas crônicas, levei um susto. Custei a acreditar que algumas delas tivessem sido escritas por mim, e aí percebi o quanto mudei, e quantas vezes ainda posso mudar. Neste livro você vai encontrar crônicas alegres, melancólicas, tristes, algumas desesperadas, divertidas, outras bem-humoradas, às vezes até amargas, mas todas verdadeiras, todas eu, como sou. Somos muitos, como podemos e temos o direito de ser. Acho que as pessoas mudam, no decorrer de uma vida, tudo muda: nosso rosto, nossas mãos, nossos desejos. Nossa maneira de pensar, de ser; por isso a vida vale tanto a pena, por isso é tão fascinante a aventura que é viver.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522014262"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8522014264"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.23.25.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_IDkUxifbvYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_IDkUxifbvYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_IDkUxifbvYC&printsec=frontcover&dq=Danuza+e+sua+vis%C3%A3o+de+mundo+sem+ju%C3%ADzo&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_IDkUxifbvYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_IDkUxifbvYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_IDkUxifbvYC&rdid=book-_IDkUxifbvYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.416E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Danuza_sua_vis%C3%A3o_de_mundo_sem_ju%C3%ADzo-sample-epub.acsm?id=_IDkUxifbvYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Danuza_sua_vis%C3%A3o_de_mundo_sem_ju%C3%ADzo-sample-pdf.acsm?id=_IDkUxifbvYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_IDkUxifbvYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando comecei a reler minhas crônicas, levei um susto."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lkBdROZ6uhsC",
+   "etag": "qOn0b82KYhM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lkBdROZ6uhsC",
+   "volumeInfo": {
+    "title": "Os múltiplos usos da língua",
+    "publisher": "UFAL",
+    "publishedDate": "1999-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571770387"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571770386"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 654,
+    "printType": "BOOK",
+    "categories": [
+     "Linguistics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lkBdROZ6uhsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lkBdROZ6uhsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lkBdROZ6uhsC&pg=PA369&dq=Danuza+e+sua+vis%C3%A3o+de+mundo+sem+ju%C3%ADzo&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lkBdROZ6uhsC&dq=Danuza+e+sua+vis%C3%A3o+de+mundo+sem+ju%C3%ADzo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_m%C3%BAltiplos_usos_da_l%C3%ADngua.html?hl=&id=lkBdROZ6uhsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lkBdROZ6uhsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ele congrega, em \u003cb\u003esuas\u003c/b\u003e diferentes seções, toda a gama de possibilidades de uso \u003cbr\u003e\nda língua materna. ... Cada um possui \u003cb\u003esua\u003c/b\u003e marca, seu estilo, enriquecendo \u003cbr\u003e\nsobremaneira a língua materna, aproveitando-lhe todos os recursos disponíveis, \u003cbr\u003e\n\u003cb\u003esem\u003c/b\u003e descuidar da ... Não fazemos, entretanto, nenhum \u003cb\u003ejuízo\u003c/b\u003e de valor, apenas \u003cbr\u003e\nrecorremos a um critério como outro qualquer. ... parecendo-nos necessário e \u003cbr\u003e\nsaudável ampliar o leque das possibilidades, assim como a própria \u003cb\u003evisão\u003c/b\u003e do \u003cbr\u003e\n\u003cb\u003emundo\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uWRKswEACAAJ",
+   "etag": "xY9tR/P46WM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uWRKswEACAAJ",
+   "volumeInfo": {
+    "title": "Baré, the river people",
+    "subtitle": "",
+    "authors": [
+     "Marina Herrero",
+     "Ulysses Fernandes"
+    ],
+    "publishedDate": "2016",
+    "description": "Este livro apresenta cultura, os jogos e as lendas do Curupira, Juruparí e Poronominare, das comunidades da etnia Baré, localizadas próximas aos municípios de Santa Isabel do Rio Negro e São Gabriel da Cachoeira, às margens do rio Negro no estado do Amazonas. O projeto contempla uma região com uma forte desestruturação social, que tem sofrido inúmeras pressões desde a chegada dos europeus até a mais recente invasão de garimpeiros, e que chama a atenção pela dramática taxa de suicídios entre sua população jovem. O devastador processo de aculturação implica a perda dos saberes tradicionais, a tradição oral e técnicas artísticas de grande valor, levando as populações indígenas a se sentirem desvalorizadas e negarem sua identidade indígena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8569298935"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569298939"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 346,
+    "printType": "BOOK",
+    "categories": [
+     "Indians of South America"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uWRKswEACAAJ&dq=Danuza+e+sua+vis%C3%A3o+de+mundo+sem+ju%C3%ADzo&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uWRKswEACAAJ&dq=Danuza+e+sua+vis%C3%A3o+de+mundo+sem+ju%C3%ADzo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bar%C3%A9_the_river_people.html?hl=&id=uWRKswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uWRKswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro apresenta cultura, os jogos e as lendas do Curupira, Juruparí e Poronominare, das comunidades da etnia Baré, localizadas próximas aos municípios de Santa Isabel do Rio Negro e São Gabriel da Cachoeira, às margens do rio ..."
+   }
+  }
+ ]
+}

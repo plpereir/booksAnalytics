@@ -1,0 +1,622 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 7,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nMvbD5vMv3cC",
+   "etag": "mDG8mzhSqLU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nMvbD5vMv3cC",
+   "volumeInfo": {
+    "title": "Agapinho: Ágape para crianças",
+    "authors": [
+     "Padre Marcelo Rossi"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2013-07-03",
+    "description": "Para os gregos, o termo \"ágape\" contém uma riqueza de significados, uma vez que define os vários tipos de amor. Em 2010, padre Marcelo Rossi mergulhou na complexidade dessa palavra para levar uma mensagem de amor a milhões de pessoas com o livro Ágape, que rapidamente se tornou um fenômeno de vendas no mercado editorial brasileiro, atingindo a marca de 7,6 milhões de exemplares comercializados. O livro fez tanto sucesso entre os adultos que começou a despertar a curiosidade das crianças. Ao perceber o interesse de meninos e meninas em conhecer Ágape, Padre Marcelo Rossi escreveu Agapinho – Ágape para crianças. Na edição infantil, que conta com ilustrações de Thais Linhares, o padre faz uma cuidadosa adaptação do conteúdo de seu best-seller para tratar de assuntos que fazem parte de um boa formação cidadã: verdade, justiça, perdão, bondade, solidariedade e confiança. Os temas são apresentados à luz de doze passagens do Evangelho de São João, entre elas A multiplicação dos pães, Ressurreição de Lázaro, Crucificação e Aparição aos discípulos. Os trechos das passagens bíblicas são ponto de partida para falar sobre os ensinamentos de Jesus e discutir os assuntos abordados. Padre Marcelo sempre destaca a importância e a força da oração nos momentos mais difíceis da vida. Ao final de cada capítulo, o leitor encontra uma oração escrita especialmente para o público infantil. Igualmente inédita é a carta dedicada às crianças explicando os motivos que o levaram a realizar esse novo trabalho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525051622"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525051624"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nMvbD5vMv3cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nMvbD5vMv3cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nMvbD5vMv3cC&printsec=frontcover&dq=Agapinho&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nMvbD5vMv3cC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nMvbD5vMv3cC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nMvbD5vMv3cC&rdid=book-nMvbD5vMv3cC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Agapinho_%C3%81gape_para_crian%C3%A7as-sample-epub.acsm?id=nMvbD5vMv3cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Agapinho_%C3%81gape_para_crian%C3%A7as-sample-pdf.acsm?id=nMvbD5vMv3cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nMvbD5vMv3cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro fez tanto sucesso entre os adultos que começou a despertar a curiosidade das crianças. Ao perceber o interesse de meninos e meninas em conhecer Ágape, Padre Marcelo Rossi escreveu Agapinho – Ágape para crianças."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hCA0DwAAQBAJ",
+   "etag": "jNrXv9CKi/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hCA0DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Música e religião na era do pop",
+    "authors": [
+     "Joêzer Mendonça"
+    ],
+    "publisher": "Appris Editora e Livraria Eireli - ME",
+    "publishedDate": "2017-07-11",
+    "description": "Este livro trata da música sacra religiosa na nossa época apresentando uma nova visão que conjuga a musicologia, a sociologia e os estudos da mídia. As mudanças ocasionadas pela indústria musical e o consumo de bens musicais não poderiam deixar de afetar a prática musical nas igrejas. O mundo mudou e a música sacra não ficaria ilesa diante dessa avalanche. Entretanto, a rapidez dessa mudança e a expansão dos seus efeitos são surpreendentes. O que podemos fazer, então, é procurar compreendê-la, pois, como escreve Joêzer Mendonça, \"o gospel é a coluna mestra do mercado evangélico, fazendo parte dos novos comportamentos cristãos observados na esteira das transformações religiosas e culturais\". Prof.a Dr.a Dorotéa Kerr (Instituto de Artes-UNESP)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581923116"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581923119"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hCA0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hCA0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hCA0DwAAQBAJ&pg=PT212&dq=Agapinho&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hCA0DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hCA0DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hCA0DwAAQBAJ&rdid=book-hCA0DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hCA0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seu livro infantil, \u003cb\u003eAgapinho\u003c/b\u003e, superou a marca de 800 mil cópias vendidas. \u003cbr\u003e\nTambém um padre cantor e escritor, Fábio de Mello chegou às listas de best-\u003cbr\u003e\nsellers com os 380 mil exemplares do livro Tempo de Esperas, publicado pela \u003cbr\u003e\neditora&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oz7mCgAAQBAJ",
+   "etag": "9NhnthiiRzw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oz7mCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Padre Marcelo Rossi",
+    "subtitle": "A superação pela fé",
+    "authors": [
+     "Edison Veiga"
+    ],
+    "publisher": "Panda Books",
+    "publishedDate": "2015-10-08",
+    "description": "Desde 1997, Edison Veiga nunca deixou de prestar atenção nos passos de padre Marcelo Rossi. Primeiro, pela novidade que ele representava. Depois, por curiosidade. Em seguida, mais maduro e com certo distanciamento crítico, com um profundo interesse jornalístico. Neste livro, o autor apresenta um perfil daquele que se tornou o padre mais famoso do Brasil - desde a sua juventude e a escolha tardia pelo sacerdócio, até o reconhecimento nacional e a superação dos problemas e das adversidades que a vida lhe apresentou. Edison cita que, ao contrário de muitos padres que entram no seminário ainda na juventude, a vocação do mais famoso padre brasileiro surgiu já na idade adulta depois da vontade de ser bombeiro ou piloto de fórmula 1. Questões filosóficas, como a existência de Deus, passavam longe da cabeça do adolescente que vinha de uma família de classe média paulistana e que, em breve, revolucionaria a Renovação Carismática Cristã (RCC) e traduziria um novo conceito dentro da Igreja Católica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578885304"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578885309"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oz7mCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oz7mCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oz7mCgAAQBAJ&pg=PT85&dq=Agapinho&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oz7mCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oz7mCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oz7mCgAAQBAJ&rdid=book-oz7mCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.15E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.15E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Padre_Marcelo_Rossi-sample-epub.acsm?id=oz7mCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Padre_Marcelo_Rossi-sample-pdf.acsm?id=oz7mCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oz7mCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... me ajudar nessa parte de divulgação. Sua outra irmã, Mônica, é \u003cbr\u003e\npsicopedagoga. E também dá uma mãozinha ao trabalho do padre: ele me \u003cbr\u003e\nconfidenciou que recorreu a dicas dela enquanto escrevia o livro infantil \u003cbr\u003e\n\u003cb\u003eAgapinho\u003c/b\u003e, por exemplo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eVF8DwAAQBAJ",
+   "etag": "ze9QKlaZpsI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eVF8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Nosso Momento De FÉ",
+    "authors": [
+     "Everaldo Marques Do Nascimento"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Esta obra surgiu devido o hábito que tenho de escutar, sempre quando eu posso, o Programa Nosso Momento de Fé – transmitido pela rádio globo e por muitas rádios do Brasil, dirigido pelo Padre Marcelo Rossi, de segunda-feira a sábado. Durante o Programa, o Padre sempre lê algumas orações para cada dia e, após o término do programa, são disponibilizadas no facebook do site do referido programa. Diante da importância e necessidade dessas orações, desde o ano de 2012 senti um desejo imenso de coletá-las e publicá-las, em forma de coletânea. Sendo assim, tive a ideia de elaborar um projeto editorial, isto é, de publicar um livro, cujo titulo é NOSSO MOMENTO DE FÉ – EM ORAÇÕES, em homenagem ao Programa, contemplando todas as orações lidas e oradas naquele Programa, diariamente. A grande proposta desta obra é servir como mais um instrumento de evangelização, onde cada leitor poderá mergulhar em cada página e, ao mesmo tempo, colocar em prática o conteúdo teológico de cada oração, como exercício diário e espiritual para sua vida, já que é por meio da oração que falamos e nos aproximamos dEle, em várias circunstâncias e situações de nossa vida, ou seja, é o elo que nos leva até Ele. Nos seus ensinamentos, Deus nos pede para orar sem cessar e de maneira perseverante, pois Ele está sempre de braços abertos para nos escutar.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU8076"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 334,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.22.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eVF8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eVF8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eVF8DwAAQBAJ&pg=PA132&dq=Agapinho&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=eVF8DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-eVF8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=eVF8DwAAQBAJ&rdid=book-eVF8DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nosso_Momento_De_F%C3%89-sample-pdf.acsm?id=eVF8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eVF8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quero que todas as crianças conheçam e gostem de você. Ah! Quase esqueci, \u003cbr\u003e\nobrigado pelo nosso \u003cb\u003eAgapinho\u003c/b\u003e. Obrigado Deus porque você é bom. Amém! \u003cbr\u003e\nORAÇÃO 85 - Consagração à Nossa Senhora Ó Maria, Mãe. [132] [“Nosso \u003cbr\u003e\nMomento&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9ztFBQAAQBAJ",
+   "etag": "jpoJsKSKllQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9ztFBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Anjos Cabalísticos",
+    "authors": [
+     "Jorge Purgly"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-06-17",
+    "description": "Como obter o auxílio eficaz dos anjos no dia-a-dia? Como saber o nome de meu anjo da guarda? Qual é a Hierarquia Angélica Cabalística? Qual o auxílio oferecido por cada Anjo? Estas e outras perguntas são abordadas com profundidade neste livro, fruto de extensa pesquisa. Confira! Você vai gostar.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90167136"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9ztFBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9ztFBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9ztFBQAAQBAJ&pg=PT26&dq=Agapinho&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9ztFBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9ztFBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.93,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.93,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9ztFBQAAQBAJ&rdid=book-9ztFBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.593E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.593E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Anjos_Cabal%C3%ADsticos-sample-epub.acsm?id=9ztFBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Anjos_Cabal%C3%ADsticos-sample-pdf.acsm?id=9ztFBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9ztFBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Livro – Kairós do Padre Marcelo Rossi Depois do fenômeno editorial Ágape, \u003cbr\u003e\ncom mais de 8,4 milhões de exemplares vendidos, e de sua versão infantil \u003cbr\u003e\n\u003cb\u003eAgapinho\u003c/b\u003e, que já vendeu mais de 800 mil cópias, padre Marcelo Rossi lança \u003cbr\u003e\nKairós."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oH5QAQAAMAAJ",
+   "etag": "J3XNL/vU0bs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oH5QAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Studies of Galaxy Evolution with Redshift Surveys",
+    "authors": [
+     "Renbin Yan"
+    ],
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:C3511116"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oH5QAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oH5QAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=oH5QAQAAMAAJ&q=Agapinho&dq=Agapinho&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oH5QAQAAMAAJ&dq=Agapinho&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Studies_of_Galaxy_Evolution_with_Redshif.html?hl=&id=oH5QAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oH5QAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "There is \u003cb\u003ea gap in Ho\u003c/b\u003e that naturally separates this post-starburst population from \u003cbr\u003e\nstar-forming galaxies. However, there exists no corresponding gap in O II] EW. In \u003cbr\u003e\nfact, roughly 50% of post-starburst (K+A) galaxies identified using Ho belong to&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7wAGEevYeLQC",
+   "etag": "Rw2eUFhx1xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7wAGEevYeLQC",
+   "volumeInfo": {
+    "title": "Ágape",
+    "subtitle": "El amor generoso, incondicional, el amor sin límites",
+    "authors": [
+     "Rossi, Padre Marcelo"
+    ],
+    "publisher": "AGUILAR",
+    "publishedDate": "2012-09-19",
+    "description": "El sacerdote brasileño Marcelo Rossi nos ofrece instantes de paz en medio de las turbulencias diarias. Si el mundo en el que vivimos nos asusta, hemos de llegar a lo más recóndito del corazón, donde sólo habita el lenguaje del alma, de los sentimientos, de la fe. Un camino que se recorre en Ágape. El sacerdote brasileño Marcelo Rossi nos ofrece una obra bella e impactante en la que mediante interpretaciones del Evangelio de San Juan -y a través de testimonios de vida iluminadores, como la madre Teresa de Calcuta, Santa Teresa de Ávila o San Juan de la Cruz- se abordan cuestiones fundamentales para el ser humano, como el amor, la tolerancia, la humildad y el perdón. Una obra inspiradora que nos enseña a amar al otro, a compartir. Ágape es una reflexión intuitiva y certera en la que la Palabra de Dios se convierte en auxilio para una sociedad que ha perdido sus valores y que necesita con urgencia algo de luz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788403013049"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8403013043"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.21.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7wAGEevYeLQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7wAGEevYeLQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=7wAGEevYeLQC&dq=Agapinho&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7wAGEevYeLQC&dq=Agapinho&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%C3%81gape.html?hl=&id=7wAGEevYeLQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7wAGEevYeLQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Una obra inspiradora que nos enseña a amar al otro, a compartir. Ágape es una reflexión intuitiva y certera en la que la Palabra de Dios se convierte en auxilio para una sociedad que ha perdido sus valores y que necesita con urgencia ..."
+   }
+  }
+ ]
+}

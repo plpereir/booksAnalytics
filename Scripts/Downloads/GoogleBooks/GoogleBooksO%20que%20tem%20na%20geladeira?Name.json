@@ -1,0 +1,943 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 439,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "08l-DwAAQBAJ",
+   "etag": "hB9L4eK+77A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/08l-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O que tem na geladeira?",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Como é que eu transformo a compra da feira em refeições variadas e saborosas todo santo dia? Este livro tem a resposta. Rita Lobo ensina sua fórmula de criar receitas e apresenta mais de 200 opções para variar o cardápio. Em O que tem na geladeira?, que é baseado na série de mesmo nome do canal Panelinha no YouTube, você vai descobrir que preparar comida saudável de verdade é mais simples do que parece. O livro é dividido em 30 capítulos, cada um dedicado a um alimento da abóbora ao tomate, passando pela cebola, escarola, milho, repolho, entre outros. E você vai aprender os melhores cortes, técnicas de cozimento e combinações de sabor para esses alimentos. Além das preparações com hortaliças, raízes e legumes, o livro apresenta também opções de receitas com carnes para compor o cardápio. Tem filé de pescada frita, tagine de peixe, coxa de frango assada, peito de frango grelhado, bisteca grelhada, lombo de porco, costelinha, kafta de carne, bife de contrafilé e muito mais. Nas mais de 200 receitas, bem variadas, você encontra opções de entradas, pratos principais, muitos acompanhamentos e até alguns bolos, como o de cenoura, de mandioca, de pamonha, e sobremesas, como o doce de abóbora, o curau e um incrível sorvete de cenoura indiano, o kulfi. Para Rita Lobo, cozinhar é como ler e escrever: todo mundo deveria saber. Mas ninguém nasce sabendo! Este livro vai dar uma mãozinha nesse processo de aprendizagem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539625291"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539625296"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=08l-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=08l-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=08l-DwAAQBAJ&printsec=frontcover&dq=O+que+tem+na+geladeira%3F&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=08l-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-08l-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 58.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 58.1,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=08l-DwAAQBAJ&rdid=book-08l-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.81E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.81E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_tem_na_geladeira-sample-epub.acsm?id=08l-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_tem_na_geladeira-sample-pdf.acsm?id=08l-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=08l-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em O que tem na geladeira?, que é baseado na série de mesmo nome do canal Panelinha no YouTube, você vai descobrir que preparar comida saudável de verdade é mais simples do que parece."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UmR8DwAAQBAJ",
+   "etag": "1XiLGQDHklw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UmR8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma vida sem lixo",
+    "subtitle": "Guia para reduzir o desperdício na sua casa e simplificar a vida",
+    "authors": [
+     "Cristal Muniz"
+    ],
+    "publisher": "Alaúde Editorial",
+    "publishedDate": "2018-07-01",
+    "description": "É possível viver sem produzir lixo? Sim, e pode ser mais simples do que parece. A criadora do blog Um ano sem lixo, Cristal Muniz, compartilha todas as dicas para gerar menos lixo dentro e fora de casa. Você vai aprender a comprar comida sem embalagem, maneiras de aproveitar a casca dos alimentos na cozinha, construir uma composteira para dar fim ao lixo orgânico, como limpar a casa usando apenas três ingredientes, como montar um guarda-roupa sustentável e outras dicas para diminuir o consumo de plástico. Adotando algumas mudanças sugeridas aqui, você estará iniciando um caminho sem volta para um estilo de vida mais sustentável, que de quebra é mais saudável, simples e barato.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578815707"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857881570X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UmR8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UmR8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UmR8DwAAQBAJ&pg=PT57&dq=O+que+tem+na+geladeira%3F&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UmR8DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UmR8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 32.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UmR8DwAAQBAJ&rdid=book-UmR8DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.22E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_vida_sem_lixo-sample-epub.acsm?id=UmR8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UmR8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "USE SUA \u003cb\u003eGELADEIRA\u003c/b\u003e Manter vegetais – principalmente frutas e verduras – na \u003cbr\u003e\n\u003cb\u003egeladeira\u003c/b\u003e é essencial para que eles durem mais. Deixe tudo sempre à mostra \u003cbr\u003e\npara que você não esqueça \u003cb\u003eo que tem\u003c/b\u003e. # Faça uma lista do que você \u003cb\u003etem\u003c/b\u003e e deixe\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4MFxDwAAQBAJ",
+   "etag": "yIBlDo/qoDI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4MFxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Curso Hd De Matemática",
+    "authors": [
+     "Hênio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "CAPÍTULOS DETALHADOS Capítulo 1 Números naturais • Introdução teórica básica • Nome dos algarismos • Zero • Algarismos x números • Antecessor e sucessor • Amarelinha maluca • Nomeando os números Capítulo 2 Organização dos algarismos no sistema decimal: classes e ordens • Unidades • Dezenas • Centenas • Unidade de milhar • Dezena de milhar • Centena de milhar • Números pares e impares Capítulo 3 Adição com números naturais • Introdução teórica básica • Como realizar a operação de adição? • Aplicações cotidianas • Exemplos comentados Capítulo 4 Subtração com números naturais • Introdução teórica básica • Montando a operação de subtração • Exemplos comentados • Ideia de comparação Capítulo 5 Multiplicação de números naturais • Introdução com exemplos • Tabuada • Armando a conta de multiplicação • Produtos com números de dois algarismos Capítulo 6 Divisão de números naturais • Algoritmo da divisão • Dúzia • Divisão com dois ou mais algarismos INTRODUÇÃO O estudo da Matemática é sequencial, isto é, um conteúdo depende do outro, alguns desses conteúdos são básicos e imprescindíveis para a continuação das outras matérias, porém por diversos motivos, vários alunos continuam seus estudos com deficiência nos conceitos básicos de Matemática, foi pensando nesses alunos que foi elaborado este material, onde tem objetivo de apresentar conteúdos básicos de Matemática de nível fundamental, com explicações e linguagem simples, além de muitos exercícios comentados e com vários outros no decorrer da explicação, sendo estes detalhadamente comentados no gabarito. OBJETIVOS: • Reforço escolar; • Nivelamento dos conteúdos básicos de Matemática; • Aprender conteúdos fundamentais da Matemática para melhorar o desempenho escolar; • Conhecer diferentes exercícios sobre os conteúdos apresentados; • Praticar no cotidiano os conceitos que aprendeu; • Iniciar e prosseguir os estudos com mais segurança; No final do livro você encontrará o gabarito das atividades propostas, neste material você irá encontrar mais de 200 exercícios gabaritados, além dos exercícios no corpo do texto.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU18184"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 105,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4MFxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4MFxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4MFxDwAAQBAJ&pg=PA39&dq=O+que+tem+na+geladeira%3F&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4MFxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4MFxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4MFxDwAAQBAJ&rdid=book-4MFxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Curso_Hd_De_Matem%C3%A1tica-sample-pdf.acsm?id=4MFxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4MFxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "112) Mariana pegou o restante dos chocolates e tirou quatro para sua amiga \u003cbr\u003e\nMaria. Quantos ainda \u003cb\u003etêm\u003c/b\u003e na cesta? 113) Após Mariana presentear Maria com \u003cbr\u003e\nquatro chocolates resolver comer mais um e depois deixou o restante na \u003cbr\u003e\n\u003cb\u003egeladeira\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HthxDwAAQBAJ",
+   "etag": "7KKSHJu430s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HthxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Prisão Sem Muros",
+    "authors": [
+     "Sally"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "PRISÃO SEM MUROSUm rapaz comum,normal como tantos outros que vivem no século XXl. Educador físico,23 anos,trabalha em uma academia próximo á sua casa.Mora sozinho,mas visita sempre seus pais e seu irmão. Jund tem uma vida normal,exceto por pesadelos que o acossa desde a adolescência.Apesar de sua infância ter ficado para trás,ele se vê atormentado por constantes pesadelos. Inúmeros tratamentosforam tentados para amenizar este incômodo.Tudo issoele até poderia suportar,não fosse este novo episódio aterrador;Desta vez Jund tentou fazer contato com alguém deste mundo nefâno,e foi ferido por um deles.Isso o fez acordar assustadíssimo,porém mais perplexo ele ficou ao notar que ao acordar,ele estava realmente ferido! Um mundo sem igual,ele atravessa enquanto dorme.Pessoas diferentes e com poderes indescritíveis,tudo ali é inacreditável para ele.É jogado de um lado para o outro sem saber quem poderá ajudá-lo a voltar a seu mundo,e quem quer destruí-lo. Com o que sabe agora,como conseguirá dormir novamente?E como fará para não dormir? Felizmente,ele encontrou aliados em seu mundo natural:Max,sua adorável e explosiva irmã,juntamente com sua doce e inteligente namorada,tentarão ajudá-lo a buscar respostas,se é que existe alguma,para esta loucura inimaginável da qual ele terá que enfrentar,quando fecha os olhos para dormir.Uma luta para qual ele não está preparado e nem dispões de armas para revidar.Uma luta atemporal.Seu desespero aumenta ao descobrir que não existem armas para se lutar contra isso, e que, infelizmente para ele todo dia,termina em uma noite...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU21057"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HthxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HthxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HthxDwAAQBAJ&pg=PT14&dq=O+que+tem+na+geladeira%3F&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HthxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HthxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HthxDwAAQBAJ&rdid=book-HthxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pris%C3%A3o_Sem_Muros-sample-pdf.acsm?id=HthxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HthxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Água com gas, sem gas, refri, suco... cerveja... bem, nem sei porque estou lhe \u003cbr\u003e\noferecendo isso tudo , se na verdade nem sei \u003cb\u003eo que tem na geladeira\u003c/b\u003e. - Disse \u003cbr\u003e\nMax enquanto se encaminhava pra cozinha e finalizou - Vou te trazer o que \u003cbr\u003e\nachar lá,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4cZ-DwAAQBAJ",
+   "etag": "b+CLsz+YTGI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4cZ-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cozinha prática",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Neste novo livro, Rita Lobo apresenta 60 receitas e todas as dicas, técnicas culinárias e truques de economia doméstica da temporada de b ásicos do programa Cozinha Prática, do GNT. Um curso de culinária em 13 capítulos muit o bem explicados e ilustrados. Conhece alguém que ainda foge do fogão? Essa pessoa é você? Este livro pode mudar a sua vida. #Desgourmetiza, bem!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539625277"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "853962527X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4cZ-DwAAQBAJ&printsec=frontcover&dq=O+que+tem+na+geladeira%3F&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4cZ-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4cZ-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 63.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 56.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4cZ-DwAAQBAJ&rdid=book-4cZ-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.661E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_pr%C3%A1tica-sample-epub.acsm?id=4cZ-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_pr%C3%A1tica-sample-pdf.acsm?id=4cZ-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4cZ-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste novo livro, Rita Lobo apresenta 60 receitas e todas as dicas, técnicas culinárias e truques de economia doméstica da temporada de b ásicos do programa Cozinha Prática, do GNT."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oglGBQAAQBAJ",
+   "etag": "jaH17qeTJf8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oglGBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Prisão Sem Muros",
+    "authors": [
+     "Sally Dias"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-03-02",
+    "description": "PRISÃO SEM MUROS Um rapaz comum,normal como tantos outros que vivem no século XXl. Educador físico,23 anos,trabalha em uma academia próximo á sua casa.Mora sozinho,mas visita sempre seus pais e seu irmão. Jund tem uma vida normal,exceto por pesadelos que o acossa desde a adolescência.Apesar de sua infância ter ficado para trás,ele se vê atormentado por constantes pesadelos. Inúmeros tratamentos foram tentados para amenizar este incômodo.Tudo isso ele até poderia suportar,não fosse este novo episódio aterrador;Desta vez Jund tentou fazer contato com alguém deste mundo nefâno,e foi ferido por um deles.Isso o fez acordar assustadíssimo,porém mais perplexo ele ficou ao notar que ao acordar,ele estava realmente ferido! Um mundo sem igual,ele atravessa enquanto dorme.Pessoas diferentes e com poderes indescritíveis,tudo ali é inacreditável para ele.É jogado de um lado para o outro sem saber quem poderá ajudá-lo a voltar a seu mundo,e quem quer destruí-lo. Com o que sabe agora,como conseguirá dormir novamente?E como fará para não dormir? Felizmente,ele encontrou aliados em seu mundo natural:Max,sua adorável e explosiva irmã,juntamente com sua doce e inteligente namorada,tentarão ajudá-lo a buscar respostas,se é que existe alguma,para esta loucura inimaginável da qual ele terá que enfrentar,quando fecha os olhos para dormir.Uma luta para qual ele não está preparado e nem dispões de armas para revidar.Uma luta atemporal. Seu desespero aumenta ao descobrir que não existem armas para se lutar contra isso, e que, infelizmente para ele todo dia,termina em uma noite...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90160994"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oglGBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oglGBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oglGBQAAQBAJ&pg=PT14&dq=O+que+tem+na+geladeira%3F&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oglGBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oglGBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oglGBQAAQBAJ&rdid=book-oglGBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.215E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.215E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pris%C3%A3o_Sem_Muros-sample-pdf.acsm?id=oglGBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oglGBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Água com gas, sem gas, refri, suco... cerveja... bem, nem sei porque estou lhe \u003cbr\u003e\noferecendo isso tudo , se na verdade nem sei \u003cb\u003eo que tem na geladeira\u003c/b\u003e. - Disse \u003cbr\u003e\nMax enquanto se encaminhava pra cozinha e finalizou - Vou te trazer o que \u003cbr\u003e\nachar lá,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5cZ-DwAAQBAJ",
+   "etag": "YisbGf5mkJU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5cZ-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Comida de bebê",
+    "subtitle": "uma introdução à comida de verdade",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Como é esperto esse seu bebê: nem fez um ano e já vai melhorar a alimentação da casa toda. Não acredita? Está tudo aqui, nas páginas de Comida de Bebê: uma introdução à comida de verdade. Com apoio de médicos e nutricionistas, Rita Lobo traz as respostas para as dúvidas mais comuns da fase de introdução alimentar e, de quebra, ainda ensina a família a comer com mais saúde, mais sabor e muito mais prazer. Venha descobrir como o pê-efe, o prato feito, essa grande instituição brasileira, vai virar o pê-efinho do bebê.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539614493"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539614499"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5cZ-DwAAQBAJ&printsec=frontcover&dq=O+que+tem+na+geladeira%3F&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5cZ-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5cZ-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 41.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5cZ-DwAAQBAJ&rdid=book-5cZ-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.13E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.861E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Comida_de_beb%C3%AA-sample-epub.acsm?id=5cZ-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Comida_de_beb%C3%AA-sample-pdf.acsm?id=5cZ-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5cZ-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como é esperto esse seu bebê: nem fez um ano e já vai melhorar a alimentação da casa toda. Não acredita? Está tudo aqui, nas páginas de Comida de Bebê: uma introdução à comida de verdade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "48Z-DwAAQBAJ",
+   "etag": "ntvTp0sOdyE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/48Z-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cozinha de estar",
+    "subtitle": "receitas práticas para receber",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Mais do que um livro de receitas, Cozinha de estar é um guia para quem vai cozinhar para receber. Rita Lobo transforma sala e cozinha em uma coisa só, um ambiente aconchegante e espaçoso, onde cabe todo mundo e de onde ninguém quer sair! Ganhador do prêmio internacional Gourmand e finalista do prêmio Jabuti, o livro apresenta as regras tradicionais para planejar um jantar ou uma festinha em casa, e também mostra como deixar tudo mais informal. Ou não, quem escolhe é você! Mas uma coisa é certa: para receber bem, não é preciso ter pompa nem prataria. Esta edição ampliada vem com um Natal de presente: inclui um capítulo novo, com receitas e dicas para uma ceia completa, cheia de inspiração tropical. Afinal, nosso Natal é no verão e nosso verão é um forno preaquecido em temperatura máxima! Um colorido só, bem brasileiro. Divirta-se! Cozinhar é libertador.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539625253"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539625253"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=48Z-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=48Z-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=48Z-DwAAQBAJ&printsec=frontcover&dq=O+que+tem+na+geladeira%3F&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=48Z-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-48Z-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 58.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 53.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=48Z-DwAAQBAJ&rdid=book-48Z-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.81E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.391E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_de_estar-sample-epub.acsm?id=48Z-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_de_estar-sample-pdf.acsm?id=48Z-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=48Z-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais do que um livro de receitas, Cozinha de estar é um guia para quem vai cozinhar para receber."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aclUAQAAQBAJ",
+   "etag": "F2CVZdoSZQw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aclUAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Na cozinha com Nigella",
+    "authors": [
+     "Nigella Lawson"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2013-10-10",
+    "description": "190 receitas, incluindo mais de 60 receitas expressas. Conciso, informativo e irresistível - assim é \"Na Cozinha Com Nigella\", da escritora e apresentadora Nigella Lawson. Oferecendo pratos reconfortantes, mas sempre sedutores; nostálgicos, mas com um toque moderno; o livro conta com receitas rápidas, perfeitas para aqueles dias em que o tempo é escasso, e pratos preparados lentamente, ideais para os finais de semana e ocasiões especiais, e ainda doces e sobremesas irresistíveis que a tornarão uma verdadeira deusa na cozinha. O livro responde alguns dilemas culinários cotidianos - como o que servir aos filhos para o jantar, como improvisar uma refeição para amigos em minutos ou o que fazer com aquelas bananas escurecidas, maçãs enrugadas e ameixas duras como pedras. E também mostra como uma receita pode ser transformada em outra, não desperdiçando as sobras... De assado para sopa, de frango para salada. Além de oferecer ao leitor pratos de dar água na boca, Nigella define os utensílios e ingredientes imprescindíveis na cozinha (e os completamente desnecessários). Acima de tudo, porém, ela relembra o prazer da comida de verdade e os ritmos tradicionais da culinária, enquanto cozinha ao tom das batidas do coração da casa, criando receitas simples e deliciosas para tornar a vida menos complicada.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576847298"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576847299"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.21.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aclUAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aclUAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aclUAQAAQBAJ&pg=PT66&dq=O+que+tem+na+geladeira%3F&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aclUAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aclUAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 94.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aclUAQAAQBAJ&rdid=book-aclUAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Na_cozinha_com_Nigella-sample-epub.acsm?id=aclUAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Na_cozinha_com_Nigella-sample-pdf.acsm?id=aclUAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aclUAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "TEM. PARA. O. JANTAR? Às vezes eu, uma obcecada por comida, até mesmo \u003cbr\u003e\numa viciada em comida, acho difícil pensar ... Hoje em dia meus filhos estão \u003cbr\u003e\nnaquela idade em que voltam da escola, beliscam tudo \u003cb\u003eo que tem na geladeira\u003c/b\u003e, \u003cbr\u003e\nnão&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n2g8z3iRSPQC",
+   "etag": "qbjqjKfjq+s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n2g8z3iRSPQC",
+   "volumeInfo": {
+    "title": "Mulheres",
+    "subtitle": "Por que será que elas...?",
+    "authors": [
+     "Leila Ferreira"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2012-07-13",
+    "description": "Moda, consumo, homens, auto-estima, culpa, sexo, estética, estresse e outros temas sob a ótica da mulher contemporânea. Experiente entrevistadora, a autora buscou a matéria-prima de seu livro na vida real. Numa peregrinação por bares, restaurantes, salões de cabeleireiro e clínicas de estética, entre uma infinidade de outros locais, Leila conversou com mais de 50 mulheres. Um esforço compensado por depoimentos e histórias tão absurdamente engraçados que, embora sejam de verdade, parecem pura ficção.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525049483"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525049484"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=n2g8z3iRSPQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=n2g8z3iRSPQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=n2g8z3iRSPQC&pg=PT69&dq=O+que+tem+na+geladeira%3F&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=n2g8z3iRSPQC&dq=O+que+tem+na+geladeira%3F&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mulheres.html?hl=&id=n2g8z3iRSPQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres-sample-epub.acsm?id=n2g8z3iRSPQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres-sample-pdf.acsm?id=n2g8z3iRSPQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n2g8z3iRSPQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... primeiro grau,leros descontos anunciados nas vitrines,criticar o outdoor com \u003cbr\u003e\nmulheres seminuas e ainda pedir a alguém que atenda o celular que está \u003cbr\u003e\ntocando e conferir o marcador de gasolina. Em casa, checamos \u003cb\u003eo que tem na\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003egeladeira\u003c/b\u003e&nbsp;..."
+   }
+  }
+ ]
+}

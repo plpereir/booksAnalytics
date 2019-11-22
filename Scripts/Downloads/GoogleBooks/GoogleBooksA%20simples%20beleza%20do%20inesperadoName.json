@@ -1,0 +1,921 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 21,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gk1wDQAAQBAJ",
+   "etag": "BElXucxZxOU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gk1wDQAAQBAJ",
+   "volumeInfo": {
+    "title": "A simples beleza do inesperado",
+    "authors": [
+     "Marcelo Gleiser"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2016-10-28",
+    "description": "Marcelo Gleiser é apaixonado por ciência e pesca desde os tempos de menino nas praias do Rio de Janeiro. Hoje um físico de renome mundial, autor de dezenas de livros e com centenas de artigos publicados nas principais revistas de divulgação científica, sentiu que era o momento de se conectar com a natureza de forma menos teórica. Depois de assistir a uma aula sobre pesca fly na Dartmouth College, onde é professor, interessou-se pela prática e a adotou como hobby. Em viagem pelo mundo para participar de conferências científicas – e pescando onde quer que vá –, Gleiser reflete sobre as diversas formas como a física influencia o ato de pescar, como a pesca serve de espelho para o funcionamento da natureza e como a ciência lida com a espiritualidade, o mistério e as coisas que não consegue explicar. Intimista e envolvente, A simples beleza do inesperado é um tributo à natureza, um ensaio sobre a conexão entre o homem e o planeta Terra, e uma exploração do significado da existência – dos átomos ao cosmos, passando pelas trutas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501108777"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501108774"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.19.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gk1wDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gk1wDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gk1wDQAAQBAJ&printsec=frontcover&dq=A+simples+beleza+do+inesperado&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gk1wDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gk1wDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gk1wDQAAQBAJ&rdid=book-gk1wDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.6E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_simples_beleza_do_inesperado-sample-epub.acsm?id=gk1wDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_simples_beleza_do_inesperado-sample-pdf.acsm?id=gk1wDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gk1wDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Intimista e envolvente, A simples beleza do inesperado é um tributo à natureza, um ensaio sobre a conexão entre o homem e o planeta Terra, e uma exploração do significado da existência – dos átomos ao cosmos, passando pelas trutas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vWdNDwAAQBAJ",
+   "etag": "YD+Q9Ieani4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vWdNDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pentecostalismo e Pós-Modernidade",
+    "subtitle": "Quando a Experiência Sobrepõe-se à Teologia",
+    "authors": [
+     "César Moisés Carvalho"
+    ],
+    "publisher": "CPAD - Casa Publicadora das Assembleias de Deus",
+    "publishedDate": "2018-02-22",
+    "description": "Vivemos em um mundo onde as respostas dadas por teologias tanto liberais quanto conservadoras, fortemente influenciadas pelo racionalismo, não atendem aos anseios de uma sociedade pós-moderna que busca um sentido transcendental para a vida. É neste contexto que César Moisés propõe uma reflexão acerca dos caminhos do pentecostalismo neste novo milênio. Por ser um movimento que valoriza a experiência com o sagrado mesmo em meio a um mundo tecnológico, o pentecostalismo encontra-se em uma posição privilegiada para produzir uma teologia que vá ao encontro dos anseios espirituais deste novo mundo que se descortina. Um produto CPAD.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526315709"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526315706"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vWdNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vWdNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vWdNDwAAQBAJ&pg=PT452&dq=A+simples+beleza+do+inesperado&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vWdNDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vWdNDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vWdNDwAAQBAJ&rdid=book-vWdNDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.3E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pentecostalismo_e_P%C3%B3s_Modernidade-sample-epub.acsm?id=vWdNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pentecostalismo_e_P%C3%B3s_Modernidade-sample-pdf.acsm?id=vWdNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vWdNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "797 GLEISER, M. \u003cb\u003eA simples beleza do inesperado\u003c/b\u003e. Rio de Janeiro: Record, 2016\u003cbr\u003e\n, p. 52. 798 Ibid. 799 KUHN, T. S. A estrutura das revoluções científicas. São \u003cbr\u003e\nPaulo: Perspectiva, 2007, p. 40. 800Ibid., p. 111. 801GLEISER, M. Op. Cit., p. 80."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qB9KDwAAQBAJ",
+   "etag": "GRkD5vvbx5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qB9KDwAAQBAJ",
+   "volumeInfo": {
+    "title": "ESSÊNCIA E PERSONALIDADE",
+    "subtitle": "Elementos de psicologia relacional",
+    "authors": [
+     "José Fonseca"
+    ],
+    "publisher": "Editora Agora",
+    "publishedDate": "2018-02-19",
+    "description": "Um dos pioneiros do psicodrama em nosso país, José Fonseca revela que ser fiel a Moreno, o criador do psicodrama, não significa simplesmente repeti-lo, mas, principalmente, repensá-lo à luz das questões atuais. O resultado dessa reflexão, iniciada em seus primeiros estudos, aparece em uma prosa fluente e questionadora. Fonseca vale-se também do conceito moreniano de matriz de identidade, envoltório bio-psíquico-social da criança durante a constituição da personalidade, para propor novos caminhos ao diagnóstico psicodinâmico e psicopatológico. Em seu estudo, inclui contribuições de Buber, Espinosa, Freud, Lacan, Bowlby e Kohut, que aqui perdem os sotaques originais para ganhar a inflexão relacional.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571832039"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857183203X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qB9KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qB9KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qB9KDwAAQBAJ&pg=PT313&dq=A+simples+beleza+do+inesperado&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qB9KDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qB9KDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 67.7,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 67.7,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qB9KDwAAQBAJ&rdid=book-qB9KDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.77E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.77E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/ESS%C3%8ANCIA_E_PERSONALIDADE-sample-epub.acsm?id=qB9KDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/ESS%C3%8ANCIA_E_PERSONALIDADE-sample-pdf.acsm?id=qB9KDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qB9KDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "2003. Disponível em: &lt;http://www1.folha.uol.com.br/fsp/ciencia/fe1910200302.\u003cbr\u003e\nhtm&gt;. Acesso em: 18 fev. 2013. ____. “Matemática e futebol”. Folha de São \u003cbr\u003e\nPaulo, Ciência, C11, São Paulo, 10 mar. 2013. ____. \u003cb\u003eA simples beleza do\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003einesperado\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hH-MCgAAQBAJ",
+   "etag": "NPrTKTSLkk0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hH-MCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O impacto do inesperado",
+    "authors": [
+     "Soren Kaplan"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "O que faz uma empresa prosperar enquanto outras ficam na mediocridade? Não há dúvidas de que isso tem a ver com trabalho duro, mas o autor deste livro mostra que você não pode fazer isso apenas tendo uma grande visão e implementando um plano. Ele dá aos líderes empresariais as ferramentas para fazer exatamente o que aprenderam a evitar: aceitar a surpresa – a nova chave para as inovações nos negócios. Em vez de lutar contra a incerteza, Kaplan revela como usá-la para acabar com mentalidades e barreiras limitadoras, e mudar o jogo. Ao destacar maneiras de transformar surpresas boas e más em oportunidades únicas, este livro encoraja líderes a competir ao aceitarem ideias contraintuitivas, administrarem paradoxos e até receberem bem os fracassos. Essa é a chave para o ultrapassar expectativas – criar ou fazer algo radicalmente novo ou diferente que produza um significativo salto adiante. Este livro combina novas pesquisas, estratégias extraordinárias e ferramentas práticas para navegar pelo processo caótico de chegar a inovações nos negócios. Repleto de exemplos tirados da vida real de empresas inovadoras como Gatorade, Intuit, Philips, Kimberly-Clark, Colgate-Palmolive, OpenTable e Etsy, mostra que qualquer função dentro de uma organização ou negócio por dar um salto à frente. Usando seu processo LEAPS (Ouça, Explore, Aja, Persista e Meça), líderes aprendem a procurar, reconhecer e reagir a experiências e acontecimento surpreendentes que vão além das atuais expectativas de clientes, parceiros, funcionários, do mercado e da concorrência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200154"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200153"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hH-MCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hH-MCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hH-MCgAAQBAJ&pg=PT54&dq=A+simples+beleza+do+inesperado&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hH-MCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hH-MCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hH-MCgAAQBAJ&rdid=book-hH-MCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_impacto_do_inesperado-sample-epub.acsm?id=hH-MCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_impacto_do_inesperado-sample-pdf.acsm?id=hH-MCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hH-MCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "com suas necessidades, bom custo-benefício, e algo mais – \u003cb\u003ebeleza\u003c/b\u003e e conforto. A \u003cbr\u003e\nequipe de marketing de Barbara ... A equipe de Barbara optou por enfatizar algo \u003cbr\u003e\nmuito \u003cb\u003esimples\u003c/b\u003e e muito diferente – estética. Decidiram dar aos clientes uma&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nRp6DwAAQBAJ",
+   "etag": "r+jMc8YnmHM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nRp6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um Encontro Inesperado!",
+    "authors": [
+     "Augusto"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Como a vida as vezes é tao fantástica e imprevisivel com o destino de duas pessoas...Impressionante encontro em que transformou a forma e o mundo deste casal. Da noite para o dia se viram envolvidos de tal forma que tudo aquilo em que acreditavam cairam por terra. Um momento forte, decisivo, levou-os a uma entrega frenetica, esquecendo-se que eram duas pessoas que ainda viviam em seus matrimonios, e seus principios, um a um, foram se perdendo a cada dia, a cada encontro.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35836"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 209,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nRp6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nRp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nRp6DwAAQBAJ&pg=PT173&dq=A+simples+beleza+do+inesperado&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nRp6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nRp6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nRp6DwAAQBAJ&rdid=book-nRp6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_Encontro_Inesperado-sample-pdf.acsm?id=nRp6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nRp6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Todos temos problemas e de toda ordem, mas entre nós, vivemos apenas esse \u003cbr\u003e\noásis, pois aqui, só vemos a \u003cb\u003ebeleza\u003c/b\u003e dá ... \u003cb\u003eSimples\u003c/b\u003e assim. Ainda não conheço \u003cbr\u003e\nmulher mais sensata. Se não fosse, já teríamos ido até as últimas consequências\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JYxMc4hDsDkC",
+   "etag": "WzbVfpy+lkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JYxMc4hDsDkC",
+   "volumeInfo": {
+    "title": "Um prazer inesperado",
+    "authors": [
+     "Candace Camp"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2013-02-16",
+    "description": "Os Moreland eram muito especiais! Megan Mulcahey tinha de descobrir se Theo Moreland, marquês de Raine, matara o seu irmão. A jornalista estava habituada a conseguir o que queria, embora Theo talvez fosse o maior desafio que alguma vez enfrentara. Para além de extremamente poderoso, o marquês era incrivelmente bonito e inteligente. Contudo Megan ia descobrir o que existia por detrás da misteriosa morte do seu irmão... e o que acontecera ao tesouro que ambos tinham estado à procura na selva sul-americana, embora primeiro tivesse de atravessar o Atlântico e infiltrar-se em casa dele de alguma forma... A nova tutora dos seus irmãos não era o que Theo esperava. O corajoso explorador só vira uma vez na sua vida uma mulher como aquela, num sonho febril do qual desejara não acordar. Todavia... o que fazia aquela deliciosa visão a vasculhar todos os cantos da sua casa como uma ladra?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788468725581"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8468725587"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JYxMc4hDsDkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JYxMc4hDsDkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JYxMc4hDsDkC&pg=PT30&dq=A+simples+beleza+do+inesperado&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JYxMc4hDsDkC&dq=A+simples+beleza+do+inesperado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_prazer_inesperado.html?hl=&id=JYxMc4hDsDkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_prazer_inesperado-sample-epub.acsm?id=JYxMc4hDsDkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_prazer_inesperado-sample-pdf.acsm?id=JYxMc4hDsDkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JYxMc4hDsDkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vestia um vestido azul muito \u003cb\u003esimples\u003c/b\u003e, mas de corte e tecido excelentes e cuja cor \u003cbr\u003e\nera um vívido reflexo da dos seus olhos. Era uma mulher de grande \u003cb\u003ebeleza\u003c/b\u003e e \u003cbr\u003e\natitude e Megan adivinhou imediatamente que se tratava da duquesa de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q-6nBAAAQBAJ",
+   "etag": "MzFrgr+uXYs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q-6nBAAAQBAJ",
+   "volumeInfo": {
+    "title": "A beleza e a dor",
+    "subtitle": "Uma história íntima da Primeira Guerra Mundial",
+    "authors": [
+     "Peter Englund"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2014-06-25",
+    "description": "Uma história do cotidiano durante a Primeira Guerra Mundial pela voz de dezenove pessoas resgatadas do anonimato. Nesta história tão ambiciosa quanto original da Primeira Guerra, Peter Englund aborda o conflito a partir de seu aspecto menos explorado, mas talvez mais revelador: a experiência das pessoas comuns - não apenas a tragédia e a dor, mas também o absurdo e mesmo, por vezes, a beleza dessas vidas. A beleza e a dor não é, assim, um livro sobre o que foi a Primeira Guerra - ou seja, suas causas, seu desenrolar, seu final ou suas consequências -, mas antes sobre como foi esse conflito. O leitor nele não encontrará tantos eventos e processos, mas sim pessoas, impressões, experiências ou estados de ânimo. Uma reconstituição do mundo emocional em primeiro lugar, depois o curso dos acontecimentos. A narrativa é composta a partir da voz de dezenove indivíduos, todos resgatados do anonimato por meio dos diários e das cartas que Peter Englund usou como fonte primária de sua pesquisa. Entre eles há um jovem da infantaria britânica que pensava em emigrar até que a guerra lhe ofereceu uma \"promessa de mudança\"; um bem intencionado funcionário público francês de meia-idade que tem sua admiração pela cultura europeia para sempre abalada; um escritor socialista que perdeu a fé na transformação do mundo com a eclosão do conflito; uma garota de doze anos que aguarda ansiosa as vitórias militares, pois elas significam a mudança de rotina na escola. Alguns viviam no front Oeste, outros nos Bálcãs, outros ainda na África Oriental ou na Mesopotâmia. Dois morrerão, um jamais ouvirá o disparo de um tiro; alguns se tornarão prisioneiros de guerra; outros serão condecorados como heróis. Mas apesar de suas diversas ocupações e destinos, gênero ou nacionalidade, todos estarão unidos por seu envolvimento - voluntário ou não - no grande e terrível conflito que mudou os rumos do século XX.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543800523"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543800528"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 520,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.9.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q-6nBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q-6nBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=q-6nBAAAQBAJ&pg=PR31&dq=A+simples+beleza+do+inesperado&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=q-6nBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-q-6nBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=q-6nBAAAQBAJ&rdid=book-q-6nBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.95E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_beleza_e_a_dor-sample-epub.acsm?id=q-6nBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_beleza_e_a_dor-sample-pdf.acsm?id=q-6nBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q-6nBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... de infiltração já testadas no leste e na Itália, o Exército alemão consegue \u003cbr\u003e\nexecutar um grande e \u003cb\u003einesperado\u003c/b\u003e avanço. ... A pouca distância daqui algumas \u003cbr\u003e\ncasas \u003cb\u003esimples\u003c/b\u003e desabaram depois de serem bombardeadas de novo e, debaixo \u003cbr\u003e\ndos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DZdwAAAAQBAJ",
+   "etag": "nVHiSFHEOUY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DZdwAAAAQBAJ",
+   "volumeInfo": {
+    "title": "O corcunda de Notre Dame",
+    "subtitle": "Edição comentada",
+    "authors": [
+     "Victor Hugo"
+    ],
+    "publisher": "Jorge Zahar Editor Ltda",
+    "publishedDate": "2013-08-29",
+    "description": "Na Paris do século XV, a cigana Esmeralda dança em frente à catedral de Notre Dame. Ao redor da jovem e da igreja, dançam outros personagens inesquecíveis - como o cruel arquidiácono Claude Frollo, o capitão Phoebus, a velha reclusa Gudule e, claro, o disforme Quasímodo, o corcunda que cuida dos sinos da catedral. Com uma trama arrebatadora, que tem a cidade de Paris como bem mais do que um mero pano de fundo, Victor Hugo criou um dos grandes clássicos do romantismo francês, de leitura irresistível. Essa Edição Comentada e Ilustrada inclui tradução, apresentação e notas de Jorge Bastos Cruz e mais de 50 ilustrações originais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537811047"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537811041"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 495,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DZdwAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DZdwAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DZdwAAAAQBAJ&pg=PT162&dq=A+simples+beleza+do+inesperado&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DZdwAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DZdwAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DZdwAAAAQBAJ&rdid=book-DZdwAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_corcunda_de_Notre_Dame-sample-epub.acsm?id=DZdwAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_corcunda_de_Notre_Dame-sample-pdf.acsm?id=DZdwAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DZdwAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... Paris, vista de um balão, um dia apresente a riqueza de linhas, a opulência de \u003cbr\u003e\ndetalhes, a diversidade de aspectos, esse não sei quê da grandiosidade do \u003cbr\u003e\n\u003cb\u003esimples\u003c/b\u003e e do \u003cb\u003einesperado\u003c/b\u003e, semelhante à \u003cb\u003ebeleza\u003c/b\u003e que tem um tabuleiro de damas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kN-RM16iOhoC",
+   "etag": "csSRID4zBtM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kN-RM16iOhoC",
+   "volumeInfo": {
+    "title": "Três cadáveres",
+    "publisher": "7Letras",
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575774328"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575774328"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kN-RM16iOhoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kN-RM16iOhoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kN-RM16iOhoC&pg=PA92&dq=A+simples+beleza+do+inesperado&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kN-RM16iOhoC&dq=A+simples+beleza+do+inesperado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tr%C3%AAs_cad%C3%A1veres.html?hl=&id=kN-RM16iOhoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kN-RM16iOhoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Porém o realismo de Fialho resiste sempre \u003cb\u003eà simples\u003c/b\u003e tese social: a descrição do \u003cbr\u003e\nbairro lisboeta é um retrato social feito de ... mas gera também o seu \u003cb\u003einesperado\u003c/b\u003e \u003cbr\u003e\nreverso de \u003cb\u003ebeleza\u003c/b\u003e, nas figuras frágeis e sublimadas de Marta e de seus irmãos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NR2oBAAAQBAJ",
+   "etag": "gGumH6HKjhg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NR2oBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Carlos Lacerda: a República das abelhas",
+    "authors": [
+     "Rodrigo Lacerda"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2013-11-22",
+    "description": "Carlos Lacerda foi o político mais controverso de sua época. Para uns, foi salvador da pátria. Para outros, reacionário feroz. Seu pai, seus tios e seu avô tiveram participação igualmente decisiva nos principais lances da política brasileira, da Primeira República ao suicídio de Getúlio Vargas, em 1954. Por volta de 1870, abolicionista e republicano, Sebastião de Lacerda entrou na vida pública. Entre 1910 e 1940, Maurício, seu filho mais velho, tornara-se um socialista utópico na Primeira República. Seus outros dois filhos, Fernando e Paulo, chegaram a secretários-gerais do Partido Comunista. Entre 1930 e 1960, seu neto, Carlos Lacerda, percorreu todo o espectro político, consolidando-se como o principal adversário de Getúlio e, em seguida, do getulismo. Ao lado de republicanos, abolicionistas, liberais, socialistas, comunistas, explosivos, admirados, idealistas e destruidores sistemáticos, eles formam a República das abelhas, descrita com brilho por um dos prosadores mais inventivos da literatura brasileira contemporânea.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580868760"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580868769"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 520,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NR2oBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NR2oBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NR2oBAAAQBAJ&pg=PT320&dq=A+simples+beleza+do+inesperado&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NR2oBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NR2oBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NR2oBAAAQBAJ&rdid=book-NR2oBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.45E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Carlos_Lacerda_a_Rep%C3%BAblica_das_abelhas-sample-epub.acsm?id=NR2oBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Carlos_Lacerda_a_Rep%C3%BAblica_das_abelhas-sample-pdf.acsm?id=NR2oBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NR2oBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A ex-xifópaga Rosalinda veio nos receber na entrada da casa e elogiou a \u003cb\u003ebeleza\u003c/b\u003e \u003cbr\u003e\nde Letícia. ... Indo até lá, encontramos meu pai todo paramentado de fazendeiro, \u003cbr\u003e\nusando botas e protegendo a calva do sol com um \u003cb\u003einesperado\u003c/b\u003e chapéu de palha. \u003cbr\u003e\n... Ela deu um sorriso de moça \u003cb\u003esimples\u003c/b\u003e, aliviada ao sentir-se aceita por todos na \u003cbr\u003e\nfamília do namorado, cheia de políticos, juízes e revolucionários conhecidos."
+   }
+  }
+ ]
+}

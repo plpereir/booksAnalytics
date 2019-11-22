@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5cpMYgEACAAJ",
+   "etag": "bs3laYruph0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5cpMYgEACAAJ",
+   "volumeInfo": {
+    "title": "Hitler",
+    "authors": [
+     "Ian Kersshaw",
+     "Pedro Maia Soares"
+    ],
+    "publishedDate": "2010",
+    "description": "Quando foram publicados pela primeira vez, os dois volumes da biografia de Hitler escrita por Ian Kershaw foram considerados necessários para compreender esta personalidade do século XX. A presente tradução foi realizada a partir da versão condensada elaborada pelo autor, que eliminou cerca de quatrocentas páginas de notas e referências - destinadas sobretudo ao público acadêmico -, procurando, no entanto, não prejudicar a força da narrativa e o poder de seu argumento. Kershaw escreve baseado na documentação já conhecida e em diversas fontes, como o diário de Goebbels, redescoberto no início da década de 1990, que traz revelações mais íntimas sobre as atitudes, as hesitações e o comportamento de Hitler no poder. A trajetória inteira desse indivíduo é esmiuçada pelo autor, em busca de uma explicação para essa trajetória ascendente, para o domínio que Hitler exerceu sobre as elites alemãs e para a catástrofe que causou em seu país e no resto do mundo. Sem desprezar os traços de personalidade do ditador na explicação da história, o autor enfatiza os aspectos sociais, políticos e econômicos da sociedade alemã traumatizada pela derrota na Primeira guerra, a instabilidade política, a miséria econômica e a crise cultural.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535917586"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535917581"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1077,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5cpMYgEACAAJ&dq=isbn:9788535917581&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5cpMYgEACAAJ&dq=isbn:9788535917581&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hitler.html?hl=&id=5cpMYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5cpMYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em suma, trata-se da biografia mais completa e abrangente do homem que levou o racismo, o desprezo pela vida humana, a insensatez política e o desvario militar a extremos tais que o romancista Norman Mailer chegou a ver nele a pura ..."
+   }
+  }
+ ]
+}

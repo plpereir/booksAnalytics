@@ -1,0 +1,938 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 10,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5bgqAgAAQBAJ",
+   "etag": "O9OB90cbV9w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5bgqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 2",
+    "subtitle": "Rodrick é o cara",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Faça o que quiser, só não pergunte a Greg Heffley como foram suas férias de verão, porque ele realmente não quer falar sobre isso. De volta às aulas, Greg está ansioso para enterrar de vez os últimos três meses...e um acontecimento em particular. Mas seu irmão mais velho, Rodrick, não vai deixar que as coisas caiam no esquecimento assim tão fácil. Ele é testemunha de um \"pequeno\" incidente que Greg quer manter em sigilo. Mas sabe como são os segredos, não é? Logo, logo estão na boca do povo, especialmente quando há um diário envolvido na confusão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835196"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835193"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.11.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5bgqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5bgqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5bgqAgAAQBAJ&printsec=frontcover&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5bgqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5bgqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5bgqAgAAQBAJ&rdid=book-5bgqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_2-sample-epub.acsm?id=5bgqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_2-sample-pdf.acsm?id=5bgqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5bgqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Faça o que quiser, só não pergunte a Greg Heffley como foram suas férias de verão, porque ele realmente não quer falar sobre isso."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mJhyDQAAQBAJ",
+   "etag": "SwMjAtHQz0w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mJhyDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Vai ou racha",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley nunca esteve tão perto da fama. Ouvir os conselhos de sua mãe sobre explorar seu lado criativo fez bem a ele. Agora, Greg está na banda da escola e poderá ir à festa de Dia das Bruxas mais bombada de todas. Será que ele conseguirá mostrar o quanto é maneiro e talentoso? Ou será que seu sonho vai rachar de vez?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550700618"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550700614"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mJhyDQAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mJhyDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&rdid=book-mJhyDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=mJhyDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=mJhyDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mJhyDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM \u003cb\u003eDiário de um Banana Diário de um Banana\u003c/b\u003e: \u003cb\u003eRodrick\u003c/b\u003e éo \u003cb\u003ecara\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eDiário de um Banana\u003c/b\u003e: A gota d&#39;água \u003cb\u003eDiário de um Banana\u003c/b\u003e: Dias decão \u003cb\u003eDiário de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eum Banana\u003c/b\u003e: A verdade nuae crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: Casa dos horrores \u003cbr\u003e\n\u003cb\u003eDiário\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MTL1CAAAQBAJ",
+   "etag": "gJ/7vKiIEsk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MTL1CAAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Caindo na estrada",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley está de volta com confusões tamanho família! Uma viagem de carro em família tem tudo para ser algo muito divertido... ou não, ainda mais se for a família do Greg Heffley. A jornada começa cheia de promessas, mas logo sofre reviravoltas dramáticas. Banheiros de postos de gasolina, gaivotas ensandecidas, malas perdidas, um porco faminto... Mas até a viagem mais desastrosa pode virar uma grande aventura – e desta os Heffley não vão se esquecer tão cedo. #150 milhões de livros vendidos no mundo todo #Best-seller do New York Times #Um dos maiores fenômenos recentes da literatura infantojuvenil #Sucesso também nos cinemas Sobre o autor: Jeff Kinney cresceu em Washington, D. C. e atualmente mora no sul de Massachusetts com a mulher e seus dois filhos. Além de escrever, Jeff desenvolve e projeta jogos online. Ao contrário de seu personagem Greg Heffley, o autor não tem nada de \"banana\": a prova disso é que tem liderado a lista de livros mais vendidos do New York Times. Em 2009, Jeff foi escolhido como uma das 100 Pessoas Mais Influentes do Mundo pela revista Time. A série \"Diário de um Banana\" já foi traduzida para diversas línguas e é um sucesso no mundo todo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576838265"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576838265"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MTL1CAAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MTL1CAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&rdid=book-MTL1CAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=MTL1CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=MTL1CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MTL1CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM \u003cb\u003eDiário de um Banana Diário de um Banana\u003c/b\u003e: \u003cb\u003eRodrick\u003c/b\u003e éo \u003cb\u003ecara\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eDiário de um Banana\u003c/b\u003e: A gota d&#39;água \u003cb\u003eDiário de um Banana\u003c/b\u003e: Dias decão \u003cb\u003eDiário de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eum Banana\u003c/b\u003e: A verdade nua ecrua \u003cb\u003eDiário de um Banana\u003c/b\u003e: Casa dos horrores \u003cbr\u003e\n\u003cb\u003eDiário\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VLkqAgAAQBAJ",
+   "etag": "UtKb5Dyu+Bk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VLkqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 7",
+    "subtitle": "Segurando vela",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "O Dia dos Namorados está chegando e Greg Heffley continua sozinho. Mas um baile organizado pela escola pode mudar tudo. Ele precisa encontrar uma garota urgentemente. Para isso, conta com a ajuda de outro \"solteirão\", Rowley, seu melhor amigo. A ideia de Greg é usar Rowley como isca para atrair as meninas, uma espécie de coadjuvante de luxo que auxilia o ator principal a brilhar. Será que esse plano vai dar certo? Ou será que a flecha do cupido vai tomar um rumo inesperado?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576836162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576836165"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VLkqAgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VLkqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.63,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&rdid=book-VLkqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.663E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-epub.acsm?id=VLkqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-pdf.acsm?id=VLkqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VLkqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM \u003cb\u003eDiário de um Banana Diário de um Banana\u003c/b\u003e: \u003cb\u003eRodrick\u003c/b\u003e éo \u003cb\u003ecara\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eDiário de um Banana\u003c/b\u003e: A gota d&#39;água \u003cb\u003eDiário de um Banana\u003c/b\u003e: Dias de cão \u003cb\u003eDiário de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eum Banana\u003c/b\u003e: A verdade nua e crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: Casa dos horrores \u003cbr\u003e\n\u003cb\u003eDiário\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ELsqAgAAQBAJ",
+   "etag": "k+RfqNXJ60g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ELsqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 6",
+    "subtitle": "Casa dos horrores",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Em sua sexta aventura, Greg Heffley passará por grandes apuros. As coisas para ele vão de mal a pior, tanto na escola como em sua casa. Greg será suspeito de vandalismo e se tornará um suposto foragido da polícia. Além disso, uma forte tempestade de neve faz com que ele e sua família fiquem presos em casa. Em pouco tempo, o seu lar doce lar se transformará em uma verdadeira Casa dos horrores. Divirta-se com as novas confusões de Greg, ele nunca esteve tão Banana!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835233"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835231"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ELsqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ELsqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ELsqAgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ELsqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ELsqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ELsqAgAAQBAJ&rdid=book-ELsqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_6-sample-epub.acsm?id=ELsqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_6-sample-pdf.acsm?id=ELsqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ELsqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM \u003cb\u003eDiário de um Banana Diário de um Banana\u003c/b\u003e: \u003cb\u003eRodrick\u003c/b\u003e éo \u003cb\u003ecara\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eDiário de um Banana\u003c/b\u003e: A gota d&#39;água \u003cb\u003eDiário de um Banana\u003c/b\u003e: Dias de cão \u003cb\u003eDiário de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eum Banana\u003c/b\u003e: A verdade nua e crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: Faça você mesmo \u003cbr\u003e\n\u003cb\u003eDiário\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L7kqAgAAQBAJ",
+   "etag": "BCCQYHhr7jM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L7kqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 3",
+    "subtitle": "A gota d'água",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg não se emenda mesmo. Mas agora é seu pai quem vai tentar botar um pouco de juízo na cabeça do garoto. Será que vai conseguir? Ou Greg vai estragar tudo? Qual será a gota d'água que vai fazer transbordar a paciência de seu pai?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835202"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835207"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L7kqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L7kqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=L7kqAgAAQBAJ&pg=PA64&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=L7kqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-L7kqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.56,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=L7kqAgAAQBAJ&rdid=book-L7kqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.156E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_3-sample-epub.acsm?id=L7kqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_3-sample-pdf.acsm?id=L7kqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L7kqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Obviamente, eleacha queo culpado só pode ser o \u003cb\u003eRodrick\u003c/b\u003e ou eu. Como disse, \u003cbr\u003e\nnão fui EU, mas achei que talvez o papai tivesse razão quanto ao \u003cb\u003eRodrick\u003c/b\u003e. \u003cbr\u003e\nQuandoo \u003cb\u003eRodrick\u003c/b\u003e subiu parao banheiro depois do jantar, entrei no quarto dele \u003cbr\u003e\npara&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IZn0AQAAQBAJ",
+   "etag": "65QMa43LiFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IZn0AQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no ensino fundamental, onde fracotes subdesenvolvidos dividem os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, Greg nos conta as desventuras de sua vida escolar. Em busca de um pouco de popularidade (e também de um pouco de proteção), o garoto se envolve em uma série de situações que procura resolver de uma maneira muito particular. No primeiro livro da coleção, o autor e ilustrador Jeff Kinney nos apresenta um herói improvável e encantador. Um garoto comum às voltas com os desafios da puberdade",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835189"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835185"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IZn0AQAAQBAJ&pg=PA31&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IZn0AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&rdid=book-IZn0AQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=IZn0AQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=IZn0AQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IZn0AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O papai odeia heavy metal, e é esse o tipo de som que a banda do \u003cb\u003eRodrick\u003c/b\u003e toca. \u003cbr\u003e\nEu não acho que a mamãe se importe mesmo com o tipo de música que o \u003cbr\u003e\n\u003cb\u003eRodrick\u003c/b\u003e toca ou ouve porque, para ela, toda música é igual. Na verdade, hoje \u003cbr\u003e\nmais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ebkqAgAAQBAJ",
+   "etag": "RvZPdFKKmDA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ebkqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "A verdade nua e crua",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "No quinto volume da série, nosso herói Greg Heffley, o Garoto Banana, se vê diante de novos desafios e vai ter de se superar para dar conta de todos! Logo ele, que sempre teve tanta pressa para crescer, começa a se questionar se vale mesmo a pena ingressar tão rápido no \"mundo adulto\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835226"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835223"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ebkqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ebkqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ebkqAgAAQBAJ&pg=PA116&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ebkqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ebkqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ebkqAgAAQBAJ&rdid=book-ebkqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=ebkqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=ebkqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ebkqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A verdade nua e crua Jeff Kinney. E pelo menos 95% daquilo estava \u003cbr\u003e\ncompletamente desatualizado. Algumas coisas alieram, na verdade, bem \u003cbr\u003e\nembaraçosas. Só fico feliz por ter encontradoo manual antes do \u003cb\u003eRodrick\u003c/b\u003e, ouele \u003cbr\u003e\nnunca mais me&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h-UEtgEACAAJ",
+   "etag": "CGMsaWZLAm8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h-UEtgEACAAJ",
+   "volumeInfo": {
+    "title": "Diário De Um Banana – Edição Comemorativa",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publishedDate": "2018-05-03",
+    "description": "Reviva seus momentos favoritos do livro que deu início à série best seller mundial. EDição limitada e numerada. IMpressa em papel premium e com novo projeto gráfico. VOcê nunca mais verá Greg, Rowley, Manny, Rodrick e Fregley da mesma maneira. Trata-se de um livro imperdível para fãs de carteirinha e para os novos leitores. MAs antes de abrir este diário, cruze os dedos! Ou você quer ficar com o Toque do Queijo para sempre, agora em potência máxima?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "855070184X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550701844"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h-UEtgEACAAJ&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=h-UEtgEACAAJ&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_De_Um_Banana_Edi%C3%A7%C3%A3o_Comemorati.html?hl=&id=h-UEtgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h-UEtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reviva seus momentos favoritos do livro que deu início à série best seller mundial."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GcUZvgAACAAJ",
+   "etag": "ngkbOA0Kqv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GcUZvgAACAAJ",
+   "volumeInfo": {
+    "title": "O FUNCIONAMENTO DA MENTE",
+    "authors": [
+     "AUGUSTO CURY"
+    ],
+    "description": "Nesta obra, o Dr. Augusto Cury esmiúça a Teoria da Inteligência Multifocal, desvendando algumas áreas vitais dos bastidores da psique, numa linguagem muito acessível e dirigida a um público mais amplo. O que é o Eu? Como os pensamentos são construídos? De que modo as emoções influenciam a racionalidade? Como acessamos a nossa memória? Estas e muitas outras questões são discutidas em detalhes nesta obra. A mente é de fato um mundo a se explorar dentro de cada ser humano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531613493"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531613494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 279,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GcUZvgAACAAJ&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GcUZvgAACAAJ&dq=Di%C3%A1rio+de+um+banana+-+Rodrick+%C3%A9+o+cara&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_FUNCIONAMENTO_DA_MENTE.html?hl=&id=GcUZvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GcUZvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, o Dr. Augusto Cury, esmiúça a Teoria da Inteligência Multifocal, desvendando algumas áreas vitais dos bastidores da psique, numa linguagem muito mais acessível e dirigida a um público mais amplo."
+   }
+  }
+ ]
+}

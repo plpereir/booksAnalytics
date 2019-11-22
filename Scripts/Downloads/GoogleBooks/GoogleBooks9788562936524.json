@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dtTOcQAACAAJ",
+   "etag": "xf/6gIDoIOY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dtTOcQAACAAJ",
+   "volumeInfo": {
+    "title": "A guerra dos tronos",
+    "subtitle": "as cronicas de gelo e fogo, livro um",
+    "authors": [
+     "George R. R. Martin",
+     "Jorge Candeiras"
+    ],
+    "publishedDate": "2010",
+    "description": "Em 'A Guerra dos Tronos', George R. R. Martin traz uma história de lordes e damas, soldados e mercenários, assassinos e bastardos, que se juntam em um tempo de presságios malignos. Cada um esforçando-se para ganhar este conflito mortal - a guerra dos tronos. Mistérios, intrigas, romances e aventuras ilustram as páginas deste livro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8562936529"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788562936524"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 591,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese language materials"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dtTOcQAACAAJ&dq=isbn:9788562936524&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dtTOcQAACAAJ&dq=isbn:9788562936524&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_guerra_dos_tronos.html?hl=&id=dtTOcQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dtTOcQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A tale of court intrigues in the land of Seven Kingdoms, a country &quot;blessed by golden summers that go on for years, and cursed by cruel winters that can last a generation.&quot; Treachery, murder, incest."
+   }
+  }
+ ]
+}

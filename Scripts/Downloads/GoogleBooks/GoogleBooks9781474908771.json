@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "m14lvgAACAAJ",
+   "etag": "fvA4Vf7oNZU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m14lvgAACAAJ",
+   "volumeInfo": {
+    "title": "COELHO DA PASCOA",
+    "subtitle": "LIVRO COM JANELAS",
+    "authors": [
+     "SAM TAPLIN",
+     "ROSALINDE BONNET",
+     "MATILDE DOS SANTOS"
+    ],
+    "description": "Este livrinho é perfeito para iniciar o hábito de leitura entre as crianças mais novinhas. As ilustrações são simples e cada página traz janelas para abrir e deixar a história ainda mais divertida. Junte-se ao Coelhinho da Páscoa nesta doce aventura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1474908772"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781474908771"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 12,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=m14lvgAACAAJ&dq=isbn:9781474908771&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=m14lvgAACAAJ&dq=isbn:9781474908771&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/COELHO_DA_PASCOA.html?hl=&id=m14lvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m14lvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livrinho é perfeito para iniciar o hábito de leitura entre as crianças mais novinhas."
+   }
+  }
+ ]
+}

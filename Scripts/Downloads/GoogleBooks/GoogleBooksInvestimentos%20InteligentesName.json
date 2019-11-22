@@ -1,0 +1,839 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 321,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dU0bAgAAQBAJ",
+   "etag": "VcaKlM4BUV4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dU0bAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Investimentos inteligentes",
+    "subtitle": "Estratégias para multiplicar seu patrimônio com segurança e eficiência",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2013-11-18",
+    "description": "Investir quase sempre envolve abrir mão de alguma coisa e se arriscar. Mas esse processo pode ser feito com bem menos sofrimento e riscos do que se imagina. Em Investimentos inteligentes, o consultor financeiro Gustavo Cerbasi explica que não existe um único investimento perfeito, e sim maneiras mais indicadas de investir de acordo com as necessidades de cada pessoa.Quais são os obstáculos enfrentados por um investidor iniciante? O que não se deve fazer ao investir? Quais são as qualidades encontradas em um bom investidor? Cerbasi responde a essas e outras perguntas, desmistificando algumas questões e apresentando em linguagem acessível as melhores formas de investimentos, seja em renda fixa, ações, fundos, previdência privada ou imóveis, entre outras.Saber investir é fundamental para alcançar a tão sonhada independência financeira e um futuro mais tranquilo para você e seus dependentes. Se você ainda não sabe o que fazer com o seu dinheiro ou não está satisfeito com seus rendimentos atuais, chegou a hora de esclarecer as suas dúvidas e dar um bem-sucedido passo adiante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575429990"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857542999X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.23.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dU0bAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dU0bAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dU0bAgAAQBAJ&printsec=frontcover&dq=Investimentos+Inteligentes&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dU0bAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dU0bAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dU0bAgAAQBAJ&rdid=book-dU0bAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.849E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Investimentos_inteligentes-sample-epub.acsm?id=dU0bAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Investimentos_inteligentes-sample-pdf.acsm?id=dU0bAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dU0bAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Investimentos inteligentes, o consultor financeiro Gustavo Cerbasi explica que não existe um único investimento perfeito, e sim maneiras mais indicadas de investir de acordo com as necessidades de cada pessoa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-MLae8z4kioC",
+   "etag": "eZ+tIuz21Yg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-MLae8z4kioC",
+   "volumeInfo": {
+    "title": "Investimentos inteligentes",
+    "subtitle": "Guia de estudos",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "description": "Com este livro, leitor conhecerá a forma de investir mais indicada para o seu perfil e descobrirá que a arte de investir está ao alcance de todos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578601133"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578601130"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-MLae8z4kioC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-MLae8z4kioC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-MLae8z4kioC&printsec=frontcover&dq=Investimentos+Inteligentes&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-MLae8z4kioC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--MLae8z4kioC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.48,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-MLae8z4kioC&rdid=book--MLae8z4kioC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.84E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.748E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Investimentos_inteligentes-sample-epub.acsm?id=-MLae8z4kioC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Investimentos_inteligentes-sample-pdf.acsm?id=-MLae8z4kioC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-MLae8z4kioC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com este livro, leitor conhecerá a forma de investir mais indicada para o seu perfil e descobrirá que a arte de investir está ao alcance de todos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "48dyPgAACAAJ",
+   "etag": "yHUJluTF5wM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/48dyPgAACAAJ",
+   "volumeInfo": {
+    "title": "INVESTIMENTOS INTELIGENTES - AUDIOBOOK",
+    "authors": [
+     "GUSTAVO CERBASI"
+    ],
+    "description": "Em 'Investimentos inteligentes', o autor pretende provar que alcançar o número desejado é possível, podendo ser multiplicado e transformado, se souber investir de forma inteligente - ou seja, escolhendo investimentos com os quais se sinta à vontade. A obra procura não ensinar quais os segredos do melhor investimento, mas ajudar a descobrir qual a forma de investir mais indicada para cada um.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8561559330"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788561559335"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=48dyPgAACAAJ&dq=Investimentos+Inteligentes&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=48dyPgAACAAJ&dq=Investimentos+Inteligentes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/INVESTIMENTOS_INTELIGENTES_AUDIOBOOK.html?hl=&id=48dyPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=48dyPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Investimentos inteligentes&#39;, o autor pretende provar que alcançar o número desejado é possível, podendo ser multiplicado e transformado, se souber investir de forma inteligente - ou seja, escolhendo investimentos com os quais se ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tYzalwEACAAJ",
+   "etag": "UnjH0Cc7lgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tYzalwEACAAJ",
+   "volumeInfo": {
+    "title": "BOX INVESTIMENTOS INTELIGENTES",
+    "authors": [
+     "GUSTAVO CERBASI"
+    ],
+    "description": "Este box contém dois livros de negócios para executivos, e interessados em boas histórias do mundo dos negócios e investimentos. No livro 'Investimentos Inteligentes', o consultor financeiro Gustavo Cerbasi prova que alcançar o número mágico não tem nada de impossível e que, com a postura certa, pode-se multiplicá-lo e transformá-lo em muitos milhões. O leitor poderá aprender a gastar seu tempo e seu dinheiro de forma equilibrada, para, ao final, contabilizar mais momentos de realização e felicidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578603540"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578603540"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 421,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tYzalwEACAAJ&dq=Investimentos+Inteligentes&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tYzalwEACAAJ&dq=Investimentos+Inteligentes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BOX_INVESTIMENTOS_INTELIGENTES.html?hl=&id=tYzalwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tYzalwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No livro &#39;Investimentos Inteligentes&#39;, o consultor financeiro Gustavo Cerbasi prova que alcançar o número mágico não tem nada de impossível e que, com a postura certa, pode-se multiplicá-lo e transformá-lo em muitos milhões."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "47E_DwAAQBAJ",
+   "etag": "8Mi1d6FxVB0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/47E_DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Descomplicando investimentos",
+    "subtitle": "aprenda a investir para obter retornos maiores e melhores",
+    "authors": [
+     "Fernando Tempel"
+    ],
+    "publisher": "Primavera Editorial",
+    "publishedDate": "2017-11-21",
+    "description": "\"Descomplicando investimentos foi escrito pensando no investidor individual brasileiro do início do século XXI. Aquele investidor que não trabalha no mercado financeiro, mas tem a sua profissão (seja ela qual for), ganha dinheiro e tem necessidade de investir o seu próprio capital. Pensado para suprir tanto as necessidades do investidor iniciante, que nunca leu outra obra sobre investimentos e que tem poucos conhecimentos sobre investimentos, finanças e matemática, como de investidores experientes, que investem há muitos anos e já estudaram muito sobre o assunto, mas desejam aprender mais. O livro é baseado na consagrada metodologia do Value investing, que tem como seu principal expoente o famoso investidor e bilionário Warren Buffett, mas com a metodologia adaptada para a realidade brasileira atual, de juros e inflação elevados. Nesta obra você não encontrará fórmulas matemáticas complexas, sendo todo o conteúdo baseado exclusivamente em exemplos práticos ou em análises dos acontecimentos que afetaram os mercados financeiros brasileiro e mundial nas últimas décadas.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555780554"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555780551"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=47E_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=47E_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=47E_DwAAQBAJ&pg=PT67&dq=Investimentos+Inteligentes&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=47E_DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-47E_DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=47E_DwAAQBAJ&rdid=book-47E_DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.691E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Descomplicando_investimentos-sample-epub.acsm?id=47E_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Descomplicando_investimentos-sample-pdf.acsm?id=47E_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=47E_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "maioria do mercado é que eles são capazes de tomar decisões de \u003cb\u003einvestimentos\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003einteligentes\u003c/b\u003e sucessivamente ao longo do tempo. Esse grupo de investidores é \u003cbr\u003e\nque iremos chamar neste livro de bons investidores. O bom investidor é aquele&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZROXrMdmG38C",
+   "etag": "w7y6Ybt8wAs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZROXrMdmG38C",
+   "volumeInfo": {
+    "title": "Planejamento Estratégico e de Marketing para Pequenas e Médias Empresas",
+    "publisher": "Nori Lucio - brandME",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZROXrMdmG38C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZROXrMdmG38C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZROXrMdmG38C&pg=PA39&dq=Investimentos+Inteligentes&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZROXrMdmG38C&dq=Investimentos+Inteligentes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Planejamento_Estrat%C3%A9gico_e_de_Marketing.html?hl=&id=ZROXrMdmG38C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZROXrMdmG38C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A diferença entre os ativos e passivos circulantes determina a necessidade de \u003cbr\u003e\ncapital de giro, portanto os \u003cb\u003einvestimentos inteligentes\u003c/b\u003e devem obrigatoriamente \u003cbr\u003e\nestar associados a seu respectivo retorno. A clareza nas métricas que \u003cbr\u003e\ndeterminam&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OVmGSOVle5sC",
+   "etag": "/PBg4UlRONw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OVmGSOVle5sC",
+   "volumeInfo": {
+    "title": "WARREN BUFFET",
+    "subtitle": "LIÇOES DO MAIOR DE TODOS OS INVESTIDORES",
+    "authors": [
+     "Janet Lowe"
+    ],
+    "publisher": "Elsevier Brasil",
+    "description": "Nesta edição de Warren Buffett Dicas, Janet Lowe mostra as razões dessa continuidade. Atualizado para refletir a vida de Buffett na última década, este livro contém uma deliciosa e divertida coletânea de citações, mensagens e tiradas favoritas do investidor mais bem-sucedido do mundo. Não raro fascinante, sempre instigante e salpicado do início ao fim pela mistura sem igual de acuidade nos negócios e de sagacidade no cotidiano, esta nova edição está repleta das reflexões de Buffett sobre temas como economia da Internet, família e amigos, gestão de negócios, pagamento de impostos e muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535229116"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535229110"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OVmGSOVle5sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OVmGSOVle5sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OVmGSOVle5sC&pg=PA90&dq=Investimentos+Inteligentes&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OVmGSOVle5sC&dq=Investimentos+Inteligentes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/WARREN_BUFFET.html?hl=&id=OVmGSOVle5sC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OVmGSOVle5sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Articulado e inteligente, Graham desfrutava de um amplo círculo de amizades. ... \u003cbr\u003e\nFazia \u003cb\u003einvestimentos inteligentes\u003c/b\u003e e seguros; acho que \u003cb\u003einvestimentos inteligentes\u003c/b\u003e \u003cbr\u003e\ne seguros podem enriquecê-lo se você não tiver muita pressa. E nunca o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RStrDwAAQBAJ",
+   "etag": "6iKzA2pfWsg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RStrDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Jeito de Warren Buffett de Investir",
+    "authors": [
+     "Robert Hagstrom"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-09-29",
+    "description": "Vendeu mais de 1 milhão de exemplares no mundo inteiro e se manteve durante 21 semanas na lista de best-sellers do New York Times. * Tradução: Cristina Yamagami O livro contém o pensamento e a filosofia de um investidor que ganhou dinheiro utilizando ferramentas disponíveis a qualquer pessoa, independentemente de sua situação financeira. Na obra são apresentados os 12 princípios atemporais que orientam a filosofia de investimentos de Buffett em todas as circunstâncias e em todos os mercados, sendo válidos para instruir qualquer investidor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502100794"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502100793"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RStrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RStrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RStrDwAAQBAJ&pg=PT210&dq=Investimentos+Inteligentes&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RStrDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RStrDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.52,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RStrDwAAQBAJ&rdid=book-RStrDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.4E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.652E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Jeito_de_Warren_Buffett_de_Investir-sample-epub.acsm?id=RStrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RStrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Suas decisões não dependem de tendências da moda ou fatores de timing de \u003cbr\u003e\nmercado1, mas são \u003cb\u003einvestimentos inteligentes\u003c/b\u003e baseados em oportunidades \u003cbr\u003e\nespecíficas nas quais acredita haver ativos ou títulos subvalorizados. Esse \u003cbr\u003e\naspecto do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YIB6g19qLecC",
+   "etag": "TW6s1K/h1g8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YIB6g19qLecC",
+   "volumeInfo": {
+    "title": "Os segredos dos casais inteligentes",
+    "subtitle": "Como construir riqueza a dois e garantir um futuro próspero sem abrir mão do bem-estar no presente",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2012-08-15",
+    "description": "Com um texto claro e acessível, Os segredos dos casais inteligentes vai transformar a maneira como você e seu companheiro lidam com o dinheiro e planejam as finanças, independentemente de qual seja a renda familiar.Consagrado autor de Casais inteligentes enriquecem juntos, Gustavo Cerbasi apresenta neste livro as melhores estratégias para garantir um futuro próspero sem comprometer a qualidade de vida no presente.Com dicas práticas e exemplos baseados em casos reais, ele aborda temas como aposentadoria, planos de investimento, orçamento mensal e, em especial, a necessidade de separar parte da renda para emergências e outra para o lazer e o bem-estar.Cerbasi derruba várias crenças do senso comum sobre como enriquecer e traz respostas surpreendentes para questões polêmicas:• Como economizar sem abrir mão do conforto?• Quanto poupar para garantir o futuro?• Quais são os melhores investimentos?• Abrir um negócio com o parceiro atrapalha o relacionamento?• O casal deve ter uma conta conjunta ou duas separadas?• É melhor comprar ou alugar um imóvel?• Qual regime de separação de bens é mais indicado?• Declaração de Imposto de Renda: juntos ou separados?• Como conversar sobre dinheiro sem começar uma briga?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575428283"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575428284"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.35.37.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YIB6g19qLecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YIB6g19qLecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YIB6g19qLecC&printsec=frontcover&dq=Investimentos+Inteligentes&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YIB6g19qLecC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YIB6g19qLecC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YIB6g19qLecC&rdid=book-YIB6g19qLecC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_segredos_dos_casais_inteligentes-sample-epub.acsm?id=YIB6g19qLecC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_segredos_dos_casais_inteligentes-sample-pdf.acsm?id=YIB6g19qLecC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YIB6g19qLecC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com um texto claro e acessível, Os segredos dos casais inteligentes vai transformar a maneira como você e seu companheiro lidam com o dinheiro e planejam as finanças, independentemente de qual seja a renda familiar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FgaHBAAAQBAJ",
+   "etag": "JfYw46zudvc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FgaHBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Casais inteligentes enriquecem juntos",
+    "subtitle": "Finanças para casais",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2014-09-15",
+    "description": "Uma das maiores causas de brigas entre os casais são as dificuldades financeiras. Se falta dinheiro para pagar as contas, a culpa recai sobre o parceiro esbanjador, que não quer nem saber se tem saldo no banco na hora de fazer uma compra. Se sobra dinheiro no fim do mês, em vez de comemorar, o casal pode se desentender sobre como investir ou gastar aquela quantia.De acordo com o consultor Gustavo Cerbasi, a raiz do problema está na falta de conversa sobre dinheiro. Em geral, só se fala sobre o assunto quando a bomba já estourou. E por não discutir a questão a dois, a maioria acaba deixando de fazer um orçamento realista, de guardar dinheiro para atingir suas metas e de se planejar para manter um bom padrão de vida no futuro.Com sugestões válidas para qualquer fase do relacionamento, desde o namoro até as bodas de ouro, Casais inteligentes enriquecem juntos aponta diferentes estratégias para formar uma parceria inteligente na administração das finanças da família. Ele traz também testes que avaliam a capacidade do casal de construir riqueza.Entre os tópicos abordados estão:• Os benefícios de um planejamento financeiro de longo prazo• Crises financeiras do relacionamento• Vida a dois: até que ponto juntar tudo• Quando comprar a casa • Planos de previdência e seguros• A educação financeira dos filhos• Como lidar com a herançaEsta edição comemorativa de 10 anos inclui o \"Guia para casais que estão se preparando para o casamento\", com orientações sobre as primeiras conversas a respeito de finanças, gastos com a cerimônia, compra da casa própria e o que deve ser priorizado nesse momento especial.Com mais de 1 milhão de livros vendidos, este best-seller inspirou o filme Até que a sorte nos separe e transformou a vida de inúmeras pessoas. Agora vai ensinar você a administrar o dinheiro para dar uma incrementada no seu relacionamento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543101446"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543101441"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.33.33.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FgaHBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FgaHBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FgaHBAAAQBAJ&printsec=frontcover&dq=Investimentos+Inteligentes&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FgaHBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FgaHBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FgaHBAAAQBAJ&rdid=book-FgaHBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Casais_inteligentes_enriquecem_juntos-sample-epub.acsm?id=FgaHBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Casais_inteligentes_enriquecem_juntos-sample-pdf.acsm?id=FgaHBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FgaHBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com sugestões válidas para qualquer fase do relacionamento, desde o namoro até as bodas de ouro, Casais inteligentes enriquecem juntos aponta diferentes estratégias para formar uma parceria inteligente na administração das finanças ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "I7dIwgEACAAJ",
+   "etag": "xbHQ+v1KNHo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I7dIwgEACAAJ",
+   "volumeInfo": {
+    "title": "Club Penguin - O Aprendiz De Inventor",
+    "subtitle": "MONTE SUA HISTORIA 2",
+    "authors": [
+     "Disney"
+    ],
+    "description": "Você acaba de ganhar um concurso de invenções, e o prêmio é passar um dia como aprendiz de Gary, o Pinguim Inventor! Você vai poder ajudá-lo a aperfeiçoar sua última criação - uma pracha veloz movida por foguetes ou uma máquina do tempo. Ou pode ser que aprendizado seja um desastre total. O que será que vai acontecer?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "850606113X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506061138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=I7dIwgEACAAJ&dq=isbn:9788506061138&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=I7dIwgEACAAJ&dq=isbn:9788506061138&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Club_Penguin_O_Aprendiz_De_Inventor.html?hl=&id=I7dIwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I7dIwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você acaba de ganhar um concurso de invenções, e o prêmio é passar um dia como aprendiz de Gary, o Pinguim Inventor!"
+   }
+  }
+ ]
+}

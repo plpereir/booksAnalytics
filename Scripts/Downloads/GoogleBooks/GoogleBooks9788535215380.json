@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4BnUIsKBAFwC",
+   "etag": "znMsw+Yvhe4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4BnUIsKBAFwC",
+   "volumeInfo": {
+    "title": "Execução",
+    "authors": [
+     "Larry Bossidy",
+     "Ram Charan"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2004",
+    "description": "Este é um livro sobre como fechar a lacuna entre os resultados prometidos e os alcançados. Realizações bem-sucedidas resultaram da prática voltada para a execução: unir pessoas, estratégia e operações ? os três processos-chave de cada negócio.Liderar esses processos é o verdadeiro trabalho da gerência ? não apenas formular uma ?visão?, deixando a tarefa de torná-la realidade para os outros.Bossidy e Charan revelam a importância do total e profundo envolvimento em uma organização e explicam por que um diálogo consistente sobre pessoas, estratégias e operações gera uma empresa baseada em honestidade e realismo.obs: Publicado anteriormente sob o título 'Desafio: Fazer acontecer'",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535215387"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535215380"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 261,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4BnUIsKBAFwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4BnUIsKBAFwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4BnUIsKBAFwC&printsec=frontcover&dq=isbn:9788535215380&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4BnUIsKBAFwC&dq=isbn:9788535215380&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Execu%C3%A7%C3%A3o.html?hl=&id=4BnUIsKBAFwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4BnUIsKBAFwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Realizações bem-sucedidas resultaram da prática voltada para a execução: unir pessoas, estratégia e operações ? os três processos-chave de cada negócio.Liderar esses processos é o verdadeiro trabalho da gerência ? não apenas ..."
+   }
+  }
+ ]
+}

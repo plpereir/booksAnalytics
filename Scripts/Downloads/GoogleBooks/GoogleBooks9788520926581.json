@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rU30ZwEACAAJ",
+   "etag": "3A4sVflvYoU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rU30ZwEACAAJ",
+   "volumeInfo": {
+    "title": "MINHA MOCIDADE",
+    "authors": [
+     "WINSTON CHURCHILL",
+     "CARLOS LACERDA"
+    ],
+    "publishedDate": "1967",
+    "description": "Esta obra conta a história de Winston Churchill em uma fase em que pareceu sair de cena. Ele escreve sobre sua infância e seu tempo de colégio, sobre o jovem tenente de cavalaria noroeste da Índia, em Cuba, no Sudão e na Guerra dos Bôeres da África do Sul, chegando ao início da carreira política depois de umas eleições perdidas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520926584"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520926581"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rU30ZwEACAAJ&dq=isbn:9788520926581&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rU30ZwEACAAJ&dq=isbn:9788520926581&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MINHA_MOCIDADE.html?hl=&id=rU30ZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rU30ZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra conta a história de Winston Churchill em uma fase em que pareceu sair de cena."
+   }
+  }
+ ]
+}

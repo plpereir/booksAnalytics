@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vt9KYgEACAAJ",
+   "etag": "SAFFLJ00XR4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vt9KYgEACAAJ",
+   "volumeInfo": {
+    "title": "Diário de uma paixão",
+    "authors": [
+     "Nicholas Sparks",
+     "RENATA MARQUES DE OLIVEIRA"
+    ],
+    "publishedDate": "2010",
+    "description": "Este livro pretende retratar uma relação que resistiu ao teste do tempo e das circunstâncias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563219200"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563219206"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 242,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vt9KYgEACAAJ&dq=isbn:9788563219206&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vt9KYgEACAAJ&dq=isbn:9788563219206&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_de_uma_paix%C3%A3o.html?hl=&id=vt9KYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vt9KYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro pretende retratar uma relação que resistiu ao teste do tempo e das circunstâncias."
+   }
+  }
+ ]
+}

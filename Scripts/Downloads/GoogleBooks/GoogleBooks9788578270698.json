@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "I2QvPwAACAAJ",
+   "etag": "xu/NvpZ+GMc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I2QvPwAACAAJ",
+   "volumeInfo": {
+    "title": "As crônicas de Nárnia",
+    "authors": [
+     "Clive Staples Lewis"
+    ],
+    "publishedDate": "2009",
+    "description": "Viagens ao fim do mundo, criaturas fantásticas e batalhas épicas entre o bem e o mal. Este livro apresenta as sete crônicas de Nárnia integralmente, num único volume. Os livros são apresentados de acordo com a ordem de preferência do autor, cada capítulo com uma ilustração do artista Pauline Baynes. 'As crônicas de Nárnia' apresenta aventuras, personagens e fatos que falam aos leitores de todas as idades.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857827069X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578270698"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 751,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=I2QvPwAACAAJ&dq=isbn:9788578270698&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=I2QvPwAACAAJ&dq=isbn:9788578270698&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_cr%C3%B4nicas_de_N%C3%A1rnia.html?hl=&id=I2QvPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I2QvPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ENganosamente simples e direta, &#39;As crônicas de Nárnia&#39; continuam cativando os leitores com aventuras, personagens e fatos que falam a pessoas de todas as idades."
+   }
+  }
+ ]
+}

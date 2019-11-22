@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ES55AAAACAAJ",
+   "etag": "B0uglOO3B6I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ES55AAAACAAJ",
+   "volumeInfo": {
+    "title": "Como fazer amigos e influenciar pessoas",
+    "authors": [
+     "Dale Carnegie"
+    ],
+    "publishedDate": "1996",
+    "description": "Esta obra está dividida em 4 partes - Técnicas fundamentais para tratar com as pessoas; Seis maneiras de fazer as pessoas gostarem de você; Como conquistar as pessoas a pensarem do seu modo; Seja um líder.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8504004864"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788504004861"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 321,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ES55AAAACAAJ&dq=isbn:9788504004861&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ES55AAAACAAJ&dq=isbn:9788504004861&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Como_fazer_amigos_e_influenciar_pessoas.html?hl=&id=ES55AAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ES55AAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra está dividida em 4 partes - Técnicas fundamentais para tratar com as pessoas; Seis maneiras de fazer as pessoas gostarem de você; Como conquistar as pessoas a pensarem do seu modo; Seja um líder."
+   }
+  }
+ ]
+}

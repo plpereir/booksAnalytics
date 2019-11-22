@@ -1,0 +1,615 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 7,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YO00yTrOEzMC",
+   "etag": "gFc9PAgxlJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YO00yTrOEzMC",
+   "volumeInfo": {
+    "title": "Um Gato de Rua chamado Bob",
+    "subtitle": "A história da amizade entre um homem e seu gato",
+    "authors": [
+     "James Bowen"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2013-05-21",
+    "description": "O Livro que deu origem ao filme que emocionou milhares de pessoas em todo o mundo Sucesso no exterior, \"Um gato de rua chamado Bob\" ficou 52 semanas consecutivas na lista dos mais vendidos na Inglaterra e já teve seus direitos de publicação vendidos para mais de 26 países e na semana de lançamento no Brasil, já subiu para a lista dos livros mais vendidos. Em 2012, a história de James Bowen e do gato Bob foi destaque na mídia nacional como exemplo de superação e amizade entre os dois. Conheça um pouco da história de \"Um Gato de rua chamado Bob\": É uma tarde de outono em Covent Garden, Londres. Trabalhadores correm para o almoço, turistas brotam de todos os lados e clientes entram e saem das lojas. No meio de tudo isso está um gato. Usando um vistoso lenço Union Jack em volta do pescoço e cercado por uma multidão de 30 espectadores de boca aberta, Bob, o gatinho cor de laranja, sorri — é, sorri — timidamente. Próximo a ele, está seu dono James Bowen, com seu violão surrado, cantando músicas do Oasis. Então, ele para de tocar e se abaixa para Bob: “Vamos, Bob, cumprimente!”, diz. Bob mexe os bigodes, levanta uma pata e a estende para James. A multidão assobia. Não é todo dia que se vê um gato sentado, calmamente, no centro de Londres, aparentemente sem se abalar com o barulho das sirenes, os carros passando e todo aquele movimento — mas Bob não é um gato comum...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581632919"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581632912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.26.25.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YO00yTrOEzMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YO00yTrOEzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YO00yTrOEzMC&printsec=frontcover&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YO00yTrOEzMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YO00yTrOEzMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YO00yTrOEzMC&rdid=book-YO00yTrOEzMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9400000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_Gato_de_Rua_chamado_Bob-sample-epub.acsm?id=YO00yTrOEzMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_Gato_de_Rua_chamado_Bob-sample-pdf.acsm?id=YO00yTrOEzMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YO00yTrOEzMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Livro que deu origem ao filme que emocionou milhares de pessoas em todo o mundo Sucesso no exterior, &quot;Um gato de rua chamado Bob&quot; ficou 52 semanas consecutivas na lista dos mais vendidos na Inglaterra e já teve seus direitos de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qQ85AwAAQBAJ",
+   "etag": "OvHo/s/ZFbg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qQ85AwAAQBAJ",
+   "volumeInfo": {
+    "title": "Bob, um gato fora do normal",
+    "authors": [
+     "James Bowen"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2014-04-11",
+    "description": "- Best-seller #1 do The London Times por mais de 30 semanas; - História foi destaque na televisão brasileira na época do lançamento do primeiro livro, Um gato de rua chamado Bob; - Direitos negociados para o cinema pelo mesmo agente de Marley & Eu; - O autor tem quase 50 mil seguidores no Twitter e 145 mil seguidores no Facebook \"Bob invadiu Londres como nenhum outro felino...\" - Evening Standard Recebemos uma segunda chance todos os dias, mas geralmente não a aproveitamos. Passei grande parte da minha existência provando que isso é verdade. Mas tudo mudou no começo da primavera de 2007, quando me tornei amigo de um gato, o Bob.” Bob, um Gato Fora do Normal conta em nova versão, com fotos coloridas, a história (verdadeira) de James Bowen e seu adorável gato cor de laranja, que conquistou o coração de todo mundo. O músico solitário, ex-viciado em drogas, ficou muito mais feliz depois que conheceu Bob, que antes também não estava tendo uma vida muito fácil... Os dois passaram por muitas aventuras juntos. A cada dificuldade que enfrentavam, mais forte ficava o carinho que os unia. Hoje James não consegue mais viver sem o seu amigo peludo. Bob o ensinou a ser paciente, a insistir no caminho certo, a se alimentar direito, a escolher melhor as suas companhias e a acreditar no amor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581634609"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581634605"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.21.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qQ85AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qQ85AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qQ85AwAAQBAJ&printsec=frontcover&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qQ85AwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qQ85AwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qQ85AwAAQBAJ&rdid=book-qQ85AwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.416E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Bob_um_gato_fora_do_normal-sample-epub.acsm?id=qQ85AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Bob_um_gato_fora_do_normal-sample-pdf.acsm?id=qQ85AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qQ85AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot; Bob, um Gato Fora do Normal conta em nova versão, com fotos coloridas, a história (verdadeira) de James Bowen e seu adorável gato cor de laranja, que conquistou o coração de todo mundo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "10K1AgAAQBAJ",
+   "etag": "BQmZk97TgXY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/10K1AgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Mundo pelos olhos de Bob",
+    "subtitle": "As aventuras de James e seu gato continuam",
+    "authors": [
+     "James Bowen"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2014-02-03",
+    "description": "A aguardada continuação do sucesso Um Gato de rua chamado Bob chega ao formato digital. Após o seu lançamento, O Mundo pelos olhos de Bob já está listado entre os livros mais vendidos no Brasil. SINOPSE Depois de um passado difícil, James foi adotado pelo gato Bob. Agora os dois têm um emprego de verdade (são vendedores ambulantes de revistas) e se tornaram personalidades conhecidas em toda Londres. Bob tem muitos admiradores, que passam todos os dias para vê-lo – alguns deles trazem cachecóis de lã para ajudá-lo a enfrentar os dias mais gelados. Entre truques adoráveis e manhãs de puro mau humor, Bob e James se tornam cada vez mais inseparáveis. Por trás da divertida história de um homem às voltas com seu animal de estimação, o segundo livro de James Bowen fala sobre amizade, ¬ delidade e esperança. Bob se torna a chave que traz James de volta ao mundo, a motivação que faltava para sua decisiva volta por cima. Impossível terminar de ler O mundo pelos olhos de Bob sem querer abraçar seu pet – ou adotar um! Apaixone-se... AUTOR JAMES BOWEN é o autor do best-seller Um Gato de Rua Chamado Bob. Ele e Bob se conheceram em 2007 e nunca mais se separaram. Os dois vivem no norte de Londres.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581634227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581634222"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.18.18.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=10K1AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=10K1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=10K1AgAAQBAJ&printsec=frontcover&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=10K1AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-10K1AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=10K1AgAAQBAJ&rdid=book-10K1AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9400000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_pelos_olhos_de_Bob-sample-epub.acsm?id=10K1AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_pelos_olhos_de_Bob-sample-pdf.acsm?id=10K1AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=10K1AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Impossível terminar de ler O mundo pelos olhos de Bob sem querer abraçar seu pet – ou adotar um! Apaixone-se... AUTOR JAMES BOWEN é o autor do best-seller Um Gato de Rua Chamado Bob."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aENnDwAAQBAJ",
+   "etag": "iJ1BV0d0hac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aENnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "FRASER E BILLY - Como o amor de um gato mudou para sempre a vida do meu filho autista",
+    "authors": [
+     "LOUISE BOOTH"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Fraser é um garoto autista com inúmeros problemas de relacionamento. Billy é um gato resgatado de uma casa abandonada. Quando se viram pela primeira vez, Billy ronronou, pousou as patinhas sobre o colo de Fraser, e desde então eles nunca mais se separaram. Foi a partir desse dia que ? de maneira lenta, mas genuína ? Billy transformou a vida de Fraser com gestos puros de afeto e amizade, abrindo portas para que sua doença e sua relação com o mundo melhorassem significativamente. Fraser e Billy é o poderoso relato de uma mãe que viu crescer o amor entre o seu filho e o gato que adotou. Best-seller no Reino Unido, este livro é um deleite para os amantes de animais e para quem deseja se encantar com uma história de amizade e superação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788557170032"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8557170033"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aENnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aENnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aENnDwAAQBAJ&pg=PT3&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aENnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aENnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aENnDwAAQBAJ&rdid=book-aENnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/FRASER_E_BILLY_Como_o_amor_de_um_gato_mu-sample-epub.acsm?id=aENnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aENnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Billy é um gato resgatado de uma casa abandonada. Quando se ... The Times “A \u003cbr\u003e\nforma como Billy, o gato, encoraja seu amigo Fraser é simplesmente incrível.” \u003cbr\u003e\nJames Bowen, autor de \u003cb\u003eUm gato de rua chamado Bob\u003c/b\u003e “Uma história comovente."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T86p4_8E1vcC",
+   "etag": "kLAlDNFEVrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T86p4_8E1vcC",
+   "volumeInfo": {
+    "title": "The Jet Black's",
+    "authors": [
+     "EDU REIS"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "Ao final dos anos cinquenta, dois amigos que estudavam na mesma escola tinham o mesmo interesse- O Rock'n'roll! Estudavam no Quarry Bank Scholl, John Winston Lennon e James Paul McCartney formaram aquele que seria o grupo mais importante do mundo- The Beatles. Ao final dos anos cinquenta, dois amigos que estudavam na mesma escola tinham o mesmo interesse- O Rock'n'roll! Estudavam na Escola Técnica de Comércio São Salvador (atualmente Faculdade Santana), José Paulo Matrangulo e Jurandi Trintade Abreu da Silva formaram aquele que seria o grupo mais importante do Brasil- The Jet Black?s.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781936108473"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "193610847X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 460,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=T86p4_8E1vcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=T86p4_8E1vcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=T86p4_8E1vcC&pg=PA21&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=T86p4_8E1vcC&dq=Um+gato+de+rua+chamado+Bob&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Jet_Black_s.html?hl=&id=T86p4_8E1vcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T86p4_8E1vcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta época, nas horas vagas (que eram muitas), eu tocava guitarra base em \u003cbr\u003e\num grupo \u003cb\u003echamado\u003c/b\u003e “Os Incógnitos”. ... Eu morava na Oscar Freire e estávamos \u003cbr\u003e\nna esquina com \u003cb\u003eRua\u003c/b\u003e Augusta e o Carlão propõe festejar meu aniversário na \u003cbr\u003e\nboate Saloon. ... Lá estava um dos grupos mais comentados e badalados da \u003cbr\u003e\népoca: The Jet Black&#39;s (Jurandi, Zé Paulo e \u003cb\u003eBob\u003c/b\u003e (Alemão)). ... \u003cb\u003eGato\u003c/b\u003e estava saindo \u003cbr\u003e\ndos The Jet Black&#39;s e isto me impedia de estar mais próximo deste grande \u003cbr\u003e\nguitarrista."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l5xEBAAAQBAJ",
+   "etag": "wmFmlWQOIvI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l5xEBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Makeup To Breakup",
+    "authors": [
+     "Peter Criss"
+    ],
+    "publisher": "Larousse Lafonte",
+    "publishedDate": "2013-04-10",
+    "description": "Criado em 1973, o KISS abriu novos caminhos no mundo do rock com sua maquiagem elaborada, sua postura teatral, o uso de pirotecnia high-tech e com o som pesado, tornando-se um dos maiores grupos da história da música. O lendário baterista do KISS, Peter Criss, era o coração pulsante da banda. De sua posição elevada sobre o palco, tinha um posto de observação privilegiado de um dos maiores shows de rock de todos os tempos. Com autoconhecimento e maturidade, ele abre seu coração sem nenhum constrangimento, permitindo que mesmo fãs ocasionais do KISS – ou pessoas curiosas em saber mais acerca desse artista – acompanhem com grande interesse os altos e baixos de sua vida e carreira. Com uma cronologia perfeita, Makeup to Breakup instiga e diverte. É o relato definitivo de um dos personagens mais importantes da história do rock.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581861371"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581861377"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 381,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=l5xEBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=l5xEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=l5xEBAAAQBAJ&pg=PT52&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=l5xEBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-l5xEBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=l5xEBAAAQBAJ&rdid=book-l5xEBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Makeup_To_Breakup-sample-epub.acsm?id=l5xEBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Makeup_To_Breakup-sample-pdf.acsm?id=l5xEBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=l5xEBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... Leste, mas uma de nossas bases era um clube \u003cb\u003echamado\u003c/b\u003e Headliner situado na \u003cbr\u003e\nesquina da \u003cb\u003erua\u003c/b\u003e 42 com a Terceira Avenida. ... Mas o que nos cativou de imediato \u003cbr\u003e\nfoi que ele disse que era amigo íntimo de \u003cb\u003eBob\u003c/b\u003e Seger, cujo grupo, o \u003cb\u003eBob\u003c/b\u003e Seger \u003cbr\u003e\nSystem, tinha ... Era o pulo do \u003cb\u003egato\u003c/b\u003e de que tão desesperadamente precisávamos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wYkAn8jvvm0C",
+   "etag": "iVjZqn6iazk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wYkAn8jvvm0C",
+   "volumeInfo": {
+    "title": "Placar Magazine",
+    "publishedDate": "1972-05-05",
+    "description": "PLACAR: a maior revista brasileira de futebol. Notícias, perfis, entrevistas, fotos exclusivas.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 44,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wYkAn8jvvm0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wYkAn8jvvm0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wYkAn8jvvm0C&pg=PA22&dq=Um+gato+de+rua+chamado+Bob&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wYkAn8jvvm0C&dq=Um+gato+de+rua+chamado+Bob&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Placar_Magazine.html?hl=&id=wYkAn8jvvm0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wYkAn8jvvm0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pela primeira vez Eusébio não é convocado para sua Seleção J NOME | \u003cb\u003eRUA\u003c/b\u003e | \u003cbr\u003e\nCIDADE EST. ... Sou muito amigo de José Augusto há já muitos anos e \u003cbr\u003e\ncompreendo que não me tenha \u003cb\u003echamado\u003c/b\u003e. Ele tem seu ... Mas, aos 39&#39;, \u003cb\u003eBob\u003c/b\u003e \u003cbr\u003e\nMoore cometeu pênalti que Netzer cobrou e marcou. ... Leão inglês saiu de \u003cbr\u003e\ncampo com o rabo entre as pernas, como qualquer \u003cb\u003egato\u003c/b\u003e vadio, para tristeza de \u003cbr\u003e\nSir Alf Ramsey."
+   }
+  }
+ ]
+}

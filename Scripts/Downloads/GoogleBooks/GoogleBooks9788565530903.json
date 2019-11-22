@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "otFJvgAACAAJ",
+   "etag": "yRcGyUkiD1U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/otFJvgAACAAJ",
+   "volumeInfo": {
+    "title": "ARDENTE - EM CHAMAS",
+    "authors": [
+     "SYLVIA DAY"
+    ],
+    "description": "'Nunca misture trabalho com prazer. Nunca fale de política dentro do quarto. De certa forma, no momento em que me tornei amante de Jackson Rutledge, fiz exatamente essas duas coisas. E não posso dizer que foi por falta de aviso. Dois anos depois, ele voltou. Mas eu não era mais a garotinha que ele havia conhecido, enquanto ele não mudara nada. Ao contrário da última vez em que nos esbarramos, eu sabia exatamente com quem estava lidando - e quão viciante seu toque poderia ser. Só que desta vez eu conhecia as regras do jogo. No ambiente competitivo e impiedoso do mundo dos negócios, há uma regra que vale para todo mundo - mantenha seus inimigos por perto, e seus ex-amantes mais perto ainda.'",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8565530906"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565530903"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=otFJvgAACAAJ&dq=isbn:9788565530903&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=otFJvgAACAAJ&dq=isbn:9788565530903&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ARDENTE_EM_CHAMAS.html?hl=&id=otFJvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=otFJvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Nunca misture trabalho com prazer."
+   }
+  }
+ ]
+}

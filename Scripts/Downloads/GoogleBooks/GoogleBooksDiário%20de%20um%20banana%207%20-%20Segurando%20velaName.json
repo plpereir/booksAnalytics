@@ -1,0 +1,405 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 4,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VLkqAgAAQBAJ",
+   "etag": "fHtr3E3eVQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VLkqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 7",
+    "subtitle": "Segurando vela",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "O Dia dos Namorados está chegando e Greg Heffley continua sozinho. Mas um baile organizado pela escola pode mudar tudo. Ele precisa encontrar uma garota urgentemente. Para isso, conta com a ajuda de outro \"solteirão\", Rowley, seu melhor amigo. A ideia de Greg é usar Rowley como isca para atrair as meninas, uma espécie de coadjuvante de luxo que auxilia o ator principal a brilhar. Será que esse plano vai dar certo? Ou será que a flecha do cupido vai tomar um rumo inesperado?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576836162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576836165"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VLkqAgAAQBAJ&printsec=frontcover&dq=Di%C3%A1rio+de+um+banana+7+-+Segurando+vela&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VLkqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.63,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&rdid=book-VLkqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.663E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-epub.acsm?id=VLkqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-pdf.acsm?id=VLkqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VLkqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Dia dos Namorados está chegando e Greg Heffley continua sozinho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IZn0AQAAQBAJ",
+   "etag": "r0Uo4uYmzSM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IZn0AQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no ensino fundamental, onde fracotes subdesenvolvidos dividem os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, Greg nos conta as desventuras de sua vida escolar. Em busca de um pouco de popularidade (e também de um pouco de proteção), o garoto se envolve em uma série de situações que procura resolver de uma maneira muito particular. No primeiro livro da coleção, o autor e ilustrador Jeff Kinney nos apresenta um herói improvável e encantador. Um garoto comum às voltas com os desafios da puberdade",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835189"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835185"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IZn0AQAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+7+-+Segurando+vela&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IZn0AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&rdid=book-IZn0AQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=IZn0AQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=IZn0AQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IZn0AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CONHEÇA A SÉRIE 1 \u003cb\u003eDiário de um Banana 7 Segurando vela\u003c/b\u003e 2 Rodrick é o \u003cbr\u003e\ncara 8 Maré de azar 3 A gota d&#39;água 9 Caindo na estrada 4 Dias de cão 10 Bons \u003cbr\u003e\ntempos 5 A verdade nua e crua 11 Vai ou racha 6 Casa dos horrores 12 Apertem\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TClpDwAAQBAJ",
+   "etag": "3NR0twIO1iw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TClpDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 13",
+    "subtitle": "Batalha neval",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2018-11-21",
+    "description": "Quando a neve fecha a escola, o bairro se transforma num verdadeiro campo de batalha invernal. Grupos rivais lutam por território, constroem enormes fortes de gelo e se envolvem em épicas guerras de bola de neve. Na linha de tiro estão Greg Heffley e seu fiel amigo Rowley Jefferson. Em luta pela sobrevivência, os dois soldados fazem e desfazem alianças e enredam-se em traições. Gangues em permanente estado de hostilidade vão derreter a vizinhança. E será que, quando a neve se liquefazer, Greg e Rowley surgirão como heróis? Ou não vão conseguir escapar dessa gelada?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550702483"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "855070248X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TClpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TClpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TClpDwAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+7+-+Segurando+vela&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TClpDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TClpDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TClpDwAAQBAJ&rdid=book-TClpDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.511E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_13-sample-epub.acsm?id=TClpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_13-sample-pdf.acsm?id=TClpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TClpDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CONHEÇA A SÉRIE 1 \u003cb\u003eDiário de um Banana 7 Segurando vela\u003c/b\u003e 2 Rodrick é o \u003cbr\u003e\ncara 8 Maré de azar 3 A gota d&#39;água 9 Caindo na estrada 4 Dias de cão 10 Bons \u003cbr\u003e\ntempos 5 A verdade nua e crua 11 Vai ou racha 6 Casa dos horrores 12 Apertem\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JkQ4DwAAQBAJ",
+   "etag": "x0XFA+AvC/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JkQ4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Apertem os cintos",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2017-11-11",
+    "description": "Os Heffley estão dando o fora! Greg e sua família decidem fugir do frio e do estresse das festas de fim de ano e embarcam no primeiro avião com destino a uma ilha tropical. Afinal, uns dias num resort paradisíaco é tudo o que eles precisam. Mas e se o paraíso não for tudo isso? Dores de barriga, insolação e criaturas venenosas podem fazer das tão sonhadas férias um pesadelo. Quanto a isso, não se preocupem: em caso de trapalhadas, máscaras de gás hilariante cairão automaticamente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550701455"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550701459"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JkQ4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JkQ4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JkQ4DwAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+7+-+Segurando+vela&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JkQ4DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JkQ4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JkQ4DwAAQBAJ&rdid=book-JkQ4DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=JkQ4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=JkQ4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JkQ4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1 2 CONHEÇA A SÉRIE \u003cb\u003eDiário de um Banana 7 Segurando vela\u003c/b\u003e Rodrick éocara \u003cbr\u003e\n8 Maré de azar 3 A gota d&#39;água 9 Caindo na estrada 4 Dias decão 10 Bons \u003cbr\u003e\ntempos 5 A verdade nuae crua 11 Vai ou racha 6 Casa dos horrores 12 Apertem\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

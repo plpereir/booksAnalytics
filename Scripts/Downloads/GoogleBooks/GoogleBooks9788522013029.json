@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZydBywAACAAJ",
+   "etag": "hDWYvuBoUvM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZydBywAACAAJ",
+   "volumeInfo": {
+    "title": "GUINNESS WORLD RECORDS 2012",
+    "subtitle": "TRANSBORDANDO DE RECORDES NOVOS E SENSACIONAIS",
+    "authors": [
+     "GUINNESS PUBLISHING"
+    ],
+    "description": "Esta edição do 'Guinness World Records' conta com mais 4 mil recordes mundiais, entre novos e clássicos. A obra contém mais de 900 fotos distribuídas entre 100 temas e tópicos diferentes. Sumário - Introdução; Universo; Planeta Terra; Mundo Animal; Através dos Tempos; Corpo Humano; Habilidades e Talentos; Espírito Aventureiro; Sociedade; Engenharia e Tecnologia; Cultura Pop; Esportes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522013020"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522013029"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZydBywAACAAJ&dq=isbn:9788522013029&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZydBywAACAAJ&dq=isbn:9788522013029&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/GUINNESS_WORLD_RECORDS_2012.html?hl=&id=ZydBywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZydBywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta edição do &#39;Guinness World Records&#39; conta com mais 4 mil recordes mundiais, entre novos e clássicos."
+   }
+  }
+ ]
+}

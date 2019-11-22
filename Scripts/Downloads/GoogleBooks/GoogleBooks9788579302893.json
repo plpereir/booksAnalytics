@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7Ei_rWwaqtAC",
+   "etag": "2BrldhVD4AI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7Ei_rWwaqtAC",
+   "volumeInfo": {
+    "title": "Nunca fui santo",
+    "subtitle": "O livro oficial do Marcos",
+    "authors": [
+     "Marcos Reis",
+     "Mauro Beting"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2012",
+    "description": "'Nunca fui santo' traz o relato do goleiro Marcos, buscando mostrar todo o seu amor pelo Palmeiras e por uma vida de dedicação ao esporte. Marcos se propõe a fazer confissões e contar detalhes de sua trajetória profissional. O goleiro do Verdão pretende homenagear seus próprios ídolos e mentores nesta obra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579302893"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579302897"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7Ei_rWwaqtAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7Ei_rWwaqtAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7Ei_rWwaqtAC&printsec=frontcover&dq=isbn:9788579302893&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7Ei_rWwaqtAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7Ei_rWwaqtAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7Ei_rWwaqtAC&rdid=book-7Ei_rWwaqtAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nunca_fui_santo-sample-pdf.acsm?id=7Ei_rWwaqtAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7Ei_rWwaqtAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Nunca fui santo&#39; traz o relato do goleiro Marcos, buscando mostrar todo o seu amor pelo Palmeiras e por uma vida de dedicação ao esporte. Marcos se propõe a fazer confissões e contar detalhes de sua trajetória profissional."
+   }
+  }
+ ]
+}

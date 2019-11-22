@@ -1,0 +1,782 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 220,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LeYoDYORuNoC",
+   "etag": "GZHhOshfUa0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LeYoDYORuNoC",
+   "volumeInfo": {
+    "title": "Meu jeito de dizer que te amo",
+    "authors": [
+     "ANDERSON CAVALCANTE"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "description": "Em 'Meu jeito de dizer que te amo', o leitor pode encontrar várias maneiras de declarar o amor - com humor, ternura, paixão, simplicidade e gratidão.O autor busca difundir a importância do amor e definir a profusão de sentimentos que abarcam a paixão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573126957"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573126952"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LeYoDYORuNoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LeYoDYORuNoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LeYoDYORuNoC&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LeYoDYORuNoC&dq=Meu+jeito+de+dizer+que+te+amo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Meu_jeito_de_dizer_que_te_amo.html?hl=&id=LeYoDYORuNoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LeYoDYORuNoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Meu jeito de dizer que te amo&#39;, o leitor pode encontrar várias maneiras de declarar o amor - com humor, ternura, paixão, simplicidade e gratidão.O autor busca difundir a importância do amor e definir a profusão de sentimentos que ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iQJyDwAAQBAJ",
+   "etag": "UQ27symrZFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iQJyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "PÁssaro Condor",
+    "authors": [
+     "Antonio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um apanhado das primeiras poesias do autor, escritas nos anos 2.000, intituladas Cartas Poéticas",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU26863"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 122,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iQJyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iQJyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iQJyDwAAQBAJ&pg=PA84&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=iQJyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-iQJyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.58,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.58,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=iQJyDwAAQBAJ&rdid=book-iQJyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.458E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.458E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/P%C3%81ssaro_Condor-sample-pdf.acsm?id=iQJyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iQJyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Do \u003cb\u003emeu jeito\u003c/b\u003e, Acabei por mal viver... Vou \u003cb\u003edizer\u003c/b\u003e:Sofrer... Do \u003cb\u003emeu jeito\u003c/b\u003e – O \u003cb\u003emeu\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ejeito\u003c/b\u003e de ser. Se quiser mesmo saber... Vou \u003cb\u003edizer\u003c/b\u003e: Eu \u003cb\u003ete amo\u003c/b\u003e... Te percebo, \u003cbr\u003e\nenlouqueço... Do \u003cb\u003emeu jeito\u003c/b\u003e, Com seu jeito de ser. Amanhã, quando a tarde cair \u003cbr\u003e\nvou estar&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jnIxcPoNVEkC",
+   "etag": "h5pN3yfOYus",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jnIxcPoNVEkC",
+   "volumeInfo": {
+    "title": "Eu Te Amo! E Ai?",
+    "authors": [
+     "DAVID VISCOTT"
+    ],
+    "publisher": "Grupo Editorial Summus",
+    "description": "Baseado em sua própria experiência e em anos de atendimento clínico, o autor aborda os vários obstáculos que podem destruir um relacionamento amoroso - relutância em assumir compromisso, inabilidade em se comunicar, dúvida, dependência, jogos de poder e chantagem emocional. O livro traz conselhos práticos para a superação de tais problemas, bem como para tirar o maior proveito possível do tempo que se passa junto - falar, ouvir, lidar com dinheiro, abordar a infidelidade, perdoar e, até mesmo, se for o caso separar-se.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853230544X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532305442"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jnIxcPoNVEkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jnIxcPoNVEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jnIxcPoNVEkC&pg=PA41&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jnIxcPoNVEkC&dq=Meu+jeito+de+dizer+que+te+amo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Eu_Te_Amo_E_Ai.html?hl=&id=jnIxcPoNVEkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jnIxcPoNVEkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se eu puder ser livre para realizar meu trabalho e amá-la do \u003cb\u003emeu jeito\u003c/b\u003e — \u003cbr\u003e\nalgumas vezes mais, algumas vezes menos — sem que você se torne frenética, \u003cbr\u003e\ncreio que poderei assumir o compromisso de voltarmos a viver juntos. \u003cbr\u003e\nReconheço que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZUt-qZjjdWIC",
+   "etag": "/67u48d84m4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUt-qZjjdWIC",
+   "volumeInfo": {
+    "title": "Um jeito de dizer te amo",
+    "publisher": "Livros Ilimitados",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZUt-qZjjdWIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZUt-qZjjdWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZUt-qZjjdWIC&pg=PA21&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZUt-qZjjdWIC&dq=Meu+jeito+de+dizer+que+te+amo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_jeito_de_dizer_te_amo.html?hl=&id=ZUt-qZjjdWIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZUt-qZjjdWIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Braçada de Flores Olhai além do \u003cb\u003emeu\u003c/b\u003e rosto, Apalpai minha angústia, Presente \u003cbr\u003e\nem cada gesto, Seja generoso, Aquece \u003cb\u003emeu\u003c/b\u003e coração. Corra pelos campos do \u003cbr\u003e\nmundo, Traga braçadas de rosas, Amarelas, vermelhas, azuis, Com gesto&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ecJ5DwAAQBAJ",
+   "etag": "uv3kP0CWW1k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ecJ5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um Anjo Com Asas De Ferro",
+    "authors": [
+     "Ivan De Lima"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Aos 6 anos de idade Leandro foi abusado sexualmente e frente ao corpo sem vida de sua mãe. Rejeitado pelo pai, foi acolhido em um abrigo e “amadrinhado” por uma funcionária de lá, cujo filho, com 10 anos de idade na época, já sabia das coisas das ruas, achou o garoto bonitinho e começou a se relacionar sexualmente com ele. Já adulto, Leandro formou-se veterinário e tornou-se coordenador na instituição que o acolheu e que abrigava crianças e adolescentes em situação de rua. Leandro se mostrava amante e protetor dos animais e das crianças, até que mortes em condições estranhas começaram a acontecer. As investigações dessas mortes foram comandadas pela inspetora Fernanda Stanzioni, assistida por Augusto e Rafael, que formaram um trio muito competente e insistente para a tarefa. Rafael, recém admitido no DHPP (Departamento de Homicídios e Proteção à Pessoa), envolveu-se com o veterinário, sem suspeitar que por trás daquele meigo, atencioso e carinhoso educador se escondia um psicopata assassino, impiedoso e cruel, cuja face foi revelada a partir de um descuido, quando sua sexta vítima foi encontrada em uma praia em Ilhabela.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU33345"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 194,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ecJ5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ecJ5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ecJ5DwAAQBAJ&pg=PA136&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ecJ5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ecJ5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ecJ5DwAAQBAJ&rdid=book-ecJ5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_Anjo_Com_Asas_De_Ferro-sample-pdf.acsm?id=ecJ5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ecJ5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas esse \u003cb\u003emeu jeito\u003c/b\u003e intenso, impulsivo, errado, torto, é \u003cb\u003emeu jeito de dizer\u003c/b\u003e que eu \u003cbr\u003e\n\u003cb\u003ete amo\u003c/b\u003e. Esses sorrisos, essas lágrimas, essas madrugadas acordado, esses \u003cbr\u003e\nrisos vendo um filme, esse olhar distante ouvindo música, tudo isso são gestos \u003cbr\u003e\nque&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F9LZ7ZLWQ18C",
+   "etag": "i9Zl4Nqlqww",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F9LZ7ZLWQ18C",
+   "volumeInfo": {
+    "title": "Memórias de um Porteiro",
+    "authors": [
+     "DENIVAL MATIAS CONCEIÇÃO"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "Este romance é baseado em histórias reais, sob o olhar de um porteiro que, de segunda a sábado, observava a vida em frente a um portão de escola. Vivendo entre as mais belas flores, ele via crianças tornarem-se adolescentes, retrata as situações vividas pelos adolescentes dessa escola, e dos que passavam em frente a ela. O escritor se depara com os soluços da humanidade à procura de um amor libertador, onde a felicidade não seja passageira, e a poesia seja o alimento dos corações apaixonados. Ele percorre os caminhos dos jovens e dos pais destes. O escritor nos leva a uma reflexão sobre a educação familiar, a vida amorosa dos adolescentes, em uma trama de histórias e poesias na modificação de uma realidade vivida por muitas garotas, do século XXI. Você irá mergulhar em uma história quase impossível de acontecer, na qual o autor nos remete a uma análise crítica do ambiente familiar e de sua importância na formação do caráter dos adolescentes. Ele perdeu sua mãe aos três anos, seu pai o abandonou com cinco, mas ele sobreviveu a tudo isso, e vive uma linda história de amor em pleno século XXI. O autor nos faz ir em busca de paradigmas compatíveis a um humanismo puro e reflexivo sobre a condição humana, além dos valores inerentes a isto para se es elecer uma harmonia que venha a produzir uma consciência mais humana, em meio a esta massa capitalista, onde o amor é só uma história contada nos filmes e nas novelas na TV.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578936860"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578936868"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 92,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F9LZ7ZLWQ18C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F9LZ7ZLWQ18C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F9LZ7ZLWQ18C&pg=PA52&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=F9LZ7ZLWQ18C&dq=Meu+jeito+de+dizer+que+te+amo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mem%C3%B3rias_de_um_Porteiro.html?hl=&id=F9LZ7ZLWQ18C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F9LZ7ZLWQ18C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu sempre te amarei e agora é pra valer sei que you me perdoou por tudo, \u003cbr\u003e\nmesmo sem eu merecer, mais vou provar que mereço seu amor e até mesmo o \u003cbr\u003e\nseu perdão, mudei e com os dias, o \u003cb\u003emeu jeito\u003c/b\u003e, você perceberá. ... a beleza do teu \u003cbr\u003e\nserMeu amor, sempre que quiser ouvir alguém \u003cb\u003edizer\u003c/b\u003e “eu \u003cb\u003ete amo\u003c/b\u003e” lembre-se de \u003cbr\u003e\nmim que \u003cb\u003ete amo\u003c/b\u003e e sempre te amarei e mesmo na distância estaremos sempre \u003cbr\u003e\njuntos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "njPNW-QKIxQC",
+   "etag": "EbWhNPj2HzI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/njPNW-QKIxQC",
+   "volumeInfo": {
+    "title": "Pai, Te Amo!",
+    "publisher": "Editora Sinodal",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8523309071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788523309077"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=njPNW-QKIxQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=njPNW-QKIxQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=njPNW-QKIxQC&pg=PP12&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=njPNW-QKIxQC&dq=Meu+jeito+de+dizer+que+te+amo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pai_Te_Amo.html?hl=&id=njPNW-QKIxQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=njPNW-QKIxQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Meu. pai. do. cotação. Eu não sou fruto de sua semente, mas você abriu seu \u003cbr\u003e\ncoração e me recebeu em sua vida. ... Não procura em mim seu jeito de andar, a \u003cbr\u003e\ncor de seus olhos, mas me vê como sou - com \u003cb\u003emeu jeito\u003c/b\u003e único de pessoa única."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H9lBCwAAQBAJ",
+   "etag": "PrRNAJHB34E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H9lBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jane Eyre",
+    "subtitle": "Edição bilíngue português - inglês",
+    "authors": [
+     "Charlotte Brontë"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "O livro conta a história da menina Jane, órfã de pai e mãe, vivendo infeliz em companhia de parentes que a detestam. Após uma série de confrontos, Jane é enviada para um colégio interno, onde conhece seus primeiros momentos de verdadeira felicidade. Crescida e formada como professora, ela decide procurar uma nova posição, e no Solar de Thornfield, passa a ser a tutora da jovem Adèle, pupila de Lord Rochester. Quando conhece Rochester, apaixona-se por ele, e ele por ela. Este lhe propõe casamento e ela aceita, mas no dia de seu casamento, Jane descobre um terrível mistério que assola o Solar de Thornfield. Desiludida, foge e após dias vagando sem destino é recolhida por St John Rivers e suas irmãs. É pedida em casamento por Rivers, entretanto hesita e, antes de dar uma resposta, decide descobrir o que acopnteceu com Lord Rochester, pois não teve mais notícias dele desde que fugiu de sua casa. Encontra-o ferido e sozinho no Solar de Thornfield, destruído, morando em companhia de empregados ainda fieis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781818"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781816"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 632,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H9lBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H9lBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H9lBCwAAQBAJ&printsec=frontcover&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H9lBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H9lBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H9lBCwAAQBAJ&rdid=book-H9lBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jane_Eyre-sample-epub.acsm?id=H9lBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jane_Eyre-sample-pdf.acsm?id=H9lBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H9lBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro conta a história da menina Jane, órfã de pai e mãe, vivendo infeliz em companhia de parentes que a detestam."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DLJFBQAAQBAJ",
+   "etag": "8eM5oXWAzVE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DLJFBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Poemas De Seleriem",
+    "authors": [
+     "Mauro Meireles"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-03-05",
+    "description": "Este livro contém diversos poemas e poesias que escrevi sobre situações que me fizeram sentir diferentes sentimentos, desde indignação, medo, amor, paixão, gratidão, etc. Tudo pode virar um poema que poderá arrancar diferentes emoções de quem os lê. Boa leitura.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90142093"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DLJFBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DLJFBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DLJFBQAAQBAJ&pg=PA9&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DLJFBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DLJFBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DLJFBQAAQBAJ&rdid=book-DLJFBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Poemas_De_Seleriem-sample-pdf.acsm?id=DLJFBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DLJFBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E por nunca lhe ter feito um carinho como aqueles que você sempre me fez. \u003cbr\u003e\nTalvez eu nunca tenha lhe dito que eu \u003cb\u003ete amo\u003c/b\u003e. Mas saiba que eu \u003cb\u003ete amo\u003c/b\u003e, minha \u003cbr\u003e\nmãe. Do \u003cb\u003emeu jeito\u003c/b\u003e, mas eu \u003cb\u003ete amo\u003c/b\u003e. SONHOS É madrugada e eu não consigo \u003cbr\u003e\ndormir."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qCd3DwAAQBAJ",
+   "etag": "8cOgqWUjImM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qCd3DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Oração de São Francisco",
+    "authors": [
+     "Anderson Cavalcante",
+     "Gabriel Perissé"
+    ],
+    "publisher": "Buzz Editora LTDA",
+    "publishedDate": "2018-11-08",
+    "description": "A Oração de São Francisco é um programa de ação a favor da paz. Expressa um desejo pessoal e coletivo de concórdia, compreensão mútua e diálogo. Nos versos desta oração, lembrada por pessoas de todas as religiões e por todos aqueles que acreditam na possibilidade de um mundo melhor, há ensinamentos transformadores. Os autores Anderson Cavalcante e Gabriel Perissé trazem e aplicam estes ensinamentos ao cotidiano das famílias e dos ambientes de trabalho, e a diversos outros espaços de convivência, pois têm consciência de que a verdadeira felicidade é possível, mas exige a coragem de encarar a realidade e os conflitos que nela existem. Para vencermos o egoísmo, a dúvida, o desespero, a angústia, o exemplo de Francisco de Assis é um remédio de grande atualidade e eficácia. Francisco estava sempre aberto a ver a natureza das coisas, e enfrentava sem medo os problemas e as dores do seu tempo, que não diferem muito dos nossos problemas. Para realizar uma revolução de amor, baseava-se na convicção profunda de que o poder do mal jamais supera a força e a inspiração divinas. Experimentamos hoje, no mundo inteiro, um clima de receios e insegurança. A Oração de São Francisco, em sua simplicidade e clareza, renova nossa capacidade de instaurar em nós mesmos a paz interior, disseminando-a ao nosso redor. Onde houver tristeza, levemos a alegria. Onde houver ofensa, levemos o perdão. Onde houver trevas, levemos a luz, a esperança e a fé.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788593156793"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8593156797"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qCd3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qCd3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qCd3DwAAQBAJ&printsec=frontcover&dq=Meu+jeito+de+dizer+que+te+amo&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qCd3DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qCd3DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qCd3DwAAQBAJ&rdid=book-qCd3DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.44E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.44E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Ora%C3%A7%C3%A3o_de_S%C3%A3o_Francisco-sample-epub.acsm?id=qCd3DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Ora%C3%A7%C3%A3o_de_S%C3%A3o_Francisco-sample-pdf.acsm?id=qCd3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qCd3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Oração de São Francisco é um programa de ação a favor da paz."
+   }
+  }
+ ]
+}

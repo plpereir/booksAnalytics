@@ -1,0 +1,805 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 474,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UA5QDwAAQBAJ",
+   "etag": "53ND0X2+lMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UA5QDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A hora extraordinária",
+    "subtitle": "Como realizar seu primeiro sonho em 30 dias, dedicando-se 1 hora por dia",
+    "authors": [
+     "Lilian Bertin"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2018-04-01",
+    "description": "Todos nós temos sonhos: queremos uma vida melhor, trabalhar com aquilo que amamos, tornarmo-nos os gestores do nosso tempo, viver experiências transformadoras. No entanto, entre os sonhos e a realização há um abismo, uma zona de paralisação que parece prender muitos de nós. Realizar seus sonhos significa ser seletivo, escolher aquilo que será seu foco por determinado período e tudo o que não será prioridade na sua agenda enquanto não concretizar os projetos com os quais se comprometeu. É preciso combinar criatividade para resolver os problemas com um olhar humano, valorizar o que torna cada um de nós único e sair do planejamento para a ação. Lilian Bertin, empresária e grande realizadora, compartilha com seus leitores como mudar de postura em relação aos seus sonhos e, a partir do método que ela desenvolveu, colocar-se na trilha da realização. Você vai aprender como: •Quebrar os medos que estão impedindo seus projetos de avançar; •Combater os ladrões de sonhos; •Sair da idealização e colocar suas metas em ação; •Entender as fases de acompanhamento e avaliação das suas realizações; •Tornar-se um realizador extraordinário com o plano de ação para concretizar seu primeiro sonho em 30 dias dedicando-se 1 hora por dia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202349"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202342"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UA5QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UA5QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UA5QDwAAQBAJ&printsec=frontcover&dq=A+hora+extraordin%C3%A1ria&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UA5QDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UA5QDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.93,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UA5QDwAAQBAJ&rdid=book-UA5QDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.093E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.349E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_hora_extraordin%C3%A1ria-sample-epub.acsm?id=UA5QDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_hora_extraordin%C3%A1ria-sample-pdf.acsm?id=UA5QDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UA5QDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lilian Bertin, empresária e grande realizadora, compartilha com seus leitores como mudar de postura em relação aos seus sonhos e, a partir do método que ela desenvolveu, colocar-se na trilha da realização."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qOOggQZJSOUC",
+   "etag": "brnx9n3EFyE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qOOggQZJSOUC",
+   "volumeInfo": {
+    "title": "Legislação Trabalhista, Previdenciária E Contratos",
+    "authors": [
+     "CLAUDIA SALLES VILELA VIANNA"
+    ],
+    "publisher": "IESDE BRASIL SA",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576388227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576388227"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qOOggQZJSOUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qOOggQZJSOUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qOOggQZJSOUC&pg=PA74&dq=A+hora+extraordin%C3%A1ria&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qOOggQZJSOUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qOOggQZJSOUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qOOggQZJSOUC&rdid=book-qOOggQZJSOUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Legisla%C3%A7%C3%A3o_Trabalhista_Previdenci%C3%A1ria-sample-pdf.acsm?id=qOOggQZJSOUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qOOggQZJSOUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Considera-se noturno, para os trabalhadores urbanos, o trabalho realizado entre \u003cbr\u003e\nas 22 horas de um dia e as 5 horas do ... Sendo \u003cb\u003ea hora extraordinária\u003c/b\u003e realizada \u003cbr\u003e\nno período noturno, compreendido entre 22 horas de um dia e 5 horas do dia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dJU4DwAAQBAJ",
+   "etag": "5HW+KvblBnk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dJU4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Responsabilidade Patrimonial No Processo Do Trabalho",
+    "authors": [
+     "Homero Silva"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2013-07-29",
+    "description": "Homero Batista Mateus da Silva examina as mais importantes formas de responsabilidade em matéria trabalhista, como a responsabilidade dos sócios – feita a necessária distinção entre a sociedade por quotas e a sociedade por ações –, a que envolve grupo econômico, bem como a responsabilidade na sucessão e na terceirização, além de outras formas de responsabilidade, como, por exemplo, a presente no contrato de trabalho doméstico. Desce a detalhes ao tratar de cada uma delas, como se vê, por exemplo, com o exame, no caso do doméstico, da responsabilidade do cônjuge que não assinou a carteira de trabalho e, ao tempo da execução, não mais habita a residência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535222715"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535222715"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dJU4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dJU4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dJU4DwAAQBAJ&pg=PT65&dq=A+hora+extraordin%C3%A1ria&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dJU4DwAAQBAJ&dq=A+hora+extraordin%C3%A1ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Responsabilidade_Patrimonial_No_Processo.html?hl=&id=dJU4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Responsabilidade_Patrimonial_No_Processo-sample-epub.acsm?id=dJU4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dJU4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Enfrentemos a matemática. O aumento do adicional de remuneração \u003cb\u003eda hora\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eextraordinária\u003c/b\u003e, dos 20% previstos pela Consolidação das Leis do Trabalho – 25\u003cbr\u003e\n% em caso \u003cb\u003ede hora extraordinária\u003c/b\u003e não previamente pactuada – para os 50%&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PEBnDwAAQBAJ",
+   "etag": "fLwF7wC7fJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PEBnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "CURSO DE DIREITO DO TRABALHO",
+    "authors": [
+     "LUCIANO DOREA MARTINEZ CARREIRO"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Completo e didático, este Curso alcança os mais diversos públicos. Aos graduandos, por oferecer um material completo e didático; aos profissionais da área, por abordar aspectos práticos e atuais aplicáveis no cotidiano; e aos concurseiros, por explorar, de modo pontual e dinâmico, temas corriqueiros cobrados nos mais concorridos concursos públicos do País. O Autor Luciano Martinez preocupou-se em apresentar ao leitor um conteúdo ampliado e atualizado da matéria, considerando as novidades legislativas e jurisprudenciais, bem como as tendências recentes seguidas pelos tribunais do trabalho de todo o País. Sobre o conteúdo, o material está dividido em direito individual e coletivo do trabalho. A primeira parte refere-se à análise das questões trabalhistas entre empregado e empregador; e a segunda, entre sindicatos e empresas. A 5ª edição está atualizada de acordo com as mais recentes inovações legislativas, bem como com a Resolução 193/2013, do TST.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502638501"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502638505"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PEBnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PEBnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PEBnDwAAQBAJ&pg=PT625&dq=A+hora+extraordin%C3%A1ria&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PEBnDwAAQBAJ&dq=A+hora+extraordin%C3%A1ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CURSO_DE_DIREITO_DO_TRABALHO.html?hl=&id=PEBnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/CURSO_DE_DIREITO_DO_TRABALHO-sample-epub.acsm?id=PEBnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PEBnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O TST pacificou o assunto mediante a: Súmula 132, II: “Durante as horas de \u003cbr\u003e\nsobreaviso, o empregado não se ... Nos recibos, entretanto, o adicional \u003cb\u003ede horas\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eextraordinárias\u003c/b\u003e aparece separado do valor das horas normais de trabalho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tYAspkj-T88C",
+   "etag": "ETmg43xmAo0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tYAspkj-T88C",
+   "volumeInfo": {
+    "title": "Manual de Direito do Trabalho",
+    "authors": [
+     "Fßbio Villela"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2012",
+    "description": "Manual De Direito Do Trabalho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535252750"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535252754"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 502,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tYAspkj-T88C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tYAspkj-T88C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tYAspkj-T88C&pg=PT589&dq=A+hora+extraordin%C3%A1ria&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tYAspkj-T88C&dq=A+hora+extraordin%C3%A1ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_Direito_do_Trabalho.html?hl=&id=tYAspkj-T88C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Manual_de_Direito_do_Trabalho-sample-epub.acsm?id=tYAspkj-T88C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tYAspkj-T88C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Conceito \u003cb\u003eHora extraordinária\u003c/b\u003e é a unidade horária de tempo em que o \u003cbr\u003e\nempregado se coloca à disposição do empregador (prestando serviços ou \u003cbr\u003e\naguardando ordens) além da jornada normal de trabalho fixada em lei ou em \u003cbr\u003e\nnorma coletiva."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zc7QPwYgGTAC",
+   "etag": "YiM4yAZfkmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zc7QPwYgGTAC",
+   "volumeInfo": {
+    "title": "Como fazer o seu dinheiro render mais",
+    "authors": [
+     "ANTONIO DIMAS MIGUEL"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "Diariamente tomamos conhecimento de que milhõesde pessoas se encontram em situação desesperadora,pela falta de recursos para pagar suas despesasAo mesmo tempo, nosso planeta pede socorro por nãosuportar mais o ritmo de exploração impostopela sociedade contemporâneaComo fazer então para conciliar qualidade de vida comsusten ilidade do Planeta Terra?Neste livro são apresentadas sugestões para que oleitor possa aumentar sua receita e eliminardesperdícios, melhorando sua qualidade de vida eajudando a salvar o planeta",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541600750"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541600750"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 92,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Zc7QPwYgGTAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Zc7QPwYgGTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Zc7QPwYgGTAC&pg=PA73&dq=A+hora+extraordin%C3%A1ria&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Zc7QPwYgGTAC&dq=A+hora+extraordin%C3%A1ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Como_fazer_o_seu_dinheiro_render_mais.html?hl=&id=Zc7QPwYgGTAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Zc7QPwYgGTAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De fato, muitas empresas permitem e até solicitam que seus funcionários façam \u003cbr\u003e\nhoras extras, o que pode aumentar consideravelmente os ganhos profissionais − \u003cbr\u003e\nvisto que uma \u003cb\u003ehora extra\u003c/b\u003e varia entre 60% a 100% com relação à hora normal."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sr1YAAAAYAAJ",
+   "etag": "aw2YdYzPY5M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sr1YAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Hora extra",
+    "subtitle": "o que a CUT tem a dizer sobre ista",
+    "authors": [
+     "Central Unica dos Trabalhadores (Brazil)."
+    ],
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8589210111"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788589210119"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Labor unions"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sr1YAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sr1YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sr1YAAAAYAAJ&q=A+hora+extraordin%C3%A1ria&dq=A+hora+extraordin%C3%A1ria&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sr1YAAAAYAAJ&dq=A+hora+extraordin%C3%A1ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hora_extra.html?hl=&id=sr1YAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sr1YAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CGiy-SuAwDUC",
+   "etag": "aBoVWP7n+n4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CGiy-SuAwDUC",
+   "volumeInfo": {
+    "title": "Direito Do Trabalho",
+    "publisher": "IESDE BRASIL SA",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538727934"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538727931"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CGiy-SuAwDUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CGiy-SuAwDUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CGiy-SuAwDUC&pg=PA83&dq=A+hora+extraordin%C3%A1ria&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CGiy-SuAwDUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CGiy-SuAwDUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CGiy-SuAwDUC&rdid=book-CGiy-SuAwDUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Direito_Do_Trabalho-sample-pdf.acsm?id=CGiy-SuAwDUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CGiy-SuAwDUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesse período, por ficção jurídica, a hora de trabalho não possui 60 minutos, \u003cbr\u003e\nmas 52 minutos e 30 segundos. Por fim, na ... Sem dúvida, o direito à retribuição \u003cbr\u003e\npor \u003cb\u003ehora extraordinária\u003c/b\u003e, baseado no próprio artigo 71, caput, da CLT. Ora, tendo\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hvpe0Oq-5A8C",
+   "etag": "lD0uwoA5eO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hvpe0Oq-5A8C",
+   "volumeInfo": {
+    "title": "Estrutura E Desenvolvimento de Cálculos",
+    "publisher": "IESDE BRASIL SA",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538727873"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538727877"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hvpe0Oq-5A8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hvpe0Oq-5A8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hvpe0Oq-5A8C&pg=PA121&dq=A+hora+extraordin%C3%A1ria&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hvpe0Oq-5A8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hvpe0Oq-5A8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hvpe0Oq-5A8C&rdid=book-hvpe0Oq-5A8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estrutura_E_Desenvolvimento_de_C%C3%A1lculos-sample-pdf.acsm?id=hvpe0Oq-5A8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hvpe0Oq-5A8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Primeira corrente : o que excede à 44.a hora semanal é computado apenas em \u003cbr\u003e\nrelação a seis dias da semana, pois o ... pois o trabalho prestado em domingos \u003cbr\u003e\nconstitui \u003cb\u003ehora extra\u003c/b\u003e comum, cumulada com o repouso remunerado em dobro,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y9hzAMM0XcIC",
+   "etag": "3zw+ql0JtcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y9hzAMM0XcIC",
+   "volumeInfo": {
+    "title": "Direito Individual Do Trabalho Ii",
+    "publisher": "IESDE BRASIL SA",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538725596"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538725599"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=y9hzAMM0XcIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=y9hzAMM0XcIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=y9hzAMM0XcIC&pg=PA124&dq=A+hora+extraordin%C3%A1ria&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=y9hzAMM0XcIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-y9hzAMM0XcIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=y9hzAMM0XcIC&rdid=book-y9hzAMM0XcIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Direito_Individual_Do_Trabalho_Ii-sample-pdf.acsm?id=y9hzAMM0XcIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y9hzAMM0XcIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A expressão horas extras (ou \u003cb\u003ehoras extraordinárias\u003c/b\u003e) é usualmente utilizada no \u003cbr\u003e\nâmbito das relações de trabalho para denominar tanto as horas de trabalho \u003cbr\u003e\nprestadas em sobrejornada, como o crédito remuneratório decorrente de tal \u003cbr\u003e\nlabor em&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TW_8IL7QOaYC",
+   "etag": "HOkqSSqJQxs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TW_8IL7QOaYC",
+   "volumeInfo": {
+    "title": "A ARTE DE FAZER ACONTECER",
+    "authors": [
+     "DAVID ALLEN"
+    ],
+    "publisher": "Gulf Professional Publishing",
+    "description": "Segundo a obra, só quando as mentes estão claras e os pensamentos organizados é que as pessoas podem atingir a produtividade sem estresse e liberar o potencial criativo. Desde os princípios fundamentais (como decidir qual será o próximo passo para cada item de uma lista de coisas a fazer) até as dicas comprovadas, este livro poderá transformar a maneira de trabalhar - e de vivenciar o trabalho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535219080"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535219081"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TW_8IL7QOaYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TW_8IL7QOaYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TW_8IL7QOaYC&printsec=frontcover&dq=isbn:9788535219081&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TW_8IL7QOaYC&dq=isbn:9788535219081&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_ARTE_DE_FAZER_ACONTECER.html?hl=&id=TW_8IL7QOaYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TW_8IL7QOaYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Segundo a obra, só quando as mentes estão claras e os pensamentos organizados é que as pessoas podem atingir a produtividade sem estresse e liberar o potencial criativo."
+   }
+  }
+ ]
+}

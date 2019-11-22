@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1Sw3vgAACAAJ",
+   "etag": "fr/7OKGCsvs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1Sw3vgAACAAJ",
+   "volumeInfo": {
+    "title": "PROMETO FALHAR",
+    "authors": [
+     "PEDRO CHAGAS FREITAS"
+    ],
+    "description": "\"Prometo Falhar\" é um livro que fala de amor. O amor dos amantes, o amor dos amigos, o amor da mãe pelo filho, do filho pela mãe, pelo pai, o amor que abala, que toca, que arrebata, que emociona, que descobre e encobre, que fere e cura, que prende e liberta. Em crônicas desconcertantes, Pedro convida o leitor a revisitar suas próprias impressões sobre os relacionamentos humanos. A linguagem fluida, livre, sem amarras, faz querer ler tudo de uma vez e depois ligar para o autor para terminar a conversa . Medo, frustração, inveja, ciúme e todos os sentimentos que nos ensinaram a sufocar são expostos sem pudores. Mergulhe de cabeça numa obra que mostra que é possível sair ileso de tudo, menos do amor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581637493"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581637495"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1Sw3vgAACAAJ&dq=isbn:9788581637495&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1Sw3vgAACAAJ&dq=isbn:9788581637495&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PROMETO_FALHAR.html?hl=&id=1Sw3vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1Sw3vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Prometo Falhar&#39; é um livro que fala de amor."
+   }
+  }
+ ]
+}

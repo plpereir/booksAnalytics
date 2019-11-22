@@ -1,0 +1,1 @@
+select B.idGoogle, B.ISBN10, B.ISBN13 from BooksAnalytics.PublishNews as A, BooksAnalytics.Books as B where (A.ISBN=B.ISBN10) or (A.ISBN=B.ISBN13)

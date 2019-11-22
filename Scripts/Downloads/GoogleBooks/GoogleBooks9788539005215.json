@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lliwoAEACAAJ",
+   "etag": "QgnsMa4JKwk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lliwoAEACAAJ",
+   "volumeInfo": {
+    "title": "Os últimos quartetos de Beethoven e outros contos",
+    "authors": [
+     "Luís Fernando Veríssimo"
+    ],
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539005212"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539005215"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 162,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lliwoAEACAAJ&dq=isbn:9788539005215&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lliwoAEACAAJ&dq=isbn:9788539005215&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_%C3%BAltimos_quartetos_de_Beethoven_e_out.html?hl=&id=lliwoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lliwoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Amor, sexo, relacionamentos, obsessões, violência, morte - tem de tudo em Os últimos quartetos de Beethoven e outros contos, primeiro livro só de contos de Luis Fernando Verissimo."
+   }
+  }
+ ]
+}

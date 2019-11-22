@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KinwwAEACAAJ",
+   "etag": "8AxQom2i+AY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KinwwAEACAAJ",
+   "volumeInfo": {
+    "title": "Quem me roubou de mim?",
+    "authors": [
+     "Fábio de Melo"
+    ],
+    "publisher": "Canção Nova",
+    "publishedDate": "2008",
+    "description": "Esta obra aborda algumas questões sobre as dificuldades das relações humanas. Por meio de reflexões filosóficas, textos poéticos e histórias reais, o autor convida-nos a um mergulho em nossa subjetividade, a fim de nos fazer conhecer a nós mesmos e a descobrir como viver e conviver melhor não só com as pessoas que nos cercam, mas com todos que passam pelo nosso caminho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576770989"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576770985"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Interpersonal relations"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KinwwAEACAAJ&dq=isbn:9788576770985&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KinwwAEACAAJ&dq=isbn:9788576770985&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Quem_me_roubou_de_mim.html?hl=&id=KinwwAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KinwwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por meio de reflexões filosóficas, textos poéticos e histórias reais, o autor convida-nos a um mergulho em nossa subjetividade, a fim de nos fazer conhecer a nós mesmos e a descobrir como viver e conviver melhor não só com as pessoas ..."
+   }
+  }
+ ]
+}

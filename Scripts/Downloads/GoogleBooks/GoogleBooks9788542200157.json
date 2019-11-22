@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "k0O4NAEACAAJ",
+   "etag": "knmtHxkQcFE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k0O4NAEACAAJ",
+   "volumeInfo": {
+    "title": "A INFANCIA DE JESUS",
+    "authors": [
+     "JOSEPH RATZINGER"
+    ],
+    "description": "Nesta obra, o autor tem a intenção de provocar um debate e levantar a discussão teológica. Ratzinger procura analisar uma série de textos do Evangelho e pretende convidar o leitor a refletir sobre questões como - 'Será que é verdade tudo o que foi dito?', 'Tem a ver comigo?', 'Se sim, de que maneira isso me diz respeito?'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542200152"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542200157"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=k0O4NAEACAAJ&dq=isbn:9788542200157&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=k0O4NAEACAAJ&dq=isbn:9788542200157&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_INFANCIA_DE_JESUS.html?hl=&id=k0O4NAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k0O4NAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ratzinger procura analisar uma série de textos do Evangelho e pretende convidar o leitor a refletir sobre questões como - &#39;Será que é verdade tudo o que foi dito?&#39;, &#39;Tem a ver comigo?&#39;, &#39;Se sim, de que maneira isso me diz respeito?&#39;."
+   }
+  }
+ ]
+}

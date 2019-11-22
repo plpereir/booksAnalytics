@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "roVLLgEACAAJ",
+   "etag": "BdJIH8s23XE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/roVLLgEACAAJ",
+   "volumeInfo": {
+    "title": "MANUAL DO CEO - UM VERDADEIRO MBA PARA O GESTOR DO",
+    "subtitle": "SECULO XXI",
+    "authors": [
+     "JOSH KAUFMAN"
+    ],
+    "description": "Esta obra busca apresentar um curso de negócios, procurando compartilhar elementos do empreendedorismo, marketing, vendas, negociações, operações, design de sistemas, entre outros. O autor pretende explicar conceitos como a lei de ferro do mercado, as doze formas de valor, o princípio da incerteza da precificação, quatro métodos para aumentar a receita.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502163167"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502163164"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=roVLLgEACAAJ&dq=isbn:9788502163164&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=roVLLgEACAAJ&dq=isbn:9788502163164&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MANUAL_DO_CEO_UM_VERDADEIRO_MBA_PARA_O_G.html?hl=&id=roVLLgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=roVLLgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra busca apresentar um curso de negócios, procurando compartilhar elementos do empreendedorismo, marketing, vendas, negociações, operações, design de sistemas, entre outros."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LSUdvgAACAAJ",
+   "etag": "KuLuW7NaX7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LSUdvgAACAAJ",
+   "volumeInfo": {
+    "title": "#VQD - VAI QUE DA!",
+    "authors": [
+     "JOAQUIM CASTANHEIRA",
+     "BETO SICUPIRA",
+     "JORGE PAULO LEMANN"
+    ],
+    "description": "Este livro reúne a origem de dez empreendedores que estão transformando o Brasil com o impacto dos seus negócios. Suas histórias, comentadas por mentores que acompanharam de perto seus desafios, mostram que não há um trilho definido para o sucesso que possa ser explicado por teorias e manuais. As trajetórias de cada um deles seguem um caminho próprio, que se cruzam apenas no brilho nos olhos com que cada um fala de sua jornada e de sua capacidade para resolver problemas da sociedade. O exemplo desses empreendedores tem o enorme poder de inspirar e motivar aqueles que querem encontrar os seus próprios caminhos no mundo do empreendedorismo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858285000X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582850008"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LSUdvgAACAAJ&dq=isbn:9788582850008&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LSUdvgAACAAJ&dq=isbn:9788582850008&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/VQD_VAI_QUE_DA.html?hl=&id=LSUdvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LSUdvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para essas pessoas, Vai que dá! é leitura obrigatória. “O grande motor da mudança é o empreendedorismo, nada pode ser mais importante para alavancar o crescimento de um país.” - Beto Sicupira, membro do conselho da ABInBev"
+   }
+  }
+ ]
+}

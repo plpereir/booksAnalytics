@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aRHdoAEACAAJ",
+   "etag": "ZlBIJSmoxlg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aRHdoAEACAAJ",
+   "volumeInfo": {
+    "title": "Década perdida",
+    "subtitle": "dez anos de PT no poder",
+    "authors": [
+     "Marco Antônio Villa"
+    ],
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501101206"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501101204"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aRHdoAEACAAJ&dq=isbn:9788501101204&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aRHdoAEACAAJ&dq=isbn:9788501101204&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9cada_perdida.html?hl=&id=aRHdoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aRHdoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais do que retrato definidor de uma Década perdida, o trabalho de Marco Antonio Villa desnuda padrões, revela modelos de comportamento, fixa estilos de conduta, o próprio modus operandi do PT no poder, o método, segundo o autor: ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "c_aYpwAACAAJ",
+   "etag": "48cpAef6SEU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c_aYpwAACAAJ",
+   "volumeInfo": {
+    "title": "Cronicas De Gelo E Fogo, V.4 - O Festim Dos Corvos",
+    "authors": [
+     "George R. R. Martin",
+     "Jorge Candeiras"
+    ],
+    "description": "Enquanto os senhores do Norte lutam incessantemente uns contra os outros e os Homens de Ferro estão prestes a emergir como uma força implacável, a rainha regente Cersei tenta manter intacta a força dos leões em Porto Real. Os jovens lobos, sedentos por vingança, estão dispersos pela terra, cada um envolvido no perigoso jogo dos tronos. Arya abandonou Westeros rumo a Bravos, Bran desapareceu na vastidão enigmática para além da Muralha, Sansa está nas mãos do ambicioso e maquiavélico Mindinho, Jon Snow foi proclamado comandante da Muralha mas tem que enfrentar a vontade férrea do rei Stannis e, no meio de toda a intriga, começam a surgir histórias do outro lado do mar sobre dragões vivos e fogo. O Olho de Corvo tem o objetivo declarado de conquistar Westeros. E o seu povo parece acreditar nele.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580443768"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580443769"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 644,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=c_aYpwAACAAJ&dq=isbn:9788580443769&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=c_aYpwAACAAJ&dq=isbn:9788580443769&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cronicas_De_Gelo_E_Fogo_V_4_O_Festim_Dos.html?hl=&id=c_aYpwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c_aYpwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Enquanto os senhores do Norte lutam incessantemente uns contra os outros e os Homens de Ferro estão prestes a emergir como uma força implacável, a rainha regente Cersei tenta manter intacta a força dos leões em Porto Real."
+   }
+  }
+ ]
+}

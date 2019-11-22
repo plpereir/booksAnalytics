@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YC3nciMBXzkC",
+   "etag": "WVuS5iw+oDc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YC3nciMBXzkC",
+   "volumeInfo": {
+    "title": "1984",
+    "authors": [
+     "George Orwell",
+     "HELOISA JAHN",
+     "ALEXANDRE HUBNER"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2009",
+    "description": "Winston, herói de '1984', último romance de George Orwell, vive aprisionado na engrenagem totalitária de uma sociedade completamente dominada pelo Estado, onde tudo é feito coletivamente, mas cada qual vive sozinho. Ninguém escapa à vigilância do Grande Irmão, a mais famosa personificação literária de um poder cínico e cruel ao infinito, além de vazio de sentido histórico. De fato, a ideologia do Partido dominante em Oceânia não visa nada de coisa alguma para ninguém, no presente ou no futuro. O’Brien, hierarca do Partido, é quem explica a Winston que 'só nos interessa o poder em si. Nem riqueza, nem luxo, nem vida longa, nem felicidade - só o poder pelo poder, poder puro.'",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535914846"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535914849"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 414,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YC3nciMBXzkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YC3nciMBXzkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YC3nciMBXzkC&dq=isbn:9788535914849&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YC3nciMBXzkC&dq=isbn:9788535914849&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=YC3nciMBXzkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YC3nciMBXzkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Winston, herói de 1984, último romance de George Orwell, vive aprisionado na engrenagem totalitária de uma sociedade completamente dominada pelo Estado, onde tudo é feito coletivamente, mas cada qual vive sozinho."
+   }
+  }
+ ]
+}

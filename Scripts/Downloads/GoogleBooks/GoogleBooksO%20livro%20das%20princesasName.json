@@ -1,0 +1,769 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 196,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "idgmAAAAQBAJ",
+   "etag": "FbEw7UNqwiQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/idgmAAAAQBAJ",
+   "volumeInfo": {
+    "title": "O Livro das Princesas",
+    "authors": [
+     "Meg Cabot",
+     "Lauren Kate",
+     "Paula Pimenta",
+     "Patrícia Barboza"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2013-07-23",
+    "description": "As mais populares autoras contemporâneas norte-americanas, Meg Cabot (\"Diário Da Princesa\" e \"A Mediadora\") e Lauren Kate (\"Fallen\"), se unem às brasileiras e igualmente bem-sucedidas Paula Pimenta (\"Fazendo Meu Filme\") e Patricia Barboza (\"As Mais\") em uma coletânea que reinventa contos de fadas clássicos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501404657"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501404659"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=idgmAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=idgmAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=idgmAAAAQBAJ&printsec=frontcover&dq=O+livro+das+princesas&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=idgmAAAAQBAJ&dq=O+livro+das+princesas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Livro_das_Princesas.html?hl=&id=idgmAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Livro_das_Princesas-sample-epub.acsm?id=idgmAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Livro_das_Princesas-sample-pdf.acsm?id=idgmAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=idgmAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As mais populares autoras contemporâneas norte-americanas, Meg Cabot (&quot;Diário Da Princesa&quot; e &quot;A Mediadora&quot;) e Lauren Kate (&quot;Fallen&quot;), se unem às brasileiras e igualmente bem-sucedidas Paula Pimenta (&quot;Fazendo Meu Filme&quot;) e Patricia ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PTu6uAAACAAJ",
+   "etag": "8IoK0ZiOL1c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PTu6uAAACAAJ",
+   "volumeInfo": {
+    "title": "O GRANDE LIVRO DAS PRINCESAS",
+    "authors": [
+     "DISNEY"
+    ],
+    "description": "'O grande livro das Princesas' traz detalhes e curiosidades sobre as Princesas Disney, personagens do universo infantil. Em capítulos dedicados a cada uma delas, os leitores poderão relembrar histórias, vilões, amigos e amores de Mulan, Pocahontas, Branca de Neve, Jasmine, Bela, Aurora, Cinderela, Ariel e Tiana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502102176"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502102170"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PTu6uAAACAAJ&dq=O+livro+das+princesas&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PTu6uAAACAAJ&dq=O+livro+das+princesas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_GRANDE_LIVRO_DAS_PRINCESAS.html?hl=&id=PTu6uAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PTu6uAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;O grande livro das Princesas&#39; traz detalhes e curiosidades sobre as Princesas Disney, personagens do universo infantil."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_BSxDgAAQBAJ",
+   "etag": "fE+Li9kjsv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_BSxDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O livro das Santas",
+    "authors": [
+     "Sarah Gallick"
+    ],
+    "publisher": "Editora Schwarcz - Companhia das Letras",
+    "publishedDate": "2017-05-12",
+    "description": "Uma santa para te inspirar a cada dia do ano! A grande maioria dos livros sobre santos falam pouco sobre mulheres. Em O livro das santas, a pesquisadora Sarah Gallick corrige esse erro, nos presenteando com o relato impressionante da trajetória de centenas de santas, muitas delas canonizadas ou beatificadas em pleno século XX pelo Papa João Paulo II. Graças a um trabalho rigoroso de pesquisa em arquivos recentemente descobertos, diários e outras fontes primárias, o leitor encontrará nesta obra recursos inéditos, por meio dos quais poderá aprender, refletir e se inspirar todos os dias do ano com uma santa diferente. Um livro de importância ímpar para aqueles que desejam se sentir mais próximos dessas mulheres exemplares que dedicaram suas vidas a Deus, triunfando sobre as vicissitudes humanas sem nunca sacrificar sua alma ou o seu gênio feminino.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543809533"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543809533"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_BSxDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_BSxDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_BSxDgAAQBAJ&pg=PT321&dq=O+livro+das+princesas&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_BSxDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_BSxDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_BSxDgAAQBAJ&rdid=book-_BSxDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_livro_das_Santas-sample-epub.acsm?id=_BSxDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_livro_das_Santas-sample-pdf.acsm?id=_BSxDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_BSxDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "casamento com Henrique I, rei de Castela, mas \u003cb\u003eo\u003c/b\u003e papa Inocêncio III interferiu e \u003cbr\u003e\nanulou a união, por causa da consanguinidade. Mafalda ... \u003cb\u003eO\u003c/b\u003e GÊNIO DAS \u003cbr\u003e\n\u003cb\u003ePRINCESAS\u003c/b\u003e PORTUGUESAS As três irmãs tiveram poder e privilégio desde \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\nberço."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ac55DwAAQBAJ",
+   "etag": "0c6RWwV0Ryc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ac55DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Casa Do Apontamento",
+    "authors": [
+     "Franciele Valadares"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Book Trailer : https://www.youtube.com/watch?v=xz1Zl9HTaHY https://www.youtube.com/watch?v=a4ZFWBEi0WA https://www.youtube.com/watch?v=qdoaczxgGRc https://www.youtube.com/watch?v=q7xHzXzeAwQ Audiobook: https://www.dropbox.com/s/pyqswaa9n9rn5jf/A_Casa_do_Apontamento_Parte1.mp3?dl=0 https://www.dropbox.com/s/iivagcs4opuzc5t/A_Casa_do_Apontamento_Parte2.mp3?dl=0 https://www.dropbox.com/s/sokw51flwlvd8op/A_Casa_do_Apontamento_Parte3.mp3?dl=0 https://www.dropbox.com/s/ix9dhhha0nap85e/A_Casa_do_Apontamento_Parte4.mp3?dl=0 https://www.dropbox.com/s/1tckyo7rj8c62yy/A_Casa_do_Apontamento_Parte5.mp3?dl=0 https://www.dropbox.com/s/axulpzi2mtx6kl2/A_Casa_do_Apontamento_Parte6.mp3?dl=0 https://www.dropbox.com/s/7649inth1otn1ya/A_Casa_do_Apontamento_Parte7.mp3?dl=0 Download: https://www.recantodasletras.com.br/e-livros/5409225 https://rl.art.br/arquivos/5409225.pdf?1535299339 Resumo: http://www.recantodasletras.com.br/tutoriais/5734007 http://www.recantodasletras.com.br/analise-de-obras/5807723 Compra de versão impressa: https://clubedeautores.com.br/book/223441--A_Casa_do_Apontamento#.Wz6g-NJKjIU FanPage: https://www.facebook.com/ACasadoApontamento/ Instagram: @acasadoapontamento ---------------------------------- A Casa do Apontamento é uma narrativa que aborda falhas humanas. A história inicia-se em um júri que coloca uma pequena amostra de brasileiros a prova de consciência. Cada participante é chamado pela profissão e não pelo seu nome próprio. O tal grupo definido têm que justificar o motivo pelo qual o ser superior deve manter a terra ou tentar resguardar vagas na suposta Arca de Noé. Além disso, os selecionados devem ajudar-se mutuamente. O meio da trama é surpreendente, pois cada depoimento deixa uma lição de vida. Temas como religião, amor, profissão, passagem, trauma e sanidade mental são destacados no livro. O final quebra as expectativas por apresentar análises de transtorno de personalidade. Venham conhecer A Casa do Apontamento! Onde quem aponta um dedo têm três voltados para si. Bem-vindos! ---------------------------------- O livro das falhas humanas seja pessoal, profissional ou amorosa descritas dentro de um incrível romance. Tenha esse manual de instruções como armadura para as várias adversidades e múltiplas etapas da vida. ---------------------------------- Qual item oferece mais poder: a riqueza, a inteligência ou a beleza? ---------------------------------- Sabem aqueles valiosos conselhos que precisamos durante a vida? Sabem daqueles casos de falhas humanas nos quais há sempre alguém falando o tal do “se eu pudesse voltar no tempo”? Sabem aqueles casos que chocam a humanidade? Já pensaram se o ser superior está realmente satisfeito com o que os humanos fazem com a terra? E se existisse uma nova Arca de Noé será que resolveria tudo? Será que os homens têm argumentos para tentar salvar o planeta? O que realmente cada pessoa representa em sua passagem? Onde estão as boas obras? Quem anda com boas pessoas e mantém bons pensamentos prospera! Religião? Amor? Profissão? Caminho? Trauma? O que mais influencia uma pessoa? Quem tem informações privilegiadas? A vida tem um manual de instruções? Qual o papel do bem e do mal? Você sabe observar e decodificar os tipos de pessoas para cada etapa da vida? Em uma tomada de decisão informações ajudam, mas o que realmente contribui é o desenvolvimento de um raciocínio lógico e prático para dar os primeiros passos. Você usa bem armas que tem? Caso contrário, não vá para guerra. Então, vamos resolver algumas coisas para começar a ser feliz? ---------------------------------- Histórias e estórias. Vocês já viram muitas delas em vários locais como jornais, novelas e filmes. Porém, o que diferencia os relatos descritos pelo livro “A Casa do Apontamento” é com os casos são descritos. Cada participante tem uma análise e um estudo correspondente. Abaixo apresento mais um trechinho! “O que esperar dos personagens”? • A Empresária: um discurso rico de técnicas de liderança, empreendedorismo, dominação e conflitos tanto pessoais quanto profissionais. A tal personagem é uma patroa bem-sucedida, mas é viciada em trabalho e sofre as consequências desse fator. Sua fala também levanta argumentos que justificam a existência das diferenças de classes. • A Garçonete: relato de migração dentro do país, dificuldades financeiras, pobreza, problemas familiares, disparidade entre irmãos e desejo de uma vida melhor. • O Traficante: justificativas da importância da existência de malfeitores para a sociedade. • A Assistente Social: exposição de uma bela moça que muito nova ficou órfão. Ela foi criada no mais alto rigor dos bons costumes, semelhante a uma princesa. Porém, isso gerou trauma, pois a garota não foi preparada para enfrentar os reais problemas do mundo. • A Analista de Sistemas: uma jovem genial que chama atenção por sua inteligência. Ela cria um aplicativo surpreendente no qual muda a vida das pessoas. • A Coveira: depoimentos marcantes sobre o valor da vida, da morte e do envelhecimento. • A Atriz: uma narração de uma moça que sofre homofobia dentro de sua própria casa e torna-se rebelde. Sem apoio, abandona a residência dos pais e vai em busca de seu maior sonho: ser atriz. • A Aeromoça: testemunho de uma exposição indevida da imagem de uma moça e as consequências após o evento. • A Professora: descrição de técnicas pedagógicas aplicadas a diferentes tipos de alunos, estilo de pessoas, classes e culturas. • O Ambientalista: um idealista que cultiva a defesa extrema dos poucos recursos naturais que ainda existem no planeta. • A Turismóloga: manifesto de alguém que sofre pela perda da filha por descuido do marido. Além de sua frustração por vender fantasia para desapontados trabalhadores. • O Gari: jovem de classe média alta que tinha tudo do bom e do melhor sem nenhum esforço. Ele não queria estudar, apenas aproveitar os prazeres da vida fácil. Mudou sua postura após tornar-se mendigo e perder uma possibilidade de envolver-se com uma interessante moça. • A Vendedora: mistério, de uma mulher que oferta técnicas de manipulação em massa. • O Detetive: proclamação de diversos casos de golpes já sofridos por pessoas. Ele tenta ajudar todos a prevenir-se de malfeitores. • A Médica: conto de alguém que usou bem as armas que a vida lhe deu. A moça é esforçada e relata seus passos até atingir o seu objetivo. • A Dondoca: uma mulher dependente que aceita um marido criminoso por depender de regalias. • O Contador: profissional genial que teve sua felicidade arrancada após perder sua família em um acidente de trânsito causado por um jovem bêbado. • O Policial: um homem frustrado por não saber o paradeiro de seu irmão desaparecido, inseguro que mudar constantemente de profissão inclusive abonada a sua vocação de ser padre. • O Político: técnica de manejo de informação. • O Advogado: um rapaz autônomo e oportunista que tenta resolver vários conflitos dos personagens. • A Pedreira: dilema da mulher no mercado de trabalho e laborar por algo que não se pode se comprar. • O Caminhoneiro: abandono de domicílio em prol do seu benefício próprio. Apresenta-se como egocêntrico e antissocial após ter sido incriminado injustamente. • A Modelo: uso expressivo da beleza para progresso profissional e narcisismo. • A Técnica em Enfermagem: revelação do cotidiano de trabalhadores em hospitais e a vida de concurseiros. • A Faxineira: declarações das dificuldades de uma pessoa obesa e compulsões. • O Engenheiro: uma demonstração de um especialista de ponta de mercado que deseja criar projetos inovadores. Descreve falhas humanas, oportunidades de trabalho e conflitos em empresas. Porém, é homofóbico, avarento e egoísta. • O Corredor: um rapaz que ficou cego após um acidente doméstico, mas enriquece o livro por ser uma pessoa otimista que soube muito bem superar suas dificuldades. É um grande exemplo de vida para todos. • O Poeta: um poeta que não sabe o valor do amor. Carrega traumas de infância, tem comportamento bipolar, é maníaco e estuprador. • O Palhaço: uma alegria imensa em seu coração que tenta arrancar sorrisos a todo o momento. Seu discurso é totalmente motivacional e solidário. • O Carteiro: jovem que perdeu uma grande oportunidade na vida profissional e também como consequência um grande amigo. É inteligente por tentar criar softwares, porém tem dificuldade de relacionar-se com humanos. • O Operador de Telemarketing: exposição de dificuldades na definição da carreira e de obtenção da primeira oportunidade de trabalho. Além de problemas enfrentados em relacionamentos amorosos. • O Office Boy: empresário falido que conta suas principais falhas na gestão de negócios. • A Cozinheira de Escola Pública: mania por organização e limpeza. Além de dificuldades de relacionamento entre pessoas. Embora tente ajudá-las constantemente. Tem o desejo de abandonar o país. • O Taxista: um senhor que criou seus filhos com muita dificuldade, mas no momento deseja voltar para o campo. Ele reporta falhas na criação dos filhos. • O Mecânico: enumeração de falhas humanas, acidentes de trabalho e visão de negócios a partir de um critério deixado de lado na atualidade: a honestidade. Também descreve o sofrimento ocasionado pelo racismo. • A Psicóloga: atua com advogada de defesa.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU36609"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 342,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ac55DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ac55DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ac55DwAAQBAJ&pg=PA63&dq=O+livro+das+princesas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ac55DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ac55DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ac55DwAAQBAJ&rdid=book-ac55DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Casa_Do_Apontamento-sample-pdf.acsm?id=ac55DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ac55DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pessoal, deixem A Assistente Social falar pelo visto será muita coisa – disse A \u003cbr\u003e\nMediadora. – \u003cb\u003eO livro das princesas\u003c/b\u003e diz que não existe pessoa certa na hora \u003cbr\u003e\nerrada. É a mesma coisa que ganhar uma bolsa de estudos para a melhor \u003cbr\u003e\nescola de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q8tGvgAACAAJ",
+   "etag": "Oz/xgm3ouqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q8tGvgAACAAJ",
+   "volumeInfo": {
+    "title": "O LIVRO SECRETO DAS PRINCESAS QUE SOLTAM PUM",
+    "authors": [
+     "ILAN BRENMAN",
+     "IONIT ZILBERMAN"
+    ],
+    "publishedDate": "2015-09-28",
+    "description": "Muitas coisas no mundo crescem- unhas, cabelos, pés, braços... Laura também cresceu. E quando crescemos, muitas vezes, nos esquecemos de coisas que aconteceram no passado. Ela se reencontrará com o famoso LIVRO SECRETO DAS PRINCESAS, lembranças e novas descobertas mudarão para sempre seu olhar a respeito dos vilões dos contos de fada.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857412527X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574125275"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 28,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q8tGvgAACAAJ&dq=O+livro+das+princesas&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Q8tGvgAACAAJ&dq=O+livro+das+princesas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_LIVRO_SECRETO_DAS_PRINCESAS_QUE_SOLTAM.html?hl=&id=Q8tGvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q8tGvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Muitas coisas no mundo crescem- unhas, cabelos, pés, braços."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0RJyDwAAQBAJ",
+   "etag": "qQevnud34wM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0RJyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Livro Das Águas",
+    "publisher": "Clube de Autores (managed)",
+    "description": "Pierre e Larissa são dois jovens aventureiros que se envolvem em um grande perigo em Águas Virtuosas em Minas Gerais. Juntos eles enfrentarão um vilão que procura um livro capaz de destruir a cidade. Mistério e emoção permeiam todaa história. Ao ler os capítulos VOCÊ DECIDIRÁ o futuro dos heróis podendo ir a lugares diferentes com finais alternativos que poderão mudar toda a trajetória da aventura! Emoção é o que não vai faltar nessa aventura em Minas Gerais!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU29095"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 307,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0RJyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0RJyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0RJyDwAAQBAJ&pg=PA252&dq=O+livro+das+princesas&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0RJyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0RJyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0RJyDwAAQBAJ&rdid=book-0RJyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Livro_Das_%C3%81guas-sample-pdf.acsm?id=0RJyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0RJyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com \u003cb\u003eo\u003c/b\u003e prefeito fora de cena seus secretários e esposas alternavam durante a \u003cbr\u003e\nrecepção na escadaria para receber quem quer ... E como não falar das damas \u003cbr\u003e\nque chegavam tão lindas quanto \u003cb\u003eprincesas\u003c/b\u003e a subir os degraus com todo cuidado\u003cbr\u003e\n,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nKVGAQAAMAAJ",
+   "etag": "CYWvK9IpKLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nKVGAQAAMAAJ",
+   "volumeInfo": {
+    "title": "O livro das flores",
+    "subtitle": "legendas da vida da rainha santa",
+    "authors": [
+     "Alberto Pimentel"
+    ],
+    "publishedDate": "1874",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112089109067"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nKVGAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nKVGAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nKVGAQAAMAAJ&pg=PA18&dq=O+livro+das+princesas&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nKVGAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nKVGAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=nKVGAQAAMAAJ&rdid=book-nKVGAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/O_livro_das_flores.pdf?id=nKVGAQAAMAAJ&hl=&output=pdf&sig=ACfU3U2QIPTDzRtHs0lV1ddtWg3qZajw_w&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nKVGAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... porque a bellesa a tornava outra, mais vivo \u003cb\u003eo\u003c/b\u003e carmim das faces, mais \u003cbr\u003e\ncomposto \u003cb\u003eo\u003c/b\u003e semblante, e mais gentil \u003cb\u003eo\u003c/b\u003e desenho ... e a rainha estivesse em \u003cbr\u003e\nBadajoz, onde se avistára com as \u003cb\u003eprincesas\u003c/b\u003e castelhanas \u003cb\u003eno\u003c/b\u003e proposito de \u003cbr\u003e\nrealisarem a paz,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9ttvesfiBjAC",
+   "etag": "2SOL58l8rPs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9ttvesfiBjAC",
+   "volumeInfo": {
+    "title": "Princesas – Um divertido livro de atividades com adesivo",
+    "authors": [
+     "NOBEL"
+    ],
+    "publisher": "Zastras",
+    "description": "Ilustrado e cheio de atividades incríveis, este livro explora o mundo das princesas e propõe diversas brincadeiras. Criando atividades interativas, os livros propõem que as crianças façam, por exemplo, marionetes, desenvolvendo as habilidades manuais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8521314663"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788521314660"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 26,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9ttvesfiBjAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9ttvesfiBjAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9ttvesfiBjAC&printsec=frontcover&dq=O+livro+das+princesas&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9ttvesfiBjAC&dq=O+livro+das+princesas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Princesas_Um_divertido_livro_de_atividad.html?hl=&id=9ttvesfiBjAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9ttvesfiBjAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ilustrado e cheio de atividades incríveis, este livro explora o mundo das princesas e propõe diversas brincadeiras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VQNyDwAAQBAJ",
+   "etag": "9q4o4znITbo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VQNyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Impressões De Leitura Do Texto Literário",
+    "authors": [
+     "Graça"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Penso em como este volume surge em meio à produção de artigos acadêmicos e outras tarefas igualmente áridas, acadêmicas, por essa turma de mestrandas e mestrandos. E constato a maravilha de como este volume nos permite um olhar mais para dentro da vida de cada uma e de cada um mestrando. Seria esse “olhar o mundo pelas lentes da literatura” uma metáfora do passo lento, mas seguro do burrinho pedrês em meio aos cavalos rápidos e por vezes impensados da produção acadêmica normativa? Ou isso mesmo, mas ao contrário? E agradeço às autoras e autores, e à Professora Graça Graúna, pelo que se oferece ao leitor nesta obra tão pulsante de vida. Benedito Bezerra (Coordenador do Profletras, UPE/Garanhuns)",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU26975"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VQNyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VQNyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VQNyDwAAQBAJ&pg=PA49&dq=O+livro+das+princesas&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VQNyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VQNyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VQNyDwAAQBAJ&rdid=book-VQNyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Impress%C3%B5es_De_Leitura_Do_Texto_Liter%C3%A1r-sample-pdf.acsm?id=VQNyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VQNyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma boa leitura tem \u003cb\u003eo\u003c/b\u003e poder de nos fazer sentir acompanhados, mesmo quando \u003cbr\u003e\nestamos sozinhos. ... ao manusear seus \u003cb\u003elivros das princesas\u003c/b\u003e, 49 Os “mundos” \u003cbr\u003e\nencantadores da literatura OS “MUNDOS” ENCANTADORES DA LITERATURA."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "edvcVMv06N4C",
+   "etag": "SEik/ZCMDu8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/edvcVMv06N4C",
+   "volumeInfo": {
+    "title": "O Livro do Juízo Final",
+    "authors": [
+     "Roselis von Sass"
+    ],
+    "publisher": "Ordem do Graal na Terra",
+    "publishedDate": "1999-12-01",
+    "description": "Séculos e séculos se passaram desde que pela primeira vez a revelação do Juízo Final chegou ao conhecimento dos seres humanos. Da profecia em pedra da Grande Pirâmide do Egito até a Terceira Mensagem de Fátima dezenas de revelações anunciaram o Juízo Final para a época moderna. Esta obra é uma enciclopédia do Espírito em que o leitor poderá encontrar um mundo repleto de novos reconhecimentos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572790499"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8572790497"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Eschatology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=edvcVMv06N4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=edvcVMv06N4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=edvcVMv06N4C&pg=PA193&dq=O+livro+das+princesas&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=edvcVMv06N4C&dq=O+livro+das+princesas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Livro_do_Ju%C3%ADzo_Final.html?hl=&id=edvcVMv06N4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=edvcVMv06N4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "delas, e todas igualmente belas. A rainha das flores, cujo nome é “Sif”, vive \u003cb\u003eno\u003c/b\u003e \u003cbr\u003e\nOlimpo e o seu contato com os mundos materiais é feito somente através das \u003cbr\u003e\n\u003cb\u003eprincesas\u003c/b\u003e das flores. As protetoras das fadinhas das flores pertencem aos povos \u003cbr\u003e\ndas&nbsp;..."
+   }
+  }
+ ]
+}

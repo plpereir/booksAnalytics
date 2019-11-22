@@ -1,0 +1,158 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0TVmvgAACAAJ",
+   "etag": "adnrMkQaaFA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0TVmvgAACAAJ",
+   "volumeInfo": {
+    "title": "PEPPA E A FESTA DO PIJAMA",
+    "authors": [
+     "MARK BAKER",
+     "NEVILE ASTLEY"
+    ],
+    "publishedDate": "2014-09-22",
+    "description": "É a primeira vez que Peppa vai a uma festa do pijama. Vai ser na casa de Zoe. A coisa mais importante de uma festa do pijama é... que você não pode pegar no sono! Mesmo em uma noite cheia de música, uma festa da meia-noite e histórias de medo, será que Peppa e seus amigos conseguirão ficar acordados?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516092712"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516092719"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0TVmvgAACAAJ&dq=Peppa+e+a+festa+do+pijama&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0TVmvgAACAAJ&dq=Peppa+e+a+festa+do+pijama&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PEPPA_E_A_FESTA_DO_PIJAMA.html?hl=&id=0TVmvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0TVmvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É a primeira vez que Peppa vai a uma festa do pijama."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "drY_DwAAQBAJ",
+   "etag": "QX3aWsAxA5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/drY_DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Peppa Pig: Revista de História 06",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-11-21",
+    "description": "Brinque com Peppa e suas amigas em uma divertida festa do pijama! p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Arial} span.s1 {letter-spacing: -0.5px}",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 20,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=drY_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=drY_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=drY_DwAAQBAJ&printsec=frontcover&dq=Peppa+e+a+festa+do+pijama&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=drY_DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-drY_DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=drY_DwAAQBAJ&rdid=book-drY_DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=drY_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Brinque com Peppa e suas amigas em uma divertida festa do pijama! p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Arial} span.s1 {letter-spacing: -0.5px}"
+   }
+  }
+ ]
+}

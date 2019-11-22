@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cTFosRP-ls4C",
+   "etag": "pHcYOP5eZ1E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cTFosRP-ls4C",
+   "volumeInfo": {
+    "title": "Violetas na janela",
+    "authors": [
+     "Vera Lúcia Marinzeck de Carvalho"
+    ],
+    "publisher": "Petit Editora e Distribuidor",
+    "publishedDate": "1993",
+    "description": "Com uma linguagem cativante, Patrícia conta como foi seu desencarne, aos 19 anos, e como é a vida no plano espiritual - como é a alimentação, a vestimenta e a sensação que teve ao rever a família.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857253010X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572530101"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 139,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 42,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cTFosRP-ls4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cTFosRP-ls4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cTFosRP-ls4C&printsec=frontcover&dq=isbn:9788572530101&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cTFosRP-ls4C&dq=isbn:9788572530101&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Violetas_na_janela.html?hl=&id=cTFosRP-ls4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cTFosRP-ls4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com uma linguagem cativante, Patrícia conta como foi seu desencarne, aos 19 anos, e como é a vida no plano espiritual - como é a alimentação, a vestimenta e a sensação que teve ao rever a família."
+   }
+  }
+ ]
+}

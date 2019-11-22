@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IGB8tgEACAAJ",
+   "etag": "x0BFgFVuw7M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IGB8tgEACAAJ",
+   "volumeInfo": {
+    "title": "Cinquenta Tons de Cinza",
+    "authors": [
+     "Shades Zico"
+    ],
+    "publisher": " ",
+    "publishedDate": "2007-05-11",
+    "description": "Quando Anastasia Steele entrevista o jovem empresário Christian Grey, descobre nele um homem atraente, brilhante e profundamente dominador. Ingênua e inocente, Ana se surpreende ao perceber que, a despeito da enigmática reserva de Grey, está desesperadamente atraída por ele. Incapaz de resistir à beleza discreta, à timidez e ao espírito independente de Ana, Grey admite que também a deseja - mas em seu próprios termos...",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IGB8tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IGB8tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IGB8tgEACAAJ&dq=isbn:9788580577730&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IGB8tgEACAAJ&dq=isbn:9788580577730&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cinquenta_Tons_de_Cinza.html?hl=&id=IGB8tgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IGB8tgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na voz de Christian, e através de seus pensamentos, reflexões e sonhos, E. L. James oferece uma nova perspectiva da história de amor que dominou milhares de leitores ao redor do mundo."
+   }
+  }
+ ]
+}

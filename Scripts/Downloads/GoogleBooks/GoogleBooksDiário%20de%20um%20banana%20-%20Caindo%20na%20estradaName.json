@@ -1,0 +1,677 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 8,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MTL1CAAAQBAJ",
+   "etag": "qmqGxrAwk/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MTL1CAAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Caindo na estrada",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley está de volta com confusões tamanho família! Uma viagem de carro em família tem tudo para ser algo muito divertido... ou não, ainda mais se for a família do Greg Heffley. A jornada começa cheia de promessas, mas logo sofre reviravoltas dramáticas. Banheiros de postos de gasolina, gaivotas ensandecidas, malas perdidas, um porco faminto... Mas até a viagem mais desastrosa pode virar uma grande aventura – e desta os Heffley não vão se esquecer tão cedo. #150 milhões de livros vendidos no mundo todo #Best-seller do New York Times #Um dos maiores fenômenos recentes da literatura infantojuvenil #Sucesso também nos cinemas Sobre o autor: Jeff Kinney cresceu em Washington, D. C. e atualmente mora no sul de Massachusetts com a mulher e seus dois filhos. Além de escrever, Jeff desenvolve e projeta jogos online. Ao contrário de seu personagem Greg Heffley, o autor não tem nada de \"banana\": a prova disso é que tem liderado a lista de livros mais vendidos do New York Times. Em 2009, Jeff foi escolhido como uma das 100 Pessoas Mais Influentes do Mundo pela revista Time. A série \"Diário de um Banana\" já foi traduzida para diversas línguas e é um sucesso no mundo todo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576838265"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576838265"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MTL1CAAAQBAJ&printsec=frontcover&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MTL1CAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&rdid=book-MTL1CAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=MTL1CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=MTL1CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MTL1CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas até a viagem mais desastrosa pode virar uma grande aventura – e desta os Heffley não vão se esquecer tão cedo. #150 milhões de livros vendidos no mundo todo #Best-seller do New York Times #Um dos maiores fenômenos recentes da ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mJhyDQAAQBAJ",
+   "etag": "2lHtE4nYPwY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mJhyDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Vai ou racha",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley nunca esteve tão perto da fama. Ouvir os conselhos de sua mãe sobre explorar seu lado criativo fez bem a ele. Agora, Greg está na banda da escola e poderá ir à festa de Dia das Bruxas mais bombada de todas. Será que ele conseguirá mostrar o quanto é maneiro e talentoso? Ou será que seu sonho vai rachar de vez?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550700618"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550700614"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mJhyDQAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mJhyDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&rdid=book-mJhyDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=mJhyDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=mJhyDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mJhyDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água Diário de ... Diário de um Banana: \u003cbr\u003e\nSegurando vela Diário de um Banana: Maré de azar \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cbr\u003e\n\u003cb\u003eCaindo na estrada\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GCDbCgAAQBAJ",
+   "etag": "RsscHOxe1ME",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GCDbCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Bons tempos",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "A vida era melhor antigamente. Pelo menos é o que dizem. Mas Greg Heffley, um garoto bastante acostumado ao conforto do mundo moderno, não concorda muito com isso. E uma decisão polêmica vai colocar o seu paraíso tecnológico em curto-circuito: todos em sua cidade decidem dar um tempo dos aparelhos eletrônicos. Dentro e fora de casa, Greg terá que enfrentar o dia a dia à moda antiga. Será que ele vai conseguir sobreviver do mesmo jeitinho que se fazia nos \"velhos e bons tempos\"?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576839446"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857683944X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GCDbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GCDbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GCDbCgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GCDbCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GCDbCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GCDbCgAAQBAJ&rdid=book-GCDbCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=GCDbCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=GCDbCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GCDbCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éocara Diário \u003cbr\u003e\nde um Banana: A gota d&#39;água Diário de ... Diário de um Banana: Segurando vela \u003cbr\u003e\nDiário de um Banana: Maré de azar \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eCaindo na estrada\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IZn0AQAAQBAJ",
+   "etag": "Yzf8HqCxIzw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IZn0AQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no ensino fundamental, onde fracotes subdesenvolvidos dividem os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, Greg nos conta as desventuras de sua vida escolar. Em busca de um pouco de popularidade (e também de um pouco de proteção), o garoto se envolve em uma série de situações que procura resolver de uma maneira muito particular. No primeiro livro da coleção, o autor e ilustrador Jeff Kinney nos apresenta um herói improvável e encantador. Um garoto comum às voltas com os desafios da puberdade",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835189"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835185"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IZn0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IZn0AQAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IZn0AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IZn0AQAAQBAJ&rdid=book-IZn0AQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=IZn0AQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=IZn0AQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IZn0AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CONHEÇA A SÉRIE 1 \u003cb\u003eDiário de um Banana\u003c/b\u003e 7 Segurando vela 2 Rodrick é o \u003cbr\u003e\ncara 8 Maré de azar 3 A gota d&#39;água 9 \u003cb\u003eCaindo na estrada\u003c/b\u003e 4 Dias de cão 10 Bons \u003cbr\u003e\ntempos 5 A verdade nua e crua 11 Vai ou racha 6 Casa dos horrores 12 Apertem\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TClpDwAAQBAJ",
+   "etag": "d7fcC/uX2Bw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TClpDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 13",
+    "subtitle": "Batalha neval",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2018-11-21",
+    "description": "Quando a neve fecha a escola, o bairro se transforma num verdadeiro campo de batalha invernal. Grupos rivais lutam por território, constroem enormes fortes de gelo e se envolvem em épicas guerras de bola de neve. Na linha de tiro estão Greg Heffley e seu fiel amigo Rowley Jefferson. Em luta pela sobrevivência, os dois soldados fazem e desfazem alianças e enredam-se em traições. Gangues em permanente estado de hostilidade vão derreter a vizinhança. E será que, quando a neve se liquefazer, Greg e Rowley surgirão como heróis? Ou não vão conseguir escapar dessa gelada?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550702483"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "855070248X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TClpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TClpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TClpDwAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TClpDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TClpDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TClpDwAAQBAJ&rdid=book-TClpDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.511E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_13-sample-epub.acsm?id=TClpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_13-sample-pdf.acsm?id=TClpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TClpDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CONHEÇA A SÉRIE 1 \u003cb\u003eDiário de um Banana\u003c/b\u003e 7 Segurando vela 2 Rodrick é o \u003cbr\u003e\ncara 8 Maré de azar 3 A gota d&#39;água 9 \u003cb\u003eCaindo na estrada\u003c/b\u003e 4 Dias de cão 10 Bons \u003cbr\u003e\ntempos 5 A verdade nua e crua 11 Vai ou racha 6 Casa dos horrores 12 Apertem\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yXNNAQAAIAAJ",
+   "etag": "7WI+CTlmQgY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yXNNAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Diario do Congresso Nacional",
+    "authors": [
+     "Brazil. Congresso Nacional"
+    ],
+    "publishedDate": "1975-03",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105117555289"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yXNNAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yXNNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yXNNAQAAIAAJ&q=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yXNNAQAAIAAJ&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_do_Congresso_Nacional.html?hl=&id=yXNNAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yXNNAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... pelo mercado paulista, onde os produtores do Paraná também descarregavam \u003cbr\u003e\nsuas produções, e com isto os preços foram \u003cb\u003ecaindo\u003c/b\u003e. ... o seu produto a troco de “\u003cbr\u003e\ncascas de \u003cb\u003ebanana\u003c/b\u003e”, o consumiour dos centros urbanos paga pelos mesmos \u003cbr\u003e\nprodutos preços astronômicos. ... água e não por \u003cb\u003eestrada\u003c/b\u003e — portanto, \u003cb\u003eestrada\u003c/b\u003e na \u003cbr\u003e\nAmazônia 0484 Quinta-feira 3 Abril de 1975 \u003cb\u003eDIÁRIO\u003c/b\u003e DO CONGRESSO \u003cbr\u003e\nNACIONAL."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "euYZAQAAMAAJ",
+   "etag": "yyGl01r2Wbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/euYZAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Anais da Câmara dos deputados",
+    "publishedDate": "1987",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000017652575"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=euYZAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=euYZAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=euYZAQAAMAAJ&q=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=euYZAQAAMAAJ&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Anais_da_C%C3%A2mara_dos_deputados.html?hl=&id=euYZAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=euYZAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os filhos Lauro, Ladair e Dornelles, foram aos poucos \u003cb\u003ecaindo na estrada\u003c/b\u003e. ... \u003cbr\u003e\nLadair voltou a ser caminoneiro e foi-se pelas \u003cb\u003eestradas\u003c/b\u003e argentinas, com cargas \u003cbr\u003e\nde \u003cb\u003ebanana\u003c/b\u003e e maçã. ... várias indústrias; alargou o campo das comunicações \u003cbr\u003e\ngraças ao jornal &quot;\u003cb\u003eDiário\u003c/b\u003e do Nordeste&quot;, a Televisão Verdes Mares e à Rádio \u003cbr\u003e\nVerdes Mares;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zuhMAAAAMAAJ",
+   "etag": "jUXIuDH/hbQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zuhMAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Diário dos trabalhos revisionais",
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173002354858"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zuhMAAAAMAAJ&q=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zuhMAAAAMAAJ&dq=Di%C3%A1rio+de+um+banana+-+Caindo+na+estrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_dos_trabalhos_revisionais.html?hl=&id=zuhMAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zuhMAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cascas de \u003cb\u003eBanana\u003c/b\u003e A resposta a FHC foi um Paim provocador e uma sucessão \u003cbr\u003e\nde obstáculos e cascas-de-\u003cb\u003ebanana\u003c/b\u003e de outros, ... \u003cb\u003eCaindo\u003c/b\u003e, inicia-se o período \u003cbr\u003e\njurássico de delírios partidários. ... Teremos o jocundo Amin, abrindo \u003cb\u003eestrada\u003c/b\u003e \u003cbr\u003e\npara Maluí com piadas demoníacas (&quot;O Governo fez acordo com o diabo O diabo \u003cbr\u003e\nnão&nbsp;..."
+   }
+  }
+ ]
+}

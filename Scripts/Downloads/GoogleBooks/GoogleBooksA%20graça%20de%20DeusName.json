@@ -1,0 +1,866 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eCxTAAAAMAAJ",
+   "etag": "uraCQrky2jI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eCxTAAAAMAAJ",
+   "volumeInfo": {
+    "title": "A graca de Deus",
+    "publishedDate": "1945",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023403623"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eCxTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eCxTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eCxTAAAAMAAJ&q=A+gra%C3%A7a+de+Deus&dq=A+gra%C3%A7a+de+Deus&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eCxTAAAAMAAJ&dq=A+gra%C3%A7a+de+Deus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_graca_de_Deus.html?hl=&id=eCxTAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eCxTAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qFCDVupiq1AC",
+   "etag": "tgL4Qk+ykG4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qFCDVupiq1AC",
+   "volumeInfo": {
+    "title": "A graça de Deus",
+    "subtitle": "Quem disse que humor e espiritualidade não podem caminhar juntos?",
+    "authors": [
+     "Reverendo Aldo Quintão"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2012-10-26",
+    "description": "Em A graça de Deus, um dos religiosos brasileiros mais importantes da atualidade lança uma renovada luz sobre questões da vida moderna. Com muito bom humor e várias histórias divertidas, reverendo Aldo Quintão fala de assuntos como solidariedade, justiça, respeito e igualdade. Sua visão inclusiva e livre de preconceitos nos faz repensar nossas atitudes, mostrando que alegria e fé não apenas combinam, mas também se complementam. Nascido numa comunidade pobre, com pouquíssimos recursos além do amor e da fraternidade, reverendo Aldo aprendeu que o bom humor e o amor de Deus são capazes de transformar a vida de qualquer um, em qualquer circunstância – e é esta a mensagem que propaga em seu ministério.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575428603"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575428608"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.21.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qFCDVupiq1AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qFCDVupiq1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qFCDVupiq1AC&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qFCDVupiq1AC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qFCDVupiq1AC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qFCDVupiq1AC&rdid=book-qFCDVupiq1AC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.899E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_gra%C3%A7a_de_Deus-sample-epub.acsm?id=qFCDVupiq1AC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_gra%C3%A7a_de_Deus-sample-pdf.acsm?id=qFCDVupiq1AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qFCDVupiq1AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em A graça de Deus, um dos religiosos brasileiros mais importantes da atualidade lança uma renovada luz sobre questões da vida moderna."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pdldAgAAQBAJ",
+   "etag": "kAWgtfP3TqU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pdldAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Tratado das Doutrinas da Graça de Deus",
+    "subtitle": "",
+    "authors": [
+     "Ap. Miguel Ângelo da Silva Ferreira"
+    ],
+    "publisher": "Igreja Evangélica Cristo Vive",
+    "publishedDate": "2008-12-09",
+    "description": "Nos tempos finais em que vivemos, faz-se necessária uma maturidade cristã, a sabedoria própria do cristão com olhos iluminados pelo Espírito Santo. Este estudo abrange vinte e nove temas que fazem parte da Doutrina da Graça de Deus. É desejo do Apóstolo Miguel Ângelo que todos os cristãos estejam integrados com a Verdade do Evangelho de Cristo – os Mistérios Revelados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788589085816"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8589085813"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pdldAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pdldAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pdldAgAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pdldAgAAQBAJ&dq=A+gra%C3%A7a+de+Deus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tratado_das_Doutrinas_da_Gra%C3%A7a_de_Deus.html?hl=&id=pdldAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pdldAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este estudo abrange vinte e nove temas que fazem parte da Doutrina da Graça de Deus. É desejo do Apóstolo Miguel Ângelo que todos os cristãos estejam integrados com a Verdade do Evangelho de Cristo – os Mistérios Revelados."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wK9lDwAAQBAJ",
+   "etag": "AQI3Md/F6X8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wK9lDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Bíblico Graça de Deus",
+    "subtitle": "O Evangelho da Graça de Deus",
+    "authors": [
+     "paulo hott"
+    ],
+    "publisher": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA",
+    "publishedDate": "2018-07-20",
+    "description": "O Evangelho da graça de Deus ou Dispensação é a maneira como Deus trata com o homem durante um determinado período de tempo, quando o homem é provado e testado quanto à obediência a certas revelações definidas da vontade de Deus.Por exemplo, desde os dias de Moisés até Cristo o homem foi provado sob a Lei. O período atual é chamado de 'dispensação da graça de Deus' (Ef 3.2). No Milênio o homem será provado sob o reinado pessoal de Cristo, sem a presença de um tentador (Satanás). É a chamada 'dispensação da plenitude dos tempos' (Ef 1.10). Existem ao todo sete dispensações nas quais o homem tem sido provado: em inocência, em consciência (da expulsão do jardim do Éden ao dilúvio), em autoridade ou governo (do dilúvio a Abraão), sob a promessa (de Abraão a Lei), sob a Lei (da Lei a Cristo), sob a graça.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781526005595"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "152600559X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 34,
+    "printType": "BOOK",
+    "categories": [
+     "Bibles"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wK9lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wK9lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wK9lDwAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wK9lDwAAQBAJ&dq=A+gra%C3%A7a+de+Deus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/B%C3%ADblico_Gra%C3%A7a_de_Deus.html?hl=&id=wK9lDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/B%C3%ADblico_Gra%C3%A7a_de_Deus-sample-epub.acsm?id=wK9lDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/B%C3%ADblico_Gra%C3%A7a_de_Deus-sample-pdf.acsm?id=wK9lDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wK9lDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Evangelho da graça de Deus ou Dispensação é a maneira como Deus trata com o homem durante um determinado período de tempo, quando o homem é provado e testado quanto à obediência a certas revelações definidas da vontade de Deus ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "btcnDwAAQBAJ",
+   "etag": "3NcfvP9vpwM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/btcnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Justiça generosa",
+    "subtitle": "A graça de Deus e a justiça social",
+    "authors": [
+     "Tim Keller"
+    ],
+    "publisher": "Sociedade Religiosa Edições Vida Nova",
+    "publishedDate": "2017-06-13",
+    "description": "Justiça social tem a ver com teologia da libertação? Com missão integral? Ou com a pura e simples graça de Deus? Nesta obra Tim Keller analisa a fundamental relação entre evangelho e justiça e nos dá uma visão bíblica de justiça social. Ele nos mostra que a preocupação com a justiça em todos os aspectos da vida não é acréscimo artificial nem contradição à mensagem das Escrituras, pois a Bíblia é a verdadeira base da justiça.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788527507462"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8527507463"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=btcnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=btcnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=btcnDwAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=btcnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-btcnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=btcnDwAAQBAJ&rdid=book-btcnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Justi%C3%A7a_generosa-sample-epub.acsm?id=btcnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Justi%C3%A7a_generosa-sample-pdf.acsm?id=btcnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=btcnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com missão integral? Ou com a pura e simples graça de Deus? Nesta obra Tim Keller analisa a fundamental relação entre evangelho e justiça e nos dá uma visão bíblica de justiça social."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aqg3DwAAQBAJ",
+   "etag": "XjJH/xJrFyk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aqg3DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A maravilhosa graça de Deus",
+    "authors": [
+     "Silas Malafaia"
+    ],
+    "publisher": "Editora Central Gospel",
+    "publishedDate": "2017-09-15",
+    "description": "O que é graça? Como Deus manifesta Sua multiforme graça ao homem, permitindo que este seja alguém, transponha adversidades, conquiste vitórias nesta terra, avance e cresça em todas as áreas da sua vida? Com base em 1 Pedro 5.10 e em outros textos bíblicos, o autor deste livro nos convida a refletir sobre essas e outras questões , que nos permitirão concluir que a graça de Deus em nossa vida nos faz suportar as aflições do presente e ter esperança quanto ao futuro, pois é suficiente para nos guardar do mal; suprir extremas necessidades , provendo muito além daquilo que pedimos ou pensamos, e mudando o rumo da nossa história.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576895770"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576895773"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aqg3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aqg3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aqg3DwAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aqg3DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aqg3DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aqg3DwAAQBAJ&rdid=book-aqg3DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.19E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_maravilhosa_gra%C3%A7a_de_Deus-sample-epub.acsm?id=aqg3DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_maravilhosa_gra%C3%A7a_de_Deus-sample-pdf.acsm?id=aqg3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aqg3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O que é graça?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "spW0DQAAQBAJ",
+   "etag": "n9CYke35wSw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/spW0DQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Maravilhosa Graça de Deus",
+    "authors": [
+     "Ellen G. White"
+    ],
+    "publisher": "Publicadora Servir / Pedro Sepúlveda",
+    "publishedDate": "2016-12-13",
+    "description": "\"A Maravilhosa Graça de Deus\" é uma coletânea de textos sobre a graça, que Ellen White descreve como o “atributo de Deus imerecidamente manifestado para com os seres humanos”. Recolhidos de livros e das publicações Review and Herald, Signs of the Times e Youth’s Instructor, estão agora reunidos em Meditações Matinais, para que, diariamente, cada leitor usufrua, pela manhã, da presença da maravilhosa graça, aceitando o convite de Deus para um verdadeiro relacionamento de intimidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898799210"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898799218"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=spW0DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=spW0DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=spW0DQAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=spW0DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-spW0DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.32,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.32,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=spW0DQAAQBAJ&rdid=book-spW0DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.932E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.932E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Maravilhosa_Gra%C3%A7a_de_Deus-sample-epub.acsm?id=spW0DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Maravilhosa_Gra%C3%A7a_de_Deus-sample-pdf.acsm?id=spW0DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=spW0DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;A Maravilhosa Graça de Deus&quot; é uma coletânea de textos sobre a graça, que Ellen White descreve como o “atributo de Deus imerecidamente manifestado para com os seres humanos”."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YG_SAQAACAAJ",
+   "etag": "oN9K9FNfv3c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YG_SAQAACAAJ",
+   "volumeInfo": {
+    "title": "A Graça de Deus e o Mercado da Fé",
+    "subtitle": "Perspectivas teológicas",
+    "authors": [
+     "José Neivaldo Souza"
+    ],
+    "publishedDate": "2017-04-07",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3330762969"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783330762961"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YG_SAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YG_SAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YG_SAQAACAAJ&dq=A+gra%C3%A7a+de+Deus&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YG_SAQAACAAJ&dq=A+gra%C3%A7a+de+Deus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Gra%C3%A7a_de_Deus_e_o_Mercado_da_F%C3%A9.html?hl=&id=YG_SAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YG_SAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PtdqDwAAQBAJ",
+   "etag": "3Y3tkDaDNtM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PtdqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Estudos bíblicos expositivos em Ester e Rute",
+    "subtitle": "A graça de Deus em favor dos marginalizados e indignos",
+    "authors": [
+     "Iain M. Duguid"
+    ],
+    "publisher": "Editora Cultura Cristã (Casa Editora Presbiteriana)",
+    "publishedDate": "2018-08-24",
+    "description": "\"Esta exposição é um favo de mel, doçura para a alma e cura para os ossos. O autor dá-nos uma boa dose de teologia saudável de modo relevante. De agora em diante vou exigir meus alunos a ler este comentário envolvente para sua edificação e alegria.\" Bruce Waltke",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576227090"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576227096"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PtdqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PtdqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PtdqDwAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PtdqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PtdqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PtdqDwAAQBAJ&rdid=book-PtdqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estudos_b%C3%ADblicos_expositivos_em_Ester_e-sample-epub.acsm?id=PtdqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estudos_b%C3%ADblicos_expositivos_em_Ester_e-sample-pdf.acsm?id=PtdqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PtdqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Esta exposição é um favo de mel, doçura para a alma e cura para os ossos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H3yeAwAAQBAJ",
+   "etag": "vbDbg2wrW1U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H3yeAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Inesperada graça",
+    "subtitle": "Descubra Deus na história de sua vida",
+    "authors": [
+     "Gary Chapman"
+    ],
+    "publisher": "Editora Mundo Cristão",
+    "publishedDate": "2014-01-01",
+    "description": "A busca por Deus pode se revelar uma jornada frustrante quando nos sujeitamos a padrões inalcançáveis de santidade. Erroneamente, costumamos mirar os diversos personagens bíblicos como modelos de perfeição, quando na realidade são pessoas comuns, com virtudes e defeitos, que passaram por experiências extraordinárias. Basta olhar para os personagens que fazem parte da genealogia de Jesus para perceber que o Criador escolheu pessoas como você, mas que, ao serem alcançadas pela graça divina, tiveram participação decisiva na história da humanidade. E o que fizeram para se tornar merecedoras da graça? Nada. A graça de Deus transformou imperfeição em perfeição, aos olhos do Criador. Inesperada graça resgata as histórias desses homens e dessas mulheres da linhagem de Jesus que nos inspiram e desafiam com seus anseios, suas contradições, vitórias e derrotas. São relatos de amor, perdão, aceitação e restauração. São histórias reais que podem ser a sua história.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573259964"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573259965"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H3yeAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H3yeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H3yeAwAAQBAJ&printsec=frontcover&dq=A+gra%C3%A7a+de+Deus&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H3yeAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H3yeAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H3yeAwAAQBAJ&rdid=book-H3yeAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.1E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.814E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Inesperada_gra%C3%A7a-sample-epub.acsm?id=H3yeAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Inesperada_gra%C3%A7a-sample-pdf.acsm?id=H3yeAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H3yeAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inesperada graça resgata as histórias desses homens e dessas mulheres da linhagem de Jesus que nos inspiram e desafiam com seus anseios, suas contradições, vitórias e derrotas."
+   }
+  }
+ ]
+}

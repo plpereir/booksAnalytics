@@ -1,0 +1,801 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 300,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VMc2DwAAQBAJ",
+   "etag": "AHQ2N7nlq+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VMc2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "7 passos para ser um líder de vendas",
+    "subtitle": "A inteligência emocional e o modelo de gestão para potencializar seus resultados",
+    "authors": [
+     "Alexandre Lacava"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2017-10-06",
+    "description": "SEJA UM LÍDER DE VENDAS: OS SETE PASSOS PARA SE DESTACAR NO MERCADO E CHEGAR AO TOPO DAS VENDAS Metas cada vez mais agressivas, resultados desafiadores e o desejo constante de crescer. Este é o resumo da vida do profissional de vendas, especialmente daquele que almeja o posto e o reconhecimento de liderança. Chegar a este lugar do pódio, no entanto, exige conhecimento, habilidades e práticas que englobam mais do que a sua capacidade de fechar negócio: é preciso um modelo de gestão eficiente e inteligência emocional para potencializar seus resultados e sua atuação. O passo a passo para trilhar este caminho é o compromisso do autor neste livro. Com Alexandre Lacava você aprenderá: - Os verdadeiros desafios da liderança em vendas e como superá-los; - Os pilares para construir um método de vendas sustentável, que permita a realização das suas metas com mais eficiência; - Como aplicar pressão na medida certa e construir uma cultura de crescimento para toda a equipe; - Como receber e oferecer feedbacks que aprimorem os resultados; - Os fundamentos e as práticas para uma gestão próspera e assertiva. Torne-se muito mais do que jamais imaginou, seja um líder de sucesso!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202042"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202040"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VMc2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VMc2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VMc2DwAAQBAJ&printsec=frontcover&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VMc2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VMc2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VMc2DwAAQBAJ&rdid=book-VMc2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.795E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/7_passos_para_ser_um_l%C3%ADder_de_vendas-sample-epub.acsm?id=VMc2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/7_passos_para_ser_um_l%C3%ADder_de_vendas-sample-pdf.acsm?id=VMc2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VMc2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com Alexandre Lacava você aprenderá: - Os verdadeiros desafios da liderança em vendas e como superá-los; - Os pilares para construir um método de vendas sustentável, que permita a realização das suas metas com mais eficiência; - ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Aa3iiS18yM8C",
+   "etag": "7WGR112K0CQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Aa3iiS18yM8C",
+   "volumeInfo": {
+    "title": "Manual de habilidades do líder",
+    "subtitle": "Fundamentos para se tornar um grande líder",
+    "authors": [
+     "Jo Owen"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2012-09-27",
+    "description": "A maioria dos livros sobre liderança tenta responder à pergunta “O que é uma boa liderança?”, como tentar responder à pergunta “Como são as pessoas?”; As discussões resultantes geram mais contradições do que esclarecimentos, já que os líderes, da mesma forma que as pessoas, têm opiniões diferentes para muitas questões; Este livro é diferente; Ele começa com uma questão: “Como você pode aprender a liderar?”; Jo Owen, autor campeão de vendas, revela as habilidades essenciais necessárias para ser um líder eficaz; Ele se dedica a mostrar o que funciona na prática, e não na teoria; As habilidades são apresentadas de maneira concisa e de fácil aplicação e dizem respeito aos desafios concretos enfrentados pelos líderes no seu trabalho do dia a dia; Leitura enriquecedora, que vai muito além das aptidões técnicas de um líder; inclui o desenvolvimento das habilidades interpessoais, dos comportamentos e dos valores necessários para o seu sucesso na liderança; Repleto de dicas, exercícios e sabedoria prática, este livro o ajudará a se transformar em um líder que as pessoas vão querer seguir;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535257137"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535257136"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Aa3iiS18yM8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Aa3iiS18yM8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Aa3iiS18yM8C&pg=PA56&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Aa3iiS18yM8C&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manual_de_habilidades_do_l%C3%ADder.html?hl=&id=Aa3iiS18yM8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Aa3iiS18yM8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fundamentos para \u003cb\u003ese tornar\u003c/b\u003e um grande \u003cb\u003elíder\u003c/b\u003e Jo Owen. 3.3. ... Veja abaixo um \u003cbr\u003e\nciclo de \u003cb\u003evendas\u003c/b\u003e clássico de sete \u003cb\u003epassos\u003c/b\u003e: 1. ... \u003cb\u003e7\u003c/b\u003e. Fechar a \u003cb\u003evenda\u003c/b\u003e. Mantenha-se \u003cbr\u003e\natento a reações em cada estágio do processo. O ciclo pode levar de 30 \u003cbr\u003e\nsegundos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zAx2KnwcESoC",
+   "etag": "DfWDRiWJjqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zAx2KnwcESoC",
+   "volumeInfo": {
+    "title": "Administração de Marketing no Brasil",
+    "authors": [
+     "MARCOS COBRA"
+    ],
+    "publisher": "Marcos Cobra Editora Ltda",
+    "description": "Entre as novidades desta edição, o capitulo 22 apresenta novas ferramentas para conquistar os mercados baixa renda, luxo e entretenimento. O caso 'Casas Bahia', mostra porque ela é referência mundial na forma de conquistar o mercado de baixa renda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585536466"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8585536462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 430,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zAx2KnwcESoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zAx2KnwcESoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zAx2KnwcESoC&pg=PA382&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zAx2KnwcESoC&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Administra%C3%A7%C3%A3o_de_Marketing_no_Brasil.html?hl=&id=zAx2KnwcESoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zAx2KnwcESoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Administração de \u003cb\u003eVendas\u003c/b\u003e. ... Os \u003cb\u003e7 passos\u003c/b\u003e da \u003cb\u003evenda\u003c/b\u003e. ... Avon A Avon A Avon A \u003cbr\u003e\nAvon é \u003cb\u003elíder\u003c/b\u003e mundial em \u003cb\u003evendas\u003c/b\u003e diretas de produtos para o toucador, com \u003cbr\u003e\nfaturamento anual de US$ 5,7 bilhões. ... Associar um poeta popular, mesmo \u003cbr\u003e\nsendo aquele que dizia para as mulheres que o amor deve \u003cb\u003eser\u003c/b\u003e eterno enquanto \u003cbr\u003e\ndure - idéia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "75eKDwAAQBAJ",
+   "etag": "o4THBRGer9Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/75eKDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia Para Se Tornar a Mosca Branca em Vendas: 7 Lições Para Construir Relacionamentos Com Clientes e Obter Resultados",
+    "authors": [
+     "Raphael Chagas"
+    ],
+    "publisher": "Appris Editora e Livraria Eireli - ME",
+    "publishedDate": "2019-02-27",
+    "description": "Moscas Brancas são insetos raros. Difíceis de se ver. Talvez você nunca tenha visto uma. Quando vemos, além de marcantes, transformam nossa percepção de um inseto comum em um momento de raridade. Queremos observar, admirar e mesmo entender como se tornaram únicas. Neste estudo, transformaremos sua capacidade comum em habilidades raras que só você tem. Um profissional com diferenciação. Raro de se ver. Seu talento será exercitado diariamente e, com isso, criará oportunidades de construir uma brilhante carreira. O material apresenta 7 lições simples para atuar com diferencial nesse mercado competitivo, transformando-se na Mosca Branca em Vendas! Autor e leitor constroem esse percurso, com um Mapa Estratégico profissional e pessoal a ser preenchido durante a leitura, formatando seu Plano de Ação para alavancar resultados e conseguir aplicar os conhecimentos assim que se completa cada lição. Aqui são abordados conceitos contemporâneos da indústria do serviço, com orientação do uso de ferramentas e indicadores de desempenho, tais como Ticket Médio, Peças por Atendimento e Taxa de Conversão, além de dicas para melhoria da produtividade. Escrito para vendedores de lojas, shopping centers, óticas, hotéis, agências de viagens, hospitais, restaurantes, bares e para todos que atuam com o atendimento de pessoas no fechamento de vendas. Com linguagem acessível e metodologias embasadas em Princípios Socráticos, Construtivismo, Design Thinking e Andragogia, esta obra é proposta de forma gráfica e visual, estimulando a cinestesia, o pensamento crítico e a tomada de decisão. Nela você encontrará questões exploratórias para apoiarem na construção do Caminho e do Valor na Experiência Vivida – pessoal, profissional e cultural –, desenhando o saber e estimulando o fazer, na busca constante de decisões sábias para a ação coletiva inovadora. Disso decorrerão resultados para a vida, para a comunidade e para a empresa em que atua.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547328825"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547328823"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 113,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=75eKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=75eKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=75eKDwAAQBAJ&pg=PT64&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=75eKDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-75eKDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=75eKDwAAQBAJ&rdid=book-75eKDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.6E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.6E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guia_Para_Se_Tornar_a_Mosca_Branca_em_Ve-sample-epub.acsm?id=75eKDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=75eKDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "QUADRO DE GESTÃO À VISTA: Ferramenta de trabalho mais comum para \u003cbr\u003e\nequipes de \u003cb\u003evenda\u003c/b\u003e. Ele é um quadro ... Certifique, junto aos \u003cb\u003elíderes\u003c/b\u003e do PDV, se a \u003cbr\u003e\nescala está completa para aproveitarmos toda a demanda. AVALIAÇÕES DE&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vWvcAAAAQBAJ",
+   "etag": "e18IxHWPO6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vWvcAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Suba a escada",
+    "subtitle": "7 passos para alcançar o verdadeiro sucesso",
+    "authors": [
+     "Rory Vaden"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-08-01",
+    "description": "Não importa como você define o sucesso, ele sempre exige uma coisa: autodisciplina. Porém, como explica o palestrante e estrategista Rory Vaden, vivemos no mundo da escada rolante , um mundo repleto de atalhos, arranjos rápidos e distrações, que fazem tudo facilmente derrapar para a procrastinação, acomodação e mediocridade. O que parece um caminho mais fácil acaba sendo bem mais difícil e, mais importante, não o levará aonde você quer ir. Como é que as pessoas bem-sucedidas se mantêm focadas e alcançam resultados? Este guia sagaz e criterioso apresenta um programa simples para se optar pela escada, ou seja, superar as tentações de arranjos rápidos e procrastinação, vencendo a esquiva criativa e transcendendo reveses pessoais, de modo a enfrentar o trabalho que conduz ao verdadeiro sucesso. Sejam quais forem os seus objetivos, a abordagem comprovada de Rory Vaden irá levá-lo até lá um degrau de cada vez.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580448887"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580448883"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.18.17.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vWvcAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vWvcAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vWvcAAAAQBAJ&pg=PT157&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vWvcAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vWvcAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vWvcAAAAQBAJ&rdid=book-vWvcAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Suba_a_escada-sample-epub.acsm?id=vWvcAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vWvcAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003e7 passos\u003c/b\u003e para alcançar o verdadeiro sucesso Rory Vaden ... Obrigado, Dave, por \u003cbr\u003e\n\u003cb\u003eser\u003c/b\u003e um gênio e por \u003cb\u003eser\u003c/b\u003e meu mentor, através da criação e idealização da \u003cbr\u003e\nmensagem e marca de Optar pela Escada. ... Aos incríveis alunos e \u003cb\u003eLíderes\u003c/b\u003e \u003cbr\u003e\nDistritais de \u003cb\u003eVendas\u003c/b\u003e do programa estudantil da Southwestern, vocês são uma \u003cbr\u003e\ncoleção dos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_7KremoyaQ0C",
+   "etag": "4mcrijYtGUE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_7KremoyaQ0C",
+   "volumeInfo": {
+    "title": "Decidindo o caminho: liderança passo a passo",
+    "authors": [
+     "Frederico Zornig"
+    ],
+    "publisher": "NBL Editora",
+    "description": "O livro apresenta-nos Frederico Zornig, renomado administrador, a nos ensinar o caminho do sucesso pessoal e profissional. Aliando ética, trabalho em equipe e coragem, Frederico Zornig mostra-nos como ser um excelente líder e triplicar as vendas sem ferir",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8521313292"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788521313298"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 111,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_7KremoyaQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_7KremoyaQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_7KremoyaQ0C&printsec=frontcover&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_7KremoyaQ0C&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Decidindo_o_caminho_lideran%C3%A7a_passo_a_p.html?hl=&id=_7KremoyaQ0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_7KremoyaQ0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro apresenta-nos Frederico Zornig, renomado administrador, a nos ensinar o caminho do sucesso pessoal e profissional."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pztODwAAQBAJ",
+   "etag": "ALpIyYMS2JY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pztODwAAQBAJ",
+   "volumeInfo": {
+    "title": "7 princípios do líder revolucionário",
+    "subtitle": "",
+    "authors": [
+     "Hugh Blane"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2018-05-07",
+    "description": "Seus funcionários podem ser os mais talentosos do mundo, mas você jamais alcançará resultados marcantes se não transformar o mindset deles. Para tornar-se um líder revolucionário, é preciso mais do que estratégias corporativas, planos de vendas ou pesquisas de mercado: é necessário que cada líder e membro da equipe decida no que focar, acreditar ou criar para si e para os outros. 7 princípios do líder revolucionário apresenta conceitos fundamentais cuja implementação resultará num aumento radical em termos de lucro, performance e relacionamento interpessoal. Com este livro, os líderes aprenderão a:• Viver sua vida profissional e pessoal com paixão e objetivos extraordinários;• Executar prioridades estratégicas de modo mais eficaz, obtendo resultados mais rápidos;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550303062"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550303062"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pztODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pztODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pztODwAAQBAJ&printsec=frontcover&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pztODwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pztODwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pztODwAAQBAJ&rdid=book-pztODwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.19E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/7_princ%C3%ADpios_do_l%C3%ADder_revolucion%C3%A1rio-sample-epub.acsm?id=pztODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/7_princ%C3%ADpios_do_l%C3%ADder_revolucion%C3%A1rio-sample-pdf.acsm?id=pztODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pztODwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para tornar-se um líder revolucionário, é preciso mais do que estratégias corporativas, planos de vendas ou pesquisas de mercado: é necessário que cada líder e membro da equipe decida no que focar, acreditar ou criar para si e para ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sylrDwAAQBAJ",
+   "etag": "W5ljoCtv5RY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sylrDwAAQBAJ",
+   "volumeInfo": {
+    "title": "INTELIGÊNCIA EM VENDAS -",
+    "authors": [
+     "MARCELO CASSIANO ORTEGA"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Inteligência em Vendas é um manual para todos aqueles que lideram equipes comerciais e que precisam melhorar processos e a forma de conduzir e mobilizar a equipe de vendedores ao resultado.Por tratar das competências essenciais para um líder comercial completo, é um livro com abordagem funcional e aplicável a qualquer empresa ou negócio, independente de seu porte, tamanho ou ramo de atividade. Empreendedores, empresários, diretores, gerentes e supervisores de vendas se beneficiarão com a praticidade dos termos e técnicas apresentadas, sempre exemplificadas pelo autor, que vive no mundo das vendas como um dos mais requisitados especialistas do Brasil.Marcelo Ortega apresenta de maneira inédita e objetiva todas as atitudes de liderança e habilidades gerenciais que aprendeu em sua carreira, com enfoque em formação, desenvolvimento e direção comercial. Mostra também que vendedores gostam de ser liderados por quem trabalha junto com eles e os ajuda a vender mais e melhor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502100855"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502100858"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sylrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sylrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sylrDwAAQBAJ&printsec=frontcover&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sylrDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sylrDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sylrDwAAQBAJ&rdid=book-sylrDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/INTELIG%C3%8ANCIA_EM_VENDAS-sample-epub.acsm?id=sylrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sylrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Empreendedores, empresários, diretores, gerentes e supervisores de vendas se beneficiarão com a praticidade dos termos e técnicas apresentadas, sempre exemplificadas pelo autor, que vive no mundo das vendas como um dos mais requisitados ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9oQtKgL-rRQC",
+   "etag": "r+ui21YV83Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9oQtKgL-rRQC",
+   "volumeInfo": {
+    "title": "O Lider",
+    "publisher": "IBRASA",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9oQtKgL-rRQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9oQtKgL-rRQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9oQtKgL-rRQC&pg=PA2&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9oQtKgL-rRQC&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Lider.html?hl=&id=9oQtKgL-rRQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9oQtKgL-rRQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Volumes publicados: O \u003cb\u003eLÍDER\u003c/b\u003e CtP-BraalL Catalogaçao-na-Publlcaçio Câmara \u003cbr\u003e\nBrasileira de Livro, SP Gilbert,. 1. ... TNT— Nossa Forca Interior Harold Sherman/\u003cbr\u003e\nC. Bristol \u003cb\u003e7\u003c/b\u003e. 0 Segredo da ... \u003cb\u003eVenda\u003c/b\u003e Mais e Melhor W. K. Lewis 12. A Chave do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L9OHix9yD_oC",
+   "etag": "iSeB2CSylVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L9OHix9yD_oC",
+   "volumeInfo": {
+    "title": "O Lider 3",
+    "publisher": "IBRASA",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L9OHix9yD_oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L9OHix9yD_oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=L9OHix9yD_oC&pg=PA159&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=L9OHix9yD_oC&dq=7+passos+para+ser+um+l%C3%ADder+de+vendas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Lider_3.html?hl=&id=L9OHix9yD_oC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L9OHix9yD_oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "TNT - Nossa Força Interior H. Sherman/C. Bristol \u003cb\u003e7\u003c/b\u003e. O Segredo da Eficiência \u003cbr\u003e\nPessoal Donald ... \u003cb\u003eVenda\u003c/b\u003e Mais e Melhor W. K. Lewis 12. A Chave do Sucesso \u003cbr\u003e\nW. G. Damroth 13. ... 0 \u003cb\u003eLíder\u003c/b\u003e - Volume 1 llie Gilbert 37. Gerência de Lojas \u003cbr\u003e\nConstantino&nbsp;..."
+   }
+  }
+ ]
+}

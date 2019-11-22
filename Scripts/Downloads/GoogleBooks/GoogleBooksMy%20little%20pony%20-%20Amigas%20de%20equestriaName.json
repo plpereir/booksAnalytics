@@ -1,0 +1,283 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 4,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RqHLswEACAAJ",
+   "etag": "lLIo7GpooZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RqHLswEACAAJ",
+   "volumeInfo": {
+    "title": "My Little Pony - Amigas De Equestria",
+    "authors": [
+     "Ciranda Cultural"
+    ],
+    "publishedDate": "2017-09-04",
+    "description": "Ponyville é um lugar mágico onde vivem pôneis muito especiais. Conheça Twilight Sparkle, Pinkie Pie, Rainbow Dash, Applejack, Rarity e Fluttershy e aprenda um pouco sobre essas amigas encantadoras!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8538070479"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538070474"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RqHLswEACAAJ&dq=My+little+pony+-+Amigas+de+equestria&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RqHLswEACAAJ&dq=My+little+pony+-+Amigas+de+equestria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/My_Little_Pony_Amigas_De_Equestria.html?hl=&id=RqHLswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RqHLswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ponyville é um lugar mágico onde vivem pôneis muito especiais. COnheça Twilight Sparkle, Pinkie Pie, Rainbow Dash, Applejack, Rarity e Fluttershy e aprenda um pouco sobre essas amigas encantadoras!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Oh83DwAAQBAJ",
+   "etag": "Vf4/5hI0eY4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Oh83DwAAQBAJ",
+   "volumeInfo": {
+    "title": "My Little Pony Equestria Girls 02 – História em Quadrinhos",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-09-25",
+    "description": "Depois de Sunset Shimmer se render à Magia da Amizade, tudo parecia ir bem no colégio Canterlot High. Mas, não por muito tempo: um trio de criaturas misteriosas tinha um plano maligno para dominar as mentes de todos os alunos e usar a magia a seu favor, semeando a discórdia. Agora, Rainbow Dash, Fluttershy, Pinkie Pie, Rarity e Applejack vão precisar da ajuda da Princesa Twilight Sparkle para restaurar a paz neste mundo – com muita música, é claro!",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 36,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Oh83DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Oh83DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Oh83DwAAQBAJ&pg=PA12&dq=My+little+pony+-+Amigas+de+equestria&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Oh83DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Oh83DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Oh83DwAAQBAJ&rdid=book-Oh83DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Oh83DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "VAITERUMA FESTONA HOJEÀNOITE PARAASBANDAS INSCRITAS NO \u003cbr\u003e\nFESTIVAL. IO INCLUI AS DALINGS, NÉ? AI, CARAMBA! NÓS SEMPRENOS \u003cbr\u003e\nESBAAMOS...OI! 12 ENTÃO, AS \u003cb\u003eAMIGAS\u003c/b\u003e SE JUNTARAM PARA FAZER \u003cbr\u003e\nFUNCIONAR A&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "33MgtAEACAAJ",
+   "etag": "JsbdPwg58Tg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/33MgtAEACAAJ",
+   "volumeInfo": {
+    "title": "My Little Pony Movie - Uma Jornada Mágica",
+    "authors": [
+     "Sadie Chesterfield",
+     "Ligia Arata Barros"
+    ],
+    "publishedDate": "2017-09-15",
+    "description": "Nesta grande aventura, que é um prelúdio ao filme de My Little Pony, você vai descobrir ainda mais sobre o universo das amigas pôneis com a história de Tempest Shadow. Tempest nem sempre foi uma unicórnio má. Ela era alegre, divertida e vivia tranquilamente em Equestria. Mas um ato de bravura custou seu chifre, sua magia e até suas amigas. Triste e decepcionada, a unicórnio não viu outra saída a não ser fugir de Equestria... Leia as páginas deste livro para descobrir mais sobre essa história repleta de emoção!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8538077333"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538077336"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=33MgtAEACAAJ&dq=My+little+pony+-+Amigas+de+equestria&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=33MgtAEACAAJ&dq=My+little+pony+-+Amigas+de+equestria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/My_Little_Pony_Movie_Uma_Jornada_M%C3%A1gica.html?hl=&id=33MgtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=33MgtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta grande aventura, que é um prelúdio ao filme de My Little Pony, você vai descobrir ainda mais sobre o universo das amigas pôneis com a história de Tempest Shadow."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QKoV8od-nZ8C",
+   "etag": "I7OkgVUz3h4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QKoV8od-nZ8C",
+   "volumeInfo": {
+    "title": "Qué pasa",
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCLA:L0106154495"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Chile"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QKoV8od-nZ8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QKoV8od-nZ8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=QKoV8od-nZ8C&q=My+little+pony+-+Amigas+de+equestria&dq=My+little+pony+-+Amigas+de+equestria&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QKoV8od-nZ8C&dq=My+little+pony+-+Amigas+de+equestria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Qu%C3%A9_pasa.html?hl=&id=QKoV8od-nZ8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QKoV8od-nZ8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sin escalas, mi hija mayor cambió el reino de \u003cb\u003eEquestria\u003c/b\u003e de \u003cb\u003eMy Little Pony\u003c/b\u003e por la \u003cbr\u003e\ngalería infernal de Monster High, una creación de Mattel lanzada en ... Una \u003cbr\u003e\n\u003cb\u003eamiga\u003c/b\u003e, madre de una niña de ll años, me advirtió que no la encontraría \u003cbr\u003e\nfácilmente."
+   }
+  }
+ ]
+}

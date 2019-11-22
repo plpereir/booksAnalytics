@@ -1,0 +1,742 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 464,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PpdevgAACAAJ",
+   "etag": "85ZfZ6mhCXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PpdevgAACAAJ",
+   "volumeInfo": {
+    "title": "OCEANO PERDIDO",
+    "subtitle": "LIVRO DE COLORIR E AVENTURA SUBMARINA",
+    "authors": [
+     "JOHANNA BASFORD",
+     "RENATA DIB"
+    ],
+    "description": "Em \"Oceano perdido\", Johanna Basford convida artistas de todas as idades a descobrir um mundo encantador escondido nas profundezas do mar. Ilustrações ricas em detalhes vão revelar peixes exóticos, polvos e cavalos-marinhos, abrindo um mundo de possibilidades para os amantes das cores e das tintas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8543102421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543102429"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PpdevgAACAAJ&dq=Oceano+perdido&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PpdevgAACAAJ&dq=Oceano+perdido&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/OCEANO_PERDIDO.html?hl=&id=PpdevgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PpdevgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lanç amento mundial no dia 27 de outubro de 2015. Em Oceano perdido, Johanna Basford convida artistas de todas as idades a descobrir um mundo encantador escondido nas profundezas do mar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9oEtAAAAYAAJ",
+   "etag": "89R/h5BkB8w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9oEtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Oceano perdido",
+    "publishedDate": "1952",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172013573276"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 85,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9oEtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9oEtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=9oEtAAAAYAAJ&pg=PP1&dq=Oceano+perdido&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9oEtAAAAYAAJ&dq=Oceano+perdido&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Oceano_perdido.html?hl=&id=9oEtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9oEtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L795DwAAQBAJ",
+   "etag": "6xVddFaCrbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L795DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Apenas Um Poeta ImaginÁrio",
+    "authors": [
+     "Mario Alvim"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "LIVRO DE POESIAS",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU32876"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 330,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L795DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L795DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=L795DwAAQBAJ&pg=PA224&dq=Oceano+perdido&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=L795DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-L795DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=L795DwAAQBAJ&rdid=book-L795DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Apenas_Um_Poeta_Imagin%C3%81rio-sample-pdf.acsm?id=L795DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L795DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O \u003cb\u003eOCEANO PERDIDO\u003c/b\u003e Às vezes, me sinto perdido No imenso mar da reflexão. \u003cbr\u003e\nUm náufrago e não mais que isso; Guiado apenas pelo meu coração. Os ventos \u003cbr\u003e\nsopram esperança E a pequena vela se agita. No ritmo das ondas, o barco \u003cbr\u003e\ndança&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VhMyjgEACAAJ",
+   "etag": "ASpLslZkIW8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VhMyjgEACAAJ",
+   "volumeInfo": {
+    "title": "El oceano perdido/ Lost Ocean",
+    "authors": [
+     "Johanna Basford"
+    ],
+    "publishedDate": "2016-02-28",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8479539291"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788479539290"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VhMyjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VhMyjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=VhMyjgEACAAJ&dq=Oceano+perdido&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VhMyjgEACAAJ&dq=Oceano+perdido&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_oceano_perdido_Lost_Ocean.html?hl=&id=VhMyjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VhMyjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Con El océano perdido, Johanna Basford invita a lectores de todas las edades a descubrir un fascinante mundo subacuático oculto en las profundidades marinas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yxZyDwAAQBAJ",
+   "etag": "B7yd1VE+Uzk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yxZyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte Dos Versos ImaginÁrios",
+    "authors": [
+     "Mario"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A Arte dos versos imaginários é um livro de coletâneas poéticas: Poesias, poemas, crônicas e pensamentos. 6º livro do autor.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU29613"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yxZyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yxZyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yxZyDwAAQBAJ&pg=PA110&dq=Oceano+perdido&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yxZyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yxZyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yxZyDwAAQBAJ&rdid=book-yxZyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_Dos_Versos_Imagin%C3%81rios-sample-pdf.acsm?id=yxZyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yxZyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eOCEANO\u003c/b\u003e Às vezes, me sinto \u003cb\u003eperdido\u003c/b\u003e No imenso mar da reflexão. Um náufrago e \u003cbr\u003e\nnão mais que isso Guiado apenas pelo meu coração. Os ventos sopram \u003cbr\u003e\nesperança E a pequena vela se agita. No ritmo das ondas, o barco dança Até \u003cbr\u003e\nque&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6PdxDwAAQBAJ",
+   "etag": "kNXQjyUIV6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6PdxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sonhos PoÉticos",
+    "authors": [
+     "Mario"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Sonhos poéticos é meu segundo livro de poemas e poesias, seguindo o gênero de Via Láctea escrito em 2005. Tenho participações nas antologias poéticas: E por falar em amor I e II. Se realmente as poesias são feitas do mesmo tecido de que são tecidos os sonhos, este livro, Sonhos poéticos, certamente também é feito do mesmo material. jamais abandonem seus sonhos, pois sonhar ás vezes é um fio de esperança que nos mantém um pouco mais felizes.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU25386"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 185,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.9.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6PdxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6PdxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6PdxDwAAQBAJ&pg=PA146&dq=Oceano+perdido&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6PdxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6PdxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6PdxDwAAQBAJ&rdid=book-6PdxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sonhos_Po%C3%89ticos-sample-pdf.acsm?id=6PdxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6PdxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eOCEANO\u003c/b\u003e Às vezes, me sinto \u003cb\u003eperdido\u003c/b\u003e No imenso mar da reflexão. Um náufrago e \u003cbr\u003e\nnão mais que isso Guiado apenas pelo meu coração. Os ventos sopram \u003cbr\u003e\nesperança E a pequena vela se agita. No ritmo das ondas, o barco dança Até \u003cbr\u003e\nque&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zyYDAAAAYAAJ",
+   "etag": "N03WQ4ao3UM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zyYDAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O Investigador portuguez em Inglaterra",
+    "subtitle": "ou, Jornal literário, político, &c",
+    "publishedDate": "1815",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HXMEDK"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zyYDAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zyYDAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zyYDAAAAYAAJ&pg=PA345&dq=Oceano+perdido&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zyYDAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zyYDAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=zyYDAAAAYAAJ&rdid=book-zyYDAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/O_Investigador_portuguez_em_Inglaterra.pdf?id=zyYDAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3XCcMBH0NJ6u2iJ16n0VAI3MiAGw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zyYDAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Maria no meio do oceano: ao N.O. o \u003cb\u003eoceano perdido\u003c/b\u003e na sua propria, e vasta \u003cbr\u003e\ndilataçaõ, ao redor, e debaixo dos pés a devastaçaõ dos terremotos, a exibiçaõ \u003cbr\u003e\nde innumeraveis vulcoens, e aparente ruina do mundo; tudo era maravilhozo!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BLwrDwAAQBAJ",
+   "etag": "fYTejqa2FN0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BLwrDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Em tons de Valsa aguarela-fogo",
+    "authors": [
+     "Vários Vários Vários"
+    ],
+    "publisher": "Tecto de Nuvens",
+    "publishedDate": "2017-07-10",
+    "description": "?Quem conta um conto acrescenta um ponto? é frequentemente repetido com uma conotação negativa, e que implica que cada narrador vai inventando detalhes que vão afastando a estória da História. Eu sempre tive uma perspectiva diferente, e se calhar daí a justificação para toda uma vida ligada aos livros e às estórias; para mim, este acrescentar de detalhes é sinal de criatividade, de um talento natural para tornar as narrativas mais interessantes! Quantas vezes ouvimos narrar um evento, que presenciámos, de uma forma tal que até nós, testemunhas, somos obrigadas a admitir ser mais interessante do que a realidade? Partindo deste pressuposto de que todos herdamos o talento natural dos nossos antepassados para contar estórias (e daí Portugal ter um património de Literatura Oral e Tradicional bem rico), aceitámos o repto dos nossos autores para fazermos uma colectânea de contos (sim, desta vez o desafio foi feito ao contrário!). O resultado está à vista e eu, correndo o risco de me contradizer, não lhe vou acrescentar um ponto? Leiam e apreciem!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898197870"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898197870"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BLwrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BLwrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BLwrDwAAQBAJ&pg=PA53&dq=Oceano+perdido&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BLwrDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BLwrDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.59,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.59,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BLwrDwAAQBAJ&rdid=book-BLwrDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.759E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.759E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_tons_de_Valsa_aguarela_fogo-sample-pdf.acsm?id=BLwrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BLwrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Foram longos os momentos de silêncio e de olhares intermináveis. Foi o beijo \u003cbr\u003e\ninesperado tendo por testemunha o Sol altaneiro no ardente desejo que \u003cbr\u003e\nrepousava entre eles. Era o escorregar do \u003cb\u003eoceano perdido\u003c/b\u003e no estreito dos seus \u003cbr\u003e\nlábios."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g8IJAQAAIAAJ",
+   "etag": "8qsS4UVGOdw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g8IJAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Arquivo dos Açores",
+    "publishedDate": "1982",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105111457037"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Azores"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g8IJAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g8IJAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g8IJAQAAIAAJ&q=Oceano+perdido&dq=Oceano+perdido&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g8IJAQAAIAAJ&dq=Oceano+perdido&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Arquivo_dos_A%C3%A7ores.html?hl=&id=g8IJAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g8IJAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Kn vi ao S. E. a Ilh i de Santa Maria no meio do oceano: ao N. O. o \u003cb\u003eoceano\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eperdido\u003c/b\u003e na sua propria, e vasta dilatação, ao redor, e debaixo dos pés a \u003cbr\u003e\ndevastação dos terremotos, a exibicão de innumera. veis vulcoens, e aparente \u003cbr\u003e\nruina do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bGE8AAAAMAAJ",
+   "etag": "W0/gzYsKU4k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bGE8AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Archivo dos Açores",
+    "publishedDate": "1887",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015066942957"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Azores"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bGE8AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bGE8AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bGE8AAAAMAAJ&q=Oceano+perdido&dq=Oceano+perdido&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bGE8AAAAMAAJ&dq=Oceano+perdido&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Archivo_dos_A%C3%A7ores.html?hl=&id=bGE8AAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bGE8AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "«Eu vi ao S. E. a llh i de Santa Maria no meio do oceano: ao N. O. o \u003cb\u003eoceano\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eperdido\u003c/b\u003e na sua propria, e vasta dilatação, ao redor, e debaixo dos pés a \u003cbr\u003e\ndevastação dos terremotos, a exibição de innumera- veis vutcoens, e aparente \u003cbr\u003e\nruina do&nbsp;..."
+   }
+  }
+ ]
+}

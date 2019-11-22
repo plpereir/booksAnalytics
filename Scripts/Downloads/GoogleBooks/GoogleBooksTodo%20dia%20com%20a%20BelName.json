@@ -1,0 +1,708 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 467,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "uwwKDQAAQBAJ",
+   "etag": "MNSR4i4Cm5U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uwwKDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Todo dia com a Bel",
+    "authors": [
+     "Bel"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-09-30",
+    "description": "NÃO PRECISA MAIS ESPERAR UM VÍDEO NOVO – COM ESTE LIVRO, VOCÊ PODE ESTAR TODOS OS DIAS COM A BEL! Todo dia com a Bel é um presente para os leitores e fãs da Bel, uma das youtubers de maior sucesso no Brasil. O livro tem um projeto híbrido e mistura elementos de diários, planners de organização pessoal e agendas de compromisso. É dividido por semanas e pode ser usado a partir de qualquer mês do ano. Além disso, está repleto de fotos com frases e mensagens da Bel, para que a leitora sinta como se estivesse compartilhando detalhes de sua vida com ela. \"Agora estou com você no YouTube e na sua casa! Com o meu livro, você poderá planejar todos os dias da semana. E o melhor de tudo: estarei sempre ao seu lado! Agora é a sua vez de compartilhar comigo todos os seus segredos.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788567028989"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8567028981"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uwwKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uwwKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uwwKDQAAQBAJ&printsec=frontcover&dq=Todo+dia+com+a+Bel&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uwwKDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uwwKDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uwwKDQAAQBAJ&rdid=book-uwwKDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todo_dia_com_a_Bel-sample-epub.acsm?id=uwwKDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todo_dia_com_a_Bel-sample-pdf.acsm?id=uwwKDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uwwKDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "NÃO PRECISA MAIS ESPERAR UM VÍDEO NOVO – COM ESTE LIVRO, VOCÊ PODE ESTAR TODOS OS DIAS COM A BEL! Todo dia com a Bel é um presente para os leitores e fãs da Bel, uma das youtubers de maior sucesso no Brasil."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p6c9AQAAIAAJ",
+   "etag": "aISg3Y3IATQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p6c9AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Manchete",
+    "publishedDate": "1972-03",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105008350592"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=p6c9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=p6c9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=p6c9AQAAIAAJ&q=Todo+dia+com+a+Bel&dq=Todo+dia+com+a+Bel&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=p6c9AQAAIAAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manchete.html?hl=&id=p6c9AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p6c9AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Movendo-o, você pode |- |- massagear tôdas as # \u003cb\u003eBel\u003c/b\u003e-Linha também acaba com \u003cbr\u003e\npartes do braço. o cansaço, a insônia e a tensão. ### ! # E com outra coisa * * *\u003cbr\u003e\nnuto exaustiva: nored. | | || + *#azer ginástica \u003cb\u003etodo dia\u003c/b\u003e. * Com \u003cb\u003eBel\u003c/b\u003e-Linha você não\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ntxxDwAAQBAJ",
+   "etag": "LpGSCDWjgAM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ntxxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Passos Largos, Ruas Estreitas",
+    "authors": [
+     "Juliana"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um livro que fala de sonhos e aventuras,de viagem e de mistério. Fala de arte ede encontros de dois jovens na Europa.Dois jovens que buscam a si mesmos e deum caminho para realizar seus projetosde vida.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU21641"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 165,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ntxxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ntxxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ntxxDwAAQBAJ&pg=PA107&dq=Todo+dia+com+a+Bel&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ntxxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ntxxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ntxxDwAAQBAJ&rdid=book-ntxxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Passos_Largos_Ruas_Estreitas-sample-pdf.acsm?id=ntxxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ntxxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O apartamento, aos poucos, se transformava num pequeno paraíso, aonde \u003cbr\u003e\nestruturávamos nossa vida, ao nosso \u003cb\u003ebel\u003c/b\u003e prazer. Dormia \u003cb\u003etodo dia\u003c/b\u003e até mais tarde, \u003cbr\u003e\nfazia um rápido almoço e saía para ir à escola ou passear. Às vezes tinha um&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8bc9AQAAIAAJ",
+   "etag": "JfdFJjn7LFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8bc9AQAAIAAJ",
+   "volumeInfo": {
+    "title": "O Cruzeiro",
+    "subtitle": "revista semanal ilustrada",
+    "publishedDate": "1972-02",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105015059285"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian periodicals"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8bc9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8bc9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8bc9AQAAIAAJ&q=Todo+dia+com+a+Bel&dq=Todo+dia+com+a+Bel&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=8bc9AQAAIAAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Cruzeiro.html?hl=&id=8bc9AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8bc9AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E só você usar \u003cb\u003eBel\u003c/b\u003e-Linha, como outras 50.000 mulheres no Brasil. Use \u003cb\u003eBel\u003c/b\u003e-Linha \u003cbr\u003e\nnas ... Dez minutos, vinte, meia hora \u003cb\u003eBel\u003c/b\u003e-Linha também acaba com o cansaço, a \u003cbr\u003e\ninsónia e a tensão. E com outra coisa muito exaustiva: fazer ginástica \u003cb\u003etodo dia\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AGIEAAAAMBAJ",
+   "etag": "BjBc8Nf7034",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AGIEAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Trip",
+    "publishedDate": "2009-08",
+    "description": "Revista Trip. Um olhar criativo para a diversidade, em reportagens de comportamento, esportes de prancha, cultura pop, viagens, além dos ensaios de Trip Girl e grandes entrevistas",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AGIEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AGIEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AGIEAAAAMBAJ&pg=PA101&dq=Todo+dia+com+a+Bel&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AGIEAAAAMBAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trip.html?hl=&id=AGIEAAAAMBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AGIEAAAAMBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apesarda forte ligação comareligião,\u003cb\u003eBel\u003c/b\u003e não gosta que seutrabalho seja \u003cbr\u003e\ninterpretadocomo uma ode ao budismo. “Meuspacientes não ... também não \u003cbr\u003e\néfácil. “Aquilo mexe comigo por \u003cb\u003edias\u003c/b\u003e, precisotrabalharmeu mundo internootempo \u003cbr\u003e\n\u003cb\u003etodo\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qv5xDwAAQBAJ",
+   "etag": "jw9EJDbUye4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qv5xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Nas Sendas Do Saber",
+    "authors": [
+     "Bel. Acacio A. Schekiera"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Esta pesquisa demonstra que o homem divide-se em planos, que esta sujeito a evolução ou permanece estacionado ate manifestar em algum descendente. Denominamos o primeiro plano de primário, este é da forma que o homem vem ao mundo despido dos vis metais. O segundo plano chamamos de plano secundário, e neste plano é quando o agente passa a querer, ter, a despertar o emocional de forma mais aguçada, num estado pré concebido de personalidade e anseios. O terceiro chamamos de plano Estacionário, é aquele onde se define os traços de personalidade profissional e mental, maturidade, momento em que o sujeito se define perante a sociedade, mesmo as vezes não tendo a consciência do bom ou do ruim. Passamos a seguir ao quarto plano denominado plano inicial, este é onde normalmente desperta no sujeito o certo ou errado, porem para a maioria já é tarde, pois tudo que foi planejado no seu projeto inicial, no plano anterior, deu errado, e assim o sujeito fica preso pelos laços das obrigações contraídos no decorrer das outras fases. Nesta fase normalmente desperta a memória celular do individuo, mas isto não é regra, podendo as vezes passar de geração para geração sem despertar o verdadeiro individuo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU26322"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qv5xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qv5xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qv5xDwAAQBAJ&pg=PA83&dq=Todo+dia+com+a+Bel&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qv5xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qv5xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qv5xDwAAQBAJ&rdid=book-qv5xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nas_Sendas_Do_Saber-sample-pdf.acsm?id=qv5xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qv5xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBel\u003c/b\u003e. Acacio A. Schekiera. 30. As revelações são prenuncio de Deus? R- São \u003cbr\u003e\nprofetas surgindo, a criação de novas ... Milagre ocorre \u003cb\u003etodo dia\u003c/b\u003e, é fato que as \u003cbr\u003e\npessoas passam desapercebidas à eles, e quando percebem preferem não \u003cbr\u003e\nacreditar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Oq0uAAAAYAAJ",
+   "etag": "SP24mhsDsX8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Oq0uAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Letras e comunicação",
+    "subtitle": "uma parceria no ensino de língua portuguesa",
+    "authors": [
+     "José Carlos de Azeredo"
+    ],
+    "publishedDate": "2001",
+    "description": "Esta coletânea faz parte do V Fórum de Estudos Lingüísticos da UERJ. Os estudos analisam a comunicação como acontecimento sociocultural que reflete o movimento da história, do ser humano e do mundo. Diversas ciências associam-se às teorias gramaticais, recortando os textos e identificando o caminho traçado por signos na construção de sentidos. Tipos de leitura e de leitores são focalizados, o dito e o não dito combinam-se, atravessam imagens e palavras, gerando novos processos de interação da mídia.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173010075769"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 284,
+    "printType": "BOOK",
+    "categories": [
+     "Communication in education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Oq0uAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Oq0uAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Oq0uAAAAYAAJ&q=Todo+dia+com+a+Bel&dq=Todo+dia+com+a+Bel&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Oq0uAAAAYAAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Letras_e_comunica%C3%A7%C3%A3o.html?hl=&id=Oq0uAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Oq0uAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E que eu também sou inventora, inventando \u003cb\u003etodo dia\u003c/b\u003e um jeito novo de viver. Eu, \u003cbr\u003e\n\u003cb\u003eBel\u003c/b\u003e, uma trança de gente, igualzinho a quando faço uma trança no meu cabelo, \u003cbr\u003e\ndivido em três partes e vou cruzando uma com as outras, a parte de mim mesma\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wu4uAAAAYAAJ",
+   "etag": "jwjaBLc+IwA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wu4uAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Teatro",
+    "subtitle": "espelho e reposta",
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018250126"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 167,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wu4uAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wu4uAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wu4uAAAAYAAJ&q=Todo+dia+com+a+Bel&dq=Todo+dia+com+a+Bel&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wu4uAAAAYAAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teatro.html?hl=&id=wu4uAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wu4uAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... enfrenta bandos contrários, lidera 40 homens armados e é o temor de \u003cb\u003etodos\u003c/b\u003e os \u003cbr\u003e\nmoradores— \u003cb\u003eBEL\u003c/b\u003e - Aí a gente vai aos ... a guerra com Macedo, as mortes, \u003cb\u003etudo\u003c/b\u003e— \u003cbr\u003e\nCANHÃO - Parece que foi uma época braba: dizem que \u003cb\u003etodo dia\u003c/b\u003e era briga,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wactAAAAYAAJ",
+   "etag": "rh5WcityIdc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wactAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Urgência e ruptura",
+    "authors": [
+     "Consuelo de Castro"
+    ],
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018335932"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 586,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wactAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wactAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wactAAAAYAAJ&pg=PA77&dq=Todo+dia+com+a+Bel&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wactAAAAYAAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Urg%C3%AAncia_e_ruptura.html?hl=&id=wactAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wactAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TQRTBAAAQBAJ",
+   "etag": "vld4NS1IJR4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TQRTBAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Menina do vale 2",
+    "authors": [
+     "Bel Pesce"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-08-19",
+    "description": "Um livro recheado de histórias pra você ter uma atitude empreendedora! Quem não se lembra da Menina do Vale, a jovem empreendedora brasileira de sucesso que se formou no prestigiado MIT, trabalhou em empresas como o Google e a Microsoft, criou a sua própria startup no Vale do Silício e publicou um livro digital que só na internet chegou aos 2 milhões de downloads? Pois é, estamos falando de Bel Pesce, que recentemente foi nomeada pela revista Forbes como umas das jovens com menos de 30 anos com mais potencial no país. Depois de sete anos morando nos Estados Unidos, Bel Pesce voltou ao Brasil e decidiu focar seu trabalho na educação de milhares de jovens, fundando a FazINOVA, com a missão de descobrir, desenvolver e conectar pessoas talentosas. Quem conhece a Bel, sabe que ela adora conhecer pessoas e acredita que todos têm algum talento especial, apenas precisam de ajuda para descobrir qual possuem. Este regresso tem sido um aprendizado, e o sentimento mais forte que Bel sente hoje é o de comprometimento. “Empreender é uma baita responsabilidade. Se você entrar nesse mundo entendendo isso, já sairá na frente”, diz a autora. Ela fala bastante sobre isso nesse livro e partilha seus aprendizados mais recentes. Bem-vindo à A Menina do Vale 2, um livro recheado de histórias e razões para você ter uma atitude empreendedora e responsável perante a vida! Sobre o autor: Bel Pesce é empreendedora e fundadora da escola de desenvolvimento de talentos FazINOVA, que já conta com mais de 33 mil alunos. Nascida e criada em São Paulo, Bel estudou no Massachusetts Institute of Technology (MIT). Durante a faculdade, trabalhou na Microsoft, Google e Deutsche Bank. Bel foi nomeada “Jovem empreendedora do ano” pelo Prêmio Jovem Brasil e LIDE, foi listada como uma das “100 pessoas mais influentes do Brasil” pela revista Época, e recentemente foi nomeada um dos 30 jovens mais promissores do Brasil pela revista Forbes. Seu livro A Menina do Vale foi eleito “Melhor livro do ano” pela Arata Academy. Bel também assina uma coluna mensal – Cantinho da Bel - na revista Exame, da editora Abril.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544100707"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544100708"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TQRTBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TQRTBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TQRTBAAAQBAJ&pg=PT17&dq=Todo+dia+com+a+Bel&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TQRTBAAAQBAJ&dq=Todo+dia+com+a+Bel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Menina_do_vale_2.html?hl=&id=TQRTBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Menina_do_vale_2-sample-epub.acsm?id=TQRTBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TQRTBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBel\u003c/b\u003e Pesce. Teu Cadeninho em 6gosto/2006 No avião a caminho de Boston Em \u003cbr\u003e\nbreve começarei uma nova Vida, em um ... Vou Pazer de \u003cb\u003etudo\u003c/b\u003e para que essa \u003cbr\u003e\nmudanca Valha a pena e para que, \u003cb\u003etodos\u003c/b\u003e os \u003cb\u003edias\u003c/b\u003e, eu continua trazendo para \u003cbr\u003e\nperto&nbsp;..."
+   }
+  }
+ ]
+}

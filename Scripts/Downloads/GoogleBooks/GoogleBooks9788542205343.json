@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4vywjwEACAAJ",
+   "etag": "3KtEljvoQcc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4vywjwEACAAJ",
+   "volumeInfo": {
+    "title": "Morri para viver",
+    "subtitle": "meu submundo de fama, drogas e prostituição",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542205340"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542205343"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4vywjwEACAAJ&dq=isbn:9788542205343&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4vywjwEACAAJ&dq=isbn:9788542205343&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Morri_para_viver.html?hl=&id=4vywjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4vywjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

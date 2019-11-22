@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OeSYZwEACAAJ",
+   "etag": "IyxcPykXRus",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OeSYZwEACAAJ",
+   "volumeInfo": {
+    "title": "Segundas intenções",
+    "subtitle": "vestindo o corpo moral",
+    "authors": [
+     "Nilton Bonder"
+    ],
+    "publishedDate": "2011-01-01",
+    "description": "Neste livro, o autor procura dar a voz ao corpo para que este se defenda dos excessos cometidos pela alma. A obra nasceu do desejo de se aproximar do comportamento humano e reconhecer nele uma natureza ambígua, que mescla verdades e mentiras para formar a essência de cada um. Ao longo de cinco capítulos, Bonder fala de impulsos, motivação, honestidade e consciência, discutindo conceitos como compromisso e livre-arbítrio. Para o autor, a moral ou a malícia podem se manifestar tanto no vício quanto na virtude.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532526675"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532526670"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Jewish ethics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OeSYZwEACAAJ&dq=isbn:9788532526670&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OeSYZwEACAAJ&dq=isbn:9788532526670&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Segundas_inten%C3%A7%C3%B5es.html?hl=&id=OeSYZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OeSYZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao longo de cinco capítulos, Bonder fala de impulsos, motivação, honestidade e consciência, discutindo conceitos como compromisso e livre-arbítrio."
+   }
+  }
+ ]
+}

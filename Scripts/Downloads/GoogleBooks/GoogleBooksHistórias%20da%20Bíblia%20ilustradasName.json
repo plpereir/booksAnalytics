@@ -1,0 +1,773 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 49,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qp7YPgAACAAJ",
+   "etag": "uUqgDsunu84",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qp7YPgAACAAJ",
+   "volumeInfo": {
+    "title": "BIBLIA SAGRADA 365 HISTORIAS ILUSTRADAS",
+    "authors": [
+     "SOCIEDADE BIBLICA DO BRASIL"
+    ],
+    "description": "Uma história da Bíblia para cada dia do ano. Assim é essa obra, que reúne uma seleção de 365 passagens bíblicas. Começando na criação, o livro traz todas as grandes histórias do Antigo Testamento e do Novo Testamento, até chegar ao novo céu e a nova terra",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531110335"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531110337"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qp7YPgAACAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qp7YPgAACAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BIBLIA_SAGRADA_365_HISTORIAS_ILUSTRADAS.html?hl=&id=qp7YPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qp7YPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma história da Bíblia para cada dia do ano."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g2opDwAAQBAJ",
+   "etag": "rAcId/UNG0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g2opDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Boa noite, pequeno guerreiro",
+    "subtitle": "Histórias bíblicas, devocionais e orações para a hora de dormir",
+    "authors": [
+     "Sheila Walsh"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "publishedDate": "2017-06-01",
+    "description": "Todo garoto é um pequeno guerreiro de Deus. Conheça as melhores histórias para a hora de dormir dos guerreiros em todo lugar! Depois do grande sucesso de Bíblia do pequeno guerreiro, Sheila Walsh volta a encantar seus pequenos leitores com histórias maravilhosas da Bíblia contadas do jeitinho que os meninos adoram. Desta vez, cada narrativa é acompanhada de um devocional e uma palavra de promessa ou louvor — tudo na medida certa para encerrar o dia de uma maneira bem gostosa e tornar o sono dos pequenos guerreiros de Deus mais tranquilo e abençoado. Recursos: * Orações, promessas e louvores * Devocionais para a hora de dormir * Páginas coloridas e ilustradas * Histórias bíblicas com linguagem divertida para crianças",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578600075"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857860007X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 334,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g2opDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g2opDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g2opDwAAQBAJ&printsec=frontcover&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=g2opDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-g2opDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=g2opDwAAQBAJ&rdid=book-g2opDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.316E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Boa_noite_pequeno_guerreiro-sample-epub.acsm?id=g2opDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Boa_noite_pequeno_guerreiro-sample-pdf.acsm?id=g2opDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g2opDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Depois do grande sucesso de Bíblia do pequeno guerreiro, Sheila Walsh volta a encantar seus pequenos leitores com histórias maravilhosas da Bíblia contadas do jeitinho que os meninos adoram."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kmJYAAAAMAAJ",
+   "etag": "QRwxIT2Cir4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kmJYAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Vinde",
+    "subtitle": "a revista gospel do Brasil",
+    "authors": [
+     "Vinde (Organization)"
+    ],
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172138442763"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kmJYAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kmJYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kmJYAAAAMAAJ&q=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kmJYAAAAMAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vinde.html?hl=&id=kmJYAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kmJYAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBíblia Ilustrada\u003c/b\u003e Para Crianças: As mais belas \u003cb\u003ehistórias da Bíblia\u003c/b\u003e, contadas \u003cbr\u003e\natravés do texto extraído da \u003cb\u003eBíblia\u003c/b\u003e na Linguagem de Hoje. Com ricas ilustrações \u003cbr\u003e\nem cores de José Pérez Montero. A \u003cb\u003eBíblia Ilustrada\u003c/b\u003e Para Crianças é um \u003cbr\u003e\nverdadeiro&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7xhyDwAAQBAJ",
+   "etag": "+0d6x/76p5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7xhyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Curso De Bacharel Em Teologia",
+    "authors": [
+     "Júnior"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O conteúdo que você tem em mãos, contém os estudos de uma da maiores Faculdades de Teologia do Brasil hoje, a FAITE (Faculdade Internacional de Teologia) a qual tem suas representações em todo Brasil, como FAITE-PE, FAITE-SP, FAITE-RJ, FAITE-MG, FAITE-RS e etc. Esse livro surgiu da ideia do Pastor Júnior Pereira, Diretor da Faculdade do estado de Pernambuco a mais de dez anos, e recentemente também Diretor no estado do Rio grande do sul em união com o Diretor mundial da FAITE, Dr. Elvis de Assis que resultou no livro – curso que você tem em mãos agora.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU29901"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 603,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.9.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7xhyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7xhyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7xhyDwAAQBAJ&pg=PA89&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7xhyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7xhyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 133.82,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 133.82,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7xhyDwAAQBAJ&rdid=book-7xhyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3382E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.3382E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Curso_De_Bacharel_Em_Teologia-sample-pdf.acsm?id=7xhyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7xhyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De fato esta publicação de algumas narrativas bíblicas \u003cb\u003eilustradas\u003c/b\u003e interessa as \u003cbr\u003e\ncrianças. Hoje, três anos depois, sempre quando ele quer ver as gravuras e \u003cbr\u003e\nouvir as \u003cb\u003ehistórias\u003c/b\u003e ele pega a sua \u003cb\u003eBíblia\u003c/b\u003e na estante em vem em minha direção \u003cbr\u003e\npara que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f63GtQEACAAJ",
+   "etag": "bPQVDGX67UU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f63GtQEACAAJ",
+   "volumeInfo": {
+    "title": "A Bíblia Para Os Mais Jovens",
+    "authors": [
+     "Cristina Marques"
+    ],
+    "publishedDate": "2018-04",
+    "description": "As mais belas histórias da Bíblia totalmente ilustradas e contadas com uma linguagem simples e adequada, proporcionando aos jovens conhecer, de modo prático e dinâmico, as principais passagens das Sagradas Escrituras. Histórias que fazem parte desta Obra: A Criação - O Dilúvio - Abraão - Esaú e Jacó - José - Jó - Moisés - Josué - Sansão - Gideão - Rute - Elias - Davi - Salomão - Jonas - Daniel - João Batista - Nascimento de Jesus - Jesus - Parábolas de Jesus - Milagres de Jesus - Ressurreição de Jesus - Atos dos Apóstolos - Paulo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8537637017"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537637012"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f63GtQEACAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=f63GtQEACAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_B%C3%ADblia_Para_Os_Mais_Jovens.html?hl=&id=f63GtQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f63GtQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As mais belas histórias da Bíblia totalmente ilustradas e contadas com uma linguagem simples e adequada, proporcionando aos jovens conhecer, de modo prático e dinâmico, as principais passagens das Sagradas Escrituras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o0VQAAAAYAAJ",
+   "etag": "fNlWYpoAUAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o0VQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Brotéria",
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X001660754"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Natural history"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o0VQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o0VQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=o0VQAAAAYAAJ&q=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=o0VQAAAAYAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brot%C3%A9ria.html?hl=&id=o0VQAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o0VQAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Destinado a crianças, tanto a selecção dos temas como o estilo do relato teve \u003cbr\u003e\nisso em consideração, sendo a narrativa uma versão livre mas cingida \u003cbr\u003e\nestritamente ao originai \u003cb\u003ebíblico\u003c/b\u003e. Todas as \u003cb\u003ehistórias\u003c/b\u003e são \u003cb\u003eilustradas\u003c/b\u003e por Giovanni \u003cbr\u003e\nCaselli, que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iIM4BQAAQBAJ",
+   "etag": "Q0VeN1QN6Kg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iIM4BQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Bíblia Em Xeque",
+    "authors": [
+     "Jorge De Souza"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-11-24",
+    "description": "O livro é um apanhado de conhecimentos adquiridos pelo autor através de seus estudos baseados em Arqueologia. Em nenhum momento, o autor intenciona denegrir e/ou ofender nenhum povo com sua cultura e tradições, mas tão somente esclarecer e questionar alguns preceitos estabelecidos pelo homem com o intuito de subjugar as massas desprovidas de conhecimento e informação.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90155246"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 45,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iIM4BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iIM4BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iIM4BQAAQBAJ&pg=PA26&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=iIM4BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-iIM4BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=iIM4BQAAQBAJ&rdid=book-iIM4BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_B%C3%ADblia_Em_Xeque-sample-pdf.acsm?id=iIM4BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iIM4BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As práticas do passado às quais aludiu podem ser \u003cb\u003eilustradas\u003c/b\u003e por uma \u003cbr\u003e\nobservação feita por Yigael Yadin, general ... estado moderno de Israel quanto \u003cbr\u003e\ndepois, tinham o mesmo tipo de estratégia: buscar evidências diretas de \u003cbr\u003e\n\u003cb\u003ehistórias\u003c/b\u003e bíblicas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ztFxDwAAQBAJ",
+   "etag": "b1kQM0VOslU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ztFxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Bíblia Em Xeque",
+    "authors": [
+     "Jorge"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O livro é um apanhado de conhecimentos adquiridos pelo autor através de seus estudos baseados em Arqueologia. Em nenhum momento, o autor intenciona denegrir e/ou ofender nenhum povo com sua cultura e tradições, mas tão somente esclarecer e questionar alguns preceitos estabelecidos pelo homem com o intuito de subjugar as massas desprovidas de conhecimento e informação.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20197"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 45,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ztFxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ztFxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ztFxDwAAQBAJ&pg=PA26&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ztFxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ztFxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ztFxDwAAQBAJ&rdid=book-ztFxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_B%C3%ADblia_Em_Xeque-sample-pdf.acsm?id=ztFxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ztFxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As práticas do passado às quais aludiu podem ser \u003cb\u003eilustradas\u003c/b\u003e por uma \u003cbr\u003e\nobservação feita por Yigael Yadin, general ... estado moderno de Israel quanto \u003cbr\u003e\ndepois, tinham o mesmo tipo de estratégia: buscar evidências diretas de \u003cbr\u003e\n\u003cb\u003ehistórias\u003c/b\u003e bíblicas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DxA-AQAAIAAJ",
+   "etag": "uMCMFWbHCnk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DxA-AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "1995",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105016968062"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DxA-AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DxA-AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DxA-AQAAIAAJ&q=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=DxA-AQAAIAAJ&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=DxA-AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DxA-AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ABRIL JOVEM ENCICLOPÉDIA \u003cb\u003eILUSTRADA\u003c/b\u003e AVENTURA DO SABER - \u003cbr\u003e\nLAROUSSE Toda a sua família vai utilizá-la ... i i \u003cb\u003eBÍBLIA\u003c/b\u003e - \u003cb\u003eHISTÓRIAS\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eILUSTRADAS\u003c/b\u003e Abra para seus filhos as portas de um dos livros mais importantes \u003cbr\u003e\nda humanidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PpRqDwAAQBAJ",
+   "etag": "fdQFt1/EQKw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PpRqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Igreja, Estado e Poder",
+    "subtitle": "As Relações entre a Igreja e o Estado no Brasil",
+    "authors": [
+     "Gilberto Aparecido Angelozzi"
+    ],
+    "publisher": "Paco Editorial",
+    "publishedDate": "2018-08-23",
+    "description": "Este livro analisa as relações entre a Igreja e o Estado no Brasil tomando por marcos divisores as transformações advindas do Concílio Vaticano II, das Conferências Episcopais Latino-Americanas de Medellín (1968) e de Puebla (1979), da Teologia da Libertação, da ação das CEBs (Comunidades Eclesiais de Base) e da Pastoral Operária.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546207220"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8546207224"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PpRqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PpRqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PpRqDwAAQBAJ&pg=PT131&dq=Hist%C3%B3rias+da+B%C3%ADblia+ilustradas&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PpRqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PpRqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PpRqDwAAQBAJ&rdid=book-PpRqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Igreja_Estado_e_Poder-sample-epub.acsm?id=PpRqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PpRqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eHistória\u003c/b\u003e Oral. Extraído de um depoimento do Prof. Dr. Nilson Moraes, sociólogo e \u003cbr\u003e\nprofessor da Universidade Federal do Rio de janeiro no ... Nos anos 1970 a \u003cbr\u003e\nEditora Abril editou uma obra semelhante intitulada \u003cb\u003eHistórias ilustradas\u003c/b\u003e da \u003cb\u003eBíblia\u003c/b\u003e."
+   }
+  }
+ ]
+}

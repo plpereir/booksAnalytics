@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SkNnDwAAQBAJ",
+   "etag": "gLxw57JN1yc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SkNnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Vade Mecum Saraiva - 24.ª",
+    "authors": [
+     "EDITORA SARAIVA (OBRA COL.)"
+    ],
+    "publisher": "Saraiva Educação S.A.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547218881"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547218882"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SkNnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SkNnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt-BR",
+    "previewLink": "http://books.google.com.br/books?id=SkNnDwAAQBAJ&pg=PT9034&dq=Vade+mecum+tradicional+Saraiva+2017&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=SkNnDwAAQBAJ&dq=Vade+mecum+tradicional+Saraiva+2017&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vade_Mecum_Saraiva_24_%C2%AA.html?hl=&id=SkNnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vade_Mecum_Saraiva_24_%C2%AA-sample-epub.acsm?id=SkNnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SkNnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "13.465, de 11-7-\u003cb\u003e2017\u003c/b\u003e. ... na orla marítima e fluvial, destinados à subsistência da \u003cbr\u003e\npopulação \u003cb\u003etradicional\u003c/b\u003e, de maneira a possibilitar o início do processo de \u003cbr\u003e\nregularização fundiária que culminará na concessão de título definitivo, quando \u003cbr\u003e\ncabível."
+   }
+  }
+ ]
+}

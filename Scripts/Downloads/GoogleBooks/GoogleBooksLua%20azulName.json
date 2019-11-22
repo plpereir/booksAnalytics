@@ -1,0 +1,914 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 422,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ha3qAgAAQBAJ",
+   "etag": "o7XVl7V7gaM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ha3qAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Lua Azul",
+    "subtitle": "",
+    "authors": [
+     "Susana Campos"
+    ],
+    "publisher": "Temas Originais, Lda",
+    "description": "Nesta sua obra de estreia, Susana Campos leva-nos, sobretudo, por entre temáticas do foro social, onde o que amiúde se marginalizada se torna o enfoque do poema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789896881498"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9896881499"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ha3qAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ha3qAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ha3qAgAAQBAJ&printsec=frontcover&dq=Lua+azul&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ha3qAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ha3qAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.51,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.51,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ha3qAgAAQBAJ&rdid=book-ha3qAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.651E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.651E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ha3qAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta sua obra de estreia, Susana Campos leva-nos, sobretudo, por entre temáticas do foro social, onde o que amiúde se marginalizada se torna o enfoque do poema."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aj1kq72b904C",
+   "etag": "9dMBCJlXtrs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aj1kq72b904C",
+   "volumeInfo": {
+    "title": "Lua azul",
+    "authors": [
+     "Alyson Noël"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Ever é agora uma imortal. Iniciada nesse mundo desconhecido e sedutor por seu eterno amado, Damen, está empenhada em conhecer e dominar suas novas habilidades, mas algo terrível começa a acontecer. Acometido por uma doença misteriosa que ameaça, inclusive, sua memória, Damen não percebe que seus poderes se estão esvaindo – enquanto Ever se sente cada vez mais forte. Desesperada para salvá-lo, ela viaja até a dimensão mística de Summerland, onde não apenas toma conhecimento da misteriosa história de Damen, brutal e torturante, mas também tem acesso aos segredos que regem o Tempo. Com a lua azul que se aproxima, anunciando uma oportunidade única de se projetar para o passado ou para o futuro, Ever é forçada a decidir entre voltar no tempo e impedir o acidente que tirou a vida de toda a sua família ou ficar no presente e salvar Damen, que parece definhar a cada dia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570236"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570239"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aj1kq72b904C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aj1kq72b904C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aj1kq72b904C&printsec=frontcover&dq=Lua+azul&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aj1kq72b904C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aj1kq72b904C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aj1kq72b904C&rdid=book-aj1kq72b904C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Lua_azul-sample-epub.acsm?id=aj1kq72b904C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Lua_azul-sample-pdf.acsm?id=aj1kq72b904C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aj1kq72b904C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com a lua azul que se aproxima, anunciando uma oportunidade única de se projetar para o passado ou para o futuro, Ever é forçada a decidir entre voltar no tempo e impedir o acidente que tirou a vida de toda a sua família ou ficar no ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_8t5DwAAQBAJ",
+   "etag": "BMA0W0dvJIk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_8t5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Gatos E A Super Lua Azul De Sangue!",
+    "authors": [
+     "Tiago"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Uma obra que conta uma nova forma de ver nossos animais de estimações em um visão de cidade de interior a onde nem tudo parece ser o que é realmente! Acontece de tudo um pouco é ler para ver!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU34746"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_8t5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_8t5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_8t5DwAAQBAJ&pg=PP6&dq=Lua+azul&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_8t5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_8t5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_8t5DwAAQBAJ&rdid=book-_8t5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gatos_E_A_Super_Lua_Azul_De_Sangue-sample-pdf.acsm?id=_8t5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_8t5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais nesse momento um estrondo terrível que faz a terra tremer e as luzes da \u003cbr\u003e\ncidade se apagam, apenas a luz da imensa \u003cb\u003elua azul\u003c/b\u003e de sangue ilumina, todos os \u003cbr\u003e\ngatos olham para ela e por um breve instante parece que eles estão&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cp15DwAAQBAJ",
+   "etag": "dr7qkzigRrc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cp15DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Feitiço da Lua Azul",
+    "authors": [
+     "Joanne Harris"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2018-10-15",
+    "description": "O Amor fez dela uma prisioneira.Só a Vingança e a libertará.Num mundo onde realidade e magia andam de mãos dadas, uma jovem selvagem, sem nome, comete um erro terrível: apaixona-se. Mas enquanto a rapariga abdica de tudo para ficar com William, ele rapidamente se cansa. E quando as juras de amor eterno se evaporam, uma nova jura paira no ar: a de vingança da jovem sobre todos aqueles que a fizeram sofrer. A começar por William Poético, mágico e melancólico, O Feitiço da Lua Azul acompanha os ciclos da vida, a beleza e os perigos da Natureza. Joanne Harris escreveu um conto de fadas moderno sobre amor, perda e vingança, que rapidamente se tornará um clássico moderno.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789892343662"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9892343662"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cp15DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cp15DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cp15DwAAQBAJ&dq=Lua+azul&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cp15DwAAQBAJ&dq=Lua+azul&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Feiti%C3%A7o_da_Lua_Azul.html?hl=&id=cp15DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cp15DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Joanne Harris escreveu um conto de fadas moderno sobre amor, perda e vingança, que rapidamente se tornará um clássico moderno."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E8dWDwAAQBAJ",
+   "etag": "7x5gyAL8vOM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E8dWDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O mistério da lua azul",
+    "authors": [
+     "Sandra Balzer"
+    ],
+    "publisher": "Novo Seculo Livraria e Editora Ltda",
+    "publishedDate": "2018-04-15",
+    "description": "mistério da lua azul é um livro de relatos, tendo como ponto de partida um fenômeno raro e surpreendente: a lua azul, que é a segunda lua cheia de um mês. Sandra Balzer, ao presenciar esse evento, pôde notar uma imagem se formando na superfície da lua, e a partir dessa revelação profunda começa a nos contar outros fatos da sua vida, repletos de espiritualidade e da forte presença de Deus. O É um relato que se mistura a outras histórias verídicas e que, ao final, dá a sensação de que há muito mais do que nossos olhos conseguem ver. Um livro surpreendente, enigmático e que consegue transformar, edificar e elevar nossos pensamentos a Deus na busca incessante de respostas para os grandes mistérios da vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542813791"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542813790"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=E8dWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=E8dWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=E8dWDwAAQBAJ&printsec=frontcover&dq=Lua+azul&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=E8dWDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-E8dWDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=E8dWDwAAQBAJ&rdid=book-E8dWDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_mist%C3%A9rio_da_lua_azul-sample-epub.acsm?id=E8dWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_mist%C3%A9rio_da_lua_azul-sample-pdf.acsm?id=E8dWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E8dWDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sandra Balzer, ao presenciar esse evento, pôde notar uma imagem se formando na superfície da lua, e a partir dessa revelação profunda começa a nos contar outros fatos da sua vida, repletos de espiritualidade e da forte presença de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S0OjDgAAQBAJ",
+   "etag": "yat9bfPm0D8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S0OjDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Eclipse da Lua Azul",
+    "subtitle": "Mundo Humano",
+    "authors": [
+     "Débora Knittel",
+     "Érica Falcão"
+    ],
+    "publisher": "Solisluna Design e Editora LTDA - EPP",
+    "publishedDate": "2017-03-15",
+    "description": "Após a morte de sua esposa, o arqueólogo John Crane, especialista em história das antigas civilizações, decide mudar-se com sua filha Holly para o Rio de Janeiro, perto dos amigos Dr. Ramos, Dra. Rita e sua filha Maiara. Holly, embora acolhida pela família de Maiara, vive um sentimento de tristeza e saudade de seu pai, sempre em expedições pelo mundo. Antes de completar dezoito anos, Holly recebe um artefato e tentará desvendar os mistérios sobre o desaparecimento de seu pai, as visões de Maiara e o crescente desequilíbrio da natureza. Nesta Aventura, as amigas Holly e Maiara conhecem Celino e Kami, seres de outros mundos, iniciando uma jornada na qual os sentimentos e os dons serão despertados e os valores fundamentais da humanidade, colocados à prova. O final desta jornada é imprevisível. Escolhas determinarão o destino do planeta, para que não fique sob o domínio dos seres das trevas. A Terra poderá ter mais uma chance?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788589059879"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8589059871"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S0OjDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S0OjDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=S0OjDgAAQBAJ&printsec=frontcover&dq=Lua+azul&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=S0OjDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-S0OjDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=S0OjDgAAQBAJ&rdid=book-S0OjDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eclipse_da_Lua_Azul-sample-epub.acsm?id=S0OjDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eclipse_da_Lua_Azul-sample-pdf.acsm?id=S0OjDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=S0OjDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Após a morte de sua esposa, o arqueólogo John Crane, especialista em história das antigas civilizações, decide mudar-se com sua filha Holly para o Rio de Janeiro, perto dos amigos Dr. Ramos, Dra."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "paMoDwAAQBAJ",
+   "etag": "JvSPx5Ly8QA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/paMoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Selene e o Dragão",
+    "subtitle": "A Última Lua Azul - Livro I",
+    "authors": [
+     "Marília Galvão Barbosa"
+    ],
+    "publisher": "Editora Pendragon (Roberta Pitanga Santos De Stefani)",
+    "publishedDate": "2017-06-17",
+    "description": "Em meio a uma guerra entre humanos e dragões, Selene foge de uma tragédia que destruiu sua vila e se vê frente a frente com um inimigo de sua espécie: um dragão, caído e vulnerável. Contrariando tudo o que conhecia e ainda com a dor da perda pesando no peito, ela toma uma decisão e usa magia para salvá-lo. Agora, Drake, o dragão, e Selene dão início a uma jornada para reconciliar ambas espécies. Porém, percebem que há muito mais em risco ao receberem uma missão de uma Deusa poderosa e temperamental. Todos têm objetivos ocultos, e o sucesso ou fracasso desta missão pode provocar mais consequências do que se imagina.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569782810"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8569782810"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=paMoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=paMoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=paMoDwAAQBAJ&printsec=frontcover&dq=Lua+azul&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=paMoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-paMoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=paMoDwAAQBAJ&rdid=book-paMoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Selene_e_o_Drag%C3%A3o-sample-epub.acsm?id=paMoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Selene_e_o_Drag%C3%A3o-sample-pdf.acsm?id=paMoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=paMoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em meio a uma guerra entre humanos e dragões, Selene foge de uma tragédia que destruiu sua vila e se vê frente a frente com um inimigo de sua espécie: um dragão, caído e vulnerável."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xMMpDwAAQBAJ",
+   "etag": "edKpj3/twsg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xMMpDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Saga Três Luas. Lua Azul - Livro 1",
+    "authors": [
+     "Fred Oliveira"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2017-06-01",
+    "description": "O universo está em perigo... Uma poderosa civilização monitora a relação entre o bem e o mal do universo, destruindo planetas inteiros sempre que o equilíbrio parece ameaçado. Para tal, observam uma incrível relíquia, chamada A Grande Balança, que se inclina sempre que um planeta precisa ser exterminado. E mais: a Terra, o Planeta Azul, é o próximo. Mas, muito tempo atrás, na Itália renascentista, Galileu e seus discípulos desenvolveram o que poderia ser a última esperança da raça humana: sete armas de extremo poder, confiadas a gerações e gerações de guerreiros habilidosos e comprometidos com a salvação do mundo. Essa história atravessará os séculos até chegar a Tóquio, no ano de 2064. Katsuma, um jovem de apenas dezesseis anos, receberá uma das grandes armas de Galileu e terá de lidar não apenas com os sentimentos e as descobertas de um adolescente comum, mas também com o peso da maior responsabilidade que um homem adulto poderia suportar: o de ser o herói de que a humanidade precisa para continuar existindo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542210583"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542210581"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.18.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xMMpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xMMpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xMMpDwAAQBAJ&printsec=frontcover&dq=Lua+azul&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xMMpDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xMMpDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xMMpDwAAQBAJ&rdid=book-xMMpDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Saga_Tr%C3%AAs_Luas_Lua_Azul_Livro_1-sample-epub.acsm?id=xMMpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Saga_Tr%C3%AAs_Luas_Lua_Azul_Livro_1-sample-pdf.acsm?id=xMMpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xMMpDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O universo está em perigo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "elZQDAAAQBAJ",
+   "etag": "3BZgv5kbCNQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/elZQDAAAQBAJ",
+   "volumeInfo": {
+    "title": "As fases da lua",
+    "authors": [
+     "Clarissa Corrêa",
+     "Liliane Prata",
+     "Bianca Briones",
+     "Leila Rego",
+     "Jennifer Brown"
+    ],
+    "publisher": "Gutemberg",
+    "publishedDate": "2016-05-31",
+    "description": "5 mulheres, 5 fases da Lua, 5 histórias de... amor? Alice é uma jovem com uma vontade crescente de cair no mundo, até se apaixonar pelo cara mais gato da cidade. Mas um incidente no meio de seu conto de fadas pode mudar sua vida para sempre. Lena é uma mulher cheia de amor para dar e que stalkeia todos os passos dos homens por quem se apaixona. E ela realmente se apaixona por todos. O problema é que eles não se apaixonam por ela... Um amor minguante não tem vez na vida de Bruna. Noiva do seu melhor amigo de infância, eles se preparam para o casamento e traçam planos para uma vida inteira juntos. Mas será que não é perfeição demais? Ainda nova, Dora já é uma médica renomada, segura e decidida, mas seu coração traz uma ferida e ela não está disposta a se abrir novamente. Até que o amor lhe aparece em forma de canção... Destiny é uma jovem com um passado marcado por dúvidas e segredos, assim como o misterioso luar azul que toma conta de sua cidade, deixando-a confusa e com medo... pois no fundo ela sabe que ele pode guardar as respostas que ela tanto busca. Assim como a Lua, a vida também é repleta de fases, e neste livro acompanhamos as deliciosas histórias de cinco mulheres que estão em diferentes fases da vida, mas que têm em comum os altos e baixos, os amores e desamores, as promessas e incertezas da busca pela felicidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582353783"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582353782"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=elZQDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=elZQDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=elZQDAAAQBAJ&pg=PT312&dq=Lua+azul&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=elZQDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-elZQDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=elZQDAAAQBAJ&rdid=book-elZQDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.34E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_fases_da_lua-sample-epub.acsm?id=elZQDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_fases_da_lua-sample-pdf.acsm?id=elZQDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=elZQDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A lua estava azul. Estava cheia. E azul. Azul como o mar. Azul como mirtilos. \u003cbr\u003e\nAzul como as penas de um pavão. E já estava daquele jeito há semanas. Não \u003cbr\u003e\nque uma \u003cb\u003elua azul\u003c/b\u003e fosse algo que nunca se tinha ouvido falar. É só que aquele \u003cbr\u003e\nditado&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xkJWDwAAQBAJ",
+   "etag": "AvOJaCEy7f8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xkJWDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Lua Azul",
+    "publisher": "Clube de Autores",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90215887"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 28,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xkJWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xkJWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=xkJWDwAAQBAJ&dq=Lua+azul&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xkJWDwAAQBAJ&dq=Lua+azul&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Lua_Azul.html?hl=&id=xkJWDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xkJWDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

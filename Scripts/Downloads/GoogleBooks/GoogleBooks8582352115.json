@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kp1yjwEACAAJ",
+   "etag": "qjave+WP8dQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kp1yjwEACAAJ",
+   "volumeInfo": {
+    "title": "O livro do bem",
+    "subtitle": "coisas para você fazer & deixar seu dia mais feliz ; por indiretas do bem",
+    "authors": [
+     "Jessica Grecco"
+    ],
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582352115"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582352113"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 223,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kp1yjwEACAAJ&dq=isbn:8582352115&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kp1yjwEACAAJ&dq=isbn:8582352115&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_do_bem.html?hl=&id=kp1yjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kp1yjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ENtão vem! E fica aqui um convite: fotografe e publique tudo o que você fizer no seu Livro do Bem nas redes sociais com tag #livrodobem. POrque o que é do BEM merece ser compartilhado!"
+   }
+  }
+ ]
+}

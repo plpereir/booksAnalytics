@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IrqxpwAACAAJ",
+   "etag": "+53epmVqEqM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IrqxpwAACAAJ",
+   "volumeInfo": {
+    "title": "O X da questão",
+    "authors": [
+     "Eike Batista",
+     "Roberto Dávila"
+    ],
+    "publishedDate": "2011",
+    "description": "Em 'O X da questão', o empreendedor brasileiro Eike Batista narra suas aventuras desde os maiores sucessos até as experiências que não deram certo e os erros cometidos no curso de projetos vitoriosos. Há lugar também para o que ele qualifica como 'estresses' que o fizeram crescer, a começar pela asma na infância. Eike Batista expõe ainda o arsenal teórico que está na origem de seus negócios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857542663X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575426630"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Businessmen"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IrqxpwAACAAJ&dq=isbn:9788575426630&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IrqxpwAACAAJ&dq=isbn:9788575426630&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_X_da_quest%C3%A3o.html?hl=&id=IrqxpwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IrqxpwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;O X da questão&#39;, o empreendedor brasileiro Eike Batista narra suas aventuras desde os maiores sucessos até as experiências que não deram certo e os erros cometidos no curso de projetos vitoriosos."
+   }
+  }
+ ]
+}

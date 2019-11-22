@@ -1,0 +1,763 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 452,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WxSzWpusoYMC",
+   "etag": "RRUKwp7gBXM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WxSzWpusoYMC",
+   "volumeInfo": {
+    "title": "O conceito de liberdade no leviatã de Hobbes",
+    "publisher": "EDIPUCRS",
+    "publishedDate": "1993",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Liberty"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WxSzWpusoYMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WxSzWpusoYMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WxSzWpusoYMC&printsec=frontcover&dq=Liberdade&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WxSzWpusoYMC&dq=Liberdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_conceito_de_liberdade_no_leviat%C3%A3_de_H.html?hl=&id=WxSzWpusoYMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WxSzWpusoYMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "18MRVyENwDwC",
+   "etag": "qVNV8rLxFXo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/18MRVyENwDwC",
+   "volumeInfo": {
+    "title": "Sobre a Liberdade",
+    "authors": [
+     "J. Krishnamurti"
+    ],
+    "publisher": "Krishnamurti Foundation Trust Ltd.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531605717"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531605710"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=18MRVyENwDwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=18MRVyENwDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=18MRVyENwDwC&printsec=frontcover&dq=Liberdade&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=18MRVyENwDwC&dq=Liberdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_a_Liberdade.html?hl=&id=18MRVyENwDwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=18MRVyENwDwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5zUX38a4p_kC",
+   "etag": "BjVsBuTmk7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5zUX38a4p_kC",
+   "volumeInfo": {
+    "title": "Genealogia da Liberdade",
+    "authors": [
+     "Vladimir Duarte Dias"
+    ],
+    "publisher": "Editora AGE Ltda",
+    "publishedDate": "2004",
+    "description": "A liberdade está ligada ao seu oposto, aos mais variados tipos de escravidão e servidão. Na medida em que a conquista da liberdade avança sobre determinada área, o engenho humano, que manipula os interesses de outros segmentos, aperfeiçoa a forma de substituir o processo que mantém as pessoas dependentes de um sistema, para outro mais disfarçado, mais sutil, que nem por isso, pelo menos em tese, deixa de ser perverso e contrário aos mais legítimos desejos de desfrutá-la.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574972231"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574972237"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5zUX38a4p_kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5zUX38a4p_kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5zUX38a4p_kC&printsec=frontcover&dq=Liberdade&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5zUX38a4p_kC&dq=Liberdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Genealogia_da_Liberdade.html?hl=&id=5zUX38a4p_kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5zUX38a4p_kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A liberdade está ligada ao seu oposto, aos mais variados tipos de escravidão e servidão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KpxZP0R0YZEC",
+   "etag": "zVsXDPXS15s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KpxZP0R0YZEC",
+   "volumeInfo": {
+    "title": "Teoria da liberdade",
+    "authors": [
+     "Philip Pettit"
+    ],
+    "publisher": "Editora del Rey",
+    "publishedDate": "2007",
+    "description": "Neste livro, a teoria da liberdade se aplica tanto às discussões psicológicas sobre a vontade quanto aos assuntos políticos de um Estado e uma Constituição livres. A liberdade é conjugada tanto pela necessidade de a pessoa assumir sua responsabilidade quanto pela possibilidade de agir como parceiro nas diversas interações. A trama parte da liberdade do sujeito e chega às implicações do agir no âmbito político. Este é um livro que se destina aos estudiosos do Direito, da Filosofia e da Ciência Política.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573088892"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573088893"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 247,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KpxZP0R0YZEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KpxZP0R0YZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KpxZP0R0YZEC&printsec=frontcover&dq=Liberdade&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KpxZP0R0YZEC&dq=Liberdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teoria_da_liberdade.html?hl=&id=KpxZP0R0YZEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KpxZP0R0YZEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, a teoria da liberdade se aplica tanto às discussões psicológicas sobre a vontade quanto aos assuntos políticos de um Estado e uma Constituição livres."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PlOjxyusEIsC",
+   "etag": "XT49faVjqrM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PlOjxyusEIsC",
+   "volumeInfo": {
+    "title": "Liberdade",
+    "authors": [
+     "Jonathan Franzen"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2011-05-18",
+    "description": "Liberdade, quarto romance do norte-americano Jonathan Franzen, foi um dos mais festejados lançamentos literários de 2010. Publicado nove anos após As correções (vencedor do National Book Award), o livro foi saudado como um painel amplo e profundo da sociedade americana contemporânea e um triunfo da prosa refinada que já fazia a fama do autor. A história de Liberdade gira ao redor de um trio de protagonistas. Walter e Patty Berglund formam, junto com os filhos adolescentes Joey e Jessica, uma típica família norte-americana liberal de classe média. Richard Katz é um roqueiro descolado que tenta fugir da fama que tanto buscava no passado. Os três se conhecem no final dos anos 1970, na Universidade de Minnesota, e a partir daí suas vidas se entrelaçam numa complexa relação de amizade, paixão, lealdade e traições que culminará com uma série de conflitos decisivos na primeira década do novo milênio, época em que o conceito de liberdade parece tão onipresente quanto fugidio. Como em As correções, Franzen mergulha numa tragédia familiar para dissecar, com incrível detalhe e personagens tão reconhecíveis quanto surpreendentes, a psique e os sonhos da classe média norte-americana, explorando temas como o choque entre as políticas liberais e conservadoras no contexto social e privado, os males da superpopulação e das ameaças ecológicas, a crise do politicamente correto e os dilemas afetivos de uma geração cada vez mais conectada, individualista e globalizada. Aclamado pela crítica, Liberdade também foi um fenômeno de mídia. A apresentadora Oprah Winfrey o selecionou para o seu popular círculo do livro, o Oprah's Book Club, e a revista Time estampou sua capa com o romance, algo que não acontecia desde o ano 2000, quando Stephen King figurou no mesmo espaço.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580864885"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580864887"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.14.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PlOjxyusEIsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PlOjxyusEIsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PlOjxyusEIsC&printsec=frontcover&dq=Liberdade&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PlOjxyusEIsC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PlOjxyusEIsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PlOjxyusEIsC&rdid=book-PlOjxyusEIsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Liberdade-sample-epub.acsm?id=PlOjxyusEIsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Liberdade-sample-pdf.acsm?id=PlOjxyusEIsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PlOjxyusEIsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Liberdade, quarto romance do norte-americano Jonathan Franzen, foi um dos mais festejados lançamentos literários de 2010."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_nDZAmvoWbYC",
+   "etag": "rhQdO6uLZz8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_nDZAmvoWbYC",
+   "volumeInfo": {
+    "title": "A Liberdade em Reflexão Garantista",
+    "authors": [
+     "ANDRE RICARDO DIAS DA SILVA"
+    ],
+    "publisher": "Editora Baraúna",
+    "description": "A privação da liberdade é uma penalidade imposta em quase todos os países, uma vez que ainda não se idealizou um método capaz de substituí-la. Considerando que a situação prisional, mormente aquela perpetrada no Brasil, se mostra destituída de qualquer vantagem social, representando ao apenado sofrimento cruel e desnecessário, e à sociedade, a acolhida de egressos oriundos de verdadeiras universidades do crime, é necessário repensá-la. Não somente a pena privativa de liberdade, mas o direito penal como um todo. Reservá-los aos casos que realmente os reclamam é medida apta a transformar, para melhor, o quadro que ora se apresenta. O postulado garantista, adotado pela melhor doutrina penalista, defende a maximização da liberdade e a diminuição da violência. Dentro deste contexto, refletiu-se, apoiados em pesquisa doutrinária, de direito comparado e em dados estatísticos, sobre a pena privativa de liberdade, sugerindo alternativas. Tudo com o escopo de ofertar ao preso meios de obter uma vida carcerária digna, e à sociedade, a certeza de que acolherá alguém a quem se oportunizou a possibilidade de evoluir.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579233074"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579233070"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 326,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.84.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_nDZAmvoWbYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_nDZAmvoWbYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_nDZAmvoWbYC&printsec=frontcover&dq=Liberdade&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_nDZAmvoWbYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_nDZAmvoWbYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.45,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.45,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_nDZAmvoWbYC&rdid=book-_nDZAmvoWbYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.945E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.945E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Liberdade_em_Reflex%C3%A3o_Garantista-sample-pdf.acsm?id=_nDZAmvoWbYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_nDZAmvoWbYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A privação da liberdade é uma penalidade imposta em quase todos os países, uma vez que ainda não se idealizou um método capaz de substituí-la."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "adan5vFHTt4C",
+   "etag": "4UX0sehzqyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/adan5vFHTt4C",
+   "volumeInfo": {
+    "title": "Marx e a liberdade",
+    "publisher": "EDIPUCRS",
+    "publishedDate": "1997",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 186,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=adan5vFHTt4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=adan5vFHTt4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=adan5vFHTt4C&printsec=frontcover&dq=Liberdade&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=adan5vFHTt4C&dq=Liberdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Marx_e_a_liberdade.html?hl=&id=adan5vFHTt4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=adan5vFHTt4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OAZI7m4G39MC",
+   "etag": "I3Owz4lMaZ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OAZI7m4G39MC",
+   "volumeInfo": {
+    "title": "O salário da liberdade",
+    "subtitle": "profissão e maternidade, negociações para uma igualdade na diferença",
+    "authors": [
+     "Danielle Ardaillon"
+    ],
+    "publisher": "Annablume",
+    "publishedDate": "1997-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585596899"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585596897"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Man-woman relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OAZI7m4G39MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OAZI7m4G39MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OAZI7m4G39MC&printsec=frontcover&dq=Liberdade&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OAZI7m4G39MC&dq=Liberdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_sal%C3%A1rio_da_liberdade.html?hl=&id=OAZI7m4G39MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OAZI7m4G39MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TKolDgAAQBAJ",
+   "etag": "VRXPKWNrx4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TKolDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Sobre a liberdade e A sujeição das mulheres",
+    "authors": [
+     "Stuart Mill"
+    ],
+    "publisher": "Editora Schwarcz - Companhia das Letras",
+    "publishedDate": "2017-03-20",
+    "description": "Dois textos clássicos atestam a atualidade do pensamento de John Stuart Mill. O indivíduo deve ser livre para direcionar sua vida como preferir em tudo aquilo que não cause dano a terceiros. Homens e mulheres devem viver em igualdade. Essas proposições estão no cerne de Sobre a liberdade e A sujeição das mulheres. Mill enxergava três fontes de despotismo à sua volta: o Estado, o costume e a opinião pública. Graças a elas, os indivíduos passavam a vida numa existência atrofiada, sem experimentar seu verdadeiro potencial. Contra essa diluição dos indivíduos, Mill elaborou sua defesa da liberdade. Quanto às mulheres, Mill exige a plena igualdade legal — numa época em que elas sequer podiam votar — e defende que os homens se desvencilhem de antigos preconceitos. Essas obras poderosas convidam ao exercício de uma ética da liberdade e buscam a compreensão de hábitos e opiniões diferentes dos nossos. Trata-se de pilar fundamental em tempos de intolerância e fanatismo como os de hoje.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543808659"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543808650"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TKolDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TKolDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TKolDgAAQBAJ&printsec=frontcover&dq=Liberdade&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TKolDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TKolDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TKolDgAAQBAJ&rdid=book-TKolDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sobre_a_liberdade_e_A_sujei%C3%A7%C3%A3o_das_mul-sample-epub.acsm?id=TKolDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sobre_a_liberdade_e_A_sujei%C3%A7%C3%A3o_das_mul-sample-pdf.acsm?id=TKolDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TKolDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Homens e mulheres devem viver em igualdade. Essas proposições estão no cerne de Sobre a liberdade e A sujeição das mulheres. Mill enxergava três fontes de despotismo à sua volta: o Estado, o costume e a opinião pública."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2ED7qp3TAlgC",
+   "etag": "rEiuHeQjXcM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2ED7qp3TAlgC",
+   "volumeInfo": {
+    "title": "Em Liberdade",
+    "authors": [
+     "Silviano Santiago"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2013-07-01",
+    "description": "No dia 13 de janeiro de 1937, por iniciativa de amigos e graças à ajuda do advogado Sobral Pinto, Graciliano Ramos livrou-se da prisão, após quase um ano encarcerado. O que teria sentido o autor de Vidas secas ao arriscar os primeiros passos em liberdade? O fato é que Graciliano jamais escreveu uma linha sequer sobre o período que se sucedeu à soltura. Mas deveria ter escrito – pensa o poeta, escritor, crítico e professor Silviano Santiago que, em uma das mais originais viagens literárias de nosso tempo, aventurou-se em imaginar o que Graciliano teria anotado em um diário a respeito do que viu e viveu nos primeiros três meses fora das grades. No livro Em liberdade, Santiago apresenta uma ficção \"alterbiográfica\", recriando Ramos política e existencialmente. Para mergulhar nesta história, ele estudou durante quatro anos a vida do escritor alagoano, sua obra, pesquisou jornais, revistas e livros da época e consultou mapas do Rio de Janeiro de então. \"A partir deste material deixei que minha imaginação delirasse. Para mim foi uma coisa mágica, como se eu estivesse psicografando\", conta ele. Em liberdade foi considerado pelo crítico literário Fábio Lucas – em matéria no Jornal da Tarde – uma das obras que melhor representa a ficção, a poesia e a ensaística brasileiras do século XX. Também um conjunto de críticos da Folha de S. Paulo, há algum tempo, listou o livro entre os dez melhores romances brasileiros dos últimos 30 anos. Para Santiago, o livro é um mergulho na realidade brasileira. \"Uma tentativa de integrar o Brasil, levando em conta seu dilaceramento\", afirma ele. Desde quando foi publicado Em liberdade tem suscitado diversas interpretações. A reação da crítica foi entusiástica e salientava a audácia da proposta ficcional. O romance pode ser apreciado ainda hoje por essas questões que permanecem atuais e instigantes, oferecendo um primoroso retrato histórico do Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581222479"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581222471"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2ED7qp3TAlgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2ED7qp3TAlgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2ED7qp3TAlgC&printsec=frontcover&dq=Liberdade&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2ED7qp3TAlgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2ED7qp3TAlgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2ED7qp3TAlgC&rdid=book-2ED7qp3TAlgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.4E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.28E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Liberdade-sample-epub.acsm?id=2ED7qp3TAlgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Liberdade-sample-pdf.acsm?id=2ED7qp3TAlgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2ED7qp3TAlgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No livro Em liberdade, Santiago apresenta uma ficção &quot;alterbiográfica&quot;, recriando Ramos política e existencialmente."
+   }
+  }
+ ]
+}

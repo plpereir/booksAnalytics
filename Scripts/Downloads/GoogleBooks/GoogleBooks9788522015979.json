@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Rl0VvgAACAAJ",
+   "etag": "VPq2ZpYTJfA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rl0VvgAACAAJ",
+   "volumeInfo": {
+    "title": "MILAGRES",
+    "authors": [
+     "REGINALDO (PADRE) MANZOTTI"
+    ],
+    "description": "Trata-se de um estudo de sete milagres de Jesus, em uma linguagem atual, com o propósito de enfatizar os ensinamentos que brotam deles e como esses ensinamentos, se colocados em prática, podem transformar nossa vida e a vida das pessoas que nos cercam. O livro também servirá para grupos de oração, grupos de estudo e todas as pessoas que queiram aprofundar o conhecimento, a fé e deixar que esses milagres façam eco em sua realidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852201597X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522015979"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Rl0VvgAACAAJ&dq=isbn:9788522015979&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Rl0VvgAACAAJ&dq=isbn:9788522015979&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MILAGRES.html?hl=&id=Rl0VvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Rl0VvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Trata-se de um estudo de sete milagres de Jesus, em uma linguagem atual, com o propósito de enfatizar os ensinamentos que brotam deles e como esses ensinamentos, se colocados em prática, podem transformar nossa vida e a vida das pessoas ..."
+   }
+  }
+ ]
+}

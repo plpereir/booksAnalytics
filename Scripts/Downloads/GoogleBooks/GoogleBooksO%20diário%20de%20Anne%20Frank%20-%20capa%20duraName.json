@@ -1,0 +1,584 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 7,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qxl6DwAAQBAJ",
+   "etag": "Vs9bmEaB/Qg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qxl6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Diário De Anne Frank Anne Frank",
+    "authors": [
+     "Pedro"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Diário de Anne Frank - Anne Frank",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35674"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qxl6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qxl6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qxl6DwAAQBAJ&pg=PA4&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qxl6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qxl6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qxl6DwAAQBAJ&rdid=book-qxl6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_De_Anne_Frank_Anne_Frank-sample-pdf.acsm?id=qxl6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qxl6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Faz alguns dias que não escrevo porque eu quis, antes de tudo, pensar neste \u003cbr\u003e\n\u003cb\u003ediário\u003c/b\u003e. ... como não tenho a menor intenção de mostrar a ninguém este caderno \u003cbr\u003e\nde \u003cb\u003ecapa dura\u003c/b\u003e que atende pelo pomposo nome de \u003cb\u003ediário\u003c/b\u003e — a não ser que \u003cbr\u003e\nencontre&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UR56DwAAQBAJ",
+   "etag": "HaKvmFY6Sr8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UR56DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Diário De Anne Frank Anne Frank",
+    "authors": [
+     "Org"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Diário de Anne Frank - Anne Frank",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU37091"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UR56DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UR56DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UR56DwAAQBAJ&pg=PA4&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UR56DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UR56DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UR56DwAAQBAJ&rdid=book-UR56DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_De_Anne_Frank_Anne_Frank-sample-pdf.acsm?id=UR56DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UR56DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Faz alguns dias que não escrevo porque eu quis, antes de tudo, pensar neste \u003cbr\u003e\n\u003cb\u003ediário\u003c/b\u003e. ... como não tenho a menor intenção de mostrar a ninguém este caderno \u003cbr\u003e\nde \u003cb\u003ecapa dura\u003c/b\u003e que atende pelo pomposo nome de \u003cb\u003ediário\u003c/b\u003e — a não ser que \u003cbr\u003e\nencontre&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Axp6DwAAQBAJ",
+   "etag": "bRtBVWcyyb0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Axp6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Diário De Anne Frank Anne Frank",
+    "authors": [
+     "Alvaro"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Diário de Anne Frank - Anne Frank",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35729"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Axp6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Axp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Axp6DwAAQBAJ&pg=PA4&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Axp6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Axp6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Axp6DwAAQBAJ&rdid=book-Axp6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_De_Anne_Frank_Anne_Frank-sample-pdf.acsm?id=Axp6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Axp6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Faz alguns dias que não escrevo porque eu quis, antes de tudo, pensar neste \u003cbr\u003e\n\u003cb\u003ediário\u003c/b\u003e. ... como não tenho a menor intenção de mostrar a ninguém este caderno \u003cbr\u003e\nde \u003cb\u003ecapa dura\u003c/b\u003e que atende pelo pomposo nome de \u003cb\u003ediário\u003c/b\u003e — a não ser que \u003cbr\u003e\nencontre&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RWssDwAAQBAJ",
+   "etag": "SZp4IWlwxVw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RWssDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Diário de Anne Frank",
+    "authors": [
+     "Anne Frank"
+    ],
+    "publisher": "LeBooks Editora ",
+    "publishedDate": "2017-07-12",
+    "description": "Anne Frank, foi uma adolescente alemã de origem judaica que se tornou mundialmente conhecida por ter escrito um diário, posteriormente transformado em livro. Em princípio seria apenas um diário como o de milhares de adolescentes, mas neste caso específico tratava-se de um relato direto do período de 25 meses em que ficou escondida para não ser capturada pelos nazistas. O valor da história contada em O Diário de Anne Frank, transcende aspectos literários. Trata-se de um documento histórico por retratar o cotidiano de pessoas comuns que tiveram suas vidas brutalmente transformadas pelo Nazismo. O livro, agora em formato ebook, já vendeu mais de 30 milhões de cópias, foi publicado em mais de 60 países e está traduzido em mais de 70 idiomas. O Diário de Anne Frank é uma leitura que definitivamente vale a pena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788583861102"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8583861102"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RWssDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RWssDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RWssDwAAQBAJ&pg=PT19&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RWssDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RWssDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RWssDwAAQBAJ&rdid=book-RWssDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.34E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.34E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_de_Anne_Frank-sample-epub.acsm?id=RWssDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_de_Anne_Frank-sample-pdf.acsm?id=RWssDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RWssDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eAnne Frank\u003c/b\u003e. do que isso, quero trazer à tona tudo o que está enterrado bem \u003cbr\u003e\nfundo no meu coração. Há um ditado ... a menor intenção de mostrar a ninguém \u003cbr\u003e\neste caderno de \u003cb\u003ecapa dura\u003c/b\u003e que atende pelo pomposo nome de \u003cb\u003ediário\u003c/b\u003e — a não \u003cbr\u003e\nser&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FaEkDwAAQBAJ",
+   "etag": "W0omwd168AE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FaEkDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Anne Frank",
+    "subtitle": "A história do Diário que comoveu o mundo",
+    "authors": [
+     "Francine Prose"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2017-05-18",
+    "description": "Como a vida e a morte de uma adolescente podem representar o sofrimento e a coragem de milhões de pessoas? Por que suas palavras continuam inspirando tanta gente e continuam sendo proibidas em tantos lugares? A crítica literária Francine Prose acompanha a trajetória do diário desde sua criação, no sótão onde Anne e a família se esconderam dos nazistas, até as polêmicas que cercam suas adaptações e sua autenticidade. No caminho, mostra que Anne não era apenas uma adolescente registrando experiências de forma casual, mas sim uma escritora talentosa. De fato, ela pretendia que seu diário fosse lido, e fez sucessivas revisões do texto. Sem dúvida alcançou seu objetivo. Poucos livros no mundo foram tão influentes, e por tanto tempo. Prose investiga ainda as teorias conspiratórias que acusam o diário de ser uma fraude, bem como as análises científicas que o provam verdadeiro. Com essa leitura reveladora e emocionante, nos reaproximamos de uma obra que ocupa lugar afetivo na memória de muitos leitores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537816561"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537816566"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FaEkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FaEkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FaEkDwAAQBAJ&pg=PT135&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FaEkDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FaEkDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 46.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 46.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FaEkDwAAQBAJ&rdid=book-FaEkDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.69E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Anne_Frank-sample-epub.acsm?id=FaEkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Anne_Frank-sample-pdf.acsm?id=FaEkDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FaEkDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "são obra da \u003cb\u003eAnne\u003c/b\u003e de 15 anos escrevendo de maneira mais refletida do que lhe \u003cbr\u003e\nteria sido possível dois anos antes. ... de \u003cb\u003ecapa dura\u003c/b\u003e”, ela não só está revisando \u003cbr\u003e\num livro que espera publicar, como não está mais escrevendo no \u003cb\u003ediário\u003c/b\u003e de capa\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XwPsAAAAMAAJ",
+   "etag": "2VNoik1UypM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XwPsAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Morashá",
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172146858858"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XwPsAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XwPsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XwPsAAAAMAAJ&q=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XwPsAAAAMAAJ&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Morash%C3%A1.html?hl=&id=XwPsAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XwPsAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sobre a mãe, diz, ainda: &quot;É possível que por causa do seu grande sacrifício, \u003cbr\u003e\nminha mãe tenha-se tornado \u003cb\u003edura\u003c/b\u003e e desagradável em ... O primeiro - um caderno \u003cbr\u003e\nespecial para \u003cb\u003ediário\u003c/b\u003e, com \u003cb\u003ecapa\u003c/b\u003e de tecido xadrez vermelho e verde, com um fecho \u003cbr\u003e\n- \u003cb\u003eAnne\u003c/b\u003e recebeu de presente pelo ... \u003cb\u003eFrank\u003c/b\u003e liberou para a primeira publicação a \u003cbr\u003e\nversão &quot;B&quot;, com muitas modificações, sob o título \u003cb\u003eAnne Frank\u003c/b\u003e: \u003cb\u003ediário\u003c/b\u003e de uma \u003cbr\u003e\njovem."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZL8wAAAAYAAJ",
+   "etag": "5lR7TogW4BE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZL8wAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172131014309"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZL8wAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZL8wAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZL8wAAAAYAAJ&q=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZL8wAAAAYAAJ&dq=O+di%C3%A1rio+de+Anne+Frank+-+capa+dura&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=ZL8wAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZL8wAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "C r$ 821 500,00). é um bonito \u003cb\u003ecapa dura\u003c/b\u003e com pinturas e desenhos rústicos do \u003cbr\u003e\nMéxico. ... Na árdua tarefa de defender a ré. surge o charmoso advogado \u003cb\u003eFrank\u003c/b\u003e \u003cbr\u003e\nDulaney (Willem Dafoe, o sexomaniaco Bob Peru, de C oração Selvagem. ... A \u003cbr\u003e\nboa moça \u003cb\u003eAnne\u003c/b\u003e Archer (Atração Fatal) faz. ainda uma vez mais, papel de mulher \u003cbr\u003e\ntraída. ... \u003cb\u003eDIARIO\u003c/b\u003e DE UM CRIME, de Charles Finch ( Where Sleeping Dogs Lie. \u003cbr\u003e\nEUA."
+   }
+  }
+ ]
+}

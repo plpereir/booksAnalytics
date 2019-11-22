@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cbAZVv4dZNcC",
+   "etag": "rRY16ltZJuo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cbAZVv4dZNcC",
+   "volumeInfo": {
+    "title": "Mentes Ansiosas",
+    "subtitle": "MEDO E ANSIEDADE ALEM DOS LIMITES",
+    "authors": [
+     "Ana Beatriz Barbosa Silva"
+    ],
+    "publisher": "Editora Objetiva",
+    "description": "O livro busca uma abordagem a respeito dos transtornos causados pelo medo e pela ansiedade, e como esses sentimentos podem tomar conta da vida das pessoas, transformando seus cotidianos. A autora tenta fazer o uso de sua experiência clínica para explicar o que acontece quando a ansiedade e o medo extrapolam os limites da normalidade e como é possível superar os distúrbios que eles provocam. Ainda, procura oferecer explicações claras e ferramentas para a compreensão das origens da ansiedade e do medo e o enfrentamento do que pode vir a ser o grande inimigo - as preocupações incessantes que teimam em assolar a mente humana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539002949"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539002948"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cbAZVv4dZNcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cbAZVv4dZNcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cbAZVv4dZNcC&dq=isbn:9788539002948&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cbAZVv4dZNcC&dq=isbn:9788539002948&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mentes_Ansiosas.html?hl=&id=cbAZVv4dZNcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cbAZVv4dZNcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro busca uma abordagem a respeito dos transtornos causados pelo medo e pela ansiedade, e como esses sentimentos podem tomar conta da vida das pessoas, transformando seus cotidianos."
+   }
+  }
+ ]
+}

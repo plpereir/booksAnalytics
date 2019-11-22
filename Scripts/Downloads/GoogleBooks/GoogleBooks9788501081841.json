@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UBeoPgAACAAJ",
+   "etag": "o8YRpUhZ6u8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UBeoPgAACAAJ",
+   "volumeInfo": {
+    "title": "O livro das garotas audaciosas",
+    "authors": [
+     "Andrea J. Buchanan",
+     "Miriam Peskowitz, 1964-",
+     "JANAINA SENNA"
+    ],
+    "publishedDate": "2008",
+    "description": "'O livro das garotas audaciosas' mostra os cinco movimentos básicos do caratê, a melhor hora para surfar, como customizar as roupas, se preparar para uma aventura ao ar livre e muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501081841"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501081841"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 357,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UBeoPgAACAAJ&dq=isbn:9788501081841&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UBeoPgAACAAJ&dq=isbn:9788501081841&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_das_garotas_audaciosas.html?hl=&id=UBeoPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UBeoPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O LIVRO DAS GAROTAS AUDACIOSAS mantém o espírito ousado e livre de seu similar de calças. Meninas à procura de aventura, atenção!"
+   }
+  }
+ ]
+}

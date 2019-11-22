@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1PR_vgAACAAJ",
+   "etag": "ZxzAb9DkYdk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1PR_vgAACAAJ",
+   "volumeInfo": {
+    "title": "Nada a perder",
+    "authors": [
+     "Edir Macedo"
+    ],
+    "publishedDate": "2012",
+    "description": "As memórias de Edir Macedo continuam com casos, reflexões e episódios polêmicos. Descubra como tudo começou na trajetória de um dos principais líderes evangélicos do mundo. Como foi possível transformar uma pequena igreja, que funcionava numa funerária, em milhares de templos, com milhões de fiéis. A travessia de altos e baixos na conquista de um dos grandes grupos de comunicação do Brasil. Uma viagem ao subterrâneo da televisão. Um mergulho no jogo sujo do poder.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542201396"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542201390"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 238,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1PR_vgAACAAJ&dq=isbn:9788542201390&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1PR_vgAACAAJ&dq=isbn:9788542201390&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nada_a_perder.html?hl=&id=1PR_vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1PR_vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As memórias de Edir Macedo continuam com casos, reflexões e episódios polêmicos."
+   }
+  }
+ ]
+}

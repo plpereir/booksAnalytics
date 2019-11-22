@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "d5ofQgAACAAJ",
+   "etag": "TUyCw+pBjOk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d5ofQgAACAAJ",
+   "volumeInfo": {
+    "title": "VEJA COMO SE FAZ",
+    "subtitle": "500 COISAS QUE VOCE DEVE SABER",
+    "authors": [
+     "LAUREN SMITH",
+     "DEREK FAGERSTROM",
+     "ANGELICA LOPES"
+    ],
+    "description": "Este livro contém perto de 500 ilustrações informativas, que pretendem ensinar passo a passo os leitores a fazerem tarefas úteis, incluindo - dançar o tango, fazer mala, vencer uma competição de bar, tocar blues, fazer sushi, lutar com um tubarão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857542484X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575424841"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 516,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=d5ofQgAACAAJ&dq=isbn:9788575424841&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=d5ofQgAACAAJ&dq=isbn:9788575424841&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/VEJA_COMO_SE_FAZ.html?hl=&id=d5ofQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d5ofQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro contém perto de 500 ilustrações informativas, que pretendem ensinar passo a passo os leitores a fazerem tarefas úteis, incluindo - dançar o tango, fazer mala, vencer uma competição de bar, tocar blues, fazer sushi, lutar ..."
+   }
+  }
+ ]
+}

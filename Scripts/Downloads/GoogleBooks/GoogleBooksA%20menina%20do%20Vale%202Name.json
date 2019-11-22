@@ -1,0 +1,857 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 260,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TQRTBAAAQBAJ",
+   "etag": "GIpwbzTkiv8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TQRTBAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Menina do vale 2",
+    "authors": [
+     "Bel Pesce"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-08-19",
+    "description": "Um livro recheado de histórias pra você ter uma atitude empreendedora! Quem não se lembra da Menina do Vale, a jovem empreendedora brasileira de sucesso que se formou no prestigiado MIT, trabalhou em empresas como o Google e a Microsoft, criou a sua própria startup no Vale do Silício e publicou um livro digital que só na internet chegou aos 2 milhões de downloads? Pois é, estamos falando de Bel Pesce, que recentemente foi nomeada pela revista Forbes como umas das jovens com menos de 30 anos com mais potencial no país. Depois de sete anos morando nos Estados Unidos, Bel Pesce voltou ao Brasil e decidiu focar seu trabalho na educação de milhares de jovens, fundando a FazINOVA, com a missão de descobrir, desenvolver e conectar pessoas talentosas. Quem conhece a Bel, sabe que ela adora conhecer pessoas e acredita que todos têm algum talento especial, apenas precisam de ajuda para descobrir qual possuem. Este regresso tem sido um aprendizado, e o sentimento mais forte que Bel sente hoje é o de comprometimento. “Empreender é uma baita responsabilidade. Se você entrar nesse mundo entendendo isso, já sairá na frente”, diz a autora. Ela fala bastante sobre isso nesse livro e partilha seus aprendizados mais recentes. Bem-vindo à A Menina do Vale 2, um livro recheado de histórias e razões para você ter uma atitude empreendedora e responsável perante a vida! Sobre o autor: Bel Pesce é empreendedora e fundadora da escola de desenvolvimento de talentos FazINOVA, que já conta com mais de 33 mil alunos. Nascida e criada em São Paulo, Bel estudou no Massachusetts Institute of Technology (MIT). Durante a faculdade, trabalhou na Microsoft, Google e Deutsche Bank. Bel foi nomeada “Jovem empreendedora do ano” pelo Prêmio Jovem Brasil e LIDE, foi listada como uma das “100 pessoas mais influentes do Brasil” pela revista Época, e recentemente foi nomeada um dos 30 jovens mais promissores do Brasil pela revista Forbes. Seu livro A Menina do Vale foi eleito “Melhor livro do ano” pela Arata Academy. Bel também assina uma coluna mensal – Cantinho da Bel - na revista Exame, da editora Abril.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544100707"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544100708"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TQRTBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TQRTBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TQRTBAAAQBAJ&printsec=frontcover&dq=A+menina+do+Vale+2&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TQRTBAAAQBAJ&dq=A+menina+do+Vale+2&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Menina_do_vale_2.html?hl=&id=TQRTBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Menina_do_vale_2-sample-epub.acsm?id=TQRTBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TQRTBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sobre o autor: Bel Pesce é empreendedora e fundadora da escola de desenvolvimento de talentos FazINOVA, que já conta com mais de 33 mil alunos. Nascida e criada em São Paulo, Bel estudou no Massachusetts Institute of Technology (MIT)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bWmCCwAAQBAJ",
+   "etag": "fM9a2uOphwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bWmCCwAAQBAJ",
+   "volumeInfo": {
+    "title": "MongoDB: Construa novas aplicações com novas tecnologias",
+    "authors": [
+     "Fernando Boaglio"
+    ],
+    "publisher": "Editora Casa do Código",
+    "publishedDate": "2015-01-30",
+    "description": "O modelo dos bancos de dados relacionais já existe há muitos anos. No entanto, cada vez mais as aplicações modernas precisam aliar alta escalabilidade com suporte a persistência de alta quantidade de informações, e é justamente por isso que o modelo relacional começa a deixar a desejar e as alternativas NOSQL passam a surgir. Atingir alta escalabilidade com bancos de dados relacionais exige infraestruturas caríssimas, que podem ser evitadas com outros paradigmas. É aí que entra o MongoDB, famoso banco de dados orientado a documentos, desenvolvido pela 10gen e principal alternativa para aliar a alta escalabilidade com facilidade de uso. Nesse livro, Fernando Boaglio vai ensiná-lo como trabalhar com o MongoDB, principal banco de dados orientado a documentos do mercado. Com ele é possível desenvolver aplicações que atingem alta escalabilidade e de forma tão simples quanto trabalhar com os tradicionais banco de dados relacionais. Conheça todos os nossos livros em www.casadocodigo.com.br.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555190445"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555190444"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bWmCCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bWmCCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bWmCCwAAQBAJ&pg=PA44&dq=A+menina+do+Vale+2&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bWmCCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bWmCCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bWmCCwAAQBAJ&rdid=book-bWmCCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/MongoDB_Construa_novas_aplica%C3%A7%C3%B5es_com-sample-epub.acsm?id=bWmCCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/MongoDB_Construa_novas_aplica%C3%A7%C3%B5es_com-sample-pdf.acsm?id=bWmCCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bWmCCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Entretanto, existem algumas maneiras de relacionar as collections, tendo um \u003cbr\u003e\nfuncionamento comparado à chave ... em duas collections, inicialmente \u003cbr\u003e\ncadastrando um livro: 1 db.livros.insert({ \u003cb\u003e2\u003c/b\u003e _id:&quot;\u003cb\u003eA menina do Vale\u003c/b\u003e&quot;, 3 autor: &quot;Bel \u003cbr\u003e\nPesce&quot;,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HSGDDwAAQBAJ",
+   "etag": "mxZAiNS7Cao",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HSGDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mulheres de 30",
+    "authors": [
+     "Brenda Almeida"
+    ],
+    "publisher": "Editora Viseu LTDA - ME",
+    "publishedDate": "2019-01-04",
+    "description": "Mulheres de 30 é um livro sobre sonhos, dilemas, angústias, reflexões, decisões. Sobre dúvidas e certezas, sobre padrões e sobre rever padrões. É um livro sobre o processo interno de algumas amigas, no olhar da escritora, e sobre o processo interno da própria escritora. Sobre falas não ditas e pensamentos incompreendidos. Sobre algo que parece querer desesperadamente sair de dentro (e há). Sobre deixar cair as máscaras e ver a alma (a própria alma). Sobre caminhar e não apenas ver o caminho passar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554549084"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554549082"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 78,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HSGDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HSGDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HSGDDwAAQBAJ&pg=PT107&dq=A+menina+do+Vale+2&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HSGDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HSGDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HSGDDwAAQBAJ&rdid=book-HSGDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres_de_30-sample-epub.acsm?id=HSGDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres_de_30-sample-pdf.acsm?id=HSGDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HSGDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A ciência de ser feliz. 2 ed. São Paulo: Ágora, 2011. AXT, Bárbara. A busca da \u003cbr\u003e\nfelicidade. Revista Superinteressante. 2005.Disponível em:&lt;http://super.abril.\u003cbr\u003e\ncom.br/cultura/a-busca-dafelicidade/&gt;. ... \u003cb\u003eA menina do vale 2\u003c/b\u003e. Leya: 2014."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KR9yDwAAQBAJ",
+   "etag": "IE5biMa5Hy0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KR9yDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Desempregado. E Agora?",
+    "authors": [
+     "Rony"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Wallace D. Wattles diz em seu livro A Ciência para Ficar Rico: Os pobres não precisam de dinheiro, os pobres necessitam de inspiração . Esse é o objetivo desse livro: gerar inspiração e ideias para que seus leitores possam sair da crise e retomar a jornada rumo ao sucesso. Afinal, o termo “crise” em chinês é formado por duas palavras: a primeira é perigo e a segunda é oportunidade .",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU30783"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KR9yDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KR9yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KR9yDwAAQBAJ&pg=PA25&dq=A+menina+do+Vale+2&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KR9yDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KR9yDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KR9yDwAAQBAJ&rdid=book-KR9yDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Desempregado_E_Agora-sample-pdf.acsm?id=KR9yDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KR9yDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "13 - Entre num Crowdfunding Se sua ideia de negócio não foi apreciada por \u003cbr\u003e\nnenhum investidor, você ainda pode ... a escritora Bel Pesce conseguiu mais de \u003cbr\u003e\nR$ 800 mil reais para o lançamento de seu segundo livro \u003cb\u003eA Menina do Vale 2\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nWbGBwAAQBAJ",
+   "etag": "2P6u/ISz+IM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nWbGBwAAQBAJ",
+   "volumeInfo": {
+    "title": "O misterioso significado do dinheiro",
+    "authors": [
+     "Nathalie Trutmann"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2015-03-01",
+    "description": ": Dinheiro é tudo na vida? Aprenda a desapegar deste conceito. De maneira leve e divertida, Nathalie Trutmann explica como o seu contexto familiar e as suas escolhas de vida moldaram a sua relação com o complexo mundo financeiro. Sem pretensão de apresentar fórmulas precisas, a autora introduz alguns conceitos sobre o tema e expõe sua verdade com coragem, fazendo o leitor refletir sobre as suas próprias decisões e sobre um dos maiores tabus do mundo: o dinheiro. \"Este é um livro que todos devem ler, pois aborda o tema dinheiro de um jeito muito diferente. Ele procura entender as emoções e as histórias que participam da nossa relação com o dinheiro, e em como ter uma ligação mais saudável com ele, já que é a única forma que temos para expressar os desejos e os valores da nossa alma.\" Sofia Esteves, presidente do conselho do Grupo DMRH e Cia. de Talentos \"A Nathalie é uma sonhadora nata, mas também uma baita realizadora. A simplicidade com que ela consegue explicar assuntos altamente complexos é admirável.\" Bel Pesce, fundadora da FazINOVA e autora dos livros A menina do Vale 1 e 2 \"Nathalie tem o raro dom de transformar o relato do cotidiano em uma inspiração de aprendizado sobre um tema tão polêmico. Uma relação saudável com o dinheiro representa uma relação plena com a vida. Nathalie consegue trazer este aprendizado de uma forma leve e divertida.\" André Kaufmann, presidente da Capitalismo Consciente Brasil e do Renaissance Executive Forums \"Nathalie não é só uma das pessoas mais inovadoras que eu já conheci como também uma excelente executora. Por onde ela passa, vê oportunidades e conecta aqueles que estão ao seu redor para se beneficiar delas. Eu não me assustaria se ela fosse listada entre as pessoas mais criativas do país.\" Eduardo Migliano, cofundador da 99jobs.com \"Quando Nathalie escreve, eu paro e leio atentamente. E neste livro ela acerta o alvo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544101568"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544101569"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nWbGBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nWbGBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nWbGBwAAQBAJ&printsec=frontcover&dq=A+menina+do+Vale+2&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nWbGBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nWbGBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nWbGBwAAQBAJ&rdid=book-nWbGBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_misterioso_significado_do_dinheiro-sample-epub.acsm?id=nWbGBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nWbGBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": ": Dinheiro é tudo na vida? Aprenda a desapegar deste conceito. De maneira leve e divertida, Nathalie Trutmann explica como o seu contexto familiar e as suas escolhas de vida moldaram a sua relação com o complexo mundo financeiro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OP5oDwAAQBAJ",
+   "etag": "w/DSAq+Q+Qw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OP5oDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A menina da montanha",
+    "subtitle": "A trajetória real da americana que pisou numa sala de aula pela primeira vez aos 17 anos até a conquista do doutorado em Cambridge",
+    "authors": [
+     "Tara Westover"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2018-09-10",
+    "description": "Tara Westover tinha 17 anos quando pisou pela primeira vez em uma sala de aula. Nascida nas montanhas de Idaho, Estados Unidos, era a caçula de sete irmãos. Guiados pelo fanatismo do pai, todos estavam sempre se preparando para o fim do mundo, estocando conservas e dormindo com uma mala pronta para o caso de fuga. No verão, ajudava a mãe, parteira e curandeira, a fazer remédios medicinais. No inverno, coletava sucata com o pai.Além do sistema de ensino, seu pai também desconfiava dos hospitais, por isso Tara jamais viu um médico durante a infância. Cortes, machucados e até mesmo graves queimaduras eram todos tratados em casa. A família estava tão isolada da sociedade que não havia ninguém para garantir que as crianças recebessem educação, nem para intervir nos casos de violência.No entanto, quando um de seus irmãos conseguiu entrar para a faculdade e retornou com notícias do mundo além da montanha, Tara resolveu tentar um novo tipo de vida. Aprendeu matemática, gramática e ciências para prestar o vestibular, e foi admitida na Universidade Brigham Young. Sua busca pelo conhecimento a transformou, fazendo-a atravessar oceanos e continentes, até chegar às universidades de Harvard e Cambridge, na Inglaterra. Foi quando se deu conta de quão longe tinha viajado, e se perguntou se ainda existiria um caminho de volta para casa.A menina da montanha é um relato autobiográfico sobre a busca de uma nova identidade. É um conto sobre lealdade familiar e sobre o luto de romper estes laços. Com a intensa sensibilidade que distingue os grandes escritores, Tara Westover nos oferece uma história universal que resume o sentido da palavra educação: a perspectiva de ver a vida com novos olhos, e a vontade de mudar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581227528"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858122752X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OP5oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OP5oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OP5oDwAAQBAJ&pg=PT25&dq=A+menina+do+Vale+2&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OP5oDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OP5oDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OP5oDwAAQBAJ&rdid=book-OP5oDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.84E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_menina_da_montanha-sample-epub.acsm?id=OP5oDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_menina_da_montanha-sample-pdf.acsm?id=OP5oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OP5oDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Era fácil fingir que ele estava em movimento, indo embora, e a qualquer \u003cbr\u003e\nmomento o \u003cb\u003evale\u003c/b\u003e iria desaparecer atrás \u003cb\u003ede\u003c/b\u003e mim. ... \u003cb\u003ea\u003c/b\u003e Princesa até \u003cb\u003ea\u003c/b\u003e primavera, \u003cbr\u003e\nquando ela reaparecia, vigilante. Capítulo \u003cb\u003e2 A\u003c/b\u003e parteira -Você tem calêndula? – \u003cb\u003ea\u003c/b\u003e \u003cbr\u003e\nparteira."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Y_AuAAAAYAAJ",
+   "etag": "nMEJM3iSFUI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y_AuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Dicionário gramatical de verbos do português contemporâneo do Brasil",
+    "authors": [
+     "Francisco da Silva Borba"
+    ],
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018452244"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1373,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese language"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Y_AuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Y_AuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Y_AuAAAAYAAJ&pg=PA1101&dq=A+menina+do+Vale+2&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Y_AuAAAAYAAJ&dq=A+menina+do+Vale+2&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dicion%C3%A1rio_gramatical_de_verbos_do_port.html?hl=&id=Y_AuAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y_AuAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_I4nDAAAQBAJ",
+   "etag": "wo3Jg3sahjQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_I4nDAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Menina do Rio",
+    "authors": [
+     "Fernando Oliveira"
+    ],
+    "publisher": "BoD – Books on Demand",
+    "publishedDate": "2016-06-20",
+    "description": "Romance leve e com final feliz! As dificuldades da vida fizeram-no entender que afinal existem sentimentos e o dinheiro não é o mais importante!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783842339866"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3842339860"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_I4nDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_I4nDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_I4nDAAAQBAJ&printsec=frontcover&dq=A+menina+do+Vale+2&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_I4nDAAAQBAJ&dq=A+menina+do+Vale+2&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Menina_do_Rio.html?hl=&id=_I4nDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_I4nDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Romance leve e com final feliz! As dificuldades da vida fizeram-no entender que afinal existem sentimentos e o dinheiro não é o mais importante!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cP4rAAAAYAAJ",
+   "etag": "dyhs34ebyZk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cP4rAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Espaço e tempo do folclore potiguar",
+    "subtitle": "folclore geral, folclore brasileiro",
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173007132650"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "categories": [
+     "Potiguara Indians"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cP4rAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cP4rAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cP4rAAAAYAAJ&q=A+menina+do+Vale+2&dq=A+menina+do+Vale+2&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cP4rAAAAYAAJ&dq=A+menina+do+Vale+2&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Espa%C3%A7o_e_tempo_do_folclore_potiguar.html?hl=&id=cP4rAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cP4rAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... \u003cb\u003ede\u003c/b\u003e Santo Antônio e \u003cb\u003e2\u003c/b\u003e - romance \u003cb\u003ede\u003c/b\u003e Santa Teresa; entre os Plebeus: 1 - Bela \u003cbr\u003e\nPastora, \u003cb\u003e2\u003c/b\u003e - \u003cb\u003eA Menina da\u003c/b\u003e Fonte. Dos Romances Brasileiros, os mais conhecidos \u003cbr\u003e\nsão: entre os Romances do Cangaço: 1 - Zé do \u003cb\u003eVale\u003c/b\u003e, \u003cb\u003e2\u003c/b\u003e - Cabeleira e 3 - Rio \u003cbr\u003e\nPreto;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BcOnBAAAQBAJ",
+   "etag": "zdv2Fky+jog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BcOnBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Eu sou Malala",
+    "subtitle": "A história da garota que defendeu o direito à educação e foi baleada pelo Talibã",
+    "authors": [
+     "Malala Yousafzai"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2013-10-11",
+    "description": "Quando o Talibã tomou controle do vale do Swat, uma menina levantou a voz. Malala Yousafzai recusou-se a permanecer em silêncio e lutou pelo seu direito à educação. Mas em 9 de outubro de 2012, uma terça-feira, ela quase pagou o preço com a vida. Malala foi atingida na cabeça por um tiro à queima-roupa dentro do ônibus no qual voltava da escola. Poucos acreditaram que ela sobreviveria. Mas a recuperação milagrosa de Malala a levou em uma viagem extraordinária de um vale remoto no norte do Paquistão para as salas das Nações Unidas em Nova York. Aos dezesseis anos, ela se tornou um símbolo global de protesto pacífico e a candidata mais jovem da história a receber o Prêmio Nobel da Paz. Eu sou Malala é a história de uma família exilada pelo terrorismo global, da luta pelo direito à educação feminina e dos obstáculos à valorização da mulher em uma sociedade que valoriza filhos homens. O livro acompanha a infância da garota no Paquistão, os primeiros anos de vida escolar, as asperezas da vida numa região marcada pela desigualdade social, as belezas do deserto e as trevas da vida sob o Talibã. Escrito em parceria com a jornalista britânica Christina Lamb, este livro é uma janela para a singularidade poderosa de uma menina cheia de brio e talento, mas também para um universo religioso e cultural cheio de interdições e particularidades, muitas vezes incompreendido pelo Ocidente. \"Sentar numa cadeira, ler meus livros rodeada pelos meus amigos é um direito meu\", ela diz numa das últimas passagens do livro. A história de Malala renova a crença na capacidade de uma pessoa de inspirar e modificar o mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580868494"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580868491"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.12.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BcOnBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BcOnBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BcOnBAAAQBAJ&pg=PT2&dq=A+menina+do+Vale+2&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BcOnBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BcOnBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BcOnBAAAQBAJ&rdid=book-BcOnBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_sou_Malala-sample-epub.acsm?id=BcOnBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_sou_Malala-sample-pdf.acsm?id=BcOnBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BcOnBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA\u003c/b\u003e história \u003cb\u003eda\u003c/b\u003e garota que defendeu o direito \u003cb\u003eà\u003c/b\u003e educação e foi baleada pelo Talibã \u003cbr\u003e\nMalala Yousafzai ... Nasce \u003cb\u003euma menina 2\u003c/b\u003e. Meu pai, o falcão 3. Crescendo numa \u003cbr\u003e\nescola 4. \u003cb\u003eA\u003c/b\u003e aldeia 5. Por que não uso brincos e por que os pachtuns não dizem “\u003cbr\u003e\nobrigado” 6. Filhos do ... O outono do terremoto Parte \u003cb\u003eII\u003c/b\u003e — O \u003cb\u003evale da\u003c/b\u003e morte 9."
+   }
+  }
+ ]
+}

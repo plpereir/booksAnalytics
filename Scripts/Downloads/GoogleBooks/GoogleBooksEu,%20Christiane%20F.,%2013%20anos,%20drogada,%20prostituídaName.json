@@ -1,0 +1,793 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 10,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yjEhDQAAQBAJ",
+   "etag": "kwhIeSehcmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yjEhDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Eu, Christiane F., 13 anos, drogada, prostituída...",
+    "authors": [
+     "Kai Hermann",
+     "Horst Rieck"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2016-09-22",
+    "description": "No início de 1978, encontramos Christiane F., então com 15 anos, depondo como testemunha em um tribunal de Berlim. Pedimos a ela uma entrevista que faria parte de uma pesquisa sobre os problemas da juventude. Tínhamos previsto duas horas para a entrevista, e elas se transformaram em dois meses. De entrevistadores, passamos a ouvintes apaixonados e profundamente emocionados. Este livro nasceu da gravação desse depoimento de Christiane F., que quis que ele viesse a público. Como quase todos os viciados em drogas, desejava romper o silêncio opressivo que cerca a questão dos tóxicos entre os adolescentes. Todos os sobreviventes da \"turma\", bem como seus pais, apoiaram nosso projeto e concordaram, para reforçar a autenticidade deste documento, com a publicação de nomes e fotografias. Uma história que ensina mais do que o relatório mais bem-documentado e revela a situação de muitos jovens pelo mundo todo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577995325"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577995321"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.19.19.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yjEhDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yjEhDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yjEhDQAAQBAJ&printsec=frontcover&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yjEhDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yjEhDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yjEhDQAAQBAJ&rdid=book-yjEhDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.076E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_Christiane_F_13_anos_drogada_prostitu-sample-epub.acsm?id=yjEhDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_Christiane_F_13_anos_drogada_prostitu-sample-pdf.acsm?id=yjEhDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yjEhDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No início de 1978, encontramos Christiane F., então com 15 anos, depondo como testemunha em um tribunal de Berlim."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iitfAAAACAAJ",
+   "etag": "0YDz4o6HohA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iitfAAAACAAJ",
+   "volumeInfo": {
+    "title": "Eu, Christiane F.",
+    "subtitle": "13 anos, drogada, prostituída...",
+    "authors": [
+     "Kai Hermann",
+     "Horst Rieck",
+     "Maria Celeste Marcondes"
+    ],
+    "publishedDate": "2011",
+    "description": "A obra em questão originou-se do próprio interesse de Christiane F, em romper o silêncio e relatar seu depoimento aos jornalistas Kai Hermann e Horst Rieck sobre a questão dos tóxicos entre os adolescentes. O livro tem início com o texto do processo (Berlim, 1978) em que Christiane, colegial, menor de idade, é acusada de consumir, de maneira contínua, substâncias e misturas químicas proibidas por lei. Foi acusada também de ter-se entregado à prostituição, com o propósito de juntar dinheiro suficiente para comprar drogas. Após tudo isso, sua família se desestruturou; o pai ficou desempregado, a mãe pediu o divórcio, e o inferno instalou-se no seio da família. Christiane era surrada sempre e o lar, por ter-se transformado num ambiente hostil, fez com que ela procurasse as ruas. O livro intercala o depoimento de Christiane com o de sua mãe, de policiais que tiveram contato com a menina, e de psicólogos. De Christiane F. sabe-se que ela esteve longe das drogas por cinco anos, depois de o livro ser publicado, e que vivia com um músico alemão famoso. Atualmente, tem uma filha de três anos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8528604705"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788528604702"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Child prostitution"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iitfAAAACAAJ&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iitfAAAACAAJ&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Eu_Christiane_F.html?hl=&id=iitfAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iitfAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Das famílias, porém, não citamos os sobrenomes.Ao depoimento de Christiane F., juntamos declarações de sua mãe e de outras pessoas que dela se ocuparam, assim completando a análise com uma perspectiva diferente.KAI HERMANN / HORST ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uNrOwgEACAAJ",
+   "etag": "p1Sr7d6O8ls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uNrOwgEACAAJ",
+   "volumeInfo": {
+    "title": "EU, CHRISTIANE F.",
+    "subtitle": "13 ANOS, DROGADA, PROSTITUIDA...",
+    "authors": [
+     "HORST RIECK",
+     "KAI HERMANN",
+     "MARIA CELESTE MARCONDES"
+    ],
+    "publishedDate": "1986",
+    "description": "Os depoimentos deste livro foram colhidos no final dos anos 1970 pelos jornalistas Kai Hermann e Horst Rieck, que faziam uma reportagem sobre os jovens da Alemanha quando conheceram Christiane F., que testemunhava no julgamento de um traficante. Após meses de entrevistas, os dois escreveram este livro sobre juventude, drogas e prostituição.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577992349"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577992348"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=uNrOwgEACAAJ&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uNrOwgEACAAJ&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/EU_CHRISTIANE_F.html?hl=&id=uNrOwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uNrOwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9DZyBAAAQBAJ",
+   "etag": "jKtCkfKaHh8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9DZyBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Eu, Christiane F.",
+    "subtitle": "A vida apesar de tudo",
+    "authors": [
+     "Christiane Vera Felscherinow",
+     "Sonja Vukovic"
+    ],
+    "publisher": "Editora Bertrand Brasil",
+    "publishedDate": "2014-09-05",
+    "description": "13 ANOS, DROGADA, PROSTITUÍDA. MAS E DEPOIS, O QUE ACONTECEU? A história de Christiane F. deu a volta ao mundo. Milhões de pessoas cresceram com as confissões dilacerantes da adolescente alemã de 13 anos, drogada, prostituída. Mas e depois disso, o que aconteceu? Em Eu, Christiane F., a vida apesar de tudo, captado por Sonja Vukovic, a mundialmente famosa protagonista se entrega com franqueza e pudor surpreendentes, contando tudo sobre sua “segunda vida”. A primeira obra originou-se do próprio interesse de Christiane em romper o silêncio e relatar sua história aos jornalistas Kai Hermann e Horst Rieck. O livro trazia no início um trecho do processo, em que ela, colegial e menor de idade, é acusada de consumir, de maneira contínua, substâncias e misturas químicas proibidas por lei. Foi acusada também de ter-se prostituído com o propósito de obter dinheiro para sustentar o vício. Trinta e cinco anos depois da edição original, Christiane V. Felscherinow retorna àqueles tempos que se seguiram à publicação do livro e às diferentes etapas de sua vida até os dias de hoje: dos anos felizes na Grécia à sobrevivência na prisão, do combate ao vício aos encontros com seus ídolos do rock, da aparição de um anjo da guarda aos momentos de felicidade com seu filho Phillip.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788528615746"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "852861574X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9DZyBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9DZyBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9DZyBAAAQBAJ&printsec=frontcover&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9DZyBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9DZyBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9DZyBAAAQBAJ&rdid=book-9DZyBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.6E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_Christiane_F-sample-epub.acsm?id=9DZyBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_Christiane_F-sample-pdf.acsm?id=9DZyBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9DZyBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas e depois disso, o que aconteceu? Em Eu, Christiane F., a vida apesar de tudo, captado por Sonja Vukovic, a mundialmente famosa protagonista se entrega com franquezasurpreendente e conta tudo sobre sua vida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gjE7CJTq8pUC",
+   "etag": "aG+5KjSyPQk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gjE7CJTq8pUC",
+   "volumeInfo": {
+    "title": "Drogas - O Árduo Caminho da Volta",
+    "authors": [
+     "DARLEA ZACHARIAS"
+    ],
+    "publisher": "Brasport",
+    "description": "Neste livro, o leitor conhecerá a experiência da autora com a dependência das drogas, desde a infância até a recuperação. Darléa relata como saiu do inferno da obsessão e compulsão para uma vida digna e feliz. Descreve o que passou no mundo das drogas, como as overdoses, as internações em hospícios, o abandono da família, a paralisia facial, a desintegração da personalidade. Também relata como venceu obstáculos, superou crises de abstinência e como foi seu processo de luta para salvar sua vida e resgatar sua dignidade. Pretende provar que é possível parar de usar, perder o desejo e encontrar uma nova maneira de viver.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574523996"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574523992"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gjE7CJTq8pUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gjE7CJTq8pUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gjE7CJTq8pUC&pg=PA143&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gjE7CJTq8pUC&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Drogas_O_%C3%81rduo_Caminho_da_Volta.html?hl=&id=gjE7CJTq8pUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gjE7CJTq8pUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Às vezes entregava minhas dificuldades nas mãos dele e logo em seguida \u003cb\u003eeu\u003c/b\u003e as \u003cbr\u003e\ntomava de volta. Isso só me trazia mais ... Quem não sabe quem é \u003cb\u003eCristiane F\u003c/b\u003e, \u003cbr\u003e\nvou explicar: \u003cb\u003eCristiane F\u003c/b\u003e, \u003cb\u003e13 anos\u003c/b\u003e, \u003cb\u003edrogada\u003c/b\u003e e \u003cb\u003eprostituída\u003c/b\u003e! Sua vida virou livro e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BPJxLPTQqi8C",
+   "etag": "8+kSEUSoJUM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BPJxLPTQqi8C",
+   "volumeInfo": {
+    "title": "Contribuições para a Didáctica do Português Língua Estrangeira",
+    "subtitle": "",
+    "authors": [
+     "Eberhard Gärtner"
+    ],
+    "publisher": "Teo Ferrer de Mesquita",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783925203909"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3925203907"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese language"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BPJxLPTQqi8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BPJxLPTQqi8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BPJxLPTQqi8C&pg=PA133&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BPJxLPTQqi8C&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Contribui%C3%A7%C3%B5es_para_a_Did%C3%A1ctica_do_Por.html?hl=&id=BPJxLPTQqi8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BPJxLPTQqi8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "F., Christiane (201984): \u003cb\u003eEu\u003c/b\u003e, \u003cb\u003eChristiane F\u003c/b\u003e., \u003cb\u003e13 anos\u003c/b\u003e, \u003cb\u003edrogada\u003c/b\u003e, \u003cb\u003eprostituída\u003c/b\u003e...: \u003cbr\u003e\ndepoimentos recolhidos por Kai Hermann e Horst Rieck; prefácio de Horst-\u003cbr\u003e\nEberhard Richter, portugiesisch von Maria Celeste Marcondes, São Paulo: Difel."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kaCkWKH6HlwC",
+   "etag": "qvqYlJEZ3vw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kaCkWKH6HlwC",
+   "volumeInfo": {
+    "title": "Solução para farmacodependentes",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515008947"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515008940"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kaCkWKH6HlwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kaCkWKH6HlwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kaCkWKH6HlwC&pg=PA192&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kaCkWKH6HlwC&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Solu%C3%A7%C3%A3o_para_farmacodependentes.html?hl=&id=kaCkWKH6HlwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kaCkWKH6HlwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eEu\u003c/b\u003e, \u003cb\u003eChristiane F\u003c/b\u003e., \u003cb\u003e13 anos\u003c/b\u003e, \u003cb\u003edrogada\u003c/b\u003e, \u003cb\u003eprostituída\u003c/b\u003e, DIFEL, São Paulo, 1981. FARIA, \u003cbr\u003e\nM., MURAD, J. E., Cogumelos alucinógenos brasileiros, depoimento na Câmara \u003cbr\u003e\nFederal in Anais da Câmara Federal, Brasília, 1975. FERRARINI, E., Tóxicos e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ylws7Ia1F8MC",
+   "etag": "i/KZhyVV4eg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ylws7Ia1F8MC",
+   "volumeInfo": {
+    "title": "Garotas de programa",
+    "subtitle": "prostituição em Copacabana e identidade social",
+    "authors": [
+     "Maria Dulce Gaspar"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "1988",
+    "description": "Este livro destaca-se revelando questões fundamentais sobre a sexualidade no universo das camadas médias urbanas, este livro é uma contribuição para o estudo das temáticas do desvio e da construção da identidade social e para a discussão sobre uma antropo",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571100578"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571100572"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ylws7Ia1F8MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ylws7Ia1F8MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ylws7Ia1F8MC&pg=PA64&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Ylws7Ia1F8MC&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Garotas_de_programa.html?hl=&id=Ylws7Ia1F8MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ylws7Ia1F8MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Já o ensaio biográfico de Marie Thérèse, História de uma prostituta (1967), \u003cbr\u003e\nenfoca a prostituição na França, com ... Outro trabalho é o livro \u003cb\u003eEu\u003c/b\u003e, \u003cb\u003eCristiane F\u003c/b\u003e., \u003cbr\u003e\n\u003cb\u003e13 anos\u003c/b\u003e, \u003cb\u003edrogada\u003c/b\u003e, \u003cb\u003eprostituída\u003c/b\u003e, de Hermann e Rieck (1982), que, apesar de tratar \u003cbr\u003e\nem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jthxDwAAQBAJ",
+   "etag": "FX7oscyb1lQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jthxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dignidade Da Pessoa Humana",
+    "authors": [
+     "Adriana"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um texto sobre Direito Constitucional que abarda a exclusão social a luz do Direito, da Psicologia, da Sociologia e Filosofia.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU21121"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jthxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jthxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jthxDwAAQBAJ&pg=PA135&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jthxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jthxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jthxDwAAQBAJ&rdid=book-jthxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dignidade_Da_Pessoa_Humana-sample-pdf.acsm?id=jthxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jthxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eEu\u003c/b\u003e, \u003cb\u003eChristiane F\u003c/b\u003e., \u003cb\u003e13 anos\u003c/b\u003e, \u003cb\u003eDrogada\u003c/b\u003e e \u003cb\u003eProstituida\u003c/b\u003e ( Christiane F.) – Direção de \u003cbr\u003e\nUlrich Edel – Legendado – Duração de 124min – Alemanha, 1981 Fantasmas do \u003cbr\u003e\nPassado (Ghosts of Mississippi) – Direção de Rob Reiner – Legendado&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtlBCwAAQBAJ",
+   "etag": "t61Kq5BG8E8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtlBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Persuasão: Persuasion",
+    "subtitle": "Edição bilíngue português- inglês",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Jane Austen começou a escrever 'Persuasão', seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816. O livro foi publicado, postumamente, em 1818 e serviu como base do roteiro sobre o romance dos personagens interpretados por Sandra Bullock e Keanu Reeves, no filme 'A Casa do Lago', de 2006. 'Persuasão' costuma ser associado a outro de seus romances, 'A Abadia de Northanger', pois além dos dois livros terem sido originalmente publicados em um único volume, ambas as histórias são situadas na cidade de Bath, um balneário termal onde Jane Austen viveu de1801 a 1805. O enredo deste empolgante livro gira em torno dos amores de Anne Elliot que se apaixonara pelo pobre, mas ambicioso jovem oficial da marinha, capitão Frederick Wentworth. A família de Anne não concorda com essa relação e a convence romper seu relacionamento amoroso. Anos após Anne reencontra Frederick, agora cortejando sua amiga e vizinha, Louisa Musgrove. 'Persuasão' é amplamente apreciada, pois tem uma simpática história de amor, de trama simples e bem elaborada, e mostra o estilo de narrativa irônica de Jane Austen. Além disto, é original, pelo fato, entre outros motivos, de ser uma das poucas histórias da escritora que não apresenta a heroína em plena juventude. O romance também é um apanágio ao homem de iniciativa, através do personagem do capitão Frederick Wentworth que parte de uma origem humilde e que alcança influência e status pela força de seus méritos e não através de herança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781993"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781999"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 920,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jtlBCwAAQBAJ&printsec=frontcover&dq=Eu,+Christiane+F.,+13+anos,+drogada,+prostitu%C3%ADda&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jtlBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&rdid=book-jtlBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-epub.acsm?id=jtlBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-pdf.acsm?id=jtlBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jtlBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jane Austen começou a escrever &#39;Persuasão&#39;, seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816."
+   }
+  }
+ ]
+}

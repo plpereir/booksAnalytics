@@ -1,0 +1,873 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 469,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sLieOgAACAAJ",
+   "etag": "vpsaGztxcYM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sLieOgAACAAJ",
+   "volumeInfo": {
+    "title": "Poeira da Minha Estrada",
+    "subtitle": "contos e cronicas de Georgenor Franco",
+    "authors": [
+     "Georgenor Franco"
+    ],
+    "publishedDate": "1942",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:23192355"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sLieOgAACAAJ&dq=Minha+estrada&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sLieOgAACAAJ&dq=Minha+estrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poeira_da_Minha_Estrada.html?hl=&id=sLieOgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sLieOgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VLtxDwAAQBAJ",
+   "etag": "ckmz8z/E+t8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VLtxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pela Estrada Afora",
+    "authors": [
+     "Clóvis"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Nesse livro que merecidamente recebeu o título PELA ESTRADA AFORA, o poeta Clóvis Oliveira Cardoso mostra suas andanças, suas buscas, aventuras, choros, risos, suor, lágrimas e outras roupagens que lhe fizeram viajar de carona com o vento e chegar até onde chegou. Suas poesias rimadas são de uma doçura incrível e ele como se quase que obrigasse o leitor a participar de cada verso do seu universo. Quem já teve a oportunidade em desfolhar esse livro pode confirmar tudo que está escrito e eu só posso desejar uma boa leitura a quem comprá-lo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU17175"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 81,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VLtxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VLtxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VLtxDwAAQBAJ&pg=PA27&dq=Minha+estrada&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VLtxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VLtxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VLtxDwAAQBAJ&rdid=book-VLtxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pela_Estrada_Afora-sample-pdf.acsm?id=VLtxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VLtxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Agradeço a Deus Eu sempre gostei de agradecer, Por cada momento da minha \u003cbr\u003e\nvida, Mesmo que o mundo esteja a ferver, A \u003cb\u003eminha estrada\u003c/b\u003e sempre foi colorida. \u003cbr\u003e\nJá perambulei pelas noites afora, Pelas estradas de curvas perigosas, Mas eu&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jPJEBQAAQBAJ",
+   "etag": "7gJM1xx4O4E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jPJEBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Além Da Estrada De Tijolos Amarelos",
+    "authors": [
+     "Roberto Sedano Carneiro"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-07-01",
+    "description": "O livro traz poemas, poesias, pensamentos e textos que escrevi desde o ano de 2002 quando tinha apenas 12 anos de idade. Escrevo sobre a vida, amor, sonhos, realidades, entre outros temas com uma pitada de psicodelia influenciada por músicas e pensadores da década de 60 e 70. Este projeto foi feito simplesmente para passar ao leitor um mundo diferente, um lugar onde qualquer um pode ir e viajar da forma que quiser. Acredite e realize seus sonhos que com certeza será muito Além da Estrada de Tijolos Amarelos.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90147432"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 82,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jPJEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jPJEBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jPJEBQAAQBAJ&pg=PA13&dq=Minha+estrada&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jPJEBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jPJEBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jPJEBQAAQBAJ&rdid=book-jPJEBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Al%C3%A9m_Da_Estrada_De_Tijolos_Amarelos-sample-pdf.acsm?id=jPJEBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jPJEBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Isso são apenas águas e a minha vida é redonda esem quina Faço de vários \u003cbr\u003e\nproblemas piada e a \u003cb\u003eminha estrada\u003c/b\u003e não tem asfalto Hahahahaha Mas olhem \u003cbr\u003e\nbem para mim, perceberam que minha cara é pintada? Que palhaçada, que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EN5xDwAAQBAJ",
+   "etag": "bBvQ30OxVqg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EN5xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Corações Alados",
+    "authors": [
+     "Angélica"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A autora trata de diversas situações do ser humano, seja diante da política, dos problemas do dia a dia ou dos conflitos que temos na vida.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU21854"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EN5xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EN5xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EN5xDwAAQBAJ&pg=PA26&dq=Minha+estrada&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EN5xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EN5xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EN5xDwAAQBAJ&rdid=book-EN5xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cora%C3%A7%C3%B5es_Alados-sample-pdf.acsm?id=EN5xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EN5xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em \u003cb\u003eminha estrada\u003c/b\u003e, deparei-me com grandes espinhos e tu, meu amigo, me \u003cbr\u003e\najudaste a retirá-los. Em \u003cb\u003eminha estrada\u003c/b\u003e, me perdi na dor e no descontentamento \u003cbr\u003e\ne tu, meu amigo, enxugaste as lágrimas e me fizeste sorrir, Em \u003cb\u003eminha estrada\u003c/b\u003e,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MuxxDwAAQBAJ",
+   "etag": "07LFUT4I8fs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MuxxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sensatas Poesias",
+    "authors": [
+     "Clóvis"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "É mais um componente do projeto cultural de Clóvis Oliveira Cardoso, onde o poeta transborda seus sentimentos nas mais belas poesias do nosso tempo. Aqui, ele se afasta de qualquer tipo de preconceito, para falar simplesmente do amor e em nome do amor. Vale a pena que seja folheado pelos amantes e até aqueles que não costumam se entregar ao amor.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU23765"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 81,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MuxxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MuxxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MuxxDwAAQBAJ&pg=PA64&dq=Minha+estrada&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MuxxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MuxxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MuxxDwAAQBAJ&rdid=book-MuxxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sensatas_Poesias-sample-pdf.acsm?id=MuxxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MuxxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tu, somente tu... Tu que chegastes na minha vida, Para enfeitar a \u003cb\u003eminha estrada\u003c/b\u003e, \u003cbr\u003e\n\u003cb\u003eMinha estrada\u003c/b\u003e colorida, Tu és a minha amada. Tu, somente tu, Tu fostes a luz da \u003cbr\u003e\n\u003cb\u003eminha estrada\u003c/b\u003e, A luz que faltava para meu caminho, Tu, somente tu, és minha&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RMlxDwAAQBAJ",
+   "etag": "WML2OnsM1Sk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RMlxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Rio Da Minha Vida",
+    "authors": [
+     "Clóvis"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Livro que mostra o amor do poeta pela cidade maravilhosa, quando ele vai mais além demonstrando uma verdadeira paixão pelo Rio de Janeiro. Fala dos pontos pitorescos, dos pontos turisticos e da graciosidade do povo carioca com seu jeito hospitaleiro de ser. Realmente nesse trabalho, o autor Clóvis Oliveira Cardoso esbanja toda sua paixão pelas belezas naturais do Rio. O livro está muito bem organizado, bem escrito e bem encadernado. Vale a pena que todos possam participar.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU19009"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 91,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RMlxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RMlxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RMlxDwAAQBAJ&pg=PA74&dq=Minha+estrada&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RMlxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RMlxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RMlxDwAAQBAJ&rdid=book-RMlxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rio_Da_Minha_Vida-sample-pdf.acsm?id=RMlxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RMlxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rio das noites iluminadas Entro em devaneio de carona com o vento, Buscando \u003cbr\u003e\nmetáforas para minha poesia, Choro ao ... Rio de Janeiro e da minha vida, Rio \u003cbr\u003e\nque sempre te quero no meu coração, Contigo \u003cb\u003eminha estrada\u003c/b\u003e é colorida, Contigo\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IGqVDQAAQBAJ",
+   "etag": "3OEoJrtQWiE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IGqVDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Boxe Cony 90 anos",
+    "authors": [
+     "Carlos Heitor Cony"
+    ],
+    "publisher": "Nova Fronteira",
+    "publishedDate": "2016-04-01",
+    "description": "Em comemoração aos 90 anos de Carlos Heitor Cony, a Nova Fronteira presenteia o leitor com três obras de peso do autor que dão bem a medida de sua versatilidade e de sua vasta produção: O ventre, seu romance de estreia, considerado “forte” para a época, mas muito bem recebido pela crítica; O ato e o fato, um registro histórico do que de fato aconteceu no Golpe Militar de 1964; e O harém das bananeiras, uma coletânea de crônicas publicadas em diversos jornais e revistas, na década de 1990, que mostram o humor e a delicadeza desse grande contador de histórias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520931776"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8520931774"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 696,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.17.17.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IGqVDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IGqVDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IGqVDQAAQBAJ&pg=PT152&dq=Minha+estrada&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IGqVDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IGqVDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 52.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IGqVDQAAQBAJ&rdid=book-IGqVDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.224E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Boxe_Cony_90_anos-sample-epub.acsm?id=IGqVDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Boxe_Cony_90_anos-sample-pdf.acsm?id=IGqVDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IGqVDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "estrada. Era a \u003cb\u003eminha estrada\u003c/b\u003e. A minha viagem. Estava consciente de que essa \u003cbr\u003e\nviagem era coisa minha, um câncer escondido em algum lugar dentro de mim, e \u003cbr\u003e\nque cresceria, cresceria, mas não me mataria, pelo contrário, me faria viver mais\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6ey3BQAAQBAJ",
+   "etag": "Zg8wSLbhAfQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6ey3BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Passos De Corpo E Alma",
+    "subtitle": "No Infindável E Misterioso Caminho Da Vida",
+    "authors": [
+     "Jane Rodrigues"
+    ],
+    "publisher": "Revolução eBook",
+    "publishedDate": "2014-12-02",
+    "description": "Em Passos de Corpo e Alma, a autora se expressa com uma linguagem envolvente e poética e, a todo tempo, instiga a imaginação do leitor, levando-o a vivenciar e mergulhar em um mundo vasto e infindável, movido em perfeita harmonia com a natureza. Embalada por intensas reflexões, caminha de corpo e alma como filosofia de vida. Cada vez que toca os pés no chão, na lacuna entre uma passada e outra, pensamentos e sentimentos brotam do misterioso universo da natureza. Por onde passa se entrelaça e lança sementes, deixando a marca de seus passos e um pouco de si em gratidão àquele espaço inspirador que a acolhe como mãe: a mãe natureza. Em sua poética, a autora se mistura de forma sutil e deliciosa, quase simbiótica, com a natureza, para se fortalecer e continuar renovada para o próximo destino. Sempre parte para um novo caminhar, vazia de expectativas para viver inteiramente aquele dia como se fosse o único de sua vida. Caminha derramando um pouco de si por onde passa e leva consigo os encantos e ensinamentos da natureza. Entregue à sua própria essência se cura das aflições da vida cotidiana e alcança momentos de felicidade plena, chamados por ela de pequenos milagres da vida. Ao ler Jane Rodrigues percebe-se uma vivência intensa e vibrante, marcada por grandes descobertas e uma crescente busca pela espiritualidade que a coloca mais perto de Deus. Quando caminha, encontra na natureza seu recanto de paz e \"deixa florescer e frutificar sua própria história”.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781942159186"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1942159188"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 50,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6ey3BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6ey3BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6ey3BQAAQBAJ&pg=PT59&dq=Minha+estrada&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6ey3BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6ey3BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6ey3BQAAQBAJ&rdid=book-6ey3BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.499E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Passos_De_Corpo_E_Alma-sample-epub.acsm?id=6ey3BQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Passos_De_Corpo_E_Alma-sample-pdf.acsm?id=6ey3BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6ey3BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Movida pelos fascínios das noites e das manhãs, \u003cb\u003eminha estrada\u003c/b\u003e era infinita. Ao \u003cbr\u003e\nalvorecer sabia que tudo recomeçaria. Já me habituara à vida de itinerante que \u003cbr\u003e\nme impulsionava a mover de um lugar para outro, desvendando novas veredas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TCU4BQAAQBAJ",
+   "etag": "VgAR4TqqSTY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TCU4BQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Estrada",
+    "authors": [
+     "Waldir Luiz Neumann"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-04-09",
+    "description": "Compilação de lembranças e acontecimentos, narrativa de um período critico da minha saúde. Mostra geral de uma vida comum e mesmo assim repleta de emoções e peculiaridades. História limitada em prol da proteção de nomes e acontecimentos incomuns...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90143782"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 62,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TCU4BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TCU4BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TCU4BQAAQBAJ&pg=PT28&dq=Minha+estrada&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TCU4BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TCU4BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TCU4BQAAQBAJ&rdid=book-TCU4BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Estrada-sample-pdf.acsm?id=TCU4BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TCU4BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Capitulo 10 A \u003cb\u003eESTRADA\u003c/b\u003e/MEUS FILHOS, \u003cb\u003eMINHAS\u003c/b\u003e NETAS... Em \u003cb\u003eminha\u003c/b\u003e vida, \u003cbr\u003e\ncheia de atribulações e contratempos, poucas coisas me trouxeram tantas \u003cbr\u003e\nalegrias, quanto o nascimento de meus queridos e amados filhos, cada um com \u003cbr\u003e\nsua&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xhNEQsJh-34C",
+   "etag": "mIzzVHIXK7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xhNEQsJh-34C",
+   "volumeInfo": {
+    "title": "As Minhas Montanhas",
+    "authors": [
+     "ROBERTO LEAL"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-02-28",
+    "description": "Roberto Leal foi o grande vencedor do popular programa de televisão, «O Último a Sair» (RTP1). Na sequência da sua participação, Portugal rendeu-se finalmente ao cantor. Ao longo de toda a sua vida, esta montanha, a que o levou a fazer as pazes com Portugal, talvez tenha sido a mais difícil de escalar. Era, para Roberto, também uma das mais importantes. Um acerto de contas necessário com o país que o viu nascer. Todas as outras montanhas da sua vida, todas as dificuldades, todas as provas que teve de superar desde muito jovem, que o levaram ao sucesso, fizeram parte de um caminho que, desde muito jovem, sentiu que tinha de percorrer para se tornar num ser humano melhor. Um percurso de fé e amor conduzido pela sua alma, que o levou a um lugar de paz e esperança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722050142"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722050141"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xhNEQsJh-34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xhNEQsJh-34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xhNEQsJh-34C&pg=PT99&dq=Minha+estrada&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xhNEQsJh-34C&dq=Minha+estrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_Minhas_Montanhas.html?hl=&id=xhNEQsJh-34C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Minhas_Montanhas-sample-epub.acsm?id=xhNEQsJh-34C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Minhas_Montanhas-sample-pdf.acsm?id=xhNEQsJh-34C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xhNEQsJh-34C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você chegou um dia como quem não quer nada Entrou na minha vida, mudou a \u003cbr\u003e\n\u003cb\u003eminha estrada\u003c/b\u003e Pôs seu perfume em tudo, mudou o meu destino Eu, sem você, \u003cbr\u003e\nsou mudo... Fazme sentir menino...70 Daquela vez, não quis tropeçar novamente\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

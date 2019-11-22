@@ -1,0 +1,64 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lzFXjwEACAAJ",
+   "etag": "6OCYPMFeLQQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lzFXjwEACAAJ",
+   "volumeInfo": {
+    "title": "Abilio",
+    "subtitle": "a trajetória de Abilio Diniz, o empresário brasileiro mais importante do varejo global",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8568377025"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568377024"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lzFXjwEACAAJ&dq=isbn:9788568377024&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lzFXjwEACAAJ&dq=isbn:9788568377024&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Abilio.html?hl=&id=lzFXjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lzFXjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro revela os bastidores do processo de saída do empresário do Pão de Açúcar, conta em detalhes a disputa familiar pelo controle da companhia e as histórias de pioneirismo protagonizadas pro Abilio no varejo brasileiro. É o ..."
+   }
+  }
+ ]
+}

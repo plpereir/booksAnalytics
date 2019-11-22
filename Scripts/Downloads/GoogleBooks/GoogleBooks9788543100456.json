@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wKPKoAEACAAJ",
+   "etag": "cSbrfY90AGQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wKPKoAEACAAJ",
+   "volumeInfo": {
+    "title": "Adultério",
+    "authors": [
+     "Paulo Coelho"
+    ],
+    "publishedDate": "2014",
+    "description": "My sadness has become routine, no one notices anymore. I can not sleep right. I feel selfish. I keep trying to impress people as if it were a child. Alone and crying for no reason in the bath. I only made love with ease even once in many months - and you know well the day I'm talking about. I've considered all this to be a rite of passage, a result I have spent 30 years, but this explanation is not enough. I feel I'm wasting my life, that one day I will look back and regret everything I did. Unless having married you and had our beautiful children. - But this is not the most important?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8543100453"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543100456"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Adultery"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wKPKoAEACAAJ&dq=isbn:9788543100456&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wKPKoAEACAAJ&dq=isbn:9788543100456&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Adult%C3%A9rio.html?hl=&id=wKPKoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wKPKoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Minha tristeza se tornou rotina, ninguém percebe mais."
+   }
+  }
+ ]
+}

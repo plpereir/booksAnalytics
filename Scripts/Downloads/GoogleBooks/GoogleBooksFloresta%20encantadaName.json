@@ -1,0 +1,853 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 297,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t5QaAQAAIAAJ",
+   "etag": "gwB7INbuYk0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t5QaAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Floresta encantada",
+    "subtitle": "novos caminhos da literatura comparada",
+    "authors": [
+     "Helena Carvalhão Buescu",
+     "João Ferreira Duarte",
+     "Manuel Gusmão"
+    ],
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105122671832"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Comparative literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=t5QaAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=t5QaAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t5QaAQAAIAAJ&q=Floresta+encantada&dq=Floresta+encantada&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=t5QaAQAAIAAJ&dq=Floresta+encantada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Floresta_encantada.html?hl=&id=t5QaAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t5QaAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a1yCCwAAQBAJ",
+   "etag": "+F/IeOuCWH0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a1yCCwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Floresta Encantada",
+    "authors": [
+     "Lara Gassen Monteiro"
+    ],
+    "publisher": "Elefante Letrado Serviços Educacionais LTDA ",
+    "publishedDate": "2015-12-10",
+    "description": "Será que Olívia deve desobedecer à mãe e descobrir o que há na floresta? Veja o que Olívia fez lendo \"A Floresta Encantada\", de Lara Gassen Monteiro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584781430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8584781439"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 17,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a1yCCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a1yCCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=a1yCCwAAQBAJ&printsec=frontcover&dq=Floresta+encantada&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=a1yCCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-a1yCCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=a1yCCwAAQBAJ&rdid=book-a1yCCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Floresta_Encantada-sample-epub.acsm?id=a1yCCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Floresta_Encantada-sample-pdf.acsm?id=a1yCCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a1yCCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Será que Olívia deve desobedecer à mãe e descobrir o que há na floresta? Veja o que Olívia fez lendo &quot;A Floresta Encantada&quot;, de Lara Gassen Monteiro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "swlNDwAAQBAJ",
+   "etag": "Bj75H/dfmvY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/swlNDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A magia da floresta encantada",
+    "subtitle": "",
+    "authors": [
+     "Luisa Fonseca"
+    ],
+    "publisher": "Editora Nelpa",
+    "publishedDate": "2018-02-20",
+    "description": "Sou Luisa Fonseca Clementele e nasci em Cacoal/RO em 10 de Setembro de 2007. Minha personagem favorita, desde os 4 anos, era a Branca de Neve. Essa historia me inspirou a escrever o livro \"A magia da floresta encantada\", quando tinha 7 anos de idade. O meu livro é sobre fadas, rainhas más entre outros seres, misturando um pouquinho de cada coisa dos meus contos de fadas. Uma historia criada por mim. Sou uma pequena criança com grande imaginação. O livro já havia sido apresentado para a minha professora e lido para a turma. Todos gostaram muito. De vez em quando, ainda vem alguns colegas falando que sou a menina que já escreveu um livro e perguntam de onde tiro tanta imaginação. Eu só digo que leio muitos livros e deixo a historia viajar na minha cabeça. E para aqueles que me apoiaram nessa ideia: Muito obrigada! Eu amo vocês!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580206029"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580206022"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 16,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=swlNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=swlNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=swlNDwAAQBAJ&pg=PT9&dq=Floresta+encantada&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=swlNDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-swlNDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=swlNDwAAQBAJ&rdid=book-swlNDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9000000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9000000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_magia_da_floresta_encantada-sample-epub.acsm?id=swlNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_magia_da_floresta_encantada-sample-pdf.acsm?id=swlNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=swlNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Há muito tempo havia uma floresta no meio de uma pequena cidade, e no fim \u003cbr\u003e\ndessa floresta tinha uma minúscula porta que dava para a beleza de uma \u003cbr\u003e\n\u003cb\u003efloresta encantada\u003c/b\u003e. Lá tinha um pequeno reino, o reino dos ogros e o reino das \u003cbr\u003e\nfadas;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IO9xDwAAQBAJ",
+   "etag": "iAMXZhG+RcM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IO9xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Estela Flora E A Floresta Encantada",
+    "authors": [
+     "Mauro"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Contos infanto juvenis",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24163"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 82,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IO9xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IO9xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IO9xDwAAQBAJ&pg=PA13&dq=Floresta+encantada&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IO9xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IO9xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IO9xDwAAQBAJ&rdid=book-IO9xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estela_Flora_E_A_Floresta_Encantada-sample-pdf.acsm?id=IO9xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IO9xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dizem ainda que a Fada Rainha da Floresta tem o poder detomar diversas \u003cbr\u003e\nformas, inclusive de árvores e ao cortá-las, elas sofrem, gemem dolorosamente e \u003cbr\u003e\n... Seria um gnomo, duende, ou outra estranha criatura da \u003cb\u003eFloresta Encantada\u003c/b\u003e? \u003cbr\u003e\nNão&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YGaMDwAAQBAJ",
+   "etag": "vJv5Y/aVcFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YGaMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Floresta Encantada Livro um dia encantado para os Unicórnios",
+    "authors": [
+     "On line editora"
+    ],
+    "publisher": "On Line Editora",
+    "description": "Uma incrível história dos Unicórnios sobre um lindo baile no reino encantado.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 14,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YGaMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YGaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YGaMDwAAQBAJ&pg=PP1&dq=Floresta+encantada&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YGaMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YGaMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YGaMDwAAQBAJ&rdid=book-YGaMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YGaMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "On line editora. UNICORNIOS UM DIA ENCANTADO PARA OS UNICÓRNIOS! \u003cbr\u003e\n\u003cb\u003eFLORESTAENCANTADA\u003c/b\u003e EMPOLGADA. ERA DIA DE BAILE NO REINO \u003cbr\u003e\nENCANTADO!COMO ELA QUERIAESTARBEMBONITA,. Front Cover."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9meLDwAAQBAJ",
+   "etag": "eBe2VlIkrwA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9meLDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Floresta Encantada Unicórnios Livro de História Especial Ed 01",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "description": "No vale encantando, os unicórnios se reúnem para fazer uma grande festa para que todos possam mostrar seus talentos.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 20,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9meLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9meLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9meLDwAAQBAJ&pg=PA19&dq=Floresta+encantada&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9meLDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9meLDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9meLDwAAQBAJ&rdid=book-9meLDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9meLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "il. ; 28 x 28 cm – (\u003cb\u003eFloresta Encantada\u003c/b\u003e: Unicórnios) ISBN 978-85-432-2811-2 1. \u003cbr\u003e\nLiteratura infantojuvenil. CDD 028.5 Elaborado por Maurício Amormino Júnior – \u003cbr\u003e\nCRB6/2422 CEP:06455-907 – Barueri/SP IBC – INSTITUTOBRASILEIRO DE&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LqxcDwAAQBAJ",
+   "etag": "wSMv5niN75o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LqxcDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Floresta Encantada",
+    "authors": [
+     "Enid Blyton"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2018-04-20",
+    "description": "O Zé, a Isabel e a Francisca vão viver para perto de uma Floresta Encantada e lá descobrem a Árvore Longínqua, que lhes dará a conhecer muitas terras diferentes. Fazem novos amigos, deslizam pelo escorrega escorregadio e vão a uma festa magnífica na Terra dos Aniversários! Descobre um mundo mágico na companhia do Cara de Lua, do Sr. Caçarola e da fada Seda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897419171"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897419179"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LqxcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LqxcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LqxcDwAAQBAJ&dq=Floresta+encantada&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LqxcDwAAQBAJ&dq=Floresta+encantada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Floresta_Encantada.html?hl=&id=LqxcDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LqxcDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Zé, a Isabel e a Francisca vão viver para perto de uma Floresta Encantada e lá descobrem a Árvore Longínqua, que lhes dará a conhecer muitas terras diferentes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WmaMDwAAQBAJ",
+   "etag": "18RZvG3uo7M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WmaMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Floresta Encantada Livro de História",
+    "authors": [
+     "On line editora"
+    ],
+    "publisher": "On Line Editora",
+    "description": "Nesta história os unicórnios Zany, Pokey e Íris estão ansiosos para a grande festa que vai acontecer hoje a noite na floresta encantada. Venha se divertir com essa turma animada.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 8,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WmaMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WmaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WmaMDwAAQBAJ&printsec=frontcover&dq=Floresta+encantada&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WmaMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WmaMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WmaMDwAAQBAJ&rdid=book-WmaMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WmaMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta história os unicórnios Zany, Pokey e Íris estão ansiosos para a grande festa que vai acontecer hoje a noite na floresta encantada. Venha se divertir com essa turma animada."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IO9xDwAAQBAJ",
+   "etag": "1XRfds7uJa4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IO9xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Estela Flora E A Floresta Encantada",
+    "authors": [
+     "Mauro"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Contos infanto juvenis",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24163"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 82,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IO9xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IO9xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IO9xDwAAQBAJ&printsec=frontcover&dq=Floresta+encantada&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IO9xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IO9xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IO9xDwAAQBAJ&rdid=book-IO9xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estela_Flora_E_A_Floresta_Encantada-sample-pdf.acsm?id=IO9xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IO9xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Contos infanto juvenis"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RGaMDwAAQBAJ",
+   "etag": "4bZh69CIb54",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RGaMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Floresta Encantada Livro de História Ed 03",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "description": "Mais uma incrível história dos unicórnios e seus amigos na floresta encantada.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RGaMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RGaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RGaMDwAAQBAJ&printsec=frontcover&dq=Floresta+encantada&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RGaMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RGaMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RGaMDwAAQBAJ&rdid=book-RGaMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RGaMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais uma incrível história dos unicórnios e seus amigos na floresta encantada."
+   }
+  }
+ ]
+}

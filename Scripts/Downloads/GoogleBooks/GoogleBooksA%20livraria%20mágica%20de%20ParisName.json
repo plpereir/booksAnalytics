@@ -1,0 +1,836 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 33,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0kmWDgAAQBAJ",
+   "etag": "a+CylU13KCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0kmWDgAAQBAJ",
+   "volumeInfo": {
+    "title": "A livraria mágica de Paris",
+    "authors": [
+     "Nina George"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2017-03-31",
+    "description": "Uma história emocionante sobre amor, perda e o poder dos livros. O livreiro parisiense Jean Perdu sabe exatamente que livro cada cliente deve ler para amenizar os sofrimentos da alma. Em seu barco-livraria, ele vende romances como se fossem remédios. Infelizmente, o único sofrimento que não consegue curar é o seu: a desilusão amorosa que o atormenta há 21 anos, desde que a bela Manon partiu enquanto ele dormia. Tudo o que ela deixou foi uma carta — que Perdu não teve coragem de ler. Até que em um determinado verão, tudo muda e Monsieur Perdu abandona a casa e a embarca em uma jornada que o levará ao coração da Provence e de volta ao mundo dos vivos. Sucesso de público e crítica, repleto de momentos deliciosos e salpicado com uma boa dose de aventura, A livraria mágica de Paris é uma carta de amor aos livros — perfeito para quem acredita no poder que as histórias têm de influenciar nossas vidas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501110596"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501110590"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.19.19.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0kmWDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0kmWDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0kmWDgAAQBAJ&printsec=frontcover&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0kmWDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0kmWDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0kmWDgAAQBAJ&rdid=book-0kmWDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.126E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_livraria_m%C3%A1gica_de_Paris-sample-epub.acsm?id=0kmWDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_livraria_m%C3%A1gica_de_Paris-sample-pdf.acsm?id=0kmWDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0kmWDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sucesso de público e crítica, repleto de momentos deliciosos e salpicado com uma boa dose de aventura, A livraria mágica de Paris é uma carta de amor aos livros — perfeito para quem acredita no poder que as histórias têm de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B2Y-DwAAQBAJ",
+   "etag": "VOILYK5P1yg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B2Y-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O maravilhoso bistrô francês",
+    "authors": [
+     "Nina George"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2017-11-13",
+    "description": "Da autora do sucesso A livraria mágica de Paris, uma história recheada de beleza, sensibilidade, erotismo e romance, que nos mostra que não existe idade para recomeçar e ser feliz. Deprimida com os desastres de sua vida, Marianne não vê a hora de pôr um fim em tudo. Em uma viagem a Paris, ela se atira no Sena, mas é salva do afogamento por um passante. No hospital, ela vê um azulejo pintado com a linda paisagem de uma cidade na Bretanha. Inspirada pela pintura, ela decide embarcar em uma aventura e é arrebatada por uma nova e encantadora vida. Ela conhece um belo pintor, a enérgica dona de um restaurante, um chef perdido de amor e descobre novas possibilidades. Entre refeições, músicas e risos, Marianne descobre uma nova versão de si mesma — apaixonada, despreocupada e forte. Porém, seu passado chega para confrontá-la, e ela precisa decidir entre voltar para sua vida antiga ou abandoná-la de vez em nome de um futuro promissor e empolgante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501112682"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501112682"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B2Y-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B2Y-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=B2Y-DwAAQBAJ&printsec=frontcover&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=B2Y-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-B2Y-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=B2Y-DwAAQBAJ&rdid=book-B2Y-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.126E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_maravilhoso_bistr%C3%B4_franc%C3%AAs-sample-epub.acsm?id=B2Y-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_maravilhoso_bistr%C3%B4_franc%C3%AAs-sample-pdf.acsm?id=B2Y-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B2Y-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Da autora do sucesso A livraria mágica de Paris, uma história recheada de beleza, sensibilidade, erotismo e romance, que nos mostra que não existe idade para recomeçar e ser feliz."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ScB5DwAAQBAJ",
+   "etag": "mBwlidniwdY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ScB5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Livros Pelo Caminho",
+    "authors": [
+     "Cleber Marques De Oliveira"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Neste segundo romance, Nando, o jovem apaixonado por livros, vive novas aventuras pessoais e profissionais regadas à descoberta de livros impressionantes e à tomada de decisões importantes.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU33037"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ScB5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ScB5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ScB5DwAAQBAJ&pg=PA152&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ScB5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ScB5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ScB5DwAAQBAJ&rdid=book-ScB5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Livros_Pelo_Caminho-sample-pdf.acsm?id=ScB5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ScB5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mostrei-lhe \u003cb\u003eA Livraria Mágica de Paris\u003c/b\u003e, de Nina George, e Farmácia Literária, de \u003cbr\u003e\nSusan Elderkin e Ella Berthoud. O encantamento foi imediato após leitura das \u003cbr\u003e\nsinopses. Mais ainda ficou a sebista quando reviu o livro Casa-grande 152."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6dZWAAAAcAAJ",
+   "etag": "kU5cboCaGzk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6dZWAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Camoes, poema. - Paris, Livraria Nacional 1825",
+    "authors": [
+     "Joao Baptista da Silva Leitao d'Almeida Garrett"
+    ],
+    "publishedDate": "1825",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z179482608"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6dZWAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6dZWAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6dZWAAAAcAAJ&pg=PA20&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6dZWAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6dZWAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=6dZWAAAAcAAJ&rdid=book-6dZWAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Camoes_poema_Paris_Livraria_Nacional_182.pdf?id=6dZWAAAAcAAJ&hl=&output=pdf&sig=ACfU3U0Bf77MZ1N_6o9XW3KQk_UDm-RMIQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6dZWAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A natureza prodiga em beldades Por tam risonhas terras lhe ha negado A \u003cbr\u003e\n\u003cb\u003emagica\u003c/b\u003e illusão, que os veos estende Nessa hora de saudosos pensamentos \u003cbr\u003e\nSôbre os campos boreaes : — hora tam triste, Mas de tal suavidade melancolica! \u003cbr\u003e\n– Não te&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eDY_H_gmTPQC",
+   "etag": "vTFSQsSWLhU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eDY_H_gmTPQC",
+   "volumeInfo": {
+    "title": "O roteiro mágico de Pitágoras, o",
+    "authors": [
+     "Gustavo Korte"
+    ],
+    "publisher": "Editora Peirópolis",
+    "description": "Gustavo Korte apresenta seu relato de viagem empreendida à Índia, na tentativa de encontrar um indeterminado monge tibetano da religião Bom Po, por quem o autor sentiu-se espiritualmente chamado. Ao longo do roteiro, de Stonehenge, no sul da Inglaterra, a Halicarnasso, no sul da Turquia, o leitor vivenciará uma aventura, mesclada de comentários sobre as regiões percorridas, a história, a filosofia, a religião e o misticismo do povo local, e de fatos inesperados e pitorescos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585663308"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585663308"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eDY_H_gmTPQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eDY_H_gmTPQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eDY_H_gmTPQC&pg=PA272&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eDY_H_gmTPQC&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_roteiro_m%C3%A1gico_de_Pit%C3%A1goras_o.html?hl=&id=eDY_H_gmTPQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eDY_H_gmTPQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Les dialogues de Platon, Presses Universitaires, \u003cb\u003eParis\u003c/b\u003e, França, 1947. Gonçalves, \u003cbr\u003e\nDias. Primeiros cantos, \u003cb\u003eLivraria\u003c/b\u003e Progresso, Salvador, Brasil, 1954. Gouhier, Henri\u003cbr\u003e\n. Situation contemporaine du problème du mal, Plon, \u003cb\u003eParis\u003c/b\u003e, França. Graves&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KgVNDwAAQBAJ",
+   "etag": "cukbCoH9Y2c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KgVNDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia de Lazer e Turismo 08 – Guia de Paris",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2018-02-20",
+    "description": "Primeiro destino turístico do mundo, Paris provoca sentimentos avassaladores em quem a visita pela primeira vez – e também em quem volta à cidade para ser surpreendido por novas descobertas. Afinal, na capital francesa é possível experimentar a melhor gastronomia do mundo, respirar cultura e, de quebra, conferir as tendências da moda nas dezenas de lojas de grife espalhadas pela cidade. Os patrimônios históricos da capital francesa fazem dela um museu a céu aberto. Prepare-se para se emocionar e se apaixonar pelas catedrais de Notre-Dame e Sacré-Coeur, pelos museus do Louvre, d’Orsay e Pompidou, pela beleza do Quartier Latin, da Champs-Elysées, da Place des Vosges, da paradisíaca Torre Eiffel... Renda-se, apaixone-se e curta cada segundo desse paraíso.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 82,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KgVNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KgVNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KgVNDwAAQBAJ&pg=PA71&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KgVNDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KgVNDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KgVNDwAAQBAJ&rdid=book-KgVNDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KgVNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "On Line \u003cb\u003eEditora\u003c/b\u003e. Parc Asterix TENDÊNCIAS REQUINTE E CHARME A moda \u003cbr\u003e\nfrancesa é muito valiosa. HoRÁRIO DE ... Caixas secretas, espelhos \u003cb\u003emágicos\u003c/b\u003e, \u003cbr\u003e\ngravuras, acessórios para truques e ilusões, entre outros objetos, fazem parte do\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X6cPAQAAIAAJ",
+   "etag": "lU75C5GAF40",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X6cPAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Catalogo geral da Livraria Garnier",
+    "authors": [
+     "Livraria Garnier (Rio de Janeiro)"
+    ],
+    "publishedDate": "1913",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B2859254"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X6cPAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X6cPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X6cPAQAAIAAJ&pg=PA105&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=X6cPAQAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-X6cPAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=X6cPAQAAIAAJ&rdid=book-X6cPAQAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X6cPAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eLivraria\u003c/b\u003e Garnier (Rio de Janeiro). Paginas 6-49 52 6 | 64 73 | 64 70 52 76 20 62 \u003cbr\u003e\n63 64 54 55 57 63 68 67 | 68 77 65 70 27 27 4 | 43 42 24 24 68 49 34 34 34 34 \u003cbr\u003e\n34 34 77 59 34 Paginas 48 4 34 35 34 34 35 69 74. -— Paginas Lambert. Breves\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4CSFDwAAQBAJ",
+   "etag": "qYl0WNCnt7o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4CSFDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Lonely Planet Portugal: Porto, Douro e Trás-os-montes",
+    "authors": [
+     "Vários"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2019-01-25",
+    "description": "CONHEÇA A REGIÃO DE TRÁS-OS-MONTES, O RIO DOURO E A CIDADE DO PORTO COM A LONELY PLANET A cidade do Porto, a segunda maior de Portugal, fica na foz do rio Douro, e os mais antigos vinhedos demarcados do mundo ficam perto da sua nascente. Aprecie as catedrais e suas esculturas, as igrejas barrocas, as quintas palacianas, os bulevares artísticos e as adegas do século 18. Localizada entre o rio Douro e a fronteira de Portugal com a Espanha a extremo nordeste, está a linda região de Trás-os-Montes, com encostas íngremes completamente cobertas por vinhedos, infinitos pomares de oliveiras e planaltos ao norte, com a sombra das castanheiras. A vida aqui se desenrola em seu próprio ritmo, ditado por uma natureza dura e intocada. Tanto a comida quanto as pessoas são calorosas e sem frescuras, como você logo descobrirá. O guia Lonely Planet Portugal: Porto, Douro e Trás-os-Montes traz tudo o que você precisa saber sobre essa região – mapas, destaques, atrações, hospedagem, restaurantes, vida noturna, compras e lazer – bem como informações práticas sobre transporte público, clima, moeda. Além disso, você vai encontrar dicas específicas para viajantes mulheres, gays, lésbicas e viajantes com deficiência e vai aprender as principais diferenças de vocabulário entre o português brasileiro e o de Portugal. Este guia digital tem recursos para tornar sua viagem ainda mais prática: • Mapas off-line para que você não precise usar seu pacote de dados • Links para mapas on-line, nos quais você pode ver os seus trajetos • Navegação simples e prática • Links que permitem ir dos mapas para as resenhas de maneira rápida • Anotações para que você deixe seu guia de viagem mais personalizado • Marcação de páginas e busca para encontrar rapidamente o que você precisa • Links para os sites das nossas recomendações • Zoom nos mapas e imagens Este e-book é parte do guia completo Lonely Planet Portugal e contém as seções Porto, Douro e Trás-os-Montes e Guia de sobrevivência, com os seguintes capítulos: Porto, Vila do Conde, Amarante, Lamego, Arredores de Lamego, Peso da Régua, Alto Douro, Pinhão e arredores, Vila Nova de Foz Côa, Trás-os-Montes, Vila Real, Parque Natural do Alvão, Mondim de Basto, Chaves, Bragança, Parque Natural de Montesinho, Miranda do Douro, Parque Natural do Douro Internacional, Informações úteis de A a Z, Transportes, O português de Portugal. Este e-book é melhor visualizado em tablets e smartphones.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525068040"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525068047"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 102,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4CSFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4CSFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4CSFDwAAQBAJ&pg=PT35&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4CSFDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4CSFDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4CSFDwAAQBAJ&rdid=book-4CSFDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Lonely_Planet_Portugal_Porto_Douro_e_Tr-sample-epub.acsm?id=4CSFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Lonely_Planet_Portugal_Porto_Douro_e_Tr-sample-pdf.acsm?id=4CSFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4CSFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Parece um lugar \u003cb\u003emágico\u003c/b\u003e? Sua escada de trabalho intrincado e curvas curiosas \u003cbr\u003e\nfoi, teoricamente, a inspiração para \u003cb\u003ea livraria\u003c/b\u003e que aparece na série Harry Potter, \u003cbr\u003e\nque ... Terminada em 1903, ela parece ter sido importada da \u003cb\u003eParis\u003c/b\u003e do século 19."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "awqoBAAAQBAJ",
+   "etag": "ck+SKqMJOm8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/awqoBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O xangô de Baker Street",
+    "authors": [
+     "Jô Soares"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2011-12-06",
+    "description": "Neste livro hilariante, Jô Soares alia uma rigorosa pesquisa histórica sobre a vida no Rio de Janeiro do Segundo Reinado à sua inventividade sem fronteiras. Romance \"cômico-policial\", O Xangô de Baker Street constitui uma engraçada mistura de cenário muito preciso do passado - a capital do país por ocasião da primeira visita da legendária atriz francesa Sarah Bernhardt -, figuras conhecidas da história política e cultural do país - como Olavo Bilac, Chiquinha Gonzaga, Paula Nei, d. Pedro II -, e personagens de ficção - Sherlock Holmes e o indefectível dr. Watson, importados para desvendar o desaparecimento inconveniente de um violino Stradivarius que deixara o imperador em sérios apuros. Mas as ilustres criaturas de Conan Doyle acabam sendo requisitadas para solucionar uma série de crimes hediondos e enigmáticos. O resultado é um livro delicioso, em que as modas e os costumes da capital imperial no século XIX vêm acompanhados de algumas suposições mais ousadas, como a de o Brasil ser o berço do primeiro serial killer da história. Por sua vez, o texto vai do jocoso dos diálogos e da gozação do francesismo brasileiro de então ao hilariante de diversas cenas, e revelações estarrecedoras sobre a vida alimentar, farmacológica e sexual do famoso detetive da rua Baker. O Sherlock de Jô descobrirá as delícias sensuais dos trópicos, aprenderá alguns costumes nativos, exercerá seus brilhantes dotes dedutivos (para espanto e incredulidade dos pobres mortais), mas será obrigado a admitir que os crimes abaixo do Equador não são tão elementares, meu caro leitor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580866759"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580866758"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=awqoBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=awqoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=awqoBAAAQBAJ&pg=PT11&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=awqoBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-awqoBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=awqoBAAAQBAJ&rdid=book-awqoBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_xang%C3%B4_de_Baker_Street-sample-epub.acsm?id=awqoBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_xang%C3%B4_de_Baker_Street-sample-pdf.acsm?id=awqoBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=awqoBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seus amigos debochavam, dizendo que seria bem melhor viver em \u003cb\u003eParis\u003c/b\u003e e \u003cbr\u003e\nmorrer por aqui mesmo. Junto com os jornalistas estavam o jovem livreiro Miguel \u003cbr\u003e\nSolera de Lara, dono da \u003cb\u003elivraria\u003c/b\u003e O Recanto de Afrodite, um dos pontos de \u003cbr\u003e\nencontro dos ... Calif, que vestia metade da cidade elegante, sem falar dos \u003cbr\u003e\nfazendeiros paulistas que viajavam para a capital só para usufruir da sua \u003cb\u003emágica\u003c/b\u003e \u003cbr\u003e\ntesoura."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cfMzAQAAIAAJ",
+   "etag": "mCKJzJLUNCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cfMzAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Carteira do artista",
+    "subtitle": "apontamentos para a historia do theatro portuguez e brazileiro : acompanhados de noticias sobre os principaes artistas, escriptores dramaticos e compositores estrangeiros",
+    "authors": [
+     "Antonio Sousa Bastos"
+    ],
+    "publishedDate": "1898",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:$B711948"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 866,
+    "printType": "BOOK",
+    "categories": [
+     "Actors"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cfMzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cfMzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cfMzAQAAIAAJ&q=A+livraria+m%C3%A1gica+de+Paris&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cfMzAQAAIAAJ&dq=A+livraria+m%C3%A1gica+de+Paris&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Carteira_do_artista.html?hl=&id=cfMzAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cfMzAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essa \u003cb\u003emagica\u003c/b\u003e foi representada por curiosos no velho theatro de Santarem. ... \u003cbr\u003e\nGuilherme d&#39; Azevedo era um dos frequentadores da \u003cb\u003eLivraria\u003c/b\u003e do Carmo, o \u003cbr\u003e\ncunhado do Gervasio Lobato, onde se reunia um ... deixou chegar o mal a ponto \u003cbr\u003e\nde não ter remedio e morrer em \u003cb\u003eParis\u003c/b\u003e, apenas com 33 anuos de edade, nos \u003cbr\u003e\nbraços de&nbsp;..."
+   }
+  }
+ ]
+}

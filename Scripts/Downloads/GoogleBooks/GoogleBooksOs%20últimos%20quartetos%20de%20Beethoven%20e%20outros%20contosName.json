@@ -1,0 +1,855 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 87,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AT2pAAAAQBAJ",
+   "etag": "a33amD49OhU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AT2pAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Os últimos quartetos de Beethoven e outros contos",
+    "authors": [
+     "Luis Fernando Verissimo"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2013-09-03",
+    "description": "Uma espanhola misteriosa e sensual, um ex-preso político atormentado por uma mancha no carpete, um expert em vinho que não bebe, um homem que precisa decidir até onde ir para ganhar uma promoção, uma violoncelista que exerce um estranho domínio sobre cinco amigos. Sem contar a empregada doméstica que resolve todos – eu disse todos – os problemas da casa. Quem mais além de Cremilda seria capaz de se livrar do agiota que inferniza a família e ainda por cima fazer um manjar branco igual ao da mãe do patrão?O autor vai do drama à comédia, com incursões aqui e ali na tragicomédia. Como no caso do homem que, durante um enfarte, tenta se lembrar de onde botou o remédio e o que vêm à mente são as ruas de Copacabana, o Gordo e o Magro, as capitanias hereditárias, a linha média do Flamengo tricampeão dos anos 1940 e Gisela. Ah, a Gisela!Amor, sexo, relacionamentos, obsessões, violência, morte, tem de tudo em \"Os últimos quartetos de Beethoven e outros contos”: de histórias ligeiras, como a do passageiro com fobia por avião, a mais densas, como a do ex-militante assombrado por lembranças do passado. Vícios e virtudes do ser humano temperados pelo humor incomparável de Luis Fernando Verissimo, um mestre da narrativa curta.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539005208"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539005204"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.6.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AT2pAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AT2pAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AT2pAAAAQBAJ&printsec=frontcover&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=AT2pAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-AT2pAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=AT2pAAAAQBAJ&rdid=book-AT2pAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_%C3%BAltimos_quartetos_de_Beethoven_e_out-sample-epub.acsm?id=AT2pAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_%C3%BAltimos_quartetos_de_Beethoven_e_out-sample-pdf.acsm?id=AT2pAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AT2pAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Amor, sexo, relacionamentos, obsessões, violência, morte, tem de tudo em &quot;Os últimos quartetos de Beethoven e outros contos&quot;: de histórias ligeiras, como a do passageiro com fobia por avião, a mais densas, como a do ex-militante ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LEwnDQAAQBAJ",
+   "etag": "IiTiCocyA1k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LEwnDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Verissimas",
+    "subtitle": "Frases, reflexões e sacadas sobre quase tudo",
+    "authors": [
+     "Luis Fernando Verissimo"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2016-09-28",
+    "description": "O publicitário e jornalista Marcelo Dunlop tinha apenas dez anos quando descobriu, lendo um texto de Luis Fernando Verissimo, que até a morte podia ser engraçada. Deslumbrado com o achado e às gargalhadas, o menino recortou a crônica do jornal e passou a fazer o mesmo com várias outras. Duas décadas depois, eis aqui o resultado da empreitada: uma seleção de pérolas garimpadas em toda a obra do escritor. Salpicada de cartuns raros recolhidos no baú do autor, esta coletânea traz cerca de oitocentos verbetes — ou Verissimas — em ordem alfabética. Conduzido e instigado por esse alfabeto particular, o leitor seguirá se divertindo de A a Z com as comparações, máximas, mínimas e metáforas do mestre do humor sintético.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543807157"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543807158"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LEwnDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LEwnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LEwnDQAAQBAJ&pg=PT192&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LEwnDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LEwnDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LEwnDQAAQBAJ&rdid=book-LEwnDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Verissimas-sample-epub.acsm?id=LEwnDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Verissimas-sample-pdf.acsm?id=LEwnDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LEwnDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Crônicas de amor (CA) Diálogos impossíveis (DI) Ed Mort com a mão no milhão (\u003cbr\u003e\nEDM) Ed Mort &amp; outras histórias ... (OSC) Orgias (ORG) Outras do analista de \u003cbr\u003e\nBagé (OANB) Os espiões (OE) \u003cb\u003eOs últimos quartetos de Beethoven e outros\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003econtos\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "IX7oki1WVbI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nIJXDwAAQBAJ",
+   "etag": "dlNlVDdibSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nIJXDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Memória - 3.ed.",
+    "authors": [
+     "Ivan Izquierdo"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2018-04-24",
+    "description": "O mais acessível livro sobre memória brasileiro chega à sua 3a edição, revisado e atualizado de acordo com os avanços da área. Entre outros temas, o autor aborda: o que é memória, quais são os tipos e as formas de memória, como as memórias se formam, as síndromes amnésicas e hipermnésicas, e as demências.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582714928"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582714920"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nIJXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nIJXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nIJXDwAAQBAJ&pg=PT134&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nIJXDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nIJXDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 32.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nIJXDwAAQBAJ&rdid=book-nIJXDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.276E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3ria_3_ed-sample-epub.acsm?id=nIJXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3ria_3_ed-sample-pdf.acsm?id=nIJXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nIJXDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De fato, nos \u003cb\u003eúltimos\u003c/b\u003e cem anos, os produtos da criação humana em pintura, \u003cbr\u003e\nescultura, música e literatura têm se ... ou as sinfonias e \u003cb\u003eos últimos quartetos de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eBeethoven\u003c/b\u003e, com suas formas cambiantes e suas ocasionais dissonâncias; muito \u003cbr\u003e\nmais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "al0tAAAAYAAJ",
+   "etag": "MqvPeq7FYKE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/al0tAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Contos",
+    "authors": [
+     "Érico Veríssimo"
+    ],
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022552694"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 151,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=al0tAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=al0tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=al0tAAAAYAAJ&q=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=al0tAAAAYAAJ&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Contos.html?hl=&id=al0tAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=al0tAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quase todas as noites, depois de vaguear sozinho pelas ruas, recolho-me ao \u003cbr\u003e\nquarto, ponho a eletrola a funcionar e, estendido na cama, cerro os olhos e fico a \u003cbr\u003e\nescutar \u003cb\u003eos últimos quartetos de Beethoven\u003c/b\u003e, tentando descobrir o que teria&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1vCnBAAAQBAJ",
+   "etag": "Hr/GS0cTnm0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1vCnBAAAQBAJ",
+   "volumeInfo": {
+    "title": "14 contos de Kenzaburo Oe",
+    "authors": [
+     "Kenzaburo Oe"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2011-11-24",
+    "description": "Escritos entre 1957 e 1990, estes contos refletem não apenas a evolução da escrita do autor, mas também os seus temas recorrentes. Kenzaburo Oe foi construindo aos poucos um universo tipicamente japonês, habitado por personagens que jamais poderiam ser ocidentais. Os contos \"O homem sexual\" e \"Em português brasileiro\", tratam de um tipo de incomunicabilidade muito nipônica, em que algo importante deixa de ser dito, numa tentativa nem sempre bem-sucedida de preservar a harmonia social. O delicado equilíbrio dentro da família Oe, que inclui um filho com deficiência cerebral, está retratado em \"Viver em paz\" e \"A dor de uma história\", supostamente narrados pela filha do escritor. Já em \"Seventeen\", um dos contos mais polêmicos, Oe se baseia no assassinato do presidente do Partido Socialista japonês, nos anos 1960, por um adolescente ultranacionalista, para refletir sobre o nível de fanatismo que as ideias políticas podem incutir num indivíduo confuso ou ainda malformado. Na época, o conto foi duramente atacado por ambos os extremos do espectro político. A visão sem ilusões, porém compassiva, que Oe tem da existência humana amarra todos os textos. Repetidas vezes, ele afirmou que sua obra trata da inegociável dignidade dos seres humanos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543800752"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543800757"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1vCnBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1vCnBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1vCnBAAAQBAJ&pg=PT334&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1vCnBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1vCnBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1vCnBAAAQBAJ&rdid=book-1vCnBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.95E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/14_contos_de_Kenzaburo_Oe-sample-epub.acsm?id=1vCnBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/14_contos_de_Kenzaburo_Oe-sample-pdf.acsm?id=1vCnBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1vCnBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lipatti apresentouse em péssima condição física para a gravação desse que \u003cbr\u003e\nseria seu \u003cb\u003eúltimo\u003c/b\u003e concerto. Dois meses depois, ele morreria ouvindo o \u003cb\u003eQuarteto\u003c/b\u003e \u003cbr\u003e\nem Fá Menor de \u003cb\u003eBeethoven\u003c/b\u003e. — Mitsuko ... Os \u003cb\u003eoutros\u003c/b\u003e seis são capazes de \u003cbr\u003e\nperceber com facilidade por que o corpo nu das jovens provoca constrangimento \u003cbr\u003e\nem Keiko."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XjJ-gK6gCaoC",
+   "etag": "aaC3OVmgbYY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XjJ-gK6gCaoC",
+   "volumeInfo": {
+    "title": "sonhar restaurado, O",
+    "authors": [
+     "Ab’Sáber, Tales A. M."
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "2001",
+    "description": "(Continuação) transmutação epistemológica que sua psicanálise sofre com a entrada em cena da teoria das funções a partir dos anos 60. De Winnicott tentaremos rastrear em detalhes a profunda presença em sua clínica, oferecida espontaneamente por suas crianças, dos impasses no espaço onírico e de sonhos dissociados do self global da criança. Pretendo demonstrar como a própria natureza singular de sua clínica da transicionalidade, que antecipou na prática humana do analista sua própria conceituação, surge conectada à extrema atenção e a aprendizagem dos problemas e das limitações do sonhar humano tal qual as crianças lhe trouxeram. Por fim Winnicott propõe uma inovação radical na compreensão do sonhar humano e de sua possibilidade: esta tese se dedica à pouco estudada teoria de Winnicott, - porque não plenamente esboçada ainda no momento de sua morte -, de que é necessário que sejamos sonhados por um outro humano, ou por toda a cultura humana, para que possamos chegar a sonhar um nosso próprio sonho pessoal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573263342"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573263343"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 337,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XjJ-gK6gCaoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XjJ-gK6gCaoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XjJ-gK6gCaoC&pg=PA217&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XjJ-gK6gCaoC&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/sonhar_restaurado_O.html?hl=&id=XjJ-gK6gCaoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XjJ-gK6gCaoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... na música de um \u003cb\u003eBeethoven\u003c/b\u003e, a quem Winnicott admirava muito (\u003cbr\u003e\nprincipalmente em seus \u003cb\u003eúltimos quartetos\u003c/b\u003e de corda, ... \u003cb\u003econto\u003c/b\u003e da morte de \u003cbr\u003e\nWinnicott pela imagem final do cristal das múltiplas faces, um símbolo preciso da \u003cbr\u003e\nunidade múltipla,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oo92AgAAQBAJ",
+   "etag": "E2uftajLaZM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oo92AgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Margem",
+    "authors": [
+     "José Leon Machado"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-02",
+    "description": "Ao lado do cemitério, descia um caminho de terra em direcção ao rio. O Rocha encaminhou-se para aí e a Sandra acompanhou-o. Ele não levou muito a sério ela ter-lhe metido a mão no braço e o percurso foi ocupado com pequenos ditos inócuos. Em cinco minutos chegaram à margem e sentaram-se num tufo de erva que crescia entre os carvalhos e a água. Foi então que ele lhe pegou na mão, a puxou para si e a beijou. O beijo não foi grande coisa. A rapariga, ou não sabia beijar, ou nunca tinha beijado nenhum rapaz. Apertava os lábios com força num chilreio pouco natural. O Rocha largou-a e pôs-se a olhar o rio com o sol a dar-lhe de oriente em tons de prata.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392145"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392142"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oo92AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oo92AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oo92AgAAQBAJ&printsec=frontcover&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oo92AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oo92AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.65,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.65,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oo92AgAAQBAJ&rdid=book-oo92AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.365E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.365E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Margem-sample-epub.acsm?id=oo92AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Margem-sample-pdf.acsm?id=oo92AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oo92AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ele não levou muito a sério ela ter-lhe metido a mão no braço e o percurso foi ocupado com pequenos ditos inócuos. Em cinco minutos chegaram à margem e sentaram-se num tufo de erva que crescia entre os carvalhos e a água."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4IkoAQAAIAAJ",
+   "etag": "OGjCo79Ojak",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4IkoAQAAIAAJ",
+   "volumeInfo": {
+    "title": "A literatura no Brasil: Modernismo",
+    "authors": [
+     "Afrânio Coutinho"
+    ],
+    "publishedDate": "1970",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3334876"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4IkoAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4IkoAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4IkoAQAAIAAJ&q=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4IkoAQAAIAAJ&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_literatura_no_Brasil_Modernismo.html?hl=&id=4IkoAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4IkoAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Exatamente o que Proust, que era bergso- niano, disse de \u003cb\u003eBeethoven\u003c/b\u003e: \u003cb\u003eos últimos\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003equartetos de Beethoven\u003c/b\u003e criaram o público dos \u003cb\u003eúltimos quartetos de Beethoven\u003c/b\u003e. \u003cbr\u003e\nCabe agora a pergunta fundamental: em que consistiu a revolução rosiana?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZQMtaxD6wG0C",
+   "etag": "ePdOPy247fE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQMtaxD6wG0C",
+   "volumeInfo": {
+    "title": "A Linguagem de Shakespeare",
+    "authors": [
+     "FRANK KERMODE",
+     "BARBARA HELIODORA"
+    ],
+    "publisher": "Editora Record",
+    "description": "Apontado como a obra-prima de Frank Kermode - especialista britânico em literatura dos séculos XVI e XVII e um dos melhores críticos e intérpretes de Shakespeare -, este livro expõe os motivos da grandeza e da perenidade das peças do bardo. As análises dos versos trazem demonstrações de raro conhecimento da história e cultura elisabetanas, assim como de todo o legado da crítica shakespeariana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501065587"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501065582"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZQMtaxD6wG0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZQMtaxD6wG0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZQMtaxD6wG0C&pg=PA27&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZQMtaxD6wG0C&dq=Os+%C3%BAltimos+quartetos+de+Beethoven+e+outros+contos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Linguagem_de_Shakespeare.html?hl=&id=ZQMtaxD6wG0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZQMtaxD6wG0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em \u003cb\u003eConto\u003c/b\u003e de inverno Hermione, embora alegremente falante nas primeiras \u003cbr\u003e\ncenas, permanece em silêncio por ... não haviam feito as descobertas técnicas \u003cbr\u003e\nnecessárias, poderiam afinal ser esperadas no drama tanto quanto nas \u003cb\u003eoutras\u003c/b\u003e \u003cbr\u003e\nartes — em música, por exemplo. Não precisamos citar exemplos excepcionais \u003cbr\u003e\ncomo \u003cb\u003eBeethoven\u003c/b\u003e, marcados pelo contraste entre os primeiros e \u003cb\u003eos últimos\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003equartetos\u003c/b\u003e;&nbsp;..."
+   }
+  }
+ ]
+}

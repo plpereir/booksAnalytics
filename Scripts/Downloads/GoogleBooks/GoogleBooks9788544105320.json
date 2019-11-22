@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qViFswEACAAJ",
+   "etag": "5v/g79iBoE8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qViFswEACAAJ",
+   "volumeInfo": {
+    "title": "Todos contra todos",
+    "subtitle": "o ódio nosso de cada dia",
+    "authors": [
+     "Leandro Karnal"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8544105327"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544105320"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qViFswEACAAJ&dq=isbn:9788544105320&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qViFswEACAAJ&dq=isbn:9788544105320&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Todos_contra_todos.html?hl=&id=qViFswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qViFswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Leandro Karnal derruba o mito do brasileiro pacífico. &quot;Só eu e você, caro leitor, cara leitora, não odiamos nem somos violentos, muito menos preconceituosos&quot;, diz Karnal."
+   }
+  }
+ ]
+}

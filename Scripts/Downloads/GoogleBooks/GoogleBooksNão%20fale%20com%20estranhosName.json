@@ -1,0 +1,943 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 63,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QmUJDAAAQBAJ",
+   "etag": "gKabsXvFhS0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QmUJDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Não fale com estranhos",
+    "authors": [
+     "Harlan Coben"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2016-05-16",
+    "description": "O estranho aparece do nada e, com poucas palavras, destrói o mundo de Adam Price. Sua identidade é desconhecida. Suas motivações são obscuras. Mas suas revelações são dolorosamente incontestáveis.Adam levava uma \"vida dos sonhos\" ao lado da esposa, Corinne, e dos dois filhos. Quando o estranho o aborda para contar um segredo estarrecedor sobre sua esposa, ele percebe a fragilidade do sonho que construiu: teria sido tudo uma grande mentira?Assombrado pela dúvida, Adam decide confrontar Corinne, e a imagem de perfeição que criou em torno dela começa a ruir. Ao investigar a história por conta própria, acaba se envolvendo num universo sombrio repleto de mentiras, chantagens e assassinatos.Intrigante e perturbador, Não fale com estranhos é mais que um suspense de tirar o fôlego. É uma reflexão sobre o bem e o mal, o amor e o ódio, o certo e o errado, os segredos, as mentiras e suas consequências devastadoras.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580415728"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580415721"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.23.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QmUJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QmUJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QmUJDAAAQBAJ&printsec=frontcover&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QmUJDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QmUJDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QmUJDAAAQBAJ&rdid=book-QmUJDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_fale_com_estranhos-sample-epub.acsm?id=QmUJDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_fale_com_estranhos-sample-pdf.acsm?id=QmUJDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QmUJDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Intrigante e perturbador, Não fale com estranhos é mais que um suspense de tirar o fôlego. É uma reflexão sobre o bem e o mal, o amor e o ódio, o certo e o errado, os segredos, as mentiras e suas consequências devastadoras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hzl2tmT8QkUC",
+   "etag": "+HjcNDvc5QY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hzl2tmT8QkUC",
+   "volumeInfo": {
+    "title": "Utilizando UML e Padrões",
+    "authors": [
+     "Craig Larman"
+    ],
+    "publisher": "Bookman Editora",
+    "publishedDate": "2002",
+    "description": "Você precisa aprender de forma mais eficaz? Tem problemas de concentração? Aprende e depois não lembra? Não consegue administrar seu tempo de estudo? Claudio de Moura Castro, reconhecido especialista em educação, apresenta técnicas para desenvolver bons hábitos de estudo e conquistar uma aprendizagem duradoura. O autor vasculha o funcionamento da mente humana para ensinar o leitor a usar a memória a seu favor com o método de estudo ativo e mostra que estudar é coisa que se aprende. Com este livro, você aprenderá: - Como obter melhores resultados em testes, provas e trabalhos - Como entender melhor assuntos difíceis - Como não esquecer o conteúdo estudado - Como fazer anotações, resumos e mapas mentais - Como administrar melhor o seu tempo - Como ler um livro",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577800476"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577800474"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 492,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.48.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hzl2tmT8QkUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hzl2tmT8QkUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hzl2tmT8QkUC&pg=PA438&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hzl2tmT8QkUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hzl2tmT8QkUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 203.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 203.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hzl2tmT8QkUC&rdid=book-hzl2tmT8QkUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.032E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.032E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Utilizando_UML_e_Padr%C3%B5es-sample-pdf.acsm?id=hzl2tmT8QkUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hzl2tmT8QkUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "um mecanismo para obter proteção contra alterações na estrutura é aplicar as \u003cbr\u003e\nregras de \u003cb\u003eNão Fale com Estranhos\u003c/b\u003e. \u003cb\u003eNão Fale com Estranhos\u003c/b\u003e impõe restrições \u003cbr\u003e\nsobre os objetos para os quais Você deve enViar mensagens dentro de um \u003cbr\u003e\nmétodo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4YVXDwAAQBAJ",
+   "etag": "PxPVjw0fuDY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4YVXDwAAQBAJ",
+   "volumeInfo": {
+    "title": "ÉTICA, MÍDIA E COMUNICAÇÃO",
+    "subtitle": "Relações sociais em um mundo conectado",
+    "authors": [
+     "Luís Mauro Sá Martino",
+     "Ângela Cristina Salgueiro Marques"
+    ],
+    "publisher": "Summus Editorial",
+    "publishedDate": "2018-05-07",
+    "description": "Nesta obra, Luís Mauro Sá Martino e Ângela Cristina Salgueiro Marques trabalham o assunto a partir de exemplos da mídia e do cotidiano, mostrando como questões éticas envolvendo mídia e comunicação estão presentes em todos os momentos – das grandes decisões até as situações mais comuns. Essas discussões ajudarão o leitor a: • identificar os conceitos fundamentais para entender a ética e a moral; • relacionar esses conceitos com a comunicação e com o ambiente das mídias; • avaliar a participação do jornalismo, das relações públicas e da publicidade na criação do espaço público – e como isso se relaciona com questões de cidadania e ética; • entender por que a globalização requer uma ética da responsabilidade nos contextos da vida cotidiana e das organizações; • construir uma abordagem crítica da prática profissional, destacando questões de formação, poder, justiça e autonomia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532311009"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8532311008"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4YVXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4YVXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4YVXDwAAQBAJ&pg=PT106&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4YVXDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4YVXDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 50.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4YVXDwAAQBAJ&rdid=book-4YVXDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.03E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.03E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/%C3%89TICA_M%C3%8DDIA_E_COMUNICA%C3%87%C3%83O-sample-epub.acsm?id=4YVXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/%C3%89TICA_M%C3%8DDIA_E_COMUNICA%C3%87%C3%83O-sample-pdf.acsm?id=4YVXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4YVXDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No sentido mais comum, a ideia do “\u003cb\u003enão fale com estranhos\u003c/b\u003e” sugere, na \u003cbr\u003e\nrecomendação familiar, tomar distância daqueles que não são vistos por nós \u003cbr\u003e\ncomo dignos de estabelecer algum tipo de comunicação. Assim, a alteridade se \u003cbr\u003e\nconverte&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-0RwDwAAQBAJ",
+   "etag": "uyMoc7KlO/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-0RwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Que a Escola Não Nos Ensina",
+    "subtitle": "Sete habilidades essenciais para uma vida de sucesso que você não aprende na escola",
+    "authors": [
+     "João Cristofolini"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2018-09-10",
+    "description": "Você verá o que os mais de 15 anos de vida escolar e universitária não lhe ensinaram, e que milhares de reais investidos em sua educação formal poderiam ser simplificados em tudo que você, de fato, precisa saber. Durante algumas gerações tivemos uma visão distorcida de importantes pontos que, com uma nova visão, farão de você outra pessoa, de fato preparada para o mundo atual. Quantos sonhos perdidos, vidas desperdiçadas e homens de sucesso escondidos atrás de um emprego! Liberte-se para uma nova visão! Este livro pretende ajudá-lo a economizar dinheiro e horas, com informação resumida e prática do que você realmente precisa saber. Instigante, bem estruturado e prático!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550805818"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550805815"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-0RwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-0RwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-0RwDwAAQBAJ&pg=PA102&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-0RwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--0RwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.72,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 52.72,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-0RwDwAAQBAJ&rdid=book--0RwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.272E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.272E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Que_a_Escola_N%C3%A3o_Nos_Ensina-sample-epub.acsm?id=-0RwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Que_a_Escola_N%C3%A3o_Nos_Ensina-sample-pdf.acsm?id=-0RwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-0RwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sete habilidades essenciais para uma vida de sucesso que você não aprende \u003cbr\u003e\nna escola João Cristofolini ... Desde pequeno você ouviu seus pais dizendo: “\u003cbr\u003e\n\u003cb\u003eNão fale com estranhos\u003c/b\u003e”, “Não converse com estranhos”, “Não se aproxime de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ccx5DwAAQBAJ",
+   "etag": "DLPuHYF4YUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ccx5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "ColetÂnea De Contos Do VovÔ Joca Volume I",
+    "authors": [
+     "JoÃo"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "51 contos infanto-juvenis que se integram à fantasia natural e criatividade das crianças e dos jovens, divertindo, educando e somando para o desenvolvimento do caráter, valores morais, cidadania, consciência ecológica, valores de família, cultura, conhecimento, espiritualidade, respeito aos educadores, incentivo ao estudo, ordem e disciplina. Livros destinados a crianças e jovens que apreciam leituras inteligentes, sensíveis, culturais, educativas e temas da realidade social brasileira. Os contos contêm parte das ilustrações dos títulos originais.CONTOS COM MAIOR CONTEÚDO LITERÁRIO, UM MELHOR EXERCÍCIO DE LEITURA.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU34834"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 602,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ccx5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ccx5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ccx5DwAAQBAJ&pg=PA77&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ccx5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ccx5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ccx5DwAAQBAJ&rdid=book-ccx5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Colet%C3%82nea_De_Contos_Do_Vov%C3%94_Joca_Volum-sample-pdf.acsm?id=ccx5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ccx5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu moro no Parque Jabaquara, em São Paulo. Estranha – E você poderia me \u003cbr\u003e\ndar o seu endereço? Elisabete – \u003cb\u003eNão\u003c/b\u003e posso, \u003cb\u003enão\u003c/b\u003e! Aliás, eu nem poderia estar \u003cbr\u003e\nfalando com você. Meus pais \u003cb\u003enão\u003c/b\u003e querem que eu \u003cb\u003efale com estranhos\u003c/b\u003e na Internet!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CbMd0xJoI18C",
+   "etag": "fzv6Ngjr00s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CbMd0xJoI18C",
+   "volumeInfo": {
+    "title": "Modernidade líquida",
+    "authors": [
+     "Zygmunt Bauman"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2001-04-17",
+    "description": "A modernidade imediata é \"leve\", \"líquida\", \"fluida\" e infinitamente mais dinâmica que a modernidade \"sólida\" que suplantou. A passagem de uma a outra acarretou profundas mudanças em todos os aspectos da vida humana. Zygmunt Bauman cumpre aqui sua missão de sociólogo, esclarecendo como se deu essa transição e nos auxiliando a repensar os conceitos e esquemas cognitivos usados para descrever a experiência individual humana e sua história conjunta. Este \"Modernidade Líquida\" complementa e conclui a análise realizada pelo autor em \"Globalização: as conseqüências humanas\" e \"Em Busca da Política\". Juntos, esses três volumes formam uma análise brilhante das condições cambiantes da vida social e política.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537807729"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537807729"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CbMd0xJoI18C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CbMd0xJoI18C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CbMd0xJoI18C&pg=PA122&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CbMd0xJoI18C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CbMd0xJoI18C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 62.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 62.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CbMd0xJoI18C&rdid=book-CbMd0xJoI18C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modernidade_l%C3%ADquida-sample-epub.acsm?id=CbMd0xJoI18C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modernidade_l%C3%ADquida-sample-pdf.acsm?id=CbMd0xJoI18C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CbMd0xJoI18C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vazios são os lugares em que não se entra e onde se sentiria perdido e \u003cbr\u003e\nvulnerável, surpreendido e um tanto atemorizado pela presença de humanos. \u003cbr\u003e\n\u003cb\u003eNão fale com estranhos\u003c/b\u003e A principal característica da civilidade é a capacidade \u003cbr\u003e\nde interagir&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iO8sbHTe4J4C",
+   "etag": "21V+Puni4h8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iO8sbHTe4J4C",
+   "volumeInfo": {
+    "title": "Não fadarei, não fadarás",
+    "authors": [
+     "Borsato, Eduardo"
+    ],
+    "publisher": "KBR EDITORA DIGITAL",
+    "publishedDate": "2015-12-29",
+    "description": "Livre adaptação de contos de fadas tradicionais sob a ótica cordelista, irônica e histriônica de Eduardo Borsato. Inclui A Bela Adormecida e Chapeuzinho Vermelho, entre outros, renomeados, recolocados, atualizados e amadurecidos de forma inesperada.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581800080"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581800084"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 75,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iO8sbHTe4J4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iO8sbHTe4J4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iO8sbHTe4J4C&pg=PT6&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=iO8sbHTe4J4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-iO8sbHTe4J4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=iO8sbHTe4J4C&rdid=book-iO8sbHTe4J4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_fadarei_n%C3%A3o_fadar%C3%A1s-sample-epub.acsm?id=iO8sbHTe4J4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_fadarei_n%C3%A3o_fadar%C3%A1s-sample-pdf.acsm?id=iO8sbHTe4J4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iO8sbHTe4J4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eNão fale com estranhos\u003c/b\u003e. —Tá bem, mamãe. — Não entre por atalhos na floresta. \u003cbr\u003e\n—Tá bem, mamãe. — Não fale com o lobo mau. —Tá bem, mamãe. — Trate \u003cbr\u003e\nmuito bem sua vovozinha. —Tá bem, mamãe. — Leve pra ela estas guloseimas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q0ypCzzsJScC",
+   "etag": "495KZN8Gu4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q0ypCzzsJScC",
+   "volumeInfo": {
+    "title": "Mil Dicas para Entender seus Filhos de 0 a 7 anos",
+    "authors": [
+     "Harry Ifergan",
+     "Rica Etienne"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2001",
+    "description": "Por que o bebê está chorando? Como encontrar o meio-termo entre o zelo excessivo e a permissividade? O que fazer quando a criança se recusa a ir à escola? Como responder às perguntas sobre sexualidade? Cedo ou tarde, todos os pais se defrontam com esses e outros pequenos problemas cotidianos. Ao buscar traduzir o sentimento da criança, este livro - escrito por dois profissionais com vasta experiência em pedagogia, psicologia e comunicação - oferece orientação e conforto a mães e pais. As situações são abordadas com simplicidade e competência, sempre a partir de três pontos de vista - da criança, dos pais e da psicologia, fornecendo conselhos práticos, recomendando atitudes a adotar e alertando para as armadilhas a evitar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571106053"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571106055"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 303,
+    "printType": "BOOK",
+    "categories": [
+     "Child development"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q0ypCzzsJScC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q0ypCzzsJScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q0ypCzzsJScC&pg=PA70&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Q0ypCzzsJScC&dq=N%C3%A3o+fale+com+estranhos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mil_Dicas_para_Entender_seus_Filhos_de_0.html?hl=&id=Q0ypCzzsJScC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q0ypCzzsJScC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eNão fale com estranhos\u003c/b\u003e • 0 lado dos pais Como não pensar nisso, com as \u003cbr\u003e\nnotícias que, infelizmente tantas vezes, ocupam a primeira página dos jornais? \u003cbr\u003e\nEssas tragédias passam pela sua cabeça. A sua menina parece tão inocente, \u003cbr\u003e\nserá que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tnGZBAAAQBAJ",
+   "etag": "dmr/0nU8Ftg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tnGZBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Pronto_ Cresci! E Agora?",
+    "authors": [
+     "Susie Shellenberger"
+    ],
+    "publisher": "CPAD - Casa Publicadora das Assembleias de Deus",
+    "publishedDate": "2014-08-27",
+    "description": "Seu corpo está expandindo com mudanças internas e externas. Ou talvez isso não está ocorrendo e você está se questionando: \"Por que isso está demorando tanto para acontecer comigo?\" Pronto_ Cresci! E agora? O que toda garota precisa saber ajudará você a encontrar respostas francas e honestas às suas questões e a outras sobre torna-se uma mulher em todas as áreas física, emocional, espiritual e social. Cheio de questões atrativas, testes divertidos, e uma seção de perguntas e respostas, este guia a capacitará a navegar no mundo real e ajudará a florescer, transformando-a na mulher que Deus planejou que você seja! Um Produto CPAD.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526311633"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526311638"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 158,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tnGZBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tnGZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tnGZBAAAQBAJ&pg=PT157&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tnGZBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tnGZBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tnGZBAAAQBAJ&rdid=book-tnGZBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.395E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.395E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pronto_Cresci_E_Agora-sample-epub.acsm?id=tnGZBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pronto_Cresci_E_Agora-sample-pdf.acsm?id=tnGZBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tnGZBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ok, sabemos o que você está pensando: Isso não pode machucála de verdade. \u003cbr\u003e\nÉ apenas um site na internet. Você sempre ... Isso é especialmente verdade no \u003cbr\u003e\nespaço virtual: \u003cb\u003eNão fale com estranhos\u003c/b\u003e. Proteja a privacidade de sua família."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4R1SBQAAQBAJ",
+   "etag": "dN3C0H0P298",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4R1SBQAAQBAJ",
+   "volumeInfo": {
+    "title": "O Vendedor Vencedor",
+    "authors": [
+     "Marcus AntÔnio Vasselai Dos Santos"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-05-15",
+    "description": "Gostaria de dizer nesta apresentação o motivo pelo qual escrevi este Livro e como foi sua transcrição. Eu sempre quis passar algo de minha experiência em Vendas para as pessoas que quisessem crescer nesta área, e sentiria extremamente feliz se mais colegas se tornassem Vendedores de sucesso. Minha jornada como profissional de Vendas se deu por acaso, eu já havia trabalhado com Vendas desde a Infância, mais não de maneira profissional. Eu era Professor de Educação Física e apaixonado por Basquete. O Esporte me ocupava algumas horas de dedicação, porém, não me sentia satisfeito completamente, pois ainda me sobravam muitas horas diárias sem algo de útil para preencher o tempo ocioso. Então comecei a trabalhar com Vendas. Vendi quase todos os tipos de produtos: desde anúncios de jornal, purificadores de água, livros, enciclopédias, roupas e várias outras mercadorias, mas foi com Seguros que realmente comecei a levar esta profissão a sério. Para tanto, fiz vários Cursos de Técnicas de Vendas, e acabei me sagrando um dos melhores Vendedores de Seguros do País, em uma conceituada Empresa, nos anos 80/90. A partir de 1990, isso se tornou mais sério em minha vida, e em 1993, abandonei por completo minha carreira de Esportes e fui me dedicar totalmente à área de Vendas, atuando como Vendedor, e depois como Supervisor e Gerente de grandes Empresas Nacionais e Multinacionais. Cheguei a montar uma Empresa de Distribuição de alimentos e cigarros, que permaneceu aberta durante cinco anos. Em seguida, voltei ao Mercado de trabalho gerenciando outra grande Empresa de Cigarros, e após o fechamento desta, por desajustes tributários, resolvi não mais ficar no ramo de Varejo. Hoje em dia, ministro palestras sobre Vendas e ainda trabalho como Corretor de Imóveis e Seguros, e é por isso que não quis simplesmente deixar essa maravilhosa experiência passar em branco, resolvendo assim, com este Livro, relatar tudo aquilo que creio ser necessário para se ter sucesso na profissão de Vendedor externo de Varejo. Quando falo em Vendedor externo de Varejo, refiro-me àquele herói que visita Mercadinhos, Panificadoras, Bares, enfim, todo pequeno e médio comércio que sustenta uma cidade e uma sociedade. Sendo assim, posso dizer que esse é o Professor dos Professores, pois é ele quem tem que ter toda a técnica e saber todos os passos da Venda a fim de que se torne um homem de negócios bem sucedido. Dessa forma, quando vocês estiverem lendo este Livro, saibam que estarão se energizando através dos dias e noites que passei me dedicando para desenvolvê-lo. Eu já havia escrito outro livro de Técnicas de Vendas, porém, não o publiquei por achá-lo igual aos muitos que já existem e que devem ser lidos por todos os profissionais de Vendas. Foi aí que resolvi contar, em forma de história, o que penso ser interessante para nossos colegas Vendedores, pois espero não cansá-los com apenas as Técnicas de Vendas, e sim, transmitir essas técnicas com todo o amor e dedicação do meu ser. Sei como é complicado arrumar um tempo para ler, mas lhes digo do fundo do meu coração que não estarão perdendo o seu precioso tempo, e sim, ganhando muito com isso, e lhes asseguro que, se seguirem todas as dicas, respeitando passo a passo o que lhes for solicitado, com certeza, tornar-se-ão os melhores Vendedores de suas Empresas. No momento em que vocês estiverem lendo este Livro, e por algum motivo qualquer se sentirem cansados, lembrem-se desta pessoa que lhes dedicou muitos anos de sua vida para passar esta experiência, e que também, em várias horas, pensou em desistir, todavia, com muita força de vontade, conseguiu terminar os seus escritos. Hoje, tenho muito orgulho de poder passar essas Técnicas e relatar histórias de vida que, creio, irão agregar em muito, na mais antiga profissão do mundo, a nossa linda profissão de Vendedor.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90165462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4R1SBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4R1SBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4R1SBQAAQBAJ&pg=PA46&dq=N%C3%A3o+fale+com+estranhos&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4R1SBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4R1SBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4R1SBQAAQBAJ&rdid=book-4R1SBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Vendedor_Vencedor-sample-pdf.acsm?id=4R1SBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4R1SBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jamais \u003cb\u003efale\u003c/b\u003e palavrões mesmo que seu Cliente \u003cb\u003efale\u003c/b\u003e, \u003cb\u003enão\u003c/b\u003e use gestos \u003cb\u003eestranhos\u003c/b\u003e, \u003cbr\u003e\nexemplo disso: &#39;coçar as partes íntimas&#39; na frente do Cliente, ou colocar o dedo \u003cbr\u003e\nno nariz, ou na orelha, tome muito cuidado, pois o seu corpo também \u003cb\u003efala\u003c/b\u003e, \u003cbr\u003e\nprocure&nbsp;..."
+   }
+  }
+ ]
+}

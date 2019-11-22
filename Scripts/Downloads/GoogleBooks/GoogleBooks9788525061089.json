@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3qFAvgAACAAJ",
+   "etag": "fQBAnBZBgJk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3qFAvgAACAAJ",
+   "volumeInfo": {
+    "title": "O CAMINHO DO PEREGRINO",
+    "subtitle": "SEGUINDO OS PASSOS DE JESUS NA TERRA SANTA",
+    "authors": [
+     "LAURENTINO GOMES",
+     "OSMAR LUDOVICO",
+     "CLAUDIO PASTRO"
+    ],
+    "publishedDate": "2015-09-15",
+    "description": "Laurentino Gomes está de volta às livrarias com uma nova obra inspirada em própria jornada espiritual. Escrito em parcerias com Osmar Ludovico, \"O Caminho do Peregrino\" reúne reflexões pessoais, relatos históricos e meditações sobre trechos da Escrituras. O livro inclui ilustrações de Cláudio Pastro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525061085"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525061089"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3qFAvgAACAAJ&dq=isbn:9788525061089&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3qFAvgAACAAJ&dq=isbn:9788525061089&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_CAMINHO_DO_PEREGRINO.html?hl=&id=3qFAvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3qFAvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O resultado é um diálogo que reúne narrativas de viagem, relatos históricos e meditações sobre o significado dos ensinamentos e da experiência cristã no mundo de hoje.Escrito a quatro mãos, O caminho do peregrino desdobra-se em ..."
+   }
+  }
+ ]
+}

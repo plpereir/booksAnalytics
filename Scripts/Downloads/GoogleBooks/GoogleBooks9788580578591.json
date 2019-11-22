@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CO1hvgAACAAJ",
+   "etag": "4B+TeD/hEtA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CO1hvgAACAAJ",
+   "volumeInfo": {
+    "title": "REGRESSO, O",
+    "authors": [
+     "MICHAEL PUNKE",
+     "MARIA CARMELITA DIAS"
+    ],
+    "description": "Em 1823, os caçadores da Companhia de Peles Montanhas Rochosas desbravavam as terras inexploradas dos Estados Unidos, enfrentando diariamente o clima implacável, as feras selvagens e a ameaça constante de confronto com os índios, que defendiam suas terras da invasão dos homens brancos. Em uma das missões da companhia, Hugh Glass, um dos melhores e mais experientes caçadores do grupo, fica frente a frente com um urso-cinzento, é atacado e termina gravemente ferido, claramente sem chances de sobreviver. Os homens que deveriam esperar sua morte e lhe oferecer um funeral apropriado o abandonam, levando consigo as armas e os suprimentos. Entre delírios, Glass os observa fugindo e é tomado por um único desejo: vingança. Uma determinação cega que o torna capaz de atravessar quase cinco mil quilômetros de terras intocadas e selvagens, fugindo de predadores, sobrevivendo à fome e à agonia dos ferimentos mais terríveis, a fim de concluir seu objetivo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580578590"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580578591"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CO1hvgAACAAJ&dq=isbn:9788580578591&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CO1hvgAACAAJ&dq=isbn:9788580578591&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/REGRESSO_O.html?hl=&id=CO1hvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CO1hvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em 1823, os caçadores da Companhia de Peles Montanhas Rochosas desbravavam as terras inexploradas dos Estados Unidos, enfrentando diariamente o clima implacável, as feras selvagens e a ameaça constante de confronto com os índios, que ..."
+   }
+  }
+ ]
+}

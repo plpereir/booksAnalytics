@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vYJVAwAAQBAJ",
+   "etag": "fAdW1OrqB9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vYJVAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pulmão de Aço - Uma vida no maior hospital do Brasil",
+    "subtitle": "",
+    "authors": [
+     "Eliana Zagui"
+    ],
+    "publisher": "Belaletra Editora Ltda",
+    "publishedDate": "2013-05-31",
+    "description": "Eliana chegou ao Hospital das Clínicas de São Paulo aos dois anos de idade, em 1976, com poliomielite, paralisada do pescoço aos pés e quase incapaz de respirar. Foi colocada no pulmão de aço, máquina usada para recuperar o aparelho respiratório, mas não apresentou evolução significativa. Os médicos avisaram aos pais da menina que ela teria pouco tempo de vida. Eliana ainda vive no hospital. Em Pulmão de Aço ela conta, de forma emocionante, como fez para sobreviver aos prognósticos e se tornar uma artista que pinta quadros com a boca. - English - Eliana Zagui arrived at the Clinicas Hospital of São Paulo at two years of age in 1976, with paralysis of the entire body except the head and neck. She was treated in an iron lung. The equipment should help her regain her breath, but they were unsuccesfull. Since then, Eliana lives in the Hospital. On the book she says how she survived the pessimistic predictions and became and artist who paints pictures without using the hands but the mouth.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564431010"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564431017"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vYJVAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vYJVAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vYJVAwAAQBAJ&printsec=frontcover&dq=isbn:9788564431010&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vYJVAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vYJVAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vYJVAwAAQBAJ&rdid=book-vYJVAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.979E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pulm%C3%A3o_de_A%C3%A7o_Uma_vida_no_maior_hospit-sample-epub.acsm?id=vYJVAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pulm%C3%A3o_de_A%C3%A7o_Uma_vida_no_maior_hospit-sample-pdf.acsm?id=vYJVAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vYJVAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Since then, Eliana lives in the Hospital. On the book she says how she survived the pessimistic predictions and became and artist who paints pictures without using the hands but the mouth."
+   }
+  }
+ ]
+}

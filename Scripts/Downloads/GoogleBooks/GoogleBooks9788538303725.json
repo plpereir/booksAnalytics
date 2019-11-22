@@ -1,0 +1,101 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ha1SDwAAQBAJ",
+   "etag": "I1D/y6QATsM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ha1SDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dinheiro é Emocional",
+    "subtitle": "Saúde emocional para ter paz financeira",
+    "authors": [
+     "Tiago Brunet"
+    ],
+    "publisher": "Editora Vida",
+    "publishedDate": "2018-03-22",
+    "description": "As pessoas imaginam que o seu dinheiro está ligado à economia do país, ao emprego atual, ao talento para os negócios ou às oportunidades da vida. Apesar de concordar que, indiretamente, todos estes fatores influenciam sua vida financeira, Tiago Brunet mostra que o ponto crucial são as emoções. Elas são o fator determinante do que significa dinheiro para você e de como você o usa. Se dinheiro é emocional, primeiro precisamos estar convictos de que somos saudáveis emocionalmente, para depois pensar em ganhar e administrar recursos. Em Dinheiro é emocional, Tiago apresenta como sua experiência como coach e mentor de dezenas de líderes empresariais, políticos e religiosos o levou a entender sobre como o que controla nossas emoções também governa o nosso destino financeiro. Dinheiro no bolso sem propósito, é dinheiro perdido. Tiago conduz você, leitor, através desta obra, a um avançado estágio de saúde emocional e financeira, para que você conheça e desfrute do verdadeiro sentido da prosperidade. Afinal: “Prosperidade não é ter dinheiro, e sim tudo o que você precisa para cumprir o seu destino nesta terra”",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538303725"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538303724"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ha1SDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ha1SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ha1SDwAAQBAJ&printsec=frontcover&dq=isbn:9788538303725&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ha1SDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ha1SDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ha1SDwAAQBAJ&rdid=book-ha1SDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.3E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dinheiro_%C3%A9_Emocional-sample-epub.acsm?id=ha1SDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dinheiro_%C3%A9_Emocional-sample-pdf.acsm?id=ha1SDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ha1SDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Dinheiro é emocional, Tiago apresenta como sua experiência como coach e mentor de dezenas de líderes empresariais, políticos e religiosos o levou a entender sobre como o que controla nossas emoções também governa o nosso destino ..."
+   }
+  }
+ ]
+}

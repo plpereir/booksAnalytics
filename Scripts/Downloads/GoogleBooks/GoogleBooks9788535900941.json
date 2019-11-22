@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mGRZ99mPY7gC",
+   "etag": "9C5EX3NXSyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mGRZ99mPY7gC",
+   "volumeInfo": {
+    "title": "Mau começo",
+    "authors": [
+     "Lemony Snicket",
+     "Brett Helquist",
+     "Carlos Sussekind"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "1999",
+    "description": "Este é o primeiro dos quatro volumes em que Lemony Snicket conta as desventuras dos irmãos Baudelaire. Violet, Klaus e Sunny são encantadores e inteligentes, mas ocupam o primeiro lugar na classificação das pessoas mais infelizes do mundo. A infelicidade segue os seus passos desde a primeira página, quando eles estão na praia e recebem uma trágica notícia. Esses ímãs que atraem desgraças terão de enfrentar, por exemplo, roupas que pinicam o corpo, um gosmento vilão dominado pela cobiça, um incêndio calamitoso e mingau frio no café da manhã.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535900942"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535900941"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 148,
+    "printType": "BOOK",
+    "categories": [
+     "Brothers and sisters"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mGRZ99mPY7gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mGRZ99mPY7gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mGRZ99mPY7gC&dq=isbn:9788535900941&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mGRZ99mPY7gC&dq=isbn:9788535900941&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mau_come%C3%A7o.html?hl=&id=mGRZ99mPY7gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mGRZ99mPY7gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mau começo é o primeiro volume de uma série em que Lemony Snicket conta as desventuras dos irmãos Baudelaire."
+   }
+  }
+ ]
+}

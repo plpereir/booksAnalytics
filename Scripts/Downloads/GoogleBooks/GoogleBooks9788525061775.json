@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5RFBvgAACAAJ",
+   "etag": "MKmuSp9r5eM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5RFBvgAACAAJ",
+   "volumeInfo": {
+    "title": "DIARIO DO OLIVIER - AS RECEITAS DA BOCAINA",
+    "authors": [
+     "OLIVIER ANQUIER"
+    ],
+    "description": "De maneira descontraída e clara, Olivier Anquier apresenta 100 deliciosas receitas que fizeram sucesso em seu programa no GNT. Com dicas, alternativas de ingredientes e pequenas histórias de sua vida, Olivier coloca a mão na massa e mostra o que faz de melhor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525061778"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525061775"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5RFBvgAACAAJ&dq=isbn:9788525061775&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5RFBvgAACAAJ&dq=isbn:9788525061775&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DIARIO_DO_OLIVIER_AS_RECEITAS_DA_BOCAINA.html?hl=&id=5RFBvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5RFBvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com dicas, alternativas de ingredientes e pequenas histórias de sua vida, Olivier coloca a mão na massa e mostra o que faz de melhor.Diário do Olivier – As receitas da Bocaina nasceu na serra da Bocaina, um lugar paradisíaco no Vale ..."
+   }
+  }
+ ]
+}

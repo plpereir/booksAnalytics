@@ -1,0 +1,2 @@
+curl --progress-bar -o /Users/plpereir/OneDrive/MacBook/03-Treinamentos/Labs/Java/workspace/BooksAnalytics/Scripts/Downloads/GoogleBooks/GoogleBooks$1Name.json "https://www.googleapis.com/books/v1/volumes?q=$1&key=$2"
+sleep 1

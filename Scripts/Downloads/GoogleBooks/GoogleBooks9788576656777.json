@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "f8xfXwAACAAJ",
+   "etag": "/lqtmo7FVo4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f8xfXwAACAAJ",
+   "volumeInfo": {
+    "title": "Tempo De Esperas",
+    "subtitle": "O ITINERARIO DE UM FLORESCER HUMANO",
+    "authors": [
+     "Fabio De Melo"
+    ],
+    "description": "Esta obra apresenta dois personagens, Abner e Alfredo. De um lado, um velho professor que resolveu refugiar-se numa vida simples, abandonando todas as glórias da vida acadêmica; E de outro, um jovem estudante de Filosofia, cujo sonho é alcançar o que professor resolveu abandonar. Num contexto de desilusões e esperanças, estes dois homens estabelecem uma instigante troca de correspondências. Através de confissões eles descobrem que muito mais que estarem em lados opostos do desejo, como se fossem o passado e o futuro de uma mesma existência, eles estão diante de um desafio humano - compreender o tempo das esperas. Entre discussões sobre filosofia, amor, amizade e felicidade, Alfredo e Abner trilham juntos o caminho para o entendimento da condição humana e da busca da felicidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576656779"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576656777"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f8xfXwAACAAJ&dq=isbn:9788576656777&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=f8xfXwAACAAJ&dq=isbn:9788576656777&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tempo_De_Esperas.html?hl=&id=f8xfXwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f8xfXwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Através de confissões eles descobrem que muito mais que estarem em lados opostos do desejo, como se fossem o passado e o futuro de uma mesma existência, eles estão diante de um desafio humano - compreender o tempo das esperas."
+   }
+  }
+ ]
+}

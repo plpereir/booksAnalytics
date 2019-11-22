@@ -1,0 +1,805 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 339,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "V67ZwyfK-g8C",
+   "etag": "FZFzbrlTR+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V67ZwyfK-g8C",
+   "volumeInfo": {
+    "title": "A vida de Francisco",
+    "subtitle": "O papa do povo",
+    "authors": [
+     "Evangelina Himitian"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2013-04-30",
+    "description": "Todos os caminhos levam a Roma? A história de Jorge Mario Bergoglio parece confirmar o conhecido ditado, embora contra sua vontade. Sua estrada foi estreita, pela qual transitam as pessoas mais humildes — o caminho da simplicidade, da austeridade, do amor e da denúncia. Ali só se avança a pé. Bergoglio decidiu seguir com garra e amor incondicionais, até que percebeu com surpresa que seus sapatos o tinham conduzido pelo caminho que desembocava em Roma. Nunca tinha sonhado em ser papa. Depois da renúncia de Bento XVI, viajou certo de que logo regressaria à rotina na sua querida Buenos Aires. A história, contudo, lhe atravessou o caminho. Assim como quando a doença e as disputas internas na Igreja o impediram de conquistar vários de seus projetos e aspirações, soube aceitar tal desafio como uma prova imposta por Deus. \"A vida de Francisco — o papa do povo\" narra a vida do homem que hoje ocupa o trono de Pedro. Um menino que nasceu num bairro portenho de gente trabalhadora e que cresceu sob o mandato familiar dos imigrantes: estudar para conquistar a ascensão social. Um jovem que quando decidiu se tornar padre teve de enfrentar o desgosto da mãe, que sonhava com um filho médico; um homem que tomou a decisão de seguir a formação de 14 anos entre os jesuítas enquanto aprendia a superar os obstáculos que se apresentavam. Um homem que forjou seu coração de pastor ao se apaixonar pelo povo, pelos desamparados, e que começou a sonhar com uma Igreja pobre para os pobres, com o Evangelho vivo nas ruas. Assim, percorrendo o caminho dos humildes, Francisco chegou a Roma.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539004874"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539004879"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V67ZwyfK-g8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V67ZwyfK-g8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=V67ZwyfK-g8C&printsec=frontcover&dq=A+vida+de+Francisco&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=V67ZwyfK-g8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-V67ZwyfK-g8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=V67ZwyfK-g8C&rdid=book-V67ZwyfK-g8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.69E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_vida_de_Francisco-sample-epub.acsm?id=V67ZwyfK-g8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_vida_de_Francisco-sample-pdf.acsm?id=V67ZwyfK-g8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V67ZwyfK-g8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;A vida de Francisco — o papa do povo&quot; narra a vida do homem que hoje ocupa o trono de Pedro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dXJTAAAAYAAJ",
+   "etag": "jVO/eyYx1qs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dXJTAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A vida de Francisco de Assis",
+    "authors": [
+     "Agostinho da Silva"
+    ],
+    "publishedDate": "1938",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X004506412"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dXJTAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dXJTAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dXJTAAAAYAAJ&q=A+vida+de+Francisco&dq=A+vida+de+Francisco&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dXJTAAAAYAAJ&dq=A+vida+de+Francisco&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_vida_de_Francisco_de_Assis.html?hl=&id=dXJTAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dXJTAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "egu0fExRZlsC",
+   "etag": "GjVfBe+Lr7Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/egu0fExRZlsC",
+   "volumeInfo": {
+    "title": "Vida de um homem: Francisco de Assis",
+    "authors": [
+     "Chiara Frugoni"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2011-05-16",
+    "description": "\"Francisco de Assis foi o responsável por uma das mudanças mais fundamentais por que passou o cristianismo: a decisão de se guiar pelo Evangelho e pela conduta de Cristo, que o aproximou da natureza e dos homens, afastando-o das posições que viam o mundo apenas como lugar da tentação e do pecado. Nesta biografia a um tempo acessível e rigorosa, Chiara Frugoni, respeitada medievalista italiana, mostra que o grande traço distintivo de Francisco de Assis foi, precisamente, saber responder com uma religiosidade ativa e generosa às trevas terrenas. Ele falava mais de perto a homens e mulheres às voltas com novos problemas e práticas, que não se deixavam guiar apenas pelo temor a um Deus punitivo. A fé de Francisco não assentava em preceitos institucionais. Para isso bastaria a adesão a um mosteiro, o que nunca fez. Tinha Cristo por modelo, amava os cavaleiros da Távola Redonda e rechaçava a violência dos cruzados. Pregava a obediência, liderou uma profunda mudança no catolicismo e terminou em minoria dentro de sua própria ordem. Ajudou a criar a noção moderna de individualidade e rejeitava o individualismo. Desprezava a arte e lançou as bases do Renascimento com sua revalorização do mundo sensível. Foi santo por não saber ao certo quem era Deus. \"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580860689"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580860687"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.15.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=egu0fExRZlsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=egu0fExRZlsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=egu0fExRZlsC&printsec=frontcover&dq=A+vida+de+Francisco&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=egu0fExRZlsC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-egu0fExRZlsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=egu0fExRZlsC&rdid=book-egu0fExRZlsC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vida_de_um_homem_Francisco_de_Assis-sample-epub.acsm?id=egu0fExRZlsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vida_de_um_homem_Francisco_de_Assis-sample-pdf.acsm?id=egu0fExRZlsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=egu0fExRZlsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De modo simples, preciso e delicado, a historiadora medievalista Chiara Frugoni investiga a vida do homem (e santo) que forjou o conceito de individualidade e, para muitos, antecipou os valores do Renascimento."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GSxXAAAAcAAJ",
+   "etag": "2nCxFO2innk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GSxXAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Memoria sobre a vida de Francisco- Alexandre Lobo, Bispo de Vizen",
+    "authors": [
+     "Francisco- Eleutherio Faria e Mello"
+    ],
+    "publishedDate": "1844",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z180768106"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GSxXAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GSxXAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GSxXAAAAcAAJ&pg=PA26&dq=A+vida+de+Francisco&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GSxXAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GSxXAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=GSxXAAAAcAAJ&rdid=book-GSxXAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Memoria_sobre_a_vida_de_Francisco_Alexan.pdf?id=GSxXAAAAcAAJ&hl=&output=pdf&sig=ACfU3U32c5KLmLQjeza1yl8htrfHH7nt4g&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GSxXAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eFrancisco\u003c/b\u003e- Eleutherio Faria e Mello. poema! Como se tirão, dellas e delle, ... não \u003cbr\u003e\nfoi mais perspicaz, que o Sr. D. \u003cb\u003eFrancisco\u003c/b\u003e. Alexandre Lobo em as colher dos \u003cbr\u003e\nescriptos de Camões, e outros, para aclarar dúvidas, sobre \u003cb\u003ea vida\u003c/b\u003e do nosso \u003cbr\u003e\nPoeta!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kBsnDwAAQBAJ",
+   "etag": "LByh1FTO6nk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kBsnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A vida de Lima Barreto",
+    "subtitle": "(1881-1922)",
+    "authors": [
+     "Francisco de Assis Barbosa"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2017-06-30",
+    "description": "\"Publicada pela primeira vez em 1952, A vida de Lima Barreto, de Francisco de Assis Barbosa, não perde a atualidade e a importância. Além de oferecer o que se espera de uma biografia, o relato completo da vida do homenageado, tendo como pano de fundo a história da cidade em que viveu, é extremamente bem escrito. Na linguagem clara e despretensiosa de uma reportagem de jornal, consegue dosar a quantidade espantosa de informação disponível com uma narrativa direta, agradável\", escreve, na orelha, Rachel Valença, considerada uma das grandes estudiosas do autor no país. No ano de sua primeira edição, além de conquistar o prestigioso Prêmio Fábio Prado, o livro teve um importante papel: resgatou e pôs luz na obra de Lima Barreto, injustamente esquecido desde sua morte, em 1922. Segundo Sérgio Buarque de Holanda, o volume \"reúne as virtudes de uma genuína biografia literária às de uma reportagem perfeita e em grande estilo\". É o que se pode chamar de clássico, e não pode faltar nas nossas estantes e nas bibliotecas do Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551302422"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551302426"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kBsnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kBsnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kBsnDwAAQBAJ&printsec=frontcover&dq=A+vida+de+Francisco&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kBsnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kBsnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kBsnDwAAQBAJ&rdid=book-kBsnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_vida_de_Lima_Barreto-sample-epub.acsm?id=kBsnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_vida_de_Lima_Barreto-sample-pdf.acsm?id=kBsnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kBsnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Publicada pela primeira vez em 1952, A vida de Lima Barreto, de Francisco de Assis Barbosa, não perde a atualidade e a importância."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BrCbMnVuGKsC",
+   "etag": "ODOdnOpkVms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BrCbMnVuGKsC",
+   "volumeInfo": {
+    "title": "Sao Francisco de Assis",
+    "authors": [
+     "Jacques Le Goff"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2001",
+    "description": "Jacques Le Goff pretende revelar neste livro, através de quatro ensaios, o que considera o primeiro santo moderno da Igreja Católica - São Francisco de Assis. O livro é uma viagem através da vida de Francisco de Assis. O autor não só se propõe a apresentar a história de Francisco, como também a situar em seu tempo. Analisando a geografia, a religião e até mesmo a política da época, Le Goff contextualiza São Francisco de Assis e visa revelar mais da personalidade que revolucionou o clero do século XIII. Canonizado em 1228, Francisco rompeu com a juventude rica para devotar-se a Deus e à natureza. Fundou a ordem dos franciscanos e viveu na pobreza até sua morte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501058831"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501058836"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 251,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BrCbMnVuGKsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BrCbMnVuGKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BrCbMnVuGKsC&printsec=frontcover&dq=A+vida+de+Francisco&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BrCbMnVuGKsC&dq=A+vida+de+Francisco&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sao_Francisco_de_Assis.html?hl=&id=BrCbMnVuGKsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BrCbMnVuGKsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Discípulo de Fernand Braudel, Jacques Le Goff é o atual presidente da célebre École des Hautes Études en Sciences Sociales e autor de Apogeu da cidade medieval, A bolsa e a vida, História e memória, Os intelectuais na Idade Média e ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ute5DAAAQBAJ",
+   "etag": "UwLC60JQcco",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ute5DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Papa Francisco",
+    "subtitle": "A vida e os desafios",
+    "authors": [
+     "Saverio Gaeta"
+    ],
+    "publisher": "Pia Sociedade de São Paulo - Editora Paulus",
+    "publishedDate": "2014-03-13",
+    "description": "Por volta das 19 horas de quarta-feira, 13 de março, na Capela Sistina ressoou uma vez mais o tradicional «Accepto»: fórmula mediante a qual aquele que até aquele momento era o cardeal Jorge Mario Bergoglio, arcebispo de Buenos Aires (Argentina), acolheu a vontade manifestada pelos coirmãos, que acabavam de elegê-lo como novo papa. Iniciou-se assim o 266o pontificado da história da Igreja, o mais inesperado e surpreendente, a partir do nome que escolheu: Francisco. Em poucos minutos, mediante gestos significativos e palavras simples, papa Francisco conquistou o mundo inteiro. Mas quem é esse papa \"buscado praticamente no fim do mundo\"? Quais são suas origens, a sua história, o seu pensamento? Por que o nome Francisco? A essas e a outras perguntas responde este volume de Saverio Gaeta, um dos escritores mais importantes e seguidos sobre temas da Igreja. Além disso, o livro apresenta uma síntese dos principais desafios que papa Francisco terá de enfrentar: dos escândalos à reforma da Cúria, do diálogo inter-religioso à nova evangelização.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788534936576"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8534936579"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ute5DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ute5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ute5DAAAQBAJ&printsec=frontcover&dq=A+vida+de+Francisco&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ute5DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ute5DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.7,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.7,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ute5DAAAQBAJ&rdid=book-Ute5DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.37E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.37E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Papa_Francisco-sample-epub.acsm?id=Ute5DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Papa_Francisco-sample-pdf.acsm?id=Ute5DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ute5DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Além disso, o livro apresenta uma síntese dos principais desafios que papa Francisco terá de enfrentar: dos escândalos à reforma da Cúria, do diálogo inter-religioso à nova evangelização."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uz9MDwAAQBAJ",
+   "etag": "P1UIcCRMGhg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uz9MDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Filoteia ou introdução à vida devota",
+    "authors": [
+     "São Francisco de Sales"
+    ],
+    "publisher": "Editora Vozes Limitada",
+    "publishedDate": "2018-02-02",
+    "description": "Nesta obra, São Francisco de Sales se dirige a Filoteia, que significa uma alma que \"ama a Deus\" e é para essas almas que escreve. O livro procura ajudar Filoteia a percorrer com resolução, empenho, confiança e ardor, o caminho da vida devota, apresentando-lhe doutrina eclesial as virtudes necessárias, as ciladas do inimigo e os benefícios da solidão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532657305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8532657303"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uz9MDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uz9MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uz9MDwAAQBAJ&printsec=frontcover&dq=A+vida+de+Francisco&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uz9MDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uz9MDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uz9MDwAAQBAJ&rdid=book-uz9MDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.24E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.061E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filoteia_ou_introdu%C3%A7%C3%A3o_%C3%A0_vida_devota-sample-epub.acsm?id=uz9MDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filoteia_ou_introdu%C3%A7%C3%A3o_%C3%A0_vida_devota-sample-pdf.acsm?id=uz9MDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uz9MDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, São Francisco de Sales se dirige a Filoteia, que significa uma alma que &quot;ama a Deus&quot; e é para essas almas que escreve."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kpAtAAAAYAAJ",
+   "etag": "Xhj9ZKFcGVY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kpAtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A vida de Lima Barreto, 1881-1922, de Francisco de Assis Barbosa",
+    "authors": [
+     "Francisco de Assis Barbosa"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018689913"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kpAtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kpAtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kpAtAAAAYAAJ&q=A+vida+de+Francisco&dq=A+vida+de+Francisco&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kpAtAAAAYAAJ&dq=A+vida+de+Francisco&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_vida_de_Lima_Barreto_1881_1922_de_Fran.html?hl=&id=kpAtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kpAtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LrTRAAAAMAAJ",
+   "etag": "JGAiif1kixI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LrTRAAAAMAAJ",
+   "volumeInfo": {
+    "title": "O socialismo na monarquia",
+    "subtitle": "Oliveira Martins e a \"Vida nova,\"",
+    "authors": [
+     "Francisco de Assis de Oliveira Martins"
+    ],
+    "publishedDate": "1944",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89095854071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 337,
+    "printType": "BOOK",
+    "categories": [
+     "Portugal"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LrTRAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LrTRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LrTRAAAAMAAJ&q=A+vida+de+Francisco&dq=A+vida+de+Francisco&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LrTRAAAAMAAJ&dq=A+vida+de+Francisco&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_socialismo_na_monarquia.html?hl=&id=LrTRAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LrTRAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

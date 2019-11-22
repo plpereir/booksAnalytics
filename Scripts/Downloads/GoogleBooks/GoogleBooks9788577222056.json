@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TwwFuwAACAAJ",
+   "etag": "bw/oyshTQVc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TwwFuwAACAAJ",
+   "volumeInfo": {
+    "title": "ELA SO QUERIA CASAR",
+    "authors": [
+     "MARCELO CEZAR"
+    ],
+    "publishedDate": "2012-04-25",
+    "description": "Gláucia, moça bonita, cheia de planos e prestes a se casar, descobriu que a vida é muito mais do que parece e trabalha para que cada um desenvolva seus potenciais ocultos. 'Ela só queria casar...' pretende revelar que só acontece o que Deus permite.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577222055"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577222056"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TwwFuwAACAAJ&dq=isbn:9788577222056&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TwwFuwAACAAJ&dq=isbn:9788577222056&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ELA_SO_QUERIA_CASAR.html?hl=&id=TwwFuwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TwwFuwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Ela só queria casar...&#39; pretende revelar que só acontece o que Deus permite."
+   }
+  }
+ ]
+}

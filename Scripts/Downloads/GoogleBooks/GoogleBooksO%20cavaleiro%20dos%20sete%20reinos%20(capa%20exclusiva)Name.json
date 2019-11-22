@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "H9lBCwAAQBAJ",
+   "etag": "dUAcWVjkUFA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H9lBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jane Eyre",
+    "subtitle": "Edição bilíngue português - inglês",
+    "authors": [
+     "Charlotte Brontë"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "O livro conta a história da menina Jane, órfã de pai e mãe, vivendo infeliz em companhia de parentes que a detestam. Após uma série de confrontos, Jane é enviada para um colégio interno, onde conhece seus primeiros momentos de verdadeira felicidade. Crescida e formada como professora, ela decide procurar uma nova posição, e no Solar de Thornfield, passa a ser a tutora da jovem Adèle, pupila de Lord Rochester. Quando conhece Rochester, apaixona-se por ele, e ele por ela. Este lhe propõe casamento e ela aceita, mas no dia de seu casamento, Jane descobre um terrível mistério que assola o Solar de Thornfield. Desiludida, foge e após dias vagando sem destino é recolhida por St John Rivers e suas irmãs. É pedida em casamento por Rivers, entretanto hesita e, antes de dar uma resposta, decide descobrir o que acopnteceu com Lord Rochester, pois não teve mais notícias dele desde que fugiu de sua casa. Encontra-o ferido e sozinho no Solar de Thornfield, destruído, morando em companhia de empregados ainda fieis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781818"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781816"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 632,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H9lBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H9lBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H9lBCwAAQBAJ&printsec=frontcover&dq=O+cavaleiro+dos+sete+reinos+(capa+exclusiva)&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H9lBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H9lBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H9lBCwAAQBAJ&rdid=book-H9lBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jane_Eyre-sample-epub.acsm?id=H9lBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jane_Eyre-sample-pdf.acsm?id=H9lBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H9lBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro conta a história da menina Jane, órfã de pai e mãe, vivendo infeliz em companhia de parentes que a detestam."
+   }
+  }
+ ]
+}

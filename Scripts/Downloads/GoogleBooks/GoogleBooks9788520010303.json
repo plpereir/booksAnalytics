@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tZeAXwAACAAJ",
+   "etag": "JDAHwwFPegY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tZeAXwAACAAJ",
+   "volumeInfo": {
+    "title": "JUSTIÇA - O QUE E FAZER A COISA CERTA",
+    "authors": [
+     "MICHAEL SANDEL",
+     "HELOISA MATIAS",
+     "MARIA ALICE MAXIMO"
+    ],
+    "description": "'Justiça' faz uma exploração investigativa e lírica do significado de justiça e convida os leitores de todas as doutrinas políticas a considerar as controvérsias familiares. Ação afirmativa, casamento entre pessoas do mesmo sexo, suicídio assistido, aborto, serviço militar, patriotismo e protesto, os limites morais dos mercados - Sandel dramatiza o desafio de meditar sobre esses conflitos e mostra como uma abordagem da filosofia pode ajudar a entender a política e a moralidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852001030X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520010303"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tZeAXwAACAAJ&dq=isbn:9788520010303&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tZeAXwAACAAJ&dq=isbn:9788520010303&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/JUSTI%C3%87A_O_QUE_E_FAZER_A_COISA_CERTA.html?hl=&id=tZeAXwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tZeAXwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sandel dramatiza o desafio de meditar sobre esses conflitos e mostra como uma abordagem mais segura da filosofia pode nos ajudar a entender a política, a moralidade e também a rever nossas convicções."
+   }
+  }
+ ]
+}

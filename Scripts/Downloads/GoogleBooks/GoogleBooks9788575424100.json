@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_cuCPgAACAAJ",
+   "etag": "YartgF4E+iI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_cuCPgAACAAJ",
+   "volumeInfo": {
+    "title": "100 MANEIRAS DE MOTIVAR AS PESSOAS",
+    "authors": [
+     "SCOTT RICHARDSON",
+     "STEVE CHANDLER",
+     "MYRIAM CAMPELLO"
+    ],
+    "description": "Nenhum líder - seja ele gerente, pai ou professor - é capaz de motivar as pessoas se ele próprio não estiver motivado, calmo e centrado. A colaboração necessária para o trabalho em equipe não pode ser obtida por meio de gritos, ameaças ou pressões, mas deve ser conquistada com respeito, inspiração e orientação. Foi pensando nos conceitos equivocados que as pessoas têm sobre liderança que os autores criaram um guia para ajudar a encarar os desafios profissionais de forma mais sensata e menos estressante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575424106"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575424100"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_cuCPgAACAAJ&dq=isbn:9788575424100&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_cuCPgAACAAJ&dq=isbn:9788575424100&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/100_MANEIRAS_DE_MOTIVAR_AS_PESSOAS.html?hl=&id=_cuCPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_cuCPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nenhum líder - seja ele gerente, pai ou professor - é capaz de motivar as pessoas se ele próprio não estiver motivado, calmo e centrado."
+   }
+  }
+ ]
+}

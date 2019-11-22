@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TpnrtAEACAAJ",
+   "etag": "XJzaP7P1dHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TpnrtAEACAAJ",
+   "volumeInfo": {
+    "title": "Nao Sou Uma Dessas",
+    "authors": [
+     "Lena Dunham",
+     "Lourdes Sette"
+    ],
+    "description": "Em 'Não sou uma dessas', Lena conta a história de sua vida e faz um balanço das escolhas e experiências que a conduziram à vida adulta. Engajada, a autora revela suas opiniões sobre sexo, amor, solidão, carreira, dietas malucas e a luta para se impor num ambiente dominado por homens com o dobro da sua idade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580576210"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576214"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TpnrtAEACAAJ&dq=isbn:9788580576214&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TpnrtAEACAAJ&dq=isbn:9788580576214&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nao_Sou_Uma_Dessas.html?hl=&id=TpnrtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TpnrtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Não sou uma dessas&#39;, Lena conta a história de sua vida e faz um balanço das escolhas e experiências que a conduziram à vida adulta."
+   }
+  }
+ ]
+}

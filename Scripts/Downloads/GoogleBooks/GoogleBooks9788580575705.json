@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QHJzswEACAAJ",
+   "etag": "7Wyq8rwSOSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QHJzswEACAAJ",
+   "volumeInfo": {
+    "title": "Po De Lua",
+    "authors": [
+     "Clarice Freire"
+    ],
+    "publishedDate": "2014-08-18",
+    "description": "Em 2011, discretamente, a publicitária Clarice Freire criou no Facebook uma página para reunir seus escritos e desenhos. Batizou-a como 'Pó de Lua', sua receita infalível 'para tirar a gravidade das coisas'. Desde então, ela vem conquistando uma legião de fãs fiéis e engajados, que se encantaram com a delicadeza de seus pensamentos, seu humor sutil e o traço despretensioso, que combina desenho e até fragmentos de palavras. Entre eles, estão personalidades como a atriz Grazi Massafera e a apresentadora Ticiane Pinheiro. Da internet para as páginas de um livro, foi mais um salto para a jovem autora recifense. Ela surpreende seus admiradores com uma proposta diferente. Pó de lua, o livro, tem o formato de um dos cadernos moleskine em que Clarice exercita sua criatividade. Inspirada pelas quatro fases da lua - minguante, nova, crescente e cheia - ela trata em frases concisas e certeiras de sentimentos como a saudade, o medo, a paixão e a alegria, sempre em sua caligrafia característica, ilustradas com muitos desenhos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580575702"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580575705"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QHJzswEACAAJ&dq=isbn:9788580575705&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QHJzswEACAAJ&dq=isbn:9788580575705&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Po_De_Lua.html?hl=&id=QHJzswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QHJzswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em 2011, discretamente, a publicitária Clarice Freire criou no Facebook uma página para reunir seus escritos e desenhos."
+   }
+  }
+ ]
+}

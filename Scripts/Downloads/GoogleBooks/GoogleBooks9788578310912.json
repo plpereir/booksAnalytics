@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "L6cUvNcyiLYC",
+   "etag": "gSW6M8nvpms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L6cUvNcyiLYC",
+   "volumeInfo": {
+    "title": "Os Oito Pilares da Prosperidade",
+    "subtitle": "Descubra os segredos para se desenvolver sobre uma base segura e coroar sua carreira com realizações",
+    "authors": [
+     "James Allen"
+    ],
+    "publisher": "Clio Editora",
+    "publishedDate": "2011-12-08",
+    "description": "Este livro tem por objetivo ensinar o leitor a se elevar acima dos desejos egoístas, a se colocar entre pessoas sábias, a se desenvolver sobre uma base segura e a coroar sua carreira com realizações. Não existem promessas de riqueza rápida; em vez disso, há uma análise profunda das ferramentas necessárias para se construir um sucesso permanente e do mais alto nível. Segundo o autor James Allen, os pilares da prosperidade são a energia, a economia, a integridade, o sistema, a simpatia, a sinceridade, a imparcialidade e a autoconfiança. Seguindo suas orientações, é difícil imaginar que alguém seja outra coisa, a não ser incrivelmente bem-sucedido.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578310918"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578310912"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L6cUvNcyiLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L6cUvNcyiLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=L6cUvNcyiLYC&printsec=frontcover&dq=isbn:9788578310912&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=L6cUvNcyiLYC&dq=isbn:9788578310912&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_Oito_Pilares_da_Prosperidade.html?hl=&id=L6cUvNcyiLYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Oito_Pilares_da_Prosperidade-sample-pdf.acsm?id=L6cUvNcyiLYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L6cUvNcyiLYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Segundo o autor James Allen, os pilares da prosperidade são a energia, a economia, a integridade, o sistema, a simpatia, a sinceridade, a imparcialidade e a autoconfiança."
+   }
+  }
+ ]
+}

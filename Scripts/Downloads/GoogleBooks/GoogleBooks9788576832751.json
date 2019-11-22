@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2tWduAAACAAJ",
+   "etag": "5JXFxsjeWR8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2tWduAAACAAJ",
+   "volumeInfo": {
+    "title": "Para a melhor Mâe do mundo",
+    "authors": [
+     "Ulrike Haisch"
+    ],
+    "publishedDate": "2010",
+    "description": "'Para a melhor mãe do mundo' é um livro com o formato de uma medalha que busca trazer justificativas para mostrar como essa figura pode ser importante. O livro pode ser pendurado em um lugar de destaque e conta com mensagens.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576832755"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576832751"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 36,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2tWduAAACAAJ&dq=isbn:9788576832751&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2tWduAAACAAJ&dq=isbn:9788576832751&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Para_a_melhor_M%C3%A2e_do_mundo.html?hl=&id=2tWduAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2tWduAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Qual a mãe que não merece ser premiada por seus filhos?"
+   }
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sK9BYgEACAAJ",
+   "etag": "syhl35psP40",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sK9BYgEACAAJ",
+   "volumeInfo": {
+    "title": "Disney Club Penguin : Um dia de Puffle",
+    "authors": [
+     "DISNEY"
+    ],
+    "publishedDate": "2010",
+    "description": "\"Um evento mágico acontece no Club Penguin: você e seu puffle de estimação trocam de corpo! Veja a vida pelos olhos de um puffle enquanto embarca em aventuras incriveis com seus novos amigos puffles. No final, você encontrará uma maneira de voltar a ser um pingium ou será um puffle para sempre? A escolha é sua!\" -- page 4 of cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8506064635"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506064634"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Friendship"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sK9BYgEACAAJ&dq=isbn:9788506064634&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sK9BYgEACAAJ&dq=isbn:9788506064634&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Disney_Club_Penguin_Um_dia_de_Puffle.html?hl=&id=sK9BYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sK9BYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Um evento mágico acontece no Club Penguin: você e seu puffle de estimação trocam de corpo!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OSiGwgEACAAJ",
+   "etag": "l0epkC2rXLk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OSiGwgEACAAJ",
+   "volumeInfo": {
+    "title": "Club Penguin - Um Dia De Puffle",
+    "subtitle": "MONTE SUA HISTORIA 4",
+    "authors": [
+     "Disney"
+    ],
+    "description": "O livro 'Club Penguin - Um dia de Puffle - monte sua história 4' tem o objetivo de inserir o leitor na narrativa, transformando-o em personagem, em que este, além de participar, pode optar pelo enredo a seguir de acordo com uma das duas alternativas apresentadas ao fim de cada capítulo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8506064635"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506064634"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OSiGwgEACAAJ&dq=isbn:9788506064634&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OSiGwgEACAAJ&dq=isbn:9788506064634&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Club_Penguin_Um_Dia_De_Puffle.html?hl=&id=OSiGwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OSiGwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro &#39;Club Penguin - Um dia de Puffle - monte sua história 4&#39; tem o objetivo de inserir o leitor na narrativa, transformando-o em personagem, em que este, além de participar, pode optar pelo enredo a seguir de acordo com uma das duas ..."
+   }
+  }
+ ]
+}

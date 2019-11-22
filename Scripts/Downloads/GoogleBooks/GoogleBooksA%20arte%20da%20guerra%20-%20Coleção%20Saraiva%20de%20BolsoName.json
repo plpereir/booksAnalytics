@@ -1,0 +1,644 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 29,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "O9ZBCwAAQBAJ",
+   "etag": "kU3x7Nj0O2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O9ZBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Fantasma de Canterville: The Canterville Ghost",
+    "subtitle": "Edição bilíngue português - inglês",
+    "authors": [
+     "Oscar Wilde"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Quando o milionário norte-americano Hiram B. Otis comprou a histórica mansão Canterville Chase, não fazia ideia que estava também adquirindo um inquilino para lá de excêntrico, Sir Simon Canterville, um fantasma que há mais de trezentos anos assombra o local e que está disposto a assustá-los de tal maneira que os leve a vender de novo a casa e irem embora. Mas Hiram pensa que o problema deve ser resolvido de forma científica, enquanto a esposa Lucrécia descobre que um fantasma à solta até dá certa originalidade aos jantares que organiza. Apenas sua filha adolescente, Virginia, compreende a tragédia que amaldiçoa Sir Simon e vendo-o sentado sozinho e deprimido, a filha se compadece e oferece sua ajuda na tentativa de libertá-lo do assombro. Mais que uma história singela e dedicada às crianças, Oscar Wilde aborda a questão da desvalorização da arte pelos burgueses, novos ricos desprovidos de cultura e tradição que alegavam que o artista cobrava caro por uma simples \"mercadoria\". Reagindo à diminuição do seu trabalho, os artistas procuram chocar a burguesia, como podemos perceber na obra em análise, cujo autor tece críticas através de sua arte: discute a rivalidade entre Inglaterra e Estados Unidos na Era Vitoriana. Critica de modo bem-humorado e sarcástico tanto o comercialismo e a falta de cultura dos americanos, quanto a arrogância e a decadência dos ingleses.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781535"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781530"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O9ZBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O9ZBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=O9ZBCwAAQBAJ&printsec=frontcover&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=O9ZBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-O9ZBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=O9ZBCwAAQBAJ&rdid=book-O9ZBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Fantasma_de_Canterville_The_Cantervill-sample-epub.acsm?id=O9ZBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Fantasma_de_Canterville_The_Cantervill-sample-pdf.acsm?id=O9ZBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O9ZBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais que uma história singela e dedicada às crianças, Oscar Wilde aborda a questão da desvalorização da arte pelos burgueses, novos ricos desprovidos de cultura e tradição que alegavam que o artista cobrava caro por uma simples  ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "212i7bJiq34C",
+   "etag": "fLrzMID42Qo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/212i7bJiq34C",
+   "volumeInfo": {
+    "title": "Salve seu bolso",
+    "publisher": "Editora Peirópolis",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585663340"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585663346"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 241,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=212i7bJiq34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=212i7bJiq34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=212i7bJiq34C&pg=PA235&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=212i7bJiq34C&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Salve_seu_bolso.html?hl=&id=212i7bJiq34C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=212i7bJiq34C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eGuerra\u003c/b\u003e, João Batista Bueno. ... \u003cb\u003eA Arte\u003c/b\u003e Perdida de Curar, Editora Fundação \u003cbr\u003e\nPeirópolis, São Paulo, 1997. Nunes, Luiz Antonio Rizzatto. Compre Bem - \u003cbr\u003e\nManual de Compras e Garantias do Consumidor, Editora \u003cb\u003eSaraiva\u003c/b\u003e, São Paulo, \u003cbr\u003e\n1997. Rios&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "in8tAQAAIAAJ",
+   "etag": "zIfLMhE6A0Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/in8tAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Leia",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105015637700"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=in8tAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=in8tAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=in8tAQAAIAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=in8tAQAAIAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leia.html?hl=&id=in8tAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=in8tAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "BIOGRAFIA Rui Barbosa — processualista civil e outros estudos — Alfredo \u003cbr\u003e\nBuzaid — Ed. \u003cb\u003eSaraiva\u003c/b\u003e, 122 pp., CrS 440,00. CINEMA Cinema 2 ... 78 pp., CrS \u003cbr\u003e\n150,00. CONSTITUIÇÃO Constituição Federal do Brasil (ed. de \u003cb\u003ebolso\u003c/b\u003e) — Ed. \u003cbr\u003e\nícone, 208 pp., CrS 210,00. ... EDUCAÇÃO FÍSICA Futebol — \u003cb\u003earte\u003c/b\u003e ou \u003cb\u003eguerra\u003c/b\u003e? — \u003cbr\u003e\nFranklin&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jLkwAAAAYAAJ",
+   "etag": "TjdX7QkQbkw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jLkwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172136300994"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jLkwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jLkwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jLkwAAAAYAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jLkwAAAAYAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=jLkwAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jLkwAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eSaraiva\u003c/b\u003e, Siciliano (RJ): Sodiler (DF); Sodiler (PE): Van Damme (MG); Sulina \u003cbr\u003e\nUrraria Ed Porto Atc- i (RS). ... do jornal The New York Times, ganhou o Prémio \u003cbr\u003e\nPulitzer de não-ficção e mais 1 milhão de dólares pelos direitos da edição de \u003cbr\u003e\n\u003cb\u003ebolso\u003c/b\u003e de seu livro. ... de Moda e Estilo Gloria Kalil (3-24h*) \u003cb\u003eA Arte da Guerra\u003c/b\u003e para \u003cbr\u003e\nExecutivos Donald G. Krause (7-5) Diário de um Magro Mário Prata (4-5) 0 Que \u003cbr\u003e\nÉ Isso,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LckQAQAAMAAJ",
+   "etag": "uX1506E6Fuk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LckQAQAAMAAJ",
+   "volumeInfo": {
+    "title": "História da literatura portuguêsa",
+    "authors": [
+     "António José Saraiva",
+     "Óscar Lopes"
+    ],
+    "publishedDate": "2005",
+    "description": "Há quem ponha em causa a validade da história da literatura ou, o que tanto faz, a reduza a uma arrumação quanto possível cronológica de estilos, autores e obras, a uma iniciação em certos dados, necessários ao entendimento das obras, mas que nada teriam a ver com o seu valor intrínseco.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9720301708"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789720301703"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 1216,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LckQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LckQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LckQAQAAMAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LckQAQAAMAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_portugu%C3%AAsa.html?hl=&id=LckQAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LckQAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "António José \u003cb\u003eSaraiva\u003c/b\u003e, Óscar Lopes. 940 indústrias culturais (cinema, gravação \u003cbr\u003e\nsonora ou audiovisual, televisão, vídeo, revista ilustrada, livro de \u003cb\u003ebolso\u003c/b\u003e — tudo ... \u003cbr\u003e\nOscar Wilde, Aubrey Beardsley, Laforgue); os futuristas e dadaístas que \u003cbr\u003e\nprecedem e acompanham a Primeira \u003cb\u003eGuerra\u003c/b\u003e Mundial ... O naturalismo, pela \u003cbr\u003e\ncontradição fundamental que o fere (a impossibilidade, inerente \u003cb\u003eà arte\u003c/b\u003e. de \u003cbr\u003e\neliminar o próprio&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VzhNAAAAYAAJ",
+   "etag": "vq4idBb6oLQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VzhNAAAAYAAJ",
+   "volumeInfo": {
+    "title": "África",
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X000393615"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "African literature (Portuguese)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VzhNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VzhNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VzhNAAAAYAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VzhNAAAAYAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%C3%81frica.html?hl=&id=VzhNAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VzhNAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA arte\u003c/b\u003e portuguesa de oitocentos • José Augusto Franca • Série \u003cb\u003eArtes\u003c/b\u003e Visuais, 28 • \u003cbr\u003e\n11,5x19 • Lisboa, 1979 • 121 pp. A épica medieval portuguesa • António José \u003cbr\u003e\n\u003cb\u003eSaraiva\u003c/b\u003e • Série Literatura, 29 • 11,5x19 • Lisboa, 1979 • 95 pp. As navegações \u003cbr\u003e\natlânticas ... O segredo das prisões atlânticas • Acácio Tomás de Aquino • \u003cbr\u003e\n\u003cb\u003eColecção\u003c/b\u003e de \u003cb\u003eBolso\u003c/b\u003e ... A \u003cb\u003eguerra\u003c/b\u003e da mina a os mineiros da Panasqueira • Daniel \u003cbr\u003e\nReis e Fernando Pau- louro Neves • \u003cb\u003eColecção\u003c/b\u003e Materiais, 1 • 14x20,5 • Lisboa, \u003cbr\u003e\n1979 • 139 pp."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YMYmAQAAIAAJ",
+   "etag": "azlQ5/xBVZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YMYmAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Serviços Bibliográficos da Livraria Portugal",
+    "authors": [
+     "Livraria Portugal. Serviços Bibliográficos"
+    ],
+    "publishedDate": "1988",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105118933071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Booksellers' catalogs"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YMYmAQAAIAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YMYmAQAAIAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Servi%C3%A7os_Bibliogr%C3%A1ficos_da_Livraria_Po.html?hl=&id=YMYmAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YMYmAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBolso\u003c/b\u003e, n.&quot; 11 — Série Policial) Lisboa, s.d. 450$00 FUNERAL INADIAVEL — Por \u003cbr\u003e\nCatherine Aird (Col. Vampiro, n. ... Babel) Lisboa, 1988 1.050S00 GRANDE (\u003cb\u003eA)\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eARTE\u003c/b\u003e — Por Rubem Fonseca (Col. ... (Contos) Por Camilo de Araújo Correia — \u003cbr\u003e\nLisboa, 1987 500$00 INICIAÇAO NA LITERATURA PORTUGUESA — Por \u003cbr\u003e\nAntonio José \u003cb\u003eSaraiva\u003c/b\u003e — Nova ed. .... Livros de \u003cb\u003eBolso\u003c/b\u003e — Série \u003cb\u003eGuerra\u003c/b\u003e e \u003cbr\u003e\nEspionagem, n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rj9MAAAAIAAJ",
+   "etag": "TBvUhC81DAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rj9MAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Livros de Portugal",
+    "publishedDate": "1967",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:$B245707"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rj9MAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rj9MAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rj9MAAAAIAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rj9MAAAAIAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Livros_de_Portugal.html?hl=&id=rj9MAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rj9MAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "COURTOIS (G ) — \u003cb\u003eA Arte\u003c/b\u003e de Ser Chefe (8.&#39; ed.) — Col. ... O Livro de \u003cb\u003eBolso\u003c/b\u003e — 224\u003cbr\u003e\n, p, 16,3X11 — 15500. \u003cb\u003eSARAIVA\u003c/b\u003e (António José) — Teatro de Gil Vicente — Col. \u003cbr\u003e\n... Júlio Graça, Álvaro \u003cb\u003eGuerra\u003c/b\u003e, Jacinto Martins, Alves Redol, Jorge Reis, Ângela \u003cbr\u003e\nSarmento e Mário Ventura — Histórias Breves de Escritores Ribatejanos — Col."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Rjk9AQAAIAAJ",
+   "etag": "YLRJ1xR7QYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Rjk9AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Archivo universal",
+    "publishedDate": "1860",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105014855279"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Rjk9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Rjk9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Rjk9AQAAIAAJ&pg=PA219&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Rjk9AQAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Rjk9AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=Rjk9AQAAIAAJ&rdid=book-Rjk9AQAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Archivo_universal.pdf?id=Rjk9AQAAIAAJ&hl=&output=pdf&sig=ACfU3U1-77LuIFPls_OzVoNqau5PwrG_wA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Rjk9AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A partícula gelada produz a \u003cb\u003esaraiva\u003c/b\u003e grossa quando a temperatura é bastante \u003cbr\u003e\ninferior para determinar a congelação das ... A \u003cb\u003eGUERRA\u003c/b\u003e AO MELODRAMA I E \u003cbr\u003e\nsempre com desgosto, que entramos cm questões da thealros; conhecemos tão \u003cbr\u003e\nde ... que vive ao pé do kings&#39;charles da actriz, ou dentro do \u003cb\u003ebolso\u003c/b\u003e do actor), \u003cbr\u003e\nsaírem a campo a atassalhar a gente, quando se ... Entretanto como por mais de \u003cbr\u003e\numa ver., a par de interesses pessoacs se ferem os interesses da \u003cb\u003earte\u003c/b\u003e, e como \u003cbr\u003e\nesta não é&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G9omAQAAIAAJ",
+   "etag": "Rx8fFixd3/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G9omAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Livros disponíveis",
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105118932990"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portugal"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G9omAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G9omAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G9omAQAAIAAJ&q=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G9omAQAAIAAJ&dq=A+arte+da+guerra+-+Cole%C3%A7%C3%A3o+Saraiva+de+Bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Livros_dispon%C3%ADveis.html?hl=&id=G9omAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G9omAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Col. i ivrus de \u003cb\u003eBolso\u003c/b\u003e / Europa America - 366 228 Pag 140 grs 12x18 cm Esc: 850 \u003cbr\u003e\nEUROPA AUERICA 972-1-00773-0 Engomadeira (A). NEGREIROS. ... \u003cb\u003eSARAIVA\u003c/b\u003e \u003cbr\u003e\nJose 1 Ed 94 46 Pay 60 grs 14x21 cm Esc 1000 A MAR \u003cb\u003eARTE\u003c/b\u003e. 972-8319-00-2&nbsp;..."
+   }
+  }
+ ]
+}

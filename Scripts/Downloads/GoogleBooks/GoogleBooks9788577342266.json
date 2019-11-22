@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qSQmywAACAAJ",
+   "etag": "abm1Ldt/02Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qSQmywAACAAJ",
+   "volumeInfo": {
+    "title": "O livro do Boni",
+    "authors": [
+     "José Bonifácio Oliveira Sobrinho"
+    ],
+    "publisher": "Casa Da Palavra",
+    "publishedDate": "2011-01-01",
+    "description": "Este livro reúne uma série de histórias profissionais e pessoais de José Bonifácio de Oliveira Sobrinho, que têm como protagonistas alguns nomes da comunicação do país - seja na publicidade, no rádio e na televisão. Autores como Janete Clair e Dias Gomes, humoristas como Chico Anysio e Jô Soares, e atores como Tarcísio Meira, Glória Menezes, Regina Duarte e Tony Ramos, além de jornalistas e diretores, acompanham as histórias de Boni, que refaz, nessa obra, a trajetória percorrida desde a sua infância até a TV Globo, onde se notabilizou.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577342263"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577342266"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 463,
+    "printType": "BOOK",
+    "categories": [
+     "Television broadcasting"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qSQmywAACAAJ&dq=isbn:9788577342266&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qSQmywAACAAJ&dq=isbn:9788577342266&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_do_Boni.html?hl=&id=qSQmywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qSQmywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro reúne uma série de histórias profissionais e pessoais de José Bonifácio de Oliveira Sobrinho, que têm como protagonistas alguns nomes da comunicação do país - seja na publicidade, no rádio e na televisão."
+   }
+  }
+ ]
+}

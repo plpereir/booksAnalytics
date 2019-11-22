@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "X9ZFvgAACAAJ",
+   "etag": "u2EW8wB23do",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X9ZFvgAACAAJ",
+   "volumeInfo": {
+    "title": "A CASA DA PRAIA",
+    "authors": [
+     "NORA ROBERTS",
+     "PAULO AFONSO"
+    ],
+    "description": "Advogado em Boston, Eli Landon acabou de passar por um ano intenso. Após ser inocentado pelo assassinato de Lindsey, sua ex-mulher, ele se muda para a casa desocupada de sua avó em Whiskey Beach- Bluff House, um casarão que há mais de trezentos anos atua como guardião inabalável do litoral... e de seus segredos. Tudo o que Eli deseja é um pouco de paz e tranquilidade para trabalhar em seu romance. Mas, quando chega em Bluff House, ele descobre que sua avó incumbira a casa e Eli aos cuidados da jovem vizinha, Abra Walsh. Eli acredita ser capaz de cuidar de si mesmo, mas, conforme se vê gradualmente cedendo às palavras amáveis e refeições apetitosas de Abra, os dois passam a se ver presos em um emaranhado que se estende por séculos e que tem seduzido aquele cujo maior desejo é destruir a vida de Eli de uma vez por todas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8528620514"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788528620511"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 476,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X9ZFvgAACAAJ&dq=isbn:9788528620511&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=X9ZFvgAACAAJ&dq=isbn:9788528620511&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_CASA_DA_PRAIA.html?hl=&id=X9ZFvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X9ZFvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O novo sucesso mundial de Nora Roberts Advogado em Boston, Eli Landon acabou de passar por um ano intenso."
+   }
+  }
+ ]
+}

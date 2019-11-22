@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "whlbswEACAAJ",
+   "etag": "pYiXt4J6HYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/whlbswEACAAJ",
+   "volumeInfo": {
+    "title": "Mordisco - O Guia Dos Dinossauros",
+    "authors": [
+     "Emma Yarlett"
+    ],
+    "publishedDate": "2018-02-05",
+    "description": "Mordisco, o monstro comedor de livros, foi mastigando pelo caminho e entrou neste guia de dinossauros! Será que ele tem o olhar maior que a barriga?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8538077457"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538077459"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=whlbswEACAAJ&dq=isbn:9788538077459&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=whlbswEACAAJ&dq=isbn:9788538077459&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mordisco_O_Guia_Dos_Dinossauros.html?hl=&id=whlbswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=whlbswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mordisco, o monstro comedor de livros, foi mastigando pelo caminho e entrou neste guia de dinossauros! Será que ele tem o olhar maior que a barriga?"
+   }
+  }
+ ]
+}

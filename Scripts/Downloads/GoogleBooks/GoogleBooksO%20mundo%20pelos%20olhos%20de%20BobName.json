@@ -1,0 +1,906 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 60,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "10K1AgAAQBAJ",
+   "etag": "X8n8zpr+NLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/10K1AgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Mundo pelos olhos de Bob",
+    "subtitle": "As aventuras de James e seu gato continuam",
+    "authors": [
+     "James Bowen"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2014-02-03",
+    "description": "A aguardada continuação do sucesso Um Gato de rua chamado Bob chega ao formato digital. Após o seu lançamento, O Mundo pelos olhos de Bob já está listado entre os livros mais vendidos no Brasil. SINOPSE Depois de um passado difícil, James foi adotado pelo gato Bob. Agora os dois têm um emprego de verdade (são vendedores ambulantes de revistas) e se tornaram personalidades conhecidas em toda Londres. Bob tem muitos admiradores, que passam todos os dias para vê-lo – alguns deles trazem cachecóis de lã para ajudá-lo a enfrentar os dias mais gelados. Entre truques adoráveis e manhãs de puro mau humor, Bob e James se tornam cada vez mais inseparáveis. Por trás da divertida história de um homem às voltas com seu animal de estimação, o segundo livro de James Bowen fala sobre amizade, ¬ delidade e esperança. Bob se torna a chave que traz James de volta ao mundo, a motivação que faltava para sua decisiva volta por cima. Impossível terminar de ler O mundo pelos olhos de Bob sem querer abraçar seu pet – ou adotar um! Apaixone-se... AUTOR JAMES BOWEN é o autor do best-seller Um Gato de Rua Chamado Bob. Ele e Bob se conheceram em 2007 e nunca mais se separaram. Os dois vivem no norte de Londres.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581634227"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581634222"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.18.18.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=10K1AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=10K1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=10K1AgAAQBAJ&printsec=frontcover&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=10K1AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-10K1AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=10K1AgAAQBAJ&rdid=book-10K1AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9400000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_pelos_olhos_de_Bob-sample-epub.acsm?id=10K1AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_pelos_olhos_de_Bob-sample-pdf.acsm?id=10K1AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=10K1AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Impossível terminar de ler O mundo pelos olhos de Bob sem querer abraçar seu pet – ou adotar um! Apaixone-se... AUTOR JAMES BOWEN é o autor do best-seller Um Gato de Rua Chamado Bob."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zPzDDQAAQBAJ",
+   "etag": "MkYgtNub0Ew",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zPzDDQAAQBAJ",
+   "volumeInfo": {
+    "title": "A tempestade",
+    "subtitle": "3o ato",
+    "authors": [
+     "Lesley Livingston"
+    ],
+    "publisher": "Gutenberg",
+    "publishedDate": "2016-12-21",
+    "description": "\"Eu não amo Sonny Flannery!\" Quando percebeu que era o ponto fraco de Sonny, Kelley não teve outra opção a não ser mentir para proteger a vida de seu grande amor. Na terrível batalha que devastou o teatro de sua companhia, a herdeira do Reino Encantado descobriu que a verdade a respeito da origem de Sonny esconde um perigoso segredo, de que nem mesmo ele tem consciência. E renunciar ao homem que ama é o único modo de mantê-lo a salvo. O plano dá certo! Desorientado e devastado, Sonny foge e acaba descobrindo um refúgio subterrâneo em plena cidade de Nova York, habitado por vários seres mágicos perdidos. Ao fazer amizade com eles, Sonny descobre que desde os eventos desencadeados pelas Nove Noites o lugar vem sofrendo misteriosos ataques, e fica muito intrigado ao perceber que as marcas deixadas nas vítimas lhe são familiares. Uma guerra está começando a se armar. O portal entre os mundos está cada vez mais instável, e seres mágicos revoltosos estão começando um levante junto de traidores que se infiltraram entre os lendários Guardiões Janos. Uma nova fonte de poder incalculável está se manifestando, atraindo a ganância de seres mágicos poderosíssimos que querem se apossar dela para dominar os dois mundos. Mas Kelley não está disposta a permitir que isso aconteça. Agora, mais do que nunca, ela precisa dominar seus poderes para conseguir reunir todos os aliados que puder para desvendar quem está por trás de tudo e derrotar o inimigo, além de descobrir um meio de ter Sonny de volta com vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582353677"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582353677"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zPzDDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zPzDDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zPzDDQAAQBAJ&pg=PT193&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zPzDDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zPzDDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zPzDDQAAQBAJ&rdid=book-zPzDDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_tempestade-sample-epub.acsm?id=zPzDDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_tempestade-sample-pdf.acsm?id=zPzDDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zPzDDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBob\u003c/b\u003e guiou Kelley \u003cb\u003epelo\u003c/b\u003e corredor cheio de entulho até um quarto minúsculo que \u003cbr\u003e\nparecia uma cela, e disselhe para esperar ali. Pichações feitas \u003cb\u003epelos\u003c/b\u003e antigos \u003cbr\u003e\nmoradores do quarto decoravam as paredes: um \u003cb\u003eolho\u003c/b\u003e que chorava, uma árvore \u003cbr\u003e\n... Mas algo neste lugar mantém essas pobres sombras presas a este \u003cb\u003emundo\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "1DaC9inOV4o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "88D7CwAAQBAJ",
+   "etag": "DGEiKWR8eQ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/88D7CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia Conhecer Fantástico Especial Ed.02 Corpo Humano",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2016-04-15",
+    "description": "Nesta segunda edição, desvendamos os mistérios do trabalho dos pulmões durante a respiração, todos os segredos que sondam o cérebro, a produção das centenas de hormônios no Sistema Endócrino e, por fim, as facetas dos conhecidos cinco sentidos do Sistema Sensorial, destacando tudo aquilo que nos conecta com o mundo e dá vida ao incansável trabalho da máquina fantástica, em constante transformação: o corpo humano. Vamos conhecê-lo a fundo?",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 52,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=88D7CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=88D7CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=88D7CwAAQBAJ&pg=PT17&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=88D7CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-88D7CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=88D7CwAAQBAJ&rdid=book-88D7CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=88D7CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "JANELAS DA ALMA São os \u003cb\u003eolhos\u003c/b\u003e que nos mostram o que têm no \u003cb\u003emundo\u003c/b\u003e ... &quot;\u003cbr\u003e\nSaudade é um sentimento que, quando não cabe no coração, escorre \u003cb\u003epelos\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eolhos\u003c/b\u003e&quot; (\u003cb\u003eBob\u003c/b\u003e Marley) ou &quot;Também acho uma delícia quando você esquece os \u003cbr\u003e\n\u003cb\u003eolhos\u003c/b\u003e em&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D6YlDwAAQBAJ",
+   "etag": "8dCijLLBgKU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D6YlDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Você entendeu tudo errado",
+    "subtitle": "E se fosse possível ter aquela conversa que nunca aconteceu?",
+    "authors": [
+     "Marianne Kavanagh"
+    ],
+    "publisher": "Única Editora",
+    "publishedDate": "2017-05-30",
+    "description": "Como Harry conseguiu se envolver tanto em nossas vidas? Kim e Harry são completamente diferentes um do outro. Ela, uma jovem que sonha com um mundo mais justo e igualitário para todos. Ele, um banqueiro promissor, ou seja, a materialização de tudo aquilo que ela mais odeia na sociedade. A única coisa que os mantêm presos um ao outro é terem as mesmas pessoas favoritas no mundo: a irmã mais velha de Kim, Eva, e seu filho, Otis. Ambos, Harry e Kim, estão presos demais em seus preconceitos para entenderem o que realmente está acontecendo na vida um do outro. Eles nunca se entenderão – até a pior de todas as tragédias os alcançar. Encarando a possibilidade de perderem a pessoa que mais amam, segredos há muito enterrados vêm à tona em formas que vão mudar Kim e Harry para sempre. Prepare-se para um Orgulho e Preconceito dos tempos modernos! Marianne cria uma história sobre laços familiares e mal-entendidos românticos que consegue ser, ao mesmo tempo, emocionante e comovente. Kirkus Review",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788594900159"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8594900155"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=D6YlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=D6YlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=D6YlDwAAQBAJ&pg=PT182&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=D6YlDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-D6YlDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.28,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=D6YlDwAAQBAJ&rdid=book-D6YlDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.128E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_entendeu_tudo_errado-sample-epub.acsm?id=D6YlDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_entendeu_tudo_errado-sample-pdf.acsm?id=D6YlDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=D6YlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E, por um momento, você via \u003cb\u003eo mundo pelos olhos\u003c/b\u003e dela, com toda sua glória \u003cbr\u003e\nmaluca e ridícula. Izzie entrou em conversas imaginárias. Fez o CEO do banco \u003cbr\u003e\nBarclays, \u003cb\u003eBob\u003c/b\u003e Diamond, conversar com o fundador do Wikileaks, Julian Assange\u003cbr\u003e\n,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pO44DwAAQBAJ",
+   "etag": "d5nek4qruZU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pO44DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pensando na Vida Ed. 3 - Frases de motivação",
+    "authors": [
+     "Edicase"
+    ],
+    "publisher": "Edicase Negócios Editoriais Ltda",
+    "publishedDate": "2017-10-06",
+    "description": "Nessa edição, confira mais de 400 frases para te tirar da tristeza e pessimismo! Veja frases para ter um bom dia e melhorar seu desempenho no trabalho, frases para abençoar sua família, agradecer pelos amigos e pedir por eles, para te ajudar a ter motivação e entender as coisas do dia a dia. A ter calma com os problemas e para te motivar em qualquer coisa que vá fazer! Essas e muito mais você encontra aqui! Boa leitura e tenha sempre um sorriso no rosto! Matérias em destaque: Frases de motivação Frases para ir bem no trabalho Frases de agradecimento Frases de amizade Frases de família",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:44820602"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 36,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pO44DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pO44DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pO44DwAAQBAJ&pg=PA29&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pO44DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pO44DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 4.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pO44DwAAQBAJ&rdid=book-pO44DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pensando_na_Vida_Ed_3_Frases_de_motiva%C3%A7-sample-pdf.acsm?id=pO44DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pO44DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O amor é a ocasião única de amadurecer, de tomar forma, de nos tornarmos um \u003cbr\u003e\n\u003cb\u003emundo\u003c/b\u003e para o ser amado. É uma alta ... William Shakespeare. Saudade é um \u003cbr\u003e\nsentimento que quando não cabe no coração, escorre \u003cb\u003epelos olhos\u003c/b\u003e. \u003cb\u003eBob\u003c/b\u003e Marley."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zkJfCgAAQBAJ",
+   "etag": "FbhH2OwsXPg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zkJfCgAAQBAJ",
+   "volumeInfo": {
+    "title": "A entrega",
+    "authors": [
+     "Dennis Lehane"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2015-08-07",
+    "description": "Bob é um bartender solitário e desiludido, que tenta encontrar razões para continuar vivo. Três dias depois do Natal, seu marasmo é interrompido por um latido abafado. Esse filhote de cachorro mudará para sempre a sua vida. Nessa mesma noite, ele conhece Nadia, uma garota sofrida que, como ele, busca algo em que acreditar. Unidos pelo desejo de resgatar o cachorro, Bob e Nadia estreitam seus laços. Quando as coisas parecem ter tomado rumo, eles se encontrarão em um jogo sujo, que envolve a máfia chechena, um assassino, dois trambiqueiros profissionais, um policial e o próprio dono do cachorro. Em A entrega, Dennis Lehane volta às ruas de Boston num explosivo enredo de morte e traição.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543803050"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543803055"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zkJfCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zkJfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zkJfCgAAQBAJ&pg=PT118&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zkJfCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zkJfCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zkJfCgAAQBAJ&rdid=book-zkJfCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_entrega-sample-epub.acsm?id=zkJfCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_entrega-sample-pdf.acsm?id=zkJfCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zkJfCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E mesmo que você me mate logo que eu feche os \u003cb\u003eolhos\u003c/b\u003e...” “Eu? O quê? ... tão \u003cbr\u003e\nsatisfeito que não parecia a trêmula bola de \u003cb\u003epelos\u003c/b\u003e que \u003cb\u003eBob\u003c/b\u003e retirara do lixo fazia \u003cbr\u003e\napenas dois meses. ... \u003cb\u003eO mundo\u003c/b\u003e se voltou para o sol, espreguiçou-se e bocejou."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vHxbAAAAcAAJ",
+   "etag": "Hy1JKq3G+VU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vHxbAAAAcAAJ",
+   "volumeInfo": {
+    "title": "As campainhas",
+    "subtitle": "Comedia em um acto por H. Meilhac et L. Halévy. Traducção de Pinheiro Chagas",
+    "authors": [
+     "Henri Meilhac"
+    ],
+    "publishedDate": "1873",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BSB:BSB11163364"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 27,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vHxbAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vHxbAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vHxbAAAAcAAJ&pg=PA13&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vHxbAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vHxbAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=vHxbAAAAcAAJ&rdid=book-vHxbAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vHxbAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rosa, (Depois deter olhado \u003cb\u003epelo\u003c/b\u003e buraco da fechadura.) ... Eu deito a correr atrás \u003cbr\u003e\ndo cão para lhe tirar o jornal. . . a porta da cocheíroI estava aberta, \u003cb\u003eBob\u003c/b\u003e entra \u003cbr\u003e\npara lá, e eu entro atrás de \u003cb\u003eBob\u003c/b\u003e arremelgando muito os \u003cb\u003eolhos\u003c/b\u003e, AS CAMPAINHAS\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6mOgqLV_Qw8C",
+   "etag": "Sq9H+QZKn80",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6mOgqLV_Qw8C",
+   "volumeInfo": {
+    "title": "20 contos de Truman Capote",
+    "authors": [
+     "Truman Capote"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2006-11-28",
+    "description": "20 contos apresenta a genealogia de um talento. Das primeiras tentativas, no início dos anos quarenta, quando já era possível notar o poder de observação e a habilidade para condensar situações em cenas breves, até o apogeu demonstrado nos últimos trabalhos, pode-se seguir quase cronologicamente a evolução da sua prosa. A vida de Capote, ela mesmo merecedora de um tratamento ficcional, também serve para traçar paralelos. O escritor era fascinado pela alta sociedade americana, e ela retribuiu a adoração. Os dois primeiros contos apresentam essa sociedade com uma certa reverência, enquanto trabalhos tardios, como \"Mojave\" e \"A pechincha\", traçam um retrato muito mais cru, e provavelmente acurado, daquela classe. Nos últimos contos, ele se debruça com olhar agridoce sobre a infância, passada numa grande casa cheia de primos e tias no sul empobrecido do país depois da Depressão. Entre essas duas pontas, transparece um tanto da dureza da vida de exilados na cidade grande, um bocado de solidão e de corações partidos. Um vasto e magistral desfilar de ilusões perdidas até o refúgio na infância, nos contos em que Capote mostra a sua melhor forma.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580864557"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580864550"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.14.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6mOgqLV_Qw8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6mOgqLV_Qw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6mOgqLV_Qw8C&pg=PT158&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6mOgqLV_Qw8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6mOgqLV_Qw8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6mOgqLV_Qw8C&rdid=book-6mOgqLV_Qw8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.95E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/20_contos_de_Truman_Capote-sample-epub.acsm?id=6mOgqLV_Qw8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/20_contos_de_Truman_Capote-sample-pdf.acsm?id=6mOgqLV_Qw8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6mOgqLV_Qw8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ficou em pé lá embaixo da árvore e chorou, erguendo a barra da saia para \u003cbr\u003e\nsecar os \u003cb\u003eolhos\u003c/b\u003e. ... da nogueira começaram a chacoalhar; Billy \u003cb\u003eBob\u003c/b\u003e desceu \u003cbr\u003e\nlentamente até o chão, e tia El, passando os dedos \u003cb\u003epelos\u003c/b\u003e cabelos dele, puxouo \u003cbr\u003e\npara si."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9VVAtH0xwtMC",
+   "etag": "vkKK9+l6sbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9VVAtH0xwtMC",
+   "volumeInfo": {
+    "title": "Eu Amei Rock Hudson",
+    "publisher": "Joao Gomessanto",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8590451143"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788590451143"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9VVAtH0xwtMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9VVAtH0xwtMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9VVAtH0xwtMC&pg=PA188&dq=O+mundo+pelos+olhos+de+Bob&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9VVAtH0xwtMC&dq=O+mundo+pelos+olhos+de+Bob&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Eu_Amei_Rock_Hudson.html?hl=&id=9VVAtH0xwtMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9VVAtH0xwtMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De \u003cb\u003eolhos\u003c/b\u003e fechados, ela estava voltada para a estátua, quando ia perdendo o seu \u003cbr\u003e\nequilíbrio. \u003cb\u003eBob\u003c/b\u003e, que vinha logo atrás dela, segurou-a \u003cb\u003epelos\u003c/b\u003e dois braços e a \u003cbr\u003e\npuxou contra seu próprio corpo para que ela continuasse em pé. Agora ao lado \u003cbr\u003e\ndela&nbsp;..."
+   }
+  }
+ ]
+}

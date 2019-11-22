@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4FGZcQAACAAJ",
+   "etag": "Ow/Bd+J8Dmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4FGZcQAACAAJ",
+   "volumeInfo": {
+    "title": "Brasil",
+    "subtitle": "uma história : cinco séculos de um país em construção",
+    "authors": [
+     "Eduardo Bueno"
+    ],
+    "publishedDate": "2010",
+    "description": "O Box é composto do livro 'Brasil - Uma história - Revisado e ampliado até o governo Lula' mais o DVD 'É muita história'. No DVD, Pedro Bial e o escritor Eduardo Bueno revelam os bastidores de alguns dos principais fatos ocorridos no Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8562936170"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788562936173"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 478,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4FGZcQAACAAJ&dq=isbn:9788562936173&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4FGZcQAACAAJ&dq=isbn:9788562936173&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brasil.html?hl=&id=4FGZcQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4FGZcQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Brasil, uma história&#39; é um panorama da História do Brasil, do descobrimento em 1500 ao governo Lula em 2010. O objetivo do livro é tirar a História da sala de aula e apresentá-la como algo que procura ser vivo e dinâmico."
+   }
+  }
+ ]
+}

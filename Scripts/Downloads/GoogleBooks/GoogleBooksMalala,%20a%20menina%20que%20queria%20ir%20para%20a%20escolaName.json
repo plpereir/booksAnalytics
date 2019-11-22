@@ -1,0 +1,938 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 11,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HASBDAAAQBAJ",
+   "etag": "DcWd3vUMip8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HASBDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Malala, a menina que queria ir para a escola",
+    "authors": [
+     "Adriana Carranca"
+    ],
+    "publisher": "Editora Schwarcz - Companhia das Letras",
+    "publishedDate": "2016-06-23",
+    "description": "Malala Yousafzai quase perdeu a vida por querer ir para a escola. Ela nasceu no vale do Swat, no Paquistão, uma região de extraordinária beleza, cobiçada no passado por conquistadores como Gengis Khan e Alexandre, o Grande, e protegida pelos bravos guerreiros pashtuns – os povos das montanhas. Foi habitada por reis e rainhas, príncipes e princesas, como nos contos de fadas. Malala cresceu entre os corredores da escola de seu pai, Ziauddin Yousafzai, e era uma das primeiras alunas da classe. Quando tinha dez anos viu sua cidade ser controlada por um grupo extremista chamado Talibã. Armados, eles vigiavam o vale noite e dia, e impuseram muitas regras. Proibiram a música e a dança, baniram as mulheres das ruas e determinaram que somente os meninos poderiam estudar. Mas Malala foi ensinada desde pequena a defender aquilo em que acreditava e lutou pelo direito de continuar estudando. Ela fez das palavras sua arma. Em 9 de outubro de 2012, quando voltava de ônibus da escola, sofreu um atentado a tiro. Poucos acreditaram que ela sobreviveria. A jornalista Adriana Carranca visitou o vale do Swat dias depois do atentado, hospedou-se com uma família local e conta neste livro tudo o que viu e aprendeu por lá. Ela apresenta às crianças a história real dessa menina que, além de ser a mais jovem ganhadora do prêmio Nobel da paz, é um grande exemplo de como uma pessoa e um sonho podem mudar o mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543806402"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543806402"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HASBDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HASBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HASBDAAAQBAJ&printsec=frontcover&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HASBDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HASBDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HASBDAAAQBAJ&rdid=book-HASBDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Malala_a_menina_que_queria_ir_para_a_esc-sample-epub.acsm?id=HASBDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Malala_a_menina_que_queria_ir_para_a_esc-sample-pdf.acsm?id=HASBDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HASBDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Poucos acreditaram que ela sobreviveria. A jornalista Adriana Carranca visitou o vale do Swat dias depois do atentado, hospedou-se com uma família local e conta neste livro tudo o que viu e aprendeu por lá."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eAMgDAAAQBAJ",
+   "etag": "YvofqVQY4mo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eAMgDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Diferentes, não desiguais",
+    "subtitle": "A questão de gênero na escola",
+    "authors": [
+     "Beatriz Accioly Lins",
+     "Bernardo Fonseca Machado",
+     "Michele Escoura"
+    ],
+    "publisher": "Editora Schwarcz - Companhia das Letras",
+    "publishedDate": "2016-05-06",
+    "description": "Meninos são melhores em matemática, já as meninas são caprichosas; meninos gostam de futebol, meninas estão mais interessadas em roupa e maquiagem — desde pequenos, aprendemos rapidamente que o mundo é dividido entre o feminino e o masculino e também de que lado devemos estar. Ao longo da infância, passamos por inúmeras situações que supõe uma divisão de gênero, muitas delas vividas e reproduzidas no ambiente escolar. Mas, afinal, o que é gênero? A partir da discussão desse conceito — que nada mais é do que um dispositivo cultural, constituído historicamente, que classifica e posiciona o mundo a partir da relação entre o que se entende como feminino e masculino —, os autores deste livro nos convidam a pensar nas implicações que esse conceito tem na vida cotidiana das crianças, e como os arranjos de gênero podem muitas vezes restringir, excluir e criar desigualdade. Quando dizemos que certas tarefas são próprias de meninas e outras de meninos, estamos limitando as formas de aprendizagem e inclusive as experiências de vida de estudantes. Muitas vezes, esse tipo de definição atrapalha o entendimento sobre o que é estar no mundo, e isso pode virar um obstáculo no processo de construção de desejos, expressões e formas de sentir. A escola é, pois, o ambiente adequado para levantar essa discussão e também para, através da educação, ajudar na construção de uma sociedade mais justa e democrática.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543805702"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543805708"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eAMgDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eAMgDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eAMgDAAAQBAJ&pg=PT86&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=eAMgDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-eAMgDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=eAMgDAAAQBAJ&rdid=book-eAMgDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Diferentes_n%C3%A3o_desiguais-sample-epub.acsm?id=eAMgDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Diferentes_n%C3%A3o_desiguais-sample-pdf.acsm?id=eAMgDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eAMgDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A questão de gênero na escola Beatriz Accioly Lins, Bernardo Fonseca Machado\u003cbr\u003e\n, Michele Escoura. suscita debates sobre identidade de gênero, ... \u003cb\u003eMalala, a\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003emenina que queria ir para a escola\u003c/b\u003e. Texto: Adriana Carranca. Ilustrações: Bruna\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UcBVDwAAQBAJ",
+   "etag": "o2QYq70yQiI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UcBVDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O voto do brasileiro - Edição Bilíngue",
+    "authors": [
+     "Alberto Carlos Almeida"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2018-05-18",
+    "description": "O cientista político Alberto Carlos Almeida destrincha as últimas três eleições presidenciais no Brasil e projeta um possível cenário para as eleições presidenciais de 2018, a partir da análise de mapas comparativos inéditos sobre o comportamento eleitoral do brasileiro nos últimos 12 anos. Do ponto de vista do comportamento eleitoral, as eleições presidenciais brasileiras são bem-estruturadas e previsíveis, e em nada devem às eleições nacionais dos países que consideramos exemplo de desenvolvimento. Ao final destas páginas, o leitor vai chegar a uma conclusão sobre as eleições deste ano, mas o livro não se esgota aí. O que tem de melhor é o retrato que faz do Brasil e o olhar que projeta para além das urnas, o que o torna leitura obrigatória a todos que se interessam por política.The Brazilian Presidential ElectionsIn The Brazilian Presidential Elections (O voto do brasileiro, in Portuguese), Alberto Carlos Almeida analyzes the last three presidential elections in Brazil. The author demonstrates that the stronghold of the PSDB in those elections was the middle class of the state of São Paulo, while poorer voters in the Northeast of the country made that region the PT citadel. The author goes on to show that presidential elections in Brazil are structured just like national elections in the world's major democracies. Consequently, he argues, it is highly unlikely that the PSDB or the PT will not contest the runoff round of the upcoming presidential election.It is of note that this important aspect still remains unclear to the majority of the country's influential thinkers, be they the politicians themselves, journalists, or the business and financial elites. The chapters of the book deal with:The voteIncomeLiving conditionsZooming inFirst world BrazilForecast of electoral results in 2018 Like most of Alberto Almeida's published work, this book is essentially analytical in nature and non-judgmental concerning values. It uses academic scholarship to divulge in accessible language, on an ample scale, a crucial aspect of Brazilian politics. The book contains several maps of the country that reveal, by region, how voting occurred in recent elections and how income is distributed, as well as indicators of living conditions. In the chapter entitled \"Zooming in\", various regions, states and some municipalities are subjected to close-up analysis, calling attention to and reflecting on discrepancies in electoral results. The chapter \"First world Brazil\" compares voting patterns in Brazil with those of Spain, Germany, France, Italy, Great Britain and the United States, pointing out important similarities. In the last chapter the reader (or the voter) will get the chance to forecast the result of the forthcoming presidential election, based on the premises chosen and the consequences of each of them on the on the outcome of the election. The book will contain both Portuguese and English texts and is to be published by Record Publishing House.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501100276"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501100277"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UcBVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UcBVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UcBVDwAAQBAJ&printsec=frontcover&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UcBVDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UcBVDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UcBVDwAAQBAJ&rdid=book-UcBVDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.076E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_voto_do_brasileiro_Edi%C3%A7%C3%A3o_Bil%C3%ADngue-sample-epub.acsm?id=UcBVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_voto_do_brasileiro_Edi%C3%A7%C3%A3o_Bil%C3%ADngue-sample-pdf.acsm?id=UcBVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UcBVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The chapters of the book deal with: - The vote - Income - Living conditions - Zooming in - First world Brazil - Forecast of electoral results in 2018 Like most of Alberto Almeida&#39;s published work, this book is essentially analytical in ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mVNyDwAAQBAJ",
+   "etag": "aZBLBLFXuE4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mVNyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Extremos Orientes",
+    "authors": [
+     "André Bueno",
+     "Everton Crema",
+     "Dulceli Tonet",
+     "José Maria Neto"
+    ],
+    "publisher": "Sobre Ontens",
+    "publishedDate": "2018-10-12",
+    "description": "Esse livro traz uma coletânea com os mais diversos artigos sobre História e Cultura no Extremo Oriente, analisando aspectos variados de China, Japão e Coréia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565996631"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565996638"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mVNyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mVNyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mVNyDwAAQBAJ&pg=PA223&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mVNyDwAAQBAJ&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Extremos_Orientes.html?hl=&id=mVNyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Extremos_Orientes-sample-pdf.acsm?id=mVNyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mVNyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Malala ganhou prêmios e conseguiu das autoridades melhorias para as escolas \u003cbr\u003e\nda região. ... Além de toda sua história, Malala já publicou livros, como ―Eu sou \u003cbr\u003e\nMalala‖ e ―\u003cb\u003eMalala, a menina que queria ir para a escola\u003c/b\u003e‖, que podem ser&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w0SjBgAAQBAJ",
+   "etag": "CB5S0EyZhME",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w0SjBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Eu sou Malala (edição juvenil)",
+    "subtitle": "Como uma garota defendeu o direito à educação e mudou o mundo",
+    "authors": [
+     "Malala Yousafzai",
+     "Patricia McCormick"
+    ],
+    "publisher": "Editora Seguinte",
+    "publishedDate": "2015-02-03",
+    "description": "Autobiografia da mais jovem ganhadora do prêmio Nobel da Paz, escrita especialmente para o público juvenil. Uma jovem comum, Malala Yousafzai gostava acompanhar seus programas de TV preferidos, vivia brigando com os irmãos e adorava ir à escola. Mas em pouco tempo tudo mudaria. Ela tinha apenas dez anos quando o Talibã tomou conta do vale do Swat, onde ela vivia com os pais e os irmãos. A partir desse dia, a música virou crime; as mulheres estavam proibidas de frequentar o mercado; as meninas não deveriam ir à escola. Criada em uma região pacífica do Paquistão totalmente transformada pelo terrorismo, Malala foi ensinada a defender aquilo em que acreditava. Assim, ela lutou com todas as forças por seu direito à educação. E, em 9 de outubro de 2012, quase perdeu a vida por isso: foi atingida por um tiro na cabeça quando voltava de ônibus da escola. Poucos acreditaram que ela sobreviveria. Hoje Malala é um grande exemplo, no mundo todo, do poder do protesto pacífico, e é a pessoa mais jovem e a receber o Prêmio Nobel da Paz. Nesta autobiografia, em que ela conta sua história inspiradora para outros jovens como ela, Malala mostra que todos podem mudar o mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543802732"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543802733"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.9.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w0SjBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w0SjBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=w0SjBgAAQBAJ&pg=PT65&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=w0SjBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-w0SjBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=w0SjBgAAQBAJ&rdid=book-w0SjBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.69E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_sou_Malala_edi%C3%A7%C3%A3o_juvenil-sample-epub.acsm?id=w0SjBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_sou_Malala_edi%C3%A7%C3%A3o_juvenil-sample-pdf.acsm?id=w0SjBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w0SjBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como uma garota defendeu o direito à educação e mudou o mundo \u003cb\u003eMalala\u003c/b\u003e \u003cbr\u003e\nYousafzai, Patricia McCormick ... Que mundo estranho era aquele em que uma \u003cbr\u003e\n\u003cb\u003emenina que queria ir\u003c/b\u003e à \u003cb\u003eescola\u003c/b\u003e tinha que desafiar militantes com metralhadoras \u003cbr\u003e\n— e a&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X6yoAgAAQBAJ",
+   "etag": "VWPAk0L/t6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X6yoAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Malala",
+    "subtitle": "A menina mais corajosa do mundo",
+    "authors": [
+     "Viviana Mazza"
+    ],
+    "publisher": "Agir Editora",
+    "publishedDate": "2014-01-24",
+    "description": "Ela só queria estudar. E por isso o Talibã tentou matá-la.\"Ao torná-la um alvo, os extremistas mostraram o que eles mais temem: uma menina com um livro. Malala comprova o poder da educação para construir a paz. Ela é um exemplo para todo o mundo.\" Ban Ki-moon, secretário-geral das Nações Unidas\"Se Malala fez o que fez e enfrentou o Talibã correndo risco de vida, não existe nenhuma desculpa para cada um de nós. Temos que levantar as mangas e lutar para que o mundo seja um lugar melhor.\" Jody Williams, vencedora do Prêmio Nobel da Paz\"Malala realiza uma trabalho inspirador e apaixonado em favor da educação.\" Mensagem oficial da Casa Branca\"Malala é poderosa! E é também uma menina amorosa, doce e criativa.\" Angelina Jolie, atriz e embaixadora do Alto Comissariado das Nações Unidas para os RefugiadosMalala tinha apenas 11 anos quando decidiu levantar a voz e lutar para que mulheres e meninas tivessem os mesmos direitos que os homens em seu país, o Paquistão. Com o apoio da família, Malala escolheu gritar um basta às diferenças. Lutou sem armas ou violência, com a coragem das palavras e da educação, com a força da verdade e da inocência. Aos 15 anos, em um dia como outro qualquer a caminho da escola, Malala descobriu que o Talibã queria matá-la.De maneira grandiosa e emocionante, este livro revela a trajetória, os medos e os sonhos da mais jovem candidata ao Prêmio Nobel da Paz. A história de Malala comove e inspira pais, educadores e jovens, especialmente num país como o Brasil, em que a educação é a grande prioridade e o principal motor de transformações sociais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522029518"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8522029512"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.29.28.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X6yoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X6yoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X6yoAgAAQBAJ&printsec=frontcover&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=X6yoAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-X6yoAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.06,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=X6yoAgAAQBAJ&rdid=book-X6yoAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.606E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Malala-sample-epub.acsm?id=X6yoAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Malala-sample-pdf.acsm?id=X6yoAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X6yoAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot; Jody Williams, vencedora do Prêmio Nobel da Paz&quot;Malala realiza uma trabalho inspirador e apaixonado em favor da educação.&quot; Mensagem oficial da Casa Branca&quot;Malala é poderosa! E é também uma menina amorosa, doce e criativa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BcOnBAAAQBAJ",
+   "etag": "FYan4FPU/u4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BcOnBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Eu sou Malala",
+    "subtitle": "A história da garota que defendeu o direito à educação e foi baleada pelo Talibã",
+    "authors": [
+     "Malala Yousafzai"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2013-10-11",
+    "description": "Quando o Talibã tomou controle do vale do Swat, uma menina levantou a voz. Malala Yousafzai recusou-se a permanecer em silêncio e lutou pelo seu direito à educação. Mas em 9 de outubro de 2012, uma terça-feira, ela quase pagou o preço com a vida. Malala foi atingida na cabeça por um tiro à queima-roupa dentro do ônibus no qual voltava da escola. Poucos acreditaram que ela sobreviveria. Mas a recuperação milagrosa de Malala a levou em uma viagem extraordinária de um vale remoto no norte do Paquistão para as salas das Nações Unidas em Nova York. Aos dezesseis anos, ela se tornou um símbolo global de protesto pacífico e a candidata mais jovem da história a receber o Prêmio Nobel da Paz. Eu sou Malala é a história de uma família exilada pelo terrorismo global, da luta pelo direito à educação feminina e dos obstáculos à valorização da mulher em uma sociedade que valoriza filhos homens. O livro acompanha a infância da garota no Paquistão, os primeiros anos de vida escolar, as asperezas da vida numa região marcada pela desigualdade social, as belezas do deserto e as trevas da vida sob o Talibã. Escrito em parceria com a jornalista britânica Christina Lamb, este livro é uma janela para a singularidade poderosa de uma menina cheia de brio e talento, mas também para um universo religioso e cultural cheio de interdições e particularidades, muitas vezes incompreendido pelo Ocidente. \"Sentar numa cadeira, ler meus livros rodeada pelos meus amigos é um direito meu\", ela diz numa das últimas passagens do livro. A história de Malala renova a crença na capacidade de uma pessoa de inspirar e modificar o mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580868494"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580868491"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.12.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BcOnBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BcOnBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BcOnBAAAQBAJ&pg=PT260&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BcOnBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BcOnBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BcOnBAAAQBAJ&rdid=book-BcOnBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_sou_Malala-sample-epub.acsm?id=BcOnBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Eu_sou_Malala-sample-pdf.acsm?id=BcOnBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BcOnBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A vida é minha, e escolho como \u003cb\u003equero\u003c/b\u003e vivê-la. Mohammed ... Sei que vou voltar \u003cbr\u003e\nao Paquistão, mas sempre que digo a meu pai que \u003cb\u003equero ir\u003c/b\u003e para casa, ele acha \u003cbr\u003e\ndesculpas. “Não, Jani ... Diz que toda \u003cb\u003emenina\u003c/b\u003e e todo menino devem \u003cb\u003eir\u003c/b\u003e à \u003cb\u003eescola\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iwl0DwAAQBAJ",
+   "etag": "PewjTlZ2W2s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iwl0DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Malala: uma menina muito corajosa / Iqbal: um menino muito corajoso",
+    "authors": [
+     "Jeanette Winter"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2018-10-18",
+    "description": "Edição 2 em 1 com as histórias das duas crianças paquistanesas que bravamente lutaram contra a injustiça de seu mundo. Malala é a menina que não tem medo. É assim que todos conhecem a jovem paquistanesa que acredita que uma criança, um professor, um livro e uma caneta podem mudar o mundo. Por isso ela protesta contra os talibãs que querem impedir as meninas de seu país de irem à escola. Enquanto a sala de aula garante a elas um lugar ao sol e bloqueia as sombras ameaçadoras, fora da escola, uma nuvem escura as segue por toda parte. Mas isso não impedirá que Malala siga protestando pelos diretos à educação de todas as meninas do Paquistão. Iqbal tinha apenas quatro anos quando foi obrigado a trabalhar na fábrica de tapetes. Junto com outras tantas crianças, ele tecia acorrentado para que não pudesse fugir. Quando ele descobre que finalmente está livre, passa a frequentar a escola, vai bem nos estudos e começa a protestar por outras crianças que ainda não se libertaram. Mesmo sendo ameaçado pelos donos, Iqbal visita fábricas de tapetes por todo Paquistão e cruza o oceano para espalhar sua mensagem de liberdade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576867401"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576867400"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iwl0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iwl0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iwl0DwAAQBAJ&printsec=frontcover&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=iwl0DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-iwl0DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=iwl0DwAAQBAJ&rdid=book-iwl0DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.176E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Malala_uma_menina_muito_corajosa_Iqbal_u-sample-epub.acsm?id=iwl0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Malala_uma_menina_muito_corajosa_Iqbal_u-sample-pdf.acsm?id=iwl0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iwl0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Edição 2 em 1 com as histórias das duas crianças paquistanesas que bravamente lutaram contra a injustiça de seu mundo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lMfYBgAAQBAJ",
+   "etag": "W3IS1x3yNqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lMfYBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Todo dia é Dia de Malala",
+    "authors": [
+     "Rosemary McCarney",
+     "Plan International Canada Inc."
+    ],
+    "publisher": "Editora Melhoramentos",
+    "publishedDate": "2015-02-27",
+    "description": "“Querida Malala, Eu nunca tinha visto você antes, mas parece que eu a conheço há muito tempo.” Malala Yousafzai é uma inspiração. Ela morava no Paquistão quando foi baleada por talibãs simplesmente porque queria frequentar a escola. Desde aquele instante, ela atraiu a atenção do mundo inteiro por sua coragem, tornando-se porta-voz dos direitos das mulheres em todo o mundo. Esta é uma carta para Malala, ilustrada por belas fotograﬁas. Meninas de todos os lugares expressam sua compaixão, solidariedade e admiração por Malala. Muitas delas conhecem, por experiência própria, os muros que se erguem no caminho devido à desigualdade de gênero. Alguns desses muros são a pobreza, a discriminação e a violência. Em Malala, essas meninas reconhecem uma líder, uma vencedora e uma amiga.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506077351"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8506077354"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lMfYBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lMfYBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lMfYBgAAQBAJ&pg=PT2&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lMfYBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lMfYBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lMfYBgAAQBAJ&rdid=book-lMfYBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.55E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todo_dia_%C3%A9_Dia_de_Malala-sample-epub.acsm?id=lMfYBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todo_dia_%C3%A9_Dia_de_Malala-sample-pdf.acsm?id=lMfYBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lMfYBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Shona Em 9 de outubro de 2012, no Paquistão, \u003cb\u003eMalala\u003c/b\u003e Yousafzai, uma \u003cb\u003emenina\u003c/b\u003e \u003cbr\u003e\nde quinze anos, foi atingida, a caminho da \u003cb\u003eescola\u003c/b\u003e, por uma bala na cabeça \u003cbr\u003e\ndisparada por um membro do Talibã. Desde então, \u003cb\u003eMalala\u003c/b\u003e tem defendido em \u003cbr\u003e\npúblico&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GHc4swEACAAJ",
+   "etag": "4XUQDFydPd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GHc4swEACAAJ",
+   "volumeInfo": {
+    "title": "Malala E Seu Lápis Mágico",
+    "authors": [
+     "Malala Yousafzai",
+     "Ligia Azevedo"
+    ],
+    "publishedDate": "2018-03-23",
+    "description": "Um livro de Malala Yousafzai para os pequenos leitores sobre a importância de lutar pelos próprios direitos — e nunca deixar de sonhar. Quando era apenas uma menina vivendo no Paquistão, o maior desejo de Malala era ter um lápis mágico. MAs quando seu direito à educação foi colocado em perigo por homens que acreditavam que meninas não deveriam ir à escola, Malala percebeu que a sociedade em que vivia precisava de mudanças imediatas. SÓ então ela foi capaz de enfrentar grandes obstáculos até encontrar dentro de si a força e as ferramentas necessárias para mudar o mundo. Em seu primeiro livro infantil, a garota paquistanesa ganhadora do Prêmio Nobel da Paz, retorna à própria infância para apresentar sua história aos pequenos leitores e inspirar uma nova geração a quebrar o silêncio para transformar o mundo em um lugar melhor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857406811X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574068114"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 44,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GHc4swEACAAJ&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GHc4swEACAAJ&dq=Malala,+a+menina+que+queria+ir+para+a+escola&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Malala_E_Seu_L%C3%A1pis_M%C3%A1gico.html?hl=&id=GHc4swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GHc4swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um livro de Malala Yousafzai para os pequenos leitores sobre a importância de lutar pelos próprios direitos — e nunca deixar de sonhar."
+   }
+  }
+ ]
+}

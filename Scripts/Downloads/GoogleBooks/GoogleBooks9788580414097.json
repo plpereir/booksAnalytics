@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "313MjgEACAAJ",
+   "etag": "5/5yURf8ZxA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/313MjgEACAAJ",
+   "volumeInfo": {
+    "title": "As espiãs do dia D",
+    "authors": [
+     "Ken Follett"
+    ],
+    "publishedDate": "2001",
+    "description": "Charged with crippling communications in Europe before D-Day, Special Operations Executive \"Flick\" Clariet must pin her hopes on an all female group of nonprofessionals code-named the Jackdaws.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580414091"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580414097"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "France"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=313MjgEACAAJ&dq=isbn:9788580414097&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=313MjgEACAAJ&dq=isbn:9788580414097&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_espi%C3%A3s_do_dia_D.html?hl=&id=313MjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=313MjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em As espiãs do Dia D, Ken Follett mostra os dramas da guerra e a determinação de gente comum disposta a atos heroicos em nome da paz."
+   }
+  }
+ ]
+}

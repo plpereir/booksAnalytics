@@ -1,0 +1,678 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 123,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "O1PjQgAACAAJ",
+   "etag": "mBZ8p8vNgxI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O1PjQgAACAAJ",
+   "volumeInfo": {
+    "title": "Menina bonita do laço de fita",
+    "authors": [
+     "Ana Maria Machado"
+    ],
+    "publishedDate": "1999",
+    "description": "O coelhinho branco quer ter uma filha da cor daquela menina do laço de fita. Mas ele não sabe como a menina herdou aquela cor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8508066392"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788508066391"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 24,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories, Brazilian"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=O1PjQgAACAAJ&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=O1PjQgAACAAJ&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Menina_bonita_do_la%C3%A7o_de_fita.html?hl=&id=O1PjQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O1PjQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O coelhinho branco quer ter uma filha da cor daquela menina do laço de fita. Mas ele não sabe como a menina herdou aquela cor."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Xbh5DwAAQBAJ",
+   "etag": "GRQf0DTdgYM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Xbh5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Menina Bonita Sem LaÇo De Fita",
+    "authors": [
+     "Aloísio Alves De Andrade"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A vida de Luciana nunca foi fácil. Quando criança sofria preconceito por jogar futebol com os meninos. Na adolescência era isolada no colégio. Dentro de casa sofria com as imposições de uma avó moralista e uma irmã extremamente fútil. A vida dela muda quando ela descobre o amor, porém ela também descobre a dor. Essa é uma história de uma garota que tem o corpo violado, o coração ferido e a alma rasgada.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU31859"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 154,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Xbh5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Xbh5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Xbh5DwAAQBAJ&printsec=frontcover&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Xbh5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Xbh5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Xbh5DwAAQBAJ&rdid=book-Xbh5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Menina_Bonita_Sem_La%C3%87o_De_Fita-sample-pdf.acsm?id=Xbh5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Xbh5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A vida de Luciana nunca foi fácil."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cG297yYQNrwC",
+   "etag": "f6dNd2ks+s0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cG297yYQNrwC",
+   "volumeInfo": {
+    "title": "Trança de histórias",
+    "subtitle": "a criação literária de Ana Maria Machado",
+    "authors": [
+     "Maria Teresa Gonçalves Pereira",
+     "Benedito Antunes"
+    ],
+    "publisher": "UNESP",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571395725"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8571395721"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 183,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Brazilian"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cG297yYQNrwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cG297yYQNrwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cG297yYQNrwC&pg=PA106&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cG297yYQNrwC&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tran%C3%A7a_de_hist%C3%B3rias.html?hl=&id=cG297yYQNrwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cG297yYQNrwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A \u003cb\u003emenina bonita do laço de fita\u003c/b\u003e (\u003cb\u003eMenina bonita do laço de fita\u003c/b\u003e, 1.ed., 1986) vive \u003cbr\u003e\nfaceira em uma sociedade que, se tem problemas com os preconceitos, já não \u003cbr\u003e\nos escamoteia com tanta veemência; Lucas, o garoto que espiava para dentro (O\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iJL36QMbBJEC",
+   "etag": "NsxPZbtWl8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iJL36QMbBJEC",
+   "volumeInfo": {
+    "title": "Igualdade das relações étnico-raciais na escola",
+    "subtitle": "possibilidades e desafios para a implementação da Lei no 10.639--2003",
+    "publisher": "Editora Peirópolis",
+    "publishedDate": "2007-01-01",
+    "description": "Este livro, dirigido para todas as pessoas envolvidas no processo educacional, quer justamente levar a público essas vozes e opiniões, com o intuito de contribuir para o aprimoramento das políticas públicas, conteúdos programáticos e práticas educacionais comprometidos com a reeducação das relações étnico-raciais e com o ensino de história e cultura afro-brasileira e africana nas escolas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575961047"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575961049"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Discrimination in education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iJL36QMbBJEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iJL36QMbBJEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iJL36QMbBJEC&pg=PA40&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iJL36QMbBJEC&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Igualdade_das_rela%C3%A7%C3%B5es_%C3%A9tnico_raciais.html?hl=&id=iJL36QMbBJEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iJL36QMbBJEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Assinala-se que \u003cb\u003eMenina bonita do laço de fita\u003c/b\u003e é uma obra bastante lembrada \u003cbr\u003e\ntanto pela equipe pedagógica como pelas bibliotecárias. É importante \u003cbr\u003e\nmencionar que análises têm apontado que a abordagem do material promove o \u003cbr\u003e\nparadigma&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cwUSMsII8zQC",
+   "etag": "6XjbvNjuRvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cwUSMsII8zQC",
+   "volumeInfo": {
+    "title": "Valores, preconceito e práticas educativas",
+    "authors": [
+     "Renata Maria Coimbra Libório",
+     "Divino José da Silva"
+    ],
+    "publisher": "Casa do Psicólogo",
+    "publishedDate": "2005",
+    "description": "Este é um livro para educadores e para os que se sentem desafiados por comportamentos preconceituosos em suas práticas formativas. Indicado aos que desejam lutar contra o preconceito.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573964456"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573964455"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cwUSMsII8zQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cwUSMsII8zQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cwUSMsII8zQC&pg=PA212&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cwUSMsII8zQC&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Valores_preconceito_e_pr%C3%A1ticas_educativ.html?hl=&id=cwUSMsII8zQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cwUSMsII8zQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A professora trabalhou também com o livro \u003cb\u003eMenina bonita do laço de fita\u003c/b\u003e, de Ana \u003cbr\u003e\nMaria Machado, Editora Ática, que conta a história de uma menina negra que \u003cbr\u003e\nusava uma fita.8 As crianças escreveram a história, desenharam o texto, deram&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WG4C9an3BkQC",
+   "etag": "BrWK9THun3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WG4C9an3BkQC",
+   "volumeInfo": {
+    "title": "A Africa está em nós",
+    "subtitle": "história e cultura afro-brasileira",
+    "authors": [
+     "Roberto Benjamin"
+    ],
+    "publisher": "Editora Grafset",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788587872395"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8587872397"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 189,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WG4C9an3BkQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WG4C9an3BkQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WG4C9an3BkQC&pg=PA6&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WG4C9an3BkQC&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Africa_est%C3%A1_em_n%C3%B3s.html?hl=&id=WG4C9an3BkQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WG4C9an3BkQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ainda por cima, a mãe gostava de fazer trancinhas no cabelo dela e enfeitar com \u003cbr\u003e\nlaço de fita colorida. ... Por isso, um dia ele foi até a casa da menina e perguntou: \u003cbr\u003e\n— \u003cb\u003eMenina bonita do laço de fita\u003c/b\u003e, qual é teu segredo pra ser tão pretinha?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B0wtAAAAYAAJ",
+   "etag": "My9wzc9RF/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B0wtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Estudos de literatura brasileira contemporânea",
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022171759"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B0wtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B0wtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=B0wtAAAAYAAJ&q=Menina+bonita+do+la%C3%A7o+de+fita&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=B0wtAAAAYAAJ&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Estudos_de_literatura_brasileira_contemp.html?hl=&id=B0wtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B0wtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Keywords: Brazilian contemporary literature, racial relations, prejudice \u003cbr\u003e\nDesconstrução dos estereótipos negativos do negro em \u003cb\u003eMenina bonita do laço\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ede fita\u003c/b\u003e, de Ana Maria Machado, e em O menino marrom, de Ziraldo Luiz \u003cbr\u003e\nFernando de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PDosAAAAYAAJ",
+   "etag": "4KEMmcq6xJU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PDosAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O drama racial de crianças brasileiras",
+    "subtitle": "socialização entre pares e preconceito",
+    "authors": [
+     "Rita de Cássia Fazzi"
+    ],
+    "publishedDate": "2004",
+    "description": "O tema central deste livro é o preconceito racial na infância. Entender como crianças, em suas relações entre si, constroem uma realidade preconceituosa é de fundamental importância para a compreensão da ordem racial desigual existente no Brasil. É este o objetivo deste trabalho - descobrir, em termos sociológicos, a teoria do preconceito racial, sugerida pela forma como as crianças observadas estão elaborando suas próprias experiências raciais. A conquista da igualdade racial passa pelo estudo dos mecanismos discriminatórios atuantes na sociedade brasileira.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173016498630"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Attitude (Psychology)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PDosAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PDosAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PDosAAAAYAAJ&q=Menina+bonita+do+la%C3%A7o+de+fita&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PDosAAAAYAAJ&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_drama_racial_de_crian%C3%A7as_brasileiras.html?hl=&id=PDosAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PDosAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;ela era negrinha&quot;, &quot;ela era preta&quot;, &quot;ela era neguinha&quot;, talvez induzido pela \u003cbr\u003e\nprópria leitura, pois a pergunta básica da história, segundo relato delas, era: &quot;\u003cbr\u003e\n\u003cb\u003emenina bonita do laço de fita\u003c/b\u003e, qual é o seu segredo para ser tão pretinha?&quot;. Uma \u003cbr\u003e\noutra&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qMw7AAAAYAAJ",
+   "etag": "zj+kq7SL4yQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qMw7AAAAYAAJ",
+   "volumeInfo": {
+    "title": "Bibliografia brasileira de literatura infantil e juvenil",
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172140087744"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qMw7AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qMw7AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qMw7AAAAYAAJ&q=Menina+bonita+do+la%C3%A7o+de+fita&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qMw7AAAAYAAJ&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bibliografia_brasileira_de_literatura_in.html?hl=&id=qMw7AAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qMw7AAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMenina bonita do laço de fita\u003c/b\u003e. Ilus. Claudius. São Paulo : Ática, 1997. n. p. il. \u003cbr\u003e\ncolor. Em nova publicação, Menina bonita... não perdeu sua atualidade: a autora\u003cbr\u003e\n, consagrada por pequenos e grandes, enfoca de maneira singela a questão do \u003cbr\u003e\nser&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_htHAAAAYAAJ",
+   "etag": "qIeXcUZhkbk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_htHAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Gerando cidadania",
+    "subtitle": "reflexões, propostas e construções práticas sobre direitos da criança e do adolescente",
+    "authors": [
+     "Glaziela Cristiani Solfa"
+    ],
+    "publishedDate": "2004",
+    "description": "Neste livro, resultado dos trabalhos desenvolvidos no Projeto Gerando Cidadania, são apresentadas discussões acerca da temática de Direitos da Criança e Adolescente e temas correlatos, bem como relatos de experiências, reflexões e propostas de ações de educadores que tiveram coragem e pretensão de inovar. A obra se desenvolve em seis seções - Diversidade e Etnia, Família, Sexualidade, Violência, Drogas e Exploração Infantil. Em cada uma delas você encontrará textos teóricos enriquecidos pelas experiências práticas desenvolvidas com bebês e com crianças a partir de quatro anos de idade até a adolescência, e reflexões sobre essas práticas. Exemplos mostram como promover de diversas maneiras a auto-estima, o respeito próprio e o respeito pelos outros, a valorização da amizade, da convivência, da aceitação e da diversidade. O trabalho em diversas faixas etárias permite a reflexão sobre as características das crianças e jovens nas etapas da vida e sua influência na visão de grupo, compreensão, aceitação e respeito mútuo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173015249947"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_htHAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_htHAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_htHAAAAYAAJ&q=Menina+bonita+do+la%C3%A7o+de+fita&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_htHAAAAYAAJ&dq=Menina+bonita+do+la%C3%A7o+de+fita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gerando_cidadania.html?hl=&id=_htHAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_htHAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As crianças que não eram negras, após a história \u003cb\u003eMenina bonita do laço de fita\u003c/b\u003e, \u003cbr\u003e\ntambém afirmavam que seus avós ou pais eram negros, mesmo sabendo que \u003cbr\u003e\nisso seria difícil de acreditar, dado seus caracteres físicos serem bastante&nbsp;..."
+   }
+  }
+ ]
+}

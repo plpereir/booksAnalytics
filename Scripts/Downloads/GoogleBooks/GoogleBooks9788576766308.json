@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VcZoPgAACAAJ",
+   "etag": "M9Q3nz1uEoY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VcZoPgAACAAJ",
+   "volumeInfo": {
+    "title": "Quem pensa enriquece",
+    "authors": [
+     "Napoleon Hill",
+     "NEUZA CAPELO"
+    ],
+    "publishedDate": "2009",
+    "description": "Por vinte anos, Napoleon Hill se dedicou a descobrir a fórmula que cria milionários. Ele acompanhou de perto a ascensão de 500 das maiores fortunas do mundo. Convivendo com mitos como Henry Ford, Theodore Roosevelt, King Gillette e John Rockefeller, o autor deve ter encontrado 15 características comuns a todos esses grandes vencedores, visando auxiliar as pessoas a se tornarem ricas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576766302"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576766308"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 247,
+    "printType": "BOOK",
+    "categories": [
+     "Success in business"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VcZoPgAACAAJ&dq=isbn:9788576766308&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VcZoPgAACAAJ&dq=isbn:9788576766308&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Quem_pensa_enriquece.html?hl=&id=VcZoPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VcZoPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "script type=&quot;text/javascript&quot; function writeStandout(d){document.getElementById(&quot;standoutDiv&quot;).innerHTML = &#39;iframe width=&quot;&#39;+((window.screen.width=960)?960:window.screen.width)+&#39;&quot; height=&quot;&#39;+parseInt(d.productHeight)+&#39;&quot; src=&quot;//www.standout ..."
+   }
+  }
+ ]
+}

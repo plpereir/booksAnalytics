@@ -1,0 +1,889 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 415,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dMwGCwAAQBAJ",
+   "etag": "gXVEriWh4Fk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dMwGCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mulheres de cinzas",
+    "authors": [
+     "Mia Couto"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2015-11-16",
+    "description": "Em seu novo livro, Mia Couto encena uma história bela e vívida no fim do século XIX, durante a guerra em Moçambique, alternando as vozes de uma jovem africana e de um sargento português. Primeiro livro da trilogia As areias do Imperador, Mulheres de cinzas é um romance histórico sobre a época em que o sul de Moçambique era governado por Ngungunyane, o último grande líder do Estado de Gaza. Em fins do século XIX, o sargento português Germano de Melo foi enviado ao vilarejo de Nkokolani para participar da batalha contra o imperador que ameaçava o domínio colonial. Lá, ele encontra Imani, uma garota local de quinze anos que lhe servirá de intérprete. Enquanto um dos irmãos da menina lutava pela coroa de Portugal, o outro se uniu aos guerreiros tribais. Aos poucos, Germano e Imani se envolvem, apesar de todas as diferenças entre seus mundos. Porém, num país assombrado pela guerra dos homens, a única saída para uma mulher é passar desapercebida, como se fosse feita de sombras ou de cinzas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543804590"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543804590"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dMwGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dMwGCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dMwGCwAAQBAJ&printsec=frontcover&dq=Mulheres+de+cinza&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dMwGCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dMwGCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dMwGCwAAQBAJ&rdid=book-dMwGCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres_de_cinzas-sample-epub.acsm?id=dMwGCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres_de_cinzas-sample-pdf.acsm?id=dMwGCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dMwGCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em seu novo livro, Mia Couto encena uma história bela e vívida no fim do século XIX, durante a guerra em Moçambique, alternando as vozes de uma jovem africana e de um sargento português."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PFmUvwEACAAJ",
+   "etag": "m3R6cUqhFXs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PFmUvwEACAAJ",
+   "volumeInfo": {
+    "title": "As areias do imperador",
+    "subtitle": "uma trilogia moçambicana",
+    "authors": [
+     "Mia Couto"
+    ],
+    "publishedDate": "2015",
+    "description": "Mulheres de Cinza é o primeiro livro de uma trilogia sobre os derradeiros dias do chamado Estado de Gaza, o segundo maior império em África dirigido por um africano. Ngungunyane (ou Gungunhane, como ficou conhecido pelos portugueses) foi o último de uma série de imperadores que governou metade do território de Moçambique. Derrotado em 1895 pelas forças portuguesas comandadas por Mouzinho de Albuquerque, Ngungunyane foi deportado para os Açores onde veio a morrer em 1906. Os seus restos mortais terão sido trasladados para Moçambique em 1985. Existem, no entanto, versões que sugerem que não foram as ossadas do imperador que voltaram dentro da urna. Foram torrões de areia. Do grande adversário de Portugal restam areias recolhidas em solo português. Esta narrativa é uma recreação ficcional inspirada em factos e personagens reais. Serviram de fonte de informação uma extensa documentação produzida em Moçambique e em Portugal e, mais importante ainda, diversas entrevistas efetuadas em Maputo eInhambane.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9722127675"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722127677"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 404,
+    "printType": "BOOK",
+    "categories": [
+     "Mozambican fiction (Portuguese)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PFmUvwEACAAJ&dq=Mulheres+de+cinza&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PFmUvwEACAAJ&dq=Mulheres+de+cinza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_areias_do_imperador.html?hl=&id=PFmUvwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PFmUvwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WY9NfBaL6bwC",
+   "etag": "gFM7bdGwCqg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WY9NfBaL6bwC",
+   "volumeInfo": {
+    "title": "As mulheres de branco",
+    "subtitle": "realismo e ironia em The great Gatsby de F. Scott Fitzgerald",
+    "authors": [
+     "Luiza Franco Moreira"
+    ],
+    "publisher": "EdUSP",
+    "publishedDate": "1991",
+    "description": "As mulheres de branco em O Grande Gatsby, de F. Scott Fitzgerald, são o ponto de partida para que a autora demonstre a importância desse aspecto na construção de todo o romance, descortinando assim, como diz Davi Arrigucci Jr. no prefácio ao livro, a verdadeira dinâmica da obra. Em primeiro lugar, há o fascínio das mulheres de branco, brancas como noivas, para surgirem depois as imagens suaves de sonho e beleza, trazendo no entanto as marcas de idílios impossíveis que convertem-se em indícios de morte trágica, até assumirem forma grotesca. A visão aguda do detalhe e a habilidade de integrar a parte no todo revelam o domínio que a autora tem de seu método de análise.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531400201"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531400209"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WY9NfBaL6bwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WY9NfBaL6bwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WY9NfBaL6bwC&pg=PA84&dq=Mulheres+de+cinza&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WY9NfBaL6bwC&dq=Mulheres+de+cinza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_mulheres_de_branco.html?hl=&id=WY9NfBaL6bwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WY9NfBaL6bwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Desde a primeira linha do capítulo, o desolamento do cenário é apresentado \u003cbr\u003e\natravés do uso de \u003cb\u003ecinzas\u003c/b\u003e como imagem. Tudo ali é constituído de \u003cb\u003ecinza\u003c/b\u003e: cristas, \u003cbr\u003e\ncolinas, jardins, casas, chaminé e fumaça, e num crescendo, homens (p. 23)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DwSoBAAAQBAJ",
+   "etag": "kcQFmvguHyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DwSoBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Todos os poemas",
+    "authors": [
+     "Paul Auster"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2013-02-21",
+    "description": "No final da década de 1970, Paul Auster ainda era um nome quase desconhecido das letras norte-americanas. Havia publicado somente algumas coletâneas de poemas, com escassa repercussão fora dos círculos de connaisseurs agrupados em torno de revistas especializadas, tais como Daimone The Mysterious Barricades. Poucos anos depois, o jovem poeta seria catapultado à fama internacional com o grande êxito de público e crítica dos romances filosófico-policiais da Trilogia de Nova York, que inauguraram uma brilhante carreira na prosa de ficção. À diferença dos escritores que iniciam suas carreiras com a composição de poemas e costumam renegar sua produção juvenil quando se tornam ficcionistas consagrados, Auster não se esqueceu dos versos que ganharam versão para o português pelo mesmo tradutor do Ulysses de James Joyce, com que se lançou na exploração da escrita literária. Ao contrário, o autor de Timbuktu costuma ressaltar a relevância pessoal e estética de sua poesia. \"Continuo muito ligado à poesia que escrevi [...]. Pensando bem, pode ser a melhor coisa que eu já fiz\", como afirmou em entrevista na década de 1990.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580866223"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580866227"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.10.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DwSoBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DwSoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DwSoBAAAQBAJ&pg=PT181&dq=Mulheres+de+cinza&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DwSoBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DwSoBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DwSoBAAAQBAJ&rdid=book-DwSoBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.45E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todos_os_poemas-sample-epub.acsm?id=DwSoBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todos_os_poemas-sample-pdf.acsm?id=DwSoBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DwSoBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reunião de homens de cinza e \u003cb\u003emulheres de cinza\u003c/b\u003e. O lívido eixo do céu crescido \u003cbr\u003e\naté arrondar-se em antera na encosta relvada de onde os vi. Verde-maio: o que \u003cbr\u003e\nfoi dito audível no olho. As palavras, misturadas à neve, não acusaram a boca."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jd0EiUUgbKcC",
+   "etag": "kv/LYEIxGPQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jd0EiUUgbKcC",
+   "volumeInfo": {
+    "title": "Mulheres de Hoje",
+    "authors": [
+     "Antelo (org.), Marcela"
+    ],
+    "publisher": "KBR",
+    "publishedDate": "2015-12-29",
+    "description": "Como a psicanálise de orientação lacaniana pode pensar as mulheres, e como podemos pensá-las hoje, ou seja, trinta anos depois da morte de Lacan, com as mudanças que o início do século XXI nos trouxe? Tratar o gozo feminino supõe encontrar outras palavras que remetam ao ponto de inconsistência no Outro, ponto em que não há solução pela identificação. Outras palavras que – esta é a nossa aposta – possam ser inventadas para tratar os impasses do real. (Cristina Drummond)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581800691"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581800696"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jd0EiUUgbKcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jd0EiUUgbKcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jd0EiUUgbKcC&pg=PT53&dq=Mulheres+de+cinza&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jd0EiUUgbKcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jd0EiUUgbKcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jd0EiUUgbKcC&rdid=book-jd0EiUUgbKcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres_de_Hoje-sample-epub.acsm?id=jd0EiUUgbKcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mulheres_de_Hoje-sample-pdf.acsm?id=jd0EiUUgbKcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jd0EiUUgbKcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas, salvo em viagem, ou quando ocorrem eventos extraordinários, um dia sem \u003cbr\u003e\nescrever tem gosto de \u003cb\u003ecinza\u003c/b\u003e.43 Não sinto um hiato entre as intenções que me \u003cbr\u003e\nlevaram a escrever livros e os livros que escrevi... Queria fazerme existir para os\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u2F7DwAAQBAJ",
+   "etag": "Nz8AMO9PIyk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u2F7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Deixando de lado os tons de cinza",
+    "subtitle": "Erotismo, intimidade e os anseios do coração de uma mulher",
+    "authors": [
+     "Dannah Gresh",
+     "Juli Slattery"
+    ],
+    "publisher": "Editora Evangélica Esperança ",
+    "publishedDate": "2018-11-22",
+    "description": "Acreditamos que o lançamento da série Cinquenta tons de cinza foi um momento transformador que deu início à onda de literatura erótica, normalizando seu uso. A série fez pelas mulheres e pela literatura erótica o que a internet fez pelos homens e pela pornografia. Queremos não somente colocar de lado os tons de cinza para que a verdade de Deus fique clara para você sobre o que este e outros livros semelhantes podem causar a sua vida, mas desejamos também tirar sua vida sexual das sombras. Deixando de lado os tons de cinza não é apenas uma mera reação à série de livros. O assunto aqui é VOCÊ – seus anseios, suas perguntas e sua integridade como uma mulher espiritual e sexual. Embora Cinquenta tons tenha mudado o cenário sexual para muitas mulheres, oramos para que este livro seja também uma virada no jogo – trazendo esperança e cura através do poder da verdade de Deus. As autoras",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578391300"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578391306"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 154,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u2F7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u2F7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u2F7DwAAQBAJ&pg=PT96&dq=Mulheres+de+cinza&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u2F7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u2F7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u2F7DwAAQBAJ&rdid=book-u2F7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Deixando_de_lado_os_tons_de_cinza-sample-epub.acsm?id=u2F7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u2F7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Erotismo, intimidade e os anseios do coração de uma \u003cb\u003emulher\u003c/b\u003e Dannah Gresh, Juli \u003cbr\u003e\nSlattery ... O The Dr. Oz Show25 apresentou uma série de episódios baseados \u003cbr\u003e\nem Cinquenta tons de \u003cb\u003ecinza\u003c/b\u003e, afirmando que o livro pode ser a cura para os&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-vJxDwAAQBAJ",
+   "etag": "4oRfilvtYNo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-vJxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "As Mulheres Que Julgaram Os Deuses",
+    "authors": [
+     "Arthur"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Romance metafísico em prosa realista e filosófica, valendo-se do discurso sentimental e emocionalmente carregado. Dirigido ao público feminino, narra a natureza humana em conflito com a razão do sofrimento na busca de respostas. Uma obra escrita sob os pilares do realismo e do conto contemporâneo. Propõe a reconstrução do pensamento. Antes de sua leitura deve-se compreender que a sociedade é apenas o reflexo da sociedade das ideias e pensamentos que convivem no sistema mental em hierarquias. Esse romance vem apelar a todos os recursos da Consciência para superar as agruras que fragilizam a realidade humana. Além de ser uma aventura que aborda as principais questões do ser, discorre muitos temas úteis e educativos. Na simbiose entre realidade e ficção a mente mergulha na metafísica instigando as mais fortes emoções. O lamento e a agonia da existência nos cumes do desespero, a Consciência discorre sobre a futilidade da vida. Uma reunião de mulheres dirigida por uma psicóloga, elas relatam seus dramas ao terem suas famílias dissolvidas. Todas as bases da sociedade são convidadas a se reconstruírem. No final aparece uma personagem com sua poderosa dialética social reformista propondo novos paradigmas. Evoca as questões mais profundas das emoções, além de ser um tratado informativo sobre um antigo mal social. Percorre todo o perfil da personalidade dissocial. Dramas e enigmas, resolução de contradições, suspense, descoberta de indícios imprecisos e uma realidade estarrecedora. Julia, uma jornalista vivendo um drama tenta desvendar um grande enigma e encontra respostas para muitos outros.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24669"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 686,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-vJxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-vJxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-vJxDwAAQBAJ&pg=PA199&dq=Mulheres+de+cinza&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-vJxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--vJxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.46,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 59.46,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-vJxDwAAQBAJ&rdid=book--vJxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.946E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.946E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Mulheres_Que_Julgaram_Os_Deuses-sample-pdf.acsm?id=-vJxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-vJxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "*(uma crítica ao famoso livro 50 Tons de \u003cb\u003eCinza\u003c/b\u003e da escritora britânica). Nós, \u003cbr\u003e\n\u003cb\u003emulheres\u003c/b\u003e, também temos nossos estereótipos femininos. E a rainha da \u003cbr\u003e\nsensualidade é Beyoncé. Ela causou uma revolução sensual no mundo, pois \u003cbr\u003e\nnenhuma outra&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sQAoDQAAQBAJ",
+   "etag": "zT/p57ie8xM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sQAoDQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Espada e a Azagaia",
+    "authors": [
+     "Mia Couto"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2016-09-26",
+    "description": "A Espada e a Azagaia é o segundo livro (o primeiro, Mulheres de Cinza, foi publicado em outubro de 2015) de uma trilogia As Areias do Imperador sobre os derradeiros dias do chamado Estado de Gaza, o segundo maior império em África dirigido por um africano. Ngungunyane (ou Gungunhane como ficou conhecido pelos portugueses) foi o último dos imperadores que governou toda a metade Sul do território de Moçambique. Derrotado em 1895 pelas forças portuguesas comandadas por Mouzinho de Albuquerque, o imperador Ngungunyane foi deportado para os Açores onde veio a morrer em 1906.A Espada e a Azagaia relata a guerra travada no Sul de Moçambique, no final do século XIX, entre Portugal e o Império de Gaza, e que teve como protagonistas Mouzinho de Albuquerque e Gungunhana.Este volume termina com a vitória das tropas portuguesas em Coolela e Chaimite e a prisão de Gungunhana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722128285"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722128280"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sQAoDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sQAoDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sQAoDQAAQBAJ&printsec=frontcover&dq=Mulheres+de+cinza&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sQAoDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sQAoDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.97,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.62,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sQAoDQAAQBAJ&rdid=book-sQAoDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.697E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.562E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Espada_e_a_Azagaia-sample-epub.acsm?id=sQAoDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Espada_e_a_Azagaia-sample-pdf.acsm?id=sQAoDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sQAoDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Espada e a Azagaia é o segundo livro (o primeiro, Mulheres de Cinza, foi publicado em outubro de 2015) de uma trilogia As Areias do Imperador sobre os derradeiros dias do chamado Estado de Gaza, o segundo maior império em África ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UbbHX7NX41EC",
+   "etag": "ZNNNzgyGdZw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UbbHX7NX41EC",
+   "volumeInfo": {
+    "title": "As Mulheres do Meu Pai",
+    "authors": [
+     "José Eduardo Agualusa"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-02-27",
+    "description": "Faustino Manso, famoso compositor angolano, deixou ao morrer sete viúvas e dezoito filhos. A filha mais nova, Laurentina, realizadora de cinema tenta reconstruir a atribulada vida do falecido músico. Em As Mulheres do Meu Pai, realidade e ficção correm lado a lado, a primeira alimentando a segunda. Nos territórios que José Eduardo Agualusa atravessa, porém, a ficção participa da realidade. As quatro personagens do romance que o autor escreve, enquanto viaja, vão com ele de Luanda, capital de Angola, até Benguela e Namibe. Cruzam as areias da Namíbia e as suas povoações-fantasma, alcançando finalmente Cape Town, na África do Sul. Continuam depois, rumo a Maputo, e de Maputo a Quelimane, junto ao rio dos Bons Sinais, e dali até à ilha de Moçambique. Percorrem, nesta deriva, paisagens que fazem fronteira com o sonho, e das quais emergem, aqui e ali, as mais estranhas personagens. As Mulheres do Meu Pai é um romance sobre mulheres, música e magia. Nestas páginas anuncia-se o renascimento de África, continente afectado por problemas terríveis, mas abençoado pelo talento da música, o sempre renovado vigor das mulheres e o secreto poder de deuses muito antigos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722044615"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722044613"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UbbHX7NX41EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UbbHX7NX41EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UbbHX7NX41EC&pg=PT181&dq=Mulheres+de+cinza&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UbbHX7NX41EC&dq=Mulheres+de+cinza&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_Mulheres_do_Meu_Pai.html?hl=&id=UbbHX7NX41EC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Mulheres_do_Meu_Pai-sample-epub.acsm?id=UbbHX7NX41EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Mulheres_do_Meu_Pai-sample-pdf.acsm?id=UbbHX7NX41EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UbbHX7NX41EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... também (servem apenaspara lhes recordar que sãoum projecto falhado \u003cbr\u003e\ndemulheres)7 . Beijolhe os mamilos. Mordoos. Bartolomeu tenta afastarme, uma \u003cbr\u003e\nvoz de \u003cb\u003ecinza\u003c/b\u003e: – Acho que não vai dar certo. Agora sim, está (Pensamentos \u003cbr\u003e\nalheios) ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tppEBAAAQBAJ",
+   "etag": "IcqpGvGnFqg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tppEBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Todas as Mulheres de Hitler",
+    "authors": [
+     "Erich Schaake"
+    ],
+    "publisher": "Larousse Lafonte",
+    "publishedDate": "2012-11-06",
+    "description": "Hitler foi um conquistador?Eva, Stefanie, Emilie, Helene, Elsa, Madeleine, Maria, Freira, princesa, cineasta, atriz, esposa de industrial ou de diplomata, longa é a lista das mulheres que sucumbiram a Hitler. Mas... o que as levou a interessar-se por um homem sem charme, sem atrativos físicos ou intelectuais, racista e responsável pela morte de milhões de pessoas? Esse é um dos mistérios que Todas as mulheres de Hitler procura desvendar. Explorando a intimidade dessas mulheres e seu relacionamento com o ditador, o livro revela facetas inusitadas, e até agora desconhecidas, do homem que um dia quis dominar o mundo e que, derrotado, morreu em circunstâncias ainda obscuras, ao lado da mulher com quem tinha um pacto de sangue.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581860749"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581860745"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tppEBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tppEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tppEBAAAQBAJ&pg=PA75&dq=Mulheres+de+cinza&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tppEBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tppEBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tppEBAAAQBAJ&rdid=book-tppEBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todas_as_Mulheres_de_Hitler-sample-pdf.acsm?id=tppEBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tppEBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vestia um anoraque com um cinturão de couro, bombachas curtas que mais \u003cbr\u003e\npareciam culotes e meias de lã \u003cb\u003ecinza\u003c/b\u003e-claras. No entanto, o que mais agradou a \u003cbr\u003e\njovem Maria no tal Adolf Hitler foi outra coisa: seu cachorro. Um pastor alemão \u003cbr\u003e\nque&nbsp;..."
+   }
+  }
+ ]
+}

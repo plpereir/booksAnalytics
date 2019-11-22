@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zeZvuQEACAAJ",
+   "etag": "TXlKcN7Jxh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zeZvuQEACAAJ",
+   "volumeInfo": {
+    "title": "O Evangelho segundo o espiritismo",
+    "authors": [
+     "Allan Kardec"
+    ],
+    "publishedDate": "1973",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173006258109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "categories": [
+     "Bible"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zeZvuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zeZvuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zeZvuQEACAAJ&dq=isbn:9788573413830&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zeZvuQEACAAJ&dq=isbn:9788573413830&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Evangelho_segundo_o_espiritismo.html?hl=&id=zeZvuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zeZvuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Baseado em instruções de espíritos superiores, sempre registradas nos finais dos capítulos, Kardec explica as máximas morais de Jesus, convidando-nos a vivenciá-las no nosso dia-a-dia."
+   }
+  }
+ ]
+}

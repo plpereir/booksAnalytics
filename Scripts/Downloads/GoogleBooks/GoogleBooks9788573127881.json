@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "j_R7MAEACAAJ",
+   "etag": "3uMhOdbNSxI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j_R7MAEACAAJ",
+   "volumeInfo": {
+    "title": "O PODER DA ATITUDE",
+    "authors": [
+     "ALEXANDRE SLIVNIK"
+    ],
+    "description": "Neste livro, o autor procura mostrar ao leitor como trazer um alto padrão de excelência para os negócios, utilizando atitudes como - Usar o poder da história; Antecipar-se aos problemas; Exceder as expectativas; Cuidar obsessivamente dos detalhes e celebrar cada sucesso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573127880"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573127881"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=j_R7MAEACAAJ&dq=isbn:9788573127881&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=j_R7MAEACAAJ&dq=isbn:9788573127881&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_PODER_DA_ATITUDE.html?hl=&id=j_R7MAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j_R7MAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro ajuda líderes e liderados que querem transformar seus clientes em fãs a fazer isso por meio da excelência na empresa, estabelecendo o ciclo da excelência: líderes excelentes, profissionais extraordinários, clientes felizes ..."
+   }
+  }
+ ]
+}

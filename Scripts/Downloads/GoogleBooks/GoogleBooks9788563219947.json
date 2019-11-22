@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lBSEtgAACAAJ",
+   "etag": "8t2+iBP94C4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lBSEtgAACAAJ",
+   "volumeInfo": {
+    "title": "PRESENTES DA VIDA",
+    "authors": [
+     "EMILY GIFFIN",
+     "PATRICIA DIAS REIS FRISENE"
+    ],
+    "description": "Darcy Rhone sempre teve todos os homens aos seus pés. Tinha um emprego glamouroso, um seleto círculo de amizades e um noivo perfeito, Dexter Thaler. No entanto, tudo mudou quando Darcy se envolveu com o melhor amigo de seu noivo. Seu noivado acabou e ela perdeu sua melhor amiga, Rachel. Incapaz de assumir responsabilidades e de enfrentar todo esse mal-estar, Darcy fugiu para Londres, para a casa de um amigo de infância, imaginando que poderia passar uma borracha em tudo isso. Mas, para seu desânimo, Londres se tornou um mundo estranho, onde seus truques de sedução não mais funcionavam e onde sua sorte parecia ter se evaporado.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563219944"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563219947"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 383,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lBSEtgAACAAJ&dq=isbn:9788563219947&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lBSEtgAACAAJ&dq=isbn:9788563219947&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PRESENTES_DA_VIDA.html?hl=&id=lBSEtgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lBSEtgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Darcy Rhone sempre teve todos os homens aos seus pés."
+   }
+  }
+ ]
+}

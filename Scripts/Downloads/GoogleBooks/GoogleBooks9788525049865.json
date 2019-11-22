@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "w4YnywAACAAJ",
+   "etag": "FDmOqejp+Ps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w4YnywAACAAJ",
+   "volumeInfo": {
+    "title": "O LIVRO DA FILOSOFIA",
+    "authors": [
+     "VARIOS AUTORES"
+    ],
+    "description": "'O livro da filosofia' apresenta a filosofia desde a Antiguidade e é composto por capítulos organizados em torno de máximas de expoentes da filosofia. A partir dessas máximas, o pensamento é estudado e posto em diálogo com as discussões do momento histórico em questão e com outras épocas e perspectivas. Assim, as visões e teorias conflitantes são postas lado a lado, mostrando que a prática da filosofia não se faz de pensamentos estáticos, mas de uma atividade cotidiana na qual se questiona o viver e suas contradições, expectativas e temores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525049867"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525049865"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=w4YnywAACAAJ&dq=isbn:9788525049865&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=w4YnywAACAAJ&dq=isbn:9788525049865&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_LIVRO_DA_FILOSOFIA.html?hl=&id=w4YnywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w4YnywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;O livro da filosofia&#39; apresenta a filosofia desde a Antiguidade e é composto por capítulos organizados em torno de máximas de expoentes da filosofia."
+   }
+  }
+ ]
+}

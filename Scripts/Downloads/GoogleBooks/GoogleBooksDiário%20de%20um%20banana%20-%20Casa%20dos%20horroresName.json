@@ -1,0 +1,627 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 7,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ELsqAgAAQBAJ",
+   "etag": "NaQZ/lHBqzM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ELsqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 6",
+    "subtitle": "Casa dos horrores",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Em sua sexta aventura, Greg Heffley passará por grandes apuros. As coisas para ele vão de mal a pior, tanto na escola como em sua casa. Greg será suspeito de vandalismo e se tornará um suposto foragido da polícia. Além disso, uma forte tempestade de neve faz com que ele e sua família fiquem presos em casa. Em pouco tempo, o seu lar doce lar se transformará em uma verdadeira Casa dos horrores. Divirta-se com as novas confusões de Greg, ele nunca esteve tão Banana!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576835233"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576835231"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ELsqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ELsqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ELsqAgAAQBAJ&printsec=frontcover&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ELsqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ELsqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ELsqAgAAQBAJ&rdid=book-ELsqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_6-sample-epub.acsm?id=ELsqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_6-sample-pdf.acsm?id=ELsqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ELsqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em sua sexta aventura, Greg Heffley passará por grandes apuros."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mJhyDQAAQBAJ",
+   "etag": "pGG1owaxHdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mJhyDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Vai ou racha",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley nunca esteve tão perto da fama. Ouvir os conselhos de sua mãe sobre explorar seu lado criativo fez bem a ele. Agora, Greg está na banda da escola e poderá ir à festa de Dia das Bruxas mais bombada de todas. Será que ele conseguirá mostrar o quanto é maneiro e talentoso? Ou será que seu sonho vai rachar de vez?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550700618"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550700614"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mJhyDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mJhyDQAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mJhyDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mJhyDQAAQBAJ&rdid=book-mJhyDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=mJhyDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=mJhyDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mJhyDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água Diário de um Banana: Dias decão Diário de \u003cbr\u003e\num Banana: A verdade nuae crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eCasa dos horrores\u003c/b\u003e \u003cbr\u003e\nDiário&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GCDbCgAAQBAJ",
+   "etag": "nknA1BaJ+l4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GCDbCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Bons tempos",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "A vida era melhor antigamente. Pelo menos é o que dizem. Mas Greg Heffley, um garoto bastante acostumado ao conforto do mundo moderno, não concorda muito com isso. E uma decisão polêmica vai colocar o seu paraíso tecnológico em curto-circuito: todos em sua cidade decidem dar um tempo dos aparelhos eletrônicos. Dentro e fora de casa, Greg terá que enfrentar o dia a dia à moda antiga. Será que ele vai conseguir sobreviver do mesmo jeitinho que se fazia nos \"velhos e bons tempos\"?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576839446"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857683944X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GCDbCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GCDbCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GCDbCgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GCDbCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GCDbCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GCDbCgAAQBAJ&rdid=book-GCDbCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.985E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=GCDbCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=GCDbCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GCDbCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éocara Diário \u003cbr\u003e\nde um Banana: A gota d&#39;água Diário de um Banana: Dias decão Diário de um \u003cbr\u003e\nBanana: A verdade nuae crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eCasa dos horrores\u003c/b\u003e Diário&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MTL1CAAAQBAJ",
+   "etag": "f487LnL40Zc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MTL1CAAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana",
+    "subtitle": "Caindo na estrada",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "Greg Heffley está de volta com confusões tamanho família! Uma viagem de carro em família tem tudo para ser algo muito divertido... ou não, ainda mais se for a família do Greg Heffley. A jornada começa cheia de promessas, mas logo sofre reviravoltas dramáticas. Banheiros de postos de gasolina, gaivotas ensandecidas, malas perdidas, um porco faminto... Mas até a viagem mais desastrosa pode virar uma grande aventura – e desta os Heffley não vão se esquecer tão cedo. #150 milhões de livros vendidos no mundo todo #Best-seller do New York Times #Um dos maiores fenômenos recentes da literatura infantojuvenil #Sucesso também nos cinemas Sobre o autor: Jeff Kinney cresceu em Washington, D. C. e atualmente mora no sul de Massachusetts com a mulher e seus dois filhos. Além de escrever, Jeff desenvolve e projeta jogos online. Ao contrário de seu personagem Greg Heffley, o autor não tem nada de \"banana\": a prova disso é que tem liderado a lista de livros mais vendidos do New York Times. Em 2009, Jeff foi escolhido como uma das 100 Pessoas Mais Influentes do Mundo pela revista Time. A série \"Diário de um Banana\" já foi traduzida para diversas línguas e é um sucesso no mundo todo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576838265"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576838265"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MTL1CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MTL1CAAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MTL1CAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MTL1CAAAQBAJ&rdid=book-MTL1CAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-epub.acsm?id=MTL1CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana-sample-pdf.acsm?id=MTL1CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MTL1CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água Diário de um Banana: Dias decão Diário de \u003cbr\u003e\num Banana: A verdade nua ecrua \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eCasa dos horrores\u003c/b\u003e \u003cbr\u003e\nDiário&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VLkqAgAAQBAJ",
+   "etag": "peXd5lUi4g0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VLkqAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário de um Banana 7",
+    "subtitle": "Segurando vela",
+    "authors": [
+     "Jeff Kinney"
+    ],
+    "publisher": "Vergara e Riba Editoras S/A",
+    "publishedDate": "2013-05-23",
+    "description": "O Dia dos Namorados está chegando e Greg Heffley continua sozinho. Mas um baile organizado pela escola pode mudar tudo. Ele precisa encontrar uma garota urgentemente. Para isso, conta com a ajuda de outro \"solteirão\", Rowley, seu melhor amigo. A ideia de Greg é usar Rowley como isca para atrair as meninas, uma espécie de coadjuvante de luxo que auxilia o ator principal a brilhar. Será que esse plano vai dar certo? Ou será que a flecha do cupido vai tomar um rumo inesperado?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576836162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576836165"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VLkqAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VLkqAgAAQBAJ&pg=PP4&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VLkqAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.63,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VLkqAgAAQBAJ&rdid=book-VLkqAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.663E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-epub.acsm?id=VLkqAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_de_um_Banana_7-sample-pdf.acsm?id=VLkqAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VLkqAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LEIATAMBÉM Diário de um Banana Diário de um Banana: Rodrick éo cara \u003cbr\u003e\nDiário de um Banana: A gota d&#39;água Diário de um Banana: Dias de cão Diário de \u003cbr\u003e\num Banana: A verdade nua e crua \u003cb\u003eDiário de um Banana\u003c/b\u003e: \u003cb\u003eCasa dos horrores\u003c/b\u003e \u003cbr\u003e\nDiário&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2E0tAAAAYAAJ",
+   "etag": "1x7yugD3zRw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2E0tAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Viagem ao centro do dia",
+    "subtitle": "um diário",
+    "authors": [
+     "Eustáquio Gomes"
+    ],
+    "publishedDate": "2007-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173031246848"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 462,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2E0tAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2E0tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2E0tAAAAYAAJ&q=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2E0tAAAAYAAJ&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Viagem_ao_centro_do_dia.html?hl=&id=2E0tAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2E0tAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Encontramos o pobre Fava lendo um romance de José Mauro de Vasconcelos, \u003cbr\u003e\n\u003cb\u003eBanana\u003c/b\u003e brava. Deixou o quarto para ... 6 de novembro Escreve-se um \u003cb\u003ediário\u003c/b\u003e \u003cbr\u003e\npara se destacar dos demais seres moventes no mundo. Será isso? A idéia é&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rpUwAAAAYAAJ",
+   "etag": "nrN7lXa9Gnk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rpUwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Manchete",
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173017563400"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rpUwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rpUwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rpUwAAAAYAAJ&q=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rpUwAAAAYAAJ&dq=Di%C3%A1rio+de+um+banana+-+Casa+dos+horrores&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manchete.html?hl=&id=rpUwAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rpUwAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A jaqueta que o manequim Bill veste vende \u003cb\u003ehorrores\u003c/b\u003e. ... A cadeia de lojas \u003cbr\u003e\n\u003cb\u003eBanana\u003c/b\u003e Republie fatura alto com uma camisa de Clinton. ... Os caricaturistas es- \u003cbr\u003e\nqueceram-se de colocar o charuto, mas deram ao presidente a cara de quem \u003cbr\u003e\nestá doido por um passeio fora de \u003cb\u003ecasa\u003c/b\u003e. ... Cm seu \u003cb\u003ediário\u003c/b\u003e. Mónica sugeriu que \u003cbr\u003e\nrealçam os prazeres do sexo oral. Milhares de americanos foram conferir se o \u003cbr\u003e\nque Mónica&nbsp;..."
+   }
+  }
+ ]
+}

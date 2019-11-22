@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CukktAEACAAJ",
+   "etag": "zSr3PrVyT6U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CukktAEACAAJ",
+   "volumeInfo": {
+    "title": "Lua Azul",
+    "authors": [
+     "Fred Oliveira",
+     "Arthur Pandeki"
+    ],
+    "publishedDate": "2017-06-27",
+    "description": "O universo está em perigo... Uma poderosa civilização monitora a relação entre o bem e o mal do universo, destruindo planetas inteiros sempre que o equilíbrio parece ameaçado. Para tal, observam uma incrível relíquia, chamada A Grande Balança, que se inclina sempre que um planeta precisa ser exterminado. E mais: a Terra, o Planeta Azul, é o próximo. Mas, muito tempo atrás, na Itália renascentista, Galileu e seus discípulos desenvolveram o que poderia ser a última esperança da raça humana: sete armas de extremo poder, confiadas a gerações e gerações de guerreiros habilidosos e comprometidos com a salvação do mundo. Essa história atravessará os séculos até chegar a Tóquio, no ano de 2064. Katsuma, um jovem de apenas dezesseis anos, receberá uma das grandes armas de Galileu e terá de lidar não apenas com os sentimentos e as descobertas de um adolescente comum, mas também com o peso da maior responsabilidade que um homem adulto poderia suportar: o de ser o herói de que a humanidade precisa para continuar existindo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542210433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542210439"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CukktAEACAAJ&dq=isbn:9788542210439&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CukktAEACAAJ&dq=isbn:9788542210439&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Lua_Azul.html?hl=&id=CukktAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CukktAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O universo está em perigo."
+   }
+  }
+ ]
+}

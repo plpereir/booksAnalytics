@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ok3itAEACAAJ",
+   "etag": "JnRkVX7atY4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ok3itAEACAAJ",
+   "volumeInfo": {
+    "title": "O Homem Mais Feliz Da História",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "description": "O homem mais feliz da história é um romance protagonizado pelo psiquiatra Marco Polo, um pensador ateu e mundialmente reconhecido que ousa estudar a complexa mente de Jesus sob o ângulo da ciência. Em uma jornada surpreendente, ele procura desvendar os misteriosos códigos da felicidade ocultos no mais famoso discurso do Mestre dos Mestres: o Sermão da Montanha. Ao mesmo tempo que fica fascinado com suas descobertas, Marco Polo sofre uma perseguição implacável de forças ocultas que farão de tudo para silenciar sua voz. O homem mais feliz da história é a continuação da saga que começou com O homem mais inteligente da história, mas os livros podem ser lidos separadamente, sem nenhum prejuízo para o leitor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8543105277"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543105277"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ok3itAEACAAJ&dq=isbn:9788543105277&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ok3itAEACAAJ&dq=isbn:9788543105277&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Homem_Mais_Feliz_Da_Hist%C3%B3ria.html?hl=&id=ok3itAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ok3itAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O homem mais feliz da história é um romance protagonizado pelo psiquiatra Marco Polo, um pensador ateu e mundialmente reconhecido que ousa estudar a complexa mente de Jesus sob o ângulo da ciência."
+   }
+  }
+ ]
+}

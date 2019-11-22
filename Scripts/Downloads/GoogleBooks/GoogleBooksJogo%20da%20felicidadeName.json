@@ -1,0 +1,827 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 453,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "u8gFCwAAQBAJ",
+   "etag": "7WVbp48gL34",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u8gFCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jogo da Felicidade",
+    "authors": [
+     "Bruna Lombardi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2015-12-04",
+    "description": "Jogo da Felicidade é um desses livros essenciais que surgem para nos acompanhar para sempre. É um oráculo moderno que decifra e revela, em 21 capítulos, as etapas da jornada de todos nós em busca dos nossos sonhos e desejos.As páginas consultadas \"ao acaso\" fornecem mensagens para o momento que vivemos, para que possamos descobrir em que parte do percurso estamos e o que precisamos fazer para alcançar o que mais desejamos, desde as coisas mais simples até as mais grandiosas, como um trabalho, um projeto ou uma história de amor.É um livro mágico, misterioso, que ao mesmo tempo consegue ser transparente e luminoso como um cristal. Ele nos mostra que qualquer caminho traçado segue um desenho claro e nítido, que obedece às leis do Universo e revela segredos, ajuda a superar obstáculos e dificuldades, ensinando como é simples ser feliz. A maravilha deste novo trabalho de Bruna Lombardi é proporcionar orientação precisa e trazer inspiração e luz para o trajeto de todos nós.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543103136"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543103134"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u8gFCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u8gFCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u8gFCwAAQBAJ&printsec=frontcover&dq=Jogo+da+felicidade&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u8gFCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u8gFCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u8gFCwAAQBAJ&rdid=book-u8gFCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.899E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jogo_da_Felicidade-sample-epub.acsm?id=u8gFCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jogo_da_Felicidade-sample-pdf.acsm?id=u8gFCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u8gFCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jogo da Felicidade é um desses livros essenciais que surgem para nos acompanhar para sempre. É um oráculo moderno que decifra e revela, em 21 capítulos, as etapas da jornada de todos nós em busca dos nossos sonhos e desejos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vDMtDwAAQBAJ",
+   "etag": "MDcfbq2a5rs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vDMtDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jogo de cena em Bolzano",
+    "authors": [
+     "Sándor Márai"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2017-08-11",
+    "description": "Em romance inédito no Brasil, Sándor Marái explora a melancolia e a irreverência do veneziano Giacomo Casanova. Condenado pela Inquisição por levar uma vida herética, Giacomo Casanova passou dezesseis meses numa prisão de segurança máxima até dela conseguir fugir. Partindo desse episódio, Sándor Márai empresta artifícios da opereta para criar um envolvente jogo de cena, imaginando que, três dias depois da fuga, os forasteiros teriam chegado em Bolzano, no extremo norte da Itália. Lá, o mal-afamado veneziano usará todas as artimanhas para bancar sua dispendiosa vida, mas terá seu destino abalado pelo encontro com fantasmas de um passado nem tão distante. Espécie de prévia de As brasas, este romance de 1940, até agora inédito no Brasil, também coloca em cena dois homens que se veem como joguetes do habilidoso ficcionista. O grande autor húngaro, além de inspirado criador de aforismos, demonstra mais uma vez sua maestria na construção de monólogos filosóficos saborosos, que tocam nos temas mais caros à literatura: destino, amor, honra, vaidade, vida e morte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543810409"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "854381040X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vDMtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vDMtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vDMtDwAAQBAJ&pg=PT101&dq=Jogo+da+felicidade&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vDMtDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vDMtDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vDMtDwAAQBAJ&rdid=book-vDMtDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jogo_de_cena_em_Bolzano-sample-epub.acsm?id=vDMtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jogo_de_cena_em_Bolzano-sample-pdf.acsm?id=vDMtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vDMtDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com os braços cruzados permanecia em pé diante dela e, com gentileza e \u003cbr\u003e\ndeterminação, decretou como uma sentença: — A \u003cb\u003efelicidade\u003c/b\u003e, senhora. A mulher \u003cbr\u003e\nabaixou a cabeça e levou o lenço aos olhos. Chorava em silêncio. No fim, \u003cbr\u003e\nsuspirou&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G3OnO2HtKtwC",
+   "etag": "uaJizvtJ1kg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G3OnO2HtKtwC",
+   "volumeInfo": {
+    "title": "AS 70 LEIS para alcançar Sucesso, Dinheiro, Saúde e Felicidade simultaneamente",
+    "publisher": "Luiz Mauro Pinto da Silva",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788590354611"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "859035461X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G3OnO2HtKtwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G3OnO2HtKtwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G3OnO2HtKtwC&pg=PA78&dq=Jogo+da+felicidade&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G3OnO2HtKtwC&dq=Jogo+da+felicidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/AS_70_LEIS_para_alcan%C3%A7ar_Sucesso_Dinhei.html?hl=&id=G3OnO2HtKtwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G3OnO2HtKtwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "18a Lei- \u003cb\u003eJOGO\u003c/b\u003e Uns dizem que a vida é uma luta, outros dizem que a vida é um \u003cbr\u003e\n\u003cb\u003eJOGO\u003c/b\u003e. Ébem verdade que tanto uma luta quanto um \u003cb\u003eJOGO\u003c/b\u003e levam a vitórias ou \u003cbr\u003e\nderrotas, dependendo de como lutamos ou pgamos. Noentanto é preciso que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DQVDDwAAQBAJ",
+   "etag": "4oY8j5B1ZI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DQVDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A fórmula da felicidade",
+    "subtitle": "Como um engenheiro da Google encontrou a equação do bem-estar e da alegria duradoura",
+    "authors": [
+     "Mo Gawdat"
+    ],
+    "publisher": "LEYA",
+    "publishedDate": "2017-11-01",
+    "description": "\"Uma história pessoal comovente e uma análise preciosa daquilo que mais buscamos na vida, com um jeito simples de alcançá-lo.\" - Sergey Brin, cofundador da Google A fórmula para encontrar a felicidade está ao alcance de todos Engenheiro bem sucedido e alto executivo do Google, Mo Gawat, estava cansado de sentir-se infeliz apesar de seu sucesso profissional e financeiro. Partindo do princípio de que os seres humanos foram criados para serem felizes e utilizando o raciocínio lógico habitual à sua profissão, ele desenvolveu um algoritmo com base no entendimento de como o cérebro processa a alegria e a tristeza, encontrando, literalmente, uma fórmula para a felicidade. Mas, alguns anos depois, a vida o colocou à prova com a morte precoce e repentina de seu filho Ali, um jovem extremamente inspirador, adorado por todos que o conheciam. Como parte de sua recuperação diante da perda terrível que enfrentou - e também como uma forma de homenagear Ali, Mo traçou para si a meta mais ambiciosa de sua vida: compartilhar sua fórmula e ajudar a maior quantidade possível de pessoas a encontrar a felicidade permanente. Em A fórmula da felicidade, ele nos mostra, de forma simples e muito concreta, o que devemos fazer para encontrá-la e nunca mais perdê-la de vista, não importando quais obstáculos enfrentemos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544106426"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544106420"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DQVDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DQVDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DQVDDwAAQBAJ&pg=PT382&dq=Jogo+da+felicidade&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DQVDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DQVDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.08,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DQVDDwAAQBAJ&rdid=book-DQVDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9000000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8080000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_f%C3%B3rmula_da_felicidade-sample-epub.acsm?id=DQVDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DQVDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando os \u003cb\u003ejogos\u003c/b\u003e são muito fáceis, não há desafio. É lento e chato, e isso não é \u003cbr\u003e\nnem um pouco divertido. Só quando o \u003cb\u003ejogo\u003c/b\u003e fica mais difícil nos envolvemos de \u003cbr\u003e\nverdade, aprendemos e desenvolvemos novas habilidades. Os melhores&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G47R3GFA2aoC",
+   "etag": "pqsBBzrv7JQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G47R3GFA2aoC",
+   "volumeInfo": {
+    "title": "12 Segredos Simples Da Felicidade Num Mundo Caótico",
+    "authors": [
+     "Glenn Van Ekeren"
+    ],
+    "publisher": "Editora Cultrix",
+    "description": "Por meio de histórias reais, sugestões práticas, criações surpreendentes e uma grande dose de humor, Glenn Van Ekeren ajuda você a tomar as rédeas da própria vida e a multiplicar as chances de ser feliz. O mundo de hoje está em constante mudança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531607876"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531607875"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G47R3GFA2aoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G47R3GFA2aoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G47R3GFA2aoC&pg=PA140&dq=Jogo+da+felicidade&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G47R3GFA2aoC&dq=Jogo+da+felicidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/12_Segredos_Simples_Da_Felicidade_Num_Mu.html?hl=&id=G47R3GFA2aoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G47R3GFA2aoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "À noite, ele trabalhava desenvolvendo o projeto de um \u003cb\u003ejogo\u003c/b\u003e de tabuleiro no qual \u003cbr\u003e\nvárias pessoas poderiam jogar ao mesmo tempo. A visão de Darrow era que \u003cbr\u003e\nhouvesse um \u003cb\u003ejogo\u003c/b\u003e desse em cada residência. A primeira companhia que \u003cbr\u003e\ncomprou&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P1etxFj3hGoC",
+   "etag": "bglOnMTgUvg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P1etxFj3hGoC",
+   "volumeInfo": {
+    "title": "12 Segredos Simples Da Felicidade",
+    "authors": [
+     "Glenn Van Ekeren"
+    ],
+    "publisher": "Editora Cultrix",
+    "description": "Este livro prático e estimulante está cheio da sabedoria intuitiva de como encontrar a felicidade por meio de relacionamento mais satisfatórios. Você se sentirá inspirado a reacender a chama das suas amizades, do seu casamento, da sua família e dos seus relacionamentos profissionais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531607086"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531607080"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=P1etxFj3hGoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=P1etxFj3hGoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=P1etxFj3hGoC&pg=PA106&dq=Jogo+da+felicidade&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=P1etxFj3hGoC&dq=Jogo+da+felicidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/12_Segredos_Simples_Da_Felicidade.html?hl=&id=P1etxFj3hGoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=P1etxFj3hGoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu tinha expectativas ambiciosas e às vezes irreais. Eu justificava facilmente as \u003cbr\u003e\nminhas exigências tentando motivar meu filho a ser o melhor possível. Entretanto\u003cbr\u003e\n, durante um \u003cb\u003ejogo\u003c/b\u003e, extrapolei meus privilégios de pai. O \u003cb\u003ejogo\u003c/b\u003e já estava ganho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QfynBAAAQBAJ",
+   "etag": "c6JvK9Ln68I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QfynBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Shalimar, o equilibrista",
+    "authors": [
+     "Salman Rushdie"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2005-06-24",
+    "description": "Todos os temas recorrentes na obra de Salman Rushdie concorrem na trama de seu nono romance e se combinam para fazer de Shalimar, o equilibrista a narrativa mais impactante do autor de Os filhos da meia-noite, Haroun e o Mar de Histórias e O último suspiro do mouro. É uma história de amor e vingança, com todos os ingredientes dos grandes épicos: guerras, revoluções, atos heróicos, assassinatos, tabus violados, destinos interrompidos e grandes deslocamentos no espaço, ao longo de sessenta anos de história do século XX. No cenário das questões políticas mais nevrálgicas da história contemporânea, Rushdie constrói um enredo em que a paixão súbita e proibida de um embaixador americano por uma dançarina belíssima de etnia hindu, habitante da Caxemira, desencadeia uma série de acontecimentos que apontará para os vínculos complexos entre Ocidente e Oriente nos dias de hoje. Com avanços e recuos no andamento narrativo, Rushdie conduz as histórias dos personagens em vias paralelas, mas as entrecruza magistralmente à medida que a obra avança. Os pontos de contato entre a história da Índia, a política dos Estados Unidos durante a Guerra Fria e a formação dos grupos extremistas islâmicos depois da queda da ex-União Soviética vão se tornando cada vez mais estreitos, relacionando-se às histórias ficcionais de Max Ophuls, Boonyi Kaul e Shalimar, o equilibrista. No romance, as esferas da ficção, da história, do mito e da política se confundem e ganham estatuto artístico excepcional. A função de Shalimar, o equilibrista, é tentar desvendar o sentido da desarmonia que transformou sua vida em escombros. Para isso, durante sua representação - que outros chamariam vida -, terá de elevar-se por cima da copa de uma árvore em chamas e equilibrar-se numa corda feita de ar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580865400"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580865409"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QfynBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QfynBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QfynBAAAQBAJ&pg=PT76&dq=Jogo+da+felicidade&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QfynBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QfynBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QfynBAAAQBAJ&rdid=book-QfynBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.8E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.8E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Shalimar_o_equilibrista-sample-epub.acsm?id=QfynBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Shalimar_o_equilibrista-sample-pdf.acsm?id=QfynBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QfynBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“Se você não fosse tão duro consigo mesmo”, Abdullah disse uma vez a Bombur, \u003cbr\u003e\n“talvez pudesse ser mais brando com os outros e se apresentar melhor.” Bombur \u003cbr\u003e\narrepiou-se. “Não estou no \u003cb\u003ejogo da felicidade\u003c/b\u003e”, disse, duro. “Estou no."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pLYfAwAAQBAJ",
+   "etag": "txuJLugVM/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pLYfAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Por fim... a felicidade",
+    "authors": [
+     "Barbara Wallace"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2014-04-01",
+    "description": "Ela tinha renunciado ao amor... Liz Strauss era a rainha da ordem e do controlo. Como mãe solteira, tinha de o ser, mas a atração que sentia pelo novo chefe, Charles Bishop, fez com que o seu mundo ordenado ficasse de pernas para o ar. De repente, as preocupações em relação ao futuro do seu filho foram substituídas por sonhos românticos... Tinham passado muitos anos desde a última vez que Liz confiara em ninguém. Partilhar beijos apaixonados com Charles era uma coisa, mas acreditar que aquela camada de gelo exterior escondia um coração que pulsaria por ela para sempre era outra muito diferente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788468751238"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8468751235"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pLYfAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pLYfAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pLYfAwAAQBAJ&pg=PT78&dq=Jogo+da+felicidade&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pLYfAwAAQBAJ&dq=Jogo+da+felicidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Por_fim_a_felicidade.html?hl=&id=pLYfAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Por_fim_a_felicidade-sample-epub.acsm?id=pLYfAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Por_fim_a_felicidade-sample-pdf.acsm?id=pLYfAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pLYfAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um dia, sentindo-se culpado, levou-me a um \u003cb\u003ejogo\u003c/b\u003e de beisebol e tive a sorte de \u003cbr\u003e\napanhar esta bola que um jogador atirara ao público – Charles pegou na bola e \u003cbr\u003e\natirou-a ao ar. – Divertimo-nos nesse dia e Ron disse-me que da próxima vez&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JIx0KwnoJRsC",
+   "etag": "Nl4Ebw0E9do",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JIx0KwnoJRsC",
+   "volumeInfo": {
+    "title": "Felicidade Já!",
+    "authors": [
+     "Robert Holden"
+    ],
+    "publisher": "Butterfly Editora",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8588477378"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588477377"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JIx0KwnoJRsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JIx0KwnoJRsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JIx0KwnoJRsC&pg=PA92&dq=Jogo+da+felicidade&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JIx0KwnoJRsC&dq=Jogo+da+felicidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Felicidade_J%C3%A1.html?hl=&id=JIx0KwnoJRsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JIx0KwnoJRsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ogo no início do meu trabalho na Clínica do Riso, desenvolvi uma série de \u003cbr\u003e\nexercícios e técnicas chamados &quot;\u003cb\u003ejogos\u003c/b\u003e de crescimento criativo&quot; para ... Muitos \u003cbr\u003e\ndeles surgiram espontaneamente e são utilizados até hoje no Projeto \u003cb\u003eFelicidade\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hQgITMhu75EC",
+   "etag": "r5Qh2sI1lis",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hQgITMhu75EC",
+   "volumeInfo": {
+    "title": "A Felicidade",
+    "authors": [
+     "Richard Paul Evans"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-04-01",
+    "description": "Junte-se a um dos mais adorados contadores de histórias norte-americanos, numa caminhada como nenhuma outra: a busca incessante de um homem pela esperança. Ainda cambaleante pela perda súbita da esposa, da casa e da empresa, Alan Christoffersen, um ex-publicitário de sucesso, deixou tudo que conhecia para trás e partiu numa extraordinária travessia pelo país. Levando somente sua mochila, saiu de Seattle em direção a Key West, ponto mais distante em seu mapa. Agora, já quase na metade de sua trilha, Alan segue caminhando quase 160 quilômetros, entre Dakota do Sul e St. Louis, mas são as pessoas que ele conhece ao longo do caminho que dão o verdadeiro sentido de sua jornada: uma mulher misteriosa que segue Alan por quase dois quilômetros, o caçador de fantasmas que percorre túmulos à procura da esposa, o idoso polonês que dá uma carona a ele e compartilha uma história que Alan jamais esquecerá. Repleto de verdade e sabedoria, A Felicidade é um romance inspirador sobre esperança, cura, graça divina e o significado da vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581780696"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581780695"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.21.22.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hQgITMhu75EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hQgITMhu75EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hQgITMhu75EC&pg=PT137&dq=Jogo+da+felicidade&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hQgITMhu75EC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hQgITMhu75EC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hQgITMhu75EC&rdid=book-hQgITMhu75EC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Felicidade-sample-epub.acsm?id=hQgITMhu75EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hQgITMhu75EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você não é meu chefe, Alan. – Ele voltou ao \u003cb\u003ejogo\u003c/b\u003e. Honestamente, meu primeiro \u003cbr\u003e\ninstinto foi socar o garoto, mas eu duvido que isso teria feito sucesso com seus \u003cbr\u003e\npais. Incerto quanto à melhor forma de lidar com a situação, eu apenas voltei à&nbsp;..."
+   }
+  }
+ ]
+}

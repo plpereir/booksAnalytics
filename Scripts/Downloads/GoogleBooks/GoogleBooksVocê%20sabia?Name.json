@@ -1,0 +1,766 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 474,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "A7_yfk487wEC",
+   "etag": "WqTB91RDfrI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A7_yfk487wEC",
+   "volumeInfo": {
+    "title": "Coleção Você Sabia - Preservação Do Meio Ambiente",
+    "authors": [
+     "MIGUEL MENDES"
+    ],
+    "publisher": "Globo Livros",
+    "description": "Neste livro, a Turma do Sítio vive muitas aventuras e conta tudo o que aprendeu sobre a importância do meio ambiente além de dar dicas de como preservá-lo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525045217"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525045218"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A7_yfk487wEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A7_yfk487wEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=A7_yfk487wEC&pg=PA2&dq=Voc%C3%AA+sabia%3F&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=A7_yfk487wEC&dq=Voc%C3%AA+sabia%3F&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cole%C3%A7%C3%A3o_Voc%C3%AA_Sabia_Preserva%C3%A7%C3%A3o_Do_M.html?hl=&id=A7_yfk487wEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A7_yfk487wEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0vNxDwAAQBAJ",
+   "etag": "UwruaMgtbR8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0vNxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Você Sabia?",
+    "authors": [
+     "Cristiano"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "São mais de 100 curiosidades bíblicas para você aprender de uma forma divertida.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24802"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 45,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0vNxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0vNxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0vNxDwAAQBAJ&printsec=frontcover&dq=Voc%C3%AA+sabia%3F&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0vNxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0vNxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0vNxDwAAQBAJ&rdid=book-0vNxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_Sabia-sample-pdf.acsm?id=0vNxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0vNxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "São mais de 100 curiosidades bíblicas para você aprender de uma forma divertida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9mhnDwAAQBAJ",
+   "etag": "qtPL27EowDs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9mhnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O que os donos do poder não querem que você sabia",
+    "authors": [
+     "Eduardo Moreira"
+    ],
+    "publisher": "Alaúde Editorial",
+    "publishedDate": "2017-10-08",
+    "description": "Eleito um dos três melhores economistas do Brasil, Eduardo Moreira revela como funciona o complexo sistema financeiro, econômico e político do capitalismo, para que o leitor possa tomar as rédeas do seu dinheiro e da própria vida. O autor desvenda as estruturas que regem o poder, e denuncia as maneiras pelas quais alguns poucos privilegiados influenciam opiniões para manter a ordem vigente. Uma obra esclarecedora que apresenta, como o próprio autor provoca, \"as coisas como elas são\", oferecendo ferramentas para se fazer as perguntas corretas com autonomia, sem cair nas tantas armadilhas de falsas premissas cujas verdades os donos do poder não querem que você saiba.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578814755"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578814754"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9mhnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9mhnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9mhnDwAAQBAJ&pg=PT28&dq=Voc%C3%AA+sabia%3F&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9mhnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9mhnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9mhnDwAAQBAJ&rdid=book-9mhnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.68E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.512E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_os_donos_do_poder_n%C3%A3o_querem_que-sample-epub.acsm?id=9mhnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9mhnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fatos que mudarão para sempre a forma como você lida com suas finanças e \u003cbr\u003e\nconsequentemente com seus bancos. No bom e velho estilo “\u003cb\u003eVocê sabia\u003c/b\u003e?”, as \u003cbr\u003e\nfrases a seguir representarão para a maioria dos leitores uma mudança de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kgAsAAAAYAAJ",
+   "etag": "yVz58SHFGQw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kgAsAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Você sabia?",
+    "subtitle": "4 anos de governo 1995-1998",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173006254141"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "São Paulo (Brazil : State)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kgAsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kgAsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kgAsAAAAYAAJ&q=Voc%C3%AA+sabia%3F&dq=Voc%C3%AA+sabia%3F&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kgAsAAAAYAAJ&dq=Voc%C3%AA+sabia%3F&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Voc%C3%AA_sabia.html?hl=&id=kgAsAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kgAsAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IA4qDwAAQBAJ",
+   "etag": "ARKM3C0vCAo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IA4qDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Você Sabia?",
+    "authors": [
+     "Lukas Marques",
+     "Daniel Molo"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2017-06-01",
+    "description": "Nada escapa ao olhar curioso de Lukas Marques e Daniel Mologni, criadores do Você sabia?, canal de curiosidades no YouTube, com mais de 7 milhões de seguidores. Com bom humor, irreverência e muita informação, eles conquistaram a internet e agora vão invadir as livrarias com este livro repleto de fatos curiosos, bizarros e interessantes. Você entraria na Deep Web? Tem medo de histórias sobrenaturais? Já viu ou acredita em extraterrestres? Comeria um queijo vivo? E o que aconteceria se, do nada, a Terra parasse de girar? E que tal conhecer o objeto mais perigoso do mundo? Sabe da existência dos monstros marinhos?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542210576"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542210573"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.22.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IA4qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IA4qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IA4qDwAAQBAJ&pg=PT2&dq=Voc%C3%AA+sabia%3F&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IA4qDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IA4qDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IA4qDwAAQBAJ&rdid=book-IA4qDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_Sabia-sample-epub.acsm?id=IA4qDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_Sabia-sample-pdf.acsm?id=IA4qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IA4qDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CATALOGAÇÃO NA PUBLICAÇÃO SINDICATO NACIONAL DOS EDITORES DE \u003cbr\u003e\nLIVROS, RJ M741v Mologni, Daniel \u003cb\u003eVocê sabia\u003c/b\u003e?: + de 400 coisas que você \u003cbr\u003e\ndeveria saber / Daniel Mologni, Lukas Marques. - 1. ed. - São Paulo: Planeta, \u003cbr\u003e\n2017."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z9a8pwAACAAJ",
+   "etag": "Jb40i0yI42k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z9a8pwAACAAJ",
+   "volumeInfo": {
+    "title": "VOCE SABIA ? - ATIVIDADES SERIE AZUL",
+    "authors": [
+     "JOSE CARLOS MARTINEZ"
+    ],
+    "description": "Este livro traz uma série de curiosidades como - você sabia que um ovo de galinha pode pesar meio quilo? Além de muitas brincadeiras como liga-pontos, charadas, jogo dos erros....",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532223974"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532223975"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 16,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Z9a8pwAACAAJ&dq=Voc%C3%AA+sabia%3F&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Z9a8pwAACAAJ&dq=Voc%C3%AA+sabia%3F&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/VOCE_SABIA_ATIVIDADES_SERIE_AZUL.html?hl=&id=Z9a8pwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Z9a8pwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro traz uma série de curiosidades como - você sabia que um ovo de galinha pode pesar meio quilo? Além de muitas brincadeiras como liga-pontos, charadas, jogo dos erros...."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RvRxDwAAQBAJ",
+   "etag": "aLrjysB3mBI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RvRxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Músico Adorador",
+    "authors": [
+     "Luiz"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A música cristã é um instrumento de Deus e o músico o fiel condutor deste instrumento. A música genuinamente cristã é útil para evangelizar, encorajar, repreender, alegrar e fixar as promessas de Deus, pois no seu bojo, há nada menos que a Verdade de Deus musicalizada. Antes de você ser músico é adorador. O livro Músico Adorador vai confrontar você com o real papel do músico para o Senhor. Deus quer mais do que belas melodias, ritmos empolgantes, Ele quer o caráter do adorador. Seja Músico Adorador.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24857"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RvRxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RvRxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RvRxDwAAQBAJ&pg=PA194&dq=Voc%C3%AA+sabia%3F&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RvRxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RvRxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RvRxDwAAQBAJ&rdid=book-RvRxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/M%C3%BAsico_Adorador-sample-pdf.acsm?id=RvRxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RvRxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eVocê sabia\u003c/b\u003e que a 1a edição do “Cantor Cristão” só tinha 16 hinos em 1891? \u003cbr\u003e\n\u003cb\u003eVocê sabia\u003c/b\u003e que o 1o hino registrado na Bíblia foi aquele cantado por Moisés \u003cbr\u003e\ndepois da passagem pelo Mar Vermelho? Êxodo 15:1-18. \u003cb\u003eVocê sabia\u003c/b\u003e que \u003cbr\u003e\nMusiquim é&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ULxxDwAAQBAJ",
+   "etag": "Q+1+Cr69VZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ULxxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Poesias De Dentro De Mim",
+    "authors": [
+     "Clóvis"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "POESIAS DE DENTRO DE MIM é uma obra de autoria de Clóvis Oliveira Cardoso. um poeta que está sempre enaltecendo o amor por acreditar na poesia. Aqui ele mostra a sutileza que Deus lhe deu e diz que sempre acreditou no amor e que o bem sobrepujará o mal, o amor vencerá o ódio em todas as batalhas. Clóvis acredita que apesar da violência se alastrar pelo mundo, ainda podemos consertar usando simplesmente o amor como a mior de todas as armas. O poeta diz que só o amor constroi e nesse livro ele mostra em cada verso, em cada rima, em cada poesia que somos capazes de deixar um mundo melhor para as futuras gerações. O seu livro está muito bem feito e bem encadernado. Vale à pena ser lido principalmente pelas pessoas que acreditam no amor.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU17508"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 83,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ULxxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ULxxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ULxxDwAAQBAJ&pg=PA73&dq=Voc%C3%AA+sabia%3F&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ULxxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ULxxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ULxxDwAAQBAJ&rdid=book-ULxxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Poesias_De_Dentro_De_Mim-sample-pdf.acsm?id=ULxxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ULxxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eVocê sabia\u003c/b\u003e? \u003cb\u003eVocê sabia\u003c/b\u003e que eu já estou lhe amando? Se não sabia... Fique \u003cbr\u003e\nsabendo agora! \u003cb\u003eVocê sabia\u003c/b\u003e que de alegria estou até delirando? Sinto uma \u003cbr\u003e\nalegria que no meu peito aflora. \u003cb\u003eVocê sabia\u003c/b\u003e que sou louco? Se não sabia sinta \u003cbr\u003e\nos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GlC0vQEACAAJ",
+   "etag": "AnOVXlmOgN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GlC0vQEACAAJ",
+   "volumeInfo": {
+    "title": "Você sabia?",
+    "subtitle": "curiosidades sobre animais",
+    "authors": [
+     "Abdias Campos"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1057363596"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 8,
+    "printType": "BOOK",
+    "categories": [
+     "Animals"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GlC0vQEACAAJ&dq=Voc%C3%AA+sabia%3F&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GlC0vQEACAAJ&dq=Voc%C3%AA+sabia%3F&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Voc%C3%AA_sabia.html?hl=&id=GlC0vQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GlC0vQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1wvSXwAACAAJ",
+   "etag": "RsZMx9p5NYE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1wvSXwAACAAJ",
+   "volumeInfo": {
+    "title": "Você sabia, trabalhador?",
+    "subtitle": "as conquistas do trabalhador brasileiro de Getúlio a Jango",
+    "authors": [
+     "Orlando Campos"
+    ],
+    "publishedDate": "1964",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:79495951"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 38,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1wvSXwAACAAJ&dq=Voc%C3%AA+sabia%3F&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1wvSXwAACAAJ&dq=Voc%C3%AA+sabia%3F&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Voc%C3%AA_sabia_trabalhador.html?hl=&id=1wvSXwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1wvSXwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

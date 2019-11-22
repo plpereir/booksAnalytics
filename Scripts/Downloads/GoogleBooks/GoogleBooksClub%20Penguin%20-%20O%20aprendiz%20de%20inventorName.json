@@ -1,0 +1,170 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "I7dIwgEACAAJ",
+   "etag": "E5ZAetAqAks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I7dIwgEACAAJ",
+   "volumeInfo": {
+    "title": "Club Penguin - O Aprendiz De Inventor",
+    "subtitle": "MONTE SUA HISTORIA 2",
+    "authors": [
+     "Disney"
+    ],
+    "description": "Você acaba de ganhar um concurso de invenções, e o prêmio é passar um dia como aprendiz de Gary, o Pinguim Inventor! Você vai poder ajudá-lo a aperfeiçoar sua última criação - uma pracha veloz movida por foguetes ou uma máquina do tempo. Ou pode ser que aprendizado seja um desastre total. O que será que vai acontecer?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "850606113X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506061138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=I7dIwgEACAAJ&dq=Club+Penguin+-+O+aprendiz+de+inventor&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=I7dIwgEACAAJ&dq=Club+Penguin+-+O+aprendiz+de+inventor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Club_Penguin_O_Aprendiz_De_Inventor.html?hl=&id=I7dIwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I7dIwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você acaba de ganhar um concurso de invenções, e o prêmio é passar um dia como aprendiz de Gary, o Pinguim Inventor!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FnKAAgAAQBAJ",
+   "etag": "s5ZGg9oaC5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FnKAAgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Alfageme de Santarém",
+    "subtitle": "",
+    "authors": [
+     "Almeida Garrett"
+    ],
+    "publisher": "Ediçoes Vercial",
+    "publishedDate": "2014-01-06",
+    "description": "O amor é essencial parte do drama, porque o drama é a vida, e o amor a essencial parte da vida. Em Alda está o amor puro, e estreme de vaidade, muito menos raro na mulher que no homem, mas sempre raro. Em D. Guiomar o comum dos amores vulgares, cuja base de composição é a vaidade, e que segundo o temperamento ou o acaso deixam de preponderar mais ou menos o instinto sensual, assim se chamam depois criminosos ou virtuosos na estúpida e falsa linguagem do mundo convencional. Delineou-se este drama em meados de 1839, e efetivamente se compôs agora.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897001413"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897001417"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FnKAAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FnKAAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FnKAAgAAQBAJ&printsec=frontcover&dq=Club+Penguin+-+O+aprendiz+de+inventor&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FnKAAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FnKAAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.77,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.77,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FnKAAgAAQBAJ&rdid=book-FnKAAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.277E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.277E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Alfageme_de_Santar%C3%A9m-sample-epub.acsm?id=FnKAAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Alfageme_de_Santar%C3%A9m-sample-pdf.acsm?id=FnKAAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FnKAAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O amor é essencial parte do drama, porque o drama é a vida, e o amor a essencial parte da vida."
+   }
+  }
+ ]
+}

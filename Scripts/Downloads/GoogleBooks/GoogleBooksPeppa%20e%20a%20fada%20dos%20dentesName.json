@@ -1,0 +1,172 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qGoivgAACAAJ",
+   "etag": "fEiq7KXf70c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qGoivgAACAAJ",
+   "volumeInfo": {
+    "title": "PEPPA E A FADA DOS DENTES",
+    "authors": [
+     "MARK BAKER",
+     "NEVILE ASTLEY"
+    ],
+    "publishedDate": "2014-09-22",
+    "description": "Peppa perdeu seu primeiro dentinho. Ela colocou o dente embaixo do travesseiro e ficou esperando pela Fada dos Dentes. Será que ela virá?Inclui um envelope para o seu dentinho e uma carta para a Fada dos Dentes!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516092453"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516092450"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qGoivgAACAAJ&dq=Peppa+e+a+fada+dos+dentes&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qGoivgAACAAJ&dq=Peppa+e+a+fada+dos+dentes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PEPPA_E_A_FADA_DOS_DENTES.html?hl=&id=qGoivgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qGoivgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Peppa perdeu seu primeiro dentinho. Ela colocou o dente embaixo do travesseiro a ficou esperando pela Fada dos Dentes. Será que ela virá?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FZYUDgAAQBAJ",
+   "etag": "O0FVCemILBg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FZYUDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Terra Comunal",
+    "subtitle": "Marina Abramovic + MAI",
+    "authors": [
+     "Jochen Volz",
+     "Júlia Rebouças"
+    ],
+    "publisher": "Edições Sesc",
+    "publishedDate": "2017-02-08",
+    "description": "Esta publicação traduz a riqueza da exposição Terra Comunal: Marina Abramovic + MAI (Sesc Pompeia – São Paulo, 2015), que exibiu trabalhos de mais de quarenta anos da trajetória de Marina Abramovic. Com instalações e esculturas, filmes e uma série de eventos ao vivo, a exposição estimulou encontros entre visitantes e performers, ativando uma interação inerente às proposições da artista. Nesta obra, o leitor encontrará textos da historiadora de arte Sophie O'Brien, do filósofo Peter Pál Pelbart e da antropóloga Regina Müller, que estudam o trabalho aberto e colaborativo entre artista e espectador, os conceitos de presença e mistério, transcendência, transformação e humor na obra da artista sérvia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569298755"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8569298757"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 340,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FZYUDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FZYUDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FZYUDgAAQBAJ&printsec=frontcover&dq=Peppa+e+a+fada+dos+dentes&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FZYUDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FZYUDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FZYUDgAAQBAJ&rdid=book-FZYUDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.7E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Terra_Comunal-sample-epub.acsm?id=FZYUDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Terra_Comunal-sample-pdf.acsm?id=FZYUDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FZYUDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta publicação traduz a riqueza da exposição Terra Comunal: Marina Abramovic + MAI (Sesc Pompeia – São Paulo, 2015), que exibiu trabalhos de mais de quarenta anos da trajetória de Marina Abramovic."
+   }
+  }
+ ]
+}

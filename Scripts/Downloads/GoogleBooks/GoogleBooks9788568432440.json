@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fZg8vgAACAAJ",
+   "etag": "NtJWGwPe+nE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fZg8vgAACAAJ",
+   "volumeInfo": {
+    "title": "A GAROTA DINAMARQUESA",
+    "authors": [
+     "DAVID EBERSHOFF",
+     "PAULO REIS"
+    ],
+    "description": "Inspirado em uma história real, este romance inquietante, narrado com elegância e sutileza únicas, apresenta uma trama ousada que transcende os limites de sexo, gênero e localização histórica. A prosa rica e o discurso emocionado transformam esta obra numa história de amor poderosa, que marcará para sempre a vida do leitor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8568432441"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568432440"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fZg8vgAACAAJ&dq=isbn:9788568432440&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fZg8vgAACAAJ&dq=isbn:9788568432440&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_GAROTA_DINAMARQUESA.html?hl=&id=fZg8vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fZg8vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inspirado em uma história real, este romance inquietante, narrado com elegância e sutileza únicas, apresenta uma trama ousada que transcende os limites de sexo, gênero e localização histórica."
+   }
+  }
+ ]
+}

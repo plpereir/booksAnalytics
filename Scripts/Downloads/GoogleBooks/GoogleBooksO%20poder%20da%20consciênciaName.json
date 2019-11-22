@@ -1,0 +1,779 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 453,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QezWtgEACAAJ",
+   "etag": "p+68a8wCde4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QezWtgEACAAJ",
+   "volumeInfo": {
+    "title": "O Poder Da Consciência",
+    "authors": [
+     "Neville Goddard"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "859441904X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788594419040"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=QezWtgEACAAJ&dq=O+poder+da+consci%C3%AAncia&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QezWtgEACAAJ&dq=O+poder+da+consci%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Poder_Da_Consci%C3%AAncia.html?hl=&id=QezWtgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QezWtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YCZFDwAAQBAJ",
+   "etag": "OR/0b5qEBY4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YCZFDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O poder da autorresponsabilidade",
+    "subtitle": "A ferramenta comprovada que gera alta performance e resultados em pouco tempo",
+    "authors": [
+     "Paulo Vieira"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2018-01-25",
+    "description": "Muitas pessoas têm consciência de que precisam assumir as rédeas da própria vida, porém não sabem como fazer isso na prática. Este livro traz ao leitor o conceito de autorresponsabilidade. Trata-se de um manual que apresenta a metodologia das 6 leis para a conquista da autorresponsabilidade, de modo que o leitor assuma o comando de sua vida. Aplicando esse conceito, você será capaz de levar alta performance à vida pessoal e profissional, saindo de um estado não satisfatório para uma vida de abundância e de sucesso. Aqui você vai aprender a: 1. Calar-se em vez de criticar. 2. Dar sugestão em vez de reclamar. 3. Buscar a solução em vez de buscar culpados. 4. Fazer-se de vencedor em vez de vitimizar-se. 5. Aprender com os erros em vez de justificá-los. 6. Julgar as atitudes, e não as pessoas. Não adie mais a vida para a qual você está destinado. Assuma a responsabilidade e a construa!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202226"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202229"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YCZFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YCZFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YCZFDwAAQBAJ&pg=PT48&dq=O+poder+da+consci%C3%AAncia&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YCZFDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YCZFDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.34,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YCZFDwAAQBAJ&rdid=book-YCZFDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8340000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_autorresponsabilidade-sample-epub.acsm?id=YCZFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_autorresponsabilidade-sample-pdf.acsm?id=YCZFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YCZFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "disfuncional é uma noção incompleta, irreal e debilitada a respeito de quem é \u003cbr\u003e\nvocê e do mundo que \u003cb\u003eo\u003c/b\u003e cerca. A busca humana deveria ser uma jornada que \u003cbr\u003e\ninicia na \u003cb\u003econsciência\u003c/b\u003e disfuncional, passa pela \u003cb\u003econsciência\u003c/b\u003e relativa e termina na&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NSXkugEACAAJ",
+   "etag": "SFiQLPOO0Fo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NSXkugEACAAJ",
+   "volumeInfo": {
+    "title": "O Despertar Da Consciência",
+    "authors": [
+     "Neville Goddard"
+    ],
+    "description": "O Despertar da Consciência é uma reunião dos 7 livros da Série homônima ao título. Neste volume único, impresso, você encontra 7 livros de Neville Goddard, na íntegra: 1 - Ao Seu Comando + 2 - Sua Fé é Sua Fortuna + 3 - Oração: A Arte de Acreditar + 4 - O Sentimento é O Segredo + 5 - O Poder da Consciência + 6 - O Despertar da Imaginação + 7 - Tempo de Semear e Colher. Nesta Edição Especial, a Universo Livros, tem como objetivo oferecer um formato completo e acessível à todas as obras da Série: O Despertar da Consciência, para que a maioria daqueles que admiram as obras de Neville Goddard, possam adquiri-las fisicamente, de uma só vez, por um custo menor que a aquisição individual de cada um dos títulos. Para quem gosta de devorar um bom livro, este volume único é um prato cheio, uma ótima leitura para pequeno, médio e longo prazo. Para os estudantes dos ensinamentos de Neville, a reunião destas obras é um verdadeiro achado, e uma oportunidade única de adquirir este tesouro na forma de conhecimento. Agora esta é a sua vez de levar pra casa esta Edição Especial, e aplicando os ensinamentos e conhecimentos nela contidos, despertar de uma vez por todas o poder infinito do seu Verdadeiro Ser. OBS: Clique na Capa do Livro para ver uma pré visualização do conteúdo livro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8594419074"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788594419071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 684,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NSXkugEACAAJ&dq=O+poder+da+consci%C3%AAncia&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NSXkugEACAAJ&dq=O+poder+da+consci%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Despertar_Da_Consci%C3%AAncia.html?hl=&id=NSXkugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NSXkugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Despertar da Consciência é uma reunião dos 7 livros da Série homônima ao título."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dw3_3IveKBcC",
+   "etag": "2fxILI8fYkY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dw3_3IveKBcC",
+   "volumeInfo": {
+    "title": "Poder Pessoal Através Da Consciência, O",
+    "authors": [
+     "Sanaya Roman"
+    ],
+    "publisher": "Editora Pensamento",
+    "description": "Este novo livro de Sanaya Roman apresenta um curso eficaz e gradual sobre como relacionar-se com as energias sutis e invisíveis do mundo que nos cerca. O curso é ministrado por Orin, um sábio e gentil mestre espiritual canalizado pela autora. Usando os pr",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531508959"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531508950"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dw3_3IveKBcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dw3_3IveKBcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dw3_3IveKBcC&pg=PA176&dq=O+poder+da+consci%C3%AAncia&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dw3_3IveKBcC&dq=O+poder+da+consci%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poder_Pessoal_Atrav%C3%A9s_Da_Consci%C3%AAncia_O.html?hl=&id=dw3_3IveKBcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dw3_3IveKBcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Walsh Frances Vaughan Peça catálogo gratuito à EDITORA PENSAMENTO Rua \u003cbr\u003e\nDr. Mário Vicente, 374 - Fone: 272-1399 04270-000 - São Paulo, SP \u003cb\u003eO PODER\u003c/b\u003e \u003cbr\u003e\nPESSOAL ATRAVÉS DA \u003cb\u003eCONSCIÊNCIA\u003c/b\u003e Sanaya Roman Este novo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AlhVtgEACAAJ",
+   "etag": "6fhdBSTrbTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AlhVtgEACAAJ",
+   "volumeInfo": {
+    "title": "Ative O Poder Da Consciência E Seja Sua Melhor Ver",
+    "authors": [
+     "Julio Cesar Ferreira"
+    ],
+    "description": "No meio desse mundo acelerado e confunso em que vivemos, muitos perguntam: como posso ser realmente feliz? Como descobrir minha missão de vida? Como ter sucesso? E, a maioria da população não sabem justificar as razões de suas ações e vivem inconscientes, são facilmente dominados por suas emoções e vivem em um ciclo de vicioso de sobrevivência. A programação neurolinguística e a inteligência emocional alinhadas à espiritualidade faz com que voltemos o olhar para o tesouro inestimável que existe dentro de nós e permite ver a vida de forma mais simples e amorosa. Com uma visão inspiradora e sensível iremos evoluir à luz dos ensinamentos de Cristo rumo à paz interior. Este livro nósajudara a lidar com nossos pensamentos, sentimentos e relacionamentos, tendo em mente a gratidão e a harmonia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8551809016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551809013"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AlhVtgEACAAJ&dq=O+poder+da+consci%C3%AAncia&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AlhVtgEACAAJ&dq=O+poder+da+consci%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ative_O_Poder_Da_Consci%C3%AAncia_E_Seja_Sua.html?hl=&id=AlhVtgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AlhVtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No meio desse mundo acelerado e confunso em que vivemos, muitos perguntam: como posso ser realmente feliz?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0WHDRppQhmkC",
+   "etag": "N0RBNdVucp4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0WHDRppQhmkC",
+   "volumeInfo": {
+    "title": "O poder da visualização criativa",
+    "authors": [
+     "Elizabeth Mednicoff"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "description": "A Visualização Criativa é uma técnica que permite usar o poder da imaginação a seu favor, transformando imagens mentais em realidade. Trata-se de uma ferramenta que transforma essas imagens presentes em nosso inconsciente, nos libertando de antigos paradigmas e preconceitos e provocando alterações de dentro para fora, proporcionando mudanças físicas, emocionais e espirituais. O leitor poderá utilizar essa técnica para atingir e modificar qualquer campo, seja o físico, o mental, o emocional ou o espiritual, trazendo pra sua vida mudanças importantíssimas, grande crescimento, uma nova visão íntima, a força e o equilíbrio necessários para lidar com os fatos do dia-a-dia. Este livro contém exercícios que o ajudarão a utilizar o poder da Visualização Criativa de forma consciente para mentalizar todo os seus desejos e objetivos e alcançar o sucesso profissional, obter realização pessoal, atrair relacionamentos duradouros e saudáveis, melhorar sua saúde física e mental, alcançar a paz interior e muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599187661"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "859918766X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0WHDRppQhmkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0WHDRppQhmkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0WHDRppQhmkC&pg=PA81&dq=O+poder+da+consci%C3%AAncia&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0WHDRppQhmkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0WHDRppQhmkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0WHDRppQhmkC&rdid=book-0WHDRppQhmkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_visualiza%C3%A7%C3%A3o_criativa-sample-pdf.acsm?id=0WHDRppQhmkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0WHDRppQhmkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eConsciência\u003c/b\u003e x devaneio Temos que permitir que \u003cb\u003eo\u003c/b\u003e pensamento se processe \u003cbr\u003e\nespontaneamente desde que seja conscientemente percebido naquele \u003cbr\u003e\nmomento. A perda da \u003cb\u003econsciência\u003c/b\u003e ocorre sutilmente em milésimos de segundos, \u003cbr\u003e\nmomento&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HS996Pf06EgC",
+   "etag": "jnYX87iDMC4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HS996Pf06EgC",
+   "volumeInfo": {
+    "title": "Shakti - Os Mantras Da Energia Feminina",
+    "authors": [
+     "Thomas Ashley-farrand"
+    ],
+    "publisher": "Editora Pensamento",
+    "description": "Ao longo da história, muitas pessoas no Ocidente têm-se voltado para o Deus Pai pedindo bênção e orientação. Mas no Oriente, o Grande Feminino sempre esteve em alta estima, não como uma fonte secundária de poder, mas como o poder primordial, a shakti que flui através de nosso corpo e de toda a natureza. Séculos atrás, os videntes e sábios da Índia observaram que determinadas preces entoadas - os mantras sânscritos - nos conectam com essa energia feminina e aumentam a sua potência. Agora, em 'Shakti - Os mantras da energia feminina', o autor Thomas Ashley-Farrand compartilha os mitos hinduístas e impressionantes histórias reais provenientes de sua própria experiência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531514096"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531514098"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HS996Pf06EgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HS996Pf06EgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HS996Pf06EgC&pg=PA48&dq=O+poder+da+consci%C3%AAncia&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HS996Pf06EgC&dq=O+poder+da+consci%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Shakti_Os_Mantras_Da_Energia_Feminina.html?hl=&id=HS996Pf06EgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HS996Pf06EgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "3 Parvati \u003cb\u003eO Poder da Consciência\u003c/b\u003e e o Crescimento Espiritual Quando se sente \u003cbr\u003e\nmotivado a se livrar de um mau hábito, você decidiu crescer um pouco. \u003cb\u003eO poder\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eda consciência\u003c/b\u003e se moveu dentro de você, estimulando o poder mental de Jnana\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_5pEBAAAQBAJ",
+   "etag": "v71m8tWa/PM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_5pEBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O Poder da Afinidade",
+    "authors": [
+     "Gary Zukav"
+    ],
+    "publisher": "Larousse Lafonte",
+    "publishedDate": "2012-11-06",
+    "description": "Existe um clima de insegurança no mundo. As pessoas sentem dificuldade de confiar umas nas outras, em si mesmas e mais vulneráveis a cometer erros de avaliação em todos os tipos de relacionamentos: amorosos, amizades, na família e no trabalho. No entanto, há uma forma de lidar com esses sentimentos: fortalecer os laços verdadeiros já existentes e buscar conexões fortes com aqueles que vibrem sob a mesma sintonia. Gary Zukav oferece as chaves para aqueles que desejam fazer de suas relações interpessoais verdadeiras oportunidades para o desenvolvimento espiritual. Mostra como modificar as partes negativas em nossa personalidade e expandir as positivas para estabelecer conexões realmente profundas e enriquecedoras nos relacionamentos.Baseado no amor, na sabedoria e na alegria da convivência, este é um livro indispensável para quem deseja conquistar o poder autêntico sobre si mesmo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581860763"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581860761"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_5pEBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_5pEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_5pEBAAAQBAJ&pg=PA39&dq=O+poder+da+consci%C3%AAncia&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_5pEBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_5pEBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_5pEBAAAQBAJ&rdid=book-_5pEBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_da_Afinidade-sample-pdf.acsm?id=_5pEBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_5pEBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esse alguém fita \u003cb\u003eo\u003c/b\u003e horizonte e, no entanto, toda aquela extensão líquida é \u003cbr\u003e\napenas uma pequena parte do oceano à frente. ... Difere da \u003cb\u003econsciência\u003c/b\u003e de \u003cbr\u003e\ntodos aqueles que, desde \u003cb\u003eo\u003c/b\u003e alvorecer da humanidade, exploraram os domínios&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x1mPBejWbNUC",
+   "etag": "B98Bm0Gf31Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x1mPBejWbNUC",
+   "volumeInfo": {
+    "title": "O Poder da Ayahuasca",
+    "subtitle": "Como o chá do Santo Daime pode expandir nossa consciência.",
+    "authors": [
+     "Fabiano Vieira"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2012-06-03",
+    "description": "O livro mostra como a ayahuasca, também conhecida como o chá do Santo Daime, contribui para expandir nossa consciência e intensificar a presença do sagrado em nossas vidas. Utilizada por xamãs há milênios, a ayahuasca colabora para nos aproximar de entidades entidades espirituais e estados alterados da consciência. Sob seus efeitos, nos tornamos mais musicais, conseguimos curar doenças, avaliar o passado, prever melhor o futuro, reconhecer as amizades verdadeiras, afastar as ilusões, experimentar o ciclo de morte e renascimento, viver incorporações, espelhar o pensamento do outro e ter visões fantásticas. No livro, em cada seção, procuramos descrever esses efeitos e discuti-los. Também são apresentados cinco relatos de experiências do autor, além de dois capítulos que tratam do risco da bebida e sua possibilidade de experimentação por ateus.",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 169,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=x1mPBejWbNUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=x1mPBejWbNUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=x1mPBejWbNUC&dq=O+poder+da+consci%C3%AAncia&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=x1mPBejWbNUC&dq=O+poder+da+consci%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Poder_da_Ayahuasca.html?hl=&id=x1mPBejWbNUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x1mPBejWbNUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro mostra como a ayahuasca, também conhecida como o chá do Santo Daime, contribui para expandir nossa consciência e intensificar a presença do sagrado em nossas vidas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XR33NYd-HzgC",
+   "etag": "VIh3/Pw4nVo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XR33NYd-HzgC",
+   "volumeInfo": {
+    "title": "Autoterapia Psicológica",
+    "subtitle": "Autoanálise e Desenvolvimento da Consciência Psicossocial",
+    "authors": [
+     "Daniel Marques"
+    ],
+    "publisher": "22 Lions - www.22Lions.com",
+    "publishedDate": "2011-06-06",
+    "description": "“Se nunca alteras o teu pensamento, porque pensas?” Edward de Bono Ao longo da presente obra é descrito um modelo que promove o desenvolvimento de maior saúde mental num indivíduo. Este modelo tem por base os conhecimentos e experiência do autor no campo da saúde mental. Não pretende representar uma teoria única ou isenta de incorreções ou até mesmo infalível. Antes, concilia os princípios da saúde mental conhecidos e os sintetiza em estruturas de entendimento mais simples e práticas, as quais podem ser facilmente adotadas pelo indivíduo no sentido de aplicar a si mesmo. Pelas razões previamente mencionadas, procurou-se deixar de fora teorias complexas ou explicações difusas e incompatíveis sobre o que possa ser a saúde mental. Pelo contrário, efetuou-se uma simplificação dum modelo terapêutico, com o intuito de adaptar experiências prévias no campo educativo, mais especificamente para a autoaprendizagem, aplicadas em grande escala e sempre com elevados níveis de sucesso, para o campo psicológico. Poder-se-á dizer que a terapêutica aqui exposta une modelos educativos, teorias da psicologia contemporânea e de outras ciências da mente, bem como princípios religiosos, nomeadamente das muitas filosofias religiosas que referem o poder da consciência e da reflexão, bem como a capacidade de cada ser para transformar a sua própria realidade. Numa síntese a várias teorias modernas e mais amplamente aceites, formulou-se um modelo único, ainda que facilmente comparável a muitos outros, pois será sempre possível equiparar modelos que seguem os mesmo princípios e/ou objetivos. Os vários capítulos apresentados permitem dividir a terapêutica por fases, facilitando deste modo a sua aplicação. Todas as fases expostas se complementam e seguem um modelo construtivo, o qual facilita a sua assimilação bem como as aprendizagens e transformações pretendidas. Espera-se que, ao seguir o modelo aqui exposto, exatamente na ordem apresentada, o indivíduo se mostre mais eficaz na resolução dos seus problemas existenciais, quaisquer que estes sejam e qualquer que seja o modo como se apresentam. Importa notar, não obstante, que por este modelo seguir princípios bastante eficientes e previamente estudados em diversos campos, não sendo seguido como aqui é exposto, ou sendo modificado no seu uso, poderá trazer consequências negativas e graves, das quais o autor deste não se poderá responsabilizar. Importa ainda notar que esta terapêutica não pretende ser uma cura para todos os males dos quais uma pessoa possa padecer, e, como tal, é essencial que não substitua um acompanhamento médico, ou, quanto muito, uma avaliação médica. Espera-se, acima de tudo, que os conhecimentos aqui apresentados sejam aplicados com total responsabilidade. Dito isto, tudo o que se possa mais desejar não conseguirá ir mais além que a esperança na felicidade do leitor, ao seguir o caminho único na aventura de explorar a sua própria mente. Que a consciência, a razoabilidade e o bom senso o acompanhe, em toda a fé que possa ter em si mesmo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781463570798"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1463570791"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 29,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XR33NYd-HzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XR33NYd-HzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XR33NYd-HzgC&printsec=frontcover&dq=O+poder+da+consci%C3%AAncia&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XR33NYd-HzgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XR33NYd-HzgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.41,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.13,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XR33NYd-HzgC&rdid=book-XR33NYd-HzgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.141E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7130000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Autoterapia_Psicol%C3%B3gica-sample-epub.acsm?id=XR33NYd-HzgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Autoterapia_Psicol%C3%B3gica-sample-pdf.acsm?id=XR33NYd-HzgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XR33NYd-HzgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“Se nunca alteras o teu pensamento, porque pensas?” Edward de Bono Ao longo da presente obra é descrito um modelo que promove o desenvolvimento de maior saúde mental num indivíduo."
+   }
+  }
+ ]
+}

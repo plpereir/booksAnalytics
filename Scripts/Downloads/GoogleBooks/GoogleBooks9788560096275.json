@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0YEqAQAAIAAJ",
+   "etag": "M21pvyYs6SQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0YEqAQAAIAAJ",
+   "volumeInfo": {
+    "title": "O vendedor de sonhos",
+    "subtitle": "o chamado",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publishedDate": "2008",
+    "description": "Um homem desconhecido tenta salvar da morte um suicida. Ninguém sabe sua origem, seu nome sua história. Proclama aos quatro ventos que a sociedades modernas se converteram num hospício Global. Com uma eloquência cativante, começa a chamar seguidores para vender sonhos. Ao mesmo tempo em que arrebata as pessoas e as liberta do cárcere da rotina, arruma muitos inimigos. Será ele um sábio ou um louco?",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105132940995"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Existentialism"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 26,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0YEqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0YEqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0YEqAQAAIAAJ&dq=isbn:9788560096275&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0YEqAQAAIAAJ&dq=isbn:9788560096275&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_vendedor_de_sonhos.html?hl=&id=0YEqAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0YEqAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um homem desconhecido tenta salvar da morte um suicida."
+   }
+  }
+ ]
+}

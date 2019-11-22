@@ -1,0 +1,920 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 461,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wTScBAAAQBAJ",
+   "etag": "SIoVlLCkndM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wTScBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Mais tempo, mais dinheiro",
+    "subtitle": "Estratégias para uma vida mais equilibrada",
+    "authors": [
+     "Christian Barbosa",
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2014-10-16",
+    "description": "Tempo é dinheiro? Gustavo Cerbasi e Christian Barbosa – considerados pela revista Você S/A dois dos maiores especialistas do Brasil em finanças pessoais e gestão de tempo – acreditam que não.Algumas pessoas têm muito dinheiro mas vivem sem tempo para fazer as coisas de que mais gostam. Outras têm tempo de sobra, porém acabam não tirando proveito dessa disponibilidade por não possuírem recursos financeiros para isso.Ter mais tempo e mais dinheiro é o desejo de quase todo mundo, mas esses dois fatores precisam coexistir em equilíbrio para que se experimente o verdadeiro sentido de prosperidade. Nesse livro, você vai aprender a utilizar com sabedoria essas duas riquezas de forma sustentável não só em benefício próprio mas também das pessoas que o cercam.Os autores compartilham relatos de sucesso sobre como alcançaram a independência financeira e uma rotina com muito menos urgências. Também dão dicas detalhadas e práticas, que incluem classificar as atividades diárias em ordem de importância, restringir os grandes ladrões do tempo (como o e-mail e as redes sociais), melhorar a qualidade de consumo e investir em educação financeira.Se você pensar bem, o que falta mesmo no seu dia a dia não é dinheiro nem tempo, mas momentos de realização pessoal. Descubra como abandonar os hábitos que não contribuem para o seu crescimento e como realizar as mudanças necessárias para desfrutar melhor a vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543101538"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543101530"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.31.32.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wTScBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wTScBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wTScBAAAQBAJ&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wTScBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wTScBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.59,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wTScBAAAQBAJ&rdid=book-wTScBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.659E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_tempo_mais_dinheiro-sample-epub.acsm?id=wTScBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_tempo_mais_dinheiro-sample-pdf.acsm?id=wTScBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wTScBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Algumas pessoas têm muito dinheiro mas vivem sem tempo para fazer as coisas de que mais gostam. Outras têm tempo de sobra, porém acabam não tirando proveito dessa disponibilidade por não possuírem recursos financeiros para isso."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PbwzM-eooBgC",
+   "etag": "df73ZY4q8jw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PbwzM-eooBgC",
+   "volumeInfo": {
+    "title": "Mais tempo e mais dinheiro",
+    "authors": [
+     "Gustavo Cerbasi",
+     "Christian Barbosa"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "description": "O velho ditado 'tempo é dinheiro' já não é mais o mesmo. Em tempos de globalização e crise, pessoas com dinheiro não conseguem desfrutar do que ganham devido à falta de tempo; e outras, com tempo de sobra, não têm um centavo no bolso. Certamente, são riquezas distintas que, juntas, conferem um novo significado à palavra prosperidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578601225"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857860122X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PbwzM-eooBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PbwzM-eooBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PbwzM-eooBgC&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PbwzM-eooBgC&dq=Mais+tempo+mais+dinheiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mais_tempo_e_mais_dinheiro.html?hl=&id=PbwzM-eooBgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_tempo_e_mais_dinheiro-sample-epub.acsm?id=PbwzM-eooBgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_tempo_e_mais_dinheiro-sample-pdf.acsm?id=PbwzM-eooBgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PbwzM-eooBgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O velho ditado &#39;tempo é dinheiro&#39; já não é mais o mesmo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dU0bAgAAQBAJ",
+   "etag": "Sa54/IUZ3Y0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dU0bAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Investimentos inteligentes",
+    "subtitle": "Estratégias para multiplicar seu patrimônio com segurança e eficiência",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2013-11-18",
+    "description": "Investir quase sempre envolve abrir mão de alguma coisa e se arriscar. Mas esse processo pode ser feito com bem menos sofrimento e riscos do que se imagina. Em Investimentos inteligentes, o consultor financeiro Gustavo Cerbasi explica que não existe um único investimento perfeito, e sim maneiras mais indicadas de investir de acordo com as necessidades de cada pessoa.Quais são os obstáculos enfrentados por um investidor iniciante? O que não se deve fazer ao investir? Quais são as qualidades encontradas em um bom investidor? Cerbasi responde a essas e outras perguntas, desmistificando algumas questões e apresentando em linguagem acessível as melhores formas de investimentos, seja em renda fixa, ações, fundos, previdência privada ou imóveis, entre outras.Saber investir é fundamental para alcançar a tão sonhada independência financeira e um futuro mais tranquilo para você e seus dependentes. Se você ainda não sabe o que fazer com o seu dinheiro ou não está satisfeito com seus rendimentos atuais, chegou a hora de esclarecer as suas dúvidas e dar um bem-sucedido passo adiante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575429990"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857542999X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.23.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dU0bAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dU0bAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dU0bAgAAQBAJ&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dU0bAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dU0bAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dU0bAgAAQBAJ&rdid=book-dU0bAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.849E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Investimentos_inteligentes-sample-epub.acsm?id=dU0bAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Investimentos_inteligentes-sample-pdf.acsm?id=dU0bAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dU0bAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Investimentos inteligentes, o consultor financeiro Gustavo Cerbasi explica que não existe um único investimento perfeito, e sim maneiras mais indicadas de investir de acordo com as necessidades de cada pessoa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lS48AQAAQBAJ",
+   "etag": "1BgJJRXIDa8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lS48AQAAQBAJ",
+   "volumeInfo": {
+    "title": "60 estratégias práticas para ganhar mais tempo",
+    "authors": [
+     "Christian Barbosa"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2013-10-07",
+    "description": "Está cada vez mais difícil dar conta de tudo o que temos para fazer. Cuidar bem da carreira, da família, da equipe, da saúde, entre outras demandas, tornou-se o nosso grande desafio diário. Para conseguir incluir sem atropelos todas as nossas tarefas nas 24 horas do dia, precisamos de um método que nos leve a concluir cada atividade com tranquilidade e eficiência.Nesse livro, o especialista em gestão do tempo Christian Barbosa recorre ao seu comprovado método de produtividade pessoal e nos oferece um manual com dicas práticas e objetivas para resolver de uma vez por todas os problemas da má administração do tempo.As 60 estratégias que ele propõe englobam vários aspectos do dia a dia profissional e pessoal, como planejamento de carreira e empreendedorismo, trabalho em equipe e home office, uso eficiente da tecnologia, saúde, disposição e vida em família. O objetivo principal é ajudar você a ter mais produtividade e energia para fazer aquilo que realmente importa.Este guia prático e abrangente vai ensiná-lo a ter uma vida mais equilibrada e a lidar com as novidades de um mundo em constante mudança. Além disso, você vai aprender a:• Reduzir o número de atividades urgentes• Empregar ferramentas simples para ganhar mais tempo• Usar melhor o computador, o smartphone e a internet• Gerenciar o tempo da equipe e aumentar a produtividade• Aproveitar a vida em família• Arrumar tempo para fazer uma atividade física, aprender outro idioma ou realizar projetos pessoais",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575429891"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575429892"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.24.25.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lS48AQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lS48AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lS48AQAAQBAJ&dq=Mais+tempo+mais+dinheiro&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lS48AQAAQBAJ&dq=Mais+tempo+mais+dinheiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/60_estrat%C3%A9gias_pr%C3%A1ticas_para_ganhar_ma.html?hl=&id=lS48AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lS48AQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para conseguir incluir sem atropelos todas as nossas tarefas nas 24 horas do dia, precisamos de um método que nos leve a concluir cada atividade com tranquilidade e eficiência.Nesse livro, o especialista em gestão do tempo Christian ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BybEHrEw9HoC",
+   "etag": "P6cth7szfHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BybEHrEw9HoC",
+   "volumeInfo": {
+    "title": "Equilíbrio e resultado",
+    "authors": [
+     "Christian Barbosa"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2012-08-01",
+    "description": "Um dos assuntos mais debatidos dos últimos tempos diz respeito à qualidade de vida. Mas o que exatamente isso significa? Andamos tão estressados com o trabalho e outras pressões do dia a dia que muitas vezes deixamos de lado nosso bem-estar. E isso tem consequências em nossa saúde e em nossos relacionamentos. Neste livro, Christian Barbosa explica que, para viver bem, precisamos administrar nosso tempo de forma a alcançar níveis iguais – e elevados – de equilíbrio e resultado. Parece simples. Então por que nem todas as pessoas conseguem fazer isso? Muitas vezes queremos realizar algo que nos parece tão grandioso que achamos quase impossível e acabamos paralisados, sem dar o primeiro passo. Há muitos motivos para isso, como falta de tempo ou de energia, medo e autossabotagem. Em Equilíbrio e resultado, você descobrirá que é possível superar todos esses obstáculos. Para isso, terá que organizar suas ideias, priorizar seus objetivos e administrar melhor o tempo, que é a base de tudo em nossa vida. Ao fazer isso, poderá voltar ao caminho do sucesso, tendo uma vida mais feliz e plena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575428115"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857542811X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.41.37.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BybEHrEw9HoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BybEHrEw9HoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BybEHrEw9HoC&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BybEHrEw9HoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BybEHrEw9HoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BybEHrEw9HoC&rdid=book-BybEHrEw9HoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Equil%C3%ADbrio_e_resultado-sample-epub.acsm?id=BybEHrEw9HoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Equil%C3%ADbrio_e_resultado-sample-pdf.acsm?id=BybEHrEw9HoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BybEHrEw9HoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesse livro, Christian Barbosa explica que, para viver bem, precisamos administrar nosso tempo de forma a alcançar níveis iguais – e elevados – de equilíbrio e resultado. Parece simples."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RpceBAAAQBAJ",
+   "etag": "BuQBgWhu2pk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RpceBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Adeus, aposentadoria",
+    "subtitle": "Como garantir seu futuro sem depender dos outros",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2014-08-15",
+    "description": "Esqueça tudo o que você já ouviu falar sobre aposentadoria. A ideia de parar de trabalhar e se sustentar com um auxílio mensal é um conceito ultrapassado para dar conta do padrão de vida que queremos ter.Bancos, empresas de previdência, fundos de pensão e o Ministério da Previdência Social recomendam que as pessoas poupem mais ao longo dos anos para chegarem com uma boa reserva à idade avançada. Mas será que apenas essa poupança resolve o problema?Quem já passou dos 60 anos lamenta não ter se esforçado mais no passado e sabe que, mesmo que tivesse dobrado seu esforço, ainda estaria longe de uma situação confortável. Como estamos vivendo mais, com mais qualidade, custo de vida mais alto e maior nível educacional e cultural, a renda de uma aposentadoria – pública ou privada – não é suficiente hoje. A velha fórmula deixou de funcionar.É preciso adotar um modelo realista para planejar o futuro. Reunindo pesquisas e reflexões sobre casos de fracasso e de sucesso, este livro propõe uma nova forma de enxergar o trabalho e de lidar com o dinheiro, oferecendo conselhos atualizados sobre a melhor maneira de se educar, de investir, de empreender e de gerenciar a carreira.Ao longo de mais de uma década, Gustavo Cerbasi vem se dedicando a estudar e trabalhar com educação financeira, orientando públicos de diversas idades e classes sociais. Em Adeus, aposentadoria, ele apresenta um plano para administrar sua riqueza que inclui dicas personalizadas de acordo com sua faixa etária. Além disso, faz uma análise das modalidades existentes de aposentadoria e aponta suas principais falhas.Sem dúvida, o desafio para conquistar uma vida futura mantendo o padrão atual e sem depender de ninguém é grande, mas é possível se começarmos a realizar esse projeto desde já.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543100982"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543100984"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.13.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RpceBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RpceBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RpceBAAAQBAJ&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RpceBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RpceBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RpceBAAAQBAJ&rdid=book-RpceBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Adeus_aposentadoria-sample-epub.acsm?id=RpceBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Adeus_aposentadoria-sample-pdf.acsm?id=RpceBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RpceBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Adeus, aposentadoria, ele apresenta um plano para administrar sua riqueza que inclui dicas personalizadas de acordo com sua faixa etária."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5T9OCwAAQBAJ",
+   "etag": "3JXad63zY3Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5T9OCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dinheiro: Os segredos de quem tem",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2016-01-11",
+    "description": "Muita gente tem uma ideia totalmente errada de como as pessoas enriquecem. Poucas vezes é uma herança, um diploma de pós-graduação ou mesmo a inteligência que constrói uma fortuna. Com mais frequência, ela resulta de trabalho duro, economias disciplinadas e um padrão de vida adequado. Em Dinheiro: os segredos de quem tem, o consultor Gustavo Cerbasi explica o que fazer para começar agora mesmo a equilibrar as contas e se aproximar da tão sonhada independência financeira. Ao simplificar temas como aposentadoria, investimentos e empreendedorismo, ele mostra que, com conhecimento e organização, qualquer pessoa pode conquistar um futuro sólido e tranquilo. Cerbasi faz um alerta contra as armadilhas financeiras do dia a dia, sugerindo maneiras práticas de reduzir as despesas e gerenciar melhor os ganhos. Ele também destaca a importância de se ter uma postura voltada para a prosperidade. O caminho para a riqueza depende muito mais das decisões que as pessoas tomam em seu cotidiano do que dos bens que possam vir a acumular. Reveja seu planejamento financeiro e faça o dinheiro trabalhar por você.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543103174"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543103177"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.16.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5T9OCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5T9OCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5T9OCwAAQBAJ&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5T9OCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5T9OCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5T9OCwAAQBAJ&rdid=book-5T9OCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dinheiro_Os_segredos_de_quem_tem-sample-epub.acsm?id=5T9OCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dinheiro_Os_segredos_de_quem_tem-sample-pdf.acsm?id=5T9OCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5T9OCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Dinheiro: os segredos de quem tem, o consultor Gustavo Cerbasi explica o que fazer para começar agora mesmo a equilibrar as contas e se aproximar da tão sonhada independência financeira."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N6H0DAAAQBAJ",
+   "etag": "98Hxu5E3Egw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N6H0DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Empreendedores inteligentes enriquecem mais",
+    "subtitle": "Inteligência financeira para quem já tem ou quer começar o próprio negócio",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2016-09-20",
+    "description": "Em épocas de crise econômica e desemprego em alta, cresce o número de pessoas que resolvem abrir a própria empresa. Em geral, esses empreendedores concentram todos os esforços no desenvolvimento de produtos ou serviços, sem se preocupar muito com um plano de negócios ou a parte financeira.Duas situações costumam acontecer: ou o empreendedor ainda não tem condições de contratar especialistas para cuidar dos números e tenta gerenciá-los com seus conhecimentos básicos, ou então delega a tarefa e não quer mais saber do assunto. Em ambos os casos, ele fica \"no escuro\", pois abre mão de uma parte importante da gestão.Este livro reúne o conhecimento de que todo mundo precisa para entender as finanças do próprio negócio. Gustavo Cerbasi explica, em uma linguagem simples, os principais conceitos e termos técnicos dessa área, oferece dicas para assumir o controle financeiro e estratégias para o crescimento sustentável.Entre os tópicos abordados em Empreendedores inteligentes enriquecem mais estão:• Empreender como forma de investimento• Como separar a pessoa física da jurídica mesmo quando as contas se misturam• As finanças de um plano de negócios• Como aproveitar melhor o serviço de seu contador• O perigo de fazer empréstimos em vez de financiamentos• Como interpretar a situação da empresa por meio dos números• Os principais indicadores financeiros: rentabilidade, atividade, liquidez• Como quantificar o ponto de equilíbrio da empresaAo final da leitura, você saberá mapear a situação financeira da sua empresa utilizando o conjunto de ferramentas contábeis e de análise descrito ao longo dos capítulos. Isso servirá como um guia para a tomada de decisões. Quanto mais simples e eficaz for seu modelo de gestão, menos tempo será dedicado ao controle financeiro e mais tempo sobrará para o que realmente importa: vender, aprimorar-se e prosperar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543104133"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543104130"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.15.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=N6H0DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=N6H0DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=N6H0DAAAQBAJ&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=N6H0DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-N6H0DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=N6H0DAAAQBAJ&rdid=book-N6H0DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.849E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Empreendedores_inteligentes_enriquecem_m-sample-epub.acsm?id=N6H0DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Empreendedores_inteligentes_enriquecem_m-sample-pdf.acsm?id=N6H0DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=N6H0DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gustavo Cerbasi explica, em uma linguagem simples, os principais conceitos e termos técnicos dessa área, oferece dicas para assumir o controle financeiro e estratégias para o crescimento sustentável."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KIIlVpMulfgC",
+   "etag": "fo6pA+ya4hw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KIIlVpMulfgC",
+   "volumeInfo": {
+    "title": "A tríade do tempo",
+    "subtitle": "Um modelo comprovado para organizar sua vida e aumentar sua produtividade e seu equilíbrio",
+    "authors": [
+     "Christian Barbosa"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2012-08-01",
+    "description": "Considerado o maior especialista em gestão do tempo no Brasil, Christian Barbosa oferece uma solução definitiva para quem deseja uma vida mais equilibrada, voltada para a realização dos seus sonhos. Com base em uma pesquisa realizada com mais de 42 mil pessoas em todo o mundo, ele apresenta um inovador método de planejamento pessoal que vai ajudar você a organizar sua vida e se tornar mais produtivo. A partir do conceito de que o tempo se divide em três esferas – importante, urgente e circunstancial –, o autor ensina como equilibrá-las para melhorar seu desempenho e como agir caso você esteja desperdiçando energia demais na esfera errada. A prática dessa metodologia, já testada e aprovada por milhares de pessoas, vai permitir que você encontre um momento para respirar entre uma tarefa e outra e consiga se dedicar ao que é realmente importante para sua vida. A Tríade do Tempo traz ferramentas modernas que podem ser colocadas em prática tanto por quem utiliza agendas convencionais quanto por quem prefere soluções tecnológicas. Além disso, com este livro, você vai: • Aprender efetivamente a equilibrar vida pessoal e profissional. • Identificar em que atividades está desperdiçando seu tempo. • Realizar projetos baseados em seus planejamentos. • Definir metas e estabelecer prazos para executá-las. • Evitar reuniões desnecessárias e outros compromissos inúteis. • Gerenciar seu e-mail e informações de uso pessoal. • Descobrir novas ferramentas para gerenciamento de equipes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575428054"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575428055"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.40.39.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KIIlVpMulfgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KIIlVpMulfgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KIIlVpMulfgC&dq=Mais+tempo+mais+dinheiro&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KIIlVpMulfgC&dq=Mais+tempo+mais+dinheiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_tr%C3%ADade_do_tempo.html?hl=&id=KIIlVpMulfgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KIIlVpMulfgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Tríade do Tempo traz ferramentas modernas que podem ser colocadas em prática tanto por quem utiliza agendas convencionais quanto por quem prefere soluções tecnológicas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I8dICgAAQBAJ",
+   "etag": "1/DdBvbfWJk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I8dICgAAQBAJ",
+   "volumeInfo": {
+    "title": "Como organizar sua vida financeira",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2015-08-10",
+    "description": "Gerenciar o próprio dinheiro não é uma tarefa fácil para quem desconhece o poder do planejamento e da organização. Como organizar sua vida financeira apresenta dicas certeiras para você que deseja tomar decisões mais conscientes sobre o seu dinheiro.O renomado consultor Gustavo Cerbasi reuniu neste livro todos os temas-chave que você precisa conhecer para alcançar o equilíbrio das finanças e planejar um futuro mais próspero.Ele começa realizando um diagnóstico da sua situação atual, levando em conta dados como idade, dívidas, despesas, bens, investimentos e planos para a aposentadoria. Depois de chegar ao valor do patrimônio ideal para obter a tão sonhada independência financeira, é hora de aprender a analisar seu orçamento doméstico e identificar os pontos que podem ser aperfeiçoados.Após traçar seu perfil de consumo e investimento, você poderá passar para os tópicos mais específicos, dominando de uma vez por todas os assuntos que sempre considerou complexos, tais como:• Como fazer a Declaração do Imposto de Renda • Qual é a melhor maneira de administrar as dívidas • Como utilizar o crédito a seu favor • Quando vale a pena fazer seguros • Quais são os melhores investimentos\"Gustavo Cerbasi é um dos grandes responsáveis pela transformação de diversas pessoas e famílias no Brasil em poupadores e investidores, pois com sua didática consegue nos orientar para uma vida financeira melhor.\" — Robert Dannenberg, sócio da Time2Play\"Eu mudei completamente a minha forma de encarar o dinheiro depois de ler Gustavo Cerbasi. Gostaria de ter parado para pensar nesse assunto quando abri a minha primeira empresa de tecnologia aos 14 anos.\" — Christian Barbosa, autor de A Tríade do Tempo",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543102597"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543102596"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.26.29.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=I8dICgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=I8dICgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=I8dICgAAQBAJ&printsec=frontcover&dq=Mais+tempo+mais+dinheiro&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=I8dICgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-I8dICgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=I8dICgAAQBAJ&rdid=book-I8dICgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_organizar_sua_vida_financeira-sample-epub.acsm?id=I8dICgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_organizar_sua_vida_financeira-sample-pdf.acsm?id=I8dICgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I8dICgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como organizar sua vida financeira apresenta dicas certeiras para você que deseja tomar decisões mais conscientes sobre o seu dinheiro."
+   }
+  }
+ ]
+}

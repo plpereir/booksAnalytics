@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xOawuAAACAAJ",
+   "etag": "MoKWkKINKQs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xOawuAAACAAJ",
+   "volumeInfo": {
+    "title": "Senhora Das Aguas",
+    "authors": [
+     "Pedro Siqueira"
+    ],
+    "description": "Ao se deparar com o momento mais crítico de seus quarenta e poucos anos de existência, a psicóloga Gabriela decide viajar à Europa em busca de respostas para as angustiantes perguntas que lhe invadem a alma diante de tal acontecimento. No decorrer de sua peregrinação, voltam-lhe à mente uma série de episódios que lhe marcaram a vida desde a mais remota infância, emergindo, daí, intrincadas e aflitivas questões filosóficas, existenciais e, principalmente, religiosas. Emocionada, Gabriela chega à derradeira etapa de sua apaixonante viagem com a grande expectativa de, finalmente, encontrar a resposta maior que tanto busca para superar esse momento crítico e poder desfrutar de uma existência mais feliz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8586307440"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788586307447"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xOawuAAACAAJ&dq=isbn:9788586307447&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xOawuAAACAAJ&dq=isbn:9788586307447&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Senhora_Das_Aguas.html?hl=&id=xOawuAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xOawuAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao se deparar com o momento mais crítico de seus quarenta e poucos anos de existência, a psicóloga Gabriela decide viajar à Europa em busca de respostas para as angustiantes perguntas que lhe invadem a alma diante de tal acontecimento."
+   }
+  }
+ ]
+}

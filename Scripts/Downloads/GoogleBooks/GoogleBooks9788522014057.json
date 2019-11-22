@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Xwf2kQEACAAJ",
+   "etag": "UmIvfoG6wnw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Xwf2kQEACAAJ",
+   "volumeInfo": {
+    "title": "Danuza e sua visão de mundo sem juízo",
+    "authors": [
+     "Danuza Leão"
+    ],
+    "publishedDate": "2012",
+    "description": "Nesta obra, o leitor poderá encontrar crônicas alegres, melancólicas, tristes, algumas desesperadas, divertidas, outras bem-humoradas, às vezes até amargas, mas todas verdadeiras. As pessoas mudam, no decorrer de uma vida, tudo muda - o rosto, as mãos, os desejos. A maneira de pensar, de ser; por isso a vida vale a pena, por isso é tão fascinante a aventura que é viver.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522014051"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522014057"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Xwf2kQEACAAJ&dq=isbn:9788522014057&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Xwf2kQEACAAJ&dq=isbn:9788522014057&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Danuza_e_sua_vis%C3%A3o_de_mundo_sem_ju%C3%ADzo.html?hl=&id=Xwf2kQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Xwf2kQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, o leitor poderá encontrar crônicas alegres, melancólicas, tristes, algumas desesperadas, divertidas, outras bem-humoradas, às vezes até amargas, mas todas verdadeiras."
+   }
+  }
+ ]
+}

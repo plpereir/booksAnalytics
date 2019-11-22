@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OZ-gpwAACAAJ",
+   "etag": "E73R5y6dQX8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OZ-gpwAACAAJ",
+   "volumeInfo": {
+    "title": "GUIA DO PAI RICO, O - O NEGOCIO DO SECULO XXI",
+    "authors": [
+     "JOHN FLEMING",
+     "ROBERT T. KIYOSAKI",
+     "KIM KIYOSAKI"
+    ],
+    "description": "Neste livro, Robert Kiyosaki procura evidenciar por que é preciso construir um próprio negócio - e qual tipo de negócio exatamente cada pessoa deve construir. Ele busca demonstrar como encontrar o que é necessário para desenvolver o negócio perfeito.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535245200"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535245202"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OZ-gpwAACAAJ&dq=isbn:9788535245202&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OZ-gpwAACAAJ&dq=isbn:9788535245202&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/GUIA_DO_PAI_RICO_O_O_NEGOCIO_DO_SECULO_X.html?hl=&id=OZ-gpwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OZ-gpwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reclamar não vai garantir o seu futuro, muito menos culpar o sistema financeiro, as empresas ou o governo, Neste livro, Robert Kiyosaki evidencia por que você precisa construir seu próprio negócio - e qual tipo de negócio exatamente ..."
+   }
+  }
+ ]
+}

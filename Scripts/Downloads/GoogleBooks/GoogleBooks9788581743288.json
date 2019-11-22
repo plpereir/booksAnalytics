@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ETkuvgAACAAJ",
+   "etag": "CG0FTDywzF0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ETkuvgAACAAJ",
+   "volumeInfo": {
+    "title": "A MAMAE E ROCK",
+    "authors": [
+     "ANA CARDOSO"
+    ],
+    "publishedDate": "2016-06-17",
+    "description": "Este é um livro sobre a maternidade e todos os sentimentos loucos que as mães têm em relação a quem de alguma forma criam, seja um filho natural, adotivo, neto ou sobrinho. É sobre família e é sobre as mães também, esses seres que falam uma língua estranha e chata que só entende quem entra para o clube e se torna uma delas. Não se preocupe, não é um livro de lamentações. É o contrário: tem histórias engraçadas, singelas e verdadeiras. Aqueles que leram O papai é pop estão convidados a conhecer o lado mais in/tenso da experiência. A mamãe é rock é um recorte sem filtro dos divertidos e comoventes malabarismos que um casal moderno faz todos os dias para criar suas filhas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581743285"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581743288"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ETkuvgAACAAJ&dq=isbn:9788581743288&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ETkuvgAACAAJ&dq=isbn:9788581743288&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_MAMAE_E_ROCK.html?hl=&id=ETkuvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ETkuvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Mamãe é rock é um recorte sem filtro dos divertidos e comoventes malabarismos que um casal moderno faz todos os dias para criar suas filhas."
+   }
+  }
+ ]
+}

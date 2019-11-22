@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5hM5vgAACAAJ",
+   "etag": "8gdZ2D1zu8w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5hM5vgAACAAJ",
+   "volumeInfo": {
+    "title": "FELIZES PARA SEMPRE",
+    "authors": [
+     "KIERA CASS",
+     "CRISTIAN CLEMENTE"
+    ],
+    "description": "\"Esta coletânea traz os contos \"A rainha\", \"O príncipe\", \"O guarda\" e \"A favorita\" ilustrados e com introduções inéditas de Kiera Cass. Conheça o príncipe Maxon antes de ele se apaixonar por America, e a rainha Amberly antes de ser escolhida por Clarkson. Veja a Seleção através dos olhos de um guarda que perdeu seu primeiro amor e de uma Selecionada que se apaixonou pelo garoto errado. Você encontrará, ainda, cenas inéditas da série narradas pelos pontos de vista de Celeste e Lucy, um texto contando o que aconteceu com as outras Selecionadas depois do fim da competição e um trecho exclusivo de \"A sereia\", o novo romance de Kiera Cass.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "856576561X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565765619"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5hM5vgAACAAJ&dq=isbn:9788565765619&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5hM5vgAACAAJ&dq=isbn:9788565765619&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FELIZES_PARA_SEMPRE.html?hl=&id=5hM5vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5hM5vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta coletânea traz os contos A rainha, O príncipe, O guarda e A favorita ilustrados e com introduções de Kiera Cass."
+   }
+  }
+ ]
+}

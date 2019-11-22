@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OKC8NAEACAAJ",
+   "etag": "EzFqonHf5Dk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OKC8NAEACAAJ",
+   "volumeInfo": {
+    "title": "E Sagrado Viver",
+    "authors": [
+     "Fabio De Melo"
+    ],
+    "description": "Nesta obra, Pe. Fábio de Melo procura mostrar a vida e seus desdobramentos mais significativos. Coisas pequenas, que aos olhos racionais podem parecer banais. O cotidiano como lugar de revelação - retratos e confissões de um coração humano que se esmera por transpor a superficialidade dos dias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576659794"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576659792"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OKC8NAEACAAJ&dq=isbn:9788576659792&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OKC8NAEACAAJ&dq=isbn:9788576659792&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/E_Sagrado_Viver.html?hl=&id=OKC8NAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OKC8NAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, Pe. Fábio de Melo procura mostrar a vida e seus desdobramentos mais significativos."
+   }
+  }
+ ]
+}

@@ -1,0 +1,856 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 317,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HQguDdnu8zgC",
+   "etag": "DrZ47//4daU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HQguDdnu8zgC",
+   "volumeInfo": {
+    "title": "Churchill",
+    "authors": [
+     "Robert Blake",
+     "William Roger Louis"
+    ],
+    "publisher": "OUP Oxford",
+    "publishedDate": "1996-02-29",
+    "description": "Essays on the policies and motives of Winston Churchill",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198206262"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0198206267"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 581,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HQguDdnu8zgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HQguDdnu8zgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=HQguDdnu8zgC&printsec=frontcover&dq=Churchill&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HQguDdnu8zgC&dq=Churchill&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Churchill.html?hl=&id=HQguDdnu8zgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Churchill-sample-epub.acsm?id=HQguDdnu8zgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HQguDdnu8zgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essays on the policies and motives of Winston Churchill"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O1QnDwAAQBAJ",
+   "etag": "Vjp3ep5i5MI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O1QnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Memórias da Segunda Guerra",
+    "authors": [
+     "Winston Churchill"
+    ],
+    "publisher": "HarperCollins Brasil",
+    "publishedDate": "2015-02-02",
+    "description": "Do momento mais sombrio e glorioso da Inglaterra até a Grande Aliança e a vitória final, a Segunda Guerra Mundial continua a ser o evento mais marcante do século XX. Sem dúvida, o momento formador do mundo em que vivemos hoje. A HarperCollins Brasil lança esta edição em dois volumes da histórica obra de Winston Churchill sobre os anos cruciais de formação, desenvolvimento e conclusão do conflito, abarcando desde 1919 até 1945. Neste primeiro volume, Churchill reconstrói com minúcia e ritmo os principais eventos ocorridos entre 1919 e junho de 1941: desde as contendas geradas pelo Tratado de Versalhes, a fulgurante ascensão de Hitler, o novo quadro político europeu até a invasão da então União Soviética pela Alemanha. Este livro é uma condensação em dois volumes da grande obra de Sir Winston Churchill The Second World War, de seis volumes no original inglês: The Gathering Storm, Their Finest Hour, The Grand Alliance, The Hinge of Fate, Closing the Ring e Triumph and Tragedy, publicados entre os anos de 1948 e 1953. Sir Winston recebeu o Prêmio Nobel de Literatura de 1953 pela sua extensa obra literária. \"Uma inteligência prodigiosa, um perfeito senso de história e um dom da palavra jamais igualado entre os homens do poder.\" — Chicago Tribune \"Poucos livros pertencem à categoria dos grandes acontecimentos. Memórias da Segunda Guerra Mundial, de Winston Churchill, é um deles.\" — The New York Times",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595081642"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595081646"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.22.23.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O1QnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O1QnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=O1QnDwAAQBAJ&printsec=frontcover&dq=Churchill&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=O1QnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-O1QnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=O1QnDwAAQBAJ&rdid=book-O1QnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3rias_da_Segunda_Guerra-sample-epub.acsm?id=O1QnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3rias_da_Segunda_Guerra-sample-pdf.acsm?id=O1QnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O1QnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Memórias da Segunda Guerra Mundial, de Winston Churchill, é um deles.&quot; — The New York Times"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GiDlDAAAQBAJ",
+   "etag": "0PFNlgwg9ms",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GiDlDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Winston Churchill",
+    "subtitle": "Uma vida",
+    "authors": [
+     "Martin Gilbert"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2016-08-01",
+    "description": "COMO FOI A VIDA DE UM DOS POLÍTICOS MAIS EMBLEMÁTICOS DA HISTÓRIA MODERNA? Escrito pelo biógrafo oficial de Churchill, o historiador mundialmente consagrado Martin Gilbert, este livro é a mais completa biografia já escrita sobre um dos estadistas mais importantes de todos os tempos um homem de inteligência sublime e personalidade explosiva que esteve no centro de acontecimentos fundamentais do século XX. Elaborado a partir de anos de pesquisa meticulosa e documentação exclusiva, e repleto de material apenas recentemente descoberto, Churchill uma vida é o casamento perfeito entre a dureza dos fatos da vida pública e os detalhes íntimos de um homem que exerceu papel preponderante para a divisão do mundo como o conhecemos hoje. SOBRE O AUTOR Sir Martin Gilbert é um dos principais historiadores de sua geração. Membro honorário do Merton College, em Oxford, há trinta anos, ele é o biógrafo oficial de Churchill e autor de oitenta livros, entre os quais Segunda Guerra Mundial (publicado no Brasil pela Casa da Palavra); First World War; A Comprehensive History of Israel e os três volumes de A History of the Twentieth Century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544103500"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544103502"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 560,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GiDlDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GiDlDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GiDlDAAAQBAJ&printsec=frontcover&dq=Churchill&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GiDlDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GiDlDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.64,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GiDlDAAAQBAJ&rdid=book-GiDlDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.599E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.164E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Winston_Churchill-sample-epub.acsm?id=GiDlDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GiDlDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "SOBRE O AUTOR Sir Martin Gilbert é um dos principais historiadores de sua geração."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2Lur3K0V9ecC",
+   "etag": "TW1IvX9B7+g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2Lur3K0V9ecC",
+   "volumeInfo": {
+    "title": "Hitler & Churchill",
+    "subtitle": "segredos da liderança",
+    "authors": [
+     "Andrew Roberts"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2004",
+    "description": "O premiado historiador Andrew Roberts analisa nesse livro o fenômeno da liderança política e militar a partir das atuações de Adolf Hitler e Winston Churchill - dois líderes antagônicos, tanto no que representavam quanto no modo como comandavam, mas cujas lideranças também tinham pontos em comum. Atento a diferenças e semelhanças, o autor investiga os bastidores das atuações desses dois estadistas e considera o modo como eles avaliavam um ao outro como líderes e de que maneira isso afetou o desfecho da Segunda Guerra Mundial, chegando a conclusões fascinantes, provocadoras e tão relevantes hoje quanto foram antes e durante o conflito.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857110767X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571107670"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 209,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2Lur3K0V9ecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2Lur3K0V9ecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2Lur3K0V9ecC&pg=PA61&dq=Churchill&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2Lur3K0V9ecC&dq=Churchill&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hitler_Churchill.html?hl=&id=2Lur3K0V9ecC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2Lur3K0V9ecC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(A gênese da que é talvez a mais famosa piada de \u003cb\u003eChurchill\u003c/b\u003e, cujo clímax é &quot;E a \u003cbr\u003e\nsenhora é feia, mas de manhã estarei sóbrio&quot;, pode talvez ser encontrada em \u003cbr\u003e\nSavrola, em que ele escreveu acerca da mulher do presidente Molara, Lucile: &quot;É\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bNJudeE9wcgC",
+   "etag": "w+/45ID3qqo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bNJudeE9wcgC",
+   "volumeInfo": {
+    "title": "Churchill",
+    "subtitle": "Taken from the Diaries of Lord Moran : The Struggle for Survival, 1940 1965",
+    "authors": [
+     "Lord Moran"
+    ],
+    "publisher": "Norman Berg",
+    "publishedDate": "1976-06-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0910220778"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780910220774"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 896,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bNJudeE9wcgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bNJudeE9wcgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=bNJudeE9wcgC&q=Churchill&dq=Churchill&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bNJudeE9wcgC&dq=Churchill&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Churchill.html?hl=&id=bNJudeE9wcgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bNJudeE9wcgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bcKOAQAAQBAJ",
+   "etag": "ibw3BGLDZs4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bcKOAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Never Give In!",
+    "subtitle": "Winston Churchill's Speeches",
+    "authors": [
+     "Sir Winston S. Churchill"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2013-10-14",
+    "description": "A great statesmen, a masterful historian whose writings won him the Nobel Prize for literature and a war-time leader with few peers, Sir Winston Churchill is remembered perhaps most clearly today for the sheer power of his oratory: the speeches that rallied a nation in its darkest hour and steeled that nation for victory against the might of the Fascist powers. Never Give In! celebrates this oratory by gathering together Churchill's most powerful speeches from throughout his public career. Carefully selected by his grandson, this collection includes all his best known speeches - from his great war-time broadcasts to the \"Iron Curtain\" speech that heralded the start of the Cold War - and many lesser known but inspirational pieces. In a single volume Never Give In! provides a powerful testimony to one of the great public figures of the 20th century.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781472527516"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1472527518"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.126.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bcKOAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bcKOAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=bcKOAQAAQBAJ&printsec=frontcover&dq=Churchill&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bcKOAQAAQBAJ&dq=Churchill&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Never_Give_In.html?hl=&id=bcKOAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Never_Give_In-sample-pdf.acsm?id=bcKOAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bcKOAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Carefully selected by his grandson, this collection includes all his best known speeches - from his great war-time broadcasts to the &quot;Iron Curtain&quot; speech that heralded the start of the Cold War - and many lesser known but inspirational ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ZVbCNmxjkwC",
+   "etag": "qxA0jcRkuSA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZVbCNmxjkwC",
+   "volumeInfo": {
+    "title": "CHURCHILL",
+    "subtitle": "A Study in Greatness",
+    "authors": [
+     "Geoffrey Best"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2001",
+    "description": "\"We are all worms. But I do believe I am a glow-worm.\" --Churchill Winston Churchill's inspiring leadership in the Second World War once made him above criticism. In recent years his record has come under attack from revisionists. In Churchill: A Study in Greatness one of Britain's most distinguished historians rebuts these charges and makes sense of this extraordinary man and his long controversial, colourful, contradictory and heroic career. Geoffrey Best brings out both his strengths and his weaknesses, looking past the many received versions of Churchill in a biography that balances the private and the public man and offers a clear insight into Churchill's greatness. \"We are all worms. But I do believe I am a glow-worm.\" --Churchill Winston Churchill's inspiring leadership in the Second World War once made him above criticism. In recent years his record has come under attack from revisionists. In Churchill: A Study in Greatness one of Britain's most distinguished historians rebuts these charges and makes sense of this extraordinary man and his long controversial, colourful, contradictory and heroic career. Geoffrey Best brings out both his strengths and his weaknesses, looking past the many received versions of Churchill in a biography that balances the private and the public man and offers a clear insight into Churchill's greatness.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1852852534"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781852852535"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 370,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5ZVbCNmxjkwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5ZVbCNmxjkwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=5ZVbCNmxjkwC&printsec=frontcover&dq=Churchill&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5ZVbCNmxjkwC&dq=Churchill&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CHURCHILL.html?hl=&id=5ZVbCNmxjkwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/CHURCHILL-sample-epub.acsm?id=5ZVbCNmxjkwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5ZVbCNmxjkwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Geoffrey Best brings out both his strengths and his weaknesses, looking past the many received versions of Churchill in a biography that balances the private and the public man and offers a clear insight into Churchill&#39;s greatness."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r4RLDwAAQBAJ",
+   "etag": "ktSwDacqDbs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r4RLDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Churchill",
+    "subtitle": "Walking with Destiny",
+    "authors": [
+     "Andrew Roberts"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2018-11-06",
+    "description": "NEW YORK TIMES BESTSELLER One of The Wall Street Journal’s Ten Best Books of 2018 One of The Economist’s Best Books of 2018 One of The New York Times’s Notable Books of 2018 “Unarguably the best single-volume biography of Churchill . . . A brilliant feat of storytelling, monumental in scope, yet put together with tenderness for a man who had always believed that he would be Britain’s savior.” —Wall Street Journal In this landmark biography of Winston Churchill based on extensive new material, the true genius of the man, statesman and leader can finally be fully seen and understood--by the bestselling, award-winning author of Napoleon and The Storm of War. When we seek an example of great leaders with unalloyed courage, the person who comes to mind is Winston Churchill: the iconic, visionary war leader immune from the consensus of the day, who stood firmly for his beliefs when everyone doubted him. But how did young Winston become Churchill? What gave him the strength to take on the superior force of Nazi Germany when bombs rained on London and so many others had caved? In Churchill, Andrew Roberts gives readers the full and definitive Winston Churchill, from birth to lasting legacy, as personally revealing as it is compulsively readable. Roberts gained exclusive access to extensive new material: transcripts of War Cabinet meetings, diaries, letters and unpublished memoirs from Churchill's contemporaries. The Royal Family permitted Roberts--in a first for a Churchill biographer--to read the detailed notes taken by King George VI in his diary after his weekly meetings with Churchill during World War II. This treasure trove of access allows Roberts to understand the man in revelatory new ways, and to identify the hidden forces fueling Churchill's legendary drive. We think of Churchill as a hero who saved civilization from the evils of Nazism and warned of the grave crimes of Soviet communism, but Roberts's masterwork reveals that he has as much to teach us about the challenges leaders face today--and the fundamental values of courage, tenacity, leadership and moral conviction.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101981016"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101981016"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 1152,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r4RLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r4RLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=r4RLDwAAQBAJ&printsec=frontcover&dq=Churchill&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r4RLDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r4RLDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 96.7,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 96.7,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r4RLDwAAQBAJ&rdid=book-r4RLDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.67E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.67E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Churchill-sample-epub.acsm?id=r4RLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r4RLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "NEW YORK TIMES BESTSELLER One of The Wall Street Journal’s Ten Best Books of 2018 One of The Economist’s Best Books of 2018 One of The New York Times’s Notable Books of 2018 “Unarguably the best single-volume biography of Churchill  ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cYxIAwAAQBAJ",
+   "etag": "38q2ielwClI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cYxIAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Churchill and the Strategic Dilemmas before the World Wars",
+    "subtitle": "Essays in Honor of Michael I. Handel",
+    "authors": [
+     "John H. Maurer"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2014-04-04",
+    "description": "Before Michael I. Handel died his colleagues and students compiled this collection of essays that were written for a conference on strategy held during 2001. The papers address Churchill's views and ideas on war, strategy and realpolitik.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781135294984"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1135294984"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cYxIAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cYxIAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=cYxIAwAAQBAJ&printsec=frontcover&dq=Churchill&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cYxIAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cYxIAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 160.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 160.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cYxIAwAAQBAJ&rdid=book-cYxIAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.6015E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.6015E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Churchill_and_the_Strategic_Dilemmas_bef-sample-pdf.acsm?id=cYxIAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cYxIAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Before Michael I. Handel died his colleagues and students compiled this collection of essays that were written for a conference on strategy held during 2001. The papers address Churchill&#39;s views and ideas on war, strategy and realpolitik."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2Uc7aR-UjxcC",
+   "etag": "tKl+MT4Ae5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2Uc7aR-UjxcC",
+   "volumeInfo": {
+    "title": "Churchill",
+    "authors": [
+     "Paul Johnson"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2009-11-03",
+    "description": "From the “most celebrated and best-loved British historian in America” (Wall Street Journal), an elegant, concise, and revealing portrait of Winston Churchill In Churchill, eminent historian Paul Johnson offers a lively, succinct exploration of one of the most complex and fascinating personalities in history. Winston Churchill's hold on contemporary readers has never slackened, and Johnson’s analysis casts new light on his extraordinary life and times. Johnson illuminates the various phases of Churchill's career—from his adventures as a young cavalry officer in the service of the empire to his role as an elder statesman prophesying the advent of the Cold War—and shows how Churchill's immense adaptability and innate pugnacity made him a formidable leader for the better part of a century. Johnson's narration of Churchill's many triumphs and setbacks, rich with anecdote and quotation, illustrates the man's humor, resilience, courage, and eccentricity as no other biography before, and is sure to appeal to historians and general nonfiction readers alike.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1101149299"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101149294"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 15,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2Uc7aR-UjxcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2Uc7aR-UjxcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=2Uc7aR-UjxcC&printsec=frontcover&dq=Churchill&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2Uc7aR-UjxcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2Uc7aR-UjxcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 65.26,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2Uc7aR-UjxcC&rdid=book-2Uc7aR-UjxcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.526E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Churchill-sample-epub.acsm?id=2Uc7aR-UjxcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2Uc7aR-UjxcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "From the “most celebrated and best-loved British historian in America” (Wall Street Journal), an elegant, concise, and revealing portrait of Winston Churchill In Churchill, eminent historian Paul Johnson offers a lively, succinct ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,811 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 94,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fVYvDwAAQBAJ",
+   "etag": "amWMe9mBCnY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fVYvDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Evangelho segundo o Espíritismo",
+    "authors": [
+     "Allan Kardec"
+    ],
+    "publisher": "Federação Espírita Brasileira (FEB)",
+    "publishedDate": "2017-08-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573289138"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573289139"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fVYvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fVYvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fVYvDwAAQBAJ&printsec=frontcover&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fVYvDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fVYvDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 3.51,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fVYvDwAAQBAJ&rdid=book-fVYvDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5000000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3510000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Evangelho_segundo_o_Esp%C3%ADritismo-sample-epub.acsm?id=fVYvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Evangelho_segundo_o_Esp%C3%ADritismo-sample-pdf.acsm?id=fVYvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fVYvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xw9ZAAAAMAAJ",
+   "etag": "20gfDozlAH8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xw9ZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "O Evangelho segundo o espiritismo",
+    "authors": [
+     "Allan Kardec"
+    ],
+    "publishedDate": "1973",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173006258109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "categories": [
+     "Bible"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xw9ZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xw9ZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xw9ZAAAAMAAJ&q=O+evangelho+segundo+o+espiritismo+(FEB)&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xw9ZAAAAMAAJ&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Evangelho_segundo_o_espiritismo.html?hl=&id=xw9ZAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xw9ZAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TV3HkYagM6MC",
+   "etag": "jagzaJA74zg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TV3HkYagM6MC",
+   "volumeInfo": {
+    "title": "DOUTRINA ESPIRITA PARA PRINCIPIANTES",
+    "authors": [
+     "LUIS RAYNAUD HU RIVAS"
+    ],
+    "publisher": "EDICEI of America",
+    "description": "Esta obra, que tem como finalidade oferecer aos iniciantes uma visão geral do pensamento espírita, apresenta mais de 300 ilustrações e textos divididos em oito capítulos. O livro traz ainda, textos anexos que destacam a importância do Centro Espírita e o crescimento do Espiritismo no mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788598161990"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8598161993"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TV3HkYagM6MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TV3HkYagM6MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TV3HkYagM6MC&pg=PA156&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TV3HkYagM6MC&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DOUTRINA_ESPIRITA_PARA_PRINCIPIANTES.html?hl=&id=TV3HkYagM6MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TV3HkYagM6MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO Evangelho segundo o Espiritismo\u003c/b\u003e. 119. ed. Rio de Janeiro: \u003cb\u003eFEb\u003c/b\u003e, 2002. p. 23. \u003cbr\u003e\n10. _____. máximas extraídas de la en- señanza de los Espíritus. El Espiritismo \u003cbr\u003e\nen su más simple expresión. 2. ed. caracas: mensaje Fraternal, 1991. p. 37. 11."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ENJeewAACAAJ",
+   "etag": "7+YGNxIQA8I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ENJeewAACAAJ",
+   "volumeInfo": {
+    "title": "EVANGELHO SEGUNDO O ESPIRITISMO, O - BOLSO",
+    "authors": [
+     "ALLAN KARDEC"
+    ],
+    "description": "'O Evangelho segundo o Espiritismo' é um dos cinco livros que constituem o corpo doutrinário do Espiritismo. É o ensino moral de Jesus, para os cristãos de qualquer crença. Desenvolvido pelos Espíritos de Luz, em comunicações ediúnicas recolhidas, organizadas, comentadas e trazidas ao público pelo Codificador Allan Kardec.Demonstra que conceitos como reencarnação e a mediunidade foram tratados de forma sutil por Jesus.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573284463"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573284461"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 504,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ENJeewAACAAJ&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ENJeewAACAAJ&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/EVANGELHO_SEGUNDO_O_ESPIRITISMO_O_BOLSO.html?hl=&id=ENJeewAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ENJeewAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Desenvolvido pelos Espíritos de Luz, em comunicações ediúnicas recolhidas, organizadas, comentadas e trazidas ao público pelo Codificador Allan Kardec.Demonstra que conceitos como reencarnação e a mediunidade foram tratados de forma ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZLVjDwAAQBAJ",
+   "etag": "5oVAcsyDcgc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZLVjDwAAQBAJ",
+   "volumeInfo": {
+    "title": "União dos Espíritas",
+    "subtitle": "Para onde vamos?",
+    "authors": [
+     "Antonio Cesar Perri de Carvalho"
+    ],
+    "publisher": "Editora EME LTDA EPP",
+    "publishedDate": "2018-07-11",
+    "description": "Aguardando CEP MAIS INFORMAÇÕES O tema \"união dos espíritas\" é de fundamental importância para o bom desenvolvimento e o futuro do movimento espírita. Os acordos de união devem ser avaliados e analisados em função do histórico e de cenários do movimento espírita atual, incluindo-se um estudo sobre o \"Pacto Áureo\" e dos seus desdobramentos, principalmente do Conselho Federativo Nacional da FEB. As reflexões e as sugestões contemplam a trajetória dos primeiros tempos do cristianismo realizando-se algumas analogias com o movimento espírita. O presente livro se fundamenta em obras do codificador Allan Kardec e textos sobre união psicografados por Chico Xavier. O autor faz apreciações com base em sua vivência de mais de meio século de atuação no movimento espírita e evoca a afirmação de Kardec de que \"se a iniciativa pertence aos espíritos, a elaboração é fruto do trabalho do homem\". Há algumas dúvidas e até eventuais desvios de caminhos que podem ser equacionados? O movimento requer reflexões continuadas. Afinal de contas são sempre válidas algumas indagações: o que pretendemos? para onde vamos?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595440623"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "859544062X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZLVjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZLVjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZLVjDwAAQBAJ&pg=PT47&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZLVjDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZLVjDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZLVjDwAAQBAJ&rdid=book-ZLVjDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uni%C3%A3o_dos_Esp%C3%ADritas-sample-epub.acsm?id=ZLVjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uni%C3%A3o_dos_Esp%C3%ADritas-sample-pdf.acsm?id=ZLVjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZLVjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Entre as Obras Básicas de Allan Kardec, percebemos que o livro \u003cb\u003eO Evangelho\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003esegundo o Espiritismo\u003c/b\u003e é utilizado, ... Durante nossa presidência na \u003cb\u003eFEB\u003c/b\u003e, \u003cbr\u003e\nintensificamos a divulgação desse livro por ocasião do Sesquicentenário de sua\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ulg0DwAAQBAJ",
+   "etag": "r2a/emJU5Pc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ulg0DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Em Defesa da vida SUICÍDIO NÃO",
+    "subtitle": "",
+    "authors": [
+     "FEB - Federação Espírita Brasileira"
+    ],
+    "publisher": "FEB Editora",
+    "publishedDate": "2017-09-06",
+    "description": "“A calma e a resignação adquiridas na maneira de considerar a vida terrestre e a confiança no futuro dão ao Espírito uma serenidade que é o melhor preservativo contra a loucura e o suicídio”. Allan Kardec. O evangelho segundo o espiritismo. Cap. V, it. 14.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ulg0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ulg0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ulg0DwAAQBAJ&printsec=frontcover&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ulg0DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ulg0DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ulg0DwAAQBAJ&rdid=book-Ulg0DwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Defesa_da_vida_SUIC%C3%8DDIO_N%C3%83O-sample-epub.acsm?id=Ulg0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Defesa_da_vida_SUIC%C3%8DDIO_N%C3%83O-sample-pdf.acsm?id=Ulg0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ulg0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“A calma e a resignação adquiridas na maneira de considerar a vida terrestre e a confiança no futuro dão ao Espírito uma serenidade que é o melhor preservativo contra a loucura e o suicídio”."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ymxoDwAAQBAJ",
+   "etag": "XitDi56puo0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ymxoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Entre a fé e a razão",
+    "authors": [
+     "Rubens Molinari"
+    ],
+    "publisher": "Editora EME LTDA EPP",
+    "publishedDate": "2018-08-01",
+    "description": "Em sua passagem pela Terra, Jesus falou muitas vezes sobre a fé, e nela alicerçou muito dos seus feitos e de suas curas. Dezoito séculos depois, o espiritismo trouxe-nos novas ideias e abriu-nos novas janelas, reavivando os ensinamentos do Mestre Nazareno, sem os erros que os homens nelas haviam introduzido ao longo do tempo. Voltamos assim a respirar os exemplos de Jesus em sua pureza original, renovando a fé nas verdades por ele trazidas, como mostra O Evangelho segundo o Espiritismo: a fé é uma construção contínua baseada na humildade e no estudo. Com a presente obra, Entre a fé e a razão: o amor, Rubens Molinari nos conduz a esse caminho, comprovando que o estudo do espiritismo nos traz a liberdade de escolha, e com isso nos permite crescer como filhos amados do Criador.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595440647"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595440646"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ymxoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ymxoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ymxoDwAAQBAJ&pg=PT67&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ymxoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ymxoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ymxoDwAAQBAJ&rdid=book-ymxoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Entre_a_f%C3%A9_e_a_raz%C3%A3o-sample-epub.acsm?id=ymxoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Entre_a_f%C3%A9_e_a_raz%C3%A3o-sample-pdf.acsm?id=ymxoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ymxoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EMMANUEL (espírito), Justiça divina. psicografia de F. C. Xavier, FEB, Rio de \u003cbr\u003e\nJaneiro. 1987 ... HUGO, Víctor, (espírito), Dor suprema. psicografia de Z. Gama, \u003cbr\u003e\nFEB, RJ, 1991, pág. 333. KARDEC, Allan, \u003cb\u003eO Evangelho segundo o Espiritismo\u003c/b\u003e. \u003cbr\u003e\n\u003cb\u003eFEB\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BZd2DwAAQBAJ",
+   "etag": "38wZyn/Wriw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BZd2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A marca da besta",
+    "authors": [
+     "Robson Pinheiro",
+     "Ângelo Inácio"
+    ],
+    "publisher": "Casa dos Espíritos Editora LTDA",
+    "publishedDate": "2018-11-06",
+    "description": "\"E houve guerra no céu: Miguel e os seus anjos batalhavam contra o dragão. E o dragão e os seus anjos batalhavam, mas não prevaleceram, nem mais o seu lugar se achou nos céus\" (Apocalipse 12:7-8). Se você tem coragem, olhe ao redor: chegaram os tempos do fim. Não o famigerado fim do mundo, como querem alguns. Mas o fim de um tempo – para os dragões, para o império da maldade. E o início de outro, para construir a fraternidade e a ética. Um romance, um testemunho de fé, que revela a força dos guardiões, emissários do Cordeiro que detêm a propagação do mal. Quer se juntar a esse exército? A batalha já começou. Venha fazer luz sobre as trevas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599818596"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8599818597"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 656,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BZd2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BZd2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BZd2DwAAQBAJ&pg=PT380&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BZd2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BZd2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.77,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BZd2DwAAQBAJ&rdid=book-BZd2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.777E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_marca_da_besta-sample-epub.acsm?id=BZd2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_marca_da_besta-sample-pdf.acsm?id=BZd2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BZd2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO Evangelho segundo o espiritismo\u003c/b\u003e. 120a ed. Rio de Janeiro: \u003cb\u003eFEB\u003c/b\u003e, 2002, cap. 5: \u003cbr\u003e\n“O Cristo consolador”, item 5 das Instruções dos espíritos, p. 159. 4 Mt 10:34. 5 \u003cbr\u003e\nMc 2:17. 6 KARDEC, Allan. \u003cb\u003eO Evangelho segundo o espiritismo\u003c/b\u003e. 120a ed. Rio de\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T71VAgAAQBAJ",
+   "etag": "vZuw4/yJngM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T71VAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Fim da escuridão, O",
+    "subtitle": "",
+    "authors": [
+     "Robson Pinheiro",
+     "Ângelo Inácio (espírito)"
+    ],
+    "publisher": "Casa dos Espíritos Editora",
+    "publishedDate": "2012-04-15",
+    "description": "O tempo das profecias é chegado. É hora de implantar a política do Reino, ao menos na dimensão extrafísica. O mundo físico se ressente, agita-se numa época de efervescência e mudança. Não é pra menos. No plano espiritual, a ordem já foi dada, e está em pleno andamento a reurbanização da paisagem astral, que faz com que vales de dor e sofrimento cedam lugar a hospitais, escolas e postos de socorro. Quem quiser participar da nova Terra que se constrói vai ter de arregaçar as mangas e se envolver. De um e outro lado da vida, não há como ficar impassível diante dos apelos de transformação. Os guardiões transmitiram aos dragões o ultimato de Miguel, o príncipe dos exércitos celestes (Ap 12:7). Venha fazer parte desta jornada e saber o que se desenrola nos bastidores do mundo. Você também é chamado a colaborar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599818213"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "859981821X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=T71VAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=T71VAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=T71VAgAAQBAJ&pg=PA398&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=T71VAgAAQBAJ&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fim_da_escurid%C3%A3o_O.html?hl=&id=T71VAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T71VAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A gênese, os milagres e as predições segundo o espiritismo. 1a ed. esp. Rio de \u003cbr\u003e\nJaneiro: \u003cb\u003efeb\u003c/b\u003e, 2005. ____. \u003cb\u003eO Evangelho segundo o espiritismo\u003c/b\u003e. 1a ed. esp. Rio de \u003cbr\u003e\nJaneiro: \u003cb\u003efeb\u003c/b\u003e, 2005. ____. O livro dos espíritos. 1a ed. esp. Rio de Janeiro: \u003cb\u003efeb\u003c/b\u003e,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VVYvDwAAQBAJ",
+   "etag": "aS6eU6Emdl8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VVYvDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O que é o Espiritismo",
+    "subtitle": "Tradução da Redação de Reformador em 1884",
+    "authors": [
+     "Allan Kardec"
+    ],
+    "publisher": "Federação Espírita Brasileira (FEB)",
+    "publishedDate": "2017-08-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573289299"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573289295"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VVYvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VVYvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VVYvDwAAQBAJ&printsec=frontcover&dq=O+evangelho+segundo+o+espiritismo+(FEB)&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VVYvDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VVYvDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 3.51,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VVYvDwAAQBAJ&rdid=book-VVYvDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5000000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3510000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_%C3%A9_o_Espiritismo-sample-epub.acsm?id=VVYvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_%C3%A9_o_Espiritismo-sample-pdf.acsm?id=VVYvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VVYvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pUd6RAAACAAJ",
+   "etag": "4t4Gk+f4sV4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pUd6RAAACAAJ",
+   "volumeInfo": {
+    "title": "FEIOS",
+    "authors": [
+     "SCOTT WESTERFELD",
+     "RODRIGO CHIA"
+    ],
+    "description": "Em uma sociedade futurística, todos os adolescentes esperam ansiosos o aniversário de 16 anos, pois então serão submetidos a uma inacreditável cirurgia plástica, que corrigirá todas as suas imperfeições físicas, transformando-os em perfeitos. Tally, porém, acaba se envolvendo em uma conspiração e descobrirá que, por trás de tanta perfeição, se esconde um terrível segredo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501083704"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501083708"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pUd6RAAACAAJ&dq=isbn:9788501083708&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pUd6RAAACAAJ&dq=isbn:9788501083708&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FEIOS.html?hl=&id=pUd6RAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pUd6RAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O primeiro volume da série best-seller Feios, com novo projeto gráfico Séculos depois da destruição da civilização industrial em um apocalipse ecológico, a humanidade vive em cidades-bolha cercadas pela natureza selvagem."
+   }
+  }
+ ]
+}

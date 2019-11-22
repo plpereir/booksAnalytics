@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CxOsPgAACAAJ",
+   "etag": "wvNSa+mGhEs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CxOsPgAACAAJ",
+   "volumeInfo": {
+    "title": "TRUQUES DE MAGICA",
+    "subtitle": "COM MUITAS ATRAÇOES, TRUQUES E ILUSIONISMO",
+    "authors": [
+     "CIRANDA CULTURAL"
+    ],
+    "description": "Com mais de 100 truques e ilusionismos, truques de mágica, ensinando passo a passo cada uma delas, incluindo fotografias. Você aprenderá como dobrar uma colher, como dar um nó impossível ou fazer uma moeda atravessar a mesa tudo isto na frente dos seus familiares e amigos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8538001221"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538001225"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CxOsPgAACAAJ&dq=isbn:9788538001225&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CxOsPgAACAAJ&dq=isbn:9788538001225&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/TRUQUES_DE_MAGICA.html?hl=&id=CxOsPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CxOsPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você quer aprender como surpreender seus amigos e familiares fazendo truques perfeitos?"
+   }
+  }
+ ]
+}

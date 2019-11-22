@@ -1,0 +1,159 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Cus0RoUtAScC",
+   "etag": "FpW52YRHuo0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Cus0RoUtAScC",
+   "volumeInfo": {
+    "title": "Paciente com câncer",
+    "authors": [
+     "AURO DEL GIGLIO",
+     "RAFAEL KALIKS",
+     "LUCIANA HOLTZ"
+    ],
+    "publisher": "Editora Manole Ltda",
+    "description": "Este guia é indicado ao paciente recém-diagnosticado com câncer e seus familiares. Em meio ao turbilhão gerado pelo possível choque do diagnóstico e pelas dúvidas quanto ao que irá ocorrer, acredita-se que oferecer uma série de informações básicas e comuns a esse paciente pode ser útil. Com esse enfoque, os capítulos abordam os temas que são considerados primordiais ao mínimo entendimento sobre a doença e seu tratamento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578680510"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578680510"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 92,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Cus0RoUtAScC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Cus0RoUtAScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Cus0RoUtAScC&printsec=frontcover&dq=Box+-+Di%C3%A1rio+de+um+banana+(Pocket+-+vol.+1)&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Cus0RoUtAScC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Cus0RoUtAScC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Cus0RoUtAScC&rdid=book-Cus0RoUtAScC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Paciente_com_c%C3%A2ncer-sample-epub.acsm?id=Cus0RoUtAScC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Paciente_com_c%C3%A2ncer-sample-pdf.acsm?id=Cus0RoUtAScC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Cus0RoUtAScC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-oBQAAAAYAAJ",
+   "etag": "9Yrir6OQN8s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-oBQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Bulletin",
+    "publishedDate": "1897",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433024450458"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-oBQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-oBQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=-oBQAAAAYAAJ&q=Box+-+Di%C3%A1rio+de+um+banana+(Pocket+-+vol.+1)&dq=Box+-+Di%C3%A1rio+de+um+banana+(Pocket+-+vol.+1)&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-oBQAAAAYAAJ&dq=Box+-+Di%C3%A1rio+de+um+banana+(Pocket+-+vol.+1)&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bulletin.html?hl=&id=-oBQAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-oBQAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Carteras, Fábricas de — \u003cb\u003ePocket\u003c/b\u003e-Book, Card Cases, etc., Manufacturers of. \u003cbr\u003e\nCartonerías — Pasteboard-\u003cb\u003eBox\u003c/b\u003e M an n fa c- turers. Casas de Consignación ... en \u003cbr\u003e\nBalata— Balata Merchants. Comerciantes de Bananos — \u003cb\u003eBanana\u003c/b\u003e Merchants."
+   }
+  }
+ ]
+}

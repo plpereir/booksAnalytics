@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "V6FivgAACAAJ",
+   "etag": "H8dQweN7bIk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V6FivgAACAAJ",
+   "volumeInfo": {
+    "title": "COLORINDO TATTOO",
+    "authors": [
+     "MICHAEL O'MARA BOOKS"
+    ],
+    "description": "Seja você um especialista em tinta ou um entusiasta de primeira viagem, liberte o seu rebelde interior com estes projetos ousados. Tatuagens com motivos de tribais, dragões, caveiras, flores e muito mais para colorir. Encontre inspiração para fazer a sua, sem sentir dor!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522031525"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522031528"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=V6FivgAACAAJ&dq=isbn:9788522031528&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=V6FivgAACAAJ&dq=isbn:9788522031528&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/COLORINDO_TATTOO.html?hl=&id=V6FivgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V6FivgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seja você um especialista em tinta ou um entusiasta de primeira viagem, liberte o seu rebelde interior com estes projetos ousados."
+   }
+  }
+ ]
+}

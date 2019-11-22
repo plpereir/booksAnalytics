@@ -1,0 +1,103 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yhpfDwAAQBAJ",
+   "etag": "QIihRWsQkYE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yhpfDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Maior Poder do Mundo",
+    "authors": [
+     "Tiago Brunet"
+    ],
+    "publisher": "Editora Vida",
+    "publishedDate": "2018-06-07",
+    "description": "Conquiste uma vida extraordinária! Todas as pessoas desejam ter uma vida extraordinária! Para chegar ao destino almejado, no entanto, é preciso mais do que disposição ou perseverança; é preciso adquirir poder. O tempo é a moeda mais valiosa da atualidade, permeada de tecnologia digital, é impossível comprar tempo! Mas saber usá-lo bem fará toda a diferença para você conquistar cada um dos poderes necessários para desfrutar da vida com que sonha. Muitos são os poderes que influenciam a humanidade e que estão à nossa disposição. Neste livro, porém, estão listados os oito poderes imprescindíveis para quem estabeleceu o sucesso como alvo de vida: informação, dinheiro, networking, sabedoria, sonho, fé, amor e... O MAIOR PODER DO MUNDO, que levará você a alcançar patamares além de suas maiores expectativas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538303756"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538303759"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yhpfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yhpfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yhpfDwAAQBAJ&printsec=frontcover&dq=isbn:9788538303756&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yhpfDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yhpfDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yhpfDwAAQBAJ&rdid=book-yhpfDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.4E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Maior_Poder_do_Mundo-sample-epub.acsm?id=yhpfDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Maior_Poder_do_Mundo-sample-pdf.acsm?id=yhpfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yhpfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O MAIOR PODER DO MUNDO, que levará você a alcançar patamares além de suas maiores expectativas."
+   }
+  }
+ ]
+}

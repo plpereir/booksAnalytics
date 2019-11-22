@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2t8dvgAACAAJ",
+   "etag": "NG49/c21uQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2t8dvgAACAAJ",
+   "volumeInfo": {
+    "title": "Homo Deus",
+    "authors": [
+     "Yuval Noah Harari",
+     "Paulo Geiger"
+    ],
+    "publishedDate": "2016-10-17",
+    "description": "Neste Homo Deus- uma breve história do amanhã, Yuval Noah Harari, autor do estrondoso best-seller Sapiens- uma breve história da humanidade, volta a combinar ciência, história e filosofia, desta vez para entender quem somos e descobrir para onde vamos. Sempre com um olhar no passado e nas nossas origens, Harari investiga o futuro da humanidade em busca de uma resposta tão difícil quanto essencial- depois de séculos de guerras, fome e pobreza, qual será nosso destino na Terra? A partir de uma visão absolutamente original de nossa história, ele combina pesquisas de ponta e os mais recentes avanços científicos à sua conhecida capacidade de observar o passado de uma maneira inteiramente nova. Assim, descobrir os próximos passos da evolução humana será também redescobrir quem fomos e quais caminhos tomamos para chegar até aqui.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535928197"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535928198"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2t8dvgAACAAJ&dq=isbn:9788535928198&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2t8dvgAACAAJ&dq=isbn:9788535928198&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Homo_Deus.html?hl=&id=2t8dvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2t8dvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste Homo Deus: uma breve história do amanhã, Yuval Noah Harari, autor do estrondoso best-seller Sapiens: uma breve história da humanidade, volta a combinar ciência, história e filosofia, desta vez para entender quem somos e descobrir ..."
+   }
+  }
+ ]
+}

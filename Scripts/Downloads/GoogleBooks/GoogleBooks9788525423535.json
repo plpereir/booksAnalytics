@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sgK7ZwEACAAJ",
+   "etag": "Oe4niW9Ll0o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sgK7ZwEACAAJ",
+   "volumeInfo": {
+    "title": "Feliz por nada",
+    "authors": [
+     "Martha Medeiros"
+    ],
+    "publisher": "L&pm Editores",
+    "publishedDate": "2011-01-01",
+    "description": "O presente livro apresenta uma coletânea de mais de 80 crônicas. A autora visa a materializar as angústias e os anseios da sociedade, abordando temas diversos e cotidianos, incluindo questões consideradas universais, como o amor, a família, a amizade, a mulher, entre outros temas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852542353X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525423535"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian chronicles"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sgK7ZwEACAAJ&dq=isbn:9788525423535&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sgK7ZwEACAAJ&dq=isbn:9788525423535&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Feliz_por_nada.html?hl=&id=sgK7ZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sgK7ZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O presente livro apresenta uma coletânea de mais de 80 crônicas."
+   }
+  }
+ ]
+}

@@ -1,0 +1,844 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 345,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8AlWBQAAQBAJ",
+   "etag": "2A3g5NFOrBA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8AlWBQAAQBAJ",
+   "volumeInfo": {
+    "title": "As Aventuras Na Floresta Mágica",
+    "authors": [
+     "Felype Dantas"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-02-16",
+    "description": "Uma micro história com muitas emoções, você com certeza irá se emocionar e se conectar com esta história.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90160174"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8AlWBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8AlWBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8AlWBQAAQBAJ&pg=PA9&dq=Floresta+m%C3%A1gica&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8AlWBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8AlWBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8AlWBQAAQBAJ&rdid=book-8AlWBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Aventuras_Na_Floresta_M%C3%A1gica-sample-pdf.acsm?id=8AlWBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8AlWBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003efloresta\u003c/b\u003e. \u003cb\u003emágica\u003c/b\u003e. O Luiz caiu em um outro lado da Ilha distante do restante da \u003cbr\u003e\nsua família. A Família de Luiz foi rapidamente resgatada só Luiz que ficou na ilha \u003cbr\u003e\nde Gelo e em busca do caminho de casa se deparou em um penhasco alto ele&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MtdxDwAAQBAJ",
+   "etag": "1ZKWQk70pGk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MtdxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "As Aventuras Na Floresta Mágica",
+    "authors": [
+     "Felype"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Uma micro história com muitas emoções, você com certeza irá se emocionar e se conectar com esta história.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20922"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MtdxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MtdxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MtdxDwAAQBAJ&pg=PA9&dq=Floresta+m%C3%A1gica&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MtdxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MtdxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MtdxDwAAQBAJ&rdid=book-MtdxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Aventuras_Na_Floresta_M%C3%A1gica-sample-pdf.acsm?id=MtdxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MtdxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003efloresta\u003c/b\u003e. \u003cb\u003emágica\u003c/b\u003e. O Luiz caiu em um outro lado da Ilha distante do restante da \u003cbr\u003e\nsua família. A Família de Luiz foi rapidamente resgatada só Luiz que ficou na ilha \u003cbr\u003e\nde Gelo e em busca do caminho de casa se deparou em um penhasco alto ele&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TLyKDwAAQBAJ",
+   "etag": "IHfnCNd7qeU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TLyKDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Aquele garoto e os segredos da floresta mágica",
+    "authors": [
+     "Marcel Nilo"
+    ],
+    "publisher": "Editora Terceiro Nome",
+    "publishedDate": "2019-02-28",
+    "description": "Um dia, um garoto sem mágica entrou na floresta encantada para recuperar sua pipa perdida. Ele não sabia que teria de enfrentar duendes invejosos, feitiços assustadores, anões valorosos e uma corrida contra o tempo para impedir um terrível mal. Este livro conta a história desse garoto e você deveria conhecer a floresta com ele.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578162733"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578162730"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TLyKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TLyKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TLyKDwAAQBAJ&pg=PA10&dq=Floresta+m%C3%A1gica&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TLyKDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TLyKDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TLyKDwAAQBAJ&rdid=book-TLyKDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.8E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.8E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Aquele_garoto_e_os_segredos_da_floresta-sample-pdf.acsm?id=TLyKDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TLyKDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Julian ficou parado diante da floresta, encarando-a. Agora que estava ali, se deu \u003cbr\u003e\nconta de como a \u003cb\u003eFloresta Mágica\u003c/b\u003e dos Duendes parecia assustadora: as árvores \u003cbr\u003e\neram grossas e retorcidas, tão próximas umas das outras que a luz do sol mal&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ncF5DwAAQBAJ",
+   "etag": "Gc+HF9jbWog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ncF5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O CÃozinho Pintado E A Floresta MÁgica",
+    "authors": [
+     "J. Rafael Trindade"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um conto infantil passeado em histórias criadas por mim para embalar o sono de minha filha, enquanto criança bem pequenina. Envolvido por seu entusiasmo a contação se estendia... O sono dava lugar a curiosidade. Adorava, as aventuras, sempre com o cãozinho pintado...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU33214"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 27,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ncF5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ncF5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ncF5DwAAQBAJ&pg=PA9&dq=Floresta+m%C3%A1gica&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ncF5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ncF5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ncF5DwAAQBAJ&rdid=book-ncF5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_C%C3%83ozinho_Pintado_E_A_Floresta_M%C3%81gica-sample-pdf.acsm?id=ncF5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ncF5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Muito simples você esta na Floresta encantada! Até você pode falar... - é verdade\u003cbr\u003e\n! ... casa de seus donos. - Coitadinho cãozinho!!!! Mas você tem que voltar, eles \u003cbr\u003e\nvão [ 9 ] O CÃOZINHO PINTADO E A \u003cb\u003eFLORESTA MÁGICA\u003c/b\u003e, por J.Rafael Trindade\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h1dGvAEACAAJ",
+   "etag": "nWJwTC/PMFk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h1dGvAEACAAJ",
+   "volumeInfo": {
+    "title": "Os Douradinhos - Na Floresta Mágica",
+    "authors": [
+     "Alberto Pereira Caeiro"
+    ],
+    "description": "\"Os Douradinhos vão viver uma aventura fantástica na Floresta Mágica. Os cinco amigos irão descobrir umas pegadas e resolver um grande mistério\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9895238681"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789895238682"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 62,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h1dGvAEACAAJ&dq=Floresta+m%C3%A1gica&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=h1dGvAEACAAJ&dq=Floresta+m%C3%A1gica&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_Douradinhos_Na_Floresta_M%C3%A1gica.html?hl=&id=h1dGvAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h1dGvAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Douradinhos vão viver uma aventura fantástica na Floresta Mágica. Os cinco amigos irão descobrir umas pegadas e resolver um grande mistério&quot;"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "97IovgAACAAJ",
+   "etag": "ecS7+UazYo0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/97IovgAACAAJ",
+   "volumeInfo": {
+    "title": "A FLORESTA MAGICA",
+    "authors": [
+     "JULIANA FERRARI ARAÚJO"
+    ],
+    "description": "Kisse é uma garota que precisa ir num acampamento vegetariano, promovido pela escola para recuperar sua nota de biologia. O que ela não sabe é que esse evento vai se transformar numa longa aventura... Em uma floreta repleta de seres encantados que ela nem faz ideia que existem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "855512073X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555120732"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=97IovgAACAAJ&dq=Floresta+m%C3%A1gica&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=97IovgAACAAJ&dq=Floresta+m%C3%A1gica&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_FLORESTA_MAGICA.html?hl=&id=97IovgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=97IovgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Kisse é uma garota que precisa ir num acampamento vegetariano, promovido pela escola para recuperar sua nota de biologia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YGaMDwAAQBAJ",
+   "etag": "jkOr7xO5Lhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YGaMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Floresta Encantada Livro um dia encantado para os Unicórnios",
+    "authors": [
+     "On line editora"
+    ],
+    "publisher": "On Line Editora",
+    "description": "Uma incrível história dos Unicórnios sobre um lindo baile no reino encantado.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 14,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YGaMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YGaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YGaMDwAAQBAJ&pg=PP6&dq=Floresta+m%C3%A1gica&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YGaMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YGaMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YGaMDwAAQBAJ&rdid=book-YGaMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YGaMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "On line editora. AS IRMÃS CRISTAL EDIAMANTE FORAM CONVERSAR COM \u003cbr\u003e\nAS FADINHAS DA \u003cb\u003eFLORESTA MÁGICA\u003c/b\u003e E PEDIRAM QUE ELAS \u003cbr\u003e\nPREPARASSEM UMA LINDA SURPRESA PARAOS AMIGOS NA NOITE \u003cbr\u003e\nESPECIAL. * -"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2f4cvgAACAAJ",
+   "etag": "eX6DSekwP9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2f4cvgAACAAJ",
+   "volumeInfo": {
+    "title": "AQUELE GAROTO E OS SEGREDOS DA FLORESTA MAGICA",
+    "authors": [
+     "MARCEL LINO"
+    ],
+    "description": "Certa vez, um curioso homenzinho apareceu montado em um bode e contou a seguinte história - 'Um dia, aquele garoto sem mágica entrou em nossa floresta à procura de sua pipa perdida. Ele não sabia que teria de enfrentar duendes invejosos, feitiços assustadores, anões valorosos e uma corrida contra o tempo para impedir um terrível mal. Este livro conta a história desse garoto, e você deveria conhecer a floresta com ele'. De repente, algo inusitado ficou claro - não era o homenzinho quem falava, mas sim o bode. Antes que o espanto passasse, os dois partiram deixando para trás este livro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578161076"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578161071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 79,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2f4cvgAACAAJ&dq=Floresta+m%C3%A1gica&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2f4cvgAACAAJ&dq=Floresta+m%C3%A1gica&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/AQUELE_GAROTO_E_OS_SEGREDOS_DA_FLORESTA.html?hl=&id=2f4cvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2f4cvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Certa vez, um curioso homenzinho apareceu montado em um bode e contou a seguinte história - &#39;Um dia, aquele garoto sem mágica entrou em nossa floresta à procura de sua pipa perdida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WUBQBQAAQBAJ",
+   "etag": "97AAiI372AY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WUBQBQAAQBAJ",
+   "volumeInfo": {
+    "title": "O Violinista",
+    "authors": [
+     "Luís Delgado"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-03-13",
+    "description": "Os séculos precedentes testemunharam o nascimento de uma ciência divina, como, também, o trabalho de tantos mestres em manter tal conhecimento longe de olhos imprudentes. Porém, recentemente, muitos selos começaram a ser quebrados. A escola anciã começou a ensinar abertamente outra vez, e de maneira intensa. O Violinista torna-se, assim, uma proposta de encontro entre o clássico e o moderno, uma resposta àqueles que julgaram os antigos por primitivos, e, acima de tudo, a afirmação do poder natural do homem, verdadeiro titã adormecido. Algo de fábula, poemas em prosa e símbolos da velha Arte tornam a obra, verdadeiramente, um romance alquímico. Uma jornada arquetípica pelo Corpo de Luz em uma narrativa aos domínios da alma, encantando o leitor através da saga de Hélio, em sua busca para livrar a vila de Áurea de uma terrível ameaça.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90142439"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WUBQBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WUBQBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WUBQBQAAQBAJ&pg=PA33&dq=Floresta+m%C3%A1gica&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WUBQBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WUBQBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 10.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WUBQBQAAQBAJ&rdid=book-WUBQBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.099E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.099E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Violinista-sample-pdf.acsm?id=WUBQBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WUBQBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Havia finalmente encontrado a \u003cb\u003eFloresta Mágica\u003c/b\u003e de Outono. Apressou-se e \u003cbr\u003e\nadentrou os caminhos daquele recinto encantado, ali, o ar era diferente, como se \u003cbr\u003e\nrealmente a estação do ano houvesse mudado. Ao longe, percebeu uma casa&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I3q_DQAAQBAJ",
+   "etag": "1nmnmTEMrA4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I3q_DQAAQBAJ",
+   "volumeInfo": {
+    "title": "O rei Corvo - A saga dos corvos -",
+    "authors": [
+     "Maggie Stiefvater"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2016-12-16",
+    "description": "Nada que está vivo é seguro. Nada que está morto é confiável. Há anos Gansey iniciou uma jornada para encontrar um rei perdido. Um a um, ele atraiu seus amigos para essa missão: Ronan, que rouba coisas de sonhos; Adam, cuja vida já não é sua; Noah, cuja vida não é mais vida; e Blue, que ama Gansey... e tem certeza de que está destinada a matá-lo. O fim já começou. Sonhos e pesadelos estão convergindo. Amor e perda são coisas inseparáveis. E a busca pelo rei se recusa a ser fixada em um caminho. A busca pelo rei adormecido vai chegar ao fim em Henrietta — mas não sem perdas, desejos, revelações e uma verdade brutal. Com O rei Corvo, Stiefvater conclui uma verdadeira obra-prima.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576865742"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576865742"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 378,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=I3q_DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=I3q_DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=I3q_DQAAQBAJ&pg=PT17&dq=Floresta+m%C3%A1gica&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=I3q_DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-I3q_DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 42.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=I3q_DQAAQBAJ&rdid=book-I3q_DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.266E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_rei_Corvo_A_saga_dos_corvos-sample-epub.acsm?id=I3q_DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_rei_Corvo_A_saga_dos_corvos-sample-pdf.acsm?id=I3q_DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I3q_DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... abaixo da linha ley; as criaturas estranhas se arrastando para fora de uma \u003cbr\u003e\ncaverna, numa fazenda abandonada; o poder crescente da linha ley; a \u003cb\u003efloresta\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003emágica\u003c/b\u003e sensível sobre a linha ley; a barganha de um garoto com a \u003cb\u003efloresta\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003emágica\u003c/b\u003e;&nbsp;..."
+   }
+  }
+ ]
+}

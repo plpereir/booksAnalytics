@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SH3EmwEACAAJ",
+   "etag": "SML37GvMtUM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SH3EmwEACAAJ",
+   "volumeInfo": {
+    "title": "100 COISAS PARA FAZER A DOIS",
+    "authors": [
+     "DALIA F WALKER",
+     "NICÓLAS SILBERT",
+     "CAMÉLIA DOS ANJOS"
+    ],
+    "description": "Quando encontramos alguém para amar e nos acompanhar no dia a dia, todas as experiências – das mais rotineiras às que nunca imaginamos fazer – se tornam mais encantadoras Andar de bicicleta, assistir à um filme, cozinhar, saltar de paraquedas Não importa o dia, a hora, os riscos, pois tudo vale a pena se estivermos acompanhados pela pessoa certa Afinal, os melhores momentos da vida são aqueles que passamos ao lado de quem amamos",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857683491X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576834915"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SH3EmwEACAAJ&dq=isbn:9788576834915&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=SH3EmwEACAAJ&dq=isbn:9788576834915&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/100_COISAS_PARA_FAZER_A_DOIS.html?hl=&id=SH3EmwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SH3EmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando encontramos alguém para amar e nos acompanhar no dia a dia, todas as experiências – das mais rotineiras às que nunca imaginamos fazer – se tornam mais encantadoras."
+   }
+  }
+ ]
+}

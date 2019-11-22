@@ -1,0 +1,815 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 139,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5zVHnwEACAAJ",
+   "etag": "7cTMtRjWYTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5zVHnwEACAAJ",
+   "volumeInfo": {
+    "title": "MAGIA DO ATENDIMENTO, A - AS 39 REGRAS ESSENCIAIS",
+    "subtitle": "PARA GARANTIR SERVIÇOS EXCEPCIONAIS",
+    "authors": [
+     "LEE COCKERELL",
+     "CRISTINA YAMAGAMI"
+    ],
+    "description": "Repleto de conselhos baseados na experiência do autor, a obra apresenta dicas que podem ser aplicadas tanto em empresa físicas quanto virtuais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502204815"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502204812"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5zVHnwEACAAJ&dq=A+magia+do+atendimento&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5zVHnwEACAAJ&dq=A+magia+do+atendimento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MAGIA_DO_ATENDIMENTO_A_AS_39_REGRAS_ESSE.html?hl=&id=5zVHnwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5zVHnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Repleto de conselhos baseados na experiência do autor, a obra apresenta dicas que podem ser aplicadas tanto em empresa físicas quanto virtuais."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fvhxDwAAQBAJ",
+   "etag": "lJIYzWcZRXA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fvhxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Uau!",
+    "authors": [
+     "Andrea"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Distribuídos em seis capítulos, dados de pesquisa teórica do modelo Disney, exemplos reais pela autora presenciados e casos vencedores das empresas escolhidas por utilizarem o modelo campeão para criar relacionamentos consistentes com seus clientes. A autora mostra como uma CULTURA organizacional consolidada, LIDERANÇAS bem preparadas e relacionamentos sólidos com seus CLIENTES dependem diretamente de um excelente serviço entregue por PESSOAS que amam o que fazem e são totalmente comprometidas com a empresa, CENÁRIOS bem preparados e com manutenção perfeita e PROCESSOS bem descritos e realizados.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU25442"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fvhxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fvhxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fvhxDwAAQBAJ&pg=PA140&dq=A+magia+do+atendimento&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fvhxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fvhxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fvhxDwAAQBAJ&rdid=book-fvhxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uau-sample-pdf.acsm?id=fvhxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fvhxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "São Paulo – Futura, 2002 \u003cb\u003eA Magia\u003c/b\u003e do Império Disney, Ginha Nader. São Paulo ... \u003cbr\u003e\nSão Paulo – Editora Saraiva, 2013 As Incríveis Chaves WOW para o seu \u003cbr\u003e\nSucesso em Vendas, [140] Excelência em Gestão no \u003cb\u003eAtendimento\u003c/b\u003e, por Andréa \u003cbr\u003e\nMedina."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "22Y-ChglNBUC",
+   "etag": "V5ps9OXI9NU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/22Y-ChglNBUC",
+   "volumeInfo": {
+    "title": "Atendimento Nota 10",
+    "subtitle": "Tudo o que você precisa saber para prestar um excelente serviço e fazer com que os clientes voltem sempre",
+    "authors": [
+     ", Performance Research Associates"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2013-05-17",
+    "description": "Prestar um Atendimento nota 10 é criar uma experiência inesquecível para o cliente. É suprir expectativas e satisfazer necessidades, descobrindo oportunidades de surpreender e cativar. E assim fazer com que ele volte sempre.Com uma linguagem e ilustrações simples e bem-humoradas, Atendimento nota 10 aborda os mais importantes aspectos envolvidos em um serviço de alta qualidade. Aqui você encontrará variadas estratégias, técnicas e dicas para prestar o melhor atendimento — pessoalmente, pela internet e pelo telefone.Seja você um iniciante ou um profissional experiente nessa área, esta leitura lhe dará uma visão bastante positiva dos desafios relacionados a essa atividade, mostrando como:· Evitar os 10 pecados do atendimento ao cliente.· Aplicar os princípios fundamentais do bom atendimento: confiabilidade, empatia, segurança, aparência e resposta.· Solucionar problemas e fazer com que clientes decepcionados voltem a se sentir satisfeitos.· Usar os segredos do Atendimento Nota 10, como a capacidade de ouvir.· Formular boas perguntas para obter respostas valiosas dos clientes.· Lidar com \"clientes infernais\".· Manter-se calmo e adotar sempre uma postura profissional.\"Atendimento ao cliente – Essas palavras significam muito. Responder a perguntas. Resolver problemas. Consertar o que se rompeu e encontrar o que foi perdido. Acalmar o cliente furioso e deixar o tímido à vontade. E, a cada caso, tirar um coelho da cartola: fazer com que as pessoas encontrem os produtos, os serviços e as soluções ideais para elas... e ajudá-las a se divertir e a aproveitar ao máximo o que adquiriram.\" – Ron Zemke",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575429389"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575429388"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.27.28.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=22Y-ChglNBUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=22Y-ChglNBUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=22Y-ChglNBUC&pg=PT13&dq=A+magia+do+atendimento&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=22Y-ChglNBUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-22Y-ChglNBUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=22Y-ChglNBUC&rdid=book-22Y-ChglNBUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Atendimento_Nota_10-sample-epub.acsm?id=22Y-ChglNBUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Atendimento_Nota_10-sample-pdf.acsm?id=22Y-ChglNBUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=22Y-ChglNBUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "impera \u003cb\u003ea magia do atendimento\u003c/b\u003e ao cliente. Uma amiga nossa esteve lá e decidiu \u003cbr\u003e\ncurtir um belo dia de verão no parque Magic Kingdom. Após ter esperado na fila \u003cbr\u003e\npor cerca de 20 minutos para comprar uma casquinha, ela seguiu pela rua&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wdRiDwAAQBAJ",
+   "etag": "nGVn/brGB/A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wdRiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Criando magia",
+    "authors": [
+     "Lee Cockerell"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2018-01-11",
+    "description": "Não é com mágica que se faz um bom trabalho; é com um bom trabalho que se faz mágica.¿ Durante mais de uma década por trás do Walt Disney World® Resort, Lee Cockerell repetiu essa frase centenas de vezes a seus colaboradores. E, para ele, o segredo para ¿criar mágica¿ em uma empresa é simples: ela deve contar com uma liderança excelente, daquela que inspira funcionários, encanta clientes e gera resultados financeiros extraordinários.Em Criando magia, Lee revela os 10 princípios de liderança que se tornaram parte essencial da cultura corporativa do maior destino de férias do mundo. Baseando-se sobretudo na ideia de que a boa liderança não é centrada na figura do líder, mas sim nas pessoas que ele gerencia, Lee criou aqui um manual simples e útil para todos aqueles que almejam ter funcionários mais satisfeitos e uma empresa onde todos desejam trabalhar.RESENHA:Muitos manuais e livros de negócios atestam que o cliente vem sempre em primeiro lugar. Mas Lee Cockerell, que trabalhou por 16 anos no Walt Disney World® Resort, pensa diferente. Para ele, o que vem em primeiro lugar é a liderança. Afinal, somente a boa liderança conduz à excelência dos funcionários, e esta, por sua vez, gera satisfação nos clientes e sólidos resultados financeiros. Criando magia foi escrito com base nessa premissa. E a boa liderança, segundo Lee, não envolve decorar complexas teorias de administração, mas sim valorizar os colaboradores e inseri-los nos processos de decisão. Para ele, todos podem se tornar líderes extraordinários ao seguir 10 estratégias simples, que incluem:¿ Esteja sempre à disposição de sua equipe¿ Trate os funcionários como você quer que seus clientes sejam tratados¿ Dê às pessoas um propósito, não só um emprego¿ Ensine dando o exemplo¿ Reconheça e incentive as boas ideias¿ Nunca perca o senso de humor Combinando uma sólida sabedoria empresarial e histórias inspiradoras retiradas da longa trajetória profissional do autor, Criando magia mostra a todos ¿ tanto donos de pequenas empresas quanto gerentes de grandes corporações ¿ como se tornar líderes melhores ao infundir excelência, caráter, coragem, entusiasmo e integridade no ambiente de trabalho e na vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788557170803"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8557170807"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wdRiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wdRiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wdRiDwAAQBAJ&pg=PT326&dq=A+magia+do+atendimento&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wdRiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wdRiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wdRiDwAAQBAJ&rdid=book-wdRiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.8E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.8E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Criando_magia-sample-epub.acsm?id=wdRiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wdRiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sobre o autor Lee Cockerell trabalhou como vice-presidente executivo de \u003cbr\u003e\noperações do Walt Disney World® Resort por mais de dez anos ... De sua \u003cbr\u003e\nautoria, a Benvirá já lançou \u003cb\u003eA magia do atendimento\u003c/b\u003e e A magia do \u003cbr\u003e\ngerenciamento do tempo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3SprDwAAQBAJ",
+   "etag": "BjR7C8XxQyg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3SprDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O JEITO DISNEY DE ENCANTAR OS CLIENTES",
+    "authors": [
+     "AGENCIA LITERARIA RIFF LTDA,DISNEY INSTITUTE"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Do atendimento excepcional ao nunca parar de crescer e acreditar. Todas as empresas buscam atingir a mesma meta: atender melhor as pessoas que compram seus produtos e serviços. Não importa se elas são chamadas de clientes, consumidores, pacientes ou, no caso da Disney, convidados. Ou você as satisfaz ou corre o risco de perdê-las. Apesar de as tendências para o ambiente de trabalho irem e virem, as empresas sempre precisarão encontrar novas e criativas maneiras de capitalizar a inteligência, a paixão e a energia criativa de sua força de trabalho. Pela primeira vez, o elemento mais importante da metodologia que está por trás da magia Disney será revelado o atendimento de qualidade. Neste livro, nós o levaremos aos bastidores para mostrar as melhores práticas e filosofias da Disney em ação, proporcionando uma visão dos princípios de atendimento de qualidade na prática, tanto no Walt Disney World, sob o ponto de vista dos membros do elenco, quanto em outras organizações, de acordo com os executivos que participaram dos programas do Disney Institute. Você é o nosso convidado. Venha conhecer como fazemos magia todos os dias e o que faz da nossa empresa um sucesso lendário.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502124059"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502124056"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3SprDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3SprDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3SprDwAAQBAJ&pg=PT30&dq=A+magia+do+atendimento&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3SprDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3SprDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3SprDwAAQBAJ&rdid=book-3SprDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.191E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_JEITO_DISNEY_DE_ENCANTAR_OS_CLIENTES-sample-epub.acsm?id=3SprDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3SprDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O ciclo \u003cb\u003ede atendimento de\u003c/b\u003e qualidade é centrado no tema do \u003cb\u003eatendimento de\u003c/b\u003e uma \u003cbr\u003e\norganização. O tema do \u003cb\u003eatendimento\u003c/b\u003e é uma declaração ... por sua vez, nos \u003cbr\u003e\nCapítulos 3, 4 e 5. \u003cb\u003eA magia\u003c/b\u003e do elenco Nas últimas décadas, organizações por \u003cbr\u003e\ntoda."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WQwKIvFwcfMC",
+   "etag": "L9hm+SoF21k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WQwKIvFwcfMC",
+   "volumeInfo": {
+    "title": "A Magia Dos Grandes Negociadores",
+    "authors": [
+     "CARLOS ALBERTO JULIO"
+    ],
+    "publisher": "Elsevier Brasil",
+    "description": "O profissional de que qualquer organização precisa é aquele que sabe negociar, conhece seu mercado, assessora o cliente, enfim, é um importante elo da cadeia de valor de qualquer produto ou serviço. Existem diferentes técnicas e abordagens para chegar lá, e é o que este livro oferece. Fruto de anos de experiência, estudos, observação e interações, este livro irá ajudar o leitor a se desenvolver e crescer como negociador. Originalmente foi dividido em dez capítulos, cada um dedicado a uma 'Regra de Ouro' da negociação. Mas nesta edição ganhou um novo formato, atualizações e um posfácio com três Regras de Diamante, aplicáveis principalmente a vendas de produtos ou serviços, mas que se estendem à venda de idéias e ao marketing pessoal. Essas Regras de Diamante surgiram empiricamente, tanto em negociações diárias, como nas palestras e aulas nas quais o autor explora o tema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535219129"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535219128"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WQwKIvFwcfMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WQwKIvFwcfMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WQwKIvFwcfMC&pg=PP43&dq=A+magia+do+atendimento&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WQwKIvFwcfMC&dq=A+magia+do+atendimento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Magia_Dos_Grandes_Negociadores.html?hl=&id=WQwKIvFwcfMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WQwKIvFwcfMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Diferentes pesquisas confirmam: \u003cb\u003ea\u003c/b\u003e atenção ao cliente é o ponto nevrálgico \u003cb\u003ede\u003c/b\u003e \u003cbr\u003e\num negócio. ... 68% dos pesquisados indicam o \u003cb\u003eatendimento\u003c/b\u003e dos funcionários e \u003cbr\u003e\nseu comportamento como \u003cb\u003ea\u003c/b\u003e principal motivação para deixar \u003cb\u003ede\u003c/b\u003e comprar \u003cb\u003ede\u003c/b\u003e uma\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6FV7qS2xbrwC",
+   "etag": "Q+w/OXsmdFs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6FV7qS2xbrwC",
+   "volumeInfo": {
+    "title": "A Magia Dos Grandes Negociadores",
+    "authors": [
+     "Carlos Alberto Júlio"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575890050"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575890059"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 147,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6FV7qS2xbrwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6FV7qS2xbrwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6FV7qS2xbrwC&pg=PA37&dq=A+magia+do+atendimento&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6FV7qS2xbrwC&dq=A+magia+do+atendimento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Magia_Dos_Grandes_Negociadores.html?hl=&id=6FV7qS2xbrwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6FV7qS2xbrwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O leitor deve ter percebido o que acabei \u003cb\u003ede\u003c/b\u003e fazer: coloquei-me na posição \u003cb\u003ede\u003c/b\u003e \u003cbr\u003e\ncliente. ... 68% dos pesquisados indicam o \u003cb\u003eatendimento\u003c/b\u003e dos funcionários e seu \u003cbr\u003e\ncomportamento como \u003cb\u003ea\u003c/b\u003e principal motivação para deixar \u003cb\u003ede\u003c/b\u003e comprar \u003cb\u003ede\u003c/b\u003e uma&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OLpoDwAAQBAJ",
+   "etag": "BiNG4/e2bKA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OLpoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A magia do silêncio",
+    "subtitle": "Um olhar moderno e descontraído sobre práticas e tradições milenares que conduzem à calma e à serenidade.",
+    "authors": [
+     "Kankyo Tannier"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2018-09-10",
+    "description": "Celebrada como uma nova e original voz do budismo, a monja francesa Kankyo Tannier parte de sua rica experiência pessoal para nos mostrar o poder transformador da prática do silêncio.Não apenas o silêncio das palavras, mas também dos pensamentos (reduzindo julgamentos e críticas internas), dos olhos (evitando o excesso de informações) e do corpo (reencontrando o prazer de estar presente a cada momento).Escrito com sensibilidade e a dose certa de humor, A magia do silêncio traz dicas, meditações e exercícios práticos para incluir pequenos intervalos de paz na agitação do dia a dia.Ao fazer essas pausas, os sentidos despertam e voltam a se abrir para as maravilhas escondidas na vida cotidiana.\"Kankyo Tannier apresenta um caminho real para a calma imediata. Após alguns minutos de prática, sua respiração fica mais tranquila e você se sente mais presente (funciona mesmo, nós testamos).\" – Cosmopolitan",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543106564"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543106567"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OLpoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OLpoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OLpoDwAAQBAJ&pg=PT5&dq=A+magia+do+atendimento&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OLpoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OLpoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OLpoDwAAQBAJ&rdid=book-OLpoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_magia_do_sil%C3%AAncio-sample-epub.acsm?id=OLpoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_magia_do_sil%C3%AAncio-sample-pdf.acsm?id=OLpoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OLpoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um olhar moderno e descontraído sobre práticas e tradições milenares que \u003cbr\u003e\nconduzem \u003cb\u003eà\u003c/b\u003e calma e \u003cb\u003eà\u003c/b\u003e serenidade. ... CATALOGAÇÃO NA PUBLICAÇÃO \u003cbr\u003e\nSINDICATO NACIONAL DOS EDITORES \u003cb\u003eDE\u003c/b\u003e LIVROS, RJ T172m Tannier, \u003cbr\u003e\nKankyo \u003cb\u003eA magia\u003c/b\u003e do silêncio [recurso ... (21)2538-4100 – Fax: (21) 2286-9244 E-\u003cbr\u003e\nmail: \u003cb\u003eatendimento\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_pMQAAAAYAAJ",
+   "etag": "be2RFIxGEwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_pMQAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A magia dos invencíveis",
+    "subtitle": "os meninos de rua na Escola Tia Ciata",
+    "authors": [
+     "Ligia Costa Leite"
+    ],
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173025412057"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Abandoned children"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_pMQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_pMQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_pMQAAAAYAAJ&q=A+magia+do+atendimento&dq=A+magia+do+atendimento&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_pMQAAAAYAAJ&dq=A+magia+do+atendimento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_magia_dos_invenc%C3%ADveis.html?hl=&id=_pMQAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_pMQAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Até 1964, \u003cb\u003ea\u003c/b\u003e instituição oficial encarregada do \u003cb\u003eatendimento\u003c/b\u003e específico ao menor \u003cbr\u003e\nera o SAM (Serviço \u003cb\u003ede\u003c/b\u003e Assistência ao Menor), criado em 1941. Nessa época, \u003cbr\u003e\nsurgiu \u003cb\u003ea\u003c/b\u003e FUNABEM pela Lei n. 4.513, que simultaneamente extinguia o SAM,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JZkNAAAAYAAJ",
+   "etag": "g8YJpp9vkH0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JZkNAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Da doença à desordem",
+    "subtitle": "a magia na Umbanda",
+    "authors": [
+     "Paula Montero"
+    ],
+    "publishedDate": "1985",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023366276"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Brasil - Religión"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JZkNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JZkNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JZkNAAAAYAAJ&q=A+magia+do+atendimento&dq=A+magia+do+atendimento&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JZkNAAAAYAAJ&dq=A+magia+do+atendimento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Da_doen%C3%A7a_%C3%A0_desordem.html?hl=&id=JZkNAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JZkNAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003ea magia\u003c/b\u003e na Umbanda Paula Montero. diferencial \u003cb\u003ede\u003c/b\u003e serviços \u003cb\u003ede\u003c/b\u003e saúde traz para \u003cbr\u003e\nas ... eu não vou não (dona-\u003cb\u003ede\u003c/b\u003e-casa — frequentadora). Essa imensa frustração \u003cbr\u003e\n\u003cb\u003ede\u003c/b\u003e nossa informante com relação ao que ela esperava do \u003cb\u003eatendimento\u003c/b\u003e médico&nbsp;..."
+   }
+  }
+ ]
+}

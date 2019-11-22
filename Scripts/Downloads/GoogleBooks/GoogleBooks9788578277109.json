@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t5JHwQEACAAJ",
+   "etag": "osIxF/Z5RNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t5JHwQEACAAJ",
+   "volumeInfo": {
+    "title": "O Hobbit",
+    "authors": [
+     "J. R. R. Tolkien",
+     "Almiro Pisetta",
+     "Lenita Maria Rimoli Esteves"
+    ],
+    "description": "Prelúdio de 'O Senhor dos Anéis', 'O Hobbit' conquistou sucesso imediato quando foi publicado em 1937. Vendeu milhões de cópias em todo o mundo e estabeleceu-se como um clássico moderno e um dos livros mais influentes de nossa geração. Bilbo Bolseiro é um hobbit que leva uma vida confortável e sem ambições. Mas seu contentamento é perturbado quando Gandalf, o mago, e uma companhia de anões batem à sua porta e levam-no para uma expedição. Eles têm um plano para roubar o tesouro guardado por Smaug, o Magnífico, um grande e perigoso dragão. Bilbo reluta muito em participar da aventura, mas acaba surpreendendo até a si mesmo com sua esperteza e sua habilidade como ladrão! Tradução de Lenita Maria Rímoli Esteves.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578277104"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578277109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t5JHwQEACAAJ&dq=isbn:9788578277109&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=t5JHwQEACAAJ&dq=isbn:9788578277109&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Hobbit.html?hl=&id=t5JHwQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t5JHwQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Prelúdio de &#39;O Senhor dos Anéis&#39;, &#39;O Hobbit&#39; conquistou sucesso imediato quando foi publicado em 1937."
+   }
+  }
+ ]
+}

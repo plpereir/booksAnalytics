@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-OhUmwEACAAJ",
+   "etag": "c2d9UFTcJcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-OhUmwEACAAJ",
+   "volumeInfo": {
+    "title": "Antônio Ermirio de Moraes",
+    "subtitle": "memórias de um diário confidencial",
+    "authors": [
+     "José Pastore"
+    ],
+    "publishedDate": "2013",
+    "description": "Antônio Ermírio de Moraes é um dos maiores e mais importantes empreendedores do Brasil. À frente do Grupo Votorantim, acompanhou de perto grandes acontecimentos da história do país e foi sempre admirado por administrar suas empresas com seriedade, ética e humildade, além de manter um permanente envolvimento com relevantes projetos sociais, em especial nas áreas da saúde e da educação. José Pastore, seu melhor amigo há 35 anos, aborda aqui a vida desse grande brasileiro; a infância em São Paulo, a faculdade nos Estados Unidos, a vida em família, a rotina pesada de um workaholic, seu envolvimento no mundo da política e - para surpresa de muitos - sua entrada na vida artística, que acabaria mudando completamente seu jeito de ser. Recheada de revelações inéditas e histórias saborosas, a obra de José Pastore descreve um homem de personalidade forte e opiniões incisivas, que nunca deixou de sonhar por um país mais justo e honesto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542200144"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542200140"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Businessmen"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-OhUmwEACAAJ&dq=isbn:9788542200140&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-OhUmwEACAAJ&dq=isbn:9788542200140&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ant%C3%B4nio_Ermirio_de_Moraes.html?hl=&id=-OhUmwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-OhUmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "José Pastore, seu melhor amigo há 35 anos, aborda aqui a vida desse grande brasileiro; a infância em São Paulo, a faculdade nos Estados Unidos, a vida em família, a rotina pesada de um workaholic, seu envolvimento no mundo da política ..."
+   }
+  }
+ ]
+}

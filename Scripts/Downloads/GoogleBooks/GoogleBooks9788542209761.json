@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RUa-swEACAAJ",
+   "etag": "myfZreG2vvg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RUa-swEACAAJ",
+   "volumeInfo": {
+    "title": "Viver em paz para morrer em paz",
+    "subtitle": "se você não existisse, que falta faria?",
+    "authors": [
+     "Mario Sergio Cortella"
+    ],
+    "publishedDate": "2017",
+    "description": "Se você não existisse, que falta faria? Para responder à essa pergunta, o filósofo e escritor Mario Sergio Cortella discute o que é importante nessa vida. Não é ser famoso e nem acumular coisas e propriedades, em uma obsessão consumista. Importante é ser importante para alguém, ou seja, fazer falta para alguém. Como? Neste livro, Cortella aponta alguns caminhos e nos faz pensar sobre as razões da existência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542209761"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542209761"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 175,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RUa-swEACAAJ&dq=isbn:9788542209761&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RUa-swEACAAJ&dq=isbn:9788542209761&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Viver_em_paz_para_morrer_em_paz.html?hl=&id=RUa-swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RUa-swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se você não existisse, que falta faria? Para responder à essa pergunta, o filósofo e escritor Mario Sergio Cortella discute o que é importante nessa vida."
+   }
+  }
+ ]
+}

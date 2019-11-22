@@ -1,0 +1,820 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 442,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DHQeAwAAQBAJ",
+   "etag": "6LrWFlu65cY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DHQeAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mar de rosas",
+    "authors": [
+     "Nora Roberts"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2014-04-09",
+    "description": "Emma Grant é a decoradora da Votos, empresa de organização de casamentos que fundou com suas três melhores amigas de infância – Mac, Parker e Laurel. Ela passa os dias cercada de flores, imersa em seu aroma, criando e montando arranjos e buquês. Criada em uma família tradicional e muito unida, Emma cresceu ouvindo a história de amor dos pais. Não é de espantar que tenha se tornado uma romântica inveterada, cultivando um sonho desde menina: dançar no jardim, sob a luz do luar, com seu verdadeiro amor. Os pais de Jack se separaram quando ele era garoto, e isso lhe causou um trauma muito profundo. Ele se tornou um homem bonito e popular entre as mulheres, porém incapaz de assumir um compromisso. Quando Emma e suas três amigas fundaram a Votos, foi Jack, o melhor amigo do irmão de Parker, quem cuidou de toda a reforma para transformar a propriedade no melhor espaço para casamentos do estado. Os seis são praticamente uma família. E justamente por isso Emma e Jack nunca revelaram a atração que sentiam um pelo outro. Mas há coisas que não podem ficar escondidas para sempre. Mar de rosas é uma história ardente, sexy e divertida sobre as vantagens e os desafios que surgem quando uma grande amizade vira paixão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580412741"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580412749"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.15.16.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DHQeAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DHQeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DHQeAwAAQBAJ&printsec=frontcover&dq=Mar+de+rosas&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DHQeAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DHQeAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DHQeAwAAQBAJ&rdid=book-DHQeAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar_de_rosas-sample-epub.acsm?id=DHQeAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar_de_rosas-sample-pdf.acsm?id=DHQeAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DHQeAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas há coisas que não podem ficar escondidas para sempre. Mar de rosas é uma história ardente, sexy e divertida sobre as vantagens e os desafios que surgem quando uma grande amizade vira paixão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "makuAAAAYAAJ",
+   "etag": "hLSNzPafReg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/makuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Piranha no mar de rosas",
+    "authors": [
+     "Jean Claude Bernardet"
+    ],
+    "publishedDate": "1982",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018299001"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Motion picture plays"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=makuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=makuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=makuAAAAYAAJ&q=Mar+de+rosas&dq=Mar+de+rosas&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=makuAAAAYAAJ&dq=Mar+de+rosas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Piranha_no_mar_de_rosas.html?hl=&id=makuAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=makuAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MGU3AgAAQBAJ",
+   "etag": "ms8NiyQ/rd4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MGU3AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Fundamentos de Administração Financeira - 9ed",
+    "authors": [
+     "Stephen A. Ross",
+     "Randolph W. Westerfield",
+     "Bradford D. Jordan",
+     "Roberto Lamb"
+    ],
+    "publisher": "AMGH Editora",
+    "publishedDate": "2013-01-01",
+    "description": "A versão brasileira da consagrada obra de Ross, Westerfield e Jordan conta, na 9.ed., com a coautoria de Roberto Lamb, professor da Ufrgs, e com textos elaborados pelo Instituto Educacional BM&FBovespa, abordando o funcionamento do mercado de capitais no Brasil. O livro também trata da legislação de dividendos e juros sobre o capital próprio no País, com alertas para as diferenças entre os mercados brasileiro e norte-americano[Created by]; detalha procedimentos de captação por ações e respectivos custos no mercado brasileiro[Created by]; aborda custos de falência, com atenção para a lei brasileira de recuperação judicial comparada a lei americana[Created by]; e oferece seções sobre gestão do capital de giro com enfoque do mercado brasileiro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580552256"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580552257"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 806,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MGU3AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MGU3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MGU3AgAAQBAJ&pg=PA100&dq=Mar+de+rosas&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MGU3AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MGU3AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 203.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 128.02,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MGU3AgAAQBAJ&rdid=book-MGU3AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.032E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2802E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fundamentos_de_Administra%C3%A7%C3%A3o_Financeir-sample-pdf.acsm?id=MGU3AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MGU3AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Iniciamos com nossa mais recente demonstração de resultados da \u003cb\u003eMar de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eRosas\u003c/b\u003e S/A apresentada na Tabela 4.1. Observe que simplificamos ainda mais as \u003cbr\u003e\ncoisas ao incluirmos custos, depreciação e juros em um único valor. A \u003cb\u003eMar de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eRosas\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8LAbDAAAQBAJ",
+   "etag": "u2tgY90wZAM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8LAbDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Segredos de uma avó coruja",
+    "authors": [
+     "Alice Nogueira da Gama"
+    ],
+    "publisher": "Uni Duni Editora de Livros LTDA ",
+    "publishedDate": "2015-08-26",
+    "description": "Quando a narradora soube que seria avó, começou a escrever cartas para o bebê que ia nascer. Enquanto seus filhos geravam filhos, ela escrevia para os netos e acabou gerando este livro. Numa mistura de fantasia e realidade, o livro traz à tona valores de conduta, questões filosóficas e afetivas, curiosidades e mensagens para que seus netos busquem os próprios meios para terem uma vida alegre e divertida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560276578"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8560276572"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 68,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8LAbDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8LAbDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8LAbDAAAQBAJ&pg=PT37&dq=Mar+de+rosas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8LAbDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8LAbDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8LAbDAAAQBAJ&rdid=book-8LAbDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segredos_de_uma_av%C3%B3_coruja-sample-epub.acsm?id=8LAbDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segredos_de_uma_av%C3%B3_coruja-sample-pdf.acsm?id=8LAbDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8LAbDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ursinho, a vó Coruja quis dizer que nem tudo na vida é um \u003cb\u003emar de rosas\u003c/b\u003e, que \u003cbr\u003e\ntodo mundo passa por situações difíceis. – \u003cb\u003eMar de rosas\u003c/b\u003e!? Você agora complicou \u003cbr\u003e\nmais ainda, gritou o Ursinho, interrompendo a explicação da vó Bibelô."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ty1dDwAAQBAJ",
+   "etag": "5bdIs2eUioI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ty1dDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Para entender a hipnoterapia",
+    "authors": [
+     "Sofia Bauer"
+    ],
+    "publisher": "Editora WAK",
+    "publishedDate": "2018-05-25",
+    "description": "Resumo: Muitas pessoas querem entender melhor o que a hipnose pode fazer. Este pequeno guia vai lhe ensinar não só o que é a hipnose mas também para que serve e seu uso nas várias especialidades e, principalmente, como ferramenta nas terapias – hipnoterapia. A autora tem dois dos livros mais vendidos no Brasil nessa área. Ela é considerada uma das pessoas que mais entende de hipnose no Brasil e nos mostra com muita clareza, em uma leitura fácil, os mistérios que envolvem a hipnose e os benefícios da mesma. Com um texto limpo e claro, você pode entender melhor o que é hipnoterapia e como ela funciona para ajudar as pessoas. **** Você sabe o que é ser hipnotizado? E para que serve a hipnose nos tratamentos em Psicoterapia, Medicina e Odontologia? A autora explica o que é a hipnose e como ela é usada para tratar seus pacientes com a \"Hipnoterapia\". Neste pequeno guia, você vai entender melhor o que é hipnose, como ela é feita, quando usar e com quem usar. Sofia Bauer fala como ela usa a hipnoterapia e suas vantagens. Ela tem 30 anos de experiência no uso da hipnose em suas terapias e vem acumulando ótimos resultados em seus pacientes. Ficou curioso? Basta dar uma lida e você saberá muito mais sobre o que é a hipnose e de que forma usá-la como ferramenta de trabalho em muitas áreas da saúde.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578544331"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578544331"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ty1dDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ty1dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ty1dDwAAQBAJ&pg=PA13&dq=Mar+de+rosas&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ty1dDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ty1dDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ty1dDwAAQBAJ&rdid=book-Ty1dDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.4E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.4E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Para_entender_a_hipnoterapia-sample-epub.acsm?id=Ty1dDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Para_entender_a_hipnoterapia-sample-pdf.acsm?id=Ty1dDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ty1dDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seria algo como levar alguém a experimentar mentalmente coisas de que você \u003cbr\u003e\nfala enquanto você fala... Adoro me referir ao “\u003cb\u003emar de rosas\u003c/b\u003e...” Quando penso em \u003cbr\u003e\nrosas, meu sorriso do coração se abre, já começo a imaginar rosas cor-de-rosa,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mgb_fwpKousC",
+   "etag": "UW22TmU13XM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mgb_fwpKousC",
+   "volumeInfo": {
+    "title": "Português Para Concursos",
+    "authors": [
+     "RENATO AQUINO"
+    ],
+    "publisher": "Elsevier Brasil",
+    "description": "Esta obra apresenta a objetividade que o concursando necessita para o estudo. Ensina, em linguagem clara e simples, as regras gramaticais mais recorrentes nos concursos. Traz 850 questões comentadas e gabaritadas, extraídas de diversos concursos públicos como os jurídicos, de escolas técnicas, militares e vestibulares. O livro é um dos mais recomendados para concursos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535217983"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535217988"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mgb_fwpKousC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mgb_fwpKousC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mgb_fwpKousC&pg=PA313&dq=Mar+de+rosas&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mgb_fwpKousC&dq=Mar+de+rosas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Portugu%C3%AAs_Para_Concursos.html?hl=&id=mgb_fwpKousC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mgb_fwpKousC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LONDRINA-PR) Assinale o período de pontuação correta. . a) De que se queixa, \u003cbr\u003e\nse sua vida parece um \u003cb\u003emar de rosas\u003c/b\u003e? b) De que, se queixa, se sua vida parece \u003cbr\u003e\num \u003cb\u003emar de rosas\u003c/b\u003e? c) De que se queixa se. sua vida, parece um \u003cb\u003emar de rosas\u003c/b\u003e?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T4SMwgEACAAJ",
+   "etag": "ve6nkIvitjw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T4SMwgEACAAJ",
+   "volumeInfo": {
+    "title": "Mar de rosas",
+    "authors": [
+     "Ana Carolina"
+    ],
+    "publishedDate": "1977",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:1083929520"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=T4SMwgEACAAJ&dq=Mar+de+rosas&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=T4SMwgEACAAJ&dq=Mar+de+rosas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mar_de_rosas.html?hl=&id=T4SMwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T4SMwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RD3hC2JUAO8C",
+   "etag": "Tl5AaYXvaNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RD3hC2JUAO8C",
+   "volumeInfo": {
+    "title": "Historias cor de rosa",
+    "authors": [
+     "Ramalho Ortigão"
+    ],
+    "publishedDate": "1870",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0022317474"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Short stories, Portuguese"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RD3hC2JUAO8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RD3hC2JUAO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RD3hC2JUAO8C&pg=PA82&dq=Mar+de+rosas&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RD3hC2JUAO8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RD3hC2JUAO8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=RD3hC2JUAO8C&rdid=book-RD3hC2JUAO8C&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Historias_cor_de_rosa.epub?id=RD3hC2JUAO8C&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RD3hC2JUAO8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E lá isso? Interrogou elle, apontando-me para o logar do coração com o charuto \u003cbr\u003e\nque tinha nos dedos. — Isto voga em \u003cb\u003emar de rosas\u003c/b\u003e como cisne de asa erguida \u003cbr\u003e\naos Osculos fagueiros da brisa. — Bom! bom! Deus ha de ser pelos opprimidos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4KrDZNG3Su4C",
+   "etag": "5aO+vOeDM30",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4KrDZNG3Su4C",
+   "volumeInfo": {
+    "title": "Historias Que Curam - Conversas Sabias Ao Pe",
+    "authors": [
+     "Rachel Naomi Remen"
+    ],
+    "publisher": "Grupo Editorial Summus",
+    "description": "Este livro esteve entre os dez mais vendidos da costa Leste dos Estados Unidos. É uma obra de reflexão e de histórias sobre pessoas, contadas em tom intimista, como as antigas conversas nas mesas de cozinha, ao pé do fogão. Segundo Bernie Siegel, autor de Paz, Amor e Cura (Summus Editorial), 'é um lindo livro sobre a vida, nossa única verdadeira mestra'. Rachel N. Remen é médica e terapeuta, especializada em psico-oncologia e tem outro livro publicado pela Summus, O paciente como ser humano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571835365"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571835368"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4KrDZNG3Su4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4KrDZNG3Su4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4KrDZNG3Su4C&pg=PA160&dq=Mar+de+rosas&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4KrDZNG3Su4C&dq=Mar+de+rosas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Historias_Que_Curam_Conversas_Sabias_Ao.html?hl=&id=4KrDZNG3Su4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4KrDZNG3Su4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EU NÃO LHE PROMETI UM \u003cb\u003eMAR DE ROSAS\u003c/b\u003e Meu quintal na encosta do Monte \u003cbr\u003e\nTamalpais, ao norte da Califórnia, é na verdade um minúsculo prado. Todo ano, \u003cbr\u003e\nno verão e no outono, um veado aparece ali ao nascer e ao pôr-do-sol."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SIKIAgAAQBAJ",
+   "etag": "+LN0/azATo0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SIKIAgAAQBAJ",
+   "volumeInfo": {
+    "title": "As ondas e as marés",
+    "authors": [
+     "Susete Viegas"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-05-09",
+    "description": "Susete Viegas apura neste livro a sua poesia, feita de amor, de sonho, de algumas lágrimas, mas com a certeza de que viver vale a pena, quanto mais não seja pelo riso das crianças, crianças que são, nas suas palavras, \"...papoilas rubras de luz / no seu despertar em flor, / ...\". Crianças que são, certamente, antes de todas as outras, os seus netos. Susete Viegas pinta de luz e de sol todos os poemas deste seu livro e faz-nos sonhar com um mundo diferente daquele em que vivemos, um mundo ideal onde é possível sentirmos a paz interior, um apaziguamento que ronda a felicidade, no sorriso da natureza, na simplicidade do amor. Prefácio de Julião Bernardes",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789892043050"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9892043057"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SIKIAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SIKIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SIKIAgAAQBAJ&pg=PT8&dq=Mar+de+rosas&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SIKIAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SIKIAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.67,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 2.54,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SIKIAgAAQBAJ&rdid=book-SIKIAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2670000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2540000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_ondas_e_as_mar%C3%A9s-sample-epub.acsm?id=SIKIAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_ondas_e_as_mar%C3%A9s-sample-pdf.acsm?id=SIKIAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SIKIAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ó mar de franjas e espantos orquestra em sinfonia bailam ventos e marés asas \u003cbr\u003e\nbrancas de poesia. Onde osolacende lumes crista deespuma ao vento e os \u003cbr\u003e\nmedos escondidos tomam forma de serpentes. Mar de seda. \u003cb\u003eMar de rosas\u003c/b\u003e \u003cbr\u003e\npoente&nbsp;..."
+   }
+  }
+ ]
+}

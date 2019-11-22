@@ -1,0 +1,784 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 358,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5Y6_BwAAQBAJ",
+   "etag": "GBvvW7nhTpQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5Y6_BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Submissão",
+    "authors": [
+     "Michel Houellebecq"
+    ],
+    "publisher": "Alfaguara",
+    "publishedDate": "2015-04-01",
+    "description": "O novo romance do vencedor do Prêmio Goncourt Michel Houellebecq. Uma sátira incisiva na tradição de Orwell e Huxley. França, 2022. Depois de um segundo turno acirrado, as eleições presidenciais são vencidas por Mohammed Ben Abbes, o candidato da chamada Fraternidade Muçulmana. Carismático e conciliador, Ben Abbes agrupa uma frente democrática ampla. Mas as mudanças sociais, no início imperceptíveis, aos poucos se tornam dramáticas. François é um acadêmico solitário e desencantado, que espera da vida apenas um pouco de uniformidade. Tomado de surpresa pelo regime islâmico, ele se vê obrigado a lidar com essa nova realidade, cujas consequências — ao contrário do que ele poderia esperar — não serão necessariamente desastrosas. Comparado a 1984, de George Orwell, e a Admirável mundo novo, de Aldous Huxley, Submissão é uma sátira precisa, devastadora, sobre os valores da nossa própria sociedade. É um dos livros mais impactantes da literatura atual.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579623837"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579623839"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5Y6_BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5Y6_BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5Y6_BwAAQBAJ&printsec=frontcover&dq=Submiss%C3%A3o&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5Y6_BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5Y6_BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5Y6_BwAAQBAJ&rdid=book-5Y6_BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Submiss%C3%A3o-sample-epub.acsm?id=5Y6_BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Submiss%C3%A3o-sample-pdf.acsm?id=5Y6_BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5Y6_BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Comparado a 1984, de George Orwell, e a Admirável mundo novo, de Aldous Huxley, Submissão é uma sátira precisa, devastadora, sobre os valores da nossa própria sociedade. É um dos livros mais impactantes da literatura atual."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mPOKqRzTuMAC",
+   "etag": "m92uqSTlgxI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mPOKqRzTuMAC",
+   "volumeInfo": {
+    "title": "Resistência e submissão",
+    "subtitle": "cartas e anotações escritas na prisão",
+    "authors": [
+     "Dietrich Bonhoeffer"
+    ],
+    "publisher": "Editora Sinodal",
+    "publishedDate": "2003",
+    "description": "Neste livro identifica-se a constante preocupação do autor em distanciar a História de um passado que a atrasa para um futuro onde ser religioso é, acima de tudo, ser humano num mundo justo e livre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8523307087"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788523307080"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 638,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mPOKqRzTuMAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mPOKqRzTuMAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mPOKqRzTuMAC&pg=PA20&dq=Submiss%C3%A3o&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mPOKqRzTuMAC&dq=Submiss%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Resist%C3%AAncia_e_submiss%C3%A3o.html?hl=&id=mPOKqRzTuMAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mPOKqRzTuMAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em 1983 foi lançada uma nova edição em língua espanhola da nova edição de &quot;\u003cbr\u003e\nResistência e \u003cb\u003esubmissão\u003c/b\u003e&quot;59. Entre 1956 e 1960, surgiram traduções para o \u003cbr\u003e\nholandês, dinamarquês, norueguês e sueco60. Além disso, as &quot;Cartas e \u003cbr\u003e\nanotações&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bVEasLIwjT8C",
+   "etag": "4Gkk2E5yoVg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bVEasLIwjT8C",
+   "volumeInfo": {
+    "title": "A Submissão",
+    "authors": [
+     "AMY WALDMAN"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-07-12",
+    "description": "Alguns anos depois dos atentados de 11 de Setembro, um júri reúne-se em Manhattan para escolher o projeto vencedor de um memorial, a ser erigido no ground zero. Perante milhares de participações anónimas, o júri - constituído por artistas, académicos e a viúva de uma das vítimas - chega finalmente a acordo. Abrem o envelope selado que contém a identidade do vencedor. A perturbação é geral: o distinguido é um arquiteto muçulmano chamado Mohammad Khan. O debate que se segue reacende discórdias presentes desde o início do processo de seleção. Ao questionar a legitimidade da dor, a ambiguidade da arte e o significado do Islão, o júri dá início a um conflito que rapidamente se estende ao país. As fugas de informação para os média colocam sob pressão não só os membros do júri - particularmente Claire Burwell, representante dos familiares das vítimas e inesperada apoiante do vencedor - mas o próprio Mohammad Khan, americano, sofisticado, ambicioso, e que se vê pela primeira vez confrontado com a sua herança cultural. Uma luta entre fações, ou diferentes \"Américas\", na qual está latente a urgência de uma resposta à questão essencial: como manter viva a memória de uma tragédia?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789726959991"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9726959993"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bVEasLIwjT8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bVEasLIwjT8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bVEasLIwjT8C&printsec=frontcover&dq=Submiss%C3%A3o&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bVEasLIwjT8C&dq=Submiss%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Submiss%C3%A3o.html?hl=&id=bVEasLIwjT8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Submiss%C3%A3o-sample-epub.acsm?id=bVEasLIwjT8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Submiss%C3%A3o-sample-pdf.acsm?id=bVEasLIwjT8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bVEasLIwjT8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alguns anos depois dos atentados de 11 de Setembro, um júri reúne-se em Manhattan para escolher o projeto vencedor de um memorial, a ser erigido no ground zero."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a2A1DwAAQBAJ",
+   "etag": "VxZ45R61/jQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a2A1DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dragutã - Submissão",
+    "subtitle": "",
+    "authors": [
+     "Jaiza Sâmmara"
+    ],
+    "publisher": "Editora Baraúna",
+    "publishedDate": "2014-08-11",
+    "description": "Após passar por uma série de transformações em sua vida, o que a tornou imortal, Stoyna Dragutã continua a sua longa viagem, ao lado dos seus amigos. No entanto, a fim de experimentar uma verdadeira sensação de liberdade, ela passa a buscar o desconhecido e isso termina por deixá-la submissa, seja em seus aspectos físico, emocional ou psicológico. Além disso, o medo de reencontrar Alexandru Stolojan ainda persegue Stoyna, apesar de fazer mais de 150 anos de seu último encontro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543700595"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543700590"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a2A1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a2A1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=a2A1DwAAQBAJ&pg=PA221&dq=Submiss%C3%A3o&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=a2A1DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-a2A1DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=a2A1DwAAQBAJ&rdid=book-a2A1DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dragut%C3%A3_Submiss%C3%A3o-sample-pdf.acsm?id=a2A1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a2A1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... por algumas horas no dia, você possa sair do seu quarto e permanecer nesse \u003cbr\u003e\nescritório. Mas somente por aqui. Além disso, terá vigilância constante dos \u003cbr\u003e\nvampiros que estão lá fora. —Obrigada! Ele ficou surpreso com a minha \u003cbr\u003e\n\u003cb\u003esubmissão\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UDFTAAAAMAAJ",
+   "etag": "Fkuf69t9c+o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UDFTAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Submissão",
+    "subtitle": "novela",
+    "publishedDate": "1960",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023403521"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UDFTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UDFTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UDFTAAAAMAAJ&q=Submiss%C3%A3o&dq=Submiss%C3%A3o&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UDFTAAAAMAAJ&dq=Submiss%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Submiss%C3%A3o.html?hl=&id=UDFTAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UDFTAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5AjuBgAAQBAJ",
+   "etag": "ENL/57pG+Uo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5AjuBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Submissão",
+    "authors": [
+     "Maya Banks"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2015-03-01",
+    "description": "NO SEGUNDO VOLUME DA TRILOGIA SURRENDER, MAYA BANKS ULTRAPASSA OS LIMITES DO DESEJO. Maya Banks, a autora de romances eróticos best-seller do The New York Times, está acostumada a romper barreiras. Com a trilogia Breathless (Obsessão, Delírio e Fogo), ela testou os limites do desejo ao contar a história de três amigos e suas relações amorosas um tanto picantes. Agora, com a trilogia Surrender, Maya quer ultrapassá-los. Em Submissão, segundo livro da série, ela nos conta a história de Kylie, uma mulher assombrada pelas lembranças tortuosas do passado, explorando ao lado de Jensen, um homem dominador, as possibilidades de um recomeço como ela nunca poderia imaginar. Os fãs de romances eróticos vão adorar a sequência do livro Rendição. E aqueles que ainda não conhecem os encantos da escrita de Maya Banks nunca mais vão abandoná-la. Sobre a autora: Maya Banks é autora best-seller do USA Today e do The New York Times. Seus livros incluem romances eróticos, suspenses, romances contemporâneos e históricos escoceses. Atualmente vive no sul dos Estados Unidos com seu marido, três filhos e animais de estimação. É uma leitora ávida e adora falar de livros com seus fãs. Costuma interagir com seus leitores no Facebook, Twitter e em seu grupo no Yahoo!.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544102114"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544102115"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5AjuBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5AjuBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5AjuBgAAQBAJ&printsec=frontcover&dq=Submiss%C3%A3o&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5AjuBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5AjuBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5AjuBgAAQBAJ&rdid=book-5AjuBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.699E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Submiss%C3%A3o-sample-epub.acsm?id=5AjuBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5AjuBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "NO SEGUNDO VOLUME DA TRILOGIA SURRENDER, MAYA BANKS ULTRAPASSA OS LIMITES DO DESEJO. Maya Banks, a autora de romances eróticos best-seller do The New York Times, está acostumada a romper barreiras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UkywRzUaDJAC",
+   "etag": "ecdbPbK/+2w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UkywRzUaDJAC",
+   "volumeInfo": {
+    "title": "Princípio da Eficiência & Moralidade Administrativa - A Submissão do Princípio da Eficiência à Moralidade Administrativa na Constituição Federal de 1988 - 2a Edição – Revista e Atualizada",
+    "authors": [
+     "Jefferson Aparecido Dias"
+    ],
+    "publisher": "Jurua Editora",
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536219844"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "853621984X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UkywRzUaDJAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UkywRzUaDJAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UkywRzUaDJAC&pg=PA5&dq=Submiss%C3%A3o&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UkywRzUaDJAC&dq=Submiss%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Princ%C3%ADpio_da_Efici%C3%AAncia_Moralidade_Adm.html?hl=&id=UkywRzUaDJAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UkywRzUaDJAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Princípio da Eficiência &amp; Moralidade Administrativa A \u003cb\u003eSubmissão\u003c/b\u003e do Princípio da \u003cbr\u003e\nEficiência à Moralidade Administrativa na Constituição Federal de 1988 2a \u003cbr\u003e\nEdição Revista e Atualizada Curitiba Juruá Editora 2008 Para Beatriz. Agradeço \u003cbr\u003e\na&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4GS2AAAAIAAJ",
+   "etag": "08ZsdaAkGBs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4GS2AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Rebeldia e submissão",
+    "subtitle": "estudos sobre condição feminina",
+    "authors": [
+     "Maria Cristina A. Bruschini"
+    ],
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571150370"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571150379"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Women"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4GS2AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4GS2AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4GS2AAAAIAAJ&q=Submiss%C3%A3o&dq=Submiss%C3%A3o&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4GS2AAAAIAAJ&dq=Submiss%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rebeldia_e_submiss%C3%A3o.html?hl=&id=4GS2AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4GS2AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WiE0DwAAQBAJ",
+   "etag": "hbUxt0HuYO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WiE0DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Presídio Romão Gomes: A Religião como Meio de Emancipação e Submissão",
+    "authors": [
+     "Maria Carolina Rissoni Andery"
+    ],
+    "publisher": "Appris Editora e Livraria Eireli - ME",
+    "publishedDate": "2016-01-01",
+    "description": "Maria Carolina Andery investiga nesta obra o sentido da religião para a identidade de diferentes presidiários do \"Romão Gomes\", local que recebe apenas policiais militares do estado de São Paulo. Com leituras e pesquisa de campo a autora se propôs a conhecer as manifestações religiosas que transparecem no local, conversar com diversas pessoas do presídio, incluindo os religiosos, e entrevistar os presidiários buscando compreender o caminho deles dentro da Polícia Militar e o encontro com a religião enquanto formadora de identidade. Uma leitura ímpar dentro dos estudos sociais e de psicologia da religião no Brasil, indicada a estudantes e pesquisadores sobre o sistema prisional, Polícia Militar, religião, psicologia social, identidade, a profissionais da psicologia e a todos aqueles que se interessem pelo tema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581929712"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581929710"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 165,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WiE0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WiE0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WiE0DwAAQBAJ&printsec=frontcover&dq=Submiss%C3%A3o&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WiE0DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WiE0DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WiE0DwAAQBAJ&rdid=book-WiE0DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.3E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pres%C3%ADdio_Rom%C3%A3o_Gomes_A_Religi%C3%A3o_como-sample-epub.acsm?id=WiE0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pres%C3%ADdio_Rom%C3%A3o_Gomes_A_Religi%C3%A3o_como-sample-pdf.acsm?id=WiE0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WiE0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Maria Carolina Andery investiga nesta obra o sentido da religião para a identidade de diferentes presidiários do &quot;Romão Gomes&quot;, local que recebe apenas policiais militares do estado de São Paulo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CSdgAAAAMAAJ",
+   "etag": "Sh2xuSVWOsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CSdgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Prática médica, dominação e submissão",
+    "subtitle": "uma análise institucional",
+    "publishedDate": "1976",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023548171"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 103,
+    "printType": "BOOK",
+    "categories": [
+     "Diabetes"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CSdgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CSdgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CSdgAAAAMAAJ&q=Submiss%C3%A3o&dq=Submiss%C3%A3o&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CSdgAAAAMAAJ&dq=Submiss%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pr%C3%A1tica_m%C3%A9dica_domina%C3%A7%C3%A3o_e_submiss%C3%A3.html?hl=&id=CSdgAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CSdgAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

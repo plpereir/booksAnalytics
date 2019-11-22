@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TL8hvgAACAAJ",
+   "etag": "0gKkuEom5hI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TL8hvgAACAAJ",
+   "volumeInfo": {
+    "title": "BRINCANDO COM PEPPA -",
+    "subtitle": "A PARTIR DE 5 ANOS",
+    "authors": [
+     "MARK BAKER",
+     "NEVILE ASTLEY"
+    ],
+    "description": "'Brincando com Peppa' é um livro de atividades que propõem o desenho e a pintura de forma livre, a interação com a criança fazendo-a refletir sobre determinados assuntos e o contato com palavras simples, que fazem parte do universo da personagem Peppa. Os pais poderão escolher o livro específico com as atividades próprias à idade da criança, e poderão ajudá-la em cada um dos desafios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516091376"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516091378"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TL8hvgAACAAJ&dq=isbn:9788516091378&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TL8hvgAACAAJ&dq=isbn:9788516091378&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BRINCANDO_COM_PEPPA.html?hl=&id=TL8hvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TL8hvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Brincando com Peppa&#39; é um livro de atividades que propõem o desenho e a pintura de forma livre, a interação com a criança fazendo-a refletir sobre determinados assuntos e o contato com palavras simples, que fazem parte do universo da ..."
+   }
+  }
+ ]
+}

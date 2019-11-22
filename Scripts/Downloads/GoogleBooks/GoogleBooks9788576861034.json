@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6q9BYgEACAAJ",
+   "etag": "zjDxQf8J1iU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6q9BYgEACAAJ",
+   "volumeInfo": {
+    "title": "Diário de uma garota nada popular",
+    "subtitle": "histórias de uma vida nem um pouco fabulosa",
+    "authors": [
+     "Rachel Renée Russell"
+    ],
+    "publishedDate": "2012",
+    "description": "Nikki, de 14 anos, ganhou uma bolsa de estudos para uma escola particular de prestígio. Sua angústia ao lidar com as meninas malvadas do colégio, a relação com seus pais, sua paixão pelo bonitão da escola e as novas amizades que faz são assuntos registrados em seu diário, ao lado de inúmeros desenhos que ela mesma faz de sua vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576861038"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576861034"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Artists"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6q9BYgEACAAJ&dq=isbn:9788576861034&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6q9BYgEACAAJ&dq=isbn:9788576861034&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_de_uma_garota_nada_popular.html?hl=&id=6q9BYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6q9BYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nikki, de 14 anos, ganhou uma bolsa de estudos para uma escola particular de prestígio."
+   }
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FItPLwEACAAJ",
+   "etag": "eJ68KejL0D0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FItPLwEACAAJ",
+   "volumeInfo": {
+    "title": "Diario De Um Banana, V.6 - Casa Dos Horrores",
+    "authors": [
+     "Jeff Kinney",
+     "Alexandre Boide"
+    ],
+    "description": "Greg é um garoto comum de 11 anos que vai à escola e enfrenta os desafios da pré-adolescência como milhões de outros. O que o torna tão especial é a vontade de dividir essas experiências com todo mundo, para o caso de tornar-se rico e famoso quando crescer. E é por isso que ele escreve um diário - ou Livro de Memórias. Em sua sexta aventura, Greg Heffley passará por grandes apuros. As coisas para ele vão de mal a pior, tanto na escola como em sua casa. Greg será suspeito de vandalismo e se tornará um suposto foragido da polícia. Além disso, uma forte tempestade de neve faz com que ele e sua família fiquem presos em casa. Em pouco tempo, o seu lar doce lar se transformará em uma verdadeira Casa dos horrores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576833689"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576833680"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FItPLwEACAAJ&dq=isbn:9788576833680&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FItPLwEACAAJ&dq=isbn:9788576833680&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_De_Um_Banana_V_6_Casa_Dos_Horrore.html?hl=&id=FItPLwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FItPLwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Mais uma vez, Greg Heffley entrou numa fria."
+   }
+  }
+ ]
+}

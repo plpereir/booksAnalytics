@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IvU2KQEACAAJ",
+   "etag": "eK3V1HEezAQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IvU2KQEACAAJ",
+   "volumeInfo": {
+    "title": "Morte E Vida De Charlie St. Cloud",
+    "authors": [
+     "Ben Sherwood",
+     "Ivar Panazzolo Junior"
+    ],
+    "description": "Em uma pacata vila de pescadores da Nova Inglaterra, Charlie St. Cloud cuida dos gramados e monumentos de um antigo cemitério onde seu irmão mais jovem, Sam, está enterrado. Após sobreviver ao acidente de carro que tirou a vida de seu irmão, Charlie recebe um dom - ele consegue enxergar, conversar e até mesmo brincar com o espírito de Sam. É neste mundo místico que entra Tess Carroll, uma cativante mulher treinando para navegar sozinha ao redor do mundo em um veleiro. O destino faz com que seu barco seja apanhado por uma violenta tempestade, trazendo-a para a vida de Charlie. Sua bela e incomum ligação os leva a uma corrida contra o tempo e a uma escolha entre a vida e a morte, entre o passado e o futuro, entre apegar-se ou deixar o passado para trás.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563219189"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563219183"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IvU2KQEACAAJ&dq=isbn:9788563219183&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IvU2KQEACAAJ&dq=isbn:9788563219183&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Morte_E_Vida_De_Charlie_St_Cloud.html?hl=&id=IvU2KQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IvU2KQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em uma pacata vila de pescadores da Nova Inglaterra, Charlie St. Cloud cuida dos gramados e monumentos de um antigo cemitério onde seu irmão mais jovem, Sam, está enterrado."
+   }
+  }
+ ]
+}

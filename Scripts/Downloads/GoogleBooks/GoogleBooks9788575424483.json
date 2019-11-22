@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xvN4PgAACAAJ",
+   "etag": "XxBjY+y6nAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xvN4PgAACAAJ",
+   "volumeInfo": {
+    "title": "FORA DE SERIE - OUTLIERS",
+    "authors": [
+     "MALCOLM GLADWELL",
+     "IVO KORYTOWSKI"
+    ],
+    "description": "Neste livro, o autor faz a pergunta - 'O que torna grandes conquistadores pessoas diferentes?' Sua resposta é o lugar de onde eles vêm - sua cultura, sua família, sua geração e sua educação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575424483"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575424483"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xvN4PgAACAAJ&dq=isbn:9788575424483&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xvN4PgAACAAJ&dq=isbn:9788575424483&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FORA_DE_SERIE_OUTLIERS.html?hl=&id=xvN4PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xvN4PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, o autor faz a pergunta - &#39;O que torna grandes conquistadores pessoas diferentes?&#39; Sua resposta é o lugar de onde eles vêm - sua cultura, sua família, sua geração e sua educação."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kiNqtAEACAAJ",
+   "etag": "3OfKDPTyM70",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kiNqtAEACAAJ",
+   "volumeInfo": {
+    "title": "Os Meninos Que Enganavam Nazistas",
+    "authors": [
+     "Joseph Joffo",
+     "Fernando Scheibe"
+    ],
+    "description": "Paris, 1941. O país é ocupado pelo exército nazista e o medo invade as casas e as ruas francesas. O poder de Hitler se mostra absoluto e brutal na França. É durante um dos períodos mais turbulentos da História que a emocionante narrativa de Joseph e Maurice se desenrola. Irmãos judeus de 10 e 12 anos de idade, eles perambulam sozinhos pelas estradas, vivendo experiências surpreendentes, tentando escapar da morte e em busca da zona livre para ganhar a liberdade. Essa é uma história real, autobiográfica, cuja espontaneidade, ternura e humor comprovam o triunfo da humanidade e da empatia nos momentos mais sombrios, quando o perigo está sempre à espreita. \"Os meninos que enganavam nazistas\" conta a fantástica e emocionante epopeia de duas crianças judias durante a ocupação, narrada por Joseph, o mais jovem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582864108"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582864104"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kiNqtAEACAAJ&dq=isbn:9788582864104&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kiNqtAEACAAJ&dq=isbn:9788582864104&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_Meninos_Que_Enganavam_Nazistas.html?hl=&id=kiNqtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kiNqtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "OS meninos que enganavam nazistas conta a fantástica e emocionante epopeia de duas crianças judias durante a ocupação, narrada por Joseph, o mais jovem."
+   }
+  }
+ ]
+}

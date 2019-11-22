@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vVE4tgEACAAJ",
+   "etag": "yLl5GmDQhvg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vVE4tgEACAAJ",
+   "volumeInfo": {
+    "title": "O Brasil nação",
+    "subtitle": "realidade da soberania brasileira",
+    "authors": [
+     "Manoel José do Bomfim"
+    ],
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173007523464"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 630,
+    "printType": "BOOK",
+    "categories": [
+     "Brasil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vVE4tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vVE4tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vVE4tgEACAAJ&dq=The+walking+dead+-+a+queda+do+governador+parte+2&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vVE4tgEACAAJ&dq=The+walking+dead+-+a+queda+do+governador+parte+2&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Brasil_na%C3%A7%C3%A3o.html?hl=&id=vVE4tgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vVE4tgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Michonne finalmente conseguiu sua vingança."
+   }
+  }
+ ]
+}

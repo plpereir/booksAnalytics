@@ -1,0 +1,81 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KTvR9p8C5YMC",
+   "etag": "GzZxnfzgkes",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KTvR9p8C5YMC",
+   "volumeInfo": {
+    "title": "Comprometida",
+    "subtitle": "uma história de amor",
+    "authors": [
+     "Elizabeth Gilbert",
+     "Beatriz Medina"
+    ],
+    "publisher": "Editora Objetiva",
+    "publishedDate": "2010",
+    "description": "Este livro examina questões de compatibilidade, paixão, fidelidade, tradição familiar, expectativas sociais, os riscos de divórcio e responsabilidades mundanas. Liz Gilbert procura desfazer os mitos, desmontar os medos, construir uma perspectiva histórica e trocar fantasias românticas por vitais compromissos emocionais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539000768"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539000760"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Divorced women"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KTvR9p8C5YMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KTvR9p8C5YMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KTvR9p8C5YMC&dq=isbn:9788539000760&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KTvR9p8C5YMC&dq=isbn:9788539000760&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Comprometida.html?hl=&id=KTvR9p8C5YMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KTvR9p8C5YMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A história de Comprometida começa 18 meses depois do fim do livro anterior, crônica sobre o ano em que a autora enfrentou um divórcio, uma depressão debilitante e outro amor fracassado até que se livrou de todos os bens materiais, ..."
+   }
+  }
+ ]
+}

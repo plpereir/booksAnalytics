@@ -1,0 +1,1 @@
+select seller, count(*) as qtde from BooksAnalytics.BooksSellers where price <> 'Sem preço' group by seller order by qtde desc;

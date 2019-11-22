@@ -1,0 +1,81 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "a5YZhicRQ2EC",
+   "etag": "/c1WqScXK4o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a5YZhicRQ2EC",
+   "volumeInfo": {
+    "title": "Piloto de Hitler, O- A vida e a época de Hans Baur",
+    "authors": [
+     "C. G. SWEETING",
+     "ELVIRA SERAPICOS"
+    ],
+    "publisher": "Geração Editorial",
+    "description": "Nesta obra, o autor procura resgatar o testemunho de um homem fiel ao ditador alemão mesmo depois dos dez anos de sofrimento em masmorras e campos de prisioneiros da União Soviética. Hans Baur era a sombra de Hitler no ar, amava o Führer e os aviões.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563420046"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8563420046"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a5YZhicRQ2EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a5YZhicRQ2EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=a5YZhicRQ2EC&printsec=frontcover&dq=isbn:9788563420046&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=a5YZhicRQ2EC&dq=isbn:9788563420046&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Piloto_de_Hitler_O_A_vida_e_a_%C3%A9poca_de.html?hl=&id=a5YZhicRQ2EC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Piloto_de_Hitler_O_A_vida_e_a_%C3%A9poca_de-sample-epub.acsm?id=a5YZhicRQ2EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Piloto_de_Hitler_O_A_vida_e_a_%C3%A9poca_de-sample-pdf.acsm?id=a5YZhicRQ2EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a5YZhicRQ2EC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, o autor procura resgatar o testemunho de um homem fiel ao ditador alemão mesmo depois dos dez anos de sofrimento em masmorras e campos de prisioneiros da União Soviética."
+   }
+  }
+ ]
+}

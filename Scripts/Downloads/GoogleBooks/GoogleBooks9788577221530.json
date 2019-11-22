@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "r-tgYgEACAAJ",
+   "etag": "7WBvb+iE9Eo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r-tgYgEACAAJ",
+   "volumeInfo": {
+    "title": "De frente com a verdede",
+    "authors": [
+     "Mônica de Castro",
+     "LEONEL (ESPIRITO)"
+    ],
+    "publishedDate": "2010",
+    "description": "'De Frente com a Verdade' retrata a história das jovens Marcela e Luciana. Sem o amor de Luciana, Marcela pensa que não vale a pena viver, até encontrar em Flávio o verdadeiro amor. E agora, o que fazer para ocultar a verdade sobre si mesma? Por caminhos tortuosos, Marcela descobrirá que a vida não compactua com a mentira e a verdade sempre prevalece.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577221539"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577221530"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 347,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r-tgYgEACAAJ&dq=isbn:9788577221530&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=r-tgYgEACAAJ&dq=isbn:9788577221530&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/De_frente_com_a_verdede.html?hl=&id=r-tgYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r-tgYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;De Frente com a Verdade&#39; retrata a história das jovens Marcela e Luciana. Sem o amor de Luciana, Marcela pensa que não vale a pena viver, até encontrar em Flávio o verdadeiro amor."
+   }
+  }
+ ]
+}

@@ -1,0 +1,855 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 442,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Id29BAAAQBAJ",
+   "etag": "XNqF3mpCCH0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Id29BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Os inovadores",
+    "subtitle": "Uma biografia da revolução digital",
+    "authors": [
+     "Walter Isaacson"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2014-10-07",
+    "description": "Os inovadores conta a história das pessoas que criaram o computador e a internet. Quais foram os talentos que permitiram que certos inventores e empreendedores transformassem suas ideias visionárias em realidade? O que os levou a seus saltos criativos? Por que alguns conseguiram transpor obstáculos e outros não? Num abrangente panorama histórico, Isaacson conecta as personalidades fascinantes que estão por trás da nossa revolução digital. A onipresença dos computadores e da internet às vezes nos faz esquecer como essas invenções são relativamente novas. Se as gerações atuais já nascem mexendo em tablets e smartphones, é estranho pensar que há poucas décadas a computação pertencia ao domínio de cientistas, militares e uns poucos empreendedores de ponta. Mas quem inventou o computador? Quem teve a ideia de criar a internet? Foi perseguindo essa pista que Walter Isaacson, autor das estrondosas biografias de Steve Jobs e Albert Einstein, construiu esta empolgante narrativa, que retrata inovadores bolando máquinas em suas garagens minúsculas, pensadores excêntricos às voltas com grandes questões existenciais, batalhas épicas entre empresas e uma grande dose de bits, chips e fios de cobre. Surpreendentemente, essa história começa na década de 1830, quando Ada Lovelace, filha do poeta inglês Lord Byron, e Charles Babbage, o matemático que foi a pedra de canto da revolução digital, descrevem em belíssimo ensaio o funcionamento de uma máquina de processar e resolver problemas. Jamais construída, a invenção iria semear, ao longo das décadas seguintes, a imaginação de inovadores ao redor do mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543801865"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543801869"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.11.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Id29BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Id29BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Id29BAAAQBAJ&printsec=frontcover&dq=Os+inovadores&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Id29BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Id29BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Id29BAAAQBAJ&rdid=book-Id29BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.89E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_inovadores-sample-epub.acsm?id=Id29BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_inovadores-sample-pdf.acsm?id=Id29BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Id29BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os inovadores conta a história das pessoas que criaram o computador e a internet."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3zRuDwAAQBAJ",
+   "etag": "51BYihrxPtY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3zRuDwAAQBAJ",
+   "volumeInfo": {
+    "title": "DNA do inovador",
+    "subtitle": "Dominando as 5 habilidades dos inovadores de ruptura",
+    "authors": [
+     "Jeff Dyer",
+     "Clayton M. Christensen",
+     "Hal Gregersen"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2018-09-10",
+    "description": "Obra escrita pelo guru da inovação, Clayton M. Christensen, com colaboração de Hal Gregersen e Jeff Dyer, explica como desenvolver as cinco competências fundamentais para ser um profissional inovador. Segundo o livro, apesar de existir um \"DNA\" da inovação, qualquer pessoa pode desenvolver as habilidades que permitem pensar de forma inovadora. Christensen ilustra com exemplos reais que é possível mudar a essência de uma pessoa para que se torne mais do que um executor. O livro traz ainda um teste por meio do qual o leitor consegue calcular o seu \"DNA Inovador\". A leitura é fundamental para profissionais que querem fortalecer sua capacidade de trazer ideias novas. Você é o próximo Steve Jobs? Depois de entrevistar fundadores e CEOs de diversas empresas — entre elas Apple, Amazon, Google e Skype —, os autores identificaram o comportamento dos maiores inovadores do mundo e descobriram as cinco habilidades que diferenciam os inovadores dos profissionais comuns: ASSOCIAR, QUESTIONAR, OBSERVAR, TRABALHAR EM REDE, EXPERIMENTAR Em DNA do Inovador, os autores Jeff Dyer, Hal Gregersen e Clayton M. Christensen (eleito pelo Thinkers 50 o mais influente pensador vivo do management mundial) demonstram como qualquer pessoa pode desenvolver essas cinco habilidades, necessárias para se tornar um inovador de ruptura. O livro traz ainda um teste para você calcular o seu DNA Inovador. A obra também introduz um novo conceito, o do Prêmio de Inovação. Por meio desse conceito os autores sugerem um novo ranking das empresas mais inovadoras do mundo e demonstram que só é possível aumentar esse prêmio com a criação de um código de inovação que oriente os funcionários, os processos e a filosofia da empresa. Prático e instigante, DNA do Inovador é fundamental para pessoas e equipes que querem fortalecer sua capacidade inovadora. Comentários sobre o livro: \"DNA do Inovador lança uma nova luz sobre a antes misteriosa arte da inovação, ao mostrar que os inovadores de sucesso têm em comum alguns hábitos comportamentais — hábitos que podem alavancar a capacidade criativa de qualquer pessoa.\" Stephen R. Covey, autor de Os 7 Hábitos das Pessoas Altamente Eficazes \"DNA do Inovador mostra onde e como tudo começa. Este livro coloca nas suas mãos os instrumentos fundamentais para que você se torne inovador e transforme o mundo. É uma obra que será de leitura essencial por muitos e muitos anos.\" Marc Benioff, presidente e CEO da Salesforce.com",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550805030"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550805033"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3zRuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3zRuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3zRuDwAAQBAJ&pg=PT18&dq=Os+inovadores&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3zRuDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3zRuDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 55.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 55.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3zRuDwAAQBAJ&rdid=book-3zRuDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.52E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.52E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/DNA_do_inovador-sample-epub.acsm?id=3zRuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/DNA_do_inovador-sample-pdf.acsm?id=3zRuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3zRuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se \u003cb\u003eos inovadores\u003c/b\u003e podem ser feitos e não apenas nascem assim, como \u003cbr\u003e\napareceram com essas grandes ideias novas? Nossa pesquisa, que comparava \u003cbr\u003e\ncerca de 500 inovadores a aproximadamente outros 500 executivos, nos levou a\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6zP5PgAACAAJ",
+   "etag": "6h2/uWY2Gso",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6zP5PgAACAAJ",
+   "volumeInfo": {
+    "title": "A música no cinema brasileiro",
+    "subtitle": "os inovadores anos sessenta",
+    "authors": [
+     "Guerrini Júnior Guerrini Jr."
+    ],
+    "publishedDate": "2009",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8587769561"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788587769565"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 244,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6zP5PgAACAAJ&dq=Os+inovadores&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6zP5PgAACAAJ&dq=Os+inovadores&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_m%C3%BAsica_no_cinema_brasileiro.html?hl=&id=6zP5PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6zP5PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VjlnDwAAQBAJ",
+   "etag": "5oC+CxDHeHA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VjlnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Modelos de negócios imbatíveis",
+    "authors": [
+     "SAUL KAPLAN"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Conheça os 15 princípios da inovação e descubra como assumir riscos que valem a pena. Os executivos da Blockbuster viram o exemplo da Netflix, mas ficaram com o seu modelo convencional adepto da presença física, perdendo bilhões de acionistas. Eles foram ?netflixados?. Os modelos de negócios simplesmente já não duram mais como duravam. Antigamente, um CEO gerenciava um modelo de negócios durante toda a carreira. Hoje, toda empresa precisa estar apta a criar, produzir protótipos e experimentar novos modelos. Os inovadores precisam experimentar e aderir à arte da descoberta. A inovação exige que você descubra como criar um mundo centrado no usuário. Não seja ?netflixado?. Faça da sua empresa uma inovadora de modelos de negócios e mantenha-se competitivo no turbulento mundo atual!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502211360"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502211366"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VjlnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VjlnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VjlnDwAAQBAJ&pg=PT283&dq=Os+inovadores&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VjlnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VjlnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 30.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VjlnDwAAQBAJ&rdid=book-VjlnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modelos_de_neg%C3%B3cios_imbat%C3%ADveis-sample-epub.acsm?id=VjlnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VjlnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eOs inovadores\u003c/b\u003e geralmente solucionam os problemas com a tecnologia existente \u003cbr\u003e\ne reconfiguram as competências de modo a encontrar uma melhor forma de \u003cbr\u003e\noferecer valor. Eles são agraciados com a capacidade de enxergar um quadro \u003cbr\u003e\nmais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-G-wDQAAQBAJ",
+   "etag": "sS5ouWTRmIs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-G-wDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Verdadeiros Heróis da Inovação",
+    "subtitle": "Como desbloquear o crescimento nas grandes organizações aproveitando-se da serendipidade",
+    "authors": [
+     "Matt Kingdon"
+    ],
+    "publisher": "DVS Editora",
+    "publishedDate": "2014-06-26",
+    "description": "No livro \"Os verdadeiros heróis da inovação – como desbloquear o crescimento nas grandes organizações aproveitando-se da serendipidade\", o autor investiga a fundo de que forma você pode fazer a inovação realmente ocorrer mesmo em organizações que têm uma mentalidade operacional enraizada. Como os executivos inovadores – heróis que fazem as verdadeiras transformações ocorrerem nas empresas – pressionados pelos prazos, lidam com os riscos? Como eles se preparam para identificar e aproveitar as oportunidades? E como colocar profissionais, seres humanos com medos e fraquezas, no coração do sucesso comercial? São algumas das questões abordadas pelo livro. Matt Kingdon se debruça sobre o conceito de serendipidade, que tem origem no milenar conto oriental \"Os três príncipes de Serendip\". Na narrativa, três príncipes viajantes fazem descobertas aparentemente acidentais durante o percurso. No entanto, não se trata de sorte, e sim de sagacidade e de um apurado senso de observação. Assim como no conto, nas grandes empresas a maior parte das inovações parece ser um feliz acidente — parece ser produto da sorte, e não de planejamento. Contudo, \"sorte\" é o rótulo dado pelo espectador. Os inovadores corporativos sabem como fazer sua própria sorte — eles forçam correlações, experimentam, fazem testes e nunca desistem. Essa é a ciência da serendipidade, e para tirar proveito dela é necessário determinação, provocação, experimentação e astúcia política. - Livro mostra, na prática, como estabelecer a cultura da inovação em grandes empresas. - Com mais de 20 anos de experiência em inovação corporativa, Matt Kingdon traça as etapas necessárias para transformar uma ideia em realidade – continuamente e em larga escala.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582890677"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582890672"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-G-wDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-G-wDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-G-wDQAAQBAJ&pg=PT38&dq=Os+inovadores&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-G-wDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--G-wDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 60.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 60.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-G-wDQAAQBAJ&rdid=book--G-wDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Verdadeiros_Her%C3%B3is_da_Inova%C3%A7%C3%A3o-sample-epub.acsm?id=-G-wDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Verdadeiros_Her%C3%B3is_da_Inova%C3%A7%C3%A3o-sample-pdf.acsm?id=-G-wDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-G-wDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por isso, \u003cb\u003eos inovadores\u003c/b\u003e têm de saber quando silenciar e começar a ouvir. Eles \u003cbr\u003e\nprecisam ser suficientemente obstinados para formular uma hipótese, mas \u003cbr\u003e\nhumildes o bastante para saber que sua ideia pode não ser a melhor ou que \u003cbr\u003e\noutra&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X7bObvS-P4gC",
+   "etag": "hoCxkSFTc9k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X7bObvS-P4gC",
+   "volumeInfo": {
+    "title": "Marketing de Relacionamento",
+    "authors": [
+     "Regis McKenna"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2005",
+    "description": "Marketing e tudo; Novos temas para o novo marketing; Marketing de relações: tudo começa com o consumidor; Posicionamento do produto: a abordagem holística; O porque do sucesso e do fracasso de produtos; Posicionamento no mercado: o desenvolvimento de relações; Comunicaçes: do monólogo ao diálogo; Posicionamento da empresa: só uma coisa importa; Desenvolvimento de uma estratégia: o marketing do conhecimento e o marketing da experiência; Coisas que aparecem da noite para o dia: os dez maiores concorrentes; A longa estrada do sucesso: a história da Macintosh; O marketing no seculo XXI; Teste o QI de sua emnpresa com relação ao marketing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8570017650"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788570017659"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 254,
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X7bObvS-P4gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X7bObvS-P4gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X7bObvS-P4gC&pg=PA118&dq=Os+inovadores&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=X7bObvS-P4gC&dq=Os+inovadores&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Marketing_de_Relacionamento.html?hl=&id=X7bObvS-P4gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X7bObvS-P4gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "São \u003cb\u003eos Inovadores\u003c/b\u003e. Em seguida, vêm os Usuários Iniciais, depois a Maioria. \u003cbr\u003e\nFinalmente, os Retardatários, os mais lentos na adoção de novas ideias. \u003cbr\u003e\nSegundo um livro sobre o assunto, cerca de 2,5% do público são Inovadores; 13,\u003cbr\u003e\n5%,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nSV4bnCu4LYC",
+   "etag": "nsWjK3L+V9c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nSV4bnCu4LYC",
+   "volumeInfo": {
+    "title": "Grandes nomes da educação (Os)",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515027378"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8515027372"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nSV4bnCu4LYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nSV4bnCu4LYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nSV4bnCu4LYC&pg=PA65&dq=Os+inovadores&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nSV4bnCu4LYC&dq=Os+inovadores&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Grandes_nomes_da_educa%C3%A7%C3%A3o_Os.html?hl=&id=nSV4bnCu4LYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nSV4bnCu4LYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "vezes é o acaso, e não o estudo ou a vocação, que faz o \u003cb\u003einovador\u003c/b\u003e; ninguém é \u003cbr\u003e\n\u003cb\u003einovador\u003c/b\u003e por profissão, mas um dia nos encontramos em situações nas quais \u003cb\u003eos\u003c/b\u003e \u003cbr\u003e\ninstrumentos con- ceptuais ou metodológicos de que dispomos não permitem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r9JOBQAAQBAJ",
+   "etag": "0+eBDzAojpI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r9JOBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Modelos de tomada de decisão para inovação em empresas",
+    "authors": [
+     "Herbert Kimura",
+     "Leonardo Fernando Cruz Basso"
+    ],
+    "publisher": "SciELO - Editora Mackenzie",
+    "publishedDate": "2011-01-01",
+    "description": "Segundo dados do IBGE, 88,3% das empresas inovadoras declararam obter impactos positivos e significativos provenientes da inovação. Apesar da importância da inovação para a prática empresarial, poucos livros no Brasil exploram teorias que buscam explicar as relações entre inovação e vantagens competitivas. Nesse contexto, Modelos de tomada de decisão para inovação em empresas explora a ligação entre as teorias de finanças e as de estratégia e identifica impactos práticos de estratégias de inovação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582930519"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582930518"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r9JOBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r9JOBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r9JOBQAAQBAJ&pg=PA183&dq=Os+inovadores&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r9JOBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r9JOBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r9JOBQAAQBAJ&rdid=book-r9JOBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modelos_de_tomada_de_decis%C3%A3o_para_inova-sample-epub.acsm?id=r9JOBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modelos_de_tomada_de_decis%C3%A3o_para_inova-sample-pdf.acsm?id=r9JOBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r9JOBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De acordo com Rogers (1995), \u003cb\u003eos\u003c/b\u003e primeiros usuários da tecnologia seriam \u003cb\u003eos\u003c/b\u003e \u003cbr\u003e\nagentes \u003cb\u003einovadores\u003c/b\u003e. No modelo de Rogers, esses agentes \u003cb\u003einovadores\u003c/b\u003e somente \u003cbr\u003e\nsurgiriam em decorrência dos esforços de marketing dos produtores da \u003cbr\u003e\ntecnologia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_rk-BAAAQBAJ",
+   "etag": "aNlFFH6tu50",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_rk-BAAAQBAJ",
+   "volumeInfo": {
+    "title": "O Manual do Patrocínio",
+    "subtitle": "Ferramentas, dicas e técnicas essenciais para quem patrocina e quem busca patrocínio",
+    "authors": [
+     "Pippa Collett",
+     "William Fenton"
+    ],
+    "publisher": "DVS Editora",
+    "publishedDate": "2014-08-07",
+    "description": "- Livro traz teoria e boas práticas para quem busca obter ou oferecer patrocínio - Saiba como criar ou reconhecer um projeto bem estruturado – habilidade essencial para quem busca ou oferece patrocínio. O livro Manual do Patrocínio - Ferramentas, dicas e técnicas essenciais para quem patrocina e para quem busca patrocínio (DVS Editora), dos especialistas Pippa Collett e William Fenton, é um guia completo voltado a todos os envolvidos neste tipo de atividade. A obra tem como principal objetivo auxiliar tanto profissionais que atuam na busca por patrocínio, quanto empresas patrocinadoras, a desenvolverem suas atividades pautadas pela excelência. A indústria do patrocínio é jovem e, por isso, ainda carece de uma teoria sólida e exemplos de boas práticas a serem seguidas por patrocinadores e por quem busca patrocinadores. Embora historicamente tenha sido relacionado aos esportes e à cultura, o patrocínio está se tornando cada vez mais vital para novos setores como educação, meio-ambiente, cidades e órgãos públicos. Quem atua nessas áreas – e em outras nas quais o patrocínio também tem ganhado relevância – precisa aprender o que as empresas buscam ao avaliar oportunidades de patrocínio. Os patrocinadores, por sua vez, chegam a receber até 300 propostas por semana e precisam ter maior clareza sobre a estratégia para selecionar somente os projetos mais relevantes para suas necessidades comerciais e de marca. O Manual do Patrocínio aumentará a eficiência e a eficácia de todo o processo de patrocínio para o \"comprador\" e para o \"vendedor\". Ele fornece informações e técnicas para gerentes de empresas patrocinadoras que visam evitar o desperdício de dinheiro em patrocínios com baixo desempenho. Quem busca patrocínio se beneficiará com novas ideias e ferramentas para desenvolver propostas que se destacam da multidão e têm mais probabilidade de conduzir a uma venda bem sucedida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588329843"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588329840"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_rk-BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_rk-BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_rk-BAAAQBAJ&pg=PA219&dq=Os+inovadores&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_rk-BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_rk-BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_rk-BAAAQBAJ&rdid=book-_rk-BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.48E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.48E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Manual_do_Patroc%C3%ADnio-sample-epub.acsm?id=_rk-BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Manual_do_Patroc%C3%ADnio-sample-pdf.acsm?id=_rk-BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_rk-BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Segundo ele, a transformação sempre começa por cima. O rico se torna mais \u003cbr\u003e\nrico conforme os recursos se ampliam para \u003cb\u003eos inovadores\u003c/b\u003e; alguns poucos o \u003cbr\u003e\nacompanhavam e atraem consigo o restante da sociedade. O mesmo se aplica, \u003cbr\u003e\ne, aliás&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u1QPAAAAIAAJ",
+   "etag": "JfAgy76QWXE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u1QPAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Correio braziliense",
+    "subtitle": "ou, Armazem literario ...",
+    "publishedDate": "1813",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105124439527"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u1QPAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u1QPAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u1QPAAAAIAAJ&pg=PA471&dq=Os+inovadores&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u1QPAAAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u1QPAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=u1QPAAAAIAAJ&rdid=book-u1QPAAAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Correio_braziliense.epub?id=u1QPAAAAIAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Correio_braziliense.pdf?id=u1QPAAAAIAAJ&hl=&output=pdf&sig=ACfU3U3mBVZomruN1bdgz-_xKLY6q4YYFg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u1QPAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Palavras que dam a entender o desinteresse da Igreja, e o desagrado com que \u003cbr\u003e\nrecebia os bens daquelles, que o ... Porém se as leys se manifestavam severas \u003cbr\u003e\ncontra \u003cb\u003eos inovadores\u003c/b\u003e, que permaneciam obstinados em seus erros, eram ao&nbsp;..."
+   }
+  }
+ ]
+}

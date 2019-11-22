@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AguPnAEACAAJ",
+   "etag": "I41hBST8mw0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AguPnAEACAAJ",
+   "volumeInfo": {
+    "title": "Holocausto brasileiro",
+    "authors": [
+     "Daniela Arbex"
+    ],
+    "publishedDate": "2013",
+    "description": "Neste livro-reportagem, a autora resgata do esquecimento um dos capítulos da nossa história - as práticas ocorridas durante a maior parte do século XX, no maior hospício do Brasil, conhecido por Colônia, situado na cidade mineira de Barbacena. Ao fazê-lo, a autora traz à luz um genocídio cometido, sistematicamente, pelo Estado brasileiro, com a conivência de médicos, funcionários e também da população. Pelo menos 60 mil pessoas morreram entre os muros da Colônia. Em sua maioria, haviam sido internadas à força. Cerca de 70% não tinham diagnóstico de doença mental. Eram epiléticos, alcoólatras, homossexuais, prostitutas, gente que se rebelava ou que se tornara incômoda para alguém com mais poder. Eram meninas grávidas violentadas por seus patrões, esposas confinadas para que o marido pudesse morar com a amante, filhas de fazendeiros que perderam a virgindade antes do casamento, homens e mulheres que haviam extraviado seus documentos. Alguns eram apenas tímidos. Pelo menos 33 eram crianças.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581301576"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581301570"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Psychiatric hospital patients"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AguPnAEACAAJ&dq=isbn:9788581301570&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AguPnAEACAAJ&dq=isbn:9788581301570&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Holocausto_brasileiro.html?hl=&id=AguPnAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AguPnAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ninguém ouvia seus gritos. Jornalistas famosos, nos anos 60 e 70, fizeram reportagens denunciando os maus tratos. Nenhum deles — como faz agora Daniela Arbex — conseguiu contar a história completa."
+   }
+  }
+ ]
+}

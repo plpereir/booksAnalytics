@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7cOEnQEACAAJ",
+   "etag": "nfGwDx8w5k8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7cOEnQEACAAJ",
+   "volumeInfo": {
+    "title": "RECEITAS DUKAN - MINHA DIETA EM 300 RECEITAS",
+    "authors": [
+     "PIERRE DUKAN",
+     "ANA ADAO"
+    ],
+    "description": "A dieta criada pelo Dr. Pierre Dukan já conquistou mais de 25 milhões de adeptos, que, seguindo as quatro fases propostas pelo médico, conseguiram perder peso de forma saudável e duradoura. 'Receitas Dukan' traz trezentos pratos que tornarão todas as fases do Método Dukan muito mais fáceis e saborosas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576842394"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576842392"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 210,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7cOEnQEACAAJ&dq=isbn:9788576842392&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7cOEnQEACAAJ&dq=isbn:9788576842392&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/RECEITAS_DUKAN_MINHA_DIETA_EM_300_RECEIT.html?hl=&id=7cOEnQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7cOEnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Receitas Dukan traz trezentos pratos que tornarão todas as fases do Método Dukan muito mais fáceis e saborosas."
+   }
+  }
+ ]
+}

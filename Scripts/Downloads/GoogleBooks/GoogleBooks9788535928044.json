@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-zGSuQEACAAJ",
+   "etag": "xU41FvcUhVM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-zGSuQEACAAJ",
+   "volumeInfo": {
+    "title": "Sombras da água",
+    "authors": [
+     "Mia Couto"
+    ],
+    "publishedDate": "2015",
+    "description": "Sombras da água retoma a história de Mulheres de cinzas, romance histórico encenado à época em que o sul de Moçambique era governado por Ngungunyane, o último grande líder do Estado de Gaza, em fins do século xix. FErido, o sargento português Germano de Melo é levado ao único hospital de Gaza, sob os cuidados de Imani, sua amada e responsável pelo tiro que lhe esfacelou as mãos, do pai e do irmão da garota africana e de uma amiga italiana. NEsta jornada, eles encontrarão outros percalços e personagens memoráveis - característicos das obras de Mia Couto. ALternando as vozes de Imani e Germano, o escritor apresenta duas visões de mundo diferentes, porém inevitavelmente envolvidas nesta trama.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535928049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535928044"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Mozambique"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-zGSuQEACAAJ&dq=isbn:9788535928044&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-zGSuQEACAAJ&dq=isbn:9788535928044&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sombras_da_%C3%A1gua.html?hl=&id=-zGSuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-zGSuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sombras da água retoma a história de Mulheres de cinzas, romance histórico encenado à época em que o sul de Moçambique era governado por Ngungunyane, o último grande líder do Estado de Gaza, em fins do século xix."
+   }
+  }
+ ]
+}

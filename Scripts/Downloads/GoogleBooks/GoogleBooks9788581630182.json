@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "x_lPLgEACAAJ",
+   "etag": "/kBDwa5xm4Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x_lPLgEACAAJ",
+   "volumeInfo": {
+    "title": "BRANCA DE NEVE E O CAÇADOR",
+    "authors": [
+     "EVAN DAUGHERTY",
+     "HOSSEIN AMINI",
+     "LILY BLAKE",
+     "JOHN LEE HANCOCK",
+     "RONALDO LUIS DA SILVA"
+    ],
+    "publishedDate": "2012-06-01",
+    "description": "Este livro pretende trazer uma visão diferenciada a respeito do conto da Branca de Neve. Na obra, Branca de Neve é a única pessoa na terra mais justa do que a Rainha má que pretende destruí-la. Mas o que a perversa Rainha nunca imaginou é que a jovem que ameaça seu reinado vem treinando na arte da guerra com um caçador que foi enviado para matá-la.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581630189"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581630182"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=x_lPLgEACAAJ&dq=isbn:9788581630182&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=x_lPLgEACAAJ&dq=isbn:9788581630182&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BRANCA_DE_NEVE_E_O_CA%C3%87ADOR.html?hl=&id=x_lPLgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x_lPLgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro pretende trazer uma visão diferenciada a respeito do conto da Branca de Neve."
+   }
+  }
+ ]
+}

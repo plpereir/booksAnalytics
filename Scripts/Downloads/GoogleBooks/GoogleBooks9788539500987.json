@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NBD3XwAACAAJ",
+   "etag": "KLky9y3K7w4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NBD3XwAACAAJ",
+   "volumeInfo": {
+    "title": "QUERIDO DIARIO OTARIO, V.12",
+    "subtitle": "EU! IGUALZINHA A VOCE, SO QUE MELHOR",
+    "authors": [
+     "JIM BENTON",
+     "FABIANE ARIELLO"
+    ],
+    "description": "Neste volume do diário de Jamie Kelly, a garota acredita que todas as meninas a imitam, e por isso se acha a Pessoa Mais Copiada do Mundo. Ela tem conversas com sua mãe e passa a acreditar que é melhor do que todo mundo, além de escrever, em seu diário, muitos outros casos e aventuras.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539500981"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539500987"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NBD3XwAACAAJ&dq=isbn:9788539500987&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NBD3XwAACAAJ&dq=isbn:9788539500987&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/QUERIDO_DIARIO_OTARIO_V_12.html?hl=&id=NBD3XwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NBD3XwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste volume do diário de Jamie Kelly, a garota acredita que todas as meninas a imitam, e por isso se acha a Pessoa Mais Copiada do Mundo."
+   }
+  }
+ ]
+}

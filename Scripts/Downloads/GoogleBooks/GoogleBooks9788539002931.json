@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TOAmP_TbWK0C",
+   "etag": "ZERsIHhwWVo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TOAmP_TbWK0C",
+   "volumeInfo": {
+    "title": "PODEMOS DIZER ADEUS MAIS DE UMA VEZ",
+    "authors": [
+     "DAVID SERVAN-SCHREIBER",
+     "IVONE CASTILHO BENEDETTI"
+    ],
+    "publisher": "Editora Objetiva",
+    "description": "O médico David Servan-Schreiber descobriu um tumor agressivo no cérebro em 1992 e recebeu um prognóstico de que dificilmente sobreviveria mais do que seis meses. Sobreviveu quase 20 anos e morreu em julho de 2011. David estudou para descobrir como poderia contribuir para a própria cura e criou um programa anticâncer, baseado em evidências científicas, que o ajudou a fortalecer seu organismo e a superar uma recaída anos mais tarde. Seu livro 'Anticâncer', procura advogar uma postura proativa do paciente, ao mesmo tempo em que defende o uso de terapias alternativas aliadas à medicina tradicional. Neste livro, David se despede dos familiares, amigos e leitores e tenta abordar as questões da vida que todos têm de enfrentar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539002930"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539002931"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TOAmP_TbWK0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TOAmP_TbWK0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TOAmP_TbWK0C&dq=isbn:9788539002931&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TOAmP_TbWK0C&dq=isbn:9788539002931&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PODEMOS_DIZER_ADEUS_MAIS_DE_UMA_VEZ.html?hl=&id=TOAmP_TbWK0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TOAmP_TbWK0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Foi uma oportunidade de dizer adeus a todos os que apreciaram meus livros anteriores ou que vieram me ouvir. Aconteça o que acontecer, tenho grande esperança de que esse adeus não seja o último. Podemos dizer adeus mais de uma vez."
+   }
+  }
+ ]
+}

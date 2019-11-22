@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "G8S2NAEACAAJ",
+   "etag": "qbRtRNnyTWQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G8S2NAEACAAJ",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013",
+    "subtitle": "DESCUBRA UM MUNDO DE NOVOS RECORDES",
+    "authors": [
+     "Guinness Publishing"
+    ],
+    "description": "Além de novos recordes e destaques para os recordes brasileiros, este livro busca trazer em suas páginas uma experiência 3D com realidade aumentada, onde o leitor poderá ter o Menor Homem do Mundo, A Maior Aranha e outros recordes nas mãos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522013934"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522013937"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 290,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G8S2NAEACAAJ&dq=isbn:9788522013937&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G8S2NAEACAAJ&dq=isbn:9788522013937&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013.html?hl=&id=G8S2NAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G8S2NAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Além de novos recordes e destaques para os recordes brasileiros, este livro busca trazer em suas páginas uma experiência 3D com realidade aumentada, onde o leitor poderá ter o Menor Homem do Mundo, A Maior Aranha e outros recordes nas ..."
+   }
+  }
+ ]
+}

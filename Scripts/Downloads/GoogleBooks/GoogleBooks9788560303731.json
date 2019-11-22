@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5mHltAEACAAJ",
+   "etag": "Q6OPfw2SoS4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5mHltAEACAAJ",
+   "volumeInfo": {
+    "title": "Investimentos inteligentes",
+    "authors": [
+     "Gustavo Cerbasi"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "publishedDate": "2008",
+    "description": "Em 'Investimentos inteligentes', o autor pretende provar que alcançar o número desejado é possível, podendo ser multiplicado e transformado, se souber investir de forma inteligente - ou seja, escolhendo investimentos com os quais se sinta à vontade. A obra procura não ensinar quais os segredos do melhor investimento, mas ajudar a descobrir qual a forma de investir mais indicada para cada um.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8560303731"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560303731"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 271,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5mHltAEACAAJ&dq=isbn:9788560303731&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5mHltAEACAAJ&dq=isbn:9788560303731&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Investimentos_inteligentes.html?hl=&id=5mHltAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5mHltAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Investimentos inteligentes&#39;, o autor pretende provar que alcançar o número desejado é possível, podendo ser multiplicado e transformado, se souber investir de forma inteligente - ou seja, escolhendo investimentos com os quais se ..."
+   }
+  }
+ ]
+}

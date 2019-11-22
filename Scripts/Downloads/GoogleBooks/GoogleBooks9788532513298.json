@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "F2dRYgEACAAJ",
+   "etag": "qE6D5/ll5BE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F2dRYgEACAAJ",
+   "volumeInfo": {
+    "title": "Animais Fantasticos E Onde Habitam",
+    "authors": [
+     "Newt Scamander",
+     "J. K. Rowling"
+    ],
+    "description": "A acromântula é uma aranha monstruosa de oito olhos e dotada de fala humana, foi desenvolvida pelos bruxos para guardar suas casas ou tesouros. O basilisco, também chamado de rei das cobras, é verde-vivo e pode alcançar até quinze metros de comprimento. Sua criação foi declarada ilegal, desde a época medieval. O dragão é o animal mais mágico do mundo - seu couro, sangue, coração, fígado e chifre têm grandes propriedades ilusionistas. Estas descrições são apenas uma amostra do que apresenta 'Animais fantásticos e onde habitam'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532513298"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532513298"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F2dRYgEACAAJ&dq=isbn:9788532513298&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=F2dRYgEACAAJ&dq=isbn:9788532513298&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Animais_Fantasticos_E_Onde_Habitam.html?hl=&id=F2dRYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F2dRYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A acromântula é uma aranha monstruosa de oito olhos e dotada de fala humana, foi desenvolvida pelos bruxos para guardar suas casas ou tesouros."
+   }
+  }
+ ]
+}

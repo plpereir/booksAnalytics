@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tj1nDwAAQBAJ",
+   "etag": "PvQ7uHrLhN0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tj1nDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Curso de execucao penal",
+    "authors": [
+     "Renato Marcao"
+    ],
+    "publisher": "Saraiva Educação S.A.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502621671"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "850262167X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tj1nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tj1nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tj1nDwAAQBAJ&printsec=frontcover&dq=Vade+mecum+acad%C3%AAmico+de+direito+Rideel+2019+-+28%C2%AA+Ed&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tj1nDwAAQBAJ&dq=Vade+mecum+acad%C3%AAmico+de+direito+Rideel+2019+-+28%C2%AA+Ed&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_execucao_penal.html?hl=&id=tj1nDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Curso_de_execucao_penal-sample-epub.acsm?id=tj1nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tj1nDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

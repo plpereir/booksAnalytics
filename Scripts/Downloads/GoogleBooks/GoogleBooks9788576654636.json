@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sbR1PgAACAAJ",
+   "etag": "/4drbEL2hCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sbR1PgAACAAJ",
+   "volumeInfo": {
+    "title": "Encontre Deus na cabana",
+    "authors": [
+     "Randal Rauser"
+    ],
+    "publishedDate": "2009",
+    "description": "O livro 'A Cabana' trouxe à tona muitas perguntas e dúvidas a respeito de como Deus está presente em nossas vidas. O autor e teólogo Randal Rauser nos leva a uma jornada através das páginas dessa história em 'Encontre Deus na Cabana' e convida o leitor incrédulo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576654636"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576654636"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 174,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sbR1PgAACAAJ&dq=isbn:9788576654636&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sbR1PgAACAAJ&dq=isbn:9788576654636&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encontre_Deus_na_cabana.html?hl=&id=sbR1PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sbR1PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O autor e teólogo Randal Rauser nos leva a uma jornada através das páginas dessa história em &#39;Encontre Deus na Cabana&#39; e convida o leitor incrédulo."
+   }
+  }
+ ]
+}

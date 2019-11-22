@@ -1,0 +1,723 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 64,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tPDLDAAAQBAJ",
+   "etag": "MvT4OWqg/+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tPDLDAAAQBAJ",
+   "volumeInfo": {
+    "title": "25 verbos para construir a sua vida",
+    "authors": [
+     "Alberto Saraiva"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2016-07-18",
+    "description": "Um dos maiores empresários do país, criador e presidente da cadeia Habib's, Alberto Saraiva reúne neste livro, fruto de três anos de trabalho, as principais lições das quais se valeu para construir seu império profissional e uma vida equilibrada e feliz. Tomando como ponto de partida 25 verbos, como Conquistar, Sonhar, Persistir, Confiar, Alberto Saraiva dá conselhos diretos e claros para o leitor evoluir nos negócios e na vida espiritual e emocional. O autor repassa também os principais momentos de sua biografia, e conta como, ao herdar uma pequena padaria do pai, que havia sido assassinado, começou a construir aquela que é a maior cadeia de fast-food árabe do mundo, com 430 lojas e 22 mil funcionários. O livro conta com apresentações e prefácios de Augusto Cury, do governador Geraldo Alckmin, de Bernardinho, Washington Olivetto, Nizan Guanaes e Miguel Falabella, além de frases inspiradoras do próprio Saraiva, recém-eleito o melhor CEO do Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542208023"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542208021"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 231,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.24.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tPDLDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tPDLDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tPDLDAAAQBAJ&printsec=frontcover&dq=25+verbos+para+construir+sua+vida&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tPDLDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tPDLDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tPDLDAAAQBAJ&rdid=book-tPDLDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/25_verbos_para_construir_a_sua_vida-sample-epub.acsm?id=tPDLDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/25_verbos_para_construir_a_sua_vida-sample-pdf.acsm?id=tPDLDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tPDLDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um dos maiores empresários do país, criador e presidente da cadeia Habib&#39;s, Alberto Saraiva reúne neste livro, fruto de três anos de trabalho, as principais lições das quais se valeu para construir seu império profissional e uma vida ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lG-E9kQoHoYC",
+   "etag": "lUYSq2vHBcE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lG-E9kQoHoYC",
+   "volumeInfo": {
+    "title": "Um mundo a construir",
+    "subtitle": "o apostolado dos leigos no pensamento de J. Cardijn",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515018470"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515018475"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Church"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lG-E9kQoHoYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lG-E9kQoHoYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lG-E9kQoHoYC&pg=PA67&dq=25+verbos+para+construir+sua+vida&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lG-E9kQoHoYC&dq=25+verbos+para+construir+sua+vida&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_mundo_a_construir.html?hl=&id=lG-E9kQoHoYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lG-E9kQoHoYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003e25\u003c/b\u003e Tanto isto é verdade, que o próprio Deus fez do pecado do homem ocasião \u003cbr\u003e\npara revelar mais profundamente o mistério de Seu amor, ... O \u003cb\u003eVerbo\u003c/b\u003e de Deus, \u003cbr\u003e\ndiz Cardijn, ao encarnar-se, mereceu com \u003cb\u003esua vida\u003c/b\u003e, morte, ressurreição e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lO25DAAAQBAJ",
+   "etag": "bLVB9MHQgeo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lO25DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Maria, Jesus e Paulo com as mulheres",
+    "subtitle": "Textos, interpretações e História",
+    "authors": [
+     "Ivoni Richter Reimer"
+    ],
+    "publisher": "Pia Sociedade de São Paulo - Editora Paulus",
+    "publishedDate": "2014-03-13",
+    "description": "Este livro tem Maria, Jesus, Paulo e muitas mulheres como protagonistas de histórias de libertação num contexto marcado por opressões múltiplas. Maria é um referencial de fé e modelo de vida durante toda a história da Igreja. Ela foi e é compreendida de maneiras diferentes, todas legítimas. Ela foi e é não só motivo e alvo de disputas e controvérsias, mas também de diálogo ecumênico. Jesus e Paulo são referenciais de fé e modelo de vida para a Igreja. Jesus é o autor da fé, e Paulo, um de seus anunciadores. Ambos têm sua vida e práxis construídas em relações com, junto e a partir de mulheres. Diálogo, acolhida, cura, compromisso, salvação e fé são expressões do amor que se fez e faz realidade na relação que capacita, fortalece e dinamiza mulheres e homens na construção de culturas de libertação e de paz com justiça. Nessa relação se manifestam profundas experiências com a divindade e com a humanidade em sua expressão maior de amor e diaconia. As muitas mulheres que aqui aparecem são sujeitos da história e sua interpretação desde as origens, na vida e no ministério de Jesus e nas origens da Igreja. São amigas, amadas, seguidoras, discípulas, diáconas, apóstolas e missionárias que muitas vezes foram silenciadas e invisibilizadas por historiografias patriarcais, mas que sempre estiveram presentes na espiritualidade de mulheres e homens que buscam construir suas vidas com fé e esperança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788534938181"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8534938180"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lO25DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lO25DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lO25DAAAQBAJ&pg=PT20&dq=25+verbos+para+construir+sua+vida&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lO25DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lO25DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lO25DAAAQBAJ&rdid=book-lO25DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.3E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Maria_Jesus_e_Paulo_com_as_mulheres-sample-epub.acsm?id=lO25DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Maria_Jesus_e_Paulo_com_as_mulheres-sample-pdf.acsm?id=lO25DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lO25DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Podem olhar para essa tradição da história salvífica e (re)\u003cb\u003econstruir sua vida\u003c/b\u003e em \u003cbr\u003e\nsolidariedade para com aquelas pessoas que, ... Sabese também que ela tinha \u003cbr\u003e\numa irmã (Jo 19,\u003cb\u003e25\u003c/b\u003e). ... Maria, há uma mudança em relação \u003cb\u003eà\u003c/b\u003e apresentação das \u003cbr\u003e\noutras quatro mulheres, o que é percebido no uso do \u003cb\u003everbo\u003c/b\u003e gennáo, “gerar”."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CJqNCg9wIN8C",
+   "etag": "5HVqQEcx80w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CJqNCg9wIN8C",
+   "volumeInfo": {
+    "title": "Dicionário bíblico-teológico",
+    "authors": [
+     "Johannes Baptist Bauer"
+    ],
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "2000",
+    "description": "Obra de referência em teologia bíblica, atualizada. Contém 174 verbetes, redigido por especialistas. Dicionário ecumênico.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "851502019X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515020195"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 455,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CJqNCg9wIN8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CJqNCg9wIN8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CJqNCg9wIN8C&pg=PA115&dq=25+verbos+para+construir+sua+vida&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CJqNCg9wIN8C&dq=25+verbos+para+construir+sua+vida&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dicion%C3%A1rio_b%C3%ADblico_teol%C3%B3gico.html?hl=&id=CJqNCg9wIN8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CJqNCg9wIN8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003e25\u003c/b\u003e,23). Esta é \u003cb\u003ea\u003c/b\u003e verdadeira ratio legis, e ela transforma. Edificação/Construção O \u003cbr\u003e\n\u003cb\u003everbo\u003c/b\u003e grego oikodomein (&quot;\u003cb\u003econstruir\u003c/b\u003e/edificar&quot;) corresponde ao hebraico banah. ... \u003cbr\u003e\nExaminaremos primeiro o sentido próprio e em seguida o sentido figurado de &quot;\u003cbr\u003e\n\u003cb\u003econstruir\u003c/b\u003e&quot; no AT. ... trata-se do temor de Deus, o &quot;princípio da sabedoria&quot;, pelo \u003cbr\u003e\nqual o homem sábio e sensato torna numerosos seus dias e proveitosa \u003cb\u003esua vida\u003c/b\u003e(\u003cbr\u003e\ncf."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sN9mDwAAQBAJ",
+   "etag": "nE7QFo0vUwI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sN9mDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Territorium nº 25 (II)",
+    "subtitle": "Riscos e Educação",
+    "authors": [
+     "Luciano Lourenço"
+    ],
+    "publisher": "Imprensa da Universidade de Coimbra / Coimbra University Press",
+    "publishedDate": "2018-07-31",
+    "description": "Se, com a edição do no volume anterior (I) deste número 25, celebrámos a passagem da revista Territorium a edição semestral, neste segundo volume (II) não podemos deixar de refletir sobre o percurso já efetuado, uma vez que, a partir do n.º 11, passou a ser a “Revista da Associação Portuguesa de Riscos, Prevenção e Segurança” e, por conseguinte, também não podemos deixar de salientar a celebração do 15.º aniversário da constituição da RISCOS, um facto que ocorreu a 18 de dezembro de 2003, na medida em que, desde então, a Associação Portuguesa de Riscos, Prevenção e Segurança passou a ser o garante da regular publicação da revista Territorium.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 204,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sN9mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sN9mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sN9mDwAAQBAJ&pg=PA26&dq=25+verbos+para+construir+sua+vida&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sN9mDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sN9mDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sN9mDwAAQBAJ&rdid=book-sN9mDwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Territorium_n%C2%BA_25_II-sample-pdf.acsm?id=sN9mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sN9mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Riscos e Educação Luciano Lourenço. 26 27 28 29 30 territorium \u003cb\u003e25\u003c/b\u003e (II), 2018, \u003cbr\u003e\n31-40 journal. em um contexto materializado de risco. Os conteúdos educativos \u003cbr\u003e\nde base tecnocêntrica deixam de abordar \u003cb\u003ea\u003c/b\u003e complexidade das causas \u003cbr\u003e\nprodutoras&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wbhRGhfNe18C",
+   "etag": "PAToN51bI14",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wbhRGhfNe18C",
+   "volumeInfo": {
+    "title": "Harpas Eternas - Vol.3",
+    "authors": [
+     "Josefa Rosalia Luque Alvarez"
+    ],
+    "publisher": "Editora Pensamento",
+    "description": "'Harpas Eternas' é o relato sobre a vida do Profeta Nazareno, resultado de mais de vinte anos de pesquisa nos centros culturais de diversos países, completados pelas informações obtidas nos antigos arquivos essênios de Moab e do Líbano e nas Escolas de Sabedoria fundadas por sábios do Oriente. É a história de Jesus de Nazaré narrada com detalhes sobre todas as etapas da sua vida, detendo-se mais particularmente nos seguintes aspectos - As circunstâncias astrológicas em que se deu o seu nascimento; A infância em Nazaré na companhia de Maria, de José e de seus meio-irmãos; Sua iniciação e educação entre os essênios; A juventude e as viagens que fez aos centros culturais mais importantes do seu tempo; O quadro social e histórico em que realizou seus milagres; A repercussão de seus ensinamentos no ambiente político e religioso da Judeia; As convicções que seus contemporâneos tinham acerca de sua missão como o Messias; Os incidentes que resultaram na sua condenação à morte; Sua ressurreição e ascensão ao céu.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853150869X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531508691"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wbhRGhfNe18C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wbhRGhfNe18C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wbhRGhfNe18C&pg=PA257&dq=25+verbos+para+construir+sua+vida&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wbhRGhfNe18C&dq=25+verbos+para+construir+sua+vida&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harpas_Eternas_Vol_3.html?hl=&id=wbhRGhfNe18C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wbhRGhfNe18C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Certamente, \u003cb\u003ea\u003c/b\u003e grande alma do Cristo sorria \u003cb\u003ea\u003c/b\u003e nostalgia do Céu dos Amadores \u003cbr\u003e\nque havia deixado para descer aos sombrios ... ah mesmo no Hermon, enquanto \u003cbr\u003e\nobservavam tão de perto todas as modalidades do \u003cb\u003eVerbo\u003c/b\u003e Eterno na \u003cb\u003esua vida\u003c/b\u003e \u003cbr\u003e\ninfantil. Agora, vendo-o já homem de \u003cb\u003e25\u003c/b\u003e anos, circundado por tríplice auréola de \u003cbr\u003e\nMestre, de Taumaturgo e de Santo, diziam ao ... O palácio de Belesis era uma \u003cbr\u003e\nenorme fortaleza-templo mandada \u003cb\u003econstruir\u003c/b\u003e por Gudea I, Rei da Caldéia e \u003cbr\u003e\nfundador da&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zMkf5qAhY3UC",
+   "etag": "PLWLH+sL9+g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zMkf5qAhY3UC",
+   "volumeInfo": {
+    "title": "Movimentos do corpo prostituído da mulher",
+    "subtitle": "encontros e desencontros teológicos",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515018608"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515018604"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Bible"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zMkf5qAhY3UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zMkf5qAhY3UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zMkf5qAhY3UC&pg=PA97&dq=25+verbos+para+construir+sua+vida&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zMkf5qAhY3UC&dq=25+verbos+para+construir+sua+vida&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Movimentos_do_corpo_prostitu%C3%ADdo_da_mulh.html?hl=&id=zMkf5qAhY3UC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zMkf5qAhY3UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E firmarei outras alianças O conjunto final desse capítulo da profecia retrata \u003cb\u003ea\u003c/b\u003e \u003cbr\u003e\nnecessidade de \u003cb\u003econstruir\u003c/b\u003e diversas alianças. ... reparação da \u003cb\u003evida\u003c/b\u003e em \u003cb\u003esua\u003c/b\u003e casa, \u003cb\u003ea\u003c/b\u003e \u003cbr\u003e\npresença dos filhos é fundamental, não há como deslocar os versículos finais (\u003cbr\u003e\nOs 2,18- \u003cb\u003e25\u003c/b\u003e) desse enfoque das alianças \u003cb\u003ea\u003c/b\u003e ser construídas, ... Esse \u003cb\u003everbo\u003c/b\u003e usado \u003cbr\u003e\nno versículo 1 8 é o mesmo do capítulo primeiro, quando se dava nome aos \u003cbr\u003e\nfilhos30."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-sx_YFxW1SUC",
+   "etag": "XsuuvgsXiFg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-sx_YFxW1SUC",
+   "volumeInfo": {
+    "title": "Sobre o trabalho humano",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515014017"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515014019"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-sx_YFxW1SUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-sx_YFxW1SUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-sx_YFxW1SUC&pg=PA57&dq=25+verbos+para+construir+sua+vida&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-sx_YFxW1SUC&dq=25+verbos+para+construir+sua+vida&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sobre_o_trabalho_humano.html?hl=&id=-sx_YFxW1SUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-sx_YFxW1SUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA\u003c/b\u003e mensagem cristã não afasta os homens da tarefa de \u003cb\u003econstruir\u003c/b\u003e o mundo, nem \u003cbr\u003e\nos leva \u003cb\u003ea\u003c/b\u003e desinteressar-se do bem dos ... e devem ajudar-se mutuamente, \u003cbr\u003e\nmesmo através das atividades propriamente seculares, \u003cb\u003ea\u003c/b\u003e procurar levar uma \u003cbr\u003e\n\u003cb\u003evida\u003c/b\u003e mais santa, ... pela técnica e pela cultura... de harmonia com os fins que \u003cbr\u003e\nlhes deu o Criador e segundo \u003cb\u003ea\u003c/b\u003e iluminação do Seu \u003cb\u003eVerbo\u003c/b\u003e&quot;. ... Cf. Mt 6, \u003cb\u003e25\u003c/b\u003e-34. \u003cbr\u003e\npelo trabalho humano; pode-se mesmo dizer mais: Ele encara com 57 Cristo, o \u003cbr\u003e\nhomem do trabalho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vIA1EFlMBXEC",
+   "etag": "jFcp/zaFm9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vIA1EFlMBXEC",
+   "volumeInfo": {
+    "title": "Salmos com Santo Agostinho (Os)",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515005042"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515005048"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vIA1EFlMBXEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vIA1EFlMBXEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vIA1EFlMBXEC&pg=PA142&dq=25+verbos+para+construir+sua+vida&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vIA1EFlMBXEC&dq=25+verbos+para+construir+sua+vida&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Salmos_com_Santo_Agostinho_Os.html?hl=&id=vIA1EFlMBXEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vIA1EFlMBXEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "FAZE-ME OUVIR TEU AMOR PELA MANHA Estou na noite, mas espero em ti, \u003cbr\u003e\nSenhor, até que passe \u003cb\u003ea\u003c/b\u003e iniquidade das ... Se esperamos o que não vemos, \u003cbr\u003e\nesperamos na paciência (Rm 8, \u003cb\u003e25\u003c/b\u003e). ... Não vês ainda o \u003cb\u003eVerbo\u003c/b\u003e que, no princípio, \u003cbr\u003e\nera Deus junto de Deus; caminha \u003cb\u003eà\u003c/b\u003e luz da condição de escravo, ela te conduzirá \u003cbr\u003e\n\u003cb\u003eà\u003c/b\u003e condição de Deus — em ti está \u003cb\u003ea\u003c/b\u003e fonte da \u003cb\u003evida\u003c/b\u003e. ... Amém. SENHOR, ÉS \u003cb\u003eA\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eMINHA\u003c/b\u003e ESPERANÇA Espera até o fim da 158 SALMO 142 Se o Senhor não \u003cbr\u003e\n\u003cb\u003econstruir a\u003c/b\u003e casa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PhZnAAAAcAAJ",
+   "etag": "c97sgU3Q4zE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PhZnAAAAcAAJ",
+   "volumeInfo": {
+    "title": "E - L",
+    "publishedDate": "1873",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z220998407"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1360,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PhZnAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PhZnAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PhZnAAAAcAAJ&pg=PA604&dq=25+verbos+para+construir+sua+vida&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PhZnAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PhZnAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=PhZnAAAAcAAJ&rdid=book-PhZnAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PhZnAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se alguem disser, ou crèr, que \u003cb\u003ea\u003c/b\u003e alma humana he parte, ou substancia de Deos, \u003cbr\u003e\nseja excõmungado. ... homem sogeito \u003cb\u003eá\u003c/b\u003e morte: pelos merecimentos que com \u003cbr\u003e\nvossa \u003cb\u003evida\u003c/b\u003e, e morte me ganhastes. ... Fabricar, \u003cb\u003econstruir\u003c/b\u003e. ... em querer exprimir as \u003cbr\u003e\nEthimologias dos \u003cb\u003everbos\u003c/b\u003e, junto com \u003cb\u003ea\u003c/b\u003e significação delles, que foi causa de não \u003cbr\u003e\nestimar \u003cb\u003ea\u003c/b\u003e Igreja em muito seu trabalho: Inda que ... \u003cb\u003e25\u003c/b\u003e.—«Passados alguns dias \u003cbr\u003e\nem quanto o tempo naõ seruia, e fizeraõ \u003cb\u003esua\u003c/b\u003e agoada, quãqo veo \u003cb\u003ea\u003c/b\u003e tres de Maio \u003cbr\u003e\nque&nbsp;..."
+   }
+  }
+ ]
+}

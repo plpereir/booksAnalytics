@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QrFiLwEACAAJ",
+   "etag": "NRN3O36e4Uw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QrFiLwEACAAJ",
+   "volumeInfo": {
+    "title": "Getúlio: Dos anos de formação à conquista do poder (1882-1930)",
+    "authors": [
+     "Lira Neto"
+    ],
+    "publisher": "Companhia Das Letras",
+    "publishedDate": "2012",
+    "description": "Esta obra procura reconstituir a trajetória pessoal e política de Getúlio Dornelles Vargas. O autor buscou se debruçar sobre documentos para ajudar a decifrar a 'esfinge Getúlio', e mostrar como foi possível que convivessem no mesmo indivíduo o revolucionário, o ditador, o reformador social e o demagogo. Lira Neto pretendeu se servir de cartas pessoais e memorandos oficiais, de diários íntimos, autos judiciais, boletins de ocorrência, notícias de jornal, anúncios de publicidade, charges, hinos, marchinhas, livros de memórias, entrevistas, depoimento, entre outros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535920935"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535920932"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 629,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QrFiLwEACAAJ&dq=isbn:9788535920932&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QrFiLwEACAAJ&dq=isbn:9788535920932&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Dos_anos_de_forma%C3%A7%C3%A3o_%C3%A0_conqu.html?hl=&id=QrFiLwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QrFiLwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A monumental trilogia Getúlio, de Lira Neto, da qual se lança agora o primeiro volume, vem suprir com sobras essa lacuna."
+   }
+  }
+ ]
+}

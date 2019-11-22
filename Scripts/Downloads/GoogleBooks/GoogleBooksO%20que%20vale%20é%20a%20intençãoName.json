@@ -1,0 +1,850 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 472,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "F0WNCgAAQBAJ",
+   "etag": "5CLThzpe/4c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F0WNCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O que vale é a intenção",
+    "authors": [
+     "Mallika Chopra"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "Intenções não são meramente objetivos. Elas vêm da alma, de algum lugar profundo dentro de nós, onde temos clareza acerca de nossos desejos sinceros de felicidade, aceitação, saúde e amor. Todos nós, em dado momento da vida, nos sentimos soterrados pela rotina e pelas responsabilidades. Lidar com o trabalho, cuidar dos filhos, nutrir um relacionamento, gerir a casa... É tanta coisa a fazer em tão pouco tempo que nos esquecemos de prestar atenção em como estamos de fato vivendo. Mallika Chopra quer mudar esse cenário. Por isso, trabalha incentivando homens e mulheres a buscarem mais propósito para si. Nesta tocante narrativa, repleta de altos e baixos e de amor e compaixão, ela nos conduz pelos seis passos para uma vida em que nossas intenções enfim se concretizam. Descubra como dar mais sentido à sua existência. Trilhe o caminho que transforma intenções em ações. Seja protagonista da sua história. Tenha mais equilíbrio, paz e alegria em sua vida. Não deixe para depois a conquista de uma vida mais realizada. Busque agora a intenção que faltava para sua história ser feliz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200680"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200684"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F0WNCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F0WNCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F0WNCgAAQBAJ&printsec=frontcover&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=F0WNCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-F0WNCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=F0WNCgAAQBAJ&rdid=book-F0WNCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_vale_%C3%A9_a_inten%C3%A7%C3%A3o-sample-epub.acsm?id=F0WNCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_vale_%C3%A9_a_inten%C3%A7%C3%A3o-sample-pdf.acsm?id=F0WNCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F0WNCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lidar com o trabalho, cuidar dos filhos, nutrir um relacionamento, gerir a casa... É tanta coisa a fazer em tão pouco tempo que nos esquecemos de prestar atenção em como estamos de fato vivendo. Mallika Chopra quer mudar esse cenário."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9cBiPG4ku5gC",
+   "etag": "TjmJv+AAJuI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9cBiPG4ku5gC",
+   "volumeInfo": {
+    "title": "Comece bem o seu dia",
+    "subtitle": "Como superar as dificuldades do dia a dia",
+    "authors": [
+     "Luzia Santiago"
+    ],
+    "publisher": "Canção Nova",
+    "publishedDate": "2015-11-17",
+    "description": "O despertar do dia é um momento único na vida de todos nós. Porém, nem sempre esse instante é contemplado como deveria ser e temos a tendência de pensar em nossos problemas antes mesmo de perceber a beleza e o privilégio, concedidos por Deus, de iniciarmos mais uma linda jornada. Comece bem o seu dia é um convite para entregarmos em oração, a cada despertar, o nosso dia a Deus. A partir de mensagens inspiradoras e motivacionais, Luzia Santiago, cofundadora da Comunidade Canção Nova, estimula os leitores a um cotidiano mais agradável e harmonioso e a uma postura mais firme para enfrentar os problemas comuns a todos nós. As mensagens podem ser lidas em qualquer ordem: basta abrir aleatoriamente o livro e encontrar a mensagem ideal para seu dia. Independente do seu problema, Comece bem o seu dia é o primeiro passo para vencer as barreiras do cotidiano!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576772743"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576772744"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.10.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9cBiPG4ku5gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9cBiPG4ku5gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9cBiPG4ku5gC&pg=PT74&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9cBiPG4ku5gC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9cBiPG4ku5gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9cBiPG4ku5gC&rdid=book-9cBiPG4ku5gC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Comece_bem_o_seu_dia-sample-epub.acsm?id=9cBiPG4ku5gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Comece_bem_o_seu_dia-sample-pdf.acsm?id=9cBiPG4ku5gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9cBiPG4ku5gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“Quem anda na integridade anda seguro, quem falseia seus caminhos será \u003cbr\u003e\ndescoberto.” (Pr 10,9) Diante de Deus, \u003cb\u003eo que vale é a intenção\u003c/b\u003e com que \u003cbr\u003e\nrealizamos nossas ações, que nem sempre são retas, para com o próximo. \u003cbr\u003e\nConstantemente&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jb8O260-ifcC",
+   "etag": "1+ktXwinfnY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jb8O260-ifcC",
+   "volumeInfo": {
+    "title": "Valor Das Intenções, O - Dádiva, Emoção E Identidade",
+    "authors": [
+     "Coelho, Maria Claudia Pereira"
+    ],
+    "publisher": "FGV Editora",
+    "description": "Como você escolhe um presente para seu filho, sua mulher, seu marido, seu chefe, seus empregados, seus amigos? Em que (ou em quem) você pensa? Como você recebe seus presentes? O presente traduz sua imagem ou a do presenteado? Maria Claudia Coelho analisa aqui os resultados de uma pesquisa que busca desvendar as regras que orientam a troca de presentes e discutir a dádiva como estratégia de construção de identidade e de expressão de emoções. Seus entrevistados revelam episódios de gafes, situações de trocas de presentes entre maridos e esposas e patroas e empregada, seus sentimentos ao ter que presentear em datas obrigatórias e os rituais de troca de presentes no Natal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522505594"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522505593"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 108,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jb8O260-ifcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jb8O260-ifcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jb8O260-ifcC&pg=PA51&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jb8O260-ifcC&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Valor_Das_Inten%C3%A7%C3%B5es_O_D%C3%A1diva_Emo%C3%A7%C3%A3o.html?hl=&id=jb8O260-ifcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jb8O260-ifcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "que. \u003cb\u003evale\u003c/b\u003e. é. a. \u003cb\u003eintenção\u003c/b\u003e&quot;: dádiva,. valor. e. sentimento*. As. ^s histórias sobre \u003cbr\u003e\ndádivas são repletas de referências a sentimentos suscitados por trocas de \u003cbr\u003e\npresentes. No capítulo anterior, orientei a análise para a dimensão de \u003cbr\u003e\nelaboração das&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gobwq-c9w34C",
+   "etag": "JI8LCNhbLv8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gobwq-c9w34C",
+   "volumeInfo": {
+    "title": "Dicionário de provérbios",
+    "subtitle": "francês, português, inglês",
+    "authors": [
+     "Roberto Cortes de Lacerda",
+     "Helena da Rosa Cortes de Lacerda",
+     "Estela dos Santos Abreu"
+    ],
+    "publisher": "UNESP",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857139525X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571395251"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 762,
+    "printType": "BOOK",
+    "categories": [
+     "Proverbs"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gobwq-c9w34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gobwq-c9w34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gobwq-c9w34C&pg=PA179&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gobwq-c9w34C&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dicion%C3%A1rio_de_prov%C3%A9rbios.html?hl=&id=gobwq-c9w34C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gobwq-c9w34C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... il importe de soigner les formes; tout est dans la manière, c&#39;est-à-dire dans le \u003cbr\u003e\nsens&#39; a intenção é que faz a ação \u003cb\u003eo que vale é a intenção\u003c/b\u003e 0 que vale é a maneira \u003cbr\u003e\nde dar it is the intention that counts it is the thought that counts CLITON. (."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GLGImsjb1KUC",
+   "etag": "myGixhOayhU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GLGImsjb1KUC",
+   "volumeInfo": {
+    "title": "Talismans & Sigils",
+    "publisher": "Marcelo Francisco Antunes",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788590055631"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8590055639"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GLGImsjb1KUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GLGImsjb1KUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GLGImsjb1KUC&pg=PP10&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GLGImsjb1KUC&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Talismans_Sigils.html?hl=&id=GLGImsjb1KUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GLGImsjb1KUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você poderá montar &#39;sigils&#39; em Hebraico transliterados do Português, ou em \u003cbr\u003e\nPortuguês translitera- dos do Hebraico, \u003cb\u003eo que vale é a INTENÇÃO\u003c/b\u003e, poderá usar a \u003cbr\u003e\nNumerologia para descobrir palavras com a mesma Energia Numérica sua, mas\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yeffBAAAQBAJ",
+   "etag": "g9jibhL2vAI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yeffBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Mil coisas podem acontecer",
+    "authors": [
+     "Jacobo Fernández Serrano"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2014-07-22",
+    "description": "Os filhos do rei do mar, Leda e Mercurim, percebem que está chegando o aniversário do pai, Pindo IV, O Tratável, e que ainda não arrumaram um presente para ele. É na busca desse presente que se desencadeiam as mil coisas do título desta história. A narrativa nos mostra uma série de personagens insólitos e situações disparatadas, cheias de imaginação, que acontecem na cidade de Nil, onde tudo é possível, onde o excepcional faz parte do dia a dia. Traduzido do galego, um livro original e surpreendente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582174821"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582174829"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yeffBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yeffBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yeffBAAAQBAJ&pg=PT124&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yeffBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yeffBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yeffBAAAQBAJ&rdid=book-yeffBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mil_coisas_podem_acontecer-sample-epub.acsm?id=yeffBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mil_coisas_podem_acontecer-sample-pdf.acsm?id=yeffBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yeffBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A partir daí, chegaram à ritualização mais exata do conceito comumente aceito \u003cbr\u003e\nde que, em questão de presentes, \u003cb\u003eo que vale é a intenção\u003c/b\u003e. Como já dissera, no \u003cbr\u003e\ntempo dele, um parente do gato Kandás: Que presente mais funesto! Não sei \u003cbr\u003e\nbem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YDAfsfo9LSsC",
+   "etag": "kGZpcwRyhLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YDAfsfo9LSsC",
+   "volumeInfo": {
+    "title": "A feia noite",
+    "authors": [
+     "Simone Campos"
+    ],
+    "publisher": "7Letras",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575773054"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575773055"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 103,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YDAfsfo9LSsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YDAfsfo9LSsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YDAfsfo9LSsC&pg=PA69&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YDAfsfo9LSsC&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_feia_noite.html?hl=&id=YDAfsfo9LSsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YDAfsfo9LSsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO que vale é a intenção\u003c/b\u003e, ao menos quando a moeda é humana. Passa um carro \u003cbr\u003e\nlotado de bexigas amarelas e moças rindo escandalosamente. Algumas \u003cbr\u003e\nescapam pelasjanelas. Bexigas. Era uma menina que, ao completar dezesseis \u003cbr\u003e\nanos,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QkTABAAAQBAJ",
+   "etag": "GuEvO1dt4m8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QkTABAAAQBAJ",
+   "volumeInfo": {
+    "title": "Você nasceu para ser feliz",
+    "subtitle": "",
+    "authors": [
+     "Paulo Valzacchi "
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "description": "Como você está escrevendo sua história? Como quer ser lembrado? O que terá feito por você e pelo mundo? Pegue o seu livro e perceba que a próxima página sempre estará em branco. As folhas em branco são o futuro e ele não existe: apenas o presente existe, o agora, e é a partir dele que surgirá um novo presente. O passado corre atrás do presente, mas não o alcança; enquanto o presente, em nossas mentes, corre atrás do futuro, mas também não o alcança. Então, para que correr? Para que você está correndo? Você, que está pensando no que se foi, tenha uma certeza: jamais alcançará o passado. Pare e veja o mapa de sua vida, o livro no qual está escrevendo: se alguém parasse e começasse a ler, o que sentiria a seu respeito? Acredite, se seu livro está enfadonho, incerto, com uma rotina estonteante, é devido à sua falta de convicção na vida. Você está andando em círculos, sem rumo, portanto, dificilmente escreverá um maravilhoso livro. Que tal começar hoje, agora, a escrever um novo enredo? Lápis e papel na mão! Vamos lá! Busque a libertação do passado e crie, com sua força interior, a dinâmica para realizar sua proposta de vida! O que lhe falta, talvez, seja apenas uma nova perspectiva. Não diga que não consegue, não interessa se você tem 30 ou 60 anos, saiba que ainda dá tempo. Não espere por um final feliz, conquiste-o; não espere pelo príncipe, pelo milagre, faça-os acontecerem. Chegou o momento de mudar a história. As conquistas levam tempo, precisam de estratégias, pois são como um bom filme: ele não começa e acaba, mas sim, possui um enredo, um meio, tudo com uma finalidade precisa. Assim será seu livro. Mas o mais importante de tudo é escolher o título, pois é a partir dele que a história se desenvolverá. Então, qual será o título? Alegria ou lamento, felicidade ou sofrimento? Tudo dependerá de você! Que tal \u0093Você nasceu para ser Feliz?\u0094 Você nasceu para ser Feliz Há alguns anos, você passou em uma espécie de vestibular, um vestibular em que existia apenas uma, isso mesmo, uma vaga, e o número de concorrentes chegava a 300 milhões; pode ter certeza absoluta disso: no momento da fecundação, você estava lá disputando o seu lugar. Pois bem, você já é um vencedor. Agora cabe a você trilhar o caminho rumo à felicidade. Em cada instante de sua vida, existe uma oferta para seu crescimento. Sinta cada momento, sinta cada instante, sinta o poder que existe em suas mãos, acredite em você, acesse toda sua sabedoria interna e trilhe pelo caminho da ponderação e da paz interior. Neste livro, Paulo Valzacchi mostra o caminho que nos conduz a nosso mestre interior e à tão desejada felicidade. Para isso, ele começa apontando quais os sinais que a vida está querendo nos mostrar e, em seguida, fala do desafio de viver um dia melhor. Na sequência, leva-nos a uma reflexão de como está a nossa vida atualmente e mostra como nos conectarmos ao nosso mestre interior por meio de um roteiro que nos faz descobrir nossas potencialidades, conviver com o que não podemos mudar e nos tornar criadores de nossa própria existência à medida que escolhemos os caminhos que queremos trilhar rumo à evolução e ao sucesso. Afinal de contas, todos nós nascemos para sermos felizes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579306631"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579306639"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QkTABAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QkTABAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QkTABAAAQBAJ&pg=PT43&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QkTABAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QkTABAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QkTABAAAQBAJ&rdid=book-QkTABAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_nasceu_para_ser_feliz-sample-epub.acsm?id=QkTABAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_nasceu_para_ser_feliz-sample-pdf.acsm?id=QkTABAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QkTABAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando paramos para perceber o que é certo, colocamos em mente que é uma \u003cbr\u003e\natitude que nos dará resultados positivos, o que nem sempreé garantido, por \u003cbr\u003e\nisso a colocação do provérbio para justificar:\u003cb\u003eo que vale é a intenção\u003c/b\u003e. Mas, veja&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "74VKBQAAQBAJ",
+   "etag": "UPBjR1qtc1U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/74VKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Memórias De Ex Tudante",
+    "authors": [
+     "Alex Maktub"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-01-20",
+    "description": "“Há que se possuir grande sensibilidade para se conseguir transcrever todo esse sentimento tão tocante. A escrita de Alex Maktub é, ao mesmo tempo, ingênua e madura, sem se alternar. É tudo junto e misturado” (Ester G.R. Corintho)",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90158610"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=74VKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=74VKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=74VKBQAAQBAJ&pg=PT40&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=74VKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-74VKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=74VKBQAAQBAJ&rdid=book-74VKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3rias_De_Ex_Tudante-sample-pdf.acsm?id=74VKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=74VKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ah, mas \u003cb\u003eo que vale é a intenção\u003c/b\u003e. Chegando à Estrela Azul, como num ritual, \u003cbr\u003e\ntodos se cumprimentavam. O sinal tocava e a dura caminhada até a sala 08 da \u003cbr\u003e\nescola começava... A professora Eliza Beth Alves Pontes já estava no seu &#39;trono&#39;."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qgcMXNIirtgC",
+   "etag": "j+4MoVnuVWg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qgcMXNIirtgC",
+   "volumeInfo": {
+    "title": "Inventário da Emoção",
+    "authors": [
+     "Thales Guaracy"
+    ],
+    "publisher": "Editora Copacabana",
+    "publishedDate": "2014-03-31",
+    "description": "A namorada, a mulher e a amante. Paisagens, pessoas e momentos. Registros vivos de memória, fragmentos da complexidade humana que nos fazem refletir sobre a vida e nós mesmos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565397353"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565397351"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qgcMXNIirtgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qgcMXNIirtgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qgcMXNIirtgC&pg=PT117&dq=O+que+vale+%C3%A9+a+inten%C3%A7%C3%A3o&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qgcMXNIirtgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qgcMXNIirtgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qgcMXNIirtgC&rdid=book-qgcMXNIirtgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Invent%C3%A1rio_da_Emo%C3%A7%C3%A3o-sample-epub.acsm?id=qgcMXNIirtgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Invent%C3%A1rio_da_Emo%C3%A7%C3%A3o-sample-pdf.acsm?id=qgcMXNIirtgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qgcMXNIirtgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Abração Walcyr Walcyr, mais Caro Walcyr, nãohá problema \u003cb\u003eO que vale é a\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eintenção\u003c/b\u003e Se não me responde empoema Ao menos fala o coração Veja oqueo \u003cbr\u003e\nsucesso traz, O que mostra essa tua jornada: Vais querer agora bem mais O \u003cbr\u003e\npassado&nbsp;..."
+   }
+  }
+ ]
+}

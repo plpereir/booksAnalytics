@@ -1,0 +1,102 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1ebRBAAAQBAJ",
+   "etag": "LdlKeI6afLI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1ebRBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O Segredo De Zach",
+    "authors": [
+     "Matthew W. Grant"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2014-10-27",
+    "description": "Poderá um jovem rapaz sair do armário, encontrar o amor e sobreviver ao último ano do ensino médio ao mesmo tempo? Zach Denham, o editor de um jornal de escola de uma cidade pequena, sofre para passar por um cara \"normal\" namorando com uma amiga. Key, o esportista novato da escola, força Zach a confrontar a verdade sobre sua identidade sexual. Amigos se tornam inimigos quando uma questão explosiva divide a comunidade estudantil. Como a sra. Trevott, a querida professora de inglês de Zach, aconselha com sua língua afiada, alguns deles vão lutar pelo que acreditam mesmo que precisem lutar sozinhos. O roteiro baseado em O Segredo de Zach, também de autoria de Matthew, foi finalista em um concurso de roteiros em uma Script Magazine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781633393165"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "163339316X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 74,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1ebRBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1ebRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1ebRBAAAQBAJ&pg=PT21&dq=Di%C3%A1rio+de+um+nerd+-+O+supernerd&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1ebRBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1ebRBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.21,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.21,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1ebRBAAAQBAJ&rdid=book-1ebRBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.521E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.521E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1ebRBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eSuper Nerd\u003c/b\u003e ataca novamente, pensei. ... num pequeno jornal semanal em \u003cbr\u003e\nMontana, comose casou muito jovem, e como se divorciou com umfilho pequeno \u003cbr\u003e\nquando se mudou para Nova York para assumir um trabalho num jornal \u003cb\u003ediário\u003c/b\u003e lá."
+   }
+  }
+ ]
+}

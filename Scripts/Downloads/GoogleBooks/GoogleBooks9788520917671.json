@@ -1,0 +1,81 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ehUthD1M9l8C",
+   "etag": "yxDpZ7KjZsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ehUthD1M9l8C",
+   "volumeInfo": {
+    "title": "O Caçador de Pipas",
+    "authors": [
+     "Khaled Hosseini"
+    ],
+    "publisher": "Ediouro Publicações",
+    "publishedDate": "2005",
+    "description": "'O caçador de pipas' conta a história de Amir, um afegão há muito imigrado para os Estados Unidos, que se vê obrigado a acertar as contas com o passado e retorna a seu país de origem. O ponto de partida do livro é a infância do protagonista, quando Cabul ainda não era a capital do país que foi invadido pela União Soviética, dominado pelos talibãs e subjugado pelos Estados Unidos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520917674"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520917671"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 365,
+    "printType": "BOOK",
+    "categories": [
+     "Afghanistan"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 177,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ehUthD1M9l8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ehUthD1M9l8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ehUthD1M9l8C&dq=isbn:9788520917671&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ehUthD1M9l8C&dq=isbn:9788520917671&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Ca%C3%A7ador_de_Pipas.html?hl=&id=ehUthD1M9l8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ehUthD1M9l8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;O caçador de pipas&#39; conta a história de Amir, um afegão há muito imigrado para os Estados Unidos, que se vê obrigado a acertar as contas com o passado e retorna a seu país de origem."
+   }
+  }
+ ]
+}

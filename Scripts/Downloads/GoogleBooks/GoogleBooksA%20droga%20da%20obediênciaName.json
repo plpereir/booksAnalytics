@@ -1,0 +1,786 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 148,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VHPHuAAACAAJ",
+   "etag": "LZdE2LtEpDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VHPHuAAACAAJ",
+   "volumeInfo": {
+    "title": "A droga da obediência",
+    "subtitle": "mais uma aventura com os Karas!",
+    "authors": [
+     "Pedro Bandeira",
+     "Alberto Naddeo"
+    ],
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516012417"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516012410"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Detective and mystery stories, Portuguese"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VHPHuAAACAAJ&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VHPHuAAACAAJ&dq=A+droga+da+obedi%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_droga_da_obedi%C3%AAncia.html?hl=&id=VHPHuAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VHPHuAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5wFyDwAAQBAJ",
+   "etag": "Wh485wIpEME",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5wFyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Droga Da Morte !",
+    "authors": [
+     "Maria"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A droga foi muito visada em pesquisas; psiquiatras e demais estudiosos do tema a testaram em si mesmos para melhor entender desordens severas por que pacientes eram acometidos, pois segundo teorias e dadas experiências era possível simular a esquizofrenia sob seu efeito, entre outras condições semelhantes.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU26757"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 75,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5wFyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5wFyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5wFyDwAAQBAJ&pg=PA23&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5wFyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5wFyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.46,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 59.46,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5wFyDwAAQBAJ&rdid=book-5wFyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.946E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.946E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Droga_Da_Morte-sample-pdf.acsm?id=5wFyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5wFyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... 1972 passou a escrever pequenas histórias para revistas de banca desta e de \u003cbr\u003e\noutras editoras. Seu primeiro livro foi O dinossauro que fazia au-au, voltado para \u003cbr\u003e\nas crianças, que fez um grande sucesso. Mas foi com \u003cb\u003eA Droga da Obediência\u003c/b\u003e,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c8F5DwAAQBAJ",
+   "etag": "rCgj91p3PCI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c8F5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ao Gosto Do Coração...",
+    "authors": [
+     "Donna Mary"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Como seria a vida se tudo fosse certinho? Tudo no seu lugar exato? As famílias extremamente perfeitas? Os amores eternos e todos os sonhos realizados num passe de mágica? Porém, temos encontros e desencontros... Amigos vêm e vão... Os amores também. Os sonhos são interrompidos ao longo do caminho. Várias histórias fazem parte de uma só e acabam formando um laço... Um laço de amor... E, tudo acontece ao gosto do coração...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU33207"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 261,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c8F5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c8F5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=c8F5DwAAQBAJ&pg=PA183&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=c8F5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-c8F5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=c8F5DwAAQBAJ&rdid=book-c8F5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ao_Gosto_Do_Cora%C3%A7%C3%A3o-sample-pdf.acsm?id=c8F5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c8F5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O primeiro livro da série que ela iria ler seria: \u003cb\u003eA Droga da Obediência\u003c/b\u003e. Em \u003cbr\u003e\nseguida, seriam os livros: Pântano de Sangue; Anjo da Morte; A Droga do Amor \u003cbr\u003e\ne Droga de Americana. Todos os livros tinham uma nova aventura policial, com&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zNJxDwAAQBAJ",
+   "etag": "Z+NhZfZSOLY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zNJxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sintonia: Poemas, CrÔnicas E Contos",
+    "authors": [
+     "Adilson"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Sintonia é um resgate das estórias (contos, causos, poesias, piadas e anedotas) que só existiam na oralidade, sendo faladas pelo povo da localidade, bem como a produção além desses resgates pelo autor. Um trabalho iniciado em Nordeste Bom Jardim e terminado em Parauapebas (Norte); É incluído também a produção de contos, crônicas e poemas pelo autor Adilson Motta e alguns direcionados em momentos pedagógicos no espaço escolar como pesquisa e resgate - assim como fizeram os Irmãos Green. A partir de então, foi dado um corpo escrito, ou seja: Foi feito uma fixação dos textos do folclore literário saindo do oral e entrando para a literatura escrita. É uma obra que aborda os três gêneros: poemas, crônicas e contos, sendo textos produzidos e embasados em realidade; Os dois primeiros (gêneros) são produzidos numa perspectiva crítica, e não poderia ser diferente, doutro modo seria vazio razão da temática aqui expressa SINTONIA.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20293"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 159,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zNJxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zNJxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zNJxDwAAQBAJ&pg=PA12&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zNJxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zNJxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zNJxDwAAQBAJ&rdid=book-zNJxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sintonia_Poemas_Cr%C3%94nicas_E_Contos-sample-pdf.acsm?id=zNJxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zNJxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA droga da obediência\u003c/b\u003e Enganou-me no Éden Quando a serpente me seduziu Na \u003cbr\u003e\nbeleza embriagante de Dalila Foi a derrota de Sanção, Um amor impensado – \u003cbr\u003e\nque resultou em traição. Queimou-me na rosa de Hiroshima Quando pensavam\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ue1RBQAAQBAJ",
+   "etag": "oGsaPy484BU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ue1RBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Sintonia: Poemas, CrÔnicas E Contos",
+    "authors": [
+     "Adilson Motta"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-12-07",
+    "description": "Sintonia é um resgate das estórias (contos, causos, poesias, piadas e anedotas) que só existiam na oralidade, sendo faladas pelo povo da localidade, bem como a produção além desses resgates pelo autor. Um trabalho iniciado em Nordeste Bom Jardim e terminado em Parauapebas (Norte); É incluído também a produção de contos, crônicas e poemas pelo autor Adilson Motta e alguns direcionados em momentos pedagógicos no espaço escolar como pesquisa e resgate - assim como fizeram os Irmãos Green. A partir de então, foi dado um corpo escrito, ou seja: Foi feito uma fixação dos textos do folclore literário saindo do oral e entrando para a literatura escrita. É uma obra que aborda os três gêneros: poemas, crônicas e contos, sendo textos produzidos e embasados em realidade; Os dois primeiros (gêneros) são produzidos numa perspectiva crítica, e não poderia ser diferente, doutro modo seria vazio razão da temática aqui expressa SINTONIA.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90155871"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 159,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ue1RBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ue1RBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ue1RBQAAQBAJ&pg=PA12&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ue1RBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ue1RBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ue1RBQAAQBAJ&rdid=book-Ue1RBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sintonia_Poemas_Cr%C3%94nicas_E_Contos-sample-pdf.acsm?id=Ue1RBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ue1RBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA droga da obediência\u003c/b\u003e Enganou-me no Éden Quando a serpente me seduziu Na \u003cbr\u003e\nbeleza embriagante de Dalila Foi a derrota de Sanção, Um amor impensado – \u003cbr\u003e\nque resultou em traição. Queimou-me na rosa de Hiroshima Quando pensavam\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kiwODAAAQBAJ",
+   "etag": "wjej/yxeJ+8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kiwODAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Onda Conservadora",
+    "authors": [
+     "Felipe Demier"
+    ],
+    "publisher": "Mauad Editora Ltda",
+    "publishedDate": "2016-04-15",
+    "description": "\\\"O livro que o leitor tem em mãos é bem mais que a prova de que a esquerda séria haverá de resistir. Nestes 20 corajosos ensaios, não se encontra o rebaixamento da inteligência que é próprio da Oposição de Direita: aqui se contempla a informação veraz, a indicação dos desafios a enfrentar e a análise criteriosa de múltiplos problemas e dimensões da realidade brasileira, análise que funda a crítica político-social e a defesa clara de posições que expressam os interesses da massa dos trabalhadores brasileiros.\\\" (Fragmento do texto da orelha, por José Paulo Netto, Professor Emérito (ESS/UFRJ) \\\"Os textos aqui reunidos não fazem concessões rasas e conjunturais ao governismo e à oposição de direita, demonstrando o enraizamento do pensamento e das práticas reacionárias nos poderes de Estado e na sociedade brasileira em múltiplas dimensões, após anos de neoliberalismo e contrarreformismo. Trata-se de uma crítica radical, no seu sentido mais profundo: ir à raiz das questões postas, na perspectiva de fornecer argumentos para a luta social que pretende recompor um projeto de esquerda no Brasil.\\\" (Fragmento do texto da quarta capa, por Elaine Rossetti Behring (FSS/UERJ)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574788326"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574788325"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kiwODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kiwODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kiwODAAAQBAJ&pg=PT205&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kiwODAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kiwODAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kiwODAAAQBAJ&rdid=book-kiwODAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.89E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Onda_Conservadora-sample-pdf.acsm?id=kiwODAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kiwODAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Estaria \u003cb\u003ea droga da obediência\u003c/b\u003e sendo usada como uma espécie de “método \u003cbr\u003e\npedagógico” perverso? O que isso significa? E por que não há uma discussão \u003cbr\u003e\nmais ampla em toda a sociedade brasileira?19 Diante desses questionamentos,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u8hjQAAACAAJ",
+   "etag": "UngH4CXerWw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u8hjQAAACAAJ",
+   "volumeInfo": {
+    "title": "ANJO DA MORTE",
+    "authors": [
+     "PEDRO BANDEIRA"
+    ],
+    "description": "Os Karas lutam contra o renascimento do nazismo. Os Karas, os cinco adolescentes de 'A Droga da Obediência', envolvem-se na investigação do assassinato de um grande ator de teatro. Mal sabiam eles que teriam de enfrentar o Anjo da Morte, um ex-oficial nazista.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516045412"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516045418"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u8hjQAAACAAJ&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=u8hjQAAACAAJ&dq=A+droga+da+obedi%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ANJO_DA_MORTE.html?hl=&id=u8hjQAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u8hjQAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os Karas, os cinco adolescentes de &#39;A Droga da Obediência&#39;, envolvem-se na investigação do assassinato de um grande ator de teatro. Mal sabiam eles que teriam de enfrentar o Anjo da Morte, um ex-oficial nazista."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oUI-AQAAIAAJ",
+   "etag": "HoZZY1yFM5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oUI-AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105114606671"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oUI-AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oUI-AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oUI-AQAAIAAJ&q=A+droga+da+obedi%C3%AAncia&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oUI-AQAAIAAJ&dq=A+droga+da+obedi%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=oUI-AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oUI-AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em 1 968, quando \u003cb\u003ea droga\u003c/b\u003e havia se popularizado entre os alunos de Harvard, \u003cbr\u003e\nWeil convenceu o diretor da escola de ... absolutamente por acaso, e não em \u003cbr\u003e\n\u003cb\u003eobediência\u003c/b\u003e a alguma teoria metafísica, como costuma ser a regra nesses casos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5vMrAAAAYAAJ",
+   "etag": "sNBhxi7EqzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5vMrAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Almanaque anos 80",
+    "authors": [
+     "Luiz André Alzer",
+     "Mariana Claudino"
+    ],
+    "publisher": "Ediouro Publicações",
+    "publishedDate": "2004",
+    "description": "Os anos 80 não foram de contestação política, nem de uma revolução artística pseudo-intelectual e mal sentiram o gosto amargo da censura, que já estava em seus últimos suspiros. Mas justamente por isso foram muito mais divertidos. Lançaram o rock nacional, os primeiros jogos eletrônicos (do Telejogo ao Atari, passando pelos game-boys) e teve a melhor seleção brasileira até hoje desde o tri em 70, aquela da Copa da Espanha de 82. De quebra, ainda botou no mundo o cubo mágico, o relógio Champion que trocava pulseira e aqueles picolés diferentões da Gelatto. Este livro, longe de ter a pretensão de ser uma enciclopédia da década, é um apanhado de tudo o que marcou a infância, a adolescência e a juventude de uma geração. O 'Almanaque Anos 80' é dividido em oito capítulos - Televisão, Revistas, Figurinhas & Livros, Música, Cinema, Esporte, Guloseimas, Diversão e Modismos. Cada um deles é recheado de curiosidades, listas, muitas fotos e, inclusive, informações quase inéditas.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173015254970"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5vMrAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5vMrAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5vMrAAAAYAAJ&q=A+droga+da+obedi%C3%AAncia&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5vMrAAAAYAAJ&dq=A+droga+da+obedi%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Almanaque_anos_80.html?hl=&id=5vMrAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5vMrAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA droga da obediência\u003c/b\u003e, de Pedro Bandeira 0 corajoso Doutor Q.l. inventa uma \u003cbr\u003e\nperigosa droga e a está testando em estudantes de diversos colégios da cidade. \u003cbr\u003e\nOs Karas, um grupo de cinco amigos, vão tentar impedir o experimento de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HptpDkJ94IIC",
+   "etag": "gSZh/mnRaDI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HptpDkJ94IIC",
+   "volumeInfo": {
+    "title": "Lembrancinhas Pinçadas Lááá Do Fundo",
+    "authors": [
+     "Pedro Bandeira"
+    ],
+    "publisher": "Editora Objetiva",
+    "publishedDate": "2006",
+    "description": "Em mais de 35 anos dedicados à literatura infanto-juvenil, Pedro Bandeira recebeu diversos prêmios de destaque, como o Jabuti e o Adolfo Aizen. Agora, o renomado autor do clássico 'A Droga da Obediência' relembra em 'Lembrancinhas Pinçadas Lááá do Fundo' histórias do tempo em que ainda era menino, casos saborosos, aventuras, travessuras e lições de vida bem aprendidas. Lembranças de um tempo antigo, quando não havia televisão, videogame nem computador.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573027703"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573027709"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 111,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HptpDkJ94IIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HptpDkJ94IIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HptpDkJ94IIC&dq=A+droga+da+obedi%C3%AAncia&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HptpDkJ94IIC&dq=A+droga+da+obedi%C3%AAncia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Lembrancinhas_Pin%C3%A7adas_L%C3%A1%C3%A1%C3%A1_Do_Fundo.html?hl=&id=HptpDkJ94IIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HptpDkJ94IIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em mais de 35 anos dedicados à literatura infanto-juvenil, Pedro Bandeira recebeu diversos prêmios de destaque, como o Jabuti e o Adolfo Aizen."
+   }
+  }
+ ]
+}

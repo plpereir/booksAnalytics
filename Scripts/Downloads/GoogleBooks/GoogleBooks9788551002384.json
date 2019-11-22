@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Br8_swEACAAJ",
+   "etag": "rndk7tf4VB0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Br8_swEACAAJ",
+   "volumeInfo": {
+    "title": "Meu Livro. Eu Que Escrevi.",
+    "authors": [
+     "Duny"
+    ],
+    "description": "Duny (lê-se Dani) é uma celebridade de alcance mundial, alçada ao estrelato por seu imenso talento, inteligência, classe e beleza incomparáveis. Ou, pelo menos, era isso o que ela esperava da vida - que, no caso de Duny, se resume basicamente a um loop infinito de lacres, barracos e baixarias cometidos em busca da fama. Meu livro. Eu que escrevi é o maior deles. Conhecida dos fãs principalmente por trabalhar e morar na Pensão da Tia Ruiva e ser uma das estrelas da websérie Girls in the House, Duny hoje comanda também o reality show investigativo Disk Duny e é comentarista on-line de premiações como o Oscar e o Grammy para uma grande rede de TV, mas ela já passou por muita coisa nessa vida: da humilhação pública de fazer agachamentos em trajes sumários num programa de auditório a fingir que suporta crianças só para ser babá da filha de uma artista famosíssima e ficar um tantinho mais perto dos maiores nomes da música pop. Se valeu a pena? Para Duny, ainda vamos saber. Mas, para quem lê essa autobiografia recheada do início ao fim com o melhor da ironia (ou grosseria) moderna e total ausência de preciosismo vernacular, vale cada página.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002384"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002384"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Br8_swEACAAJ&dq=isbn:9788551002384&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Br8_swEACAAJ&dq=isbn:9788551002384&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Meu_Livro_Eu_Que_Escrevi.html?hl=&id=Br8_swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Br8_swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Duny (lê-se Dani) é uma celebridade de alcance mundial, alçada ao estrelato por seu imenso talento, inteligência, classe e beleza incomparáveis."
+   }
+  }
+ ]
+}

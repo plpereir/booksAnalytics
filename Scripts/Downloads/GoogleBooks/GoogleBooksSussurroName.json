@@ -1,0 +1,820 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 325,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WZyBSCj_uuoC",
+   "etag": "or1Wf8L83K0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WZyBSCj_uuoC",
+   "volumeInfo": {
+    "title": "Sussurro",
+    "authors": [
+     "Becca Fitzpatrick"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Nora é uma menina responsável. Aos 17 anos, ela tira boas notas e sempre avisa à mãe aonde vai e o que está fazendo. Nem mesmo garotos a fazem perder o foco nos estudos. Até porque, apesar das tentativas de sua melhor amiga, Vee, de lhe arrumar um pretendente, ela nunca se interessou por ninguém na escola. Pelo menos não até conhecer Patch, seu novo colega na aula de biologia. Ele parece estar em todos os lugares e saber tudo sobre ela. Seu jeito ao mesmo tempo sedutor e perigoso faz com que Nora fique imediatamente intrigada. E encantada. É então que eventos estranhos começam a acontecer. Um homem usando uma máscara de esqui salta diante de seu carro, seu quarto é invadido e aparentemente alguém está tentando matá-la. Nora não sabe em quem confiar. Quando Vee conhece dois novos rapazes e tenta arranjar um encontro, as coisas só pioram. Nora está assustada a maior parte do tempo. Patch é o da máscara de esqui? Ou será Elliot, o novo garoto com quem Vee quer que ela saia? Em sua busca por respostas, Nora está prestes a se descobrir no centro de uma batalha ancestral entre seres imortais e anjos caídos - uma disputa que não se resolverá sem sacrifícios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570373"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570379"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WZyBSCj_uuoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WZyBSCj_uuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WZyBSCj_uuoC&printsec=frontcover&dq=Sussurro&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WZyBSCj_uuoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WZyBSCj_uuoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WZyBSCj_uuoC&rdid=book-WZyBSCj_uuoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sussurro-sample-epub.acsm?id=WZyBSCj_uuoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sussurro-sample-pdf.acsm?id=WZyBSCj_uuoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WZyBSCj_uuoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nora é uma menina responsável."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XwZyDwAAQBAJ",
+   "etag": "psJeKmEw1yg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XwZyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sussurro Dos Mortos",
+    "authors": [
+     "CÁssio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um grupo de 9 amigos se reúne depois de 30 anos para reviverem lembranças de um antigo clube. Para isso, um homem chamado Stanley Chaw, convida-os para se hospedarem na sua luxuosa mansão no dia do 100º aniversário da cidade em que ele mora. Lá, no entanto, todos se depararão com a revelação de um segredo muito bem guardado por eles: um crime que há 30 anos os assombram; e o pior: além de suspeitos, eles podem se tornar vítimas de um novo crime. Misturando mistério, segredos, intrigas, suspense e reviravoltas, Sussurro dos Mortos é uma narrativa de tirar o fôlego.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU26351"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 173,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XwZyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XwZyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XwZyDwAAQBAJ&pg=PA31&dq=Sussurro&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XwZyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XwZyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XwZyDwAAQBAJ&rdid=book-XwZyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sussurro_Dos_Mortos-sample-pdf.acsm?id=XwZyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XwZyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eSussurro\u003c/b\u003e. dos. Mortos. –O que deseja senhora? –Hum... Vocês podem me \u003cbr\u003e\narranjar papel e caneta, por favor? –Sim, mas é claro – Ele disse saindo. –Pra \u003cbr\u003e\nque você quer papel e caneta? Perguntou Stanley. –Ora, vou escrever uma \u003cbr\u003e\nespécie de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OOFxDwAAQBAJ",
+   "etag": "e7xgOyMjHKY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OOFxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Sussurro De Uma Lágrima",
+    "authors": [
+     "Ekaterine"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Como começar a escrever um livro se não se sabe o começo, só sei que amo e escrevo ,tento passar para o papel o que se passa na minha mente tento não esconder nada e fazer com que você sinta a mesma emoção do momento como eu senti e sinto, as vezes segurar a magoa ,a alegria , o medo ou angustia não nos faz bem e solta-las também não é amelhor forma pois ninguém nunca vai entender o que você está sentindo mas o papel tem um poder de aproximar as pessoas e fazê-la seriguais e foi isso que tentei fazer espero que seja uma ótima leitura",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU22227"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 79,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OOFxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OOFxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OOFxDwAAQBAJ&pg=PT1&dq=Sussurro&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OOFxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OOFxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OOFxDwAAQBAJ&rdid=book-OOFxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Sussurro_De_Uma_L%C3%A1grima-sample-pdf.acsm?id=OOFxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OOFxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ekaterine Barbosa De Lima. \u003cb\u003eSUSSURRO\u003c/b\u003e DE UMA LÁGRIMA Por EKATERINE B.\u003cbr\u003e\nDE LIMA Prólogo Como começar a escrever um livro se não se."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ov56DwAAQBAJ",
+   "etag": "zxXnZoGp3u4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ov56DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sussurro Das Águas",
+    "authors": [
+     "Antonio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um carro em alta velocidade, numa pista sinuosa. De um lado a mata atlântica, do outro o abismo. O carro derrapa e se precipita no abismo. Dois acidentes no mesmo local, da mesmos forma e em períodos diferentes. Seria simples coincidências? Tente elucidar esses acidentes juntamente com os detetives Aderbal Antunes e Stela Campello.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU2106"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.46.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ov56DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ov56DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ov56DwAAQBAJ&pg=PA1&dq=Sussurro&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ov56DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ov56DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ov56DwAAQBAJ&rdid=book-ov56DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sussurro_Das_%C3%81guas-sample-pdf.acsm?id=ov56DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ov56DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Antonio. \u003cb\u003eSussurro\u003c/b\u003e Das Águas Antonio Carlos Rodrigues &amp; Cássia Rodrigues \u003cbr\u003e\n\u003cb\u003eSussurro\u003c/b\u003e das Águas 1. Diagramação e Montagem 1.1. Anrie Rodrigues. 1 \u003cbr\u003e\n\u003cb\u003eSussurro\u003c/b\u003e das Águas Front Cover."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JCF7nCy2tXsC",
+   "etag": "PAms0Jgzt+I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JCF7nCy2tXsC",
+   "volumeInfo": {
+    "title": "O SUSSURRO DAS COISAS",
+    "authors": [
+     "MARÍLIA BRANDÃO LEMOS DE MORAIS KALLAS"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "A autora, que também é médica psiquiatra e psicanalista, desloca-se do lugar cotidiano da escuta de pessoas que atende em seu consultório em Belo Horizonte e, enquanto poeta, passa à escuta inaudível do sussurro mudo das coisas em si, transmutando-a em poesia. Palavras jorram advindas do silêncio vazio da solidão sem lugar, sem nome, sem tempo, sem espaço e revelam o trabalho criativo do fazer poético. O SUSSURRO DAS COISAS é um convite ao leitor para se perder nesta aventura sem volta da escrita poética.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578934460"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578934466"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JCF7nCy2tXsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JCF7nCy2tXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JCF7nCy2tXsC&pg=PA13&dq=Sussurro&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JCF7nCy2tXsC&dq=Sussurro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_SUSSURRO_DAS_COISAS.html?hl=&id=JCF7nCy2tXsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JCF7nCy2tXsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O \u003cb\u003eSussurro\u003c/b\u003e das Coisas Deixar-se abraçar pelas coisas ser levado ouvir-lhes os \u003cbr\u003e\n\u003cb\u003esussurros\u003c/b\u003e: lesmas em trilho brilhante pernas de centopeias pás de remos barcos \u003cbr\u003e\nde Ulisses e viajar em arfar de amantes no zum do ar guilhotinas a cortar&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sJ49Ocs-Av8C",
+   "etag": "324V1gJeyrU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sJ49Ocs-Av8C",
+   "volumeInfo": {
+    "title": "Sussurro Das Bruxas, O",
+    "authors": [
+     "Anna Dale"
+    ],
+    "publisher": "Editora Objetiva",
+    "publishedDate": "2004",
+    "description": "Joe Binks, de 12 anos, vai passar as férias de Natal com a mãe, o padrasto e a meia-irmã Esme, já que seu pai precisa viajar para cuidar de uma tia doente. Mas ele acaba descendo do trem na estação errada, e o que poderia ser apenas mais um feriado se transforma em um desafio diferente de tudo que Joe já viveu antes. Ao desembarcar, Joe fica sabendo de um complô para destruir todas as bruxas da Inglaterra. Para impedir isso, é preciso encontrar uma página perdida do mais famoso livro de magia de todos os tempos. E assim começam as férias mais inesquecíveis de toda a sua vida... Levado por uma vassoura encantada, ele acaba indo parar na sede de uma ordem de bruxas do bem onde conhece Twiggy, simpática bruxinha aprendiz que logo se torna sua amiga. Por algum motivo que ele ainda não sabe, as bruxas pensam que Joe está com a página 513 do centenário livro de magia, e sua irmã Esme é raptada para fazer com que ele a devolva. Joe e Twiggy precisam então usar toda a sua esperteza para resgatar Esme, recuperar a página do famoso livro e impedir a conspiração que pretende acabar com as bruxas da Inglaterra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857302660X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573026603"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 247,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sJ49Ocs-Av8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sJ49Ocs-Av8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sJ49Ocs-Av8C&pg=PA22&dq=Sussurro&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sJ49Ocs-Av8C&dq=Sussurro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sussurro_Das_Bruxas_O.html?hl=&id=sJ49Ocs-Av8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sJ49Ocs-Av8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jncwCoziJjQC",
+   "etag": "h5ya/NS7D7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jncwCoziJjQC",
+   "volumeInfo": {
+    "title": "Sussurro & codeína",
+    "publisher": "7Letras",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857577333X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575773338"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jncwCoziJjQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jncwCoziJjQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jncwCoziJjQC&pg=PA36&dq=Sussurro&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jncwCoziJjQC&dq=Sussurro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sussurro_code%C3%ADna.html?hl=&id=jncwCoziJjQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jncwCoziJjQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Dsl6PgAACAAJ",
+   "etag": "tQu0jZyvC+E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dsl6PgAACAAJ",
+   "volumeInfo": {
+    "title": "O SUSSURRO DA MULHER-BALEIA",
+    "authors": [
+     "ALONSO CUETO"
+    ],
+    "description": "Que caminhos pode seguir uma terna e secreta amizade entre duas estudantes? Até onde se pode chegar, anos depois, quando uma delas tenta reviver essa relação perdida, ou quando quer vingar-se de uma ofensa que nunca conseguiu esquecer? Verónica tem uma vida plena - um casamento estável, um filho carinhoso, um amante apaixonado e um prestigioso cargo de jornalista. Rebeca, por sua vez, suporta o tormento de sua grotesca gordura. A solidão, a amargura e a raiva alimentam sua sede infinita de culpar alguém. Esse alguém é sua amiga secreta do colégio, com quem esbarra em um vôo - o acaso que dá início a este intrigante e intenso romance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576653257"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576653257"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Dsl6PgAACAAJ&dq=Sussurro&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Dsl6PgAACAAJ&dq=Sussurro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_SUSSURRO_DA_MULHER_BALEIA.html?hl=&id=Dsl6PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Dsl6PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Que caminhos pode seguir uma terna e secreta amizade entre duas estudantes?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fUir-dmkfXUC",
+   "etag": "kIoQfMb9bvU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fUir-dmkfXUC",
+   "volumeInfo": {
+    "title": "O Sussurro mais Sombrio",
+    "authors": [
+     "Gena Showalter"
+    ],
+    "publisher": "Harlequin Brasil",
+    "publishedDate": "2012-11-30",
+    "description": "Subjugado aos caprichos de Dúvida, Sabin era um homem condenado à solidão. Afinal, nenhuma das mulheres que compartilharam de sua cama resistiu às perfídias de seu demônio. Nada mais restava senão partir para os campos de batalha em busca do único prazer que poderia usufruir: a vitória. Ao conhecer Gwendolyn, a Tímida, Sabin experimentou levemente um sabor há muito esquecido: o desejo por uma mulher. Gwen, também uma imortal, sempre imaginara que se uniria a um homem que jamais despertasse seu lado mais sombrio. Mas ao ser libertada por Sabin da prisão, por ele se apaixonou. E juntos terão de enfrentar um desafio maior do que a busca pela caixa de Pandora: a subjugação de seus próprios demônios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539805006"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539805006"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 398,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fUir-dmkfXUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fUir-dmkfXUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fUir-dmkfXUC&printsec=frontcover&dq=Sussurro&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fUir-dmkfXUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fUir-dmkfXUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fUir-dmkfXUC&rdid=book-fUir-dmkfXUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.84E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Sussurro_mais_Sombrio-sample-epub.acsm?id=fUir-dmkfXUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Sussurro_mais_Sombrio-sample-pdf.acsm?id=fUir-dmkfXUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fUir-dmkfXUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Subjugado aos caprichos de Dúvida, Sabin era um homem condenado à solidão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sChADwAAQBAJ",
+   "etag": "Tp61cZ7Y1rc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sChADwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Sussurro dos Anjos",
+    "authors": [
+     "Cléo Moreira"
+    ],
+    "publisher": "Planeta Azul Editora",
+    "publishedDate": "2017-11-24",
+    "description": "O Sussurro dos Anjos é uma história real, a biografia de uma mulher comum, como tantas outras em nossa sociedade. Seu avô era índio. Seu pai charrua; e sua mãe, guarani. Aprendeu com eles, que os melhores remédios se encontram na natureza. Seus avôs e também seu pai foram heróis sem medalhas, que não mudaram a história do Mundo; entretanto, possuíam um passado que comportava uma bagagem de lutas e aventuras. A autora passou por poucas e boas: fome, dificuldades financeiras, doenças na família, maltratada pelo companheiro, e, para culminar, recentemente, enfrenta um câncer, considerado incurável. E como a autora, existem aos milhares no nosso país e pelo mundo afora. Mulher guerreira, decidiu contar sua história para todos. Uma leitura essencial para todas as mulheres, que lutam dia a dia por um lugar ao sol. Mas esta obra não é apenas para mulheres, é para todos os que desejam e acreditam que ainda há esperança, que “só acaba, quando se morre. E se ainda está vivo, tem que lutar.”",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569870838"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8569870833"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sChADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sChADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sChADwAAQBAJ&printsec=frontcover&dq=Sussurro&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sChADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sChADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sChADwAAQBAJ&rdid=book-sChADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.25E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.25E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Sussurro_dos_Anjos-sample-epub.acsm?id=sChADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Sussurro_dos_Anjos-sample-pdf.acsm?id=sChADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sChADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Sussurro dos Anjos é uma história real, a biografia de uma mulher comum, como tantas outras em nossa sociedade."
+   }
+  }
+ ]
+}

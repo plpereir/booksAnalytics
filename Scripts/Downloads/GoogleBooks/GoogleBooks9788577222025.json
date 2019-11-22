@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YzAnNQEACAAJ",
+   "etag": "H1T7zZCiEOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YzAnNQEACAAJ",
+   "volumeInfo": {
+    "title": "Pelas Portas Do Coraçao",
+    "authors": [
+     "Zibia Gasparetto",
+     "Lucius (espirito)"
+    ],
+    "description": "O livro tem o intuito de apresentar a história da protagonista Juliana, filha caçula de uma família tradicional paulistana, dotada de poderes surpreendentes - além de prever o futuro, ela tem a capacidade de curar as pessoas e orientá-las com sábias palavras. A personagem procura mostrar como agir - não se confundiu com o mundo, aceitou a mediunidade sem hesitação, tornou-se um canal do bem e dos valores da espiritualidade, com firmeza e serenidade, abrindo apenas as portas do coração.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577222020"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577222025"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YzAnNQEACAAJ&dq=isbn:9788577222025&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YzAnNQEACAAJ&dq=isbn:9788577222025&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pelas_Portas_Do_Cora%C3%A7ao.html?hl=&id=YzAnNQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YzAnNQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro tem o intuito de apresentar a história da protagonista Juliana, filha caçula de uma família tradicional paulistana, dotada de poderes surpreendentes - além de prever o futuro, ela tem a capacidade de curar as pessoas e orientá ..."
+   }
+  }
+ ]
+}

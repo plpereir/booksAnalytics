@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iwHxQ1-WFHMC",
+   "etag": "uM3oxTyehHs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iwHxQ1-WFHMC",
+   "volumeInfo": {
+    "title": "Que Realmente Importa?, O",
+    "authors": [
+     "Anderson Cavalcante"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2009",
+    "description": "Neste livro o leitor pode encontrar uma série de reflexões para descobrir e viver a sua verdade. Segundo o autor, levar uma vida sem propósito é viver sem liberdade para crescer, e mais do que isso, não é viver, porque as pessoas nascem para realizar uma missão. A obra procura ajudar o leitor a responder a pergunta 'o que realmente importa?'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573126523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573126525"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 149,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iwHxQ1-WFHMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iwHxQ1-WFHMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iwHxQ1-WFHMC&dq=isbn:9788573126525&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iwHxQ1-WFHMC&dq=isbn:9788573126525&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Que_Realmente_Importa_O.html?hl=&id=iwHxQ1-WFHMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iwHxQ1-WFHMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A obra procura ajudar o leitor a responder a pergunta &#39;o que realmente importa?&#39;."
+   }
+  }
+ ]
+}

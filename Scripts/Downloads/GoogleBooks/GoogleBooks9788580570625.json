@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YCY6YAAACAAJ",
+   "etag": "2BtEcc/9btc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YCY6YAAACAAJ",
+   "volumeInfo": {
+    "title": "O jovem Sherlock Holmes: Nuvem da morte",
+    "authors": [
+     "Andrew Lane"
+    ],
+    "publisher": "Editora Intríseca",
+    "publishedDate": "2012-01-27",
+    "description": "Sherlock Holmes tem apenas catorze anos quando, ao caminhar por um bosque, descobre um cadáver. Trata-se de um homem. Está coberto de pústulas. É então que Holmes começa uma nova vida. Sua mente destemida e a sede de aventuras conduzem-no por uma jornada capaz de deixar qualquer um sem fôlego: da tranquilidade da vida no campo ao submundo das docas londrinas, enfrentando fogo, espionagem e sequestros, até o cerne de uma aterrorizante trama que poderá mudar o futuro da Grã-Bretanha.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858057062X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570625"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YCY6YAAACAAJ&dq=isbn:9788580570625&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YCY6YAAACAAJ&dq=isbn:9788580570625&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_jovem_Sherlock_Holmes_Nuvem_da_morte.html?hl=&id=YCY6YAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YCY6YAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sherlock Holmes tem apenas catorze anos quando, ao caminhar por um bosque, descobre um cadáver."
+   }
+  }
+ ]
+}

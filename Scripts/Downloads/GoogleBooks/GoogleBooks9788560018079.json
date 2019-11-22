@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xC5hYgEACAAJ",
+   "etag": "5E1VCM4+cTU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xC5hYgEACAAJ",
+   "volumeInfo": {
+    "title": "Arte Da Guerra (pocket) Vermelho",
+    "authors": [
+     "Tzu Sun",
+     "Nikko Bushido"
+    ],
+    "publisher": "Geração Editorial",
+    "description": "O tratado de guerra em sua versão pocket completa e em língua portuguesa. 'A Arte da Guerra' deve ser a Bíblia da estratégia, sendo utilizada amplamente no mundo dos negócios, conquistando pessoas e mercados. Um de seus ensinamentos busca enfatizar a importância de conhecer o inimigo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8560018077"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560018079"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 125,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xC5hYgEACAAJ&dq=isbn:9788560018079&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xC5hYgEACAAJ&dq=isbn:9788560018079&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Arte_Da_Guerra_pocket_Vermelho.html?hl=&id=xC5hYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xC5hYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ESta edição adaptada por André Bueno, sinólogo com mestrado em história e doutorado em filosofia, nos traz, com excelência, os ensinamentos do general chinês Sun Tzu, que há cerca de 2500 anos influencia o mundo dos negócios. “Um ..."
+   }
+  }
+ ]
+}

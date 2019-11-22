@@ -1,0 +1,725 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 477,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zvdxDwAAQBAJ",
+   "etag": "RGA0+p7p+fI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zvdxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Estudando Nosso Lar De André Luiz",
+    "authors": [
+     "John"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Este livro parte de um estudo realizado em grupo virtual idealizado por Klênia Nunes, jovem espírita da cidade de Pirapora, Minas Gerais. Os poucos integrantes deste grupo iam lendo capítulo a capítulo do livro Nosso Lar de Chico Xavier, transmitido pelo espírito de André Luiz. Assim, este trabalho apresenta o livro integral de Chico Xavier acrescido dos meus comentários ao tempo do estudo. Então, o leitor vai localizar em negrito o texto do livro Nosso Lar e logo a seguir, sem negrito, os comentários que se compõe de reflexões sobre os temas, assuntos, ponderações ou discussões dispostas no livro. A ideia de compartilhá-lo em forma de livro se dá pela vontade de que outras pessoas se debrucem sobre o material e possam também refletir sobre os diversos assuntos que são explicitados por André Luiz diante de sua chegada ao plano espiritual. Não há intenção alguma de que nessas letras haja palavra final sobre qualquer entendimento das ideias, argumentos ou expedientes usados pelo espírito-autor. Cada um que possa chegar às suas próprias conclusões. Fundamental é permanecer estudando, aproveitando o ensejo de ter chegado ao Plano Físico um conjunto tão maravilhoso de obras sobre o Mundo Maior. Desejo boa sorte, boa leitura e bom estudo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU25371"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zvdxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zvdxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zvdxDwAAQBAJ&printsec=frontcover&dq=Nosso+lar&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zvdxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zvdxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zvdxDwAAQBAJ&rdid=book-zvdxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estudando_Nosso_Lar_De_Andr%C3%A9_Luiz-sample-pdf.acsm?id=zvdxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zvdxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro parte de um estudo realizado em grupo virtual idealizado por Klênia Nunes, jovem espírita da cidade de Pirapora, Minas Gerais."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cSQmDwAAQBAJ",
+   "etag": "m34j1KM8I9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cSQmDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Nosso Lar",
+    "subtitle": "",
+    "authors": [
+     "Francisco Cândido Xavier"
+    ],
+    "publisher": "FEB Editora",
+    "publishedDate": "2017-06-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573288452"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573288450"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cSQmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cSQmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cSQmDwAAQBAJ&pg=PT136&dq=Nosso+lar&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cSQmDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cSQmDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 4.32,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cSQmDwAAQBAJ&rdid=book-cSQmDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9000000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4320000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nosso_Lar-sample-epub.acsm?id=cSQmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cSQmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "vigorosas promessas dos nossos companheiros encarnados na Terra e envia, \u003cbr\u003e\npor sua vez, ardentes afirmações de esperança ... A maioria dos forasteiros que \u003cbr\u003e\nse hospeda em \u003cb\u003eNosso Lar\u003c/b\u003e costuma vir até aqui só no propósito de conhecer \u003cbr\u003e\nesse&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zvdxDwAAQBAJ",
+   "etag": "784n1TGETOk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zvdxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Estudando Nosso Lar De André Luiz",
+    "authors": [
+     "John"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Este livro parte de um estudo realizado em grupo virtual idealizado por Klênia Nunes, jovem espírita da cidade de Pirapora, Minas Gerais. Os poucos integrantes deste grupo iam lendo capítulo a capítulo do livro Nosso Lar de Chico Xavier, transmitido pelo espírito de André Luiz. Assim, este trabalho apresenta o livro integral de Chico Xavier acrescido dos meus comentários ao tempo do estudo. Então, o leitor vai localizar em negrito o texto do livro Nosso Lar e logo a seguir, sem negrito, os comentários que se compõe de reflexões sobre os temas, assuntos, ponderações ou discussões dispostas no livro. A ideia de compartilhá-lo em forma de livro se dá pela vontade de que outras pessoas se debrucem sobre o material e possam também refletir sobre os diversos assuntos que são explicitados por André Luiz diante de sua chegada ao plano espiritual. Não há intenção alguma de que nessas letras haja palavra final sobre qualquer entendimento das ideias, argumentos ou expedientes usados pelo espírito-autor. Cada um que possa chegar às suas próprias conclusões. Fundamental é permanecer estudando, aproveitando o ensejo de ter chegado ao Plano Físico um conjunto tão maravilhoso de obras sobre o Mundo Maior. Desejo boa sorte, boa leitura e bom estudo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU25371"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zvdxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zvdxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zvdxDwAAQBAJ&pg=PA146&dq=Nosso+lar&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zvdxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zvdxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zvdxDwAAQBAJ&rdid=book-zvdxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Estudando_Nosso_Lar_De_Andr%C3%A9_Luiz-sample-pdf.acsm?id=zvdxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zvdxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ademais, \u003cb\u003eNosso Lar\u003c/b\u003e é uma colônia próxima da Terra. Colônia de transição. Isso \u003cbr\u003e\nsignifica que sua organização precisa guardar muita similaridade com as do \u003cbr\u003e\nplano físico para que os espíritos possam se ambientar, ir fazendo a transição \u003cbr\u003e\naos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IW1Zeu5fFjIC",
+   "etag": "oqvyjjcX34I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IW1Zeu5fFjIC",
+   "volumeInfo": {
+    "title": "Espiritismo",
+    "subtitle": "orientação para os católicos",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515004585"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515004584"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Catholic Church and spiritualism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IW1Zeu5fFjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IW1Zeu5fFjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IW1Zeu5fFjIC&pg=PA150&dq=Nosso+lar&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IW1Zeu5fFjIC&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Espiritismo.html?hl=&id=IW1Zeu5fFjIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IW1Zeu5fFjIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O fenómeno certamente não foi produzido por forças do além. Qualquer bom \u003cbr\u003e\npsicólogo saberá explicá-lo. Chico Xavier deixa de ser um problema teológico e \u003cbr\u003e\npassa à competência da psicologia. 6. &quot;\u003cb\u003eNOSSO LAR\u003c/b\u003e&quot;: UM EXEMPLO \u003cbr\u003e\nCONCRETO&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Smd71yc4iesC",
+   "etag": "JD618RyBvEI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Smd71yc4iesC",
+   "volumeInfo": {
+    "title": "Desvendando o Nosso Lar",
+    "authors": [
+     "Luis Eduardo de Souza"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2010",
+    "description": "'Desvendando o Nosso Lar' mostra como é o funcionamento de uma colônia espiritual como Nosso Lar e traz explicações do se que encontra no Outro Lado, mostrando, por exemplo, como é o vestuário, a alimentação e a moradia dos espíritos, os meios de locomoção, as oportunidades de trabalho oferecidas, e como se dá o reencontro com os amigos e parentes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579301261"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579301262"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 157,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Smd71yc4iesC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Smd71yc4iesC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Smd71yc4iesC&dq=Nosso+lar&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Smd71yc4iesC&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Desvendando_o_Nosso_Lar.html?hl=&id=Smd71yc4iesC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Smd71yc4iesC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Desvendando o Nosso Lar&#39; mostra como é o funcionamento de uma colônia espiritual como Nosso Lar e traz explicações do se que encontra no Outro Lado, mostrando, por exemplo, como é o vestuário, a alimentação e a moradia dos ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C2S0tQEACAAJ",
+   "etag": "7oufwHfcyuU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C2S0tQEACAAJ",
+   "volumeInfo": {
+    "title": "O nosso lar",
+    "authors": [
+     "Marimilia e Fernando Carlos"
+    ],
+    "publishedDate": "1956",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:494433334"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 271,
+    "printType": "BOOK",
+    "categories": [
+     "Interior decoration"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=C2S0tQEACAAJ&dq=Nosso+lar&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=C2S0tQEACAAJ&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_nosso_lar.html?hl=&id=C2S0tQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C2S0tQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UbJ0_fhfjKQC",
+   "etag": "LEyn0QD47hg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UbJ0_fhfjKQC",
+   "volumeInfo": {
+    "title": "Nosso Lar",
+    "authors": [
+     "Allan Kardec"
+    ],
+    "publisher": "EDICEI of America",
+    "publishedDate": "1999-12-03",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579450860"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579450861"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 576,
+    "printType": "BOOK",
+    "categories": [
+     "Spirit writings"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UbJ0_fhfjKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UbJ0_fhfjKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=UbJ0_fhfjKQC&pg=PA252&dq=Nosso+lar&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UbJ0_fhfjKQC&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nosso_Lar.html?hl=&id=UbJ0_fhfjKQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Nosso_Lar-sample-epub.acsm?id=UbJ0_fhfjKQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UbJ0_fhfjKQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "We in \u003cb\u003eNosso Lar\u003c/b\u003e are over one million individuals devoted to higher designs and \u003cbr\u003e\nto our own moral growth. Would it be charitable to allow the invasion of millions of \u003cbr\u003e\nrebellious spirits? Therefore, we cannot hesitate to defend the common good."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0xiWPgAACAAJ",
+   "etag": "Bs6jJb+/u3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0xiWPgAACAAJ",
+   "volumeInfo": {
+    "title": "NOSSO LAR - AUDIOLIVRO",
+    "authors": [
+     "CHICO XAVIER",
+     "ANDRE LUIZ (ESPIRITO)"
+    ],
+    "description": "A história do livro 'Nosso Lar', de André Luiz, psicografado por Francisco Cândido Xavier foi adaptada para radionovela, a qual relata as experiências humanas e a trajetória espiritual de um importante médico. Após a morte do corpo físico, esse homem de boa aparência, extremamente apegado à vida, inteligente, culto, dono de um status profissional privilegiado, conhecido e respeitado nas camadas mais ricas da sociedade carioca da época, se encontra num mundo estranho cercado de espíritos trevosos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575130951"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575130957"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0xiWPgAACAAJ&dq=Nosso+lar&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0xiWPgAACAAJ&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/NOSSO_LAR_AUDIOLIVRO.html?hl=&id=0xiWPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0xiWPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A história do livro &#39;Nosso Lar&#39;, de André Luiz, psicografado por Francisco Cândido Xavier foi adaptada para radionovela, a qual relata as experiências humanas e a trajetória espiritual de um importante médico."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YLWbp2gUBCEC",
+   "etag": "L7b5lb4Ifys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YLWbp2gUBCEC",
+   "volumeInfo": {
+    "title": "Το «Σπιτικό Μας»",
+    "authors": [
+     "Nosso Lar"
+    ],
+    "publisher": "EDICEI of America",
+    "description": "Το «Σπιτικό Μας» είναι μια Πνευματική Αποικία, στον υπέροχο κόσμο της οποίας μας εισάγει το πνεύμα Αντρέ Λουίζ, διαμέσου του Φρανσίσκο Κάντιντο Σαβιέρ, σ’ αυτό το πρώτο βιβλίο της επιτυχημένης σειράς.Ο συγγραφέας αφηγείται με τρόπο συναρπαστικό τις διαπιστώσεις του από τον Πνευματικό Κόσμο, λειτουργώντας όπως ένας δημοσιογράφος που καταγράφει τις εμπειρίες του.Ο Αντρέ Λουίζ, μας αποκαλύπτει τη δομή και οργάνωση μιας κοινότητας που σφύζει από ζωή και αποτελεί παράδειγμα προς μίμηση. Είναι ένας τόπος ανάρρωσης για τα απενσαρκωμένα πνεύματα, τα οποία στη συνέχεια, περνούν από διαδικασία εκπαίδευσης υπό την επίβλεψη εξελιγμένων πνευμάτων.Το «Σπιτικό Μας», δίνει τη δυνατότητα να ρίξουμε μια ματιά στον Πνευματικό Κόσμο που μας περιμένει, αφού αποχωριστούμε τα γήινα σώματά μας.Σύμφωνα με έρευνα η οποία διεξήχθη το 1999, από την Οργάνωση Εξάπλωσης του Πνευματισμού και του Πολιτισμού, το «Σπιτικό Μας» κατέλλαβε την πρώτη θέση ανάμεσα στα δέκα καλύτερα Πνευματικά βιβλία που εκδόθηκαν τον 20o αιώνα.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579453410"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579453410"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YLWbp2gUBCEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YLWbp2gUBCEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "el",
+    "previewLink": "http://books.google.com.br/books?id=YLWbp2gUBCEC&printsec=frontcover&dq=Nosso+lar&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YLWbp2gUBCEC&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%CE%A4%CE%BF_%CE%A3%CF%80%CE%B9%CF%84%CE%B9%CE%BA%CF%8C_%CE%9C%CE%B1%CF%82.html?hl=&id=YLWbp2gUBCEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/%CE%A4%CE%BF_%CE%A3%CF%80%CE%B9%CF%84%CE%B9%CE%BA%CF%8C_%CE%9C%CE%B1%CF%82-sample-epub.acsm?id=YLWbp2gUBCEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YLWbp2gUBCEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Το «Σπιτικό Μας» είναι μια Πνευματική Αποικία, στον υπέροχο κόσμο της οποίας μας εισάγει το πνεύμα Αντρέ Λουίζ, διαμέσου του ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7f1YAAAAMAAJ",
+   "etag": "gC8qA4eJ0CM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7f1YAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Revista André Luiz",
+    "authors": [
+     "Centro Espírita Nosso Lar"
+    ],
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023137075"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7f1YAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7f1YAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7f1YAAAAMAAJ&q=Nosso+lar&dq=Nosso+lar&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7f1YAAAAMAAJ&dq=Nosso+lar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Revista_Andr%C3%A9_Luiz.html?hl=&id=7f1YAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7f1YAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

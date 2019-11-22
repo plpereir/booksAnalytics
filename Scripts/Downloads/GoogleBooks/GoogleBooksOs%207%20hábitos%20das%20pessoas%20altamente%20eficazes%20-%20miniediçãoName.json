@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lj1nDwAAQBAJ",
+   "etag": "LdAo0B9EE4E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lj1nDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Curso de Direito da Criança e do Adolescente",
+    "authors": [
+     "Katia Ferreira Maciel"
+    ],
+    "publisher": "Saraiva Educação S.A.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502619876"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "850261987X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lj1nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lj1nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lj1nDwAAQBAJ&printsec=frontcover&dq=Os+7+h%C3%A1bitos+das+pessoas+altamente+eficazes+-+miniedi%C3%A7%C3%A3o&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lj1nDwAAQBAJ&dq=Os+7+h%C3%A1bitos+das+pessoas+altamente+eficazes+-+miniedi%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Curso_de_Direito_da_Crian%C3%A7a_e_do_Adoles.html?hl=&id=lj1nDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Curso_de_Direito_da_Crian%C3%A7a_e_do_Adoles-sample-epub.acsm?id=lj1nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lj1nDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

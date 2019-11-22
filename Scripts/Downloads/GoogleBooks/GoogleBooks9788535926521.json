@@ -1,0 +1,64 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mGNKjwEACAAJ",
+   "etag": "j6OFkxcgRkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mGNKjwEACAAJ",
+   "volumeInfo": {
+    "title": "A noite do meu bem",
+    "subtitle": "a história e as histórias do samba-canção",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535926526"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535926521"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mGNKjwEACAAJ&dq=isbn:9788535926521&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mGNKjwEACAAJ&dq=isbn:9788535926521&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_noite_do_meu_bem.html?hl=&id=mGNKjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mGNKjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essa nova música, com seus compositores, letristas e cantores; as boates, com seus criadores, funcionários e frequentadores, e o excitante contexto social e histórico que fez tudo isso possível são o tema do novo livro de Ruy Castro, ..."
+   }
+  }
+ ]
+}

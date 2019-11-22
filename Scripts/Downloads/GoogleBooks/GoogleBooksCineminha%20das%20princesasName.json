@@ -1,0 +1,466 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 5,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8K1CDwAAQBAJ",
+   "etag": "jpOUsN9UkZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8K1CDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Maçãs Nevadas",
+    "subtitle": "Coleção Princesas Possíveis volume 5",
+    "authors": [
+     "Moira Bianchi"
+    ],
+    "publisher": "Moira Bianchi - Hot Rio Chick",
+    "publishedDate": "101-01-01",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8K1CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8K1CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8K1CDwAAQBAJ&pg=PT41&dq=Cineminha+das+princesas&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8K1CDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8K1CDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.65,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.65,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8K1CDwAAQBAJ&rdid=book-8K1CDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7650000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7650000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ma%C3%A7%C3%A3s_Nevadas-sample-epub.acsm?id=8K1CDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ma%C3%A7%C3%A3s_Nevadas-sample-pdf.acsm?id=8K1CDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8K1CDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eCineminha\u003c/b\u003e, chope, pizza; conversa legal, beijinho, boa noite.&#39; Deu de ombros. \u003cbr\u003e\nCibele sacudiu a cabeça. &#39;Esse negócio de enfiarem nas nossas cabeças desde \u003cbr\u003e\nbebezinhas que somos \u003cb\u003eprincesas\u003c/b\u003e e tudo sempre tem que ser um conto de fadas\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DK5CDwAAQBAJ",
+   "etag": "OgOij9MT/iM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DK5CDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Bem acordada",
+    "subtitle": "Coleção Princesas Possíveis volume 6",
+    "authors": [
+     "Moira Bianchi"
+    ],
+    "publisher": "Moira Bianchi - Hot Rio Chick",
+    "publishedDate": "2018-02-14",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DK5CDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DK5CDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DK5CDwAAQBAJ&pg=PT37&dq=Cineminha+das+princesas&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DK5CDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DK5CDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.65,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.65,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DK5CDwAAQBAJ&rdid=book-DK5CDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7650000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7650000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Bem_acordada-sample-epub.acsm?id=DK5CDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Bem_acordada-sample-pdf.acsm?id=DK5CDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DK5CDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Coleção \u003cb\u003ePrincesas\u003c/b\u003e Possíveis volume 6 Moira Bianchi. Lígia levantou os ... \u003cbr\u003e\n\u003cb\u003ecineminha\u003c/b\u003e...&#39; Se inclinou na mesa para chegar mais perto. &#39;Melhor que aquela \u003cbr\u003e\nloura da Phipher.&#39; Apontou discretamente com um aceno de sobrancelhas. &#39;\u003cbr\u003e\nPrefiro o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RPpxDwAAQBAJ",
+   "etag": "1dGTmCsF+5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RPpxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma Vida Só Não Basta",
+    "authors": [
+     "Thiago"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Thiago de Menezes é nobre de título e alma, uma pessoa abençoada com muito talento por Deus, um intelectual, possui dezenas de livros publicados e é mestre na arte de lidar com pessoas. Transitamos muito em meio à alta sociedade e à boemia do Rio de Janeiro quando nos conhecemos e nos tornamos amigos de prima. Muita coisa em comum. Assim como ele, também transito bem entre muitos mundos, muitas festas e incontáveis momentos emocionantes nessa nossa trajetória. Thiago é elegante e cordial como todo nobre deve ser. Aturou-me em meus momentos de maluquice causando pela noite carioca. E ele sempre impávido em seu pedestal, não precisa descer para se misturar aos outros, faz isso altivamente do auge de sua candura e formalidade.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU25665"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 366,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RPpxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RPpxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RPpxDwAAQBAJ&pg=PA159&dq=Cineminha+das+princesas&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RPpxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RPpxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.58,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.58,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RPpxDwAAQBAJ&rdid=book-RPpxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.458E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.458E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_Vida_S%C3%B3_N%C3%A3o_Basta-sample-pdf.acsm?id=RPpxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RPpxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essas sessões eram conhecidas entre os cariocas como “o \u003cb\u003ecineminha\u003c/b\u003e de Harry”. \u003cbr\u003e\nSer convidado por ele era ... São socialites internacionais, artistas \u003cbr\u003e\nhollywoodianos, milionários, reis, rainhas, \u003cb\u003eprincesas\u003c/b\u003e, príncipes... Fui também a \u003cbr\u003e\nfestas mais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uINKPahHGP4C",
+   "etag": "QxG+Nr9AfQ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uINKPahHGP4C",
+   "volumeInfo": {
+    "title": "A cidade ilhada",
+    "authors": [
+     "Milton Hatoum"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2009-02-16",
+    "description": "Relances da experiência vivida, recolhidos em tramas brevíssimas, de dicção enxuta em que tudo ganha nitidez máxima e máximo poder de iluminação - assim são as histórias que Milton Hatoum reuniu em seu primeiro volume de contos, A cidade ilhada. As sementes das histórias de Hatoum não poderiam ser mais diversas: a primeira visita a um bordel em \"Varandas da Eva\"; uma passagem de Euclides da Cunha em \"Uma carta de Bancroft\"; a vida de exilados em \"Bárbara no inverno\" ou \"Encontros na península\"; o amor platônico por uma inglesinha em \"Uma estrangeira da nossa rua\". Com mão discreta e madura, Hatoum trabalha esses fragmentos da memória até que adquiram outro caráter: frutos do acaso e da biografia pessoal, eles afinal se mostram como imagens exemplares do curso de nossos desejos e fracassos. Desejos e fracassos, aliás, respondem pela rede subterrânea que amarra os contos de A cidade ilhada. Se o desejo, a literatura ou a viagem levam os personagens a expandir o raio de sua ação e a transpor as barreiras da infância e da moral, da classe e da província, estes mesmos elementos não se dão por vencidos e, mais cedo ou mais tarde, recaem sobre os heróis como uma fatalidade que os traz de volta a um centro imóvel: \"para onde vou, Manaus me persegue\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563397072"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8563397079"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.13.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uINKPahHGP4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uINKPahHGP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uINKPahHGP4C&pg=PT5&dq=Cineminha+das+princesas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uINKPahHGP4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uINKPahHGP4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uINKPahHGP4C&rdid=book-uINKPahHGP4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.3E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_cidade_ilhada-sample-epub.acsm?id=uINKPahHGP4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_cidade_ilhada-sample-pdf.acsm?id=uINKPahHGP4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uINKPahHGP4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um \u003cb\u003ecineminha\u003c/b\u003e, sim: duas moedas de cada um, e pagávamos o ingresso do \u003cbr\u003e\nTarso. E lá íamos ao Éden, Guarany ou Polytheama ... Cada um de vocês deve \u003cbr\u003e\nser um gentleman com aquelas \u003cb\u003eprincesas\u003c/b\u003e. Contamos as cédulas: dava e \u003cbr\u003e\nsobrava, era&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4hmoBAAAQBAJ",
+   "etag": "Qjmc8T4xeQ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4hmoBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O casamento da lua",
+    "subtitle": "Contos de amor",
+    "authors": [
+     "Vários autores"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2013-10-01",
+    "description": "Nesta antologia, há meninas que vivem paixões platônicas por primos mais velhos; adolescentes que se encontram e se desencontram ao longo da vida movendo-se pelo sentimento que sentem um pelo outro; mulheres que só aceitam se casar à beira da morte; meninas inocentes que se apaixonam por vigaristas descompromissados; paixões que evidenciam questões raciais; meninos que amam pássaros; um homem que é louco pelo nome de uma mulher; uma certa Lua que se apaixona perdidamente pelo planeta Terra e se torna cada vez mais pálida e avoada; amores frustrados pela timidez, entre demais suspiros e taquicardias. Durante a leitura deste livro, abra o coração e acompanhe as narrativas de estilos variados, escute as vozes de grandes autores - Machado de Assis, Lima Barreto, Vinicius de Moraes, Milton Hatoum, entre outros - e identifique o maior sentimento do mundo nos mais diferentes lugares. O mais universal e onipresente dos sentimentos: acontece em todas as idades, entre pais e filhos, namorados, amigos, entre humanos e animais, e que atire a primeira pedra quem nunca \"viveu um grande amor\". Ele também move montanhas e gera comportamentos incomuns - e por isso dá margem a infinitos e variadíssimos contos...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580868463"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580868467"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4hmoBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4hmoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4hmoBAAAQBAJ&pg=PT71&dq=Cineminha+das+princesas&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4hmoBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4hmoBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4hmoBAAAQBAJ&rdid=book-4hmoBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.7E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_casamento_da_lua-sample-epub.acsm?id=4hmoBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_casamento_da_lua-sample-pdf.acsm?id=4hmoBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4hmoBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um \u003cb\u003ecineminha\u003c/b\u003e, sim: duas moedas de cada um, e pagávamos o ingresso do \u003cbr\u003e\nTarso. E lá íamos ao Éden, Guarany ou Polytheama ... Cada um de vocês deve \u003cbr\u003e\nser um gentleman com aquelas \u003cb\u003eprincesas\u003c/b\u003e. Contamos as cédulas: dava e \u003cbr\u003e\nsobrava, era&nbsp;..."
+   }
+  }
+ ]
+}

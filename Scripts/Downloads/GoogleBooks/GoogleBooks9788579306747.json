@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Kqg6vgAACAAJ",
+   "etag": "OgBYyv8d7JA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kqg6vgAACAAJ",
+   "volumeInfo": {
+    "title": "PLAYBOY IRRESISTIVEL",
+    "authors": [
+     "CHRISTINA LAUREN",
+     "FELIPE CF VIEIRA"
+    ],
+    "description": "Quando Hanna Bergstrom escutou de seu irmão que ela precisava ter uma vida social e se libertar um pouco da faculdade, ela jurou que iria cumprir essa tarefa - sair mais, fazer amigos, começar a namorar. E quem melhor para transformá-la na garota dos sonhos de todo homem do que o lindo melhor amigo de seu irmão, o investidor e playboy assumido Will Sumner? Will ganha a vida assumindo riscos, mas a princípio ele não bota fé na transformação daquela garota desajeitada, até que numa noite selvagem, sua inocente pupila o seduz e acaba ensinando uma lição sobre o que é ficar com uma garota ardente e inesquecível. Agora que Hanna descobriu o poder de seu próprio sex appeal, resta a Will provar que ele é o único homem que ela precisa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8579306744"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579306747"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Kqg6vgAACAAJ&dq=isbn:9788579306747&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Kqg6vgAACAAJ&dq=isbn:9788579306747&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PLAYBOY_IRRESISTIVEL.html?hl=&id=Kqg6vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Kqg6vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando Hanna Bergstrom escutou de seu irmão que ela precisava ter uma vida social e se libertar um pouco da faculdade, ela jurou que iria cumprir essa tarefa - sair mais, fazer amigos, começar a namorar."
+   }
+  }
+ ]
+}

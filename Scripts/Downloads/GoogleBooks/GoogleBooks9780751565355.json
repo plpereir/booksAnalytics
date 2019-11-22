@@ -1,0 +1,76 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "K1lqjwEACAAJ",
+   "etag": "38fuJsqTz10",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K1lqjwEACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter and the Cursed Child - Parts I & II (Special Rehearsal Edition)",
+    "subtitle": "The Official Script Book of the Original West End Production",
+    "authors": [
+     "Joanne K. Rowling",
+     "Jack Thorne",
+     "John Tiffany"
+    ],
+    "publishedDate": "2016-07-31",
+    "description": "Based on an original new story by J.K. Rowling, Jack Thorne and John Tiffany, a new play by Jack Thorne, Harry Potter and the Cursed Child is the eighth story in the Harry Potter series and the first official Harry Potter story to be presented on stage. The play will receive its world premiere in London's West End on 30th July 2016. It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children. While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0751565350"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780751565355"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 1445,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K1lqjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K1lqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=K1lqjwEACAAJ&dq=isbn:9780751565355&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=K1lqjwEACAAJ&dq=isbn:9780751565355&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Cursed_Child_Parts.html?hl=&id=K1lqjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K1lqjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As an overworked employee of the Ministry of Magic, a husband, and a father, Harry Potter struggles with a past that refuses to stay where it belongs while his youngest son, Albus, finds the weight of the family legacy difficult to bear."
+   }
+  }
+ ]
+}

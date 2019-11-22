@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ReJBcgAACAAJ",
+   "etag": "qKBfVpU3ADc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ReJBcgAACAAJ",
+   "volumeInfo": {
+    "title": "A BIBLIA DE VENDAS",
+    "subtitle": "REVISTA E ATUALIZADA",
+    "authors": [
+     "JEFFREY GITOMER"
+    ],
+    "description": "Este livro, baseado nos princípios da educação e treinamento em vendas, procura fornecer através de conceitos e informações, conhecimentos necessários para atingir metas e resultados almejados. Inclui os 10,5 mandamentos do sucesso em vendas de Jeffrey Gitomer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576801000"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576801009"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ReJBcgAACAAJ&dq=isbn:9788576801009&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ReJBcgAACAAJ&dq=isbn:9788576801009&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_BIBLIA_DE_VENDAS.html?hl=&id=ReJBcgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ReJBcgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inclui os 10,5 mandamentos do sucesso em vendas de Jeffrey Gitomer."
+   }
+  }
+ ]
+}

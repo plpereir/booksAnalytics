@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "36kYvgAACAAJ",
+   "etag": "7ZPd+GlZReY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/36kYvgAACAAJ",
+   "volumeInfo": {
+    "title": "AS CRONICAS DE BANE",
+    "authors": [
+     "CASSANDRA CLARE",
+     "VÁRIOS AUTORES"
+    ],
+    "description": "Nesta edição ilustrada, são narradas as mais diversas aventuras do feiticeiro imortal Magnus Bane. Entre escapadas no Peru e resgates reais na Revolução Francesa, acompanhe fragmentos da vida do enigmático mago ocorridos em diversos países e períodos históricos, com aparições de figuras conhecidas como Clary, Tessa, Will e Alec, personagens de Os Instrumentos Mortais e As Peças Infernais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501403962"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501403964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=36kYvgAACAAJ&dq=isbn:9788501403964&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=36kYvgAACAAJ&dq=isbn:9788501403964&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/AS_CRONICAS_DE_BANE.html?hl=&id=36kYvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=36kYvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta edição ilustrada, são narradas as mais diversas aventuras do feiticeiro imortal Magnus Bane, das séries de Cassandra Clare."
+   }
+  }
+ ]
+}

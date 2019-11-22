@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OsAKMwAACAAJ",
+   "etag": "j3cyqGo+XNs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OsAKMwAACAAJ",
+   "volumeInfo": {
+    "title": "Como se tornar um líder servidor",
+    "subtitle": "os princípios de lideranças de o monge e o executivo",
+    "authors": [
+     "James C. Hunter"
+    ],
+    "publishedDate": "2006",
+    "description": "Sobre liderança; Sobre poder e autoridade; Sobre lderança e amor; Sobre gentileza e responsabilidade; Sobre natureza humana; Sobre o caratér e a mudança humana; Sobre inteligência emocional e liderança; Sobre motivação e outras coisas fundamentais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575422103"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575422106"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OsAKMwAACAAJ&dq=isbn:9788575422106&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OsAKMwAACAAJ&dq=isbn:9788575422106&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Como_se_tornar_um_l%C3%ADder_servidor.html?hl=&id=OsAKMwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OsAKMwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sobre liderança; Sobre poder e autoridade; Sobre lderança e amor; Sobre gentileza e responsabilidade; Sobre natureza humana; Sobre o caratér e a mudança humana; Sobre inteligência emocional e liderança; Sobre motivação e outras ..."
+   }
+  }
+ ]
+}

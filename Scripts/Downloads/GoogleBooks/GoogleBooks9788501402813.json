@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6cjtmgEACAAJ",
+   "etag": "laejjFSZIp4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6cjtmgEACAAJ",
+   "volumeInfo": {
+    "title": "Carta ao filho",
+    "subtitle": "ninguém ensina a ser mãe",
+    "authors": [
+     "Betty Milan"
+    ],
+    "publishedDate": "2013",
+    "description": "'Carta ao filho' é um texto que procura fazer uma reflexão sobre a mãe e a mulher, baseado nas experiências da autora. Do nascimento do filho à maturidade dela, mãe, passando por sua formação com Lacan em Paris e pela volta para um Brasil novo, que ela desvenda na obra. Betty expõe fragilidades, afastando-se do mito da mãe sacralizada. Além da experiência materna, a autora se vale de sua formação como psicanalista analisada por Lacan para criar esse retrato sobre a maternidade. Livre do tabu de que a boa mãe é infalível, Betty Milan comunica essa libertação ao leitor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501402818"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501402813"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6cjtmgEACAAJ&dq=isbn:9788501402813&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6cjtmgEACAAJ&dq=isbn:9788501402813&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Carta_ao_filho.html?hl=&id=6cjtmgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6cjtmgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Carta ao filho é um texto arrebatador que faz uma reflexão sobre a mãe e a mulher, inteiramente calcada no vivido da autora."
+   }
+  }
+ ]
+}

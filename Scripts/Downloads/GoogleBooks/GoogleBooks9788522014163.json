@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "L6UglgEACAAJ",
+   "etag": "qlvIBA+jc4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L6UglgEACAAJ",
+   "volumeInfo": {
+    "title": "MADAME CHARME - LIÇOES DE ESTILO, BELEZA E",
+    "subtitle": "COMPORTAMENTO QUE APRENDI EM PARIS",
+    "authors": [
+     "JENNIFER L. SCOTT"
+    ],
+    "publishedDate": "2013-01-28",
+    "description": "A elegância da vida parisiense no seu dia a dia. Agradável, recheado de humor e dicas de estilo de vida. Seu brilhantismo e sinceridade impressionam as mulheres que gostariam de viver ao modo francês, mas não têm tempo para curtir um ano de intercâmbio em Paris. Editado um texto leve e romanceado, fugindo das formas (que não combinam com Paris) dos guias tradicionais, o livro apresenta 20 segredos para o leitor ser chic como uma parisiense.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522014167"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522014163"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=L6UglgEACAAJ&dq=isbn:9788522014163&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=L6UglgEACAAJ&dq=isbn:9788522014163&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MADAME_CHARME_LI%C3%87OES_DE_ESTILO_BELEZA_E.html?hl=&id=L6UglgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L6UglgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A elegância da vida parisiense no seu dia a dia."
+   }
+  }
+ ]
+}

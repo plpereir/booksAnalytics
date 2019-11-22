@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "J5O0uAAACAAJ",
+   "etag": "hz816APaOSY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J5O0uAAACAAJ",
+   "volumeInfo": {
+    "title": "HUCK",
+    "authors": [
+     "JANET ELDER",
+     "RENATO MARQUES"
+    ],
+    "description": "Esta obra conta a história de um cãozinho, Huck, que com um jeito brincalhão e carinhoso procura amenizar o sofrimento de uma família durante a grave doença da mãe. Um dia ele desaparece, o que leva toda uma cidade se mobilizar em busca do cachorrinho. Do prefeito ao bêbado, todos saem em busca do travesso Huck.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525049298"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525049292"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=J5O0uAAACAAJ&dq=isbn:9788525049292&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=J5O0uAAACAAJ&dq=isbn:9788525049292&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/HUCK.html?hl=&id=J5O0uAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J5O0uAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra conta a história de um cãozinho, Huck, que com um jeito brincalhão e carinhoso procura amenizar o sofrimento de uma família durante a grave doença da mãe."
+   }
+  }
+ ]
+}

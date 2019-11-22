@@ -1,0 +1,822 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 293,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "S-W0DgAAQBAJ",
+   "etag": "JaL15uAivNE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S-W0DgAAQBAJ",
+   "volumeInfo": {
+    "title": "Em nome dos pais",
+    "subtitle": "",
+    "authors": [
+     "Matheus Leitão"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2017-05-10",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551001608"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551001604"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S-W0DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S-W0DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=S-W0DgAAQBAJ&printsec=frontcover&dq=Em+nome+dos+pais&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=S-W0DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-S-W0DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=S-W0DgAAQBAJ&rdid=book-S-W0DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_nome_dos_pais-sample-epub.acsm?id=S-W0DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_nome_dos_pais-sample-pdf.acsm?id=S-W0DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=S-W0DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DrtDAQAAIAAJ",
+   "etag": "mp8p0/PR80c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DrtDAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Em nome da mãe",
+    "subtitle": "o não-reconhecimento paterno no Brasil",
+    "authors": [
+     "Ana Liési Thurler"
+    ],
+    "publishedDate": "2009",
+    "description": "O não reconhecimento paterno é o tema-chave do livro 'Em Nome da Mãe', em que a socióloga Ana Liési Thurler apresenta estimativaS e interpretações sobre essa herança das relações coloniais e patriarcais. Tratado como questão política - além de histórica, cultural e jurídica -, o reconhecimento paterno é abordado como questão de cidadania e de efetivação da democracia. Resultado de pesquisas em seu doutorado, no livro, a autora investiga o não reconhecimento paterno como fenômeno social complexo e apresenta demandas pela universalização dos Direitos Reprodutivos, descriminalização do aborto, redistribuição de poder entre mulheres-mães e homens-pais e inversão do ônus da prova da paternidade. A socióloga sugere ações e políticas a serem debatidas e implementadas pela sociedade e pelo Estado que interessará a cidadãs e cidadãos desejosos de um Brasil mais justo, igualitário e feliz.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105133312095"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Acknowledgment of children"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DrtDAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DrtDAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DrtDAQAAIAAJ&q=Em+nome+dos+pais&dq=Em+nome+dos+pais&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=DrtDAQAAIAAJ&dq=Em+nome+dos+pais&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Em_nome_da_m%C3%A3e.html?hl=&id=DrtDAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DrtDAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O não reconhecimento paterno é o tema-chave do livro &#39;Em Nome da Mãe&#39;, em que a socióloga Ana Liési Thurler apresenta estimativaS e interpretações sobre essa herança das relações coloniais e patriarcais."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xZqxcc1cN-0C",
+   "etag": "mQi8KRuKgNU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xZqxcc1cN-0C",
+   "volumeInfo": {
+    "title": "Em nome do pai",
+    "authors": [
+     "Pedro Rodrigues de Albuquerque Cavalcanti"
+    ],
+    "publisher": "Conex",
+    "publishedDate": "2003",
+    "description": "O médico Hans é um homem bem-humorado, até mesmo trapalhão, que dedica boa parte de seu tempo à garotada que freqüenta a Associação Atlética do condomínio onde reside a maioria das crianças que ajudou a nascer. Mas, por que a maioria dos adultos parece re",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575940104"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575940105"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 262,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xZqxcc1cN-0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xZqxcc1cN-0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xZqxcc1cN-0C&pg=PA90&dq=Em+nome+dos+pais&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xZqxcc1cN-0C&dq=Em+nome+dos+pais&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Em_nome_do_pai.html?hl=&id=xZqxcc1cN-0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xZqxcc1cN-0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... cliente sem interesse, e tudo isso para adiar a narração do único fato \u003cbr\u003e\nimportante do dia: meu encontro com Eleonora. Sabia que ela deveria aparecer \u003cbr\u003e\nno meu consultório porque ela própria já me avisara que passaria 90 \u003cb\u003eEm Nome\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003edo Pai\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SMhxDwAAQBAJ",
+   "etag": "XFDTmuL+De4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SMhxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Alvíssara Em Nome Do Pai Vol. Ii",
+    "authors": [
+     "Thiago"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Alvíssara em Nome-do-Pai possui dezesseis selos. O objetivo do primeiro selo de Alvíssara é: fazer uma análise sistemática do Judaísmo e do Cristianismo à luz da epistemologia Alvissarista. O objetivo do segundo selo de Alvíssara é: fazer uma análise sistemática do Espiritismo à luz da epistemologia Alvissarista. O objetivo do terceiro selo de Alvíssara é: fazer uma análise sistemática do Alvissarismo à luz de sua própria epistemologia e sincretizar o Judaísmo, o Cristianismo e o Espiritismo para fundamentar o Alvissarismo. O objetivo do quarto selo de Alvíssara é: fundamentar o princípio ético do Alvissarismo através de uma estrutura religiosa. O objetivo do quinto selo de Alvíssara é: fundamentar, com base na filosofia de Hegel e na antropologia de Lévi-Strauss, a dialética moral Alvissarista através de uma estrutura religiosa embasada na luta entre o Bem e o Mal. O objetivo do sexto selo de Alvíssara é: arquitetar as bases fundamentais do Reino de Deus na terra e demonstrar a possibilidade do triunfo do Bem sobre o Mal. O objetivo do sétimo selo de Alvíssara é: fundamentar a estrutura metodológica do trabalho missionário do Alvissarismo em prol da regeneração moral da humanidade. O objetivo do oitavo selo de Alvíssara é: analisar criticamente à luz da epistemologia Alvissarista o argumento de Tomás de Aquino de que a razão pode provar a existência de Deus. O objetivo do nôno selo de Alvíssara é: analisar criticamente à luz da epistemologia Alvissarista os argumentos de Richard Dawkins e Daniel Dennett de que a razão pode provar a inexistência de Deus. O objetivo do décimo selo de Alvíssara é: expor o posicionamento agnóstico-teísta do Alvissarismo em relação à origem do universo, da vida e do homem. O objetivo do décimo primeiro selo de Alvíssara é: demonstrar, com base na Epistemologia Alvissarista, porque o Espiritismo não é uma Ciência, mas apenas um misto de Filosofia e Religião. O objetivo do décimo segundo selo de Alvíssara é: arquitetar uma crítica à Teologia de Alan Kardec. O objetivo do décimo terceiro selo de Alvíssara é: apresentar a Angelologia Alvissarista. O objetivo do décimo quarto selo de Alvíssara é: apresentar a Demonologia Alvissarista. O objetivo do décimo quinto selo de Alvíssara é: apresentar os fundamentos teológicos da Escatologia Alvissarista. O objetivo do décimo sexto selo de Alvíssara é: expor a teoria do roubo do corpo de Cristo adotada pelo Alvissarismo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU18869"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 186,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SMhxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SMhxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SMhxDwAAQBAJ&pg=PA41&dq=Em+nome+dos+pais&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SMhxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SMhxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SMhxDwAAQBAJ&rdid=book-SMhxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Alv%C3%ADssara_Em_Nome_Do_Pai_Vol_Ii-sample-pdf.acsm?id=SMhxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SMhxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Toda a mensagem da Bíblia gira em torno de um Deus cujo \u003cb\u003enome\u003c/b\u003e é “O Indizível”. \u003cbr\u003e\nMoisés disse a Deus: “Mas, se eu for aos Israelitas e lhes disser: &#39;O Deus de \u003cbr\u003e\nnossos \u003cb\u003epais\u003c/b\u003e enviou-me a vós&#39;, e eles me perguntarem: &#39;Qual é o seu \u003cb\u003enome\u003c/b\u003e?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_Fj7VCgUfXkC",
+   "etag": "ZnbQpUNRK4s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_Fj7VCgUfXkC",
+   "volumeInfo": {
+    "title": "Em Nome do Pai",
+    "authors": [
+     "NUNO LOBO ANTUNES"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-03-20",
+    "description": "Do alto de um outeiro, à sombra da figueira em que Judas se enforcou, São José contempla toda uma vida - a sua, que hoje chega ao fim. É ali que ele irá morrer, naquele pedaço de chão árido, de onde se avista Jerusalém. Faltam-lhe as forças, pesam-lhe os anos, os remorsos, a dúvida. E a raiva também, pois, apesar de ter cumprido os preceitos da Lei, foi-lhe negada a paz de espírito. Assim entendeu o Criador, que tomou como Sua a mulher que lhe estava prometida, e nela plantou a semente de um filho bastardo - Jesus. José não compreende esse Deus, que põe e dispõe dos homens, esse Criador que não respeita a obra criada, que nega o livre arbítrio, que envia o filho à terra e o deixa morrer na cruz, como um ladrão. Por isso hoje, entre o nascer e o pôr do sol, o carpinteiro vai armar-se de razões e julgar quem de tudo deveria ser juiz. Em Nome do Pai é uma extraordinária obra de ficção, que ilumina uma das personagens menos conhecidas da Bíblia. O pai de Jesus, que nas sagradas escrituras pouco passa de uma nota de rodapé, tem agora uma história, um passado. E um corpo de chocante carnalidade, atormentado pelo desejo, por uma mente demasiado lúcida para aceitar como boas as palavras do Senhor. Nuno Lobo Antunes molda o romance com o desvelo de um artesão, esculpe cuidadosamente cada frase, reconstitui com rigor a vida nos tempos de Jesus - cria, ele próprio, uma obra de arte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789892321899"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9892321898"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_Fj7VCgUfXkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_Fj7VCgUfXkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_Fj7VCgUfXkC&pg=PT11&dq=Em+nome+dos+pais&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_Fj7VCgUfXkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_Fj7VCgUfXkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.37,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 30.75,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_Fj7VCgUfXkC&rdid=book-_Fj7VCgUfXkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.237E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.075E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Nome_do_Pai-sample-epub.acsm?id=_Fj7VCgUfXkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Nome_do_Pai-sample-pdf.acsm?id=_Fj7VCgUfXkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_Fj7VCgUfXkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... \u003cb\u003epais\u003c/b\u003e têm majestade que chegue, ainda que sejam escravos, e na memória da \u003cbr\u003e\nmeninice são mais vezes importantes os servos do que os senhores. Não \u003cbr\u003e\nconheci os meus avós, e o meu \u003cb\u003epai\u003c/b\u003e não falava da infância, mas sei que casou \u003cbr\u003e\njovem."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9xX0CgAAQBAJ",
+   "etag": "svgXqO0Ruvs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9xX0CgAAQBAJ",
+   "volumeInfo": {
+    "title": "Em Nome do Pai e do Filho",
+    "authors": [
+     "Luciano Amaral"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2015-11-13",
+    "description": "O primeiro livro a fazer o balanço dos 150 anos do Grupo Espírito Santo: desde a sua fundação, com José Maria Espírito Santo, ainda no século XIX, até ao fim, entre 2013 e 2014. Escrita por Luciano Amaral, especialista em história económica portuguesa, esta obra conta a estratégia de crescimento do Grupo durante grande parte do século XX, até ao 25 de Abril. O regresso a Portugal, uma década após a sua nacionalização, foi um enorme sucesso, embora escondesse problemas estruturais que viriam a determinar a catástrofe final do Grupo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722058896"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722058894"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9xX0CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9xX0CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9xX0CgAAQBAJ&printsec=frontcover&dq=Em+nome+dos+pais&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9xX0CgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9xX0CgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.97,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.62,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9xX0CgAAQBAJ&rdid=book-9xX0CgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.697E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.562E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Nome_do_Pai_e_do_Filho-sample-epub.acsm?id=9xX0CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_Nome_do_Pai_e_do_Filho-sample-pdf.acsm?id=9xX0CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9xX0CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrita por Luciano Amaral, especialista em história económica portuguesa, esta obra conta a estratégia de crescimento do Grupo durante grande parte do século XX, até ao 25 de Abril."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cd1EBQAAQBAJ",
+   "etag": "Ez7+/NfN6H8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cd1EBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Alvíssara Em Nome Do Pai Vol. Iii",
+    "authors": [
+     "Thiago De Paiva Campos"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-02-27",
+    "description": "Alvíssara em Nome-do-Pai possui três selos: O objetivo do primeiro selo de Alvíssara é: investigar a essência do amor e da fé religiosa como produtos da angústia humana e expor o fundamento linguístico da Religião Alvissarista. O objetivo do segundo selo de Alvíssara é: vivenciar com Abraão a angústia da demanda de Deus para sacrificar seu único filho, expondo a estrutura linguística da religião como produto da ligação significante entre o amor e a fé. O objetivo do terceiro e último selo de Alvíssara é: estabelecer as relações estruturais entre a teologia, a religião e a fé, expondo a tese sobre a origem linguística da religião e a estrutura fundamental do discurso de Deus.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90141823"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cd1EBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cd1EBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cd1EBQAAQBAJ&pg=PA20&dq=Em+nome+dos+pais&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cd1EBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cd1EBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cd1EBQAAQBAJ&rdid=book-cd1EBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Alv%C3%ADssara_Em_Nome_Do_Pai_Vol_Iii-sample-pdf.acsm?id=cd1EBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cd1EBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "53- Mas, prestem bem a atenção no que vamos dizer: esse significante (Nomedo\u003cbr\u003e\n-Pai) não tem em sua origem ... 54- Em sentido Lacaniano, o \u003cb\u003eNome\u003c/b\u003e-\u003cb\u003edo-Pai\u003c/b\u003e é um \u003cbr\u003e\nsignificante primordial que significa o desejo da mãe por ser um ponto&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z4pvGX5dhNIC",
+   "etag": "Pw7H1BpJHjA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z4pvGX5dhNIC",
+   "volumeInfo": {
+    "title": "2000 - Em nome do Pai do Filho e do Espírito Santo",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515020971"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515020973"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Trinity"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Z4pvGX5dhNIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Z4pvGX5dhNIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Z4pvGX5dhNIC&pg=PA47&dq=Em+nome+dos+pais&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Z4pvGX5dhNIC&dq=Em+nome+dos+pais&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/2000_Em_nome_do_Pai_do_Filho_e_do_Esp%C3%ADr.html?hl=&id=Z4pvGX5dhNIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Z4pvGX5dhNIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CAPÍTULO III O \u003cb\u003ePAI\u003c/b\u003e DE JESUS E NOSSO \u003cb\u003ePAI\u003c/b\u003e. MENSAGEM JOANINA No \u003cbr\u003e\nEvangelho de João, o que domina é a revelação \u003cb\u003edo Pai\u003c/b\u003e, que ama, tudo nos dá, a \u003cbr\u003e\nnós se dando no Filho à luz e no amor do Espírito. Poderíamos destacar dois \u003cbr\u003e\ntextos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vt5EBQAAQBAJ",
+   "etag": "/NAoyQ1WCyA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vt5EBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Alvíssara Em Nome Do Pai Vol. Iv",
+    "authors": [
+     "Thiago De Paiva Campos"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-03-05",
+    "description": "Alvíssara em Nome-do-Pai possui cinco selos. O objetivo do primeiro selo de Alvíssara é: fazer uma introdução a Religião Alvissarista, expondo sua epistemologia, sua ética, sua estética e sua teoria do direito especial. O objetivo do segundo selo de Alvíssara é: fazer uma introdução ao Direito Alvissarista, investigando as regras estruturais que determinam o comportamento social, estabelecendo direitos e deveres entre o sujeito e a sociedade. O objetivo do terceiro selo de Alvíssara é: arquitetar as dimensões metafísica, biológica, moral, ética, jurídica, social e religiosa que envolvem a questão primordial sobre o princípio da vida. O objetivo do quarto selo de Alvíssara é: expor os fundamentos básicos da Criminologia Alvissarista como uma semiologia criminal. O objetivo do quinto selo de Alvíssara é: expor os fundamentos básicos do direito político baseado na desobediência civil e na teodemocracia idealizada pelo Alvissarismo. O objetivo do sexto selo de Alvíssara é: expor os fundamentos básicos do direito econômico baseado na sociedade estruturalista idealizada pelo Alvissarismo. O objetivo do sétimo e último selo de Alvíssara é: expor os fundamentos básicos do direito do Estado baseado na reforma político-econômica idealizada pelo Alvissarismo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90142107"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vt5EBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vt5EBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vt5EBQAAQBAJ&pg=PA54&dq=Em+nome+dos+pais&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vt5EBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vt5EBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vt5EBQAAQBAJ&rdid=book-vt5EBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Alv%C3%ADssara_Em_Nome_Do_Pai_Vol_Iv-sample-pdf.acsm?id=vt5EBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vt5EBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tc8jhWrUXZYC",
+   "etag": "M8BAlPAOpFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tc8jhWrUXZYC",
+   "volumeInfo": {
+    "title": "Em Nome Do Pai E Do Filho",
+    "publisher": "João Felinto Neto",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560656134"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8560656138"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tc8jhWrUXZYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tc8jhWrUXZYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tc8jhWrUXZYC&pg=PA83&dq=Em+nome+dos+pais&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tc8jhWrUXZYC&dq=Em+nome+dos+pais&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Em_Nome_Do_Pai_E_Do_Filho.html?hl=&id=tc8jhWrUXZYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tc8jhWrUXZYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

@@ -1,0 +1,902 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 440,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AY00DgAAQBAJ",
+   "etag": "qwGUHUQyaLM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AY00DgAAQBAJ",
+   "volumeInfo": {
+    "title": "Pense simples",
+    "subtitle": "Você só precisa dar o primeiro passo para ter um negócio ágil e inovador",
+    "authors": [
+     "Gustavo Caetano"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2017-02-28",
+    "description": "Quando se quer alguma coisa que não existe é porque tem demanda e possivelmente um mercado. Hoje temos milhares de empresários que sonham em fazer uma única coisa: INOVAR! A inovação é o cálice sagrado do negócio de sucesso, mas como começar? Como você sabe o que fazer ou que rumo tomar para realizar algo que vai tocar a vida das pessoas e mudar o seu mercado? Gustavo Caetano aprendeu a enxergar problemas pequenos, mas que precisam de solução imediata, e a mudar o rumo do seu negócio para continuar crescendo. O que ele mais quer é ver o leitor inovar também. Quem ler este livro vai descobrir que, ao contrário do que se pensa e diz por aí, inovar é SIMPLES. Neste livro você vai aprender: - Como o fracasso pode moldar a mentalidade para o sucesso - O que compõe o DNA inovador - Qual é a lógica da simplicidade para estimular a inovação - A importância de ser ágil e leve para se manter com alto potencial inovador - A não acreditar no \"sempre foi assim\" Aprenda o método do negócio simples com Gustavo Caetano, que começou a empreender quando tinha apenas 19 anos e uma ideia. Esse cara conseguiu construir uma das empresas mais inovadoras do país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545201472"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545201478"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AY00DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AY00DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AY00DgAAQBAJ&printsec=frontcover&dq=Pense+simples&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=AY00DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-AY00DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.54,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=AY00DgAAQBAJ&rdid=book-AY00DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.254E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pense_simples-sample-epub.acsm?id=AY00DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pense_simples-sample-pdf.acsm?id=AY00DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AY00DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gustavo Caetano aprendeu a enxergar problemas pequenos, mas que precisam de solução imediata, e a mudar o rumo do seu negócio para continuar crescendo. O que ele mais quer é ver o leitor inovar também."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aQVPDwAAQBAJ",
+   "etag": "g51m0N0SOPs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aQVPDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Trader no Divã",
+    "subtitle": "Emoções, Falhas e as Armadilhas Psicológicas, no Mundo dos Investimentos",
+    "authors": [
+     "Sandro R. Santos"
+    ],
+    "publisher": "SSTrader Editor",
+    "publishedDate": "2017-04-25",
+    "description": "Este livro foi pensado e elaborado com base em experiências reais e práticas de mercado, tanto em operações de day trader como operações de longo prazo, tem o intuito de ajudar aos traders e investidores iniciantes de bolsa de valores, forex e commodities, a se preparar e conhecer as principais armadilhas psicológicas que estarão a mercê ao se aventurar no campo das negociações como trader, além disso é oferecido dezenas de dicas e maneiras para precaver-se contra suas próprias emoções, e melhorar sua rotina para alcançar o sucesso.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.7.4.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aQVPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aQVPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aQVPDwAAQBAJ&pg=PA74&dq=Pense+simples&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aQVPDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aQVPDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.08,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.08,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aQVPDwAAQBAJ&rdid=book-aQVPDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.908E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.908E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trader_no_Div%C3%A3-sample-pdf.acsm?id=aQVPDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aQVPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003ePense\u003c/b\u003e. &#39;\u003cb\u003esimples\u003c/b\u003e&#39;. Eu não estou pedindo que você ache que é &#39;\u003cb\u003esimples\u003c/b\u003e&#39; aqui, eu \u003cbr\u003e\nestou pedindo que você lembre-se que a simplicidade em todos os aspectos, se \u003cbr\u003e\nsua negociação é fundamental. Mas, essencialmente, a negociação é algo que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KaVSBQAAQBAJ",
+   "etag": "/Omoyri+LlY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KaVSBQAAQBAJ",
+   "volumeInfo": {
+    "title": "The Golden Book Do Vestibular/Enem",
+    "authors": [
+     "Fernando Henrique Canhoto Alves"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-07-02",
+    "description": "O General ideal vence a Guerra antes de iniciar a Batalha Sun Tzu O que os aprovados nos vestibulares mais difíceis do país sabem que os não-aprovados não sabem? Seriam eles mais inteligentes? Claro que não. A diferença entre os alunos aprovados e não-aprovados é que aqueles conhecem e praticam alguns segredos que estes não conhecem ou ainda irão demorar muito para aprender. O fato é que todos devem dominar esses segredos para passar no vestibular. Se isso antes poderia demorar 3 ou até 6 anos de cursinho, agora com este livro, irá levar algumas horas de leitura. Segredos como O Segredo dos Nerds , que explica como ter a pontuação de um nerd sem precisar ser um ou O Segredo da Competição , que usa táticas e ensinamentos de Sun Tzu e de Nicolo Maquiavel para deixar bem claro ao vestibulando que o vestibular é sim uma competição muito acirrada que exige planejamento e exercício da virtù serão de extrema valia a qualquer pessoa que pensa em seguir uma carreira que exige formação universitária. Após tomar conhecimento dos 10 segredos o estudante terá todas condições de entrar para a Guerra do Vestibular em pé de igualdade com qualquer estudante de elite do país. Diria mais: alguns segredos podem ajudar o estudante a enfrentar qualquer desafio na vida. Essa é a segunda edição do livro que foi publicado em 2009. O autor passou por outro vestibular: a residência médica em 2014 e ficou em primeiro lugar, tendo aplicado os segredos que ele mesmo havia escrito. Essa edição traz melhorias e aprimoramentos para o famoso Os 10 segredos do vestibular .",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90168247"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Study Aids"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KaVSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KaVSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KaVSBQAAQBAJ&pg=PT115&dq=Pense+simples&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KaVSBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KaVSBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.22,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 10.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KaVSBQAAQBAJ&rdid=book-KaVSBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.022E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.022E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_Golden_Book_Do_Vestibular_Enem-sample-epub.acsm?id=KaVSBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_Golden_Book_Do_Vestibular_Enem-sample-pdf.acsm?id=KaVSBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KaVSBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A maioria dessas questões está nas provas de Física. Não seja complicado! \u003cbr\u003e\n\u003cb\u003ePense simples\u003c/b\u003e, pois o vestibular é mais simples do que você imagina. As \u003cbr\u003e\nquestões chave são questões que podem ajudá-lo a responder outras questões \u003cbr\u003e\nda prova."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u4dnDwAAQBAJ",
+   "etag": "GoomRAzjUN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u4dnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Empreendedorismo Para Leigos",
+    "authors": [
+     "Alice Salvo Sosnowski"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2018-08-07",
+    "description": "Você sabia que daqui a dez anos, 50% das profissões serão obsoletas? E que grande parcela das novas atividades ainda nem foram inventadas? Se antes ter diploma de faculdade, MBA e saber inglês era o suficiente para garantir uma vida profissional de sucesso, hoje, o funcionário de uma empresa está sujeito às oscilações do mercado, a rupturas e inovações que o colocam em um cenário de incertezas. O mundo passa por uma época de intensa transformação, com novas tecnologias, globalização e conectividade. Vivemos a Era do Empreendedorismo, em que pessoas com apenas um computador são capazes de transformar sonhos em realidade e criar soluções inovadoras para os problemas atuais. Este livro tem como objetivo desmistificar o empreendedorismo e torná-lo acessível para todos os públicos, independente da idade, da profissão ou do interesse de mercado. O principal é contribuir para tornar o Brasil um país mais empreendedor. Abra este livro e descubra… • O empreendedorismo desde os primórdios até os dias atuais • Os empreendedores pioneiros e inovadores no Brasil e no mundo • Como transformar a sua ideia em um negócio promissor • Como criar um modelo de negócio e validar no mercado \"Empreendedorismo para Leigos não é apenas uma visão geral ou uma pesquisa teórica sobre empreendedorismo. É uma pesquisa extensa somada à minha experiência prática de métodos que tive a chance de conhecer e testar em mais de dez anos de mercado.\" — Alice Salvo Sosnowski, autora",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550802466"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550802468"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u4dnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u4dnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u4dnDwAAQBAJ&pg=PA229&dq=Pense+simples&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u4dnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u4dnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 45.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u4dnDwAAQBAJ&rdid=book-u4dnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.543E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.543E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Empreendedorismo_Para_Leigos-sample-pdf.acsm?id=u4dnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u4dnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em \u003cb\u003ePense Simples\u003c/b\u003e, o autor Gustavo Caetano, fundador da empresa de \u003cbr\u003e\ntecnologia Samba Tech e considerado pela imprensa norte-americana o \u003cbr\u003e\nZuckerberg brasileiro, compartilha conhecimentos e experiências à frente de \u003cbr\u003e\numa das empresas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2V5wDwAAQBAJ",
+   "etag": "gaPYNfkpdqM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2V5wDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Indispensável, imbatível e invencível",
+    "subtitle": "Estratégias para se destacar, gerar resultados e ter o reconhecimento que você merece",
+    "authors": [
+     "Marcos Scaldelai"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2018-10-01",
+    "description": "Como faço para sair da estagnação, mudar de atitude e alcançar meus sonhos? SEJA IN: Indispensável, imbatível e invencível Todos passamos por situações com as quais não nos identificamos, seja em casa ou na empresa, sentimos que perdemos nosso propósito e vemos nosso sonho ficar cada vez mais distante. Nessa situação, os sentimentos de infelicidade, de vazio e de injustiça assumem o controle de nossos pensamentos e nos vemos em um beco sem saída. Em situações como essa, Marcos Scaldelai, empresário premiado, reconhecido por ser idealizador de projetos inovadores, nos mostra que basta desencostarmos as costas do muro para enxergarmos a luz para a saída. Autoridade no mercado e especialista em criar oportunidades de crescimento, o autor nos desafia, neste novo livro, a nos inconformarmos com as situações indesejadas e ensina como desenvolver as atitudes necessárias para se tornar indispensável em todas as áreas da sua vida, imbatível nas conquistas de resultados e invencível, ao assumir o controle do seu destino e alcançar o sucesso que faz sentido para você. Com Indispensável, imbatível e invencível você aprenderá a: • Traçar o melhor caminho para o seu sonho; • Vencer os três vilões do crescimento; • Mostrar o seu valor e ser reconhecido; • Blindar-se contra julgamentos; • Desenvolver atitudes excepcionais; • Gerar resultados efetivos para você e o negócio do qual faz parte. Este livro vai ajudá-lo a traçar um novo caminho para ser relevante, se manter em destaque e ter uma vida de sucesso, com equilíbrio e propósito!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202851"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202857"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2V5wDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2V5wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2V5wDwAAQBAJ&pg=PT83&dq=Pense+simples&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2V5wDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2V5wDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2V5wDwAAQBAJ&rdid=book-2V5wDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.061E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Indispens%C3%A1vel_imbat%C3%ADvel_e_invenc%C3%ADvel-sample-epub.acsm?id=2V5wDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Indispens%C3%A1vel_imbat%C3%ADvel_e_invenc%C3%ADvel-sample-pdf.acsm?id=2V5wDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2V5wDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por quê? Se você pensa em fazer 100%, pode ser que algo dê errado e \u003cbr\u003e\nprejudique o seu trabalho. Não se limite. Não \u003cb\u003epense simples\u003c/b\u003e. Transforme \u003cbr\u003e\nclientes em parceiros Outro ponto importante quando falamos em obter mais \u003cbr\u003e\nresultados é."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f_vKAwAAQBAJ",
+   "etag": "rX1Vt3YWOvg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f_vKAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pense Positivo",
+    "subtitle": "50 Frases Que Vão Transformar A Sua Vida",
+    "authors": [
+     "LUIS ALVES"
+    ],
+    "publisher": "LUIS MIGUEL TAVARES ALVES",
+    "publishedDate": "2014-06-12",
+    "description": "Deseja transformar a sua vida? Pense positivo é um livro onde irá encontrar cinquenta frases poderosas e uma breve reflexão sobre cada uma delas. Nesta obra o Coach e Mentor Profissional, Palestrante e Autor Luis Alves, aborda assuntos pertinentes e mostra ao leitor uma nova forma de olhar para a vida. Com a expansão dos seus horizontes, o leitor começará a analisar as situações do quotidiano com mais leveza, e sempre com sentido positivo. Quando mantemos a nossa mente focada nas cargas positivas, alcançamos rapidamente um maior nível de bem-estar, satisfação e alegria. Este poderoso livro é indicado para todos os que procuram uma boa dose inspiração e sabedoria diária.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781498950619"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1498950612"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 171,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f_vKAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f_vKAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f_vKAwAAQBAJ&pg=PA130&dq=Pense+simples&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=f_vKAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-f_vKAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.45,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=f_vKAwAAQBAJ&rdid=book-f_vKAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.245E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pense_Positivo-sample-epub.acsm?id=f_vKAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pense_Positivo-sample-pdf.acsm?id=f_vKAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f_vKAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pode parecer \u003cb\u003esimples\u003c/b\u003e demais \u003cb\u003epensar\u003c/b\u003e desta forma mas tente acompanhar-me. \u003cbr\u003e\nUm problema é &quot;algo&quot; que depende de uma resolução, de uma postura ou de \u003cbr\u003e\numa atitude, semelhante ao que representa a definição de desafio. Peço-lhe que\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "92BdAAAAMAAJ",
+   "etag": "zXAzLso3Wjc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/92BdAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Arc design",
+    "subtitle": "revista bimestral de design, arquitetura, interiores, cultura",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172146206595"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=92BdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=92BdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=92BdAAAAMAAJ&q=Pense+simples&dq=Pense+simples&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=92BdAAAAMAAJ&dq=Pense+simples&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Arc_design.html?hl=&id=92BdAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=92BdAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A particularidade do compensado, visível nas laterais das peças, fortalece o \u003cbr\u003e\npartido, que pode ser comparado à nova estética alemã, resumida na frase: &quot;\u003cbr\u003e\nThink. simple, live simple&quot; (\u003cb\u003ePense simples\u003c/b\u003e, viva simples), na expressão de Nils&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lYNzQgAACAAJ",
+   "etag": "N4c5Yau8vnQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lYNzQgAACAAJ",
+   "volumeInfo": {
+    "title": "O SUCESSO E MAIS SIMPLES DO QUE VOCE PENSA",
+    "authors": [
+     "ERNIE J. ZELINSKI"
+    ],
+    "description": "Ninguém gosta de ser tachado de preguiçoso, mas Ernie J. Zelinski garante que a preguiça é o caminho da felicidade e da prosperidade e que há vantagens no ócio produtivo. Em 'O sucesso é mais simples do que você pensa', o autor nos ensina como reduzir o ritmo e usar a criatividade para ter idéias que gerem abundância a longo prazo. Quando você relaxa, o sucesso acontece mais facilmente. O problema é que todo mundo foi condicionado a pensar que o sucesso depende da dedicação total ao trabalho, entre outros sacrifícios. Não deixe que o dinheiro e os bens materiais se tornem mais importantes do que a sua qualidade de vida. Da próxima vez que achar que não tem tempo para apreciar o pôr-do-sol, pense duas vezes. Passar 10 minutos olhando o sol se pôr é muito mais estimulante do que ficar correndo atrás de status, poder ou fama. O segredo está em fazer as coisas do seu jeito, no seu ritmo. Mesmo que todo mundo esteja acelerando, não faça o mesmo. Torne-se mestre de seu tempo e não permita que os outros afastem você de seu caminho. Com bom humor e inteligência, o autor ensina que o ócio criativo é essencial para a riqueza e relaciona uma série de dicas práticas e nada convencionais para quem busca satisfação pessoal e profissional. Além disso, cita frases de personagens históricos que irão inspirar você a desenvolver todo o seu potencial. Veja algumas de suas sugestões - Trabalhe menos, porém de forma mais inteligente Não supervalorize o dinheiro; Mantenha o foco nas coisas que são realmente importantes; Não perca tempo com atividades que não contribuem para o seu bem-estar; Simplifique a vida e adote uma postura mais relaxada; Confie em seu talento e em sua criatividade; Seja um preguiçoso altamente produtivo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857542274X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575422748"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lYNzQgAACAAJ&dq=Pense+simples&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lYNzQgAACAAJ&dq=Pense+simples&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_SUCESSO_E_MAIS_SIMPLES_DO_QUE_VOCE_PEN.html?hl=&id=lYNzQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lYNzQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ninguém gosta de ser tachado de preguiçoso, mas Ernie J. Zelinski garante que a preguiça é o caminho da felicidade e da prosperidade e que há vantagens no ócio produtivo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sXyZBAAAQBAJ",
+   "etag": "gAiWZaSwAGw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sXyZBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Você É Mais Forte do que Pensa",
+    "authors": [
+     "Les Parrott"
+    ],
+    "publisher": "CPAD - Casa Publicadora das Assembleias de Deus",
+    "publishedDate": "2014-08-28",
+    "description": "Você sente que alcançar seus sonhos é impossível e que os obstáculos são maiores que o Monte Everest? Não se deixe abater, Você é mais Forte do que Pensa! Com a ajuda do Dr. Les Parrott você irá descobrir que mudando o seu modo de pensar, entendendo o que sente e usando o que está no profundo de sua alma, você irá reunir forças que não sabia que tinha. Transforme sua fraqueza em ânimo e comece a viver corajosamente! Um produto CPAD.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526312210"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526312219"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sXyZBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sXyZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sXyZBAAAQBAJ&pg=PT5&dq=Pense+simples&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sXyZBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sXyZBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.98,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.01,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sXyZBAAAQBAJ&rdid=book-sXyZBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8980000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8010000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_%C3%89_Mais_Forte_do_que_Pensa-sample-epub.acsm?id=sXyZBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_%C3%89_Mais_Forte_do_que_Pensa-sample-pdf.acsm?id=sXyZBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sXyZBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Agradecimentos Introdução: A Vida É uma Aventura — Se Você Reunir Força \u003cbr\u003e\nPARTE 1: O PODER DA SUA MENTE 1 \u003cb\u003ePense\u003c/b\u003e de Modo \u003cb\u003eSimples\u003c/b\u003e — Há Força em \u003cbr\u003e\nLimpar a Mente 2 \u003cb\u003ePense\u003c/b\u003e com Expectativa — Há Força na Esperança Tornando&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nXn0DAAAQBAJ",
+   "etag": "qraLAFVf0KM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nXn0DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Trabalhe 4 horas por semana",
+    "authors": [
+     "Timothy Ferriss"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2016-04-14",
+    "description": "Esqueça o velho conceito de trabalho. Não espere chegar a aposentadoria para começar a aproveitar a vida. Se o seu sonho é escapar da rotina, experimentar grandes viagens pelo mundo, ter uma renda mensal de cinco dígitos ou apenas viver mais e trabalhar menos, Trabalhe 4 horas por semana é o livro de que você precisa. Este guia para um novo estilo de vida ensina: Como Timothy Ferriss passou de 40 mil dólares por ano e 80 horas de trabalho por semana para 40 mil dólares por mês e 4 horas por semana; Como treinar seu chefe para que ele valorize desempenho em vez de presença; Como trocar uma longa carreira por pequenos períodos de trabalho e mini aposentadorias frequentes; Mais de 50 dicas práticas e estudos de caso de leitores (inclusive família) que dobraram sua renda, superaram obstáculos em comum e reinventaram si mesmos usando as dicas do livro original como ponto de partida; Modelos do mundo real que você pode copiar para eliminar seus e-mails, negociar com chefes e clientes, ou conseguir um chef particular por menos de 8 dólares por refeição; Como alguns princípios do estilo de vida podem ser substituídos e adequados para imprevisíveis tempos de crise; Os mais novos truques e ferramentas, bem como atalhos de alta tecnologia, para viver com um diplomata ou milionário sem ser nenhum dos dois.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542208603"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542208609"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.25.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nXn0DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nXn0DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nXn0DAAAQBAJ&pg=PT119&dq=Pense+simples&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nXn0DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nXn0DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nXn0DAAAQBAJ&rdid=book-nXn0DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.84E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trabalhe_4_horas_por_semana-sample-epub.acsm?id=nXn0DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trabalhe_4_horas_por_semana-sample-pdf.acsm?id=nXn0DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nXn0DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003ePense simples\u003c/b\u003e. Nos próximos capítulos, as perícias de comunicação que você \u003cbr\u003e\ndesenvolve em nosso experimento de assistente virtual serão aplicadas a um \u003cbr\u003e\ncampo obscenamente lucrativo: automação. A extensão do que você irá \u003cbr\u003e\nterceirizar&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,847 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 50,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VSXL4qcO9soC",
+   "etag": "zSSsNT+7DsI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VSXL4qcO9soC",
+   "volumeInfo": {
+    "title": "Manual dos jovens estressados",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2012-12-04",
+    "description": "Um dos autores mais publicados no mundo. O novo livro de Augusto Cury, Manual dos jovens estressados, não é um manual comum. Ele não quer ensinar aquilo que nenhum jovem sabe, não quer falar de assuntos tabus, como sexo ou drogas, mas sim bater um papo franco e aberto com o leitor sobre o que pensa, sobre seus medos, seus sonhos. O que está neste livro, um animado diálogo entre o Dr. Cury e o enlouquecido professor iEstresse, é o dia a dia do jovem, aquelas situações pelas quais todos nós, ou pelo menos algum dos nossos amigos já passaram alguma vez na vida. Ao contar essas histórias, Cury procura não só ajudar os jovens a enfrentar seus desafios, como também mostrar que devem estar preparados para fracassos e vitórias que nem sempre virão exatamente como planejamos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542200331"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542200330"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.22.24.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VSXL4qcO9soC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VSXL4qcO9soC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VSXL4qcO9soC&printsec=frontcover&dq=Manual+dos+jovens+estressados&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VSXL4qcO9soC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VSXL4qcO9soC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VSXL4qcO9soC&rdid=book-VSXL4qcO9soC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Manual_dos_jovens_estressados-sample-epub.acsm?id=VSXL4qcO9soC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Manual_dos_jovens_estressados-sample-pdf.acsm?id=VSXL4qcO9soC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VSXL4qcO9soC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um dos autores mais publicados no mundo. O novo livro de Augusto Cury, Manual dos jovens estressados, não é um manual comum."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vQZyDwAAQBAJ",
+   "etag": "dQ25Wu8kO6w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vQZyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "166 Resenhas 2015",
+    "authors": [
+     "Navarco"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Este livro foi 58º. livro que reúne as resenhas que foram produzidas ao longo de 2015 em relação às leituras que fiz naquele ano. A reunião tem por objetivo dar dicas a possíveis leitores que tenham interesse em aprofundar seus conhecimentos literários ou acompanhar o aprimoramento que um escritor faz a cada ano através de suas referências literárias.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU27386"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vQZyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vQZyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vQZyDwAAQBAJ&pg=PA213&dq=Manual+dos+jovens+estressados&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vQZyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vQZyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 63.17,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 63.17,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vQZyDwAAQBAJ&rdid=book-vQZyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.317E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.317E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/166_Resenhas_2015-sample-pdf.acsm?id=vQZyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vQZyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Augusto Cury - \u003cb\u003eManual dos Jovens Estressados\u003c/b\u003e Mas Muito Inteligentes! Escrito \u003cbr\u003e\nem forma de bate papo com os jovens, Augusto como personagem interagi com \u003cbr\u003e\noutro personagem o neto de Einstein e tira proveito da conversa entre ambos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lggmDwAAQBAJ",
+   "etag": "oQgssZYeHI8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lggmDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia da alta performance para o enem",
+    "authors": [
+     "Daniel Neto Campos"
+    ],
+    "publisher": "Simplissimo Livros Ltda",
+    "publishedDate": "2017-05-18",
+    "description": "O Guia da Alta Performance para o ENEM é um livro que vai direto ao ponto, ensinando estratégias que farão o seu tempo de estudos render, trarão mais segurança para a realização da prova e facilitarão o alcance dos resultados que você tanto deseja obter no Exame Nacional do Ensino Médio. Consiste em 7 capítulos envolvendo os seguintes tópicos: 1 - Como a sua personalidade pode estar te sabotando para o Enem; 2 - Como planejar a rotina de estudos; 3 - Dicas de saúde e alimentação para ir bem nos estudos; 4 - Materiais escolares específicos que vão reduzir o seu tempo de estudo e de realização da prova; 5 - Estratégias práticas de estudo, memorização, concentração, gerenciamento de tempo, leitura dinâmica, dentre outras; 6 - Melhores fontes de informação sobre a parte técnica da prova; 7 - Como um estudante deve proceder nos dias de prova para potencializar seus acertos. Além de bônus exclusivos! Se você é um aluno que se preocupa em aprender mas não sabe as melhores estratégias, se sente inseguro para a prova, ou nem mesmo sabe que carreira seguir, o Guia da Alta Performance para o ENEM pode ser a diferença entre você continuar como pré-vestibulando ou se tornar universitário! Assista ao vídeo: https://www.youtube.com/watch?v=K7YgxxMuiHw",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582454619"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582454619"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lggmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lggmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lggmDwAAQBAJ&pg=PT85&dq=Manual+dos+jovens+estressados&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lggmDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lggmDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lggmDwAAQBAJ&rdid=book-lggmDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guia_da_alta_performance_para_o_enem-sample-epub.acsm?id=lggmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guia_da_alta_performance_para_o_enem-sample-pdf.acsm?id=lggmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lggmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eManual dos jovens estressados\u003c/b\u003e. Rio de Janeiro:Planeta, 2012. (73-82) 13 \u003cbr\u003e\nAcesso em: (3 de Abril, 2017) 14 Para saber mais sobre o autor: BUZAN, Tony. \u003cbr\u003e\nTony Buzan: Inventor of Mind Mapping. Disponível em: http://www.tonybuzan.\u003cbr\u003e\ncom/."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtlBCwAAQBAJ",
+   "etag": "Iu8hV9nFfXk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtlBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Persuasão: Persuasion",
+    "subtitle": "Edição bilíngue português- inglês",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Jane Austen começou a escrever 'Persuasão', seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816. O livro foi publicado, postumamente, em 1818 e serviu como base do roteiro sobre o romance dos personagens interpretados por Sandra Bullock e Keanu Reeves, no filme 'A Casa do Lago', de 2006. 'Persuasão' costuma ser associado a outro de seus romances, 'A Abadia de Northanger', pois além dos dois livros terem sido originalmente publicados em um único volume, ambas as histórias são situadas na cidade de Bath, um balneário termal onde Jane Austen viveu de1801 a 1805. O enredo deste empolgante livro gira em torno dos amores de Anne Elliot que se apaixonara pelo pobre, mas ambicioso jovem oficial da marinha, capitão Frederick Wentworth. A família de Anne não concorda com essa relação e a convence romper seu relacionamento amoroso. Anos após Anne reencontra Frederick, agora cortejando sua amiga e vizinha, Louisa Musgrove. 'Persuasão' é amplamente apreciada, pois tem uma simpática história de amor, de trama simples e bem elaborada, e mostra o estilo de narrativa irônica de Jane Austen. Além disto, é original, pelo fato, entre outros motivos, de ser uma das poucas histórias da escritora que não apresenta a heroína em plena juventude. O romance também é um apanágio ao homem de iniciativa, através do personagem do capitão Frederick Wentworth que parte de uma origem humilde e que alcança influência e status pela força de seus méritos e não através de herança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781993"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781999"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 920,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jtlBCwAAQBAJ&printsec=frontcover&dq=Manual+dos+jovens+estressados&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jtlBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&rdid=book-jtlBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-epub.acsm?id=jtlBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-pdf.acsm?id=jtlBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jtlBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jane Austen começou a escrever &#39;Persuasão&#39;, seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mbV5DwAAQBAJ",
+   "etag": "S+9GgIHS0Zw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mbV5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Manual De InstruÇÕes! O Presente De Deus",
+    "authors": [
+     "Aloisio Augusto Da Cruz Ferreira Da Casa"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um casal; a Princesinha e o esposo, ganha 3 dias de férias na cidade imperial para comemorarem o Dia de São Valentim, mais comumente designado por Dia Dos Namorados e lá descobrem que sua vida, todos os eventos contidos nela, estão de acordo com o Manual de Instruções que Deus nos deixou de herança, a Bíblia. Estavam felicíssimos e ao refletirem na sua vida, descobrem esse maravilhoso segredo. Deus deixou como Presente para o homem, um Maravilhoso Manual de Instruções capaz de o levar a alcançar a felicidade. Agradecem por tudo o que lhes tem sucedido, constatando que está dentro do Manual. Sentem o agir de Deus em suas vidas. A importância da família e o segredo contido nesse manual, para o seu sucesso. Uma parte da história de Portugal; retratos da história do Brasil; o Acre; a Grande Seca do nordeste brasileiro; a I Grande Guerra Mundial; o êxodo nordestino a caminho da Amazônia; a epopeia da borracha; a fome e os dramas sociais das populações ribeirinhas do Marajó; um Brasil de contrastes, de um lado o progresso, do outro, um Brasil parado no tempo. O Novo e o Velho Mundo. E; acima de tudo, a importância de sermos bons luminares, difundido a luz que recebemos de Deus, colocando-nos do lado do amor, em oposição ao desamor.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU31435"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 354,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mbV5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mbV5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mbV5DwAAQBAJ&pg=PA278&dq=Manual+dos+jovens+estressados&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mbV5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mbV5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mbV5DwAAQBAJ&rdid=book-mbV5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Manual_De_Instru%C3%87%C3%95es_O_Presente_De_Deu-sample-pdf.acsm?id=mbV5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mbV5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em qualquer dos casos, o resultado será filhos completamente imaturos, \u003cbr\u003e\n\u003cb\u003eestressados\u003c/b\u003e, amargurados e sem o mínima ... conseguem arrastar mais \u003cb\u003ejovens\u003c/b\u003e \u003cbr\u003e\ndo mundo ocidental para as suas fileiras, passando pelo aliciamento por \u003cbr\u003e\nelementos sem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v8tQAAAAMAAJ",
+   "etag": "7R1h6s2cpAg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v8tQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Catálogo de dissertações e teses",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172146928669"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=v8tQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=v8tQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=v8tQAAAAMAAJ&q=Manual+dos+jovens+estressados&dq=Manual+dos+jovens+estressados&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=v8tQAAAAMAAJ&dq=Manual+dos+jovens+estressados&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cat%C3%A1logo_de_disserta%C3%A7%C3%B5es_e_teses.html?hl=&id=v8tQAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=v8tQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ratos adultos \u003cb\u003ejovens\u003c/b\u003e e adultos-controle também foram utilizados. ... \u003cbr\u003e\nImediatamente e 1h após as sessões de imobilização, ratos adultos mostram \u003cbr\u003e\nmaiores concentrações de CSV do que ratos adultos \u003cb\u003ejovens estressados\u003c/b\u003e, sem \u003cbr\u003e\ndiferenças nos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-fYucRtHTHMC",
+   "etag": "4i0c1caH3eQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-fYucRtHTHMC",
+   "volumeInfo": {
+    "title": "Manual de Técnica Psicanalítica: Uma re-visão",
+    "authors": [
+     "David E. Zimerman"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2009-01-01",
+    "description": "Além de revisar os conceitos clássicos e os avanços contemporâneos referentes à técnica analítica, relaciona-os com as experiências e vivências emocionais e técnicas desse autor amplamente reconhecido no país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536315317"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8536315318"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.55.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-fYucRtHTHMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-fYucRtHTHMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-fYucRtHTHMC&pg=PA21&dq=Manual+dos+jovens+estressados&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-fYucRtHTHMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--fYucRtHTHMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 144.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 144.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-fYucRtHTHMC&rdid=book--fYucRtHTHMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.44E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.44E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Manual_de_T%C3%A9cnica_Psicanal%C3%ADtica_Uma_re-sample-pdf.acsm?id=-fYucRtHTHMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-fYucRtHTHMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Assim, no início das descobertas de Freud, a totalidade da sua prática clínica era \u003cbr\u003e\ncomposta por mulheres, \u003cb\u003ejovens\u003c/b\u003e e ... em escalada crescente o surgimento de \u003cbr\u003e\nquadros depressivos e também de indivíduos \u003cb\u003eestressados\u003c/b\u003e, com um alto grau de\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AptcAAAAMAAJ",
+   "etag": "aGfXt30ZpAE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AptcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ciência hoje",
+    "subtitle": "revista de divulgação científica da Sociedade Brasileira para o Progresso da Ciência",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172147906720"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AptcAAAAMAAJ&q=Manual+dos+jovens+estressados&dq=Manual+dos+jovens+estressados&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AptcAAAAMAAJ&dq=Manual+dos+jovens+estressados&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ci%C3%AAncia_hoje.html?hl=&id=AptcAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AptcAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Linfócitos de \u003cb\u003ejovem\u003c/b\u003e Após os parabéns iniciais e sinceros à CH, gostaria de \u003cbr\u003e\nestendê-los ao professor Moisés Evandro ... (em C), que compara a proliferação \u003cbr\u003e\nde linfócitos em \u003cb\u003ejovens estressados\u003c/b\u003e com essa proliferação em idosos saudáveis."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fI0wAAAAYAAJ",
+   "etag": "WnVCErTpCa4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fI0wAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Manchete",
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173017563192"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fI0wAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fI0wAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fI0wAAAAYAAJ&q=Manual+dos+jovens+estressados&dq=Manual+dos+jovens+estressados&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fI0wAAAAYAAJ&dq=Manual+dos+jovens+estressados&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manchete.html?hl=&id=fI0wAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fI0wAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma legião de homens de meia-idade e até mesmo \u003cb\u003ejovens estressados\u003c/b\u003e também \u003cbr\u003e\npretendem reconquistar a bendita potência sexual a qualquer custo. Ainda mais \u003cbr\u003e\nporque a aplicação da droga não fere — a testosterona é absorvida pela pele."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z583t7lPkv4C",
+   "etag": "O5O9Mdb08V4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z583t7lPkv4C",
+   "volumeInfo": {
+    "title": "Vendedor de sonhos - o chamado",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2008-06-01",
+    "description": "A surpreendente história de um homem de identidade desconhecida que considera o mundo moderno um hospício global. Ele chama pessoas incomuns para, juntos, libertar a mente dos caminhantes. Por onde passa tumultua o ambiente. Será ele o mais louco dos seres ou um sábio? Um romance em que é possível rir, chorar, se enxergar e pensar muito...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560096992"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "856009699X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.35.37.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z583t7lPkv4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z583t7lPkv4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=z583t7lPkv4C&pg=PT245&dq=Manual+dos+jovens+estressados&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=z583t7lPkv4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-z583t7lPkv4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=z583t7lPkv4C&rdid=book-z583t7lPkv4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vendedor_de_sonhos_o_chamado-sample-epub.acsm?id=z583t7lPkv4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vendedor_de_sonhos_o_chamado-sample-pdf.acsm?id=z583t7lPkv4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z583t7lPkv4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Formamos \u003cb\u003ejovens estressados\u003c/b\u003e, tensos, com instinto de predadores, ansiosos \u003cbr\u003e\npara serem o número um, e não pacificadores, tolerantes, que se sintam dignos \u003cbr\u003e\nde ser o número nove ou dez. Tínhamos a impressão de que depois dessa&nbsp;..."
+   }
+  }
+ ]
+}

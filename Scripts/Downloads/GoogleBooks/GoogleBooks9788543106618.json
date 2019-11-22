@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5Y70vAEACAAJ",
+   "etag": "lnXgOgRIALE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5Y70vAEACAAJ",
+   "volumeInfo": {
+    "title": "Dúvida Cruel",
+    "subtitle": "80 RESPOSTAS PARA AS PERGUNTAS MAIS CABELUDAS",
+    "authors": [
+     "Mariana Fulfaro"
+    ],
+    "publishedDate": "2018-11-05",
+    "description": "Não importa se você tem 9 ou 90 anos. Se tem um espírito questionador aguçado, é provável que perguntas cabeludas fiquem martelando na sua cabeça. Afinal, o mundo é uma fonte inesgotável de curiosidade. Nesse livro, Mari e Iberê, criadores do Manual do Mundo – o canal do YouTube que, em 10 anos, conquistou mais de 11 milhões de inscritos –, reuniram 80 dúvidas cruéis escolhidas a partir das sugestões enviadas por seus seguidores. Aqui você encontrará informações científicas de qualidade com o jeito claro, atraente e divertido que virou marca registrada do canal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8543106613"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543106618"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5Y70vAEACAAJ&dq=isbn:9788543106618&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5Y70vAEACAAJ&dq=isbn:9788543106618&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%BAvida_Cruel.html?hl=&id=5Y70vAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5Y70vAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não importa se você tem 9 ou 90 anos."
+   }
+  }
+ ]
+}

@@ -1,0 +1,762 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 465,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t7fsGwAACAAJ",
+   "etag": "UTJjWB0kFYs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t7fsGwAACAAJ",
+   "volumeInfo": {
+    "title": "A Biblia",
+    "subtitle": "o livro, a historia, a mensagem",
+    "authors": [
+     "Antonio Gilbero da Silva"
+    ],
+    "publishedDate": "1983",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:44269973"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "categories": [
+     "Bible"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t7fsGwAACAAJ&dq=O+livro+da+hist%C3%B3ria&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=t7fsGwAACAAJ&dq=O+livro+da+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Biblia.html?hl=&id=t7fsGwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t7fsGwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fqLmAwAAQBAJ",
+   "etag": "qwsMkTgWXFI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fqLmAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A História do Livro",
+    "authors": [
+     "Ruth Rocha",
+     "Otávio Roth"
+    ],
+    "publisher": "Editora Melhoramentos",
+    "publishedDate": "2014-06-25",
+    "description": "1992 – Prêmio Jabuti – Melhor Obra em Coleção, Melhor Produção Editorial 1993 – Prêmio Monteiro Lobato para Literatura Infantil, Academia Brasileira de Letras Quando foi impresso o primeiro livro? A invenção da prensa trouxe uma série de benefícios. Quais foram e o que provocaram? Quais são as formas que precederam o livro de papel como o que conhecemos hoje? Os maias já faziam um tipo de livro antes de Colombo chegar à América. Que materiais foram usados pelos diversos povos para registrar a sua história? Que valor tem um livro? Premiada em 1993 com o FNLIJ, o Jabuti de Melhor Obra em Coleção e Melhor Produção Editorial e com o Prêmio Monteiro Lobato da Academia Brasileira de Letras para Literatura Infantil, esta série oferece às crianças a maravilhosa história da evolução da humanidade. As ilustrações utilizam recursos de colagem, criando imagens muito originais, com textura e relevo, que merecem uma leitura crítica, observando-se a integração do verbal com o não verbal em um projeto gráfico cuidadoso. Série vencedora também do Prêmio Fundação Conrado Wessel de Ciência e Cultura 2006 em literatura para a autora Ruth Rocha.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506075333"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8506075335"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fqLmAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fqLmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fqLmAwAAQBAJ&printsec=frontcover&dq=O+livro+da+hist%C3%B3ria&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fqLmAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fqLmAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fqLmAwAAQBAJ&rdid=book-fqLmAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.55E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Hist%C3%B3ria_do_Livro-sample-epub.acsm?id=fqLmAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Hist%C3%B3ria_do_Livro-sample-pdf.acsm?id=fqLmAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fqLmAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Série vencedora também do Prêmio Fundação Conrado Wessel de Ciência e Cultura 2006 em literatura para a autora Ruth Rocha."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DonABPEhBVYC",
+   "etag": "Wl6MBNkPO3A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DonABPEhBVYC",
+   "volumeInfo": {
+    "title": "O LIVRO DIDATICO DE HISTORIA",
+    "authors": [
+     "DIOGO ROBERTO CALHEIROS FEIDMAN"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "O livro didático nos dias atuais é visto como instrumento passível de muitos erros, porém, também é dado como instrumento indispensável à prática pedagógica. Ao longo de sua história, o livro didático vai ganhando cada vez mais importância na sala de aula, mas também, vai acumulando falhas e defeitos. Deste modo, este livro tem como roteiro trabalhar o percurso histórico das políticas voltadas a educação e ao livro didático, trabalhar o percurso do desenvolvimento do currículo escolar da ciência História, trabalhar a atual política educacional e do livro didático, trabalhar as atuais propostas curriculares, além de trabalhar os atuais problemas apresentados pelos livros didáticos, apresentando propostas de práticas pedagógicas. Vamos notar que os problemas apresentados pelos livros didáticos, são problemas que vêm de muito tempo. Desde a necessidade da criação de um currículo escolar, os conteúdos de História nos livros didáticos acumularam erros como influência ideológica, fatos dados como prontos e acabados, visão unilateral dos conteúdos, dados preconceituosos, ausência de reflexão e senso crítico, entre outros. Esta obra oriunda de uma pesquisa acadêmica, ainda tem como objetivo aconselhar algumas práticas pedagógicas que possam contornar ou mesmo explorar os defeitos dos livros didáticos, afim de, passar uma educação e conhecimento de qualidade da ciência História.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578935870"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857893587X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 92,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DonABPEhBVYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DonABPEhBVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DonABPEhBVYC&printsec=frontcover&dq=O+livro+da+hist%C3%B3ria&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=DonABPEhBVYC&dq=O+livro+da+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_LIVRO_DIDATICO_DE_HISTORIA.html?hl=&id=DonABPEhBVYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DonABPEhBVYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro didático nos dias atuais é visto como instrumento passível de muitos erros, porém, também é dado como instrumento indispensável à prática pedagógica."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tU5rhfH5OD4C",
+   "etag": "/k3vZd+sKCU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tU5rhfH5OD4C",
+   "volumeInfo": {
+    "title": "O livro da História do Direito",
+    "publisher": "Editora Schoba",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580130362"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580130360"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tU5rhfH5OD4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tU5rhfH5OD4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tU5rhfH5OD4C&pg=PA29&dq=O+livro+da+hist%C3%B3ria&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tU5rhfH5OD4C&dq=O+livro+da+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_da_Hist%C3%B3ria_do_Direito.html?hl=&id=tU5rhfH5OD4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tU5rhfH5OD4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pré–\u003cb\u003eHistória\u003c/b\u003e e \u003cb\u003eHistória\u003c/b\u003e Para avivar marca–se o tempo histórico–arqueológico do \u003cbr\u003e\nhomem sob dois aspectos: Pré–\u003cb\u003ehistória\u003c/b\u003e e \u003cb\u003eHistória\u003c/b\u003e. A Pré-\u003cb\u003ehistória\u003c/b\u003e compreende o \u003cbr\u003e\nperíodo do aparecimento dos hominídeos até o surgimento da escrita cerca de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q2OkAgAAQBAJ",
+   "etag": "/Zvn3TTNwCg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q2OkAgAAQBAJ",
+   "volumeInfo": {
+    "title": "História & Livro e Leitura",
+    "authors": [
+     "André Belo"
+    ],
+    "publisher": "Autentica",
+    "publishedDate": "2013-05-30",
+    "description": "O livro é uma das fontes mais ricas de que o historiador dispõe. Nele encontramos idéias do seu autor, as marcas do lugar social de onde escreveu, os indícios da produção e da venda da obra, do trabalho de ilustração, de grafismo, a materialidade e espiritualidade do livro. Resistirá o livro à Internet e aos apelos da leitura fragmentada e distanciadas? O que podemos aprender com os livros de nossos antepassados que sem cessar nos interpelam através de imagens no cinema, em telas ou em outros livros?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582172148"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582172141"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q2OkAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q2OkAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=q2OkAgAAQBAJ&printsec=frontcover&dq=O+livro+da+hist%C3%B3ria&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=q2OkAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-q2OkAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.57,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=q2OkAgAAQBAJ&rdid=book-q2OkAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.457E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Livro_e_Leitura-sample-epub.acsm?id=q2OkAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_Livro_e_Leitura-sample-pdf.acsm?id=q2OkAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q2OkAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro é uma das fontes mais ricas de que o historiador dispõe."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oYtlDwAAQBAJ",
+   "etag": "fidd2gFPF28",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oYtlDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Livros didáticos de história: entre políticas e narrativas",
+    "authors": [
+     "Helenice Aparecida Bastos Rocha",
+     "Luis Reznik",
+     "Marcelo De Souza Magalhães"
+    ],
+    "publisher": "Editora FGV",
+    "publishedDate": "2017-07-01",
+    "description": "Os livros didáticos se tornaram notícia na mídia impressa e televisiva. De tempos em tempos, seus autores são colocados na berlinda, acusados de trazerem aos leitores informações inadequadas. Tais críticas se tornam mais preocupantes porque os livros didáticos são avaliados pelo Estado brasileiro por meio do Programa Nacional do Livro Didático. Este livro se debruça sobre a problemática do livro didático de história, analisando as políticas que os estabelecem e as narrativas que eles trazem a seu público",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522519613"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8522519617"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oYtlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oYtlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oYtlDwAAQBAJ&printsec=frontcover&dq=O+livro+da+hist%C3%B3ria&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oYtlDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-oYtlDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oYtlDwAAQBAJ&rdid=book-oYtlDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.4E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.4E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Livros_did%C3%A1ticos_de_hist%C3%B3ria_entre_pol-sample-pdf.acsm?id=oYtlDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oYtlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro se debruça sobre a problemática do livro didático de história, analisando as políticas que os estabelecem e as narrativas que eles trazem a seu público"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c03FAAAAIAAJ",
+   "etag": "gy66qLkX+YM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c03FAAAAIAAJ",
+   "volumeInfo": {
+    "title": "A fascinante história do livro",
+    "authors": [
+     "José Teixeira de Oliveira"
+    ],
+    "publishedDate": "1984",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B4158288"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Books"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=c03FAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=c03FAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=c03FAAAAIAAJ&q=O+livro+da+hist%C3%B3ria&dq=O+livro+da+hist%C3%B3ria&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=c03FAAAAIAAJ&dq=O+livro+da+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_fascinante_hist%C3%B3ria_do_livro.html?hl=&id=c03FAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c03FAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9LA4DwAAQBAJ",
+   "etag": "dmdBS1Lsh2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9LA4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "História da Computação",
+    "authors": [
+     "Raul Sidnei Wazlawick"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2017-04-28",
+    "description": "O livro apresenta uma linha de tempo descrevendo todos os inventos e ideias que tiveram influência na história da computação, iniciando na pré-história, com a contagem com dedos e varas de contagem, passado pela era clássica e as diversas invenções gregas, e chegando finalmente aos dias de hoje. O livro se divide em 10 partes, cada uma com pequenos capítulos que escrevem não apenas os fatos e curiosidades relacionadas a cada artefato ou ideia descritos, como também seu modo de funcionamento. Esse livro será o primeiro no Brasil a tratar esse assunto com tamanha profundidade. Em relação a livros do mercado internacional, ele se diferencia por não fazer simplesmente um relato dos fatos e eventos, mas de incluir as necessárias explicações sobre o funcionamento dos diferentes dispositivos e ideias. Por exemplo, livros de história da computação falam sobre a Pascalina, o Eniac e os circuitos integrados, mas não explicam os fundamentos de seu funcionamento. Assim, o livro terá basicamente três utilidades: (1) como base para compreensão da história da computação, (2) como base para a compreensão dos fundamentos da computação, (3) como leitura acessível por qualquer pessoa, mesmo sem conhecimentos de computação. Assim, além de ser um livro didático que vem preencher uma lacuna dos cursos de computação e informática, já que não existe um livro texto de referência para as disciplinas obrigatórias de história da computação e fundamentos de computação, visto que a maioria das universidades usa sites na internet como \"bibliografia\" para este assunto. O livro também, sendo acessível ao público em geral, poderá ser vendido em bancas, ao estilo dos já consagrados \"história da matemática\", \"assustadora história da medicina\" etc- Visão global da história da computação, incluindo fatos importantes no Brasil, não centrado apenas nos EUA. - Obra atualizada - Obra única em língua portuguesa. - Altamente ilustrado. - Obra extensa e aprofundada.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535285468"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535285466"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 584,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9LA4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9LA4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9LA4DwAAQBAJ&printsec=frontcover&dq=O+livro+da+hist%C3%B3ria&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9LA4DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9LA4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 116.35,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 116.35,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9LA4DwAAQBAJ&rdid=book-9LA4DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1635E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1635E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_da_Computa%C3%A7%C3%A3o-sample-epub.acsm?id=9LA4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9LA4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por exemplo, livros de história da computação falam sobre a Pascalina, o Eniac e os circuitos integrados, mas não explicam os fundamentos de seu funcionamento."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gnFaAAAAMAAJ",
+   "etag": "T8fniqZWA7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gnFaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "O livro de ouro da MPB",
+    "subtitle": "a história de nossa música popular de sua origem até hoje",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173011872092"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 365,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gnFaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gnFaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gnFaAAAAMAAJ&q=O+livro+da+hist%C3%B3ria&dq=O+livro+da+hist%C3%B3ria&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gnFaAAAAMAAJ&dq=O+livro+da+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_de_ouro_da_MPB.html?hl=&id=gnFaAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gnFaAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CM_2swEACAAJ",
+   "etag": "zYhqcq5iSc0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CM_2swEACAAJ",
+   "volumeInfo": {
+    "title": "O Livro Da História",
+    "authors": [
+     "Vários Autores",
+     "Rafael Longo"
+    ],
+    "description": "Como a democracia surgiu na Grécia Antiga? Como a Espanha conquistou a América do Sul e a América Central? O que causou a queda do Muro de Berlim? Este livro responde a estas questões e muitas outras, explorando as civilizações, revoluções e tecnologias que tornariam este nosso mundo irreconhecível aos olhos dos nossos ancestrais. Escrito em linguagem simples, \"O livro da história\" contém explicações claras e concisas das ideias por trás dos eventos que moldaram nosso mundo, diagramas que ilustram passo a passo alguns conceitos complexos e ilustrações que elucidam nossas ideias sobre o passado. Tanto faz se você é inexperiente no assunto, um estudante ávido ou mesmo um historiador acadêmico, neste livro você encontrará muitas questões que certamente despertarão seu interesse.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525064149"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525064141"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CM_2swEACAAJ&dq=O+livro+da+hist%C3%B3ria&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CM_2swEACAAJ&dq=O+livro+da+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Livro_Da_Hist%C3%B3ria.html?hl=&id=CM_2swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CM_2swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrito em linguagem simples, &quot;O livro da história&quot; contém explicações claras e concisas das ideias por trás dos eventos que moldaram nosso mundo, diagramas que ilustram passo a passo alguns conceitos complexos e ilustrações que ..."
+   }
+  }
+ ]
+}

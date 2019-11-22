@@ -1,0 +1,919 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 448,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "J7ZUDwAAQBAJ",
+   "etag": "s/PYQpgti2I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J7ZUDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Gente de resultados",
+    "authors": [
+     "Eduardo Ferraz"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2018-04-11",
+    "description": "\"Como contratar, preparar, motivar e liderar profissionais de alto rendimento, sem ser especialista no assunto?\" Para responder a essa pergunta fundamental, o autor, baseado em mais de 30 anos de experiência em consultorias e treinamentos,preparou um manual prático para gestores que gostariam de obter excelentes resultados em sua atividade profissional, e mostra, de forma objetiva, como formar equipes compactas de altíssimo potencial. O livro está dividido em duas partes: Na parte 1 – Autoconhecimento e análise, veremos que, para montar um time de grande qualidade, primeiro você precisa conhecer seu estilo de ser, em que estágio está seu negócio e como é o desempenho de sua equipe atual. Na parte 2 – Tomadas de decisão e estratégias, você receberá técnicas muito claras sobre como aproveitar o que seus colaboradores têm de melhor, como agregar novos profissionais e até como começar a montar um grupo vencedor do zero, se for necessário. Alguns assuntos abordados: - Teste: Qual é seu estilo de liderança? - Os principais perfis profissionais e o lugar certo para cada um deles - Como avaliar seus subordinados - Onde e como encontrar talentos gastando pouco - Roteiro de perguntas para fazer uma entrevista de seleção eficaz - Critérios práticos para demitir, promover, treinar ou dar condições especiais - Como implantar a cultura da \"dor de dono\" em sua equipe - A maneira correta de dar feedbacks - Como atingir altos estágios de performance",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542213140"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542213149"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J7ZUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J7ZUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=J7ZUDwAAQBAJ&printsec=frontcover&dq=Gente+de+resultados&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=J7ZUDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-J7ZUDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=J7ZUDwAAQBAJ&rdid=book-J7ZUDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gente_de_resultados-sample-epub.acsm?id=J7ZUDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gente_de_resultados-sample-pdf.acsm?id=J7ZUDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J7ZUDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Como contratar, preparar, motivar e liderar profissionais de alto rendimento, sem ser especialista no assunto?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "52A-DwAAQBAJ",
+   "etag": "Ah+YQJbSMZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/52A-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Atletismo: Desenvolvimento Humano e Aprendizagem Esportiva",
+    "authors": [
+     "Aguinaldo Souza dos Santos",
+     "Gislaine Cristina Vagetti",
+     "Valdomiro de Oliveira"
+    ],
+    "publisher": "Appris Editora e Livraria Eireli - ME",
+    "publishedDate": "2017-11-03",
+    "description": "As reflexões presentes neste livro têm como foco o atletismo e o desenvolvimento humano na aprendizagem esportiva. Esta obra é composta de quatro capítulos, com uma abordagem contextualizada sobre o desenvolvimento humano e o ensino e a aprendizagem da modalidade atletismo, e seu conteúdo visa a um produto do esporte engajado em uma sociedade de vários ambientes inter-relacionados, os quais podem auxiliar os atletas em seu desenvolvimento e em sua aprendizagem esportiva. A obra propõe-se à modalidade atletismo quando praticada como intervenção social, podendo melhorar a qualidade de vida e o desenvolvimento dos seus praticantes, para que possam, assim, realizar o seu potencial em dignidade e igualdade, em um ambiente esportivo saudável. Esta obra pauta-se no ambiente esportivo como meio favorável a muitas oportunidades – nesse caso, o esporte deve utilizar esse ambiente para melhorar vidas de crianças e adolescentes que vivem em diversidade e adversidade social, vidas muitas vezes marcadas pelo contexto de risco e situação de vulnerabilidade social. Assim, o esporte pode contribuir para tal desenvolvimento, promovendo dignidade humana e oportunizando que as pessoas encontrem mais esperanças no meio esportivo e tenham confiança e oportunidades melhores de se desenvolverem em outras esferas da vida humana no futuro. Assim, a principal abordagem teórica será a Teoria de Urie Bronfenbrenner, que versa sobre o desenvolvimento humano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547304980"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547304983"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=52A-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=52A-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=52A-DwAAQBAJ&pg=PT140&dq=Gente+de+resultados&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=52A-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-52A-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=52A-DwAAQBAJ&rdid=book-52A-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.2E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Atletismo_Desenvolvimento_Humano_e_Apren-sample-epub.acsm?id=52A-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Atletismo_Desenvolvimento_Humano_e_Apren-sample-pdf.acsm?id=52A-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=52A-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Aí depois com a prática do atletismo a \u003cb\u003egente\u003c/b\u003e deixou de ir pra roça, as vezes nos \u003cbr\u003e\níamos viajar para as competições, e isso foi dando um incentivo pra \u003cb\u003egente\u003c/b\u003e. \u003cbr\u003e\nVamos treinar ... Livra a \u003cb\u003egente\u003c/b\u003e de vários vícios, independente de \u003cb\u003eresultados\u003c/b\u003e. É \u003cbr\u003e\nbom&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zs96DwAAQBAJ",
+   "etag": "3ZtGRZvbxcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zs96DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Desafios e escolhas de uma liderança",
+    "subtitle": "A vida profissional do ex-reitor da USP e da UMC",
+    "authors": [
+     "Roberto Lobo",
+     "Maria Beatriz Lobo"
+    ],
+    "publisher": "Editora Labrador LTDA",
+    "publishedDate": "2018-11-19",
+    "description": "A trajetória de um gestor que esteve no leme de importantes instituições em períodos de grande turbulência da vida nacional. Nesta obra, Roberto Lobo descreve todo o percurso que trilhou para construir sua vitoriosa carreira. Ao lado de Maria Beatriz Lobo, sua esposa e companheira de trabalho, oferece ao leitor uma preciosa contribuição para os debates sobre a gestão universitária, a ciência e a tecnologia, provando-se uma inspiração para futuros líderes institucionais. Roberto Leal Lobo e Silva Filho: É engenheiro elétrico pela PUC-RJ, mestre e doutor pela Purdue University, da qual recebeu o título de doutor honoris causa, professor titular aposentado da USP, da qual foi vice-reitor e reitor, e pesquisador visitante da Boston University desde 2016. Ocupou importantes cargos em instituições governamentais renomadas, como o CNPq, o CBPF e a Fapesp, além de ter sido o criador e primeiro diretor do Laboratório Nacional Síncrotron e reitor da UMC. Presidiu o Programa Alfa da União Europeia e foi consultor da Columbur, associação da Unesco. Criou o Instituto Lobo e a Lobo & Associados Consultoria. Entre os inúmeros artigos que já publicou, alguns podem ser lidos em seu blog do Estadão (educacao.estadao.com.br/blogs/roberto-lobo). Maria Beatriz de Carvalho Melo Lobo: É psicóloga com pós-graduação em Administração Universitária pelo programa do CRUB, OUI e University of Florida. Foi chefe de avaliação e planejamento e diretora pedagógica da Universidade de Fortaleza e vice-reitora da UMC, tendo sido o braço direito de Roberto Lobo no projeto de melhoria que ficou conhecido em todo país. Como vice-presidente do Instituto Lobo e sócio-diretora da Lobo & Associados Consultoria, assessorou mais de 120 instituições de ensino e empresas e capacitou mais de 20 mil gestores universitários de 24 estados brasileiros. Palestrante especializada nos temas de educação, gestão e liderança, já publicou diversos artigos em jornais e revistas de grande circulação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788587740281"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8587740288"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zs96DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zs96DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zs96DwAAQBAJ&pg=PT320&dq=Gente+de+resultados&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zs96DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zs96DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.94,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zs96DwAAQBAJ&rdid=book-zs96DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.094E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Desafios_e_escolhas_de_uma_lideran%C3%A7a-sample-epub.acsm?id=zs96DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Desafios_e_escolhas_de_uma_lideran%C3%A7a-sample-pdf.acsm?id=zs96DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zs96DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... uma proposta diferenciada de remuneração que incluía, a partir de um certo \u003cbr\u003e\npatamar, uma participação de \u003cb\u003eresultados\u003c/b\u003e. ... Não foi só para o topo que chegava \u003cbr\u003e\n\u003cb\u003egente\u003c/b\u003e de primeira linha, mas também nos cargos que fazem acontecer, lá nos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aVpGfn6ixwkC",
+   "etag": "FY0W3DKbAZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aVpGfn6ixwkC",
+   "volumeInfo": {
+    "title": "Felicidade S.A.",
+    "subtitle": "Por que a satisfação com o trabalho é a utopia possível para o século 21",
+    "authors": [
+     "Alexandre Teixeira"
+    ],
+    "publisher": "Arquipelago Editorial Ltda",
+    "publishedDate": "2016-03-21",
+    "description": "O mundo do trabalho vive uma revolução silenciosa. Depois de décadas tendo o dinheiro como estímulo quase único aos seus funcionários, organizações inovadoras começam a perceber que esse modelo está ruindo. A remuneração ainda é decisiva, claro. Mas, num mundo traumatizado pela crise que veio de Wall Street, salários e bônus já não exercem o mesmo fascínio. A busca por um propósito, a chegada de uma nova geração ao mercado e a reinvenção dos escritórios convergem para um ideal há muito negligenciado: a felicidade no trabalho.Entre a teoria dos estudos acadêmicos e a vida real do cotidiano corporativo, o autor apresenta uma série de reflexões essenciais sobre o propósito e os valores envolvidos no trabalho. Ao final deste livro, o leitor descobrirá por que a felicidade no trabalho é, sim, uma utopia possível. E como essa descoberta pode revolucionar a sua empresa – e a sua vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560171316"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8560171312"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aVpGfn6ixwkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aVpGfn6ixwkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aVpGfn6ixwkC&pg=PA98&dq=Gente+de+resultados&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aVpGfn6ixwkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aVpGfn6ixwkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aVpGfn6ixwkC&rdid=book-aVpGfn6ixwkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Felicidade_S_A-sample-epub.acsm?id=aVpGfn6ixwkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aVpGfn6ixwkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Qualquer organização, sobretudo quando grande, acaba atraindo \u003cb\u003egente\u003c/b\u003e fraca do \u003cbr\u003e\nponto de vista ético - e, se tiver juízo, ... cinzentas na empresa, nas quais não \u003cbr\u003e\nestão claros os limites do que pode ou não ser feito na busca por \u003cb\u003eresultados\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zu5xDwAAQBAJ",
+   "etag": "VljEFqMAnCo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zu5xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Tratado Do Estado Humanista",
+    "authors": [
+     "Lewton"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Uma reforma para humanizar o estado - O Estado Humanista O Estado Humanista é uma concepção tipo “ovo de Colombo”, “ela já habita nosso imaginário, porém de forma fragmentada”. Este Estado da Nova Era é, em verdade, um novo arranjo de peças, sistemas e idéias, que estão dispostas em nossa vida cidadã atual. O Estado Humanista não confrontará o ESTADO DESUMANO de FHC, de Lula e de Dilma, ele está incluso na ressonância mórfica da reprodução de modelos evolutivos, na busca pela perfeição. Jesus disse: Vós sois Deuses! Há uma frequência de fundo, seletiva, que já está fazendo a separação do joio do trigo, como numa peneira com um vibrador e com malha específica, para deixar passar o “fino e leve” e reter o “grotesco e pesado”. A energia do Estado Humanista vem do alto e nada poderá detê-lo. Sob o ponto de vista prático, temos a ponderar que a transição do “status quo’” atual do ESTADO DESUMANO se dará em fases, na seguinte visão: 1ª FASE - Perplexidade, a constatação do óbvio e assimilação do tratado. 2ª FASE - Migração do “Estado Desumano” para o “Estado Humanista do 1º grau”. 3ª FASE - Exercício do “Estado Humanista do 1º grau“. 4ª FASE - Rompimento institucional definitivo criando – se o “Estado Humanista” do 2º grau”. 5ª FASE - Exercício do “Estado Humanista do 2º grau”. No texto, do tratado, fazemos uma explicação detalhada de como fazer a migração, ou a transição, do ESTADO DESUMANO para o ESTADO HUMANISTA (1º grau). No capítulo 7 – O Futuro do Estado Humanista, mostramos como será o “Estado Humanista do 2º grau”. A transição completa aos olhos humanos poderá ser de 50 a 75 anos. Mas, existem revelações de que se dará entre 25 a 50 anos. No Estado Humanista será implementada uma nova estrutura de serviços públicos, nos municípios, totalmente voltada para o Índice de Desenvolvimento Humano, conhecido pela sigla IDH. O IDH inclui renda por habitante, esperança de vida ao nascer, taxa de alfabetização e o percentual de matrículas nos 3 níveis de ensino da população em idade de estudar. A Estrutura de Serviços, do Estado Humanista, terá maior ênfase em gerar ações executivas visando a melhoria de cada índice parcial que compõe o IDH e os orçamentos, respectivos, seriam mais bem providos diante de projetos, programas, ou políticas, que com base na voz do cidadão viessem reforçar o crescimento percentual do IDH e de seus indicadores parciais e complementares. Nos momentos de transição, do ESTADO DESUMANO para o ESTADO HUMANISTA, num processo contínuo de aprimoramento de suas ações executivas, ocorrerão os descartes do inútil e do perdulário. Para cada R$ 1,00 tomado do cidadão, como imposto, deverá corresponder R$ 1,00 em resultados concretos para o Desenvolvimento Humano. Hoje estimamos que para cada R$ 5,00 a R$ 7,00, “tomados” do cidadão trabalhador , do empresário e de instituições apenas R$ 1,00 corresponde a resultados concretos ao Desenvolvimento Humano. Já podemos imaginar como existem gorduras e corrupção nos Governos. Um forte exemplo são os Tribunais de Contas e outros mais degradantes. O IDH será um referencial para o estabelecimento do orçamento da União, nos atuais governos. Esse indicador deverá ser o item de controle dos resultados das ações executivas públicas, bem como o critério universal para estabelecer orçamentos ou distribuição de recursos aos Estados e Municípios. O IDH, como meta suprapartidária, “governaria” os vetores de força, energia, inteligência e habilidade em direção ao seu atendimento. Ele é científico e adotado pela ONU, sendo universalmente aceito como medida de desenvolvimento das nações. O Estado Humanista começou a ser divulgado em final de Fevereiro/1999. É muito pouco tempo para avaliar efeitos, ou repercussão, e temos que fazer seminários e eventos para promovê-lo. Cremos que teremos a vencer um forte e poderoso cinturão, o “cinturão de Maya”, as cortinas da ilusão e da letargia. Muitas instituições educacionais e políticas nacionais estão por demais ocupadas com suas rotinas. É preciso um choque de impacto, que mobilize a atuação destes setores á uma nova e próxima realidade. Em verdade gostaríamos que o cidadão, da Nova Era, fosse sensibilizado para acolher o entendimento da proposta do Estado Humanista. Os jovens, que tem aversão ao “status quo” dos sistemas vigentes, poderão ser mobilizados. O Estado Humanista não é truculento, nem esnobe. Ele fluirá utilizando-se de oportunidades como a que a Revista SECULUS nos ofereceu (em 1999, Brasília, DF). Ele não será combatente, nem confrontará o ESTADO DESUMANO. Ele fluirá como a chuva que se infiltra no solo, como as águas subterrâneas, até manifestar-se como um gêiser, criando um lago, mais um lago e enfim um oceano. O Estado Humanista irá operar segundo sua idealização, sob a mais pura e holística das Constituições - A Declaração Universal dos Direitos Humanos. A causa primordial de existência do Estado Humanista é o desenvolvimento humano, amparado pelo desenvolvimento econômico e o fomento educacional. Sendo assim as metas serão suprapartidárias, adotando-se o conceito de melhoria contínua de seu indicador IDH e de seus indicadores parciais.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24103"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zu5xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zu5xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zu5xDwAAQBAJ&pg=PA153&dq=Gente+de+resultados&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zu5xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zu5xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 55.74,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 55.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zu5xDwAAQBAJ&rdid=book-zu5xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.574E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.574E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Tratado_Do_Estado_Humanista-sample-pdf.acsm?id=zu5xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zu5xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... para manutenção de um poder corrupto e com muita \u003cb\u003egente\u003c/b\u003e de má fé e baixa \u003cbr\u003e\nqualificação. Os governos são entrelaçados por \u003cb\u003eresultados\u003c/b\u003e. Um novo governo \u003cbr\u003e\nparte de uma plataforma de \u003cb\u003eresultados\u003c/b\u003e do governo anterior. Este novo governo \u003cbr\u003e\nterá,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i_18cUuRRaUC",
+   "etag": "btN9VUER2HE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i_18cUuRRaUC",
+   "volumeInfo": {
+    "title": "O que Drucker faria agora?",
+    "authors": [
+     "WARTZMAN, RICK"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-03-01",
+    "description": "Um olhar profundo nos assuntos mais prementes dos negócios atuais, através do ponto de vista de Peter Drucker, o pai da administração moderna. O que Drucker faria agora? aborda o melhor de Wartzman, com suas mais atuais colunas, num único volume, oferecendo uma perspectiva nos negócios e na sociedade, que você não irá encontrar em nenhum outro lugar. Trazendo mais de 80 artigos, o livro está organizado em sete seções temáticas: - Administração como uma disciplina - O exercício da administração - Desafios administrativos para o século XXI - Sobre Wall Street e Finanças - Sobre valores e responsabilidade - Setores Público e Social - Arte, música e esporte",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580447064"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580447062"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.17.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i_18cUuRRaUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i_18cUuRRaUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=i_18cUuRRaUC&pg=PT114&dq=Gente+de+resultados&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=i_18cUuRRaUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-i_18cUuRRaUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=i_18cUuRRaUC&rdid=book-i_18cUuRRaUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_Drucker_faria_agora-sample-epub.acsm?id=i_18cUuRRaUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i_18cUuRRaUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... depois organizem para que \u003cb\u003egente\u003c/b\u003e de fora dispute o dinheiro, ou outros \u003cbr\u003e\ndeleites, enquanto tentam solucioná-los. ... um concurso para espelhar o \u003cbr\u003e\ncompromisso que a Netflix possui na obtenção de \u003cb\u003eresultados\u003c/b\u003e, mas precisa ter \u003cbr\u003e\natenção com o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ftXgEvxEDP4C",
+   "etag": "T/EM72DES1Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ftXgEvxEDP4C",
+   "volumeInfo": {
+    "title": "Gente de fora",
+    "subtitle": "vida e trabalho dos assalariados do café em uma região de Minas Gerais",
+    "authors": [
+     "Roberta Brandão Novaes"
+    ],
+    "publisher": "Editora E-papers",
+    "publishedDate": "2011",
+    "description": "Estudo sobre os trabalhadores temporários e sua inserção na moderna (e cada vez mais mecanizada) agricultura de larga escala",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576503019"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576503018"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 197,
+    "printType": "BOOK",
+    "categories": [
+     "Coffee industry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ftXgEvxEDP4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ftXgEvxEDP4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ftXgEvxEDP4C&pg=PA15&dq=Gente+de+resultados&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ftXgEvxEDP4C&dq=Gente+de+resultados&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gente_de_fora.html?hl=&id=ftXgEvxEDP4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ftXgEvxEDP4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro de Roberta Novaes, \u003cb\u003eresultado\u003c/b\u003e de sua dissertação de mestrado, é fruto de \u003cbr\u003e\numa experiência de pesquisa em que a autora, ao se deslocar para o centro de \u003cbr\u003e\numa das regiões que certamente podem ser consideradas emblemáticas do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WMc2DwAAQBAJ",
+   "etag": "CKTLNCgF1/o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WMc2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Líder de resultado",
+    "subtitle": "O poder da gestão que entende de gente, desenvolve pessoas e multiplica resultados",
+    "authors": [
+     "Elias Leite"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2017-10-06",
+    "description": "Qual é o maior segredo de um negócio de sucesso? Diferentemente do que muitos acreditam, o segredo do sucesso de um negócio está nas pessoas que fazem parte dele, e é exatamente esse quesito que mais precisa da atenção de um líder. A principal função de um gestor é conseguir resultados desenvolvendo pessoas lideradas por ele, sabendo motivá-las nos momentos difíceis e incentivá-las a crescer cada vez mais nos momentos prósperos. Essas competências são o que transformam um cargo de chefia em uma gestão ciente, eficaz, bem-sucedida e humana. Neste livro, Elias Leite nos mostra como podemos nos transformar em verdadeiros líderes de resultado e também: - Qual a melhor abordagem e momento para um feedback; - De qual maneira um líder deve direcionar a sua equipe para gerar os melhores resultados; - Como aplicar inteligência emocional no seu dia a dia profissional; - Como ser resiliente e superar uma queda; - E muito mais! Entenda a sua equipe. Lidere de maneira eficaz. Busque e atinja resultados continuamente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545201946"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "854520194X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WMc2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WMc2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WMc2DwAAQBAJ&printsec=frontcover&dq=Gente+de+resultados&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WMc2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WMc2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WMc2DwAAQBAJ&rdid=book-WMc2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.511E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/L%C3%ADder_de_resultado-sample-epub.acsm?id=WMc2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/L%C3%ADder_de_resultado-sample-pdf.acsm?id=WMc2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WMc2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, Elias Leite nos mostra como podemos nos transformar em verdadeiros líderes de resultado e também: - Qual a melhor abordagem e momento para um feedback; - De qual maneira um líder deve direcionar a sua equipe para gerar os ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JVTXAgAAQBAJ",
+   "etag": "D641W8ATE2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JVTXAgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Cérebro de alta performance",
+    "authors": [
+     "Luiz Fernando Garcia"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "NAS LISTAS DOS MAIS VENDIDOS! Treine uma mente de alta performance e mude o seu futuro Todos os dias você toma decisões, e todas elas têm algum nível de importância e poder de definir seu sucesso ou seu fracasso. Entretanto, quanto dessas decisões é consciente e racional? Quantas vezes perdemos o controle das situações e acabamos agindo por impulso, causando impressões erradas sem perceber? Você tem certeza de que sua percepção está alinhada com a realidade e que consegue usufruir do melhor das oportunidades? A alta performance da mente pode mudar o resultado de seus projetos e planos, e ela só depende de treinamento para ser alcançada. O segredo para usar o potencial total do aparelho mental está no treino das capacidades atribuídas ao nosso cérebro, e principalmente ao córtex pré-frontal, no qual o processo de julgamento de nossas decisões acontece. Ao controlar o juiz de nossas atitudes, somos donos de nossas percepções – e também das impressões que causamos nos outros, seja em uma apresentação, em um primeiro encontro ou em uma reunião decisiva. Descubra o poder da orientação para resultados e caminhe com Luiz Fernando Garcia pelos tesouros que você sequer imaginou que guardava.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573129182"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573129182"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JVTXAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JVTXAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JVTXAgAAQBAJ&pg=PT38&dq=Gente+de+resultados&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JVTXAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JVTXAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JVTXAgAAQBAJ&rdid=book-JVTXAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.061E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_C%C3%A9rebro_de_alta_performance-sample-epub.acsm?id=JVTXAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_C%C3%A9rebro_de_alta_performance-sample-pdf.acsm?id=JVTXAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JVTXAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como orientar seu cérebro para \u003cb\u003eresultados\u003c/b\u003e e aproveitar todo o seu potencial de \u003cbr\u003e\nrealização Luiz Fernando Garcia. variância biopsicossocial, em que 50% são “\u003cbr\u003e\nbio” e 50% vêm da criação e de modelos que explicarei adiante. Depois de \u003cbr\u003e\n1.200&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-WKXO5ax7EwC",
+   "etag": "VHFcRumbiUA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-WKXO5ax7EwC",
+   "volumeInfo": {
+    "title": "Archivo pittoresco",
+    "publishedDate": "1859",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89012125613"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portugal"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-WKXO5ax7EwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-WKXO5ax7EwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-WKXO5ax7EwC&pg=PA92&dq=Gente+de+resultados&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-WKXO5ax7EwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--WKXO5ax7EwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=-WKXO5ax7EwC&rdid=book--WKXO5ax7EwC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-WKXO5ax7EwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(1) Com receio dos \u003cb\u003eresultados\u003c/b\u003e daquela intimidade politica em Londres, \u003cbr\u003e\nprocurava Catharina de Médicis com grande ... Chegando-se a ajustar &quot;y D. \u003cbr\u003e\nAntonio assentasse almirantado na Villa de Willemstadt; empregasse capitães e \u003cbr\u003e\n\u003cb\u003egente\u003c/b\u003e de&nbsp;..."
+   }
+  }
+ ]
+}

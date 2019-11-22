@@ -1,0 +1,935 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 128,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "E79p-7ZvqEMC",
+   "etag": "K+mwPWKAj4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E79p-7ZvqEMC",
+   "volumeInfo": {
+    "title": "Bilionários por acaso",
+    "authors": [
+     "Ben Mezrich"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Best-seller do The New York Times, Bilionários por acaso é uma narrativa em alta voltagem sobre dois estudantes desajustados de Harvard que tentavam aumentar suas chances com o sexo oposto e terminaram criando o Facebook. Protagonizada pelo brasileiro Eduardo Saverin, estudante de economia, e pelo norte-americano Mark Zuckerberg, gênio da informática - amigos que sobreviviam num ambiente repleto de alunos brilhantes de famílias supertradicionais - mostra a trajetória da criação da rede social que se tornou uma das mais poderosas empresas do mundo e que revolucionou a maneira como milhões de pessoas se relacionam. Ben Mezrich revela os detalhes picantes dos bastidores dessa verdadeira saga, em uma narrativa movida a altas doses de paranoia, sexo, bebida, talento, alguma droga e muita ambição, entre investidores poderosos, mulheres maravilhosas, a busca do estrelato social e muitas, mas muitas intrigas. Criado para unir as pessoas, a história do Facebook é de desavenças e separação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570779"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570778"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=E79p-7ZvqEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=E79p-7ZvqEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=E79p-7ZvqEMC&printsec=frontcover&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=E79p-7ZvqEMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-E79p-7ZvqEMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=E79p-7ZvqEMC&rdid=book-E79p-7ZvqEMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Bilion%C3%A1rios_por_acaso-sample-epub.acsm?id=E79p-7ZvqEMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Bilion%C3%A1rios_por_acaso-sample-pdf.acsm?id=E79p-7ZvqEMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E79p-7ZvqEMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Best-seller do The New York Times, Bilionários por acaso é uma narrativa em alta voltagem sobre dois estudantes desajustados de Harvard que tentavam aumentar suas chances com o sexo oposto e terminaram criando o Facebook."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cp04Wj-CIhYC",
+   "etag": "fTj7lFuEHz8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cp04Wj-CIhYC",
+   "volumeInfo": {
+    "title": "O Mundo Segundo Mark ZuckeRBErg",
+    "subtitle": "As Frases Mais Inspiradoras do Gênio por Trás do Facebook",
+    "authors": [
+     "George Beahm"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2017-10-05",
+    "description": "Mark Zuckerberg, o mais jovem nomeado A Pessoa do Ano pela revista Time desde Charles Lindbergh, cresceu tão rapidamente quanto à empresa fundada por ele em um dormitório de Harvard, em 2004; O apetite do público por insights sobre o Facebook e seu fundador parece quase insaciável; Há uma curiosidade tremenda sobre a personalidade e estilo de gerenciamento de Zuckerberg, desde que retratos ficcionais dele em Hollywood e rumores em Wall Street pintaram um amplo quadro do jovem CEO que acaba sendo só uma fração da verdade; O potencial do Facebook é desconhecido, mas a chave para o sucesso depende das próprias ideias e visões de seu líder; Este livro mostra seus insights mais provocadores, pesquisados e escolhidos por George Beahm, autor do best-seller O mundo segundo Steve Jobs; Em O mundo segundo Mark Zuckerberg, ele lança luz sobre Zuckerberg e a companhia criada por ele, enfatizando insights, estratégias de negócio e lições aprendidas; É leitura essencial para pessoas a procura de soluções aplicáveis a seus negócios, independente de tamanho, sendo um presente ideal ou referência para qualquer pessoa interessada no mais novo ícone de negócios americano",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535263626"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535263624"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.11.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cp04Wj-CIhYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cp04Wj-CIhYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cp04Wj-CIhYC&pg=PT104&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cp04Wj-CIhYC&dq=Bilion%C3%A1rios+por+acaso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Mundo_Segundo_Mark_ZuckeRBErg.html?hl=&id=cp04Wj-CIhYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_Segundo_Mark_ZuckeRBErg-sample-epub.acsm?id=cp04Wj-CIhYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cp04Wj-CIhYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eBilionários por acaso\u003c/b\u003e: a criação do Facebook (Intrínseca, 2010), de Ben Mezrich, \u003cbr\u003e\nformado em Harvard, é um relato sobre a empresa com toques de ficção. O filme \u003cbr\u003e\nA rede social, sucesso de público e crítica, baseia-se nesse livro. Mezrich&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DxZPRGW3Q5YC",
+   "etag": "BfM5hqT2ySc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DxZPRGW3Q5YC",
+   "volumeInfo": {
+    "title": "O efeito facebook",
+    "authors": [
+     "David Kirkpatrick"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Essa história já foi contada: tudo começou como uma novidade entre estudantes no alojamento de uma das universidades mais exclusivas e prestigiadas do mundo. Em pouco tempo o Facebook transformou-se numa empresa com mais de 500 milhões de usuários e obteve um dos mais vertiginosos crescimentos já registrados na história. Na versão de Ben Mezrich, em Bilionários por acaso, para atingir o sucesso, Mark Zuckerberg - fundador e CEO da empresa - enganou Divya Narendra e os sócios, os irmãos Winklevoss, e, por influência do controverso Sean Parker, um dos criadores do Napster, passou por cima de seu amigo e sócio, o brasileiro Eduardo Saverin. Em O efeito Facebook, de David Kirkpatrick, Mark Zuckerberg, eleito o Homem do Ano pela revista Time, conta a sua versão, endossada pelos principais executivos da empresa. Ex-editor sênior de Internet e tecnologia da revista Fortune, o autor não se restringe à gênese da rede social mais popular do mundo, mas analisa seu impacto na vida social de adolescentes e de adultos no mundo inteiro.. Kirkpatrick mostra como Zuckerberg, um jovem de 19 anos, estudante de Harvard, recusou-se de forma categórica e sistemática a comprometer suas ideias, insistindo em manter o foco no crescimento e não nos lucros, e proclamou que o Facebook deve dominar (palavras dele) a comunicação na Internet.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570359"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570352"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DxZPRGW3Q5YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DxZPRGW3Q5YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DxZPRGW3Q5YC&printsec=frontcover&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DxZPRGW3Q5YC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DxZPRGW3Q5YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DxZPRGW3Q5YC&rdid=book-DxZPRGW3Q5YC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_efeito_facebook-sample-epub.acsm?id=DxZPRGW3Q5YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_efeito_facebook-sample-pdf.acsm?id=DxZPRGW3Q5YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DxZPRGW3Q5YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em O efeito Facebook, de David Kirkpatrick, Mark Zuckerberg, eleito o Homem do Ano pela revista Time, conta a sua versão, endossada pelos principais executivos da empresa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NV1tDwAAQBAJ",
+   "etag": "BEy4h3tueq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NV1tDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Clube dos Bilionários Dueto",
+    "authors": [
+     "Sky Corgan"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2018-08-28",
+    "description": "Dois bilionários bonitos. Dois romances completos. Um clube muito sexy. Quentes, bem-dotados e ricos. O trabalho deles é realizar todas as suas fantasias. Por apenas um mês, experimente uma intimidade alucinante com a qual você sempre sonhou. Bem-vinda ao clube dos bilionários! Este dueto inclui dois romances completos, totalizando mais de 600 páginas quentes escaldantes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781547546916"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1547546913"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NV1tDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NV1tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NV1tDwAAQBAJ&pg=PT160&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NV1tDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NV1tDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NV1tDwAAQBAJ&rdid=book-NV1tDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NV1tDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na primeira vez, pensei que poderia ter sido um \u003cb\u003eacaso\u003c/b\u003e. Mas agora eu sei que \u003cbr\u003e\nele quis dizer isso.&quot; &quot;E como você se sente sobre ele?&quot; Ele se move \u003cbr\u003e\ndesconfortavelmente, e não posso deixar de ter a sensação de que ele não \u003cbr\u003e\ngosta do assunto."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NPdqDwAAQBAJ",
+   "etag": "lauLVuqcquE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NPdqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Trabalhando no Clube dos Bilionários",
+    "authors": [
+     "Sky Corgan"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2018-08-13",
+    "description": "Agora recrutando voluntários! Procurando por dez homens super-ricos dispostos a agradar algumas senhoras sortudas por uma boa causa. Requisitos: Você deve fazer pelo menos um bilhão de dólares anualmente. Você deve ser quente como o inferno. Você deve ser um garanhão no quarto. Deveres do trabalho: Trate nossas clientes como as rainhas que são. Cumpra todas as suas fantasias enquanto desfrutam de sua estadia em nosso resort de última geração. Você terá acesso a todas as nossas comodidades e salas de fantasia para que você possa criar a melhor experiência para nossas clientes. O Clube dos Bilionários é uma organização sem fins lucrativos. As clientes pagam um bom dinheiro pelo seu tempo, e todos os rendimentos vão para uma instituição de caridade de sua escolha. Faça algo grande para sua comunidade e divirta-se no processo. Junte-se ao Clube dos Bilionários!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781547544851"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1547544856"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NPdqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NPdqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NPdqDwAAQBAJ&pg=PT140&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NPdqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NPdqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.6,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NPdqDwAAQBAJ&rdid=book-NPdqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.16E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.16E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NPdqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se não consigo achar em meu coração perdoá-lo, isso significa que o Clube dos \u003cbr\u003e\n\u003cb\u003eBilionários\u003c/b\u003e vai ter que fechar? Eu nem quero fatorar ... Eu não sou apenas \u003cbr\u003e\nalguém que você fode e com quem você por \u003cb\u003eacaso\u003c/b\u003e se importa.” Eu gesticulo \u003cbr\u003e\npara&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ee1wDwAAQBAJ",
+   "etag": "I3XJppoC0TY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ee1wDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O acaso e a matemática",
+    "subtitle": "um romance de suspense e aventura",
+    "authors": [
+     "Celso M. Possas"
+    ],
+    "publisher": "Celso Macedo Possas Junior MEI - Editora Itapuca",
+    "publishedDate": "2018-09-03",
+    "description": "Um engenheiro, honesto e trabalhador, se recusa a participar de fraudes em uma grande obra, desafiando uma perigosa organização e colocando sua vida em risco. Seu filho, Luizinho, é um menino apaixonado por livros e pela matemática. Ele usa o que aprende na literatura para resolver coisas do dia-a-dia e ajudar seus amigos no colégio. Será que o garoto conseguirá usar seus cálculos e aprendizados em uma situação de grande perigo para sua família?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788592797577"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8592797578"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ee1wDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ee1wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ee1wDwAAQBAJ&pg=PT8&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ee1wDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ee1wDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ee1wDwAAQBAJ&rdid=book-Ee1wDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_acaso_e_a_matem%C3%A1tica-sample-epub.acsm?id=Ee1wDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_acaso_e_a_matem%C3%A1tica-sample-pdf.acsm?id=Ee1wDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ee1wDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Todas elas mostravam custos quase \u003cb\u003ebilionários\u003c/b\u003e, absurdamente acima dos \u003cbr\u003e\nvalores previstos nos contratos originais, em razão de preços superfaturados, \u003cbr\u003e\ncom a conveniência de funcionários das contratadas. – É por isso que \u003cbr\u003e\naconteceram os&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RXlvDwAAQBAJ",
+   "etag": "4CsazZHXSlU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RXlvDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Fracasso e acaso",
+    "subtitle": "Uma reflexāo sobre erros, acertos e o papel do aleatório em nossas vidas",
+    "authors": [
+     "Ricardo Horowicz",
+     "Luiz Alberto Py"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2018-10-08",
+    "description": "Em 17 de janeiro de 1912, um grupo de exploradores liderado pelo oficial britânico Robert Falcon Scott atingiu, após enfrentar frio, fome e cansaço, seu objetivo — a conquista do Polo Sul. Infelizmente, para os homens que ali chegavam, o adjetivo \"inédito\" não podia ser empregado ao feito — outra expedição havia realizado a façanha apenas um mês antes. A eles nada restou exceto dar as costas e iniciar a viagem de volta — que jamais seria concluída.Um século depois, em 2012, outro grupo de britânicos — pesquisadores da Cass Business School — resolveu colocar à prova a tese do economista Burton Malkiel, de que \"um macaco de olhos vendados lançando dardos na página de finanças de um jornal é capaz de escolher um portfólio de investimentos com desempenho tão bom quanto um montado criteriosamente por especialistas\". Malkiel estava errado: praticamente todos os dez milhões de índices gerados aleatoriamente pelos pesquisadores apresentaram resultados melhores do que os selecionados por profissionais.Que lições estas histórias nos trazem? Poderíamos dizer que a expedição de Scott foi um fracasso — invalidando uma empreitada de mais de três anos por um atraso de meros trinta dias? Teríamos coragem de entregar nossas decisões financeiras, nossas decisões pessoais, ao acaso — ignorando inteiramente a opinião de especialistas e até mesmo nossa própria intuição?Analisando erros e acertos em nossas trajetórias, o físico Ricardo Horowicz e o psicanalista Luiz Alberto Py se debruçam sobre temas como amor, inveja, finanças, sucesso e arrependimento para questionar se temos afinal controle sobre os acontecimentos em nossas vidas, o quanto somos responsáveis por nossas derrotas (ou por nossas conquistas), e quais as lições que podemos tirar a partir disso para transformar nossa relação com o mundo e com nós mesmos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581227566"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581227562"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RXlvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RXlvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RXlvDwAAQBAJ&pg=PT16&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RXlvDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RXlvDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RXlvDwAAQBAJ&rdid=book-RXlvDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.176E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fracasso_e_acaso-sample-epub.acsm?id=RXlvDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fracasso_e_acaso-sample-pdf.acsm?id=RXlvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RXlvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Brian passou de possível engenheiro de software de uma boa firma a um dos \u003cbr\u003e\nmaiores \u003cb\u003ebilionários\u003c/b\u003e do planeta. Sem dúvida, um caso de otimismo seguido de (\u003cbr\u003e\nmas não necessariamente gerando) um sucesso. Infelizmente, as muitas \u003cbr\u003e\nhistórias&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lyzuBgAAQBAJ",
+   "etag": "4YQO+8ZCtgo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lyzuBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Aprendiz por acaso",
+    "authors": [
+     "Vikas Swarup"
+    ],
+    "publisher": "Editora Paralela",
+    "publishedDate": "2015-02-12",
+    "description": "Sapna Sinha é uma jovem vendedora de eletrodomésticos na caótica cidade de Déli. Ela detesta o seu trabalho, mas é ambiciosa, inteligente e sabe que, sem o salário que ganha, sua família não sobrevive. Ao sair da loja em seu horário de almoço, ela é abordada por Vinay Mohan Acharya, CEO do Grupo ABC, um verdadeiro império de negócios que vale 10 bilhões de dólares. Mal imagina ela que sua vida está a prestes a mudar para sempre. Acharya está procurando um herdeiro para a sua empresa gigantesca, e decidiu que Sapna – essa jovem com olhar determinado - é uma forte candidata para assumir esta posição. Há apenas uma exigência: ela deve passar por sete testes, pensados para medir sua valentia e seu caráter. Mas será que os sete testes são reais ou estaria Acharya apenas jogando um jogo perverso com Sapna?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543802800"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543802806"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.9.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lyzuBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lyzuBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lyzuBgAAQBAJ&pg=PT162&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lyzuBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lyzuBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lyzuBgAAQBAJ&rdid=book-lyzuBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Aprendiz_por_acaso-sample-epub.acsm?id=lyzuBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Aprendiz_por_acaso-sample-pdf.acsm?id=lyzuBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lyzuBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas quando chegamos ao endereço de entrega, percebemos que chegamos à \u003cbr\u003e\nresidência de um \u003cb\u003ebilionário\u003c/b\u003e. Uma equipe de seguranças em blazers e óculos \u003cbr\u003e\nescuros, equipados com walkietalkies e microfones auriculares, nos interdita nos\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VWHFZRdQdxAC",
+   "etag": "ZnT7CjPp7eE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VWHFZRdQdxAC",
+   "volumeInfo": {
+    "title": "Coração de bilionário",
+    "authors": [
+     "Ruth Cardello"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-04-01",
+    "description": "Dominic Corisi soube imediatamente que Abigail Dartley era o passatempo perfeito que procurava, principalmente quando ela se mostrou um pouco mais desafiadora do que ele estava acostumado. Então, quando precisa viajar à China a trabalho, decide levá-la, mas sob suas condições. Sem promessas. Sem complicações. Apenas sexo. Abby sempre foi uma mulher responsável. Jamais esteve disposta a correr riscos, especialmente quando se tratava de homens - isso até conhecer Dominic. Ele consegue ser ao mesmo tempo desconcertante e encantador. A viagem dos dois à China desperta um lado de Abby há muito esquecido, que a faz pensar no enorme perigo que corre ao estar acompanhada por Dominic. Quando o futuro de Dominic é posto em causa, Abby tem duas opções: interferir na última aposta empresarial que ele fez, salvando sua empresa; ou aceitar seu papel de amante, não se envolver, e abandonar seu grande amor à própria sorte. Será que ela o ama tanto a ponto de correr o risco de perdê-lo para conseguir salvar a fortuna de Dominic?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580447842"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580447844"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.17.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VWHFZRdQdxAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VWHFZRdQdxAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VWHFZRdQdxAC&pg=PT30&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VWHFZRdQdxAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VWHFZRdQdxAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.59,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VWHFZRdQdxAC&rdid=book-VWHFZRdQdxAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.259E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cora%C3%A7%C3%A3o_de_bilion%C3%A1rio-sample-epub.acsm?id=VWHFZRdQdxAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VWHFZRdQdxAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nada parecia ser feito ao \u003cb\u003eacaso\u003c/b\u003e. A moça a que todo mundo chamava de Abby \u003cbr\u003e\nhavia assumido a responsabilidade de criar sua irmã caçula depois que os pais \u003cbr\u003e\ndelas morreram. Ela era uma pessoa bastante respeitada em seu bairro, tinha \u003cbr\u003e\num&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JbEevgAACAAJ",
+   "etag": "Ks7hf0/PelY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JbEevgAACAAJ",
+   "volumeInfo": {
+    "title": "O Coração Do Bilionário",
+    "subtitle": "A Obsessão Do Bilionário - Sam",
+    "authors": [
+     "J. S. Scott"
+    ],
+    "publishedDate": "2016-08-17",
+    "description": "O Coracao do Bilionario (A Obsessao do Bilionario - Sam) GENERO: Romance adulto erotico contemporaneo Observacao da autora: Este romance e a historia completa de Sam e Maddie, mas recomendo ler primeiro A Obsessao do Bilionario - A Colecao Completa (a historia de Simon e Kara) para enriquecer a leitura. Sam e Maddie estao aqui! O bilionario Sam Hudson viveu praticamente a vida inteira sem pedir desculpas, pois tenta nunca fazer nada do que possa se arrepender... exceto pelo que fez no passado a dra. Madeline Reynolds. Depois de muitos anos e muito arrependimento, Sam se encontra novamente com Maddie por acaso. Com o casamento do irmao dele, Simon, com a melhor amiga de Maddie, os dois sao forcados a serem civilizados. Mas Sam quer mais do que ser apenas educado. Quer outra chance de consertar o passado e faz uma proposta ousada a Maddie. Uma oferta que sabe que ela tera dificuldades em recusar, apesar de odia-lo. A dra. Madeline Reynolds adora Kara, sua melhor amiga, e Simon, noivo dela. Mas ser forcada a aguentar a companhia de Sam Hudson no casamento de Simon e Kara e pura tortura. Ela odiou Sam por anos, mas, quando ele lhe faz uma oferta, algo que lhe toca o coracao, Maddie fica dividida entre o odio pelo homem e a oferta de algo que sempre quisera desesperadamente. Uma vez, Sam Hudson quase a destruira. Mas Maddie descobre que, algumas vezes, as coisas nao sao como parecem. Sam e realmente um conquistador barato ou ha algo mais sob a superficie? Duas pessoas, com tantos anos de dor entre elas, podem aprender a confiar uma na outra novamente? Atencao: este e um romance erotico e nao e apropriado para leitores jovens. O livro contem cenas de sexo explicitas, linguagem e situacoes que nao sao apropriadas para leitores jovens.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1939962781"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781939962782"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 170,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JbEevgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JbEevgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JbEevgAACAAJ&dq=Bilion%C3%A1rios+por+acaso&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JbEevgAACAAJ&dq=Bilion%C3%A1rios+por+acaso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Cora%C3%A7%C3%A3o_Do_Bilion%C3%A1rio.html?hl=&id=JbEevgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JbEevgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Coração do Bilionário (A Obsessão do Bilionário - Sam) GÊNERO: Romance adulto erótico contemporâneo Observação da autora: Este romance é a história completa de Sam e Maddie, mas recomendo ler primeiro A Obsessão do ..."
+   }
+  }
+ ]
+}

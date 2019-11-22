@@ -1,0 +1,446 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 5,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TL8hvgAACAAJ",
+   "etag": "ui5YUR3eGJw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TL8hvgAACAAJ",
+   "volumeInfo": {
+    "title": "BRINCANDO COM PEPPA -",
+    "subtitle": "A PARTIR DE 5 ANOS",
+    "authors": [
+     "MARK BAKER",
+     "NEVILE ASTLEY"
+    ],
+    "description": "'Brincando com Peppa' é um livro de atividades que propõem o desenho e a pintura de forma livre, a interação com a criança fazendo-a refletir sobre determinados assuntos e o contato com palavras simples, que fazem parte do universo da personagem Peppa. Os pais poderão escolher o livro específico com as atividades próprias à idade da criança, e poderão ajudá-la em cada um dos desafios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8516091376"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788516091378"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TL8hvgAACAAJ&dq=Brincando+com+Peppa+-+5+anos&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TL8hvgAACAAJ&dq=Brincando+com+Peppa+-+5+anos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BRINCANDO_COM_PEPPA.html?hl=&id=TL8hvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TL8hvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Brincando com Peppa&#39; é um livro de atividades que propõem o desenho e a pintura de forma livre, a interação com a criança fazendo-a refletir sobre determinados assuntos e o contato com palavras simples, que fazem parte do universo da ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p1EvDwAAQBAJ",
+   "etag": "SPiB7OaFmkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p1EvDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Peppa Pig - Livro A História Oficial 01",
+    "authors": [
+     "On Line Editora",
+     "Peppa On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-08-03",
+    "description": "Conheça tudo sobre a Peppa Pig! Veja as fotos exclusivas e as curiosidades sobre os principais personagens do desenho e descubra quais são as brincadeiras favoritas e os passeios mais legais dessa turminha.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 35,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=p1EvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=p1EvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=p1EvDwAAQBAJ&pg=PA6&dq=Brincando+com+Peppa+-+5+anos&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=p1EvDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-p1EvDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=p1EvDwAAQBAJ&rdid=book-p1EvDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p1EvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sou uma porquinho muito feliz, tenho \u003cb\u003e5 anos\u003c/b\u003e e adoro viver 9randes aventuras. \u003cbr\u003e\nMoro com a minho mamãe, o meu Papai e o C O. meu irmãozinho George em \u003cbr\u003e\numa caso no topo de uma cotina. Adoro \u003cb\u003ebrincar\u003c/b\u003e com os meus coleguinhos e, é \u003cbr\u003e\nclaro&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DYd1DwAAQBAJ",
+   "etag": "ZLYz7VuNEgc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DYd1DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Como educar no século XXI?",
+    "subtitle": "O guia antipânico para pais e mães",
+    "authors": [
+     "Pati Curi",
+     "Patricia Chaccur",
+     "Tiago Tamborini"
+    ],
+    "publisher": "Editora Labrador LTDA",
+    "publishedDate": "2018-10-30",
+    "description": "Que filhos são nossos bens mais preciosos, não é novidade. Eles são o melhor pedaço de nós, os amores eternos de nossas vidas, a razão da nossa existência... Tudo lindo. Mas eles também são responsáveis por várias de dores de cabeça, porque educá-los é um desafio e tanto. As crianças e os adolescentes do século XXI nasceram num mundo completamente tecnológico, muito diferente daquele em que fomos criados. Como lidar com bullying, nudes, crianças que não desgrudam do celular? Como orientá-los em relação ao consumo de álcool, muitas vezes presente em festinhas de 15 anos? Como reagir quando querem fazer sexo no quarto ao lado? O que dizer se desistem da faculdade porque decidiram ser youtubers? Da primeira infância à chegada da maioridade, este livro reúne respostas para 21 situações difíceis que muitos pais e mães certamente enfrentarão – mas que não precisam ser motivo de pânico. Patricia Chaccur: Executiva de marketing com longa carreira em multinacionais, Patricia Chaccur liderou a área de comunicação de empresas como Nike e Avn até que, em 2015, tirou um sabático para dedicar-se à função de mãe. Entre idas e vindas à porta da escola do filho, resgatou sua paixão pela escrita e passou a publicar crônicas sobre maternidade e dilemas femininos. Alguns desses textos foram apresentados em sua palestra \"Feliz por opção\", a convite do TECx São Paulo. Pati Curi: Apaixonada por educação e todos os seus desdobramentos, Pati Curi é formada em pedagogia pela PUC- SP e atua na área há 28 anos, acompnhando o desenvolvimento dessa ciência e acreditando em seu poder de transformação. No início de 2016, criou e passou a administrar o grupo do Facebook \"Como educar no século XXI\", no qual são promovidos debates reflexivos voltados para mães e pais de crianças e adolescentes. Tiago Tamborini: Tiago Tamborini é psicólogo clínico, especializado no atendimento de crianças e adolescentes pela USP. Iniciou sua carreira trabalhando com pacientes adictos, foi professor universitário e há 15 anos dedica-se o tratamento de jovens e à orientação às famílias. Palestrante e sócio-fundador da UP2U Carreira, já teve a oportunidade de orientar milhares de estudantes no importante processo de desenvolvimento de seus projetos de vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788587740267"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8587740261"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DYd1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DYd1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DYd1DwAAQBAJ&pg=PT19&dq=Brincando+com+Peppa+-+5+anos&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DYd1DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DYd1DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DYd1DwAAQBAJ&rdid=book-DYd1DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_educar_no_s%C3%A9culo_XXI-sample-epub.acsm?id=DYd1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_educar_no_s%C3%A9culo_XXI-sample-pdf.acsm?id=DYd1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DYd1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Experimente pegar uma criança de 4 ou \u003cb\u003e5 anos\u003c/b\u003e, que fica vidrada em desenhos \u003cbr\u003e\nda \u003cb\u003ePeppa\u003c/b\u003e Pig, e colocá-la em um ... vai se surpreender: vai ver sua filha \u003cbr\u003e\nextremamente conectada com essa delícia que é se sujar de tinta, \u003cb\u003ebrincar\u003c/b\u003e de \u003cbr\u003e\nmassinha,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ombBCwAAQBAJ",
+   "etag": "LGQBg+yNO/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ombBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Entre crianças, personagens e monstros",
+    "subtitle": "Uma etnografia de brincadeiras infantis",
+    "authors": [
+     "Guilherme Fians"
+    ],
+    "publisher": "Editora Ponteio - Dumará Distribuidora Lta",
+    "publishedDate": "2016-03-02",
+    "description": "Entre crianças, personagens e monstros é o resultado de uma pesquisa de cunho etnográfico sobre jogos e brincadeiras infantis, feita com crianças da educação infantil e do primeiro segmento do ensino fundamental (de três a sete anos de idade), envolvendo ainda professores, direção da escola e, vez ou outra, pais de alunos. Tarefa ousada para um jovem antropólogo como Guilherme Fians. Os antropólogos clássicos e vitorianos, ao compararem a mentalidade primitiva com a mentalidade infantil, sugerem que, por não estarem cientes das leis da natureza, os povos primitivos explicam os acontecimentos por leis divinas, e, ao não conseguirem perceber as relações causais de forma clara, estariam se enganando. De forma similar, as crianças estariam se enganando ao acreditarem em monstros ou ao \"acharem\" que são super-heróis durante um faz de conta. Do mesmo modo, para etnografar as brincadeiras infantis, o autor não tem como evitar que a sua pesquisa esbarre, todo o tempo, na tradição ontológica arraigada nas noções do que é \"de verdade\" e do que é \"de mentira\", bem como nas regras instáveis das brincadeiras. Colocado de outra maneira, como escapar das distinções fáceis entre \"mundo adulto\" e \"mundo infantil\"? Ou o que é \"sério\" e o que é de \"brincadeira\"? Valendo-se de uma corrente antropológica contemporânea, denominada antropologia simétrica, Guilherme Fians vence com sobras os desafios ao levar realmente a sério os conceitos e práticas que as crianças formulam quando brincam. Ao levar as crianças a sério, o autor elabora uma antropologia que não é simplesmente \"sobre a infância\", mas \"da infância\", no sentido em que é escrita \"do ponto de vista das crianças\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564116931"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564116936"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ombBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ombBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ombBCwAAQBAJ&pg=PT130&dq=Brincando+com+Peppa+-+5+anos&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ombBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ombBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ombBCwAAQBAJ&rdid=book-ombBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Entre_crian%C3%A7as_personagens_e_monstros-sample-epub.acsm?id=ombBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Entre_crian%C3%A7as_personagens_e_monstros-sample-pdf.acsm?id=ombBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ombBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... partir dessas diferentes concepções de quais são os momentos adequados \u003cbr\u003e\npara se \u003cb\u003ebrincar\u003c/b\u003e e para se falar sério constituem alguns dos ... \u003cb\u003ePeppa\u003c/b\u003e é uma \u003cbr\u003e\nporquinha de \u003cb\u003e5 anos\u003c/b\u003e, filha de uma família de porcos, e vive com seus pais e seu \u003cbr\u003e\nirmão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZjWJDAAAQBAJ",
+   "etag": "5IKIoLPSHyY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZjWJDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia Aplicativos e Jogos para Crianças",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2016-06-27",
+    "description": "Os games têm se mostrado importantes para o desenvolvimento das crianças, pois oferecem jogos cada vez mais interativos e capazes de desenvolver as habilidades motoras e psíquicas dos pequenos. Neste guia, você encontra os melhores lançamentos para smartphones, consoles e PCs, com indicação de uso para as diferentes fases da infância, promovendo a diversão em família com atividades pra lá de educativas.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZjWJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZjWJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZjWJDAAAQBAJ&pg=PA4&dq=Brincando+com+Peppa+-+5+anos&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZjWJDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZjWJDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZjWJDAAAQBAJ&rdid=book-ZjWJDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZjWJDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hidden Egg Hunt Jogos para criançasde 0 a 2 \u003cb\u003eanos\u003c/b\u003e 18.Baby Pet VetDoctor ... \u003cbr\u003e\n\u003cb\u003ePeppa\u003c/b\u003e ́s PaintBox 43.Feliz Festa Pig ... The 7D Mine Train Jogos para criançasde \u003cbr\u003e\n2 a \u003cb\u003e5 anos\u003c/b\u003e 28.A Era do Gelo: ... Cocoricó: \u003cb\u003eBrincando\u003c/b\u003e de Pega-Pega 31.Colorama\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

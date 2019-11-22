@@ -1,0 +1,850 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 123,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0KMhllejiPAC",
+   "etag": "PdckwDEso6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0KMhllejiPAC",
+   "volumeInfo": {
+    "title": "Startup Brasil",
+    "authors": [
+     "Pedro Mello",
+     "Marina Vidigal"
+    ],
+    "publisher": "Agir",
+    "publishedDate": "2013-03-05",
+    "description": "Neste livro, os autores Pedro Mello e Marina Vidigal apresentam a trajetória de empreendedores brasileiros que transformaram o país a partir dos seus negócios. Um verdadeiro guia para aquelas pessoas que desejam se aventurar no mundo do empreendedorismo. Um livro repleto de histórias de sucesso que, entre erros e acertos, só se tornaram possíveis por causa de grandes ideias e muita mão na massa.Em Startup Brasil, Pedro Mello e Marina Vidigal nos convidam a conhecer a trajetória de empreendedores brasileiros que transformaram o país a partir de seus negócios. É uma fonte de inspiração e de conselhos para novos empreendedores, um livro recheado de histórias sobre brilho nos olhos, sonhos grandes e insatisfação permanente. Vale a leitura! Rodrigo Telles Presidente da EndeavorStartup Brasil se encaixa perfeitamente no ensino de empreendedorismo, na medida em que a melhor forma de levar o assunto aos jovens é por meio de histórias que inspiram e motivam, instigando o potencial empreendedor que todos eles carregam, mas permanece adormecido até que alguma experiência, própria ou alheia, provoque este despertar. Marcos Hashimoto Professor e coordenador do Centro de Empreendedorismo do InsperLeitura obrigatória para qualquer empreendedor ou pessoa interessada em empreendedorismo de alta performance. José Salibi Neto Diretor de conhecimento da HSM",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522014729"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8522014728"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.23.23.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0KMhllejiPAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0KMhllejiPAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0KMhllejiPAC&pg=PT14&dq=Startup+Brasil&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0KMhllejiPAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0KMhllejiPAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0KMhllejiPAC&rdid=book-0KMhllejiPAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Startup_Brasil-sample-epub.acsm?id=0KMhllejiPAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Startup_Brasil-sample-pdf.acsm?id=0KMhllejiPAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0KMhllejiPAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas, embora muitas empresas do \u003cb\u003eStartup Brasil\u003c/b\u003e tenham tido grandes conquistas \u003cbr\u003e\nsem o auxílio de qualquer tipo de planejamento, elas passaram a adotar \u003cbr\u003e\nsofisticadas ferramentas à medida que os negócios cresceram e se solidificaram."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kNKNDwAAQBAJ",
+   "etag": "tnzcWf5tV28",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kNKNDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ensino de Empreendedorismo no Brasil",
+    "subtitle": "Panorama, tendências e melhores práticas",
+    "authors": [
+     "Rose Mary Almeida Lopes"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2019-03-20",
+    "description": "O ensino de empreendedorismo enseja muitos debates sobre seus objetivos, abordagens, técnicas, impactos e resultados. Também sobre como formar aqueles que vão ensinar ou facilitar esse ensino. Há muitos pesquisadores e professores investigando, pesquisando e publicando sobre o assunto em fóruns acadêmicos especializados, e disseminando-o na sociedade por diversos meios de comunicação. Muitas universidades e faculdades percorreram trajetórias em que acumularam muita experiência. Quer seja no ensino formal, dentro do currículo escolar, que seja fora dele. Várias delas já despontam com lições e resultados muito interessantes. Havia uma oportunidade de oferecer um livro que mostrasse o que está sendo feito no Brasil. Então, procuramos muitos professores e pesquisadores que estão envolvidos com esses esforços. Propositadamente buscamos tanto experiências mais amadurecidas e já renomadas, quanto algumas mais novas. Assim, este livro espera contribuir para a discussão, o avanço e a disseminação do ensino de empreendedorismo (EE). Esperamos que os professores, os coordenadores, os diretores das instituições de ensino superior, os funcionários públicos, os governantes, os políticos e todos os envolvidos e interessados nesse tema tão importante encontrem aqui inspiração, estímulo, ideias, modelos e indicações para a definição estratégica da inserção da educação empreendedora, abordagens e metodologias mais apropriadas e modelos de práticas de sucesso que ajudem a fomentar um ecossistema empreendedor mais efetivo no país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550806419"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550806412"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kNKNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kNKNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kNKNDwAAQBAJ&pg=PT151&dq=Startup+Brasil&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kNKNDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kNKNDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.92,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kNKNDwAAQBAJ&rdid=book-kNKNDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.792E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.792E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ensino_de_Empreendedorismo_no_Brasil-sample-pdf.acsm?id=kNKNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kNKNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesse contexto, o CEU criou o Ninja \u003cb\u003eStartup\u003c/b\u003e Job, um programa de estágio de \u003cbr\u003e\nférias em \u003cb\u003eStartups\u003c/b\u003e para alunos da graduação, que tem como missão desenvolver \u003cbr\u003e\njovens talentos para o ecossistema \u003cb\u003ebrasileiro\u003c/b\u003e de \u003cb\u003estartups\u003c/b\u003e. Nossa proposta&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VXxJvgAACAAJ",
+   "etag": "JdKwi/2HoWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VXxJvgAACAAJ",
+   "volumeInfo": {
+    "title": "O Panorama Das Aceleradoras De Startups No Brasil",
+    "authors": [
+     "Paulo Abreu",
+     "Newton M. Campos"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2016-07-07",
+    "description": "O empreendedorismo é um fenômeno socioeconômico global que está em crescente evidência em nossas vidas. Os empreendedores encontram-se no foco deste fenômeno, motivados não apenas pelo sonho de construir algo próprio, mas principalmente pelo número crescente de oportunidades que as tecnologias e a globalização dos valores de mercado lhes apresenta neste começo de século. É sob este contexto que Abreu e Campos buscam compreender melhor a presença das Aceleradoras de Startups na economia brasileira, mensurando o impacto de sua atividade e as formas pelas quais elas atuam. O Panorama das Aceleradoras de Startups no Brasil apresenta, de forma complementar e inédita, uma análise do papel da ferramenta mais tradicional de planejamento empreendedor - o Plano de Negócio - frente as ferramentas e conceitos explorados mais recentemente no campo do empreendedorismo, tais como Design Thinking, Effectuation, Business Model Canvas ou Lean Startup, nos processos de análise e seleção dos projetos candidatos a aceleração no Brasil. Esta análise é justificada pela noção cada vez mais estudada de que não basta inovar apenas no início ou de uma só vez ao longo do processo empreendedor, mas sim constantemente e de formas muitas vezes improvisadas. Assim, é também sob este debate entre planejamento e controle versus execução e improvisação no processo empreendedor que o presente estudo investiga o papel de conceitos e ferramentas tradicionais e mais recentes na seleção de novos negócios inovadores com potencial de impacto socioeconômico.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1533455562"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781533455567"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 44,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VXxJvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VXxJvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VXxJvgAACAAJ&dq=Startup+Brasil&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VXxJvgAACAAJ&dq=Startup+Brasil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Panorama_Das_Aceleradoras_De_Startups.html?hl=&id=VXxJvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VXxJvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Panorama das Aceleradoras de Startups no Brasil apresenta, de forma complementar e inédita, uma análise do papel da ferramenta mais tradicional de planejamento empreendedor - o Plano de Negócio - frente as ferramentas e conceitos ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vLiUj1h5fhkC",
+   "etag": "IPV+7ZG9skA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vLiUj1h5fhkC",
+   "volumeInfo": {
+    "title": "A startup enxuta",
+    "authors": [
+     "Eric Ries"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-05-01",
+    "description": "Como os empreendedores utilizam a inovação contínua para criar empresas extremamente bem-sucedidas Na vanguarda do empreendedorismo do século 21, Eric Ries criou uma abordagem revolucionária para a administração, que gerou um movimento que está transformando a maneira como os novos produtos são criados, desenvolvidos e lançados. Esses princípios se aplicam a todos aqueles que procuram construir produtos verdadeiramente novos sem desperdício, que podem ser utilizados tanto por startups de empresas de garagem quanto por inovadores presentes nas grandes empresas. Ries, que é empreendedor residente na Harvard Business School, também define desperdício como \"toda atividade que não contribui para se aprender a respeito dos clientes\". Trazendo histórias da vida real e lições aprendidas de algumas das empresas mais dinâmicas da atualidade, o autor descreve um plano para que cada um possa executar os princípios fundamentais da startup enxuta em qualquer projeto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581780139"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858178013X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.38.42.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vLiUj1h5fhkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vLiUj1h5fhkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vLiUj1h5fhkC&pg=PT327&dq=Startup+Brasil&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vLiUj1h5fhkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vLiUj1h5fhkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vLiUj1h5fhkC&rdid=book-vLiUj1h5fhkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_startup_enxuta-sample-epub.acsm?id=vLiUj1h5fhkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vLiUj1h5fhkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É possível que exista uma comunidade de \u003cb\u003estartup\u003c/b\u003e enxuta perto de você. ... No \u003cbr\u003e\n\u003cb\u003eBrasil\u003c/b\u003e há meetups em Campinas, Florianópolis, Joinville e Rio de Janeiro. ... \u003cbr\u003e\nNem todo grupo de \u003cb\u003estartup\u003c/b\u003e enxuta utiliza o site Meetup.com para se organizar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g2SCCwAAQBAJ",
+   "etag": "EnOahOWOB/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g2SCCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia da Startup: Como startups e empresas estabelecidas podem criar produtos web rentáveis",
+    "authors": [
+     "Joaquim Torres"
+    ],
+    "publisher": "Editora Casa do Código",
+    "publishedDate": "2014-04-16",
+    "description": "Aprenda as melhores técnicas para criar o seu produto web e faça ele render dinheiro o mais rápido possível com o Guia da Startup. Da mesma maneira que diversas empresas de sucesso fizeram, como a Caelum e a Locaweb, invista em suas ideias. Conheça todos os nossos livros em www.casadocodigo.com.br.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555190032"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555190037"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g2SCCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g2SCCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g2SCCwAAQBAJ&pg=PT220&dq=Startup+Brasil&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=g2SCCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-g2SCCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=g2SCCwAAQBAJ&rdid=book-g2SCCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guia_da_Startup_Como_startups_e_empresas-sample-epub.acsm?id=g2SCCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guia_da_Startup_Como_startups_e_empresas-sample-pdf.acsm?id=g2SCCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g2SCCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como startups e empresas estabelecidas podem criar produtos web rentáveis \u003cbr\u003e\nJoaquim Torres ... \u003cb\u003eStartup Brasil\u003c/b\u003e, de Marina Vidigal e Pedro Mello, conta a \u003cbr\u003e\nhistória dos fundadores de algumas empresas de sucesso do Brasil: O Boticário,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RcHLCQAAQBAJ",
+   "etag": "iJi84bwSiA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RcHLCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Empreendedorismo inovador: como criar Startups de Tecnologia no Brasil",
+    "authors": [
+     "Coelho, Ana Maria Magni"
+    ],
+    "publisher": "Digitaliza Conteudo",
+    "description": "Empreendedorismo Inovador é voltado a todos que desejem criar negócios relacionados com tecnologia. Escrito por 25 especialistas, aborda várias informações necessárias ao preparo da startup e à condução inicial desse empreendimento, como: o contexto do empreendedorismo no Brasil e o mercado para empresas de tecnologia; a carreira empreendedora e por que vale a pena empreender; as vantagens e desvantagens de se ter sócios e dicas para escolhê-los; elementos de um modelo de negócio; fundamentos de gestão que incluem estratégia, marketing, vendas, finanças, pessoas e tecnologia. A obra trata também de criatividade e inovação, uso de protótipos, networking, busca de recursos financeiros com investidores, apoio de conselheiros e mentores experientes e muito mais. A tudo isso, soma-se ainda a apresentação pelos autores de diversos casos práticos nos capítulos. Finalmente, um livro feito por brasileiros para brasileiros que revela o nosso jeito de empreender com sucesso em tecnologia. AUTORES: • Ana Maria Magni Coelho • Bob Wollheim • Carlos Eduardo Guillaume • Cassio A. Spina • Cezar Taurion • Diego Remus • Edson Mackeenzy • Felipe Matos • Joel Weisz • John Lemos Forman • Leo Kuba • Marcel Malczewski • Marcelo Amorim • Marcelo Nakagawa • Martha Terenzzo • Nathalie Trutmann • Nei Grando • Pedro Mello • Renato Fonseca de Andrade • Robert Edwin Binder • Rodrigo Brito • Rogério Chér • Ronald Jean Degen • Rose Mary Almeida Lopes • Sérgio W. Risola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563993885"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8563993887"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RcHLCQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RcHLCQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RcHLCQAAQBAJ&pg=PA1&dq=Startup+Brasil&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RcHLCQAAQBAJ&dq=Startup+Brasil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Empreendedorismo_inovador_como_criar_Sta.html?hl=&id=RcHLCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RcHLCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TQRTBAAAQBAJ",
+   "etag": "1nRsXcZzXu0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TQRTBAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Menina do vale 2",
+    "authors": [
+     "Bel Pesce"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-08-19",
+    "description": "Um livro recheado de histórias pra você ter uma atitude empreendedora! Quem não se lembra da Menina do Vale, a jovem empreendedora brasileira de sucesso que se formou no prestigiado MIT, trabalhou em empresas como o Google e a Microsoft, criou a sua própria startup no Vale do Silício e publicou um livro digital que só na internet chegou aos 2 milhões de downloads? Pois é, estamos falando de Bel Pesce, que recentemente foi nomeada pela revista Forbes como umas das jovens com menos de 30 anos com mais potencial no país. Depois de sete anos morando nos Estados Unidos, Bel Pesce voltou ao Brasil e decidiu focar seu trabalho na educação de milhares de jovens, fundando a FazINOVA, com a missão de descobrir, desenvolver e conectar pessoas talentosas. Quem conhece a Bel, sabe que ela adora conhecer pessoas e acredita que todos têm algum talento especial, apenas precisam de ajuda para descobrir qual possuem. Este regresso tem sido um aprendizado, e o sentimento mais forte que Bel sente hoje é o de comprometimento. “Empreender é uma baita responsabilidade. Se você entrar nesse mundo entendendo isso, já sairá na frente”, diz a autora. Ela fala bastante sobre isso nesse livro e partilha seus aprendizados mais recentes. Bem-vindo à A Menina do Vale 2, um livro recheado de histórias e razões para você ter uma atitude empreendedora e responsável perante a vida! Sobre o autor: Bel Pesce é empreendedora e fundadora da escola de desenvolvimento de talentos FazINOVA, que já conta com mais de 33 mil alunos. Nascida e criada em São Paulo, Bel estudou no Massachusetts Institute of Technology (MIT). Durante a faculdade, trabalhou na Microsoft, Google e Deutsche Bank. Bel foi nomeada “Jovem empreendedora do ano” pelo Prêmio Jovem Brasil e LIDE, foi listada como uma das “100 pessoas mais influentes do Brasil” pela revista Época, e recentemente foi nomeada um dos 30 jovens mais promissores do Brasil pela revista Forbes. Seu livro A Menina do Vale foi eleito “Melhor livro do ano” pela Arata Academy. Bel também assina uma coluna mensal – Cantinho da Bel - na revista Exame, da editora Abril.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544100707"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544100708"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TQRTBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TQRTBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TQRTBAAAQBAJ&printsec=frontcover&dq=Startup+Brasil&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TQRTBAAAQBAJ&dq=Startup+Brasil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Menina_do_vale_2.html?hl=&id=TQRTBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Menina_do_vale_2-sample-epub.acsm?id=TQRTBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TQRTBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sobre o autor: Bel Pesce é empreendedora e fundadora da escola de desenvolvimento de talentos FazINOVA, que já conta com mais de 33 mil alunos. Nascida e criada em São Paulo, Bel estudou no Massachusetts Institute of Technology (MIT)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ts5MDwAAQBAJ",
+   "etag": "YJxrmUC0EqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ts5MDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Projeto Startup",
+    "subtitle": "Da ideia ao primeiro milhão",
+    "authors": [
+     "Gustavo Teixeira",
+     "João Magalhães"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2018-03-12",
+    "description": "O livro essencial para todos que desejam ingressar no mundo do empreendedorismo. Em Projeto Startup: Da ideia ao primeiro milhão, João Magalhães e Gustavo Teixeira explicam o passo a passo da criação de uma empresa, revelando cada etapa do processo de forma clara e didática. Esse livro tem o intuito de auxiliar todos aqueles que pensam em criar sua própria startup, mas que ainda não sabem por onde começar ou têm dúvidas sobre os métodos. Os autores mostram ao leitor exemplos práticos, apresentando os desafios da vida de um verdadeiro empreendedor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546501229"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "854650122X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ts5MDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ts5MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ts5MDwAAQBAJ&printsec=frontcover&dq=Startup+Brasil&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ts5MDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ts5MDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ts5MDwAAQBAJ&rdid=book-Ts5MDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Projeto_Startup-sample-epub.acsm?id=Ts5MDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Projeto_Startup-sample-pdf.acsm?id=Ts5MDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ts5MDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Projeto Startup: Da ideia ao primeiro milhão, João Magalhães e Gustavo Teixeira explicam o passo a passo da criação de uma empresa, revelando cada etapa do processo de forma clara e didática."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LFMWz1V0-KYC",
+   "etag": "eWQMqwgE0wc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LFMWz1V0-KYC",
+   "volumeInfo": {
+    "title": "O jogo das startups",
+    "subtitle": "Por dentro da parceria entre os investidores de risco e os empreendedores",
+    "authors": [
+     "William Iii"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2012-01-18",
+    "description": "Empreendedores conduzem o futuro, e as últimas décadas tem sido um emocionante trajeto de inovação e crescimento; Por trás desse progresso transformador estão os investidores de risco (Venture) treinadores e aliados dos empreendedores; William H Draper III conhece esta história em primeira mão porque como um investidor de risco ele ajudou a escrevê-la; O jogo das startups evidencia como a relação entre os investidores de risco e os empreendedores é fundamental para aumentar o sucesso de qualquer economia; Ele conseguiu enxergar o potencial do Skype, Hotmail, OpenTable, e muitas outras companhias; Neste livro, Draper explora como avaliar idéias inovadoras e os empreendedores por trás delas; O autor compartilha lições do Yahoo, Zappos, Baidu, Tesla Motors, Activision, Measurex e muito mais; Além disso, ele narra como Deng Siaoping trouxe a China para o mundo moderno e como Manmohan Singh destravou o gênio criativo dos empreendedores da Índia; Draper enfatiza o valor essencial de liderança política perspicaz na criação de oportunidades e apresenta seus esforços para trazer a experiência da sociedade entre empreendedores e investidores de risco para a área social;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535252040"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535252045"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LFMWz1V0-KYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LFMWz1V0-KYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LFMWz1V0-KYC&pg=PA209&dq=Startup+Brasil&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LFMWz1V0-KYC&dq=Startup+Brasil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_jogo_das_startups.html?hl=&id=LFMWz1V0-KYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LFMWz1V0-KYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... queria começar minha \u003cb\u003estartup\u003c/b\u003e. minhas ideias originais para negócios \u003cbr\u003e\nenvolviam música digitalizada, um submarino revolucionário, um sistema de \u003cbr\u003e\nimagens holográfico e em 3d que se movimentava, uma bolsa de valores fora \u003cbr\u003e\ndos estados&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UTtKuQEACAAJ",
+   "etag": "Gc7aJRmdekI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UTtKuQEACAAJ",
+   "volumeInfo": {
+    "title": "O Estilo Startup",
+    "subtitle": "COMO AS EMPRESAS MODERNAS USAM O EMPREENDEDORISMO",
+    "authors": [
+     "Eric Ries",
+     "Carlos Szlak"
+    ],
+    "publishedDate": "2018-07-30",
+    "description": "Eric Ries revela como os princípios do empreendedorismo podem ser utilizados por negócios de todo o tipo - de empresas já consagradas até startups iniciantes -, gerando receita, promovendo inovação e transformando-os em organizações verdadeiramente modernas, prontas para usufruir as enormes oportunidades que se apresentam na atualidade. Ries introduz um sistema de gerenciamento empreendedor capaz de conduzir empresas de todos os portes e setores para um crescimento sustentável e de impacto a longo prazo. Recheado de casos extraídos dessas companhias, insights e valiosas ferramentas, 'O Estilo Startup' é um guia para toda e qualquer organização.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8544107338"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544107331"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UTtKuQEACAAJ&dq=Startup+Brasil&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UTtKuQEACAAJ&dq=Startup+Brasil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Estilo_Startup.html?hl=&id=UTtKuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UTtKuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Recheado de casos extraídos dessas companhias, insights e valiosas ferramentas, &#39;O Estilo Startup&#39; é um guia para toda e qualquer organização."
+   }
+  }
+ ]
+}

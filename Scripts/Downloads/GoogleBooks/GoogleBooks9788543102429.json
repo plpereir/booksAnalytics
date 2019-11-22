@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PpdevgAACAAJ",
+   "etag": "PO4vRE6OaHc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PpdevgAACAAJ",
+   "volumeInfo": {
+    "title": "OCEANO PERDIDO",
+    "subtitle": "LIVRO DE COLORIR E AVENTURA SUBMARINA",
+    "authors": [
+     "JOHANNA BASFORD",
+     "RENATA DIB"
+    ],
+    "description": "Em \"Oceano perdido\", Johanna Basford convida artistas de todas as idades a descobrir um mundo encantador escondido nas profundezas do mar. Ilustrações ricas em detalhes vão revelar peixes exóticos, polvos e cavalos-marinhos, abrindo um mundo de possibilidades para os amantes das cores e das tintas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8543102421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543102429"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PpdevgAACAAJ&dq=isbn:9788543102429&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PpdevgAACAAJ&dq=isbn:9788543102429&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/OCEANO_PERDIDO.html?hl=&id=PpdevgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PpdevgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lanç amento mundial no dia 27 de outubro de 2015. Em Oceano perdido, Johanna Basford convida artistas de todas as idades a descobrir um mundo encantador escondido nas profundezas do mar."
+   }
+  }
+ ]
+}

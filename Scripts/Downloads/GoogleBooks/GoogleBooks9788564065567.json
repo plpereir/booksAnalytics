@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PKWtNAEACAAJ",
+   "etag": "QwQl5pkD2F8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PKWtNAEACAAJ",
+   "volumeInfo": {
+    "title": "As melhores frases em Veja",
+    "authors": [
+     "Julio Cesar de Barros"
+    ],
+    "publishedDate": "2012",
+    "description": "Esta obra reúne, em ordem cronológica, frases que estiveram dentre 'as melhores frases da semana' da revista Veja, publicadas desde 1995, visando levar ao leitor um registro histórico do Brasil e do mundo na política, nas artes e no comportamento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8564065568"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564065567"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 251,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PKWtNAEACAAJ&dq=isbn:9788564065567&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PKWtNAEACAAJ&dq=isbn:9788564065567&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_melhores_frases_em_Veja.html?hl=&id=PKWtNAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PKWtNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra reúne, em ordem cronológica, frases que estiveram dentre &#39;as melhores frases da semana&#39; da revista Veja, publicadas desde 1995, visando levar ao leitor um registro histórico do Brasil e do mundo na política, nas artes e no ..."
+   }
+  }
+ ]
+}

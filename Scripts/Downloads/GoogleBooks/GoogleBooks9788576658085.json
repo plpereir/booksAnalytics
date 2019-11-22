@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "shheLwEACAAJ",
+   "etag": "n4aI6pOdH0s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/shheLwEACAAJ",
+   "volumeInfo": {
+    "title": "O colecionador de lágrimas",
+    "subtitle": "Holocausto nunca mais",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publishedDate": "2012",
+    "description": "Um professor especialista em nazismo e II Guerra Mundial começa a ter insônias e pesadelos, como se estivesse vivendo as atrocidades ocorridas durante o Nazismo. Em um ponto de desatino, diz que os alunos são parceiros de Hitler. Sua intenção é provocar a sensibilidade e a curiosidade de seus alunos. Bem quisto por alguns, mas criticado e processado por outros, sua fama coloca os holofotes sobre ele, ainda mais quando um complô nazista parece persiguí-lo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576658089"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576658085"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 375,
+    "printType": "BOOK",
+    "categories": [
+     "Holocaust, Jewish (1939-1945)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=shheLwEACAAJ&dq=isbn:9788576658085&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=shheLwEACAAJ&dq=isbn:9788576658085&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_colecionador_de_l%C3%A1grimas.html?hl=&id=shheLwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=shheLwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um professor especialista em nazismo e II Guerra Mundial começa a ter insônias e pesadelos, como se estivesse vivendo as atrocidades ocorridas durante o Nazismo."
+   }
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rddBCwAAQBAJ",
+   "etag": "JkL3GWozOJQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rddBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "O agente secreto: The secret agent",
+    "subtitle": "Edição bilíngue português - inglês",
+    "authors": [
+     "Joseph Conrad"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Londres no final do século 19 é um refúgio para todos os tipos de exilados políticos. Verloc é um deles, um anarquista que passou anos sendo financiado por um governo estrangeiro em suas ações como espião, ao mesmo tempo, que presta informações à polícia metropolitana da cidade. Quando um novo embaixador é empossado, este exige que Verloc prove o seu valor, atacando alguns alvos selecionados. Sem escolha, diante de um paradoxo explorado por Conrad, Verloc inicia um movimento, que termina com um atentado, ferindo aqueles que lhe são importantes, e sendo apenas uma questão de tempo até que a polícia o encontre ou que seus \"colegas\" o silenciem. Agentes secretos, policiais, diplomatas e a sociedade londrina são envolvidos na trama através de suas relações sombrias e surpreendentes. Este thriller policial e de mistério - precursor das obras escritas por Graham Green (1904-1991) e John le Carré (1931) - apresenta toda a maestria de um dos grandes escritores do século 20, um dos triunfos mais surpreendentes deste gênio da ficção que o torna um dos livros mais lidos entre os 100 mais importantes do século 20.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781559"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781557"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rddBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rddBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rddBCwAAQBAJ&printsec=frontcover&dq=Livro+de+bolso+para+colorir+e+relaxar+-+livro+1&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=rddBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-rddBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=rddBCwAAQBAJ&rdid=book-rddBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_agente_secreto_The_secret_agent-sample-epub.acsm?id=rddBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_agente_secreto_The_secret_agent-sample-pdf.acsm?id=rddBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rddBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sem escolha, diante de um paradoxo explorado por Conrad, Verloc inicia um movimento, que termina com um atentado, ferindo aqueles que lhe são importantes, e sendo apenas uma questão de tempo até que a polícia o encontre ou que seus  ..."
+   }
+  }
+ ]
+}

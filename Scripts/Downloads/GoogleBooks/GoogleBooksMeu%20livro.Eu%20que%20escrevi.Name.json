@@ -1,0 +1,858 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 455,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6FsqDwAAQBAJ",
+   "etag": "zAzssxKL9KM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6FsqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Meu livro. Eu que escrevi.",
+    "subtitle": "",
+    "authors": [
+     "Raony Phillips",
+     "Duny"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2017-08-01",
+    "description": "Duny (lê-se Dani) é uma celebridade de alcance mundial, alçada ao estrelato por seu imenso talento, inteligência, classe e beleza incomparáveis. Ou, pelo menos, era isso o que ela esperava da vida — que, no caso de Duny, se resume basicamente a um loop infinito de lacres, barracos e baixarias cometidos em busca da fama. Meu livro. Eu que escrevi é o maior deles. Conhecida dos fãs principalmente por trabalhar e morar na Pensão da Tia Ruiva e ser uma das estrelas da websérie Girls in the House, Duny hoje comanda também o reality show investigativo Disk Duny e é comentarista on-line de premiações como o Oscar e o Grammy para uma grande rede de TV, mas ela já passou por muita coisa nessa vida: da humilhação pública de fazer agachamentos em trajes sumários num programa de auditório a fingir que suporta crianças só para ser babá da filha de uma artista famosíssima e ficar um tantinho mais perto dos maiores nomes da música pop. Se valeu a pena? Para Duny, ainda vamos saber. Mas, para quem lê essa autobiografia recheada do início ao fim com o melhor da ironia (ou grosseria) moderna e total ausência de preciosismo vernacular, vale cada página.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002391"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002392"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Humor"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6FsqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6FsqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6FsqDwAAQBAJ&printsec=frontcover&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6FsqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6FsqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6FsqDwAAQBAJ&rdid=book-6FsqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Meu_livro_Eu_que_escrevi-sample-epub.acsm?id=6FsqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Meu_livro_Eu_que_escrevi-sample-pdf.acsm?id=6FsqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6FsqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Duny (lê-se Dani) é uma celebridade de alcance mundial, alçada ao estrelato por seu imenso talento, inteligência, classe e beleza incomparáveis."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Hko_DwAAQBAJ",
+   "etag": "Qhw+bybXhqg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Hko_DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Despertar da Mediuniudade",
+    "subtitle": "Vivendo com os Espíritos",
+    "authors": [
+     "Elaine Gonçalves"
+    ],
+    "publisher": "EDITORA BIBLIOMUNDI SERVIÇOS DIGITAIS LTDA",
+    "publishedDate": "2017-11-19",
+    "description": "O Despertar da Mediunidade é sobre a minha história de vida em relação à espiritualidade, a pedido dos meus mentores, relatei aqui algumas passagens que percorri ao longo de minha jornada neste plano, onde em busca de conhecimentos e equilíbrio, enfrentei obstáculos e continuei dia após dia no intuito de melhorar e evoluir meu Espírito através de minhas próprias escolhas em relação pessoal e interpessoal. Descobrindo uma nova maneira de viver junto com os Espíritos desencarnados, onde tudo ganhou mais vida e sentido para aquilo que sempre busquei “Conhecimentos e Evolução”. Este livro é para as pessoas que como eu estão em busca de novos conceitos de vida, e sozinhas tem que se manterem firmes em seus ideais, desejos e crenças, que sua vontade em, poder e ser, sejam maiores que os tropeços e obstáculos que fizeram e fazem parte de sua jornada, para as pessoas que acreditam na existência de uma forma simples e fácil de viver a vida como ela é.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781526002839"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1526002833"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 284,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Hko_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Hko_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Hko_DwAAQBAJ&pg=PT43&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Hko_DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Hko_DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Hko_DwAAQBAJ&rdid=book-Hko_DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Despertar_da_Mediuniudade-sample-epub.acsm?id=Hko_DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Despertar_da_Mediuniudade-sample-pdf.acsm?id=Hko_DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Hko_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No dia seguinte eu já acordei com ele dizendo que eu tinha que me apressar \u003cbr\u003e\npara terminar o meu livro, e tinha que ... então eu comecei a fazer tudo que ele \u003cbr\u003e\nme orientava, eu adiantei o \u003cb\u003emeu livro\u003c/b\u003e, \u003cb\u003eeu escrevi\u003c/b\u003e as cartas, detalhe, e eu ria \u003cbr\u003e\nmuito,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7Z9yDgAAQBAJ",
+   "etag": "9QLDZ2DJx2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7Z9yDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma sombra na escuridão",
+    "authors": [
+     "Robert Bryndza"
+    ],
+    "publisher": "Gutenberg",
+    "publishedDate": "2017-04-25",
+    "description": "Do mesmo autor de A garota no gelo. A Detetive Erika Foster tem agora um desafio aterrorizante. \"A sombra respirou fundo, saiu da escuridão e subiu as escadas silenciosamente. Para observar. Para aguardar. Para colocar em prática a vingança que há tanto tempo planejava.\" Em uma noite de verão, a Detetive Erika Foster é convocada para trabalhar em uma cena de homicídio. A vítima: um médico encontrado sufocado na cama. Seus pulsos estão presos e através de um saco plástico transparente amarrado firmemente sobre sua cabeça é possível ver seus olhos arregalados. Poucos dias depois, outro cadáver é encontrado, assassinado exatamente nas mesmas circunstâncias. As vítimas são sempre homens solteiros, bem-sucedidos e, pelo que tudo indica, há algo misterioso em suas vidas. Mas, afinal, qual é o segredo desses homens? Qual é a ligação entre as vítimas e o assassino? Erika e sua equipe se aprofundam na investigação e descobrem um serial killer calculista que persegue seus alvos até achar o momento certo para atacá-los. Agora, Erika Foster fará de tudo para deter aquela sombra e evitar mais vítimas, mesmo que isso signifique arriscar sua carreira e também sua própria vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582354339"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582354339"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7Z9yDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7Z9yDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7Z9yDgAAQBAJ&pg=PT311&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7Z9yDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7Z9yDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7Z9yDgAAQBAJ&rdid=book-7Z9yDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.061E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_sombra_na_escurid%C3%A3o-sample-epub.acsm?id=7Z9yDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_sombra_na_escurid%C3%A3o-sample-pdf.acsm?id=7Z9yDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7Z9yDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não precisa ser longo, apenas algumas palavras, mas isso faz muita diferença e \u003cbr\u003e\najuda os novos leitores a descobrirem, pela primeira vez, um dos \u003cb\u003emeus livros\u003c/b\u003e. \u003cb\u003eEu\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eescrevi\u003c/b\u003e no final do livro anterior da Detetive Erika Foster, A garota no gelo, que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iDhTAAAAMAAJ",
+   "etag": "UqDvGoM/VLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iDhTAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Roberto Carlos em prosa e versos",
+    "publishedDate": "1967",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023358915"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iDhTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iDhTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iDhTAAAAMAAJ&q=Meu+livro.Eu+que+escrevi.&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iDhTAAAAMAAJ&dq=Meu+livro.Eu+que+escrevi.&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Roberto_Carlos_em_prosa_e_versos.html?hl=&id=iDhTAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iDhTAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "JOVEM, GUARDA O MEU LIVRO Guarda o \u003cb\u003emeu livro\u003c/b\u003e. \u003cb\u003eEu escrevi\u003c/b\u003e prá você com a \u003cbr\u003e\nmaior atenção e carinho. Tem muito de mim o meu livro, um pouco de alma, um \u003cbr\u003e\npouco de vida. Eu quero estar com você — com todos os que possuem alma&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-P3zrkFfVzAC",
+   "etag": "S109yoB7AIk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-P3zrkFfVzAC",
+   "volumeInfo": {
+    "title": "Cordilheira",
+    "authors": [
+     "Daniel Galera"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2008-10-10",
+    "description": "Recém-saída de um relacionamento amoroso e ainda sob impacto do suicídio de uma amiga, uma escritora resolve aproveitar o lançamento da tradução argentina de seu romance, considerado pelo público e pela crítica uma das melhores surpresas da nova literatura brasileira, para passar uma temporada em Buenos Aires. Primeiro título da coleção Amores Expressos, em que autores brasileiros escrevem histórias de amor ambientadas em diversas cidades do mundo, Cordilheira gira em torno de um recomeço: ao se envolver com um misterioso fã argentino e conviver com seus amigos de hábitos bizarros, a protagonista começa a deixar o passado para trás e a se tornar algo que ainda não sabe bem o que é. Mas, diferentemente dos romances anteriores de Daniel Galera, a perspectiva não é a do universo masculino, e sim a de uma narradora sem receio de encarar os próprios abismos emocionais. \"Tive vontade de desenvolver uma protagonista mulher\", explica o autor, \"porque as mulheres modernas me parecem bem mais interessantes e complexas do que os homens. A decisão de narrar o livro em primeira pessoa só veio mais tarde, depois da viagem a Buenos Aires, quando comecei a escrevê-lo. Eu pretendia usar a terceira pessoa, para me permitir certo distanciamento, mas o romance parecia pedir o ponto de vista da narradora, e só consegui levar o texto adiante quando fiz essa opção. \"Além de uma história de perdas, encontros e desencontros, Cordilheira também é uma reflexão sobre vida e arte, seus limites nem sempre definidos e a maneira como essa sobreposição, em meio aos sonhos e impasses de quem cedo ou tarde precisará enfrentar a realidade, pode acabar mudando os destinos individuais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580861730"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858086173X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.14.14.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-P3zrkFfVzAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-P3zrkFfVzAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-P3zrkFfVzAC&pg=PT54&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-P3zrkFfVzAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--P3zrkFfVzAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-P3zrkFfVzAC&rdid=book--P3zrkFfVzAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.55E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cordilheira-sample-epub.acsm?id=-P3zrkFfVzAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cordilheira-sample-pdf.acsm?id=-P3zrkFfVzAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-P3zrkFfVzAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se \u003cb\u003eeu\u003c/b\u003e estava namorando alguém quando \u003cb\u003eescrevi meu livro\u003c/b\u003e. Se \u003cb\u003eeu\u003c/b\u003e já tinha lido \u003cbr\u003e\ncertos autores franceses. Ficou interessadíssimo pelas mortes que haviam \u003cbr\u003e\nmarcado a minha vida. Queria saber em detalhes o que \u003cb\u003eeu\u003c/b\u003e tinha sentido na \u003cbr\u003e\nocasião de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sRgnCgAAQBAJ",
+   "etag": "d8lM+jhAw2U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sRgnCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O eclipse da graça",
+    "subtitle": "Onde foi parar a boa-nova do cristianismo?",
+    "authors": [
+     "Philip Yancey"
+    ],
+    "publisher": "Editora Mundo Cristão",
+    "publishedDate": "2015-07-01",
+    "description": "O evangelho de Jesus Cristo sempre foi conhecido como a boa-nova. E é. No entanto, parece que nos últimos tempos as pessoas não têm percebido o cristão como o porta-voz dessa boa notícia. Em \"O eclipse da graça\", Philip Yancey explora as razões da crescente hostilidade e incompreensão da sociedade em relação à igreja. Pensando no papel fundamental dela para a expansão da Palavra, o autor apresenta alternativas e novas perspectivas de aproximação com aqueles que, na opinião dele, estão sedentos da graça de Deus. Yancey conta histórias especialmente esclarecedoras sobre como a fé revelada é capaz de desarmar críticos os mais cínicos e como a boa-nova transmitida pode revelar-se uma notícia mais que aguardada. Em outras palavras: como redescobrir o papel da igreja no mundo pós-moderno.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543300986"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543300983"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sRgnCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sRgnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sRgnCgAAQBAJ&pg=PT141&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sRgnCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sRgnCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sRgnCgAAQBAJ&rdid=book-sRgnCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.74E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.74E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_eclipse_da_gra%C3%A7a-sample-epub.acsm?id=sRgnCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_eclipse_da_gra%C3%A7a-sample-pdf.acsm?id=sRgnCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sRgnCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Enquanto eles trabalham nas linhas de frente, \u003cb\u003eeu\u003c/b\u003e passo \u003cb\u003emeu\u003c/b\u003e tempo distribuindo \u003cbr\u003e\nelétrons numa tela de computador, ... pois quando \u003cb\u003eescrevi\u003c/b\u003e aquele \u003cb\u003elivro eu\u003c/b\u003e estava \u003cbr\u003e\npensando em vizinhos que tocam música num volume muito alto ou que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XJnPBgAAQBAJ",
+   "etag": "UwbtYFwypA0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XJnPBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Como Escrever Um Livro",
+    "subtitle": "Conheça os Segredos dos Escritores de Sucesso e Seus Bestsellers",
+    "authors": [
+     "Bo Karma"
+    ],
+    "publisher": "22 Lions - www.22Lions.com",
+    "publishedDate": "2015-03-03",
+    "description": "Se gostaria de um dia escrever o seu primeiro livro ou um bom livro, e nunca soube como, este pode ser o livro pelo qual tem procurado. Através desta obra perceberá porque existem escritores que conseguem escrever dezenas de livros, até mesmo centenas, apesar de tanta gente se sentir frustrada por não conseguir sequer escrever um só livro. Compreenderá também o que torna alguns livros em sucessos rápidos no plano mundial. Saiba que existem hábitos, formas de pensar e crenças, comuns a todos os escritores de sucesso, segredos que estes raramente partilham com o publico, mas que são aqui desvendados. Estes segredos incluem estratégias para aumentar a motivação, bem como aumentar as vendas, e muito acima de milhares de outros escritores no mercado. As fórmulas que poucos conhecem, encontram-se ocultas até mesmo a muitas editoras experientes, e é por isso que existem livros que outrora foram recusados por muitas e, apesar disso, atingiram um patamar inesperado de popularidade. Reunindo um conjunto vasto de questões que a maioria certamente se coloca, quando pensa em publicar um livro, esta obra remete diretamente para os factos mais ocultos do mundo da escrita, enquanto responde diretamente a todas elas.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 20,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XJnPBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XJnPBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XJnPBgAAQBAJ&pg=PT18&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XJnPBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XJnPBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.41,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XJnPBgAAQBAJ&rdid=book-XJnPBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.141E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Escrever_Um_Livro-sample-epub.acsm?id=XJnPBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Escrever_Um_Livro-sample-pdf.acsm?id=XJnPBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XJnPBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando \u003cb\u003eescrevi meu\u003c/b\u003e primeiro \u003cb\u003elivro\u003c/b\u003e, foi porque sabia que era algo único e novo \u003cbr\u003e\nno mundo. Foram 700 páginas de ... E também já vi famosos da lei da atracção \u003cbr\u003e\nusar terminologias que \u003cb\u003eeu\u003c/b\u003e inventei, sem nunca me citarem. Sei que não estou a\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nXw5DwAAQBAJ",
+   "etag": "TMBvf3UUkpM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nXw5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Casa do Macaco",
+    "subtitle": "As aventuras de um idiota americano.",
+    "authors": [
+     "Ralph Griffith"
+    ],
+    "publisher": "XAK Media Group  Inc.",
+    "publishedDate": "2017-10-11",
+    "description": "Os autores de 7 anos com Bernie Madoff e outros em uma pequena prisão federal para presos médicos e psiquiátricos. O livro foi comparado com One Flew Over The Cockoo's Nest e Orange é o New Black se o elenco tivesse sido os criminosos mais famosos da América hoje. Às vezes, sério e às vezes cômico, é uma verdadeira memória que lê como a ficção mais louca que você poderia imaginar.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nXw5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nXw5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nXw5DwAAQBAJ&pg=PA82&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nXw5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nXw5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.18,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.18,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nXw5DwAAQBAJ&rdid=book-nXw5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.818E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.818E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Casa_do_Macaco-sample-pdf.acsm?id=nXw5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nXw5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eEu\u003c/b\u003e acho que porque ele tem \u003cb\u003elivros\u003c/b\u003e escritos sobre ele e estar em sessenta \u003cbr\u003e\nminutos, e ele pensou que isso fez com que ele e Bernie fossem pares. \u003cb\u003eEscrevi\u003c/b\u003e \u003cbr\u003e\nNova York por anos tentando divulgar \u003cb\u003emeus livros\u003c/b\u003e. Gee, que grupo de idiotas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TB6hbYxB_qwC",
+   "etag": "fk9IxhWT28Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TB6hbYxB_qwC",
+   "volumeInfo": {
+    "title": "Não escrevi o Apocalipse para assustar ninguém",
+    "authors": [
+     "YVES SAOUT"
+    ],
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515027576"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8515027577"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TB6hbYxB_qwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TB6hbYxB_qwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TB6hbYxB_qwC&pg=PA59&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TB6hbYxB_qwC&dq=Meu+livro.Eu+que+escrevi.&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/N%C3%A3o_escrevi_o_Apocalipse_para_assustar.html?hl=&id=TB6hbYxB_qwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TB6hbYxB_qwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É uma necessidade, pois deve-se levar em conta a distância temporal e a \u003cbr\u003e\ndistância cultural entre \u003cb\u003emeu livro\u003c/b\u003e e o leitor de hoje, sem contar a ignorância muito \u003cbr\u003e\ncomum do Antigo Testamento. Mas \u003cb\u003eeu\u003c/b\u003e não podia fazê-lo, \u003cb\u003eeu\u003c/b\u003e mesmo, por três \u003cbr\u003e\nrazões."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CZYFpifAPW8C",
+   "etag": "1pp3ChUFeQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CZYFpifAPW8C",
+   "volumeInfo": {
+    "title": "Sexo Kasher",
+    "publisher": "Editora Manole Ltda",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520410383"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520410387"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CZYFpifAPW8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CZYFpifAPW8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CZYFpifAPW8C&pg=PA180&dq=Meu+livro.Eu+que+escrevi.&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CZYFpifAPW8C&dq=Meu+livro.Eu+que+escrevi.&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sexo_Kasher.html?hl=&id=CZYFpifAPW8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CZYFpifAPW8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Era o primeiro exemplar do \u003cb\u003emeu livro\u003c/b\u003e, que \u003cb\u003emeu\u003c/b\u003e editor americano acabava de me \u003cbr\u003e\nenviar. \u003cb\u003eEu\u003c/b\u003e ... do que na minha própria, e algo me deixou intrigado: ela estava tão \u003cbr\u003e\nexultante e entusiasmada quanto \u003cb\u003eeu\u003c/b\u003e e, no entanto, fui \u003cb\u003eeu\u003c/b\u003e quem \u003cb\u003eescrevi\u003c/b\u003e o \u003cb\u003elivro\u003c/b\u003e!"
+   }
+  }
+ ]
+}

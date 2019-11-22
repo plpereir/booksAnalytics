@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8Mp-rgEACAAJ",
+   "etag": "FJRY5Fgd0WI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8Mp-rgEACAAJ",
+   "volumeInfo": {
+    "title": "Felicidade roubada",
+    "subtitle": "um romance psicológico sobre os fantasmas da emoc̜ão que estão dentro de nós e que sabotam a nossa felicidade",
+    "authors": [
+     "Augusto Cury",
+     "Editora Saraiva"
+    ],
+    "publishedDate": "2014",
+    "description": "A beautiful relationship between a father and daughter. The story of a brilliant man who collapsed emotionally and rebuilt in spectacular way.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502225642"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502225640"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8Mp-rgEACAAJ&dq=isbn:9788502225640&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=8Mp-rgEACAAJ&dq=isbn:9788502225640&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Felicidade_roubada.html?hl=&id=8Mp-rgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8Mp-rgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E se de repente você perdesse a capacidade de fazer aquilo que dá sentido à sua vida?"
+   }
+  }
+ ]
+}

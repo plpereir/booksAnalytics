@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Xpq7wAEACAAJ",
+   "etag": "+YZt8faKD60",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Xpq7wAEACAAJ",
+   "volumeInfo": {
+    "title": "Livro de Ouro Da Mitologia - Ediçao Especial",
+    "authors": [
+     "Thomas Bulfinch",
+     "David Jardim"
+    ],
+    "publisher": "Singular Digital",
+    "description": "A guerra de Tróia, Hércules, Minerva, Midas, as divindades rurais, a mitologia oriental e nórdica, os druidas são alguns dos temas tratados nessa obra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8500013427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788500013423"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Xpq7wAEACAAJ&dq=isbn:9788500013423&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Xpq7wAEACAAJ&dq=isbn:9788500013423&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Livro_de_Ouro_Da_Mitologia_Edi%C3%A7ao_Espec.html?hl=&id=Xpq7wAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Xpq7wAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A guerra de Tróia, Hércules, Minerva, Midas, as divindades rurais, a mitologia oriental e nórdica, os druidas são alguns dos temas tratados nessa obra."
+   }
+  }
+ ]
+}

@@ -1,0 +1,757 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 443,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sjYsAAAAYAAJ",
+   "etag": "o/IKkcdmB/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sjYsAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Brasil",
+    "subtitle": "uma história",
+    "authors": [
+     "Eduardo Bueno"
+    ],
+    "publishedDate": "2003",
+    "description": "O jornalista Eduardo Bueno faz um relato empolgante da nossa realidade através dos tempos. O autor mostra ao leitor 'quem', 'o quê', 'como', 'quando' e o 'porquê' dos principais acontecimentos políticos, econômicos, sociais e culturais do nosso passado, abordados sempre que possível de forma integrada com as questões do presente. A obra traz também quadros explicativos que aprofundam o assunto principal, revelando facetas desconhecidas de certos personagens históricos, aspectos inusitados de episódios consagrados e até curiosidades bem-humoradas. O volume traz centenas de imagens obtidas dos principais museus do país, mapas, fotos de satélite e ilustrações especialmente produzidas para a edição.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173011890695"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 447,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sjYsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sjYsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sjYsAAAAYAAJ&q=Brasil+-+Uma+hist%C3%B3ria&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sjYsAAAAYAAJ&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brasil.html?hl=&id=sjYsAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sjYsAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O jornalista Eduardo Bueno faz um relato empolgante da nossa realidade através dos tempos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uU-eXQhmCd0C",
+   "etag": "42RDLbaOFrU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uU-eXQhmCd0C",
+   "volumeInfo": {
+    "title": "Educação Física No Brasil: a História Que Não Se Conta",
+    "authors": [
+     "Lino Castellani Filho"
+    ],
+    "publisher": "Papirus Editora",
+    "publishedDate": "2006",
+    "description": "Essa obra procura resgatar a criticidade, tantas vezes ausente nessa área do conhecimento humano. Através de uma interpretação crítica, o autor propõe uma prática transformadora na educação física no Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8530800214"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788530800215"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uU-eXQhmCd0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uU-eXQhmCd0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uU-eXQhmCd0C&printsec=frontcover&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uU-eXQhmCd0C&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Educa%C3%A7%C3%A3o_F%C3%ADsica_No_Brasil_a_Hist%C3%B3ria.html?hl=&id=uU-eXQhmCd0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uU-eXQhmCd0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apoiada numa concepção histórico-crítica da educação, essa obra procura dar indícios de uma prática transformadora da Educação Física no Brasil."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GmRTJgaQ1WkC",
+   "etag": "BHKUZBsj0Mg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GmRTJgaQ1WkC",
+   "volumeInfo": {
+    "title": "História da imprensa no Brasil",
+    "authors": [
+     "Nelson Werneck Sodré"
+    ],
+    "publisher": "Mauad Editora Ltda",
+    "publishedDate": "1998-01-01",
+    "description": "Com um capítulo inédito sobre o seu pensamento a respeito da atual imprensa no Brasil, o historiador (1911-1999) detém-se sobre esta obra, que fez e pesquisou durante 30 anos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585756888"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585756888"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 501,
+    "printType": "BOOK",
+    "categories": [
+     "Press"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GmRTJgaQ1WkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GmRTJgaQ1WkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GmRTJgaQ1WkC&printsec=frontcover&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GmRTJgaQ1WkC&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_imprensa_no_Brasil.html?hl=&id=GmRTJgaQ1WkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GmRTJgaQ1WkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com um capítulo inédito sobre o seu pensamento a respeito da atual imprensa no Brasil, o historiador (1911-1999) detém-se sobre esta obra, que fez e pesquisou durante 30 anos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rfsqnQod21wC",
+   "etag": "l+gUS/EtjUE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rfsqnQod21wC",
+   "volumeInfo": {
+    "title": "Uma história da matemática escolar no Brasil, 1730-1930",
+    "authors": [
+     "Wagner Rodrigues Valente"
+    ],
+    "publisher": "Annablume",
+    "publishedDate": "1999-01-01",
+    "description": "Este livro ilustra a importância e a rapidez da circulação das idéias, dos métodos e das publicações em matemática ao longo dos séculos XVIII e XIX.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574190586"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574190587"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rfsqnQod21wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rfsqnQod21wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rfsqnQod21wC&pg=PA19&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rfsqnQod21wC&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_hist%C3%B3ria_da_matem%C3%A1tica_escolar_no.html?hl=&id=rfsqnQod21wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rfsqnQod21wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não se trata, no entanto, da escrita de uma \u003cb\u003ehistória\u003c/b\u003e da Matemática. Não é uma \u003cbr\u003e\n\u003cb\u003ehistória\u003c/b\u003e das ciências como tradicionalmente muito já há escrito. Antes, pretende \u003cbr\u003e\nser uma \u003cb\u003ehistória\u003c/b\u003e do caminho que tomou a escolarização no \u003cb\u003eBrasil\u003c/b\u003e de um saber \u003cbr\u003e\nde&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RpGPN8kv-a8C",
+   "etag": "Vdm+ifFugxA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RpGPN8kv-a8C",
+   "volumeInfo": {
+    "title": "Família, mulher, sexualidade e Igreja na história do Brasil",
+    "authors": [
+     "Maria Luiza Marcílio"
+    ],
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "851500724X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515007240"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 203,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RpGPN8kv-a8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RpGPN8kv-a8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RpGPN8kv-a8C&pg=PA149&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RpGPN8kv-a8C&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fam%C3%ADlia_mulher_sexualidade_e_Igreja_na.html?hl=&id=RpGPN8kv-a8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RpGPN8kv-a8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Irmandade da Santa Casa de Misericórdia e a assistência à criança \u003cbr\u003e\nabandonada na \u003cb\u003ehistória\u003c/b\u003e do \u003cb\u003eBrasil\u003c/b\u003e Maria Luiza Marcílio* A criança ilegítima e a \u003cbr\u003e\ncriança abandonada colocaram sempre a Igreja diante de uma questão social e \u003cbr\u003e\nteológica,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8KgRl5ZvX8wC",
+   "etag": "OW6QS9aOdgw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8KgRl5ZvX8wC",
+   "volumeInfo": {
+    "title": "História das mulheres no Brasil",
+    "authors": [
+     "Mary Del Priore"
+    ],
+    "publisher": "UNESP",
+    "publishedDate": "2007",
+    "description": "Este livro conta a trajetória das mulheres, desde o Brasil colonial. Obra organizada por Mary Del Priore - da qual participam historiadores além da escritora Lygia Fagundes Telles - mostra como nasciam, viviam e morriam as brasileiras no passado e o mundo material e simbólico que as cercavam. Percebendo a história das mulheres como algo que envolve também a história das famílias, do trabalho, da mídia, da literatura, da sexualidade, da violência, dos sentimentos e das representações, o livro abarca os mais diferentes espaços (campo e cidade, norte e sul do país) e extratos sociais (escravas, operárias, sinhazinhas, burguesas, donas de casa, professoras, bóias-frias).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8572442561"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572442565"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 678,
+    "printType": "BOOK",
+    "categories": [
+     "Women"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8KgRl5ZvX8wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8KgRl5ZvX8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8KgRl5ZvX8wC&pg=PA482&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=8KgRl5ZvX8wC&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_das_mulheres_no_Brasil.html?hl=&id=8KgRl5ZvX8wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8KgRl5ZvX8wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mary Del Priore. FREIRAS NO \u003cb\u003eBRASIL\u003c/b\u003e Maria José Rosado Nunes No final das \u003cbr\u003e\ncontas [...], entrar para o convento pode bem significar triunfar do handicap de \u003cbr\u003e\nser mulher num mundo de homens (Danylewycz) No fim do século XIX as freiras \u003cbr\u003e\njá&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h8tnAwAAQBAJ",
+   "etag": "RSCpoWq+8XE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h8tnAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dicionário de datas da história do Brasil",
+    "authors": [
+     "Circe Bittencourt (org.)"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2009-02-26",
+    "description": "Este Dicionário de datas da história do Brasil, escrito por uma grande equipe de especialistas de todo o Brasil, sob a coordenação da Professora Circe Bittencourt, coloca ao alcance do público o estado atual de conhecimento sobre as mais importantes datas do calendário brasileiro. O livro, que pode ser lido na sequência do calendário (por mês e dia), por ano, por tema - ou mesmo fora de qualquer ordem -, possibilita ao leitor consultar datas comemorativas e/ou fatos históricos ao longo do ano e identificar os assuntos conforme seu interesse: pesquisa, ensino, política educacional ou simples curiosidade. Políticos, militares, religiosos, empresários, intelectuais e artistas, assim como populações de diferentes etnias ou gênero, trabalhadores das cidades e do campo, são apresentados em diversas datas marcadas por lutas, confrontos e festas; datas mescladas por alegrias e tristezas; datas cheias de heroísmo e idealismo; datas manchadas por traições e mesquinharias. útil para professores e alunos, assim como pararesponsáveis por políticas públicas, educadores, jornalistas e historiadores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572445122"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8572445129"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h8tnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h8tnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h8tnAwAAQBAJ&pg=PT91&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=h8tnAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-h8tnAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=h8tnAwAAQBAJ&rdid=book-h8tnAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_de_datas_da_hist%C3%B3ria_do_Bra-sample-epub.acsm?id=h8tnAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dicion%C3%A1rio_de_datas_da_hist%C3%B3ria_do_Bra-sample-pdf.acsm?id=h8tnAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h8tnAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "HAGAS Rozélia Bezerra doença de Chagas foi descoberta pelo cientista \u003cbr\u003e\n\u003cb\u003ebrasileiro\u003c/b\u003e Carlos Ribeiro Justinianodas Chagas, ou simplesmente Carlos \u003cbr\u003e\nChagas,em 14 de abril de 1909, na cidade mineira de Lassance.No século XIX, \u003cbr\u003e\ntrês&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uVFTAAAAcAAJ",
+   "etag": "kD67msGDub8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uVFTAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Historia das principaes successos politicos do imperio do Brasil",
+    "authors": [
+     "Jose da Silva-Lisboa"
+    ],
+    "publishedDate": "1826",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z171746209"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uVFTAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uVFTAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uVFTAAAAcAAJ&pg=PA33&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uVFTAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uVFTAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=uVFTAAAAcAAJ&rdid=book-uVFTAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_das_principaes_successos_politi.pdf?id=uVFTAAAAcAAJ&hl=&output=pdf&sig=ACfU3U3O6QmN9l_ccZ9dfWPDXTDMs51JPw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uVFTAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ANALYSE NOVA OBRA, NA LINGUA FRANCEZA SOBRE O \u003cb\u003eBRASIL\u003c/b\u003e. D Epois de \u003cbr\u003e\nimpressa a Introducção da emprehendida \u003cb\u003eHistoria\u003c/b\u003e do Imperio , veio-me á mão á \u003cbr\u003e\nObra Franceza dada á luz na Corte da França em 1822, com o titulo = O \u003cb\u003eBrasil\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bBb0AgAAQBAJ",
+   "etag": "LlPTGN0URko",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bBb0AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Raça como questão: história, ciência e identidades no Brasil",
+    "authors": [
+     "Marcos Chor Maio",
+     "Ricardo Ventura Santos"
+    ],
+    "publisher": "SciELO - Editora FIOCRUZ",
+    "publishedDate": "2010-01-01",
+    "description": "A obra é uma reunião de ensaios, não cronológicos, cuidadosamente selecionados pelos organizadores, que vão da biologia às ciências sociais, antropologia e história, com variados enfoques. Analisando discussões sobre o pensamento higienista e trajetórias da antropologia física no Brasil do século XIX, os artigos abrangem até as atuais correlações do pensamento racial com as tecnologias genômicas. Precioso material para quem estuda e se interessa pelas questões relacionadas à raça no Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575413586"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575413589"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bBb0AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bBb0AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bBb0AgAAQBAJ&pg=PA285&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bBb0AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bBb0AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bBb0AgAAQBAJ&rdid=book-bBb0AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ra%C3%A7a_como_quest%C3%A3o_hist%C3%B3ria_ci%C3%AAncia_e-sample-epub.acsm?id=bBb0AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ra%C3%A7a_como_quest%C3%A3o_hist%C3%B3ria_ci%C3%AAncia_e-sample-pdf.acsm?id=bBb0AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bBb0AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "11 Política Social com Recorte Racial no \u003cb\u003eBrasil\u003c/b\u003e: o caso da saúde da população \u003cbr\u003e\nnegra1 * Marcos Chor Maio Simone ... o caso da &#39;saúde da população negra&#39; no \u003cbr\u003e\n\u003cb\u003eBrasil\u003c/b\u003e”, em \u003cb\u003eHistória\u003c/b\u003e, Ciências, Saúde – Manguinhos, 12(2): 419-446, maio-ago."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "motcMsGB1EMC",
+   "etag": "vDee7auAmDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/motcMsGB1EMC",
+   "volumeInfo": {
+    "title": "História econômica do Brasil contemporâneo",
+    "subtitle": "coletânea de textos apresentados no I Congresso Brasileiro de História Econômica, Campus da USP, setembro de 1993",
+    "authors": [
+     "Tamás Szmrecsányi",
+     "Wilson Suzigan"
+    ],
+    "publisher": "EdUSP",
+    "publishedDate": "2002",
+    "description": "Trata do nacionalismo e das políticas econômicas posteriores a 1930, a industrialização e desenvolvimento do mesmo período, o pensamento econômico no Brasil após a Segunda Guerra Mundial, o problema da dívida externa, a modernização da agricultura e trajetórias e visões da inflação brasileira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531406889"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531406881"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Agriculture"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=motcMsGB1EMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=motcMsGB1EMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=motcMsGB1EMC&pg=PA183&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=motcMsGB1EMC&dq=Brasil+-+Uma+hist%C3%B3ria&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_econ%C3%B4mica_do_Brasil_contempor.html?hl=&id=motcMsGB1EMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=motcMsGB1EMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "coletânea de textos apresentados no I Congresso \u003cb\u003eBrasileiro\u003c/b\u003e de \u003cb\u003eHistória\u003c/b\u003e \u003cbr\u003e\nEconômica, Campus da USP, setembro de 1993 Tamás Szmrecsányi, Wilson \u003cbr\u003e\nSuzigan. Paulo Roberto Davidoff Chagas Cruz Instituto de Economia da \u003cbr\u003e\nUNICAMP&nbsp;..."
+   }
+  }
+ ]
+}

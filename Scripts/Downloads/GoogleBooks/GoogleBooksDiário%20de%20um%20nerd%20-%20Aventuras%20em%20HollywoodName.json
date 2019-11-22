@@ -1,0 +1,65 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AaFOAQAAIAAJ",
+   "etag": "gz8oIcI0Jts",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AaFOAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Piauí",
+    "publishedDate": "2009-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105132683751"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AaFOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AaFOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AaFOAQAAIAAJ&q=Di%C3%A1rio+de+um+nerd+-+Aventuras+em+Hollywood&dq=Di%C3%A1rio+de+um+nerd+-+Aventuras+em+Hollywood&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AaFOAQAAIAAJ&dq=Di%C3%A1rio+de+um+nerd+-+Aventuras+em+Hollywood&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Piau%C3%AD.html?hl=&id=AaFOAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AaFOAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "|- |14 \u003cb\u003ediário\u003c/b\u003e 0 maior beberrão da Crise Uma cronologia de vida e morte do \u003cbr\u003e\nHummer, o sinistro jipão americano que foi ... do hipotálamo Laurita Mourão, a \u003cbr\u003e\nfilha de general que escandalizou o Itamaraty com suas \u003cb\u003eaventuras\u003c/b\u003e amorosas \u003cbr\u003e\nDANIELA ... da indústria em \u003cb\u003eHollywood\u003c/b\u003e JOÃO MOREIRA SALLES 51 melodrama \u003cbr\u003e\nhistórico Sardanapalo Morrerei bebendo vinho. ... uma festa de \u003cb\u003enerds\u003c/b\u003e 54 poesia \u003cbr\u003e\nQuem é que morre num campo de trabalho numa outra guerra pura num breve \u003cbr\u003e\nembaraço?"
+   }
+  }
+ ]
+}

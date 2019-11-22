@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "uVWFtwEACAAJ",
+   "etag": "dfTnP9Seo5Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uVWFtwEACAAJ",
+   "volumeInfo": {
+    "title": "Quem Pensa Enriquece",
+    "authors": [
+     "Napoleon Hill",
+     "Mayã Guimarães"
+    ],
+    "publishedDate": "2018-05-28",
+    "description": "O 9o livro mais vendido de todos os tempos, que influencia líderes e empreededores em todo o mundo, agora em uma edição especial atualizada para o século XXI. O clássico best-seller sobre o sucesso agora anotado e acrescido de exemplos modernos, comprovando que a filosofia da realização pessoal de Napoleon Hill permanece atual e ainda orienta aqueles que são bem-sucedidos. Um livro que vai mudar não só o que você pensa, vai mudar o modo como você pensa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8568014542"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568014547"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uVWFtwEACAAJ&dq=isbn:9788568014547&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uVWFtwEACAAJ&dq=isbn:9788568014547&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Quem_Pensa_Enriquece.html?hl=&id=uVWFtwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uVWFtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O clássico best-seller sobre o sucesso agora anotado e acrescido de exemplos modernos, comprovando que a filosofia da realização pessoal de Napoleon Hill permanece atual e ainda orienta aqueles que são bem-sucedidos."
+   }
+  }
+ ]
+}

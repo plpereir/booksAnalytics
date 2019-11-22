@@ -1,0 +1,862 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 163,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SyxhCwAAQBAJ",
+   "etag": "nKiWibZZjuo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SyxhCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cidade dos etéreos",
+    "subtitle": "",
+    "authors": [
+     "Ransom Riggs"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2016-02-05",
+    "description": "Cidade dos etéreos dá sequência ao celebrado O orfanato da srta. Peregrine para crianças peculiares, em que o jovem Jacob Portman, para descobrir a verdade sobre a morte do avô, segue pistas que o levam a um antigo lar para crianças em uma ilha galesa. O orfanato abriga crianças com dons sobrenaturais, protegidas graças à poderosa magia da diretora, a srta. Peregrine. Neste segundo livro, o grupo de peculiares precisa deter um exército de monstros terríveis, e a srta. Peregrine, única pessoa que pode ajudá-los, está presa no corpo de uma ave. Jacob e seus novos amigos partem rumo a Londres, cidade onde os peculiares se concentram. Eles têm a esperança de, lá, encontrar uma cura para a amada srta. Peregrine, mas, na cidade devastada pela guerra, surpresas ameaçadoras estão à espreita em cada esquina. E, além de levar as crianças a um lugar seguro, Jacob terá que tomar uma decisão importante quanto a seu amor por Emma, uma das peculiares. Telecinesia e viagens no tempo, ciganos e atrações de circo, malignos seres invisíveis e um desfile de animais inusitados, além de uma inédita coleção de fotografias de época — tudo isso se combina para fazer de Cidade dos etéreos uma história de fantasia comovente, uma experiência de leitura única e impactante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580578911"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580578914"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.13.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SyxhCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SyxhCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SyxhCwAAQBAJ&printsec=frontcover&dq=Cidade+dos+et%C3%A9reos&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SyxhCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SyxhCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SyxhCwAAQBAJ&rdid=book-SyxhCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cidade_dos_et%C3%A9reos-sample-epub.acsm?id=SyxhCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cidade_dos_et%C3%A9reos-sample-pdf.acsm?id=SyxhCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SyxhCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cidade dos etéreos dá sequência ao celebrado O orfanato da srta."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "doB2DQAAQBAJ",
+   "etag": "UVzm989tOIQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/doB2DQAAQBAJ",
+   "volumeInfo": {
+    "title": "O lar da srta. Peregrine para crianças peculiares",
+    "subtitle": "",
+    "authors": [
+     "Ransom Riggs"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2016-11-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551000694"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551000691"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 371,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=doB2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=doB2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=doB2DQAAQBAJ&pg=PT2&dq=Cidade+dos+et%C3%A9reos&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=doB2DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-doB2DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=doB2DQAAQBAJ&rdid=book-doB2DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_lar_da_srta_Peregrine_para_crian%C3%A7as_p-sample-epub.acsm?id=doB2DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_lar_da_srta_Peregrine_para_crian%C3%A7as_p-sample-pdf.acsm?id=doB2DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=doB2DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Trecho de \u003cb\u003eCidade dos etéreos\u003c/b\u003e traduzido por Fernando Carvalho. REVISÃO DE E\u003cbr\u003e\n-BOOK Carolina Andrade GERAÇÃO DE E-BOOK Intrínseca E-ISBN 978-85-510-\u003cbr\u003e\n0069-4 Edição digital: 2016 1a edição Todos os direitos desta edição&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KEuZAwAAQBAJ",
+   "etag": "Kfqwqmhiokk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KEuZAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Etéreos",
+    "subtitle": "O Despertar",
+    "authors": [
+     "Lília Uzêda"
+    ],
+    "publisher": "Novo Seculo Livraria e Editora Ltda",
+    "publishedDate": "2014-06-05",
+    "description": "Prepare-se para viver uma experiência única, todos estão convidados a conhecer um lugar extraordinário em que universos distintos serão envolvidos numa audaciosa disputa em busca de poder. Num ambiente cercado por magia, encontra-se o enigmático território de Lanóvia. Um local que abriga um misterioso portal capaz de conduzir humanos, seres místicos e criaturas sobrenaturais numa viagem rumo ao desconhecido. Começa agora uma jornada espetacular repleta de paixões arrebatadoras, grandes mistérios, intensas perseguições e muitos segredos a serem desvendados. Seja bem-vindo ao Mundo Etéreo... E descubra como será fantástico fazer parte desta aventura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542802528"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542802527"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 441,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KEuZAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KEuZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KEuZAwAAQBAJ&pg=PT219&dq=Cidade+dos+et%C3%A9reos&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KEuZAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KEuZAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KEuZAwAAQBAJ&rdid=book-KEuZAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Et%C3%A9reos-sample-epub.acsm?id=KEuZAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Et%C3%A9reos-sample-pdf.acsm?id=KEuZAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KEuZAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seguir até a \u003cb\u003ecidade\u003c/b\u003e com Nicolau seria o mesmo que seguir com um irmão. — \u003cbr\u003e\nEntão que o nosso passeio fique para uma próxima vez — ele mencionou, \u003cbr\u003e\nparecendo ter compreendido os meus motivos. — Tenho certeza de que logo \u003cbr\u003e\nseremos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DEZVCgAAQBAJ",
+   "etag": "wD37TcgxZ0A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DEZVCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Borboleta Negra - A Cidade Voraz",
+    "subtitle": "",
+    "authors": [
+     "Mara Lúcia de Castro"
+    ],
+    "publisher": "biblioteca24horas",
+    "publishedDate": "2014-12-08",
+    "description": "Rodrigo, delegado de polícia na cidade de São Paulo, está às voltas com a resolução de casos enigmáticos de pessoas encontradas mortas nas ruas da cidade apresentando o mesmo resultado no laudo de necropsia um plasma sanguíneo destituído de hemácias e arranhões na região pubiana e genital. Os cadáveres não apresentam sinais de luta, nem tampouco há testemunhas ou imagens de monitoramento das ruas que possam dar uma pista do que realmente aconteceu. No entanto surge um fato novo a morte de um homem conhecido na cidade, o presidente da Câmara dos Vereadores. Homem conhecido por seu discurso moralista e homofóbico. Diante deste novo fato a investigação ganha novos rumos com a descoberta da primeira suspeita.Recusando sempre as opiniões de sua esposa, Deise, que teima em afirmar que os casos estão sob a ordem de algo sobrenatural, as investigações de Rodrigo seguem sem solução. Poderia o homem vencer o sobrenatural? Rodrigo, um homem cético estaria preparado para tal feito?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541608305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541608301"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DEZVCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DEZVCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DEZVCgAAQBAJ&pg=PA140&dq=Cidade+dos+et%C3%A9reos&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=DEZVCgAAQBAJ&dq=Cidade+dos+et%C3%A9reos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Borboleta_Negra_A_Cidade_Voraz.html?hl=&id=DEZVCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DEZVCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... o seu cérebro e daí até seu coração, espraivam-se pelo ambiente, misturando-\u003cbr\u003e\nse ainda mais àquela energia original e através da manipulação dos guias \u003cbr\u003e\npresentes, transmutavam-se em seres \u003cb\u003eetéreos\u003c/b\u003e que representam os sete \u003cbr\u003e\nelementos,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bekuAAAAYAAJ",
+   "etag": "VY7BBfic7To",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bekuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O imaginário da cidade",
+    "subtitle": "visões literárias do urbano : París, Rio de Janeiro, Porto Alegre",
+    "authors": [
+     "Sandra Jatahy Pesavento"
+    ],
+    "publisher": "Editora Da Universidade/Ufrgs",
+    "publishedDate": "1999-01-01",
+    "description": "Visões literárias do urbano. PARIS-RIO DE JANEIRO - PORTO ALEGRE.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173006496377"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 393,
+    "printType": "BOOK",
+    "categories": [
+     "Cities and towns"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bekuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bekuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bekuAAAAYAAJ&q=Cidade+dos+et%C3%A9reos&dq=Cidade+dos+et%C3%A9reos&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bekuAAAAYAAJ&dq=Cidade+dos+et%C3%A9reos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_imagin%C3%A1rio_da_cidade.html?hl=&id=bekuAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bekuAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... eram não só um reduto da socialidade masculina, como compunham, com as \u003cbr\u003e\nlivrarias, os espaços culturais da \u003cb\u003ecidade\u003c/b\u003e. ... provoca olhares \u003cb\u003eetéreos\u003c/b\u003e e cristalinos \u003cbr\u003e\nde criaturas meigas e tentadoras, felizes e sedutoras...145 O Café América era,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iI9dAAAAMAAJ",
+   "etag": "RqjVkYj054Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iI9dAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Arquitetura, arte e cidade",
+    "subtitle": "textos reunidos",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173013777398"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iI9dAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iI9dAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iI9dAAAAMAAJ&q=Cidade+dos+et%C3%A9reos&dq=Cidade+dos+et%C3%A9reos&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iI9dAAAAMAAJ&dq=Cidade+dos+et%C3%A9reos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Arquitetura_arte_e_cidade.html?hl=&id=iI9dAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iI9dAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não um, mas muitos. Junto ao Sena, passear de mãos dadas com bem-amados \u003cbr\u003e\n\u003cb\u003eetéreos\u003c/b\u003e; na Mouraria, compor fados merencórios. Olha lá Nova Iorque! O metro \u003cbr\u003e\nme espera voraz; Long Island me chama. Não; agora vou ver o sol da Califórnia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q7gtAAAAIAAJ",
+   "etag": "zHW+LLLdstM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q7gtAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Miscelânea de estudos em honra do Prof. Hernâni Cidade",
+    "authors": [
+     "Universidade de Lisboa. Faculdade de Letras"
+    ],
+    "publishedDate": "1957",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105040173523"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese philology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q7gtAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q7gtAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q7gtAAAAIAAJ&q=Cidade+dos+et%C3%A9reos&dq=Cidade+dos+et%C3%A9reos&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Q7gtAAAAIAAJ&dq=Cidade+dos+et%C3%A9reos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Miscel%C3%A2nea_de_estudos_em_honra_do_Prof.html?hl=&id=Q7gtAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q7gtAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... llama brota como centella de los fuegos \u003cb\u003eetéreos\u003c/b\u003e a cuyo poder está sometido \u003cbr\u003e\ncasi todo lo terrestre o, mejor, porque es la voluntad del Padre Altisimo enlazar \u003cbr\u003e\ncon perpetua amistad a los que son somejantes entre si. Yo a lo menos Zárate&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E9jcDQAAQBAJ",
+   "etag": "cm8jkhBGbFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E9jcDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Expressões Artísticas Urbanas: etnografia e criatividade em espaços atlânticos",
+    "subtitle": "",
+    "authors": [
+     "Ferro,Lígia",
+     "Raposo,Otávio",
+     "Sá Gonçalves,Renata de"
+    ],
+    "publisher": "Mauad Editora Ltda",
+    "publishedDate": "2017-01-09",
+    "description": "As expressões artísticas em meio urbano são rico objeto de estudo na atual produção das Ciências Sociais. Este livro enfoca e debate estratégias e experiências de pesquisa, problematizando as práticas artísticas enquanto expressões de identidades múltiplas em contextos urbanos diversos. Os textos refletem sobre a linguagem artística nas suas variadas perspectivas, cujas marcas e inscrições não se esgotam dentro e fora de instituições culturais, galerias de arte, festas, ruas, muros, becos, etc. O ineditismo e originalidade do fio condutor desta coletânea é dialogar sobre expressões artísticas tais como dança (funk, hip hop, samba), manifestações festivas, música, fotografia, enfocando especificamente a perspectiva etnográfica no estudo antropológico dessas expressões em contextos urbanos. Esta obra certamente suscitará o interesse não só de estudantes e pesquisadores de várias áreas, como também do público em geral, interessado na temática das práticas e expressões artísticas em contexto urbano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574788814"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574788813"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 239,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=E9jcDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=E9jcDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=E9jcDQAAQBAJ&pg=PT202&dq=Cidade+dos+et%C3%A9reos&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=E9jcDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-E9jcDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=E9jcDQAAQBAJ&rdid=book-E9jcDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Express%C3%B5es_Art%C3%ADsticas_Urbanas_etnograf-sample-pdf.acsm?id=E9jcDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E9jcDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "projeções, provocações e especulações entre design e antropologia no centro \u003cbr\u003e\nda \u003cb\u003ecidade\u003c/b\u003e do ... vividas na \u003cb\u003ecidade\u003c/b\u003e carrega em si, de modo distinto, matizes por \u003cbr\u003e\nvezes mais concretamente perceptíveis e outros que terminam mais \u003cb\u003eetéreos\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q7OlDgAAQBAJ",
+   "etag": "neQJrj4fjgg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q7OlDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O chamado de Cthulhu e outros contos",
+    "authors": [
+     "H.P. Lovecraft"
+    ],
+    "publisher": "L&PM",
+    "publishedDate": "2017-04-11",
+    "description": "\"O chamado de Cthulhu\", escrito em 1926 por Lovecraft, delineou grande parte daquilo que ficaria conhecido como os Mitos de Cthulhu, denominação sob a qual parte de sua obra foi reunida após sua morte. Primorosa por seu detalhamento, revolucionária no próprio formato de conto, esta história é um ponto seminal da sua produção. Este volume abarca histórias dos Mitos de Cthulhu e outras preciosidades da escrita lovecraftiana. \"Nyarlathotep\", \"A cidade sem nome\", \"A música de Erich Zann\", \"Herbert West – Reanimador\", \"Os ratos nas paredes\", \"Ar frio\", \"O modelo de Pickman\", \"A cor vinda do espaço\", \"A história do Necronomicon\" e \"O horror de Dunwich\" completam esta edição.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525435163"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525435163"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.9.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q7OlDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q7OlDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=q7OlDgAAQBAJ&pg=PT14&dq=Cidade+dos+et%C3%A9reos&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=q7OlDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-q7OlDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=q7OlDgAAQBAJ&rdid=book-q7OlDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.08E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_chamado_de_Cthulhu_e_outros_contos-sample-epub.acsm?id=q7OlDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_chamado_de_Cthulhu_e_outros_contos-sample-pdf.acsm?id=q7OlDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q7OlDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "representar os homens desconhecidos, de acordo com os costumes da \u003cb\u003ecidade\u003c/b\u003e \u003cbr\u003e\nsem nome. ... para ser tomadas como verdadeiras; retratavam um mundo \u003cbr\u003e\nescondido de luz do dia eterno, repleto de cidades gloriosas e morros e vales \u003cbr\u003e\n\u003cb\u003eetéreos\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DKCPu5135kIC",
+   "etag": "CMplVnZtD3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DKCPu5135kIC",
+   "volumeInfo": {
+    "title": "O Guardião",
+    "authors": [
+     "Daniel Polansky"
+    ],
+    "publisher": "Geração Editorial",
+    "publishedDate": "2012-04-02",
+    "description": "ANTI-HERÓI DESENCANTADO COMBATE O CRIME NUM MUNDO ASSOMBROSO. PODERÁ SE REDIMIR AO INVESTIGAR O ESTUPRO E ASSASSINATO DE UMA GAROTINHA? Imagine um policial noir como os de Raymond Chandler e James Ellroy com o ritmo sanguinolento dos fi lmes de Quentin Tarantino e a fantasia de \"O Senhor dos Anéis\", num cenário como a Los Angeles de \"Blade Runner\", onde os policiais não querem ver nada que não convenha e convivem com gangues multiétnicas de assassinos, prostitutas, contrabandistas, drogados e trafi cantes. Pelas ruas imundas desse mundo devastado, em meio a uma fauna corrupta de que é prudente desconfiar a todo momento, vaga o \"Guardião\", um tipo solitário e desiludido que viveu como combatente numa grande guerra, sobreviveu a uma peste e leva a vida como narcotrafi cante. Ele se droga para suportar seu cotidiano sórdido e investiga o cruel assassinato e estupro de uma garotinha. \"Cidade das Sombras\" é uma trilogia fantástica, cujo primeiro volume é este alucinante romance de estreia que inaugura um novo gênero: a \"fantasia noir\". Tenso, com um suspense crescente, \"O Guardião\" surpreende pela ousadia, assusta com a previsão de um futuro sombrio para a humanidade e garante uma leitura de impacto do começo ao fim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581300610"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581300618"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DKCPu5135kIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DKCPu5135kIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DKCPu5135kIC&pg=PT59&dq=Cidade+dos+et%C3%A9reos&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DKCPu5135kIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DKCPu5135kIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.85,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DKCPu5135kIC&rdid=book-DKCPu5135kIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.65E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.385E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Guardi%C3%A3o-sample-epub.acsm?id=DKCPu5135kIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Guardi%C3%A3o-sample-pdf.acsm?id=DKCPu5135kIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DKCPu5135kIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nada de espíritos \u003cb\u003eetéreos\u003c/b\u003e, nada de aparições sombrias surgindo na minha visão \u003cbr\u003e\nperiférica — apenas a fervura na bunda de Rigus que é a \u003cb\u003eCidade\u003c/b\u003e Baixa, \u003cbr\u003e\ncozinhando toda a sua glória fétida. Por algum tempo eu presumi que as coisas\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "neRBswEACAAJ",
+   "etag": "DxEcqOQIyuI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/neRBswEACAAJ",
+   "volumeInfo": {
+    "title": "Justin Bieber - Uma Biografia Nao Autorizada",
+    "authors": [
+     "Chas Newkey-burden"
+    ],
+    "description": "Em 'Justin Bieber - Uma Biografia Não Autorizada', Chas Newkey-Burden apresenta a vida do cantor, desde os tempos como um garoto comum da cidade canadense de Stratford, o dia a dia e os bastidores de sua escalada à fama.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857927107X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579271076"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=neRBswEACAAJ&dq=isbn:9788579271076&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=neRBswEACAAJ&dq=isbn:9788579271076&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Justin_Bieber_Uma_Biografia_Nao_Autoriza.html?hl=&id=neRBswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=neRBswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Justin Bieber - Uma Biografia Não Autorizada&#39;, Chas Newkey-Burden apresenta a vida do cantor, desde os tempos como um garoto comum da cidade canadense de Stratford, o dia a dia e os bastidores de sua escalada à fama."
+   }
+  }
+ ]
+}

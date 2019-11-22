@@ -1,0 +1,708 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 44,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rqFYsieswxIC",
+   "etag": "joprSnPdm50",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rqFYsieswxIC",
+   "volumeInfo": {
+    "title": "Illustracao portugueza. 2. serie",
+    "publishedDate": "1913",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044083316851"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rqFYsieswxIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rqFYsieswxIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rqFYsieswxIC&pg=PA292&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rqFYsieswxIC&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Illustracao_portugueza_2_serie.html?hl=&id=rqFYsieswxIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rqFYsieswxIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1ZnlCwAAQBAJ",
+   "etag": "dGGNBurde5w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1ZnlCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Temporada dos ossos",
+    "authors": [
+     "Samantha Shannon"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2016-04-01",
+    "description": "O ano é 2059. Até onde seu pai sabe, Paige Mahoney é funcionária de um dos vários bares de oxigênio espalhados pela cidade. Seria perigoso deixá-lo a par de sua ligação com o submundo, onde ela trabalha para um poderoso mime-lorde chamado Jaxon Hall. Sua função: invadir a mente de outras pessoas para conseguir informações. Paige é uma andarilha onírica – e, no governo opressor de Scion Londres, sua simples existência já configura uma traição. No dia em que sua vida muda para sempre, está chovendo. Paige é perseguida, drogada e levada para Oxford – um lugar controlado pelos Rephaim, uma raça antiga e ameaçadora, com desígnios misteriosos para ela. Nessa prisão inescapável e sob a guarda de um dos mais poderosos Rephaites, Paige precisará explorar os limites do próprio poder e aprender a confiar em aliados improváveis para evitar sujar as mãos de sangue e tentar lutar por sua liberdade. Uma nova estirpe de autoras veio tomar lugar na Fantasia. Quem lidera o ataque é Samantha Shannon. – Harper's Bazaar",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568263310"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8568263313"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.22.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1ZnlCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1ZnlCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1ZnlCwAAQBAJ&pg=PT34&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1ZnlCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1ZnlCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.02,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1ZnlCwAAQBAJ&rdid=book-1ZnlCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.802E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Temporada_dos_ossos-sample-epub.acsm?id=1ZnlCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Temporada_dos_ossos-sample-pdf.acsm?id=1ZnlCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1ZnlCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Enquanto o invocador controlava os poltergeists, o Subguarda \u003cb\u003e2\u003c/b\u003e estava \u003cbr\u003e\nrecitando a trenódia: uma \u003cb\u003esérie\u003c/b\u003e de palavras que ... Meu espírito voou para \u003cb\u003efora\u003c/b\u003e \u003cbr\u003e\ndo meu corpo, indo direto para o Subguarda 1. ... Eu nunca tinha sentido uma \u003cbr\u003e\ndor como essa em toda a \u003cb\u003eminha vida\u003c/b\u003e; eram facas perfurando meu crânio, fogo no \u003cbr\u003e\ntecido do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u9vmoCQfTgoC",
+   "etag": "axMIcJ1BTtk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u9vmoCQfTgoC",
+   "volumeInfo": {
+    "title": "Um chefe apaixonado",
+    "authors": [
+     "Carol Marinelli"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2012-09-16",
+    "description": "Ele pretendia promover a sua secretária, ela queria outra coisa... A simples Emma Stephenson não era uma secretária espantosa, porém, para Luca D'Amato, um mulherengo empedernido, conquistá-la transformara-se no seu jogo preferido. A sensata Emma acreditava que a única coisa que podiam partilhar era o escritório... não a cama! Todavia depressa se apercebeu do que realmente significava ser secretária de Luca.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788468706481"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8468706485"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u9vmoCQfTgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u9vmoCQfTgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u9vmoCQfTgoC&pg=PT10&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=u9vmoCQfTgoC&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_chefe_apaixonado.html?hl=&id=u9vmoCQfTgoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_chefe_apaixonado-sample-epub.acsm?id=u9vmoCQfTgoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_chefe_apaixonado-sample-pdf.acsm?id=u9vmoCQfTgoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u9vmoCQfTgoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tu – disse Luca, voltando ao frigorífico para tirar comida, – és o cão mais \u003cbr\u003e\npatético que já vi na \u003cb\u003eminha vida\u003c/b\u003e. ... \u003cb\u003eFora\u003c/b\u003e um inferno acabar com Martha, as \u003cbr\u003e\nlágrimas e os protestos pelo fim inesperado tinham sido inacabáveis, ... Três \u003cbr\u003e\nminutos antes do fim do último episódio da \u003cb\u003etemporada\u003c/b\u003e, Luca pensou que era \u003cbr\u003e\numa \u003cb\u003esérie\u003c/b\u003e que poderia habituar-se a ver. ... Capítulo \u003cb\u003e2\u003c/b\u003e Eram cinco menos um \u003cbr\u003e\nquarto de quinta-feira e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nqfQCgAAQBAJ",
+   "etag": "5pVZ3w7BhD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nqfQCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Giba neles!",
+    "authors": [
+     "Giba",
+     "Luiz Paulo Montes"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2015-10-27",
+    "description": "Seis vezes escolhido o melhor jogador, dono de três medalhas olímpicas, capitão da seleção brasileira. Giba trouxe muita alegria aos torcedores com seu talento nas quadras e vai emocionar os brasileiros mais uma vez ao contar a história de sua vida. O comentarista acaba de lançar Giba neles!, autobiografia escrita em parceria com o jornalista Luiz Paulo Montes. Sem medo de se expor, Giba fala sobre seu diagnóstico de leucemia aos quatro meses de idade, de sua relação com a família e de um acidente, aos 11 anos, pouco depois de descobrir sua paixão pelo vôlei. Se 150 pontos no braço pareciam o fim do sonho, para ele foi mais um desafio a ser superado. Além das dificuldades que forjaram seu caráter e o estimularam a seguir em frente, Giba conta os momentos emocionantes de sua carreira e comenta episódios polêmicos como sua suspensão devido a um exame antidoping, na Itália, em 2003. Giba Neles! revela a humanidade do ídolo ao falar da paternidade, das amizades e da família. O esforço para se recuperar de lesões, as negociações delicadas com times, a dedicação e o foco nos treinamentos. O Brasil viu Giba brilhar nas quadras, conquistar títulos e fazer história. Sua biografia mostra os bastidores de suas vitórias e derrotas. Em seu prefácio, o técnico José Roberto Guimarães, que levou o jogado para a seleção brasileira, recomenda: “Não fuja do encontro com um dos maiores ídolos do esporte brasileiro”.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525061812"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525061816"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nqfQCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nqfQCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nqfQCgAAQBAJ&pg=PT83&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nqfQCgAAQBAJ&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Giba_neles.html?hl=&id=nqfQCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Giba_neles-sample-epub.acsm?id=nqfQCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Giba_neles-sample-pdf.acsm?id=nqfQCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nqfQCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "D ois mil e dois foi um ano bastante complicado para mim \u003cb\u003efora\u003c/b\u003e de quadra — algo \u003cbr\u003e\nbastante diferente de meu momento no vôlei. Além das já citadas conquistas \u003cbr\u003e\ncom a seleção, a \u003cb\u003etemporada\u003c/b\u003e 2001/02 na Itália, com o Ferrara, embora de muita ... \u003cbr\u003e\no Macerata nas quartas de final, em uma \u003cb\u003esérie\u003c/b\u003e disputada em melhor de cinco \u003cbr\u003e\njogos — ganhamos por 3 partidas a \u003cb\u003e2\u003c/b\u003e. ... eu ainda jogava no Minas, diversos \u003cbr\u003e\nproblemas familiares fizeram com que eu tomasse a decisão de viver \u003cb\u003eminha vida\u003c/b\u003e\u003cbr\u003e\n. Estava&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ggnoAwAAQBAJ",
+   "etag": "lbkJMJwYDl8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ggnoAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Vida de cinema",
+    "authors": [
+     "Cacá Diegues"
+    ],
+    "publisher": "Editora Objetiva",
+    "publishedDate": "2014-05-29",
+    "description": "Cacá Diegues se viu paralisado e sem ar. Tinha de 5 para 6 anos e havia entrado pela primeira vez no cinema, em sua Maceió natal. Descobriu ali um mundo em tudo diferente do seu, povoado de gente “bonita e elegante”. Esse encontro entre o menino e a tela provocou um encantamento que dura até hoje e que fez surgir um cineasta em permanente mutação, que vive intensamente sua época. Ao longo de sua rica trajetória, o diretor de Chuvas de verão, Bye Bye Brasil e Deus é brasileiro mostra-se um cineasta que não se deixa aprisionar pela censura, por modismos, ideologias, convenções. A obra do integrante do grupo que criou o Cinema Novo, marco fundador de uma nova maneira de filmar e pensar o Brasil, dialoga com seu tempo — ora explicando-o, ora confrontando-o —, numa busca pela síntese entre reflexão e espetáculo, informação e comunicação, pensamento e beleza. Em suas memórias, escritas ao longo de sete anos, o autor, com honestidade radical e impressionante lucidez, revisita os tempos de militância estudantil, revela os bastidores da produção de seus filmes e relembra algumas das polêmicas em que se envolveu. Da infância em Alagoas, passando pelos altos e baixos dos casamentos com Nara Leão e Renata de Almeida Magalhães, ao triunfo no Festival de Cannes, Vida de cinema narra mais do que a história da vida e obra de um dos principais cineastas brasileiros. É um relato dos últimos 50 anos do país pela voz de Cacá, panorama de uma época marcada pela modernização na década de 1950, a efervescência cultural dos 60, os anos de chumbo, a luta contra o autoritarismo e a redemocratização.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539006038"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539006030"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 693,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ggnoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ggnoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ggnoAwAAQBAJ&pg=PT291&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ggnoAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ggnoAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ggnoAwAAQBAJ&rdid=book-ggnoAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vida_de_cinema-sample-epub.acsm?id=ggnoAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vida_de_cinema-sample-pdf.acsm?id=ggnoAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ggnoAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para garantir a fuga, Pedro havia escapado vestido de mulher e eu, ao lado de \u003cbr\u003e\n\u003cb\u003eminha\u003c/b\u003e absoluta solidariedade, ria ao imaginar ... Pouco antes de receber a \u003cbr\u003e\nnotícia da censura espanhola, um diretor da Antenne \u003cb\u003e2\u003c/b\u003e, o canal cultural da \u003cbr\u003e\ntelevisão francesa ainda ... A \u003cb\u003esérie\u003c/b\u003e se chamaria Carnets de Voyage en France e \u003cbr\u003e\nseria exibida dentro do programa Panorama, o mais prestigioso magazine ... Dei \u003cbr\u003e\nao filme o nome de Séjour (\u003cb\u003etemporada\u003c/b\u003e ou estada, o tempo que se fica no lugar \u003cbr\u003e\nque se visita)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zjHDQWalGjwC",
+   "etag": "ysPEC6ilq6g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zjHDQWalGjwC",
+   "volumeInfo": {
+    "title": "Placar Magazine",
+    "publishedDate": "1978-05-12",
+    "description": "PLACAR: a maior revista brasileira de futebol. Notícias, perfis, entrevistas, fotos exclusivas.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 68,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zjHDQWalGjwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zjHDQWalGjwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zjHDQWalGjwC&pg=PA56&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zjHDQWalGjwC&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Placar_Magazine.html?hl=&id=zjHDQWalGjwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zjHDQWalGjwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eFora\u003c/b\u003e do carro, mais comemoração. ... Um menino ganhando um jogo de criança: \u003cbr\u003e\nnão um grande prêmio de Fórmula \u003cb\u003e2\u003c/b\u003e, mas um racha de carrinhos de ... Foi a \u003cbr\u003e\ngrande emoção de \u003cb\u003eminha vida\u003c/b\u003e, me senti de volta ao automobilismo. ... Quando \u003cbr\u003e\nsentiu que já não era possível conseguir o patrocínio para esta \u003cb\u003etemporada\u003c/b\u003e de F2, \u003cbr\u003e\n... E aventura é bem o termo, pois pressupõe uma \u003cb\u003esérie\u003c/b\u003e de ingredientes \u003cbr\u003e\ninusitados."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w1mlvNScws4C",
+   "etag": "gajxRMWQLz0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w1mlvNScws4C",
+   "volumeInfo": {
+    "title": "Waldir Azevedo",
+    "subtitle": "um cavaquinho na história",
+    "authors": [
+     "Marco Antonio Bernardo"
+    ],
+    "publisher": "Irmãos Vitale",
+    "publishedDate": "2004-01-01",
+    "description": "Biografia do compositor e instrumentista Waldir Azevedo, responsável pela introdução do cavaquinho como um instrumento solista, posto que, até então, ele só era executado como acompanhante de grupos musicais. É de Waldir a autoria de vários clássicos do choro brasileiro, entre os quais destacamos Brasileirinho, Delicado e Pedacinhos do céu. Para escrever suas pesquisas sobre o compositor, o maestro e musicólogo Marco Antonio Bernardo contou com a inestimável colaboração de Olinda, viúva de Waldir. O livro apresenta, também, um catálogo completo das composições, discografia e iconografia (reportagens, fotos e capas dos principais discos) desse grande mestre do cavaquinho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574071870"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574071879"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+     "Cavaquinho players"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w1mlvNScws4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w1mlvNScws4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=w1mlvNScws4C&pg=PA99&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=w1mlvNScws4C&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Waldir_Azevedo.html?hl=&id=w1mlvNScws4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w1mlvNScws4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... Cavaquinho Seresteiro, cujo tema lhe ocorrera no trajeto de avião que \u003cbr\u003e\ntrouxera aquele de Brasília, e \u003cb\u003efora\u003c/b\u003e concluído no hotel. ... \u003cb\u003e2\u003c/b\u003e. Uma curiosidade: ao \u003cbr\u003e\ntérmino do show, Waldir saiu imediatamente do teatro em direção ao aeroporto, \u003cbr\u003e\ntomando o ... assim que a encontrou em casa, contou-lhe o ocorrido: Olinda, hoje \u003cbr\u003e\neu vivi o momento mais especial da \u003cb\u003eminha vida\u003c/b\u003e! ... O espetáculo O Fino da \u003cbr\u003e\nMúsica tornou-se uma \u003cb\u003esérie\u003c/b\u003e de sucesso, e Waldir foi requisitado para os shows \u003cbr\u003e\nde número 4,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XocwAAAAYAAJ",
+   "etag": "HWc1ysMHdoA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XocwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172148154710"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XocwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XocwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XocwAAAAYAAJ&q=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XocwAAAAYAAJ&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=XocwAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XocwAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Circo Voador (\u003cb\u003e2\u003c/b\u003e 000 lugares). ... No próximo show da \u003cb\u003esérie\u003c/b\u003e Quartas Instrumentais\u003cbr\u003e\n, o músico faz um pequeno panorama de sua carreira artística. ... A feira oferece \u003cbr\u003e\nshows, palestras e oficinas voltadas para o tema qualidade de \u003cb\u003evida\u003c/b\u003e. ... Sá- A \u003cbr\u003e\n\u003cb\u003eMinha\u003c/b\u003e Alma. ... Pagode Jazz Sardinha&#39;s Club, lança simultaneamente um CD de \u003cbr\u003e\ncanções [\u003cb\u003eFora\u003c/b\u003e de Esquadro) e outro totalmente instrumental [No Bangalô da \u003cbr\u003e\nBandola). A \u003cb\u003etemporada\u003c/b\u003e se estende até o fim do més de outubro, sempre às \u003cbr\u003e\nterças-feiras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K_IwAQAAIAAJ",
+   "etag": "rl4M95TkD88",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K_IwAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Cultura",
+    "publishedDate": "1973",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105019967723"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=K_IwAQAAIAAJ&q=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=K_IwAQAAIAAJ&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cultura.html?hl=&id=K_IwAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K_IwAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... u&#39;alve tão bonita Que aliveia \u003cb\u003eminha vida\u003c/b\u003e Numa noite de luá, Coro: Não vá \u003cbr\u003e\nchorá, 0 \u003cb\u003eminha\u003c/b\u003e estrela donzela, Saia \u003cb\u003efora\u003c/b\u003e da ... representações (entremeios e \u003cbr\u003e\npartes), costumam os &quot;guerreiros&quot; levar a efeito uma \u003cb\u003esérie\u003c/b\u003e de declamações e \u003cbr\u003e\ncantigas não ... mente improvisadas ou, pelo menos, compostas para a \u003cbr\u003e\n\u003cb\u003etemporada\u003c/b\u003e sobre motivos musicais conhecidos e tradicionais ... de marcha; e \u003cb\u003e2\u003c/b\u003e. \u003cbr\u003e\npeças sapateadas, distinguidas diversamente conforme o tipo de sapateio em &quot;\u003cbr\u003e\npeças de sotaque&quot;,."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1rY9AQAAIAAJ",
+   "etag": "2hZtBlZJUuQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1rY9AQAAIAAJ",
+   "volumeInfo": {
+    "title": "O Cruzeiro",
+    "subtitle": "revista semanal ilustrada",
+    "publishedDate": "1963-06",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105015057677"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian periodicals"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1rY9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1rY9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1rY9AQAAIAAJ&q=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1rY9AQAAIAAJ&dq=Minha+vida+fora+de+s%C3%A9rie+-+2%C2%AA+temporada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Cruzeiro.html?hl=&id=1rY9AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1rY9AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alexandre termina voltando para Juiz de \u003cb\u003eFora\u003c/b\u003e e Maria acaba a triz, com o nome \u003cbr\u003e\nde Regina Maura. Depois ... Por essa época frequentava \u003cb\u003ea segunda série\u003c/b\u003e do \u003cbr\u003e\ncurso de Direito. ... nha pena&quot;, como contratado pela orquest Maestro Splna, que \u003cbr\u003e\niria uma \u003cb\u003etemporada\u003c/b\u003e em Santot Santos fui a Poços de Caldf desta cidade voltei ao \u003cbr\u003e\nRio, venci um concurso de mvi carnavalescas. \u003cb\u003eMinha vida\u003c/b\u003e ta outro e vitorioso \u003cbr\u003e\nrumo."
+   }
+  }
+ ]
+}

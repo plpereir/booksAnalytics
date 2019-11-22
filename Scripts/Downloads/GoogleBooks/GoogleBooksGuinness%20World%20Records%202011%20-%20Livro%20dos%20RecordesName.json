@@ -1,0 +1,476 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 6,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "i6W2uQEACAAJ",
+   "etag": "+QxQHrGeG38",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i6W2uQEACAAJ",
+   "volumeInfo": {
+    "title": "Guinness world records 2011",
+    "publishedDate": "2010",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9722040944"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722040945"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 285,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=i6W2uQEACAAJ&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=i6W2uQEACAAJ&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_world_records_2011.html?hl=&id=i6W2uQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i6W2uQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5etEBQAAQBAJ",
+   "etag": "9TdcztbFo0I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5etEBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Guinness World Records 2015",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Agir",
+    "publishedDate": "2014-10-15",
+    "description": "MILHARES DE RECORDES ATUALIZADOS E FOTOS INÉDITAS! Compartilhe seus recordes favoritos #GWR60 - Saiba quem é o jogador com mais títulos da Copa do Mundo. Ele é brasileiro! - Descubra a substância mais fedida. - Conheça o explorador polar mais jovem. - Veja os pets mais talentosos do planeta. - Detalhes sobre o maior roubo de diamantes. E MAIS Flashback: acompanhe as mudanças nos recordes nos últimos 60 anos. Compare sua altura com a do homem mais alto de todos os tempos usando o aplicativo GRATUITO de realidade aumentada. NOVA REALIDADE AUMENTADA - TAMBÉM NO EBOOK! Baixe o app GRATUITO “See it 3D” (Veja em 3D), e alguns de seus recordistas prediletos vão ganhar vida. Simplesmente aponte seu celular ou tablet para as páginas onde se encontra o ícone “VEJA EM 3D” e você vai conseguir ver um gigante, explorar as profundidades do oceano e ainda combater bichos de queijo em um novo videogame.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522030545"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8522030545"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5etEBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5etEBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5etEBQAAQBAJ&pg=PA173&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5etEBQAAQBAJ&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2015.html?hl=&id=5etEBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guinness_World_Records_2015-sample-epub.acsm?id=5etEBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guinness_World_Records_2015-sample-pdf.acsm?id=5etEBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5etEBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "FATO De abril a dezembro de 2012, imprimiram-se só 250 exemplares do \u003cb\u003elivro\u003c/b\u003e \u003cbr\u003e\nde 22 páginas. ... (\u003cb\u003e2011\u003c/b\u003e) contém 196 páginas em branCO, } Maior \u003cb\u003elivro\u003c/b\u003e Um \u003cb\u003elivro\u003c/b\u003e \u003cbr\u003e\nde fotografia medindo 5,01 x 8,08m foi criado pela ... exemplar do GWR foi \u003cbr\u003e\nvendido em 2004, embora a essa altura o \u003cb\u003elivro\u003c/b\u003e já tivesse entrado para o arquivo \u003cbr\u003e\nde \u003cb\u003erecordes\u003c/b\u003e. Na edição de 1975 (à direita), os editores fundadores Norris e Ross \u003cbr\u003e\nMcWhirter anunciaram que, em novembro de 1974, o \u003cb\u003eGuinness Book of Records\u003c/b\u003e,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KfYZDgAAQBAJ",
+   "etag": "0OxhrOS+VIs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KfYZDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Rio Book",
+    "authors": [
+     "Ricardo Amaral"
+    ],
+    "publisher": "Rara Cultural (Rara Empreendimentos e Participações LTDA)",
+    "publishedDate": "2017-03-11",
+    "description": "O Rio Book é um rico painel da cidade, com o melhor da cultura, gastronomia, esporte, entretenimento, pontos turísticos, serviços e comércio. Uma bela publicação de arte, fundamental para o Rio de Janeiro e seus amantes e admiradores, sejam visitantes ou moradores. A edição digital leva o Rio de Janeiro por todo o Brasil e pelo mundo, apresentando a programação da cidade, seus eventos e prazeres.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788567863108"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8567863104"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KfYZDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KfYZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KfYZDgAAQBAJ&printsec=frontcover&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KfYZDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KfYZDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KfYZDgAAQBAJ&rdid=book-KfYZDgAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rio_Book-sample-epub.acsm?id=KfYZDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Rio_Book-sample-pdf.acsm?id=KfYZDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KfYZDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Rio Book é um rico painel da cidade, com o melhor da cultura, gastronomia, esporte, entretenimento, pontos turísticos, serviços e comércio."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y1JvE_yXmNEC",
+   "etag": "l7R8BI37ubQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y1JvE_yXmNEC",
+   "volumeInfo": {
+    "title": "O Estrategista em Mídias Sociais",
+    "subtitle": "Desenvolva um programa bem-sucedido trabalhando de dentro para fora em sua empresa",
+    "authors": [
+     "Christopher Barger"
+    ],
+    "publisher": "DVS Editora",
+    "description": "Profissionais designados a trabalhar com mídias sociais em grandes empresas precisam lidar com desafios específicos a esse tipo de companhia. Além da análise de dados coletados nas redes, da produção de conteúdo de qualidade e da interação com o público, é necessário que o responsável pela área possua atributos que lhe permita aproveitar os recursos da organização e driblar a burocracia para obter resultados rápidos, já que velocidade faz parte da dinâmica desse meio. Em 'O Estrategista em Mídias Sociais', o autor consolida no livro sua experiência como diretor de mídias sociais em duas grande empresas. Em ambos os casos, o trabalho de Barger recebeu grande reconhecimento das mídias especializadas em Relações Públicas, marketing e administração, que passaram a considerar as empresas dentro do grupo das que melhor utilizam as mídias sociais. Desse modo, a obra se configura como uma fonte de informação originada dentro do ambiente corporativo, para o qual também é voltada. Ou seja, Barger não fala apenas como um analista que enxerga caminhos sobre como o investimento em mídias sociais pode trazer retorno financeiro e em termos de fortalecimento da marca, mas também como alguém que implementou ideias que deram certo. A leitura do livro oferece a profissionais e líderes da área de comunicações ou de marketing dentro de uma grande organização um ponto de partida para o trabalho em mídias sociais. Começar do zero pode significar cometer erros facilmente evitáveis. Por exemplo, Christopher Barger cita como falhas recorrentes das empresas manterem uma página oficial no Facebook na qual nenhum comentário da comunidade é respondido; uma conta no Twitter que não recebe qualquer postagem por dias ou até semanas; e um canal no YouTube que apresente os mesmos três vídeos por meses. Será que estou cometendo esses ou outros erros? Como evitá-los e quais são as melhores práticas? E, sobretudo, como representar uma grande marca dentro das redes sociais? 'O Estrategista em Mídias Sociais' traz luz a esses e outros questionamentos e mostra como as empresas podem atrair seu público, publicando conteúdo relevante e se transformando em verdadeiros meios de comunicação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588329881"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588329883"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=y1JvE_yXmNEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=y1JvE_yXmNEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=y1JvE_yXmNEC&pg=PT149&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=y1JvE_yXmNEC&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Estrategista_em_M%C3%ADdias_Sociais.html?hl=&id=y1JvE_yXmNEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Estrategista_em_M%C3%ADdias_Sociais-sample-epub.acsm?id=y1JvE_yXmNEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Estrategista_em_M%C3%ADdias_Sociais-sample-pdf.acsm?id=y1JvE_yXmNEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y1JvE_yXmNEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "27 Mashable, Charlie Sheen Sets \u003cb\u003eGuinness World Record for\u003c/b\u003e Twitter ¬Charlie \u003cbr\u003e\nSheen entra para o \u003cb\u003elivro\u003c/b\u003e Guiness ao estabelecer novo \u003cb\u003erecorde\u003c/b\u003e no Twitter) , 3 de \u003cbr\u003e\nmarço de \u003cb\u003e2011\u003c/b\u003e, http://mashable.com/\u003cb\u003e2011\u003c/b\u003e/03/03/charliesheen-sets-new-&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H8eqCwAAQBAJ",
+   "etag": "b5Hh+WdVAKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H8eqCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Revista Observatório Itaú Cultural - N. 19",
+    "subtitle": "",
+    "authors": [
+     "Protasio,Arthur"
+    ],
+    "publishedDate": "2016-03-03",
+    "description": "O mundo passa por um momento de crise: política, econômica, identitária. Parte das causas e das possíveis soluções parece vir de nossa complexa relação com tecnologias digitais. A edição 19 da Revista Observatório traz reflexões sobre as mudanças que a tecnologia promove nas artes e na cultura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788566959451"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8566959450"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H8eqCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H8eqCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H8eqCwAAQBAJ&pg=PT62&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H8eqCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H8eqCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H8eqCwAAQBAJ&rdid=book-H8eqCwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Revista_Observat%C3%B3rio_Ita%C3%BA_Cultural_N_1-sample-epub.acsm?id=H8eqCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Revista_Observat%C3%B3rio_Ita%C3%BA_Cultural_N_1-sample-pdf.acsm?id=H8eqCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H8eqCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É mestre em design, autor dos \u003cb\u003elivros\u003c/b\u003e Negra Cicatriz e Jogador de Mil Fases e \u003cbr\u003e\nroteirista da atração Xpirado, no Hot Park (Rio Quente/GO), e dos jogos SWOrd \u003cbr\u003e\n... Grand Theft AutO 5 Smashes 7 \u003cb\u003eGuinness World ReCOrdS\u003c/b\u003e, POlygOn, 9 Out \u003cbr\u003e\n2013."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z_UtDwAAQBAJ",
+   "etag": "m69kM+Oo770",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z_UtDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Casamento blindado 2.0",
+    "authors": [
+     "Renato Cardoso",
+     "Cristiane Cardoso"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "publishedDate": "2017-09-04",
+    "description": "O Livro que transformou o seu casamento ganhou um upgrade Em 2012, Renato e Cristiane Cardoso decidiram transformar em livro a experiência que adquiriram ao longo dos muitos anos de aconselhamento conjugal, nos cursos que ministram e no programa de TV que apresentam, The Love School – A Escola do Amor. Assim surgiu Casamento Blindado, o best-seller que tem feito a diferença na vida de muitos casais, tendo alcançado a impressionante marca de mais de 3,5 milhões de livros vendidos. Agora, cinco anos depois, com ainda mais bagagem e lições que aprenderam com as histórias de milhares de pessoas que transformaram seus casamentos, Renato e Cristiane trazem uma nova edição deste manual único, totalmente atualizado e com valioso conteúdo inédito. Com dois novos capítulos, Casamento Blindado 2.0 apresenta novas estratégias que ajudarão você a fortalecer seu casamento e a lidar com as diversas situações que podem surgir ao longo da vida a dois. Neste livro, além das preciosas dicas que você já conhece, Renato e Cristiane também dão orientações sobre como manter o romance no casamento após a chegada dos filhos. Você também aprenderá a lidar com todas as consequências que a decisão de aumentar a família implica, e de que maneira o passado financeiro de cada um influencia diretamente na vida familiar. Pensando nessas e em outras questões que surgem com as mudanças que ocorrem no mundo moderno, Casamento Blindado 2.0 é a ajuda que você precisa para continuar mantendo seu casamento à prova de divórcio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578602185"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578602188"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.20.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z_UtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z_UtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=z_UtDwAAQBAJ&pg=PT116&dq=Guinness+World+Records+2011+-+Livro+dos+Recordes&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=z_UtDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-z_UtDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=z_UtDwAAQBAJ&rdid=book-z_UtDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.84E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Casamento_blindado_2_0-sample-epub.acsm?id=z_UtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Casamento_blindado_2_0-sample-pdf.acsm?id=z_UtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z_UtDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não é de espantar que a maioria dos que se encontram no \u003cb\u003eGuinness Book of\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eRecords\u003c/b\u003e são homens, especialmente nos feitos competitivos. Para se ter uma \u003cbr\u003e\nideia, há uma categoria neste \u003cb\u003elivro\u003c/b\u003e na qual dezesseis \u003cb\u003erecordes\u003c/b\u003e foram quebrados \u003cbr\u003e\npor homens, sendo que um deles foi ... Estão imbatíveis desde \u003cb\u003e2011\u003c/b\u003e, com 95 \u003cbr\u003e\ncuecas."
+   }
+  }
+ ]
+}

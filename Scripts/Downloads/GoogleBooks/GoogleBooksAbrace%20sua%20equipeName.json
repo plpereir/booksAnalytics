@@ -1,0 +1,861 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 43,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EHvmcQAACAAJ",
+   "etag": "zcOywQq7Xzk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EHvmcQAACAAJ",
+   "volumeInfo": {
+    "title": "ABRACE SUA EQUIPE",
+    "authors": [
+     "JACK MITCHELL",
+     "ANDRE COSTA"
+    ],
+    "description": "Em 'Abrace sua equipe', Jack Mitchell mostra como construir uma cultura na qual as pessoas se sintam felizes e expressem essa satisfação em suas interações com os clientes. A obra defende que para criar um time forte, unido e motivado, é necessário desenvolver uma relação pessoal com cada funcionário e deixar claro que o trabalho dele é fundamental para o êxito do negócio. Atitudes simples, como fazer um elogio ou criar um ambiente agradável, são alguns 'abraços' que não custam nada e geram resultados. Por meio de exemplos, este livro explica como contratar corretamente, quando demitir alguém e em que situação aceitar um antigo funcionário de volta. Além disso, oferece ensinamentos para quem quer ser um líder melhor e tornar seu negócio mais bem-sucedido.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575425803"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575425800"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EHvmcQAACAAJ&dq=Abrace+sua+equipe&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=EHvmcQAACAAJ&dq=Abrace+sua+equipe&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ABRACE_SUA_EQUIPE.html?hl=&id=EHvmcQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EHvmcQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Abrace sua equipe&#39;, Jack Mitchell mostra como construir uma cultura na qual as pessoas se sintam felizes e expressem essa satisfação em suas interações com os clientes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kxHhCgAAQBAJ",
+   "etag": "woPHyjalTSI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kxHhCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Super-histórias no universo corporativo",
+    "authors": [
+     "Joni Galvão"
+    ],
+    "publisher": "Panda Books",
+    "publishedDate": "2015-11-04",
+    "description": "O empresário Joni Galvão apresenta o conceito de storytelling e ensina como aplicá-lo no mundo corporativo. O objetivo é trocar discursos previsíveis e tediosos pela contação de histórias realistas e inspiradoras, que têm o poder de emocionar e transformar pessoas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578885274"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578885279"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kxHhCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kxHhCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kxHhCgAAQBAJ&pg=PT24&dq=Abrace+sua+equipe&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kxHhCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kxHhCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.72,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kxHhCgAAQBAJ&rdid=book-kxHhCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.272E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.961E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Super_hist%C3%B3rias_no_universo_corporativo-sample-epub.acsm?id=kxHhCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Super_hist%C3%B3rias_no_universo_corporativo-sample-pdf.acsm?id=kxHhCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kxHhCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na chefia vazia, o sujeito usa \u003cb\u003esua\u003c/b\u003e posição para obrigar as pessoas a fazerem o \u003cbr\u003e\nque ele quer. Já o verdadeiro líder ... Ele faz com que a \u003cb\u003eequipe abrace sua\u003c/b\u003e causa \u003cbr\u003e\ne faz isso sem manipulação, mas por convicção. Mais do que persuasão, ele&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "T11mDwAAQBAJ",
+   "etag": "J+hXQsVauls",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/T11mDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Venda Mais Ed. 267",
+    "subtitle": "Marketing Digital",
+    "authors": [
+     "Editora Quantum"
+    ],
+    "publisher": "Editora Quantum",
+    "publishedDate": "2018-07-26",
+    "description": "revista venda mais, venda mais, vendas, entrevista, marketing, marketing digital, gestão comercial, indicadores, campeão de vendas, empresa, cultura organizacional, negociação em vendas, V6, sucesso, pós-venda, líder, prospecção de clientes",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 52,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=T11mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=T11mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=T11mDwAAQBAJ&pg=PA46&dq=Abrace+sua+equipe&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=T11mDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-T11mDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=T11mDwAAQBAJ&rdid=book-T11mDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Venda_Mais_Ed_267-sample-pdf.acsm?id=T11mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=T11mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "46 46 46464646464646464646464646464646464646464646 “\u003cb\u003eSUA EQUIPE\u003c/b\u003e \u003cbr\u003e\nDE VENDAS DEVE BUSCAR A CONSISTÊNCIA. ... Mostre a \u003cb\u003esua equipe\u003c/b\u003e que sua \u003cbr\u003e\nempresa recompensa isso; que não é preciso ter medo de tentar, de fazer \u003cbr\u003e\naquele “algo mais”, mesmo ... 6) VALORIZE A INTEGRIDADE 7) \u003cb\u003eABRACE\u003c/b\u003e A \u003cbr\u003e\nTECNOLOGIA 8) VALORIZE \u003cb\u003eSUA EQUIPE\u003c/b\u003e, NÃOSEUS CRAQUES 9) SEJA \u003cbr\u003e\nCONSISTENTE."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sy4zDQAAQBAJ",
+   "etag": "bC6Fud9aaCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sy4zDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Abrace meu destino",
+    "authors": [
+     "Susan Mallery"
+    ],
+    "publisher": "Harlequin Brasil",
+    "publishedDate": "2016-10-04",
+    "description": "A cidade californiana Fool's Gold entrou no mapa como o principal destino para casais apaixonados. E agora será o ponto de encontro de dois corações solitários que precisam aprender a amar. Destiny Mills acredita que só existe um lugar possível para a paixão nas letras de música country que tornaram seus pais famosos. Depois de uma infância regida por dramas e marcada pela decepção, ela busca segurança e tranquilidade — exatamente o que Kipling Gilmore nunca ofereceu a ninguém. O contrato temporário de Destiny para treinar a equipe de resgate de Fool's Gold a deixa muito próxima de Kipling. Parte dela fica tentada a perder o controle e se permitir viver uma aventura... Mas o outro lado teme profundamente o que pode acontecer. Apesar de um acidente ter acabado com sua carreira de esquiador profissional, Kipling ainda vive em busca de adrenalina. E ter um caso com uma ruiva estonteante como Destiny poderia ser uma distração maravilhosa. Contudo, por baixo da fachada calma e descompromissada, existe uma mulher sedenta por afeto. Ainda que Kipling saiba que amar, assim como esquiar, é apenas uma questão de confiança, ele estaria disposto a abraçar um relacionamento para toda a vida?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539823727"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539823721"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.19.18.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sy4zDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sy4zDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sy4zDQAAQBAJ&pg=PT8&dq=Abrace+sua+equipe&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sy4zDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sy4zDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sy4zDQAAQBAJ&rdid=book-sy4zDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Abrace_meu_destino-sample-epub.acsm?id=sy4zDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Abrace_meu_destino-sample-pdf.acsm?id=sy4zDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sy4zDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "você e a \u003cb\u003esua equipe\u003c/b\u003e para usá-lo. — Parece bastante simples. — Sempre parece, \u003cbr\u003e\nmas depois vem a realidade. Uma sobrancelha erguida. — Isso é um desafio? — \u003cbr\u003e\nNão. Só estou dizendo que o processo leva tempo. O Soger pode se adaptar&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gbgpDwAAQBAJ",
+   "etag": "AIY8yIJTr6U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gbgpDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Desenvolvimento de Software com Scrum",
+    "subtitle": "Aplicando Métodos Ágeis com Sucesso",
+    "authors": [
+     "Mike Cohn"
+    ],
+    "publisher": "Bookman",
+    "publishedDate": "2000",
+    "description": "Guia prático para a implementação imediata – e o sucesso no decorrer do processo – do desenvolvimento ágil com Scrum. O autor apresenta recomendações detalhadas, dicas importantes e estudos de caso reais provenientes de sua experiência com centenas de empresas de software. Também aborda todos os aspectos da transição para o Scrum, entre elas a superação da resistência individual às mudanças do Scrum; o recrutamento de pessoas para projetos Scrum e a construção de equipes eficazes; a liderança de equipes auto-organizadas; e o impacto do Scrum sobre outros departamentos, como Recursos Humanos, infraestrutura e gerenciamento de projetos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577808199"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857780819X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gbgpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gbgpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gbgpDwAAQBAJ&pg=PA239&dq=Abrace+sua+equipe&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gbgpDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gbgpDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 151.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 151.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gbgpDwAAQBAJ&rdid=book-gbgpDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.512E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.512E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Desenvolvimento_de_Software_com_Scrum-sample-pdf.acsm?id=gbgpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gbgpDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ajude as pessoas a entenderem \u003cb\u003esua\u003c/b\u003e relevância para o cumprimento do objetivo. \u003cbr\u003e\nNinguém quer sentir que está fazendo trabalho de apoio ou desnecessário para \u003cbr\u003e\num projeto. É difícil para os membros da \u003cb\u003eequipe\u003c/b\u003e se comprometerem totalmente&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XtNxDwAAQBAJ",
+   "etag": "Y9XfWJTsvns",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XtNxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um Dependente QuimÍco,No Umbral",
+    "authors": [
+     "Carlos"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A HUMANIDADE VIVE HOJE, SOB O JUGO DAS DROGAS QUIMÍCAS. NUNCA NA HISTÓRIA, TIVEMOS TANTO CONSUMO DE DROGAS ILÍCITAS QUE TANTO MAL FAZ AO ORGANISMO E A MENTE , MAS PRINCIPALMENTE NO ESPIRITO. ESTA É A HISTÓRIA DE UM DEPENDENTE ,DESENCARNADO EM UMA OVERDOSE ,PROVOCADA PELO CONSUMO DAS DROGAS. PSICOGRAFADO PELO ESPIRITO DO DR. HENRIQUE AYRES, QUE NOS TRAZ A SUA SAGA E AS CONSEQUENCIAS DO USO INFELIZMENTE HOJE, DO MUNDO INSANO DAS DROGAS.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20382"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 85,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XtNxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XtNxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XtNxDwAAQBAJ&pg=PA68&dq=Abrace+sua+equipe&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XtNxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XtNxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XtNxDwAAQBAJ&rdid=book-XtNxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_Dependente_Quim%C3%8Dco_No_Umbral-sample-pdf.acsm?id=XtNxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XtNxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "-Eu que me sinto feliz, pelo trabalho que voce e \u003cb\u003esua equipe\u003c/b\u003e realizam aqui....\u003cbr\u003e\nobrigado por tudo.... -É nossa ... fluídica, e pediu que tanto Boró como todos de \u003cbr\u003e\n\u003cb\u003esua equipe\u003c/b\u003e e os quatros (Maria Cássio,Roberto e Yankell), o aconpanhasse ao \u003cbr\u003e\nrecinto de reuniões do local. ... -Francisca, entre na estufa e \u003cb\u003eabraçe\u003c/b\u003e seu adorado \u003cbr\u003e\nfilho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0rdiDwAAQBAJ",
+   "etag": "TsspfzaUc50",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0rdiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Realidade Virtual e Aumentada Tecnologias para Aplicações Profissionais",
+    "authors": [
+     "Arivelto Bustamante Fialho"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2018-05-15",
+    "description": "Direcionada ao leitor que deseja ter seu primeiro contato ou ampliar seus conhecimentos acerca da utilização da Realidade Virtual (RV) e da Realidade Aumentada (RA), este livro apresenta uma gama de informações sobre essas tecnologias, consideradas importantes ferramentas para as áreas de medicina, educação, arquitetura, engenharias, entre outras. Dividida em quatro capítulos, a obra apresenta os princípios funcionais da RV e da RA, suas aplicações e seus benefícios. Com linguagem acessível e didá\u00adtica, mostra como possível utilizar essas tecnologias como ferramentas auxiliares em nossas tarefas profissionais, bem como no processo de ensino/aprendizagem em diversos campos da ciência. Também são destacadas três importantes plataformas para projetos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536527604"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8536527609"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0rdiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0rdiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0rdiDwAAQBAJ&pg=PP76&dq=Abrace+sua+equipe&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0rdiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0rdiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 43.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0rdiDwAAQBAJ&rdid=book-0rdiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.322E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Realidade_Virtual_e_Aumentada_Tecnologia-sample-epub.acsm?id=0rdiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0rdiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Offer – Ofereça uma demo: quando você aborda \u003cb\u003esua equipe\u003c/b\u003e com uma ideia para \u003cbr\u003e\num projeto de RV ou RA, é importante ... Embrace – \u003cb\u003eAbrace\u003c/b\u003e a jornada do cliente: \u003cbr\u003e\nem toda essa conversa sobre plataformas de tecnologia e processos de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WSobAQAAIAAJ",
+   "etag": "9f5Lrt1zz5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WSobAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Os donos do espetáculo",
+    "subtitle": "histórias da imprensa esportiva do Brasil",
+    "authors": [
+     "André Ribeiro"
+    ],
+    "publishedDate": "2007",
+    "description": "Neste livro, o jornalista André Ribeiro aborda os mais de cem anos da imprensa futebolística no Brasil, desde os tempos em que a televisão nem sequer existia e os magos da comunicação tinham sempre um toco de cigarro aceso numa das mãos. Recheado de casos, histórias e depoimentos de mitos da comunicação e de lendas dos gramados, 'Os donos do espetáculo' faz uma ponte entre o atual estado do nosso futebol e o modo como ele se firmou na identidade nacional. O leitor conseguirá entender facilmente vários aspectos do nosso futebol, da imprensa que o cobre e dos bastidores de grandes acontecimentos, desde os primeiros jogos de várzea com torcida organizada à contemporânea CPI do futebol, passando pela decepção do maracanazo da Copa de 1950.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105133436027"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 326,
+    "printType": "BOOK",
+    "categories": [
+     "Sports journalism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WSobAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WSobAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WSobAQAAIAAJ&q=Abrace+sua+equipe&dq=Abrace+sua+equipe&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WSobAQAAIAAJ&dq=Abrace+sua+equipe&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_donos_do_espet%C3%A1culo.html?hl=&id=WSobAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WSobAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em 1974, tornou-se o primeiro presidente da \u003cb\u003eAbrace\u003c/b\u003e, Associação Brasileira dos \u003cbr\u003e\nCronistas Esportivos. ... oportunidade de \u003cb\u003esua\u003c/b\u003e vida profissional graças a Pedro \u003cbr\u003e\nLuiz, que intercedeu junto a Milton Camargo, também chefe da \u003cb\u003eequipe\u003c/b\u003e 1040, \u003cbr\u003e\npara&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jGZLDwAAQBAJ",
+   "etag": "F6s52Sh6JKw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jGZLDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mude ou morra",
+    "subtitle": "Tudo o que você precisa saber para fazer crescer o seu negócio e sua carreira na nova economia",
+    "authors": [
+     "Renato Mendes",
+     "Roni Cunha Bueno"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2018-02-26",
+    "description": "A transformação digital é democrática: irá impactar de maneira igualmente implacável empresas (e pessoas) de todos os tamanhos e setores da economia. Negócios centenários que faturam bilhões de reais estão virando pó e empregos estão sendo destruídos na mesma proporção porque muitas dessas empresas não entenderam o funcionamento da chamada Nova Economia. Lembra o que aconteceu com a Blockbuster ou a Kodak? Ninguém está a salvo. Redes sociais, IoT, Machine Learning, automação: a forma de se relacionar com seus clientes mudou, e a forma de gerir sua carreira também. Você está preparado para essa transformação? A boa notícia é que, ao mesmo tempo, novas empresas e novos cargos estão surgindo, criando inovações e reinventando a forma de se fazer negócios. Quem lidera esse processo são startups como Google, Facebook, Airbnb, PayPal, Amazon, Uber e Netshoes, só para dar alguns exemplos. São elas que capitaneiam a Nova Economia, mudando a forma como se agrega valor e se relaciona com clientes. Mude ou morra é o livro definitivo para que você surfe a onda da Nova Economia e possa redesenhar sua carreira ou empresa. Entenda o funcionamento da Nova Economia por quem viveu ela por dentro, descubra o mindset das startups vitoriosas, aprenda a criar um negócio do zero ou a empreender dentro de uma grande corporação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542212631"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542212630"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jGZLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jGZLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jGZLDwAAQBAJ&pg=PT55&dq=Abrace+sua+equipe&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jGZLDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jGZLDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jGZLDwAAQBAJ&rdid=book-jGZLDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mude_ou_morra-sample-epub.acsm?id=jGZLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mude_ou_morra-sample-pdf.acsm?id=jGZLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jGZLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tudo o que você precisa saber para fazer crescer o seu negócio e sua carreira \u003cbr\u003e\nna nova economia Renato Mendes, Roni Cunha Bueno ... \u003cb\u003eAbrace\u003c/b\u003e a felicidade de \u003cbr\u003e\nentender que ter escolhas é assumir as rédeas da sua vida, e isso é mais \u003cbr\u003e\ncomplexo e desconfortável, ... Aplique isso em seu comportamento e no de \u003cb\u003esua\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eequipe\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h4IYAQAAMAAJ",
+   "etag": "gAlV+M0mVss",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h4IYAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Anais da Câmara dos deputados",
+    "authors": [
+     "Brazil. Congresso Nacional. Câmara dos Deputados"
+    ],
+    "publishedDate": "1992",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000021887659"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h4IYAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h4IYAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h4IYAQAAMAAJ&q=Abrace+sua+equipe&dq=Abrace+sua+equipe&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=h4IYAQAAMAAJ&dq=Abrace+sua+equipe&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Anais_da_C%C3%A2mara_dos_deputados.html?hl=&id=h4IYAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h4IYAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sábio como um professor experiente, ele fez toda sua dissertação sem se referir \u003cbr\u003e\nao atual Governo, mostrando uma série de planos ... S&#39; o atual Governo por que \u003cbr\u003e\ndesconhece sua política económica ou porque o atual Governo não demonstra, \u003cbr\u003e\ncom \u003cb\u003esua equipe\u003c/b\u003e económica, ... Grandes Consumidores Industriais de Energia, \u003cbr\u003e\n\u003cb\u003eAbrace\u003c/b\u003e. ; Antes de passar a palavra ao primeiro expositor, esclareço aos \u003cbr\u003e\npresentes&nbsp;..."
+   }
+  }
+ ]
+}

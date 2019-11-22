@@ -1,0 +1,724 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 456,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MdIYBwAAQBAJ",
+   "etag": "S4fSBPg2Qi8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MdIYBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dulce Amargo - lembranças de uma adolescente",
+    "subtitle": "",
+    "authors": [
+     "Dulce María"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2015-03-20",
+    "description": "Neste emocionante livro, a cantora mexicana Dulce María abre o coração para compartilhar suas composições com os fãs e traz à tona uma série de recordações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579308413"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579308410"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MdIYBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MdIYBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MdIYBwAAQBAJ&printsec=frontcover&dq=Dulce+Amargo&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MdIYBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MdIYBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MdIYBwAAQBAJ&rdid=book-MdIYBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dulce_Amargo_lembran%C3%A7as_de_uma_adolesce-sample-epub.acsm?id=MdIYBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dulce_Amargo_lembran%C3%A7as_de_uma_adolesce-sample-pdf.acsm?id=MdIYBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MdIYBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste emocionante livro, a cantora mexicana Dulce María abre o coração para compartilhar suas composições com os fãs e traz à tona uma série de recordações."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rtgLAQAAMAAJ",
+   "etag": "uH0LqrFY75g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rtgLAQAAMAAJ",
+   "volumeInfo": {
+    "title": "El dulce amargo de la desesperación",
+    "authors": [
+     "Emilio Comas Paret"
+    ],
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "959209778X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789592097780"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 109,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rtgLAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rtgLAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=rtgLAQAAMAAJ&q=Dulce+Amargo&dq=Dulce+Amargo&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rtgLAQAAMAAJ&dq=Dulce+Amargo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_dulce_amargo_de_la_desesperaci%C3%B3n.html?hl=&id=rtgLAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rtgLAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4M-dAF5558oC",
+   "etag": "+TU/stvrtUs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4M-dAF5558oC",
+   "volumeInfo": {
+    "title": "Filosofia moral, derivada de la alta fuente del grande Aristoteles Stagirita. Escribiola en Toscano el Conde ... M. Thesauro. ... Traducela en Español Don Gomez de la Rocha y Figueroa",
+    "authors": [
+     "conte Emanuele Tesauro"
+    ],
+    "publishedDate": "1682",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0024146049"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4M-dAF5558oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4M-dAF5558oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4M-dAF5558oC&pg=PA429&dq=Dulce+Amargo&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4M-dAF5558oC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4M-dAF5558oC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=4M-dAF5558oC&rdid=book-4M-dAF5558oC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4M-dAF5558oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De Luculo feá de tomar parecer acerca de los fabores; y no de la muger en cinta, \u003cbr\u003e\ncuia relaxada imaginacion etraga de manera el guto, que lo amargo le parece \u003cbr\u003e\ndulce,y lo \u003cb\u003edulce amargo\u003c/b\u003e. Del Sabio, pues, y no del vulgo fe toma el verdadero&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3rRKBgAAQBAJ",
+   "etag": "21MGWX45Wsc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3rRKBgAAQBAJ",
+   "volumeInfo": {
+    "title": "El flujo del espíritu humano",
+    "authors": [
+     "Eduard Genís Sol"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "2014-02-24",
+    "description": "'El flujo del espiritu humano' empieza buscando los origenes historicos y filosoficos de las teorias del y\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788461678662"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8461678664"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3rRKBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3rRKBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=3rRKBgAAQBAJ&pg=PA125&dq=Dulce+Amargo&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3rRKBgAAQBAJ&dq=Dulce+Amargo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_flujo_del_esp%C3%ADritu_humano.html?hl=&id=3rRKBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3rRKBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "知母 Zhī Mǔ: \u003cb\u003eAmargo\u003c/b\u003e, \u003cb\u003edulce\u003c/b\u003e y frío. Tropismo hacia el pulmón, el estómago y el \u003cbr\u003e\nriñón. Sin cocción (生, Shēng), clarifica el calor y drena el fuego (calor en el \u003cbr\u003e\npulmón, calor en yáng míng entraña, calor en el aspecto Qì...) Para dirigirlo al&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WDBSAAAAcAAJ",
+   "etag": "6bScD+DnOX8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WDBSAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Templo militante, flos sanctorum y triumpho de sus virtudes",
+    "authors": [
+     "Bartolome Cairasco de Figueroa"
+    ],
+    "publishedDate": "1618",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z170203607"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WDBSAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WDBSAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WDBSAAAAcAAJ&pg=PA367&dq=Dulce+Amargo&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WDBSAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WDBSAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=WDBSAAAAcAAJ&rdid=book-WDBSAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Templo_militante_flos_sanctorum_y_triump.pdf?id=WDBSAAAAcAAJ&hl=&output=pdf&sig=ACfU3U3WXHEIGbDT4fvEciexVanCeKsOIQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WDBSAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CD n fi dero ta&#39;mbienla *gtau&#39;e carga&#39;, Qe tie&#39;nenlo&#39;s. casados en la-tiet&#39;ra, De \u003cbr\u003e\nvidaco&#39;ttmy&#39;dc&#39;e&#39;sp&#39;eránçaïlarga, A POCOS .años &#39;de&#39; ;Jazmin-chos deguerra&#39;: Vi&#39;\u003cbr\u003e\nêdo el \u003cb\u003edulce amargo\u003c/b\u003e r dulçuïxà amarga. Y al punto que e&#39;sta: ,voz tocòmioydd,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1mqNvGq3tuoC",
+   "etag": "0azDVHg0u1I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1mqNvGq3tuoC",
+   "volumeInfo": {
+    "title": "Enciclopedia Akal de Emblemas Españoles Ilustrados",
+    "authors": [
+     "Antonio Bernat Vistarini",
+     "John T. Cull",
+     "Edward John Vodoklys"
+    ],
+    "publisher": "Ediciones AKAL",
+    "publishedDate": "1999-05-27",
+    "description": "La obra contiene, extractados, todos los libros de emblemas que se publicaron en español durante los siglos XVI y XVII. Se trata de un material de difícil acceso que de este modo se pone a disposición del lector, ya sea investigador o mero aficionado a la riquísima cultura simbólica cifrada en el género de la literatura emblemática. El libro se presenta en primera instancia como índice alfabético de los motivos iconográficos principales presentes en cada emblema. Pero, además, se podrá acceder a los emblemas mediante búsquedas realizadas a partir de los índices complementarios: de autores, lemas, fuentes y claves temáticas, aparte de los motivos iconográficos secundarios. Completa el volumen un glosario terminológico y de personajes que ayuda a la comprensión de los significados. El desarrollo de los estudios de emblemática en el ámbito internacional (existe una extensa Society for Emblem Studies) ha hecho aconsejable introducir traducción al inglés de los campos de información más relevantes. Y las ventajas que proporcionan las nuevas tecnologías han sido aprovechadas con la incorporación de un CD-ROM (ejecutable por igual en los sistemas Macintosh y PC) que agiliza la combinación de búsquedas complejas. Tanto el CD-ROM como el libro reproducen los grabados de los 1.732 emblemas estudiados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8446010755"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788446010753"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 952,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1mqNvGq3tuoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1mqNvGq3tuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=1mqNvGq3tuoC&pg=PA158&dq=Dulce+Amargo&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1mqNvGq3tuoC&dq=Dulce+Amargo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Enciclopedia_Akal_de_Emblemas_Espa%C3%B1oles.html?hl=&id=1mqNvGq3tuoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1mqNvGq3tuoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dixitque eis: «De comedente exivit cibus, et de forti est egressa dulcedo. y \u003cbr\u003e\nSubscriptio: Amargo es el recuerdo de la ... Para sinificar este \u003cb\u003edulce amargo\u003c/b\u003e, \u003cbr\u003e\ntomé por sujeto una calavera humana, dentro de la qual las avejas hazen sus \u003cbr\u003e\npanales."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2qjtrQEACAAJ",
+   "etag": "71icXGCVnFY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2qjtrQEACAAJ",
+   "volumeInfo": {
+    "title": "Dulce Amargo",
+    "authors": [
+     "Dulce Maria Espinosa"
+    ],
+    "publishedDate": "2015-06-30",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6079344599"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786079344597"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2qjtrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2qjtrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=2qjtrQEACAAJ&dq=Dulce+Amargo&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2qjtrQEACAAJ&dq=Dulce+Amargo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dulce_Amargo.html?hl=&id=2qjtrQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2qjtrQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The life of a teenager is like a roller coaster with ups and downs: slow, fast, smooth, thrilling, sad, happy, amazing, painful, emotional... This is the revelation, transparent and honest, of Dulce Maria in this book."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ECOfilv2wB8C",
+   "etag": "EzoQQUoRV3w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ECOfilv2wB8C",
+   "volumeInfo": {
+    "title": "Fonetica/Phonics - A Bilingual Skill Building Workbook Gr. 1-3",
+    "publisher": "On The Mark Press",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781770724372"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1770724370"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ECOfilv2wB8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ECOfilv2wB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=ECOfilv2wB8C&pg=PA59&dq=Dulce+Amargo&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ECOfilv2wB8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ECOfilv2wB8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.1,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ECOfilv2wB8C&rdid=book-ECOfilv2wB8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.91E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.91E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fonetica_Phonics_A_Bilingual_Skill_Build-sample-pdf.acsm?id=ECOfilv2wB8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ECOfilv2wB8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... savia ____ 10. ciego, siego _____ 23. debajo, sobre ____ 36. \u003cb\u003edulce\u003c/b\u003e, \u003cb\u003eamargo\u003c/b\u003e \u003cbr\u003e\n___ 11. arriba, abajo _____ 24. bueno, malo ____ 37. has, haz, as ____ 12. \u003cbr\u003e\nquieto, tranquilo _____ 25. igual, diferente ____ 38. brillante, opaco____ 13. \u003cbr\u003e\nhuso,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1WBHYgEACAAJ",
+   "etag": "Krbr5wp3Mjs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1WBHYgEACAAJ",
+   "volumeInfo": {
+    "title": "Mezcle Lo Dulce Con Lo Amargo",
+    "subtitle": "L?¡deres: Hay Que Manejar Los Conflictos!",
+    "authors": [
+     "Sonia Kook"
+    ],
+    "publisher": "Outskirts Press",
+    "publishedDate": "2010-12-29",
+    "description": "El manejar conflictos en el trabajo puede ser algo bien complicado pero con este libro y su software, los l?¡deres y sus equipos reciben informaci??n extensa sobre c??mo prevenir, detectar, resolver escalaci??n de conflictos y mantener motivaci??n y alta productividad, mezclando lo dulce con lo amargo de pensamientos y actitudes conflictivos. CCLC2: ?íMezcle lo dulce con lo amargo! L?¡deres en compa???¡as manejan los conflictos.Comprehensive Company Leadership Competencies 2, Libro de referencia.Este es el segundo libro con software de la serie CCLC (Comprehensive Company Leadership Competencies) con acento en comunicaci??n sana y conflictos devastadores para la producci??n. Los conflictos salen de la nada y se pueden intensificar hasta llegar a una fase de eliminaci??n y negativismo total. Antes de que esto suceda, los l?¡deres tienen que asumir responsabilidad tratando de prevenir o a lo menos actuar a tiempo. Los conflictos causan sobre estr??s y hasta trauma a los que est?ín envueltos y a otros en la cercan?¡a que se pueden sentir males e incapaces de hacer algo para la situaci??n horrible que se intensifica y se pone mas y mas fea. Por eso es que prestamos mucha atenci??n a c??mo sanear la situaci??n posterior,Este libro ofrece informaci??n e instrucci??n sobre c??mo negociar para llegar a entendimientos poderosos, paz y alta productividad en compa???¡as y organizaciones.Los empleados, las unidades, l?¡deres y la compa???¡a entera con esto tienen un sistema en que se puede confiar y con el cual pueden unir fuerzas en compa???¡as y organizaciones.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1432759760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781432759766"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 82,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1WBHYgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1WBHYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=1WBHYgEACAAJ&dq=Dulce+Amargo&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1WBHYgEACAAJ&dq=Dulce+Amargo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mezcle_Lo_Dulce_Con_Lo_Amargo.html?hl=&id=1WBHYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1WBHYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "El manejar conflictos en el trabajo puede ser algo bien complicado pero con este libro y su software, los l?¡deres y sus equipos reciben informaci??n extensa sobre c??mo prevenir, detectar, resolver escalaci??n de conflictos y mantener ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5eOWcxFhV5AC",
+   "etag": "Ys/uuiAbb3A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5eOWcxFhV5AC",
+   "volumeInfo": {
+    "title": "Cadernos de Estudos Lingüísticos",
+    "publishedDate": "1997-07",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89110506540"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5eOWcxFhV5AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5eOWcxFhV5AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5eOWcxFhV5AC&q=Dulce+Amargo&dq=Dulce+Amargo&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5eOWcxFhV5AC&dq=Dulce+Amargo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cadernos_de_Estudos_Ling%C3%BC%C3%ADsticos.html?hl=&id=5eOWcxFhV5AC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5eOWcxFhV5AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... sabor tiene la pera How does the pear taste? A: Rico. Delicious. M: \u003cb\u003eDulce\u003c/b\u003e, \u003cbr\u003e\n\u003cb\u003eamargo\u003c/b\u003e, salado. ¿ Cómo es? Sweet, bitter, salty. What is it like? Niños: Dulce. \u003cbr\u003e\nSweet. M: Pero es dulce porque esa pera&nbsp;..."
+   }
+  }
+ ]
+}

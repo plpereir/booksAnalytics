@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dsOIMIWWRjoC",
+   "etag": "XH8W/89NfYg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dsOIMIWWRjoC",
+   "volumeInfo": {
+    "title": "Cle—patra",
+    "authors": [
+     "STACY SCHIFF",
+     "JOSE RUBENS SIQUEIRA"
+    ],
+    "publisher": "Zahar",
+    "description": "Nesta obra, a autora procura apresentar um retrato de Cleópatra, que, no auge do poder, controlou a costa oriental do Mediterrâneo, o último grande reino de qualquer soberano egípcio e, durante um período, deteve o destino do mundo ocidental nas mãos. Cresceu em meio ao luxo e herdou um reino em declínio. Teve um filho com um homem casado, três com outro e morreu aos 39 anos, uma geração antes do nascimento de Cristo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853780519X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537805190"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dsOIMIWWRjoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dsOIMIWWRjoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dsOIMIWWRjoC&printsec=frontcover&dq=isbn:9788537805190&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dsOIMIWWRjoC&dq=isbn:9788537805190&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cle_patra.html?hl=&id=dsOIMIWWRjoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cle_patra-sample-pdf.acsm?id=dsOIMIWWRjoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dsOIMIWWRjoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nada disso, porém, faz com que essa personagem seja menos fascinante. Stacy Schiff consultou inúmeras fontes e apresenta um retrato surpreendente não apenas de uma das figuras mais marcantes da história, mas de toda uma época."
+   }
+  }
+ ]
+}

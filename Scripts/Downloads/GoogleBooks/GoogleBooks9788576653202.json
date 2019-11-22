@@ -1,0 +1,136 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_IFKwgEACAAJ",
+   "etag": "bhld4u2YC1M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_IFKwgEACAAJ",
+   "volumeInfo": {
+    "title": "1808",
+    "subtitle": "a corte no Brasil",
+    "publishedDate": "2010",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576653206"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576653202"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 401,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=_IFKwgEACAAJ&dq=isbn:9788576653202&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_IFKwgEACAAJ&dq=isbn:9788576653202&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/1808.html?hl=&id=_IFKwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_IFKwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J9p7AAAAMAAJ",
+   "etag": "TYmQlYOEVcQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J9p7AAAAMAAJ",
+   "volumeInfo": {
+    "title": "1808",
+    "subtitle": "Como uma rainha louca, um príncipe medroso e uma corte corrupta enganaram Napoleão e mudaram a história de Portugal e do Brasil",
+    "authors": [
+     "Laurentino Gomes"
+    ],
+    "publishedDate": "2007",
+    "description": "O propósito deste livro, resultado de dez anos de investigação jornalística, é resgatar e contar a história da corte lusitana no Brasil, a fim de devolver seus protagonistas à dimensão mais correta possível dos papéis que desempenharam duzentos anos atrás. '1808 - Como uma rainha louca, um príncipe medroso e uma corte corrupta enganaram Napoleão e mudaram a História de Portugal e do Brasil' é o relato de um dos principais momentos históricos brasileiros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576653206"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576653202"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 414,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J9p7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J9p7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=J9p7AAAAMAAJ&dq=isbn:9788576653202&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=J9p7AAAAMAAJ&dq=isbn:9788576653202&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/1808.html?hl=&id=J9p7AAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J9p7AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O propósito deste livro, resultado de dez anos de investigação jornalística, é resgatar e contar a história da corte lusitana no Brasil, a fim de devolver seus protagonistas à dimensão mais correta possível dos papéis que ..."
+   }
+  }
+ ]
+}

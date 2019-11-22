@@ -1,0 +1,986 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 494,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AFC2DAAAQBAJ",
+   "etag": "82aOT+PGgLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AFC2DAAAQBAJ",
+   "volumeInfo": {
+    "title": "A irmã da sombra",
+    "subtitle": "A História de Estrela",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2016-08-16",
+    "description": "Em A irmã da sombra, terceiro volume da série As Sete Irmãs, duas jovens igualmente determinadas, porém de séculos distintos, conectam-se por meio de diários que retratam uma vida intensa de superação, amor e perdão. Estrela D'Aplièse está numa encruzilhada após a repentina morte do pai, o misterioso bilionário Pa Salt. Antes de morrer, ele deixou a cada uma das seis filhas adotivas uma pista sobre suas origens, porém a jovem hesita em abrir mão da segurança da sua vida atual. Enigmática e introspectiva, ela sempre se apoiou na irmã Ceci, seguindo-a aonde quer que fosse. Agora as duas se estabelecem em Londres, mas, para Estrela, a nova residência não oferece o contato com a natureza nem a tranquilidade da casa de sua infância. Insatisfeita, ela acaba cedendo à curiosidade e decide ir atrás da pista sobre seu nascimento. Nessa busca, uma livraria de obras raras se torna a porta de entrada para o mundo da literatura e sua conexão com Flora MacNichol, uma jovem inglesa que, cem anos antes, morou na bucólica região de Lake District e teve como grande inspiração a escritora Beatrix Potter. Cada vez mais encantada com a história de Flora, Estrela se identifica com aquela jornada de autoconhecimento e, pela primeira vez, está disposta a sair da sombra da irmã superprotetora e descobrir o amor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580418514"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580418518"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.35.27.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AFC2DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AFC2DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AFC2DAAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=AFC2DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-AFC2DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=AFC2DAAAQBAJ&rdid=book-AFC2DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_sombra-sample-epub.acsm?id=AFC2DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_sombra-sample-pdf.acsm?id=AFC2DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AFC2DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em A irmã da sombra, terceiro volume da série As Sete Irmãs, duas jovens igualmente determinadas, porém de séculos distintos, conectam-se por meio de diários que retratam uma vida intensa de superação, amor e perdão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9Kw2DwAAQBAJ",
+   "etag": "kndDAb2ZsM0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9Kw2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A irmã da pérola",
+    "subtitle": "A História de Ceci",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2017-10-09",
+    "description": "Em A irmã da pérola, quarto volume da série As Sete Irmãs, duas jovens de séculos diferentes têm seus destinos cruzados numa emocionante história sobre amor, arte e superação.Ceci D'Aplièse sempre se sentiu um peixe fora d'água. Após a morte do pai adotivo e o distanciamento de sua adorada irmã Estrela, ela de repente se percebe mais sozinha do que nunca. Depois de abandonar a faculdade, decide deixar sua vida sem sentido em Londres e desvendar o mistério por trás de suas origens. As únicas pistas que tem são uma fotografia em preto e branco e o nome de uma das primeiras exploradoras da Austrália, que viveu no país mais de um século antes.A caminho de Sydney, Ceci faz uma parada no único local em que já se sentiu verdadeiramente em paz consigo mesma: as deslumbrantes praias de Krabi, na Tailândia. Lá, em meio aos mochileiros e aos festejos de fim de ano, conhece o misterioso Ace, um homem tão solitário quanto ela e o primeiro de muitos novos amigos que irão ajudá-la em sua jornada.Ao chegar às escaldantes planícies australianas, algo dentro de Ceci responde à energia do local. À medida que chega mais perto de descobrir a verdade sobre seus antepassados, ela começa a perceber que afinal talvez seja possível encontrar nesse continente desconhecido aquilo que sempre procurou sem sucesso: a sensação de pertencer a algum lugar.\"A série das Sete Irmãs é um fenômeno notável.\" – Lancashire Post\"Lucinda Riley criou uma série que vai agradar a todos os leitores de Kristin Hannah e Kate Morton.\" – Booklist",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580417746"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580417740"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.23.22.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9Kw2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9Kw2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9Kw2DwAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9Kw2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9Kw2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9Kw2DwAAQBAJ&rdid=book-9Kw2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_p%C3%A9rola-sample-epub.acsm?id=9Kw2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_p%C3%A9rola-sample-pdf.acsm?id=9Kw2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9Kw2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em A irmã da pérola, quarto volume da série As Sete Irmãs, duas jovens de séculos diferentes têm seus destinos cruzados numa emocionante história sobre amor, arte e superação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cQXECgAAQBAJ",
+   "etag": "5GmnXpYQkWM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cQXECgAAQBAJ",
+   "volumeInfo": {
+    "title": "A irmã da tempestade",
+    "subtitle": "A História de Ally",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2015-11-03",
+    "description": "Ally D'Aplièse é uma grande velejadora e está se preparando para uma importante regata, mas a notícia da morte do pai faz com que ela abandone seus planos e volte para casa, para se reunir com as cinco irmãs. Lá, elas descobrem que Pa Salt – como era carinhosamente chamado pelas filhas adotivas – deixou, para cada uma delas, uma pista sobre suas verdadeiras origens.Apesar do choque, Ally encontra apoio em um grande amor. Porém mais uma vez seu mundo vira de cabeça para baixo, então ela decide seguir as pistas deixadas por Pa Salt e ir em busca do próprio passado.Nessa jornada, ela chega à Noruega, onde descobre que sua história está ligada à da jovem cantora Anna Landvik, que viveu há mais de cem anos e participou da estreia de uma das obras mais famosas do grande compositor Edvard Grieg. E, à medida que mergulha na vida de Anna, Ally começa a se perguntar quem realmente era seu pai adotivo.\"Emocionante, comovente e cheio de nuances.\" – Grazia\"Um livro envolvente e fascinante, repleto de glamour e romance.\" – Daily Mail\"Uma história encantadora.\" – Choice",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580414783"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580414784"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.24.23.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cQXECgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cQXECgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cQXECgAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cQXECgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cQXECgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cQXECgAAQBAJ&rdid=book-cQXECgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.849E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_tempestade-sample-epub.acsm?id=cQXECgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_tempestade-sample-pdf.acsm?id=cQXECgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cQXECgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ally D&#39;Aplièse é uma grande velejadora e está se preparando para uma importante regata, mas a notícia da morte do pai faz com que ela abandone seus planos e volte para casa, para se reunir com as cinco irmãs."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DAEfDAAAQBAJ",
+   "etag": "L65Fox0olb4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DAEfDAAAQBAJ",
+   "volumeInfo": {
+    "title": "A garota italiana",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2016-06-01",
+    "description": "Uma inesquecível história de amor, traição, paixão, obsessão e música.Aos onze anos de idade, Rosanna Menici conhece o cantor Roberto Rossini, uma estrela em ascensão no mundo da ópera italiana - e o homem que mudaria sua vida para sempre. Incentivada - e apaixonada - por ele, Rosanna passa a se dedicar ao estudo do canto lírico, torna-se cantora profissional, e logo os dois se encontram nas salas de concerto mais famosas do mundo, dividindo não só o palco como também o mesmo destino.Com seu talento incomum para descrever ambientes e evocar sensações e sentimentos universais, Lucinda Riley nos leva a acompanhar a trajetória de Rosanna, desde os bairros pobres de Nápoles até os teatros mais glamourosos do planeta, trazendo à tona, com sua prosa inconfundível, as alegrias, tristezas, frustrações, decepções e redenções do amor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580415667"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580415667"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.24.22.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DAEfDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DAEfDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DAEfDAAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DAEfDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DAEfDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DAEfDAAAQBAJ&rdid=book-DAEfDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_garota_italiana-sample-epub.acsm?id=DAEfDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_garota_italiana-sample-pdf.acsm?id=DAEfDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DAEfDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com seu talento incomum para descrever ambientes e evocar sensações e sentimentos universais, Lucinda Riley nos leva a acompanhar a trajetória de Rosanna, desde os bairros pobres de Nápoles até os teatros mais glamourosos do planeta, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JxexDgAAQBAJ",
+   "etag": "0N38pr8hLMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JxexDgAAQBAJ",
+   "volumeInfo": {
+    "title": "A árvore dos anjos",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2017-05-08",
+    "description": "Trinta anos se passaram desde que Greta deixou de morar no solar Marchmont, uma bela e majestosa residência na região rural do País de Gales. A convite de seu velho amigo David, ela decide retornar ao lugar para comemorar o Natal. Porém, devido a um acidente de carro, Greta não tem mais lembranças da época em que vivia na propriedade, assim como de boa parte de seu passado.Durante uma caminhada pela paisagem invernal de Marchmont, ela encontra uma sepultura no bosque, e a inscrição na lápide coberta de neve se torna a fagulha que a ajudará a recuperar a memória.Contudo, relembrar o passado também significa reviver segredos dolorosos e muito bem guardados, como o motivo para Greta ter fugido do solar, quem ela era antes do acidente e o que aconteceu com sua filha, Cheska, uma jovem de beleza angelical... mas que esconde um lado sombrio.Da aclamada autora da série As Sete Irmãs, A árvore dos anjosé uma história tocante sobre amores e perdas, sobre como nossas escolhas de vida podem tanto definir quem somos como permitir um novo começo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580417128"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580417120"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.15.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JxexDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JxexDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JxexDgAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JxexDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JxexDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JxexDgAAQBAJ&rdid=book-JxexDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_%C3%A1rvore_dos_anjos-sample-epub.acsm?id=JxexDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_%C3%A1rvore_dos_anjos-sample-pdf.acsm?id=JxexDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JxexDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Trinta anos se passaram desde que Greta deixou de morar no solar Marchmont, uma bela e majestosa residência na região rural do País de Gales."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ajHJDAAAQBAJ",
+   "etag": "fLoHUfk1Piw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ajHJDAAAQBAJ",
+   "volumeInfo": {
+    "title": "As sete irmãs",
+    "subtitle": "A História de Maia",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2016-08-16",
+    "description": "Filha mais velha do enigmático Pa Salt, Maia D'Aplièse sempre levou uma vida calma e confortável na isolada casa da família às margens do lago Léman, na Suíça. Ao receber a notícia de que seu pai – que adotou Maia e suas cinco irmãs em recantos distantes do mundo – morreu, ela vê seu universo de segurança desaparecer.Antes de partir, no entanto, Pa Salt deixou para as seis filhas dicas sobre o passado de cada uma. Abalada pela morte do pai e pelo reaparecimento súbito de um antigo namorado, Maia decide seguir as pistas de sua verdadeira origem – uma carta, coordenadas geográficas e um ladrilho de pedra-sabão –, que a fazem viajar para o Rio de Janeiro.Lá ela se envolve com a atmosfera sensual da cidade e descobre que sua vida está ligada a uma comovente e trágica história de amor que teve como cenário a Paris da belle époque e a construção do Cristo Redentor. E, enquanto investiga seus ancestrais, Maia tem a chance de enfrentar os erros do passado – e, quem sabe, se entregar a um novo amor.\"Uma leitura cativante.\" – Daily Mail\"O projeto mais ambicioso e emocionante da autora... um labirinto sedutor de histórias, escrito com o estilo que fez de Lucinda Riley uma das melhores escritoras atuais. Um começo épico para uma série épica.\" – Lancashire Evening Post\"Lucinda Riley é uma hábil autora de romances épicos. Ela entrelaça história factual e ficção em uma narrativa envolvente.\" – Red",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580415926"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580415926"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.16.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ajHJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ajHJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ajHJDAAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ajHJDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ajHJDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ajHJDAAAQBAJ&rdid=book-ajHJDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_sete_irm%C3%A3s-sample-epub.acsm?id=ajHJDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_sete_irm%C3%A3s-sample-pdf.acsm?id=ajHJDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ajHJDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Uma leitura cativante.&quot; – Daily Mail &quot;O projeto mais ambicioso e emocionante da autora... um labirinto sedutor de histórias, escrito com o estilo que fez de Lucinda Riley uma das melhores escritoras atuais."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2ChTDwAAQBAJ",
+   "etag": "0IPeJgVe4P8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2ChTDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O segredo de Helena",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2018-04-09",
+    "description": "Quanta verdade o amor é capaz de suportar?Helena nunca esqueceu o verão que passou na mágica Pandora, a casa de seu padrinho no Chipre, onde, cercada por oliveiras e pelo verde-esmeralda do Mediterrâneo, ela se apaixonou pela primeira vez, aos 15 anos.Mais de duas décadas depois, tendo herdado a antiga propriedade, ela retorna a Pandora para mais um verão, dessa vez em companhia do marido e dos filhos. No entanto, Helena sabe que voltar àquele lugar pode trazer à tona segredos que ela preferia esconder.Um desses segredos envolve Alex, seu filho mais velho, fruto de uma relação anterior a seu casamento. Com uma inteligência acima da média, ele vive a difícil transição para a vida adulta e está determinado a descobrir a identidade de seu verdadeiro pai.Enquanto o verão avança e pessoas do passado de Helena reaparecem, Pandora parece pronta a revelar os mistérios que ocultou por tantos anos e que, uma vez descobertos, farão com que a vida de Helena, e de sua família, nunca mais seja a mesma.\"Uma história emocionante sobre relações familiares que atravessam gerações, os laços invisíveis que unem as pessoas e a natureza complexa das famílias contemporâneas.\" – Lancashire Evening Post",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580418392"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580418399"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2ChTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2ChTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2ChTDwAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2ChTDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2ChTDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2ChTDwAAQBAJ&rdid=book-2ChTDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_segredo_de_Helena-sample-epub.acsm?id=2ChTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_segredo_de_Helena-sample-pdf.acsm?id=2ChTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2ChTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quanta verdade o amor é capaz de suportar?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mSNwDwAAQBAJ",
+   "etag": "LrvpxouS6jk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mSNwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A irmã da lua",
+    "subtitle": "A História de Tiggy",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2018-11-12",
+    "description": "Em A irmã da lua, quinto volume da série As Sete Irmãs, duas jovens separadas por um século têm suas vidas entrelaçadas numa emocionante história sobre fé, tradição, paixão e sobrevivência.Entre as filhas adotivas de Pa Salt, Tiggy D'Aplièse é conhecida como a instintiva e sensível. Envolvida em sua carreira na proteção de animais selvagens, ela não sabe se está preparada para seguir as pistas de suas origens, deixadas pelo pai.Ao aceitar um novo emprego nas belíssimas Terras Altas escocesas, Tiggy fica apaixonada pela remota propriedade, administrada pelo enigmático Charlie Kinnaird. O belo cirurgião cardíaco acabou de herdá-la e enfrenta problemas para reerguê-la e transformá-la em um santuário para as espécies nativas.Em seu novo lar, Tiggy encontra o velho cigano Chilly, que altera totalmente seu destino. Ele conta que ela não só possui um sexto sentido, proveniente dos ancestrais, como há tempos foi previsto que ele a levaria até suas origens na Espanha, nas montanhas sagradas de Sacromonte, à sombra da magnífica Alhambra.Escrito com a notável habilidade de Lucinda para entrelaçar enredos emocionantes e nos transportar para épocas e lugares distantes, A irmã da lua é uma brilhante continuação para a aclamada série das Sete Irmãs, e uma leitura saborosa e reveladora.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580418965"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580418968"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mSNwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mSNwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mSNwDwAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mSNwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mSNwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mSNwDwAAQBAJ&rdid=book-mSNwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_irm%C3%A3_da_lua-sample-epub.acsm?id=mSNwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mSNwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em A irmã da lua, quinto volume da série As Sete Irmãs, duas jovens separadas por um século têm suas vidas entrelaçadas numa emocionante história sobre fé, tradição, paixão e sobrevivência."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pq5jDwAAQBAJ",
+   "etag": "MceYEmBiTLk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pq5jDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A casa das orquídeas",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2018-08-01",
+    "description": "Quando criança, Julia viveu na grandiosa propriedade de Wharton Park, na Inglaterra, ao lado de seus avós. Lá, a tímida menina cresceu entre os perfumes das orquídeas e a paixão pelo piano.Décadas mais tarde, agora uma pianista famosa, Julia é obrigada a retornar ao local de infância na pacata Norfolk após uma tragédia familiar. Abalada e frágil, ela terá que reconstruir sua vida.Nesse caminho de recuperação, ela conhece Kit Crawford, herdeiro de Wharton Park, que também carrega marcas do passado. Ele lhe entrega um velho diário que trará à tona um grande mistério, antes guardado a sete chaves pela avó dela.Ao mergulhar em suas páginas, Julia descobre a história de amor que provocou a ruína da propriedade: separados pela Segunda Guerra Mundial, Olivia e Harry Crawford acabaram influenciando o destino e a felicidade das gerações futuras.Repleto de suspense, A casa das orquídeas viaja da conturbada Europa dos anos 1940 às paisagens multicoloridas da Tailândia, tecendo uma trama complexa e inesquecível.\"Romântico, emocionante e com uma ambientação rica em detalhes.\" – Lancashire Post\"Uma história dilacerante que deixa o leitor totalmente absorto.\" – Grazia",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580418729"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580418720"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pq5jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pq5jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pq5jDwAAQBAJ&printsec=frontcover&dq=A+irm%C3%A3+da+sombra&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pq5jDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pq5jDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pq5jDwAAQBAJ&rdid=book-pq5jDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_casa_das_orqu%C3%ADdeas-sample-epub.acsm?id=pq5jDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pq5jDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Repleto de suspense, A casa das orquídeas viaja da conturbada Europa dos anos 1940 às paisagens multicoloridas da Tailândia, tecendo uma trama complexa e inesquecível."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TE0vDgAAQBAJ",
+   "etag": "rovQdGKaCfc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TE0vDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Corações nas Sombras. Livro I: Presságios de Guerra",
+    "authors": [
+     "Allan Salgado"
+    ],
+    "publisher": "Chiado Editora",
+    "publishedDate": "2016-09-12",
+    "description": "Quando eu olhei através do passado eu finalmente compreendi o que você entenderá aos poucos. Ver a queda e extinção dos centauros por sua sede de poder foi apenas o estopim de algo maior, pois o mal que despertaram no mundo inferior (Agonia) embora selado por Círdan o elfo, desencadeou uma série de acontecimentos que narro para ti. Aquilo bastou para que Goldax o imortal que liderou os orcs por duzentos anos encontrasse um mestre que lhe prometeu libertar os orcs de seu exílio. Depois de sua derrocada, o dragão negro ressurgiu havido por poder e adoração, a ponto do rei dos dragões lhe temer. A Casa de Prata com intenções desconhecidas começou a roubar um a um os talismãs de Ifíanor. O mundo aos poucos começou a odiar os magos seus antigos benfeitores e uma mente brilhante surgiu com a finalidade de equilibrar as coisas, mas ele não sabia que seus atos acarretariam uma guerra sem fim. Então meu amor, meu confidente e meu amante, se lhe conto sobre o passado é para que você entenda o meu papel no presente e o porquê de termos nos separados. Escolhi nomear este relato de Corações nas Sombras e acredito que você entenderá o motivo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789895170470"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9895170475"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 738,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TE0vDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TE0vDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TE0vDgAAQBAJ&pg=PT36&dq=A+irm%C3%A3+da+sombra&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=TE0vDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-TE0vDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.09,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.09,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=TE0vDgAAQBAJ&rdid=book-TE0vDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8090000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8090000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cora%C3%A7%C3%B5es_nas_Sombras_Livro_I_Press%C3%A1gi-sample-epub.acsm?id=TE0vDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cora%C3%A7%C3%B5es_nas_Sombras_Livro_I_Press%C3%A1gi-sample-pdf.acsm?id=TE0vDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TE0vDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Todos olham para mim esperando que eu seja ao menos uma \u003cb\u003esombra\u003c/b\u003e de minha \u003cbr\u003e\n\u003cb\u003eirmã\u003c/b\u003e, mas Nicte Ha está acima de todos, até de Tallis. A porta voltou a bater. \u003cbr\u003e\nQueria gritar para que se afastassem. Deve ser meu mentor. É melhor não dizer\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

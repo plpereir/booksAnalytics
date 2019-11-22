@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PtJfwgEACAAJ",
+   "etag": "qwACETYX6/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PtJfwgEACAAJ",
+   "volumeInfo": {
+    "title": "Harry Potter: O Livro Das Criaturas",
+    "authors": [
+     "Jody Revenson",
+     "Regiane Winarski"
+    ],
+    "description": "Livro oficial sobre o mundo das criaturas de Harry Potter. O livro das criaturas de Harry Potter mostra os detalhes da criação dos magníficos seres presentes na famosa série cinematográfica. A obra é recheada de perfis detalhados de cada criatura, raríssimas ilustrações, fotografias dos bastidores e segredos cinematográficos necessários para tirar os incríveis habitantes do mundo mágico de J.K. Rowling do papel.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501052736"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501052735"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PtJfwgEACAAJ&dq=isbn:9788501052735&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PtJfwgEACAAJ&dq=isbn:9788501052735&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_O_Livro_Das_Criaturas.html?hl=&id=PtJfwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PtJfwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Livro oficial sobre o mundo das criaturas de Harry Potter. O livro das criaturas de Harry Potter mostra os detalhes da criação dos magníficos seres presentes na famosa série cinematográfica."
+   }
+  }
+ ]
+}

@@ -1,0 +1,762 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 358,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bOhNB5ATsewC",
+   "etag": "IBCHt6Nr7K4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bOhNB5ATsewC",
+   "volumeInfo": {
+    "title": "Finale 2009 - apontamentos para escrever e editar música",
+    "publisher": "josé sacramento",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "989952882X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789899528826"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bOhNB5ATsewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bOhNB5ATsewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bOhNB5ATsewC&pg=PA3&dq=Finale&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bOhNB5ATsewC&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Finale_2009_apontamentos_para_escrever_e.html?hl=&id=bOhNB5ATsewC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bOhNB5ATsewC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... NOTA PREVIA O programa \u003cb\u003eFinale\u003c/b\u003e é uma óptima ferramenta tanto."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V0vMBbK3QMAC",
+   "etag": "TeH/PXfBllA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V0vMBbK3QMAC",
+   "volumeInfo": {
+    "title": "Finale",
+    "authors": [
+     "Becca Fitzpatrick"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2013-01-10",
+    "description": "Nora e Patch pensavam que seus problemas tinham ficado para trás. Hank estava morto, e seu desejo de vingança não precisava ser levado adiante. Na ausência do Mão Negra, porém, Nora foi forçada a se tornar líder do exército nefilim, e era seu dever terminar o que o pai começara — o que, essencialmente, significava destruir a raça dos anjos caídos. Destruir Patch. Nora nunca deixaria isso acontecer, então ela e Patch bolam um plano: os dois farão com que todo mundo acredite que não estão mais juntos, manipulando, dessa forma, seus respectivos grupos. Nora pretende convencer os nefilins de que a luta contra os anjos caídos é um erro, e Patch tentará descobrir tudo o que puder sobre o lado oposto. O objetivo deles é encerrar a guerra antes mesmo que ela venha a eclodir. Mas até mesmo os melhores planos podem dar errado. Quando as linhas do combate são finalmente traçadas, Nora e Patch precisam encarar suas diferenças ancestrais e decidir entre ignorá-las ou deixá-las destruir o amor pelo qual sempre lutaram.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580572834"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580572835"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V0vMBbK3QMAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V0vMBbK3QMAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=V0vMBbK3QMAC&pg=PT1&dq=Finale&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=V0vMBbK3QMAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-V0vMBbK3QMAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=V0vMBbK3QMAC&rdid=book-V0vMBbK3QMAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Finale-sample-epub.acsm?id=V0vMBbK3QMAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Finale-sample-pdf.acsm?id=V0vMBbK3QMAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V0vMBbK3QMAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Becca Fitzpatrick. BECCA FITZPATRICK HUSH, HUSH TRADUÇÃO DE VIVIANE \u003cbr\u003e\nDINIZ Copyright © 2012 Becca Ajoy Fitzpatrick TÍTULO ORIGINAL \u003cb\u003eFinale\u003c/b\u003e REVI."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yqMUzTRRIWAC",
+   "etag": "9FEkKebFMS4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yqMUzTRRIWAC",
+   "volumeInfo": {
+    "title": "Finale",
+    "subtitle": "An Easy Guide to Music Notation",
+    "authors": [
+     "Thomas E. Rudolph",
+     "Vincent A. Leonard"
+    ],
+    "publisher": "Berklee Press",
+    "publishedDate": "2005",
+    "description": "Easy-to-follow instructions help you to create publisher-quality music notation; learn to use the tools of Finale while writing your own music and arrangements; get started immediately with hundreds of professional templates, partially completed notation files, and libraries available on the companion website (www.FINALEBOOK.com); print transposed parts from scores automatically; write standard notation, guitar tablature, drum set parts, and more with this comprehensive hands-on tutorial. Teachers can create warm-up and practice exercises; write their own compositions, arrangements and method books; and simplify parts for students. --From publisher's description.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0876390688"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780876390689"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 375,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yqMUzTRRIWAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yqMUzTRRIWAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=yqMUzTRRIWAC&printsec=frontcover&dq=Finale&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yqMUzTRRIWAC&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Finale.html?hl=&id=yqMUzTRRIWAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Finale-sample-pdf.acsm?id=yqMUzTRRIWAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yqMUzTRRIWAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Easy-to-follow instructions help you to create publisher-quality music notation; learn to use the tools of Finale while writing your own music and arrangements; get started immediately with hundreds of professional templates, partially ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EzjKwQEACAAJ",
+   "etag": "4/DUjrHQuZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EzjKwQEACAAJ",
+   "volumeInfo": {
+    "title": "Finale",
+    "subtitle": "Ordem Escarlate",
+    "authors": [
+     "Deisy MONTEIRO"
+    ],
+    "publishedDate": "2018-12-20",
+    "description": "Os muros da Universidade de Cambridge têm guardado segredos por centenas de anos. Para descobri-los é necessário adentrar os portões e abrir os olhos para um novo mundo que se revela. Um mundo onde as concupiscências e paixões não encontram limites. Uma ordem secreta dita regras silenciosas para todos os que atuam neste teatro envolvente. Em cada um de seus corredores, é possível ver seus adeptos.Você está pronto para conhecer a Ordem Escarlate?Lucine sente, a cada sessão, que sua sanidade está se despedindo. Estar com Hector parece apenas um sonho cada vez mais distante e impossível. Fazê-lo esquecer da paixão que sentiram, porém, parece cada vez mais atraente. Ainda mais depois de ter sido vendida como um objeto para Christian Navarro.Christian Navarro é o Primeiro-Governador da cidade de Cambridge. Um homem extremamente bonito e de uma beleza perigosa. Sempre consegue tudo o que quer e sabia que teria Lucine para si desde o momento em que a viu pela primeira vez.Christian é o único que tem poder suficiente para protege-la, e sabe disso, por isso não permitirá que ninguém machuque sua aquisição mais preciosa.O líder da Ordem Escarlate não está feliz com a perda da bela Pulcra. Seu plano de vingança será executado friamente. Para isto, basta que se desfaça da única coisa que valorizou nos últimos anos.O Magister, não feliz com sua autoridade questionada e com o fato de ter perdido uma bela pulcra, tem um plano de vingança a ser executado friamente. Para isso, basta apenas que ele se desfaça da única coisa que valorizou nos últimos anos.É cada vez mais difícil escapar dos laços da Ordem Escarlate. A única saída possível parece ser ao mesmo tempo a mais arriscada. Os destinos de todos parecem estar entremeados e apenas uma pessoa pode fazer algo para livrar todos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1792025025"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781792025020"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 174,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EzjKwQEACAAJ&dq=Finale&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=EzjKwQEACAAJ&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Finale.html?hl=&id=EzjKwQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EzjKwQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os muros da Universidade de Cambridge têm guardado segredos por centenas de anos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1093WaBF3p4C",
+   "etag": "xlL5WYD31JE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1093WaBF3p4C",
+   "volumeInfo": {
+    "title": "The Finale in Western Instrumental Music",
+    "authors": [
+     "Michael Talbot"
+    ],
+    "publisher": "Oxford University Press on Demand",
+    "publishedDate": "2001",
+    "description": "Why are finales different from other movements? Why can we nearly always tell whether a movement comes first or last in a work with several movements? Is the special character of finales necessary as well as traditional? Michael Talbot explores these questions in depth. His wide-ranging analytical and historical survey covers instrumental (and some vocal) music from the Renaissance up to the present day.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0198166958"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780198166955"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1093WaBF3p4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1093WaBF3p4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=1093WaBF3p4C&pg=PA168&dq=Finale&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1093WaBF3p4C&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Finale_in_Western_Instrumental_Music.html?hl=&id=1093WaBF3p4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1093WaBF3p4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It is, in fact, a reincarnation of the &#39;Eroica&#39; \u003cb\u003efinale\u003c/b\u003e, with even more introductory, \u003cbr\u003e\ndevelopmental, and episodic material, and, of course, the complication of added \u003cbr\u003e\nsolo and choral voices. In saying this, I am restating the position taken in 1947 by\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tzjSAgAAQBAJ",
+   "etag": "5rJJ1mL88m8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tzjSAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Finale for Composers",
+    "subtitle": "An Illustrated Guide to Finale",
+    "authors": [
+     "K. V. A. Bajura",
+     "Amy Stabenow"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "2008-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780975395325"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0975395327"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 298,
+    "printType": "BOOK",
+    "categories": [
+     "Composition (Music)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tzjSAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tzjSAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=tzjSAgAAQBAJ&pg=PA1&dq=Finale&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tzjSAgAAQBAJ&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Finale_for_Composers.html?hl=&id=tzjSAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tzjSAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Much has changed with \u003cb\u003eFinale\u003c/b\u003e® since my first edition of \u003cb\u003eFinale\u003c/b\u003e for Composers. It \u003cbr\u003e\nhas taken me several years to write this second edition. With a new version of \u003cbr\u003e\n\u003cb\u003eFinale\u003c/b\u003e every year, it was difficult to stay current. In a nutshell, there are a now \u003cbr\u003e\nfewer&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "10vABgAAQBAJ",
+   "etag": "GqxvyevhWgs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/10vABgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Finale Primer, 2014 Edition",
+    "subtitle": "Mastering the Art of Music Notation with Finale",
+    "authors": [
+     "Bill Purse"
+    ],
+    "publisher": "Alfred Music",
+    "publishedDate": "2014-10-30",
+    "description": "This comprehensive reference manual unravels all the intricacies of Finale 2014, for Windows and Mac platforms. The Finale Primer 2014 Edition helps you set up, edit, reformat, and reorganize your notation into a musical masterpiece. This fully illustrated step-by-step guide offers exercises, projects, creative ideas, and power-user tips that will improve your speed and help you become a Finale expert. This book is indispensable whether you're arranging an existing piece of music or creating an original work. This easy-to-use book includes: * Cross-platform instructions for both Macintosh and Windows * Tips to get the most out of Finale's powerful features such as HyperScribe, the Graphics Tool, and MusicScore Lite * Special sections on creative applications of Finale",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781470624019"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "147062401X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=10vABgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=10vABgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=10vABgAAQBAJ&pg=PA6&dq=Finale&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=10vABgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-10vABgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 107.97,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 107.97,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=10vABgAAQBAJ&rdid=book-10vABgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0797E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0797E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_Finale_Primer_2014_Edition-sample-pdf.acsm?id=10vABgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=10vABgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In 1988, Coda, now MakeMusic, Inc., realized my dream with \u003cb\u003eFinale\u003c/b\u003e, a state-of-\u003cbr\u003e\nthe-art notation program. \u003cb\u003eFinale\u003c/b\u003e combined sophisticated real-time MIDI \u003cbr\u003e\nimplementation with comprehensive notational graphics. These features included \u003cbr\u003e\nmusic&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iq8IYlmbRe8C",
+   "etag": "QWW4k8DviXQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iq8IYlmbRe8C",
+   "volumeInfo": {
+    "title": "Life's Finale",
+    "subtitle": "Voluntary Exit",
+    "authors": [
+     "H.D. Shourie"
+    ],
+    "publisher": "Sterling Publishers Pvt. Ltd",
+    "publishedDate": "1997-09-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8120719484"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788120719484"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iq8IYlmbRe8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iq8IYlmbRe8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=iq8IYlmbRe8C&pg=PA26&dq=Finale&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iq8IYlmbRe8C&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Life_s_Finale.html?hl=&id=iq8IYlmbRe8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iq8IYlmbRe8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... has gained ground to the extent that 80 per cent believe that it is not immoral \u003cbr\u003e\nfor a doctor to assist in the rational suicide of a terminally ill patient. A poll \u003cbr\u003e\nconducted among 200 doctors of Bombay sometime ago 26 Life&#39;s \u003cb\u003efinale\u003c/b\u003e: \u003cbr\u003e\nVoluntary Exit."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "afumrOAn_1QC",
+   "etag": "ez7z92EaYBo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/afumrOAn_1QC",
+   "volumeInfo": {
+    "title": "Linda's Journal, Jalissa and the Grand Finale",
+    "authors": [
+     "Dina Anastasio",
+     "Amanda Jenkins"
+    ],
+    "publisher": "Benchmark Education Company",
+    "publishedDate": "2011-01-01",
+    "description": "Linda wants to be a great writer. How will her efforts get her into trouble with her friends? What will she learn from the experience? Jalissa wants the grand finale for her show to really bring the house down. Will she learn patience and perseverance? Read these stories to find out.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781450929493"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1450929494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=afumrOAn_1QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=afumrOAn_1QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=afumrOAn_1QC&pg=PA1&dq=Finale&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=afumrOAn_1QC&dq=Finale&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Linda_s_Journal_Jalissa_and_the_Grand_Fi.html?hl=&id=afumrOAn_1QC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=afumrOAn_1QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jalissa. and. the. Grand. \u003cb\u003eFinale\u003c/b\u003e. by Amanda Jenkins illustrated by Shawn Byous \u003cbr\u003e\n... .4 Meet the Characters . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5 Linda&#39;s Journal . . . . . . \u003cbr\u003e\n. . . . . . . . . . . . . . . . . . . . . . . . . .8 Jalissa and the Grand \u003cb\u003eFinale\u003c/b\u003e ."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SyJPAgAAQBAJ",
+   "etag": "eMUwiL4iyLo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SyJPAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Godland Finale",
+    "authors": [
+     "Joe Casey"
+    ],
+    "publisher": "Image Comics",
+    "publishedDate": "2013-12-11",
+    "description": "AT LONG LAST Ñ THE FINALE IS HERE! 72 PAGES OF GIANT G¯D-COMICS! What began eight long years ago comes to its cosmic conclusion! Will all questions be answered? Let's just put it this way: THIS IS IT! The single issue where comic books are changed forever is finally dropping! Buy this book and take the next step!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:SEP130509"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SyJPAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SyJPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=SyJPAgAAQBAJ&pg=PT58&dq=Finale&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SyJPAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SyJPAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.62,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.62,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SyJPAgAAQBAJ&rdid=book-SyJPAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.762E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.762E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SyJPAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

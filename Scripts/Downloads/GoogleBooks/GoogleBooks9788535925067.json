@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mp4argEACAAJ",
+   "etag": "VsxmkSEvFGc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mp4argEACAAJ",
+   "volumeInfo": {
+    "title": "Put some farofa",
+    "authors": [
+     "Gregório Duvivier"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535925066"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535925067"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mp4argEACAAJ&dq=isbn:9788535925067&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mp4argEACAAJ&dq=isbn:9788535925067&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Put_some_farofa.html?hl=&id=mp4argEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mp4argEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O GRegorio Duvivier é tudo isso ao mesmo tempo e vice-versa. É Econômico: você paga por um Duvivier e leva seis.” - Luis Fernando Verissimo"
+   }
+  }
+ ]
+}

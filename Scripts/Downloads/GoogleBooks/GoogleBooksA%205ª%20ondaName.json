@@ -1,0 +1,547 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 8,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6efVJZEeHy4C",
+   "etag": "p35phYENPBo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6efVJZEeHy4C",
+   "volumeInfo": {
+    "title": "Teoria Geral da Administração",
+    "publisher": "Editora AGE Ltda",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858562745X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585627454"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6efVJZEeHy4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6efVJZEeHy4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6efVJZEeHy4C&pg=PA147&dq=A+5%C2%AA+onda&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6efVJZEeHy4C&dq=A+5%C2%AA+onda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teoria_Geral_da_Administra%C3%A7%C3%A3o.html?hl=&id=6efVJZEeHy4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6efVJZEeHy4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Paulo Roberto Motta&#39;&#39; fala nas \u003cb\u003eondas\u003c/b\u003e administrativas ou nos &quot;modismos \u003cbr\u003e\nadministrativos&quot;, citando entre esses \u003cb\u003ea\u003c/b\u003e arquitetura ... \u003cb\u003e5\u003c/b\u003e Se você quiser ter uma \u003cbr\u003e\nvisão simultaneamente global e crítica das novas teorias em voga. leia &quot;\u003cbr\u003e\nReengenharia:&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pmlBAid4RzUC",
+   "etag": "9jmMmNB0yFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pmlBAid4RzUC",
+   "volumeInfo": {
+    "title": "Dinámica",
+    "subtitle": "mecánica para ingeniería",
+    "authors": [
+     "Anthony Bedford",
+     "Wallace Fowler"
+    ],
+    "publisher": "Pearson Educación",
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9684444710"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789684444713"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 548,
+    "printType": "BOOK",
+    "categories": [
+     "Dynamics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pmlBAid4RzUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pmlBAid4RzUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=pmlBAid4RzUC&pg=PA12&dq=A+5%C2%AA+onda&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pmlBAid4RzUC&dq=A+5%C2%AA+onda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Din%C3%A1mica.html?hl=&id=pmlBAid4RzUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pmlBAid4RzUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1.8 Los ingenieros que estudian \u003cb\u003eondas de\u003c/b\u003e choque suelen expresar la velocidad \u003cbr\u003e\n\u003cb\u003een\u003c/b\u003e milímetros por microsegundo (mm/pus). Suponga que la velocidad \u003cb\u003ede\u003c/b\u003e un \u003cbr\u003e\nfrente \u003cb\u003ede onda\u003c/b\u003e es \u003cb\u003ede 5\u003c/b\u003e mm/pus. Determine esta velocidad: (\u003cb\u003ea\u003c/b\u003e) \u003cb\u003een\u003c/b\u003e m/s, (b) \u003cb\u003een\u003c/b\u003e mi/s."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OkiOts4dY2IC",
+   "etag": "+sYyQm7V8Do",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OkiOts4dY2IC",
+   "volumeInfo": {
+    "title": "Física para la ciencia y la tecnología",
+    "authors": [
+     "Paul Allen Tipler",
+     "Gene Mosca"
+    ],
+    "publisher": "Reverte",
+    "publishedDate": "2005",
+    "description": "Respuestas a todos los problemas impares de final de cada capítulo del libro de texto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8429144072"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788429144079"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OkiOts4dY2IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OkiOts4dY2IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=OkiOts4dY2IC&pg=PA50&dq=A+5%C2%AA+onda&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OkiOts4dY2IC&dq=A+5%C2%AA+onda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/F%C3%ADsica_para_la_ciencia_y_la_tecnolog%C3%ADa.html?hl=&id=OkiOts4dY2IC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OkiOts4dY2IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "661,\u003cb\u003e5\u003c/b\u003e Hz 79,6 N 69. 76,8 N; 19,2 N; 8,53 N (\u003cb\u003ea\u003c/b\u003e) N/f0 (b) Ax/N (c) 2nN/Ax (d) La \u003cbr\u003e\nincertidumbre \u003cb\u003ea\u003c/b\u003e/Vse debe \u003cb\u003ea\u003c/b\u003e que la \u003cb\u003eonda\u003c/b\u003e más que pararse \u003cb\u003ede\u003c/b\u003e repente \u003cb\u003een\u003c/b\u003e un \u003cbr\u003e\nmomento determinado, lo hace gradualmente. Por lo tanto, no queda bien \u003cbr\u003e\ndeterminado&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9gPQHwAACAAJ",
+   "etag": "sP2PDscosO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9gPQHwAACAAJ",
+   "volumeInfo": {
+    "title": "Técnicas de comunicação eletrônica",
+    "authors": [
+     "Paul H. Young"
+    ],
+    "publishedDate": "2006",
+    "description": "'Técnicas de comunicação eletrônica' combina, de maneira bastante didática, os resultados de pesquisas teóricas com princípios de engenharia e equações de projeto. Além de apresentar explicações claras e abrangentes e de conter inúmeros exemplos bem elaborados voltados para a realidade da área, o livro se destaca por tratar de tópicos atuais como; - redes ópticas e celulares; - tecnologia e multiplexagem densa por divisão de comprimento de onda (DWDM); - WANS/LANS; - Internet, incluindo noções básicas de protocolo, roteadores, comutadores e multiplexadores add/drop; - banda larga; - tecnologia Bluetooth. Indicado para estudantes de graduação em engenharias elétrica, eletrônica e da computação, entre outras, Técnicas de comunicação eletrônica é também ideal para profissionais da área de telecomunicações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576050498"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576050490"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 687,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9gPQHwAACAAJ&dq=A+5%C2%AA+onda&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9gPQHwAACAAJ&dq=A+5%C2%AA+onda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/T%C3%A9cnicas_de_comunica%C3%A7%C3%A3o_eletr%C3%B4nica.html?hl=&id=9gPQHwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9gPQHwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Técnicas de comunicação eletrônica&#39; combina, de maneira bastante didática, os resultados de pesquisas teóricas com princípios de engenharia e equações de projeto."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RIqSJX4AfmsC",
+   "etag": "k2OZzBXwCCQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RIqSJX4AfmsC",
+   "volumeInfo": {
+    "title": "Sinfonia Energetica Ii",
+    "authors": [
+     "Salvatore De Salvo"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "Este volume da 'Sinfonia Energética' nasceu da necessidade de esclarecer alguns conceitos que poderiam ter ficado nebulosos para o leitor. Procura aclarar o conceito de energia e sugerir a melhor forma de utilizá-la.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578931551"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578931556"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 436,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RIqSJX4AfmsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RIqSJX4AfmsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RIqSJX4AfmsC&printsec=frontcover&dq=A+5%C2%AA+onda&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RIqSJX4AfmsC&dq=A+5%C2%AA+onda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sinfonia_Energetica_Ii.html?hl=&id=RIqSJX4AfmsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RIqSJX4AfmsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este volume da &#39;Sinfonia Energética&#39; nasceu da necessidade de esclarecer alguns conceitos que poderiam ter ficado nebulosos para o leitor. Procura aclarar o conceito de energia e sugerir a melhor forma de utilizá-la."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "E-nrDAAAQBAJ",
+   "etag": "WUueYvwDPwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E-nrDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Electrónica analógica. 5ª ed.",
+    "subtitle": "",
+    "authors": [
+     "Navarro Artigas, Jesús"
+    ],
+    "publisher": "Prensas de la Universidad de Zaragoza",
+    "publishedDate": "2013-04-17",
+    "description": "El libro se basa en las clases impartidas por el autor en 4.º de Eléctricos de la Escuela Técnica Superior de Ingenieros Industriales (hoy Centro Politécnico Superior) de Zaragoza. Con él se intenta proporcionar una herramienta de trabajo válida, de carácter introductorio, con respecto a las temáticas de los dispositivos semiconductores y sus aplicaciones a la electrónica analógica. El texto, que por motivos didácticos no trata de forma exhaustiva ambos temas, está pensado para suministrar una base sólida, dentro de unos mínimos imprescindibles, al alumnado que cursa la asignatura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788415770237"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8415770235"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 329,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=E-nrDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=E-nrDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=E-nrDAAAQBAJ&printsec=frontcover&dq=A+5%C2%AA+onda&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=E-nrDAAAQBAJ&dq=A+5%C2%AA+onda&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Electr%C3%B3nica_anal%C3%B3gica_5%C2%AA_ed.html?hl=&id=E-nrDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E-nrDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "El libro se basa en las clases impartidas por el autor en 4.º de Eléctricos de la Escuela Técnica Superior de Ingenieros Industriales (hoy Centro Politécnico Superior) de Zaragoza."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U65pDwAAQBAJ",
+   "etag": "Z57V9j7JntE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U65pDwAAQBAJ",
+   "volumeInfo": {
+    "title": "https://books.google.com.br/books?id=U65pDwAAQBAJ&amp;...",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=U65pDwAAQBAJ&printsec=frontcover&dq=A+5%C2%AA+onda&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=U65pDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-U65pDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=U65pDwAAQBAJ&rdid=book-U65pDwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=U65pDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZOxxDwAAQBAJ",
+   "etag": "STTVGeJ+t90",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZOxxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Segredos Das Profecias Do Cristo E Da Evolução Das Almas",
+    "authors": [
+     "Lewton"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Deus já está SEPARANDO O JOIO DO TRIGO? Por que, atualmente, as Mortes Coletivas vêm crescendo em demasia?No Cosmos existem em coabitação 4 tipos de almas segundo a natureza da sua evolução moral e intelectual. E o padrão vibracional deste status evolucionário está decodificado no Evangelho de Jesus, em Mateus 13. No planeta Terra habita apenas dois tipos de perfis evolucionários, mais os 144.000 mensageiros da evolução espiritual e material – foram e são os ícones dos grandes momentos da humanidade em aprimoramentos, conhecimentos, inovações, sacrifícios e exemplos da cristandade. A SEPARAÇÃO DO JOIO DO TRIGO se baseará em “remover”, para mundos inferiores (onde haverá choro e ranger de dentes), aquele perfil ou conjunto combinado de perfis que não se adaptaram, localmente, para a evolução. A LEI PRIMORDIAL é de que tudo deve evoluir, ou pelo AMOR ou pela DOR. Então a questão colocada para / pelo Anjo Gabriel se apresenta no seguinte texto:Os efeitos das mortandades coletivas por tudo que é espécie de fator causal – pestes, doenças, fome, guerras, acidentes, fúria da natureza, corrupção e etc – têm causado intrigantes análise dos investigadores. Do início do Século 20 para o Século 21 morreram mais pessoas do que nos últimos 500 anos.Diga-me uma coisa, esses desastres naturais que estão acontecendo pelo mundo pode ser como vou lhe dizer, umCARMA COLETIVO , ou seja, uma limpeza para que aqueles que ficam poderem recomeçar em outro tipo de vida?Só posso entender como tal. Será o começo do que dizem ao se aproximar dos anos 2019 a 2022?Ficarão os melhores e aqueles que caminham junto para um crescimento espiritual e de vida melhor?Será que estou errado no que penso? É tanto desastre que eu não sei para que lado olhar.Embora não se escrevam claramente não existem no mundo apenas o joio e o trigo, como os 2 (dois) únicos perfis evolutivos das almas humanas. Mas, existem exatamente 4 (quatro) tipo desses perfis segundo a PARÁBOLA DO SEMEADOR. E quais sejam:“Eis que o semeador saiu a semear”. E quando semeava -(A) Os alienados - uma parte da semente caiu ao pé do caminho, e vieram as aves, e comeram-na;(B) Os iniciantes - e outra parte caiu em pedregulhos e areia árida, onde não havia terra bastante, e logo nasceu, porque não tinha terra funda; mas vindo o sol, queimou-se, e secou-se, porque não tinha raiz. (C)Os catequistas missionários - e outra caiu entre espinhos, e os espinhos cresceram, e sufocaram-na. (D) Os ascensos - e outra caiu em boa terra, e deu fruto: um a cem, outro a sessenta e outro a trinta.- Quem tem ouvidos “para ouvir, ouça” – Mateus 13: 3-9. Há uma grande lição de moral na parábola do semeador, em relação àqueles que ouvem e praticam as palavras do senhor. As sementes são as “palavras do senhor”, não como um fútil código de disciplina, mas como uma regra universal de convivência entre seres e que contém o fermento da fecundidade evolucionária. Ocorre que um planeta para evoluir precisa ter certa “homogeneidade” de perfis de almas que lhes habitam. Caso contrário os mais evoluídos figurarão como cordeiros no meio de lobos. E serão devorados...Seria uma maldade celeste se não houvesse um processo seletivo, segundo as leis de DEUS – de onde vem à sentença de “separação do joio do trigo”. Nem haveria significado prático em seguir as palavras do senhor – tanto faria ser cordeiro como ser lobo.Entenda mais profundamente estes paradigmas com seus segredos...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU23803"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 94,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZOxxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZOxxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZOxxDwAAQBAJ&printsec=frontcover&dq=A+5%C2%AA+onda&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZOxxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZOxxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZOxxDwAAQBAJ&rdid=book-ZOxxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Segredos_Das_Profecias_Do_Cristo_E_Da_Ev-sample-pdf.acsm?id=ZOxxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZOxxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Deus já está SEPARANDO O JOIO DO TRIGO?"
+   }
+  }
+ ]
+}

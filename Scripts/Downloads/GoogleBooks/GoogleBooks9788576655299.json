@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "potOAQAAIAAJ",
+   "etag": "8gScLEByPe0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/potOAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Uma Breve história do Brasil /",
+    "authors": [
+     "Mary Del Priore",
+     "Renato Pinto Venâncio"
+    ],
+    "publisher": "Planeta",
+    "publishedDate": "2010-01-01",
+    "description": "Em 'Uma breve história do Brasil', Mary Del Priore e Renato Venancio percorrem a história do Brasil desde quando ainda era a ilha de Vera Cruz até o século XXI. Por meio dos capítulos, os autores narram quais eram os hábitos dos povos que fizeram do passado o presente brasileiro - o que comiam, como se vestiam, em que deuses acreditavam, o que temiam e o que amavam. A partir da descrição dessas curiosidades, abordam as estruturas política, econômica e social e sua evolução no tempo até os dias modernos.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105133710140"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=potOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=potOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=potOAQAAIAAJ&dq=isbn:9788576655299&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=potOAQAAIAAJ&dq=isbn:9788576655299&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_Breve_hist%C3%B3ria_do_Brasil.html?hl=&id=potOAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=potOAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Uma breve história do Brasil&#39;, Mary Del Priore e Renato Venancio percorrem a história do Brasil desde quando ainda era a ilha de Vera Cruz até o século XXI."
+   }
+  }
+ ]
+}

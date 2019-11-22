@@ -1,0 +1,63 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KlqQjwEACAAJ",
+   "etag": "xlzew2P2J/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KlqQjwEACAAJ",
+   "volumeInfo": {
+    "title": "Correr",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535925198"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535925197"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KlqQjwEACAAJ&dq=isbn:9788535925197&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KlqQjwEACAAJ&dq=isbn:9788535925197&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Correr.html?hl=&id=KlqQjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KlqQjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Correr, Drauzio conta como e por que decidiu espantar o sedentarismo; relata o desafio da primeira maratona; nos dá um panorama da história das corridas desde sua suposta origem na Grécia antiga; oferece informações médicas sobre a ..."
+   }
+  }
+ ]
+}

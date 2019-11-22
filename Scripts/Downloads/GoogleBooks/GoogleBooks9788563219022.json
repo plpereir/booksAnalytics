@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jAnAZO6EE40C",
+   "etag": "ba5E6eG9b5g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jAnAZO6EE40C",
+   "volumeInfo": {
+    "title": "Querido John",
+    "authors": [
+     "Nicholas Sparks"
+    ],
+    "publisher": "Novo Conceito",
+    "publishedDate": "2010",
+    "description": "Quando Savannah Lynn Curtis entra em sua vida, John Tyree sabe que está pronto para começar tudo de novo. Ele, um jovem rebelde, se alista no exército logo após terminar a escola, sem saber o que faria de sua vida. Então, durante sua licença, ele conhece Savannah, a garota de seus sonhos. A atração mútua cresce rapidamente e logo transforma-se em um amor que faz com que Savannah jure esperá-lo concluir seus deveres militares. Mas ninguém pôde prever que os atentados de 11 de Setembro pudessem mudar o mundo todo. E como muitos homens e mulheres corajosos, John deveria escolher entre seu amor por Savannah e seu país. Agora, quando ele finalmente retorna para Carolina do Norte, John descobre como o amor pode transformar as pessoas de uma forma que jamais poderia imaginar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563219022"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8563219022"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 287,
+    "printType": "BOOK",
+    "categories": [
+     "Long-distance relationships"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jAnAZO6EE40C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jAnAZO6EE40C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jAnAZO6EE40C&printsec=frontcover&dq=isbn:9788563219022&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jAnAZO6EE40C&dq=isbn:9788563219022&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Querido_John.html?hl=&id=jAnAZO6EE40C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jAnAZO6EE40C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "John sente que deve voltar a se alistar ap?s 9-11, mas o que fazer para que seu relacionamento com Savannah, que est? esperando por ele?"
+   }
+  }
+ ]
+}

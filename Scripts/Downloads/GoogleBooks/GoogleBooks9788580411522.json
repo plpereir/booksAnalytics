@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "biSwmgEACAAJ",
+   "etag": "mp+4czqSEh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/biSwmgEACAAJ",
+   "volumeInfo": {
+    "title": "INFERNO",
+    "subtitle": "UMA NOVA AVENTURA DE ROBERT LANGDON",
+    "authors": [
+     "Dan Brown",
+     "Fabiano Morais",
+     "Fernanda Abreu"
+    ],
+    "publishedDate": "2013",
+    "description": "No coração da Itália, Robert Langdon, o professor de Simbologia de Harvard, é arrastado para um mundo angustiante centrado em uma das obras literárias mais duradouras e misteriosas da história - O Inferno, de Dante Alighieri. Numa corrida contra o tempo, Langdon luta contra um adversário assustador e enfrenta um enigma engenhoso que o arrasta para uma clássica paisagem de arte, passagens secretas e ciência futurística. Tendo como pano de fundo o sombrio poema de Dante, Langdon mergulha numa caçada frenética para encontrar respostas e decidir em quem confiar, antes que o mundo que conhecemos seja destruído.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580411521"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580411522"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Cryptographers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=biSwmgEACAAJ&dq=isbn:9788580411522&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=biSwmgEACAAJ&dq=isbn:9788580411522&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/INFERNO.html?hl=&id=biSwmgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=biSwmgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inferno é uma leitura eletrizante e um convite a pensarmos no papel da ciência para o futuro da humanidade. **** Busca e encontrarás! Essa é a mensagem da bela senhora de cabelos prateados."
+   }
+  }
+ ]
+}

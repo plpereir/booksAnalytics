@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XXUrvgAACAAJ",
+   "etag": "VaquOD/BNXw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XXUrvgAACAAJ",
+   "volumeInfo": {
+    "title": "GUERRA CIVIL",
+    "authors": [
+     "STUART MOORE",
+     "WILL CONRAD",
+     "MICHELE GERHARDT MACCULLOCH"
+    ],
+    "description": "Homem de Ferro e Capitão América - dois membros essenciais para os Vingadores, a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, matando centenas de pessoas, o governo americano exige que todos os super-heróis revelem sua identidade e registrem seus poderes. Para Tony Stark - o Homem de Ferro - é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a Guerra Civil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542804120"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542804126"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 398,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XXUrvgAACAAJ&dq=isbn:9788542804126&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XXUrvgAACAAJ&dq=isbn:9788542804126&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/GUERRA_CIVIL.html?hl=&id=XXUrvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XXUrvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para Tony Stark - o Homem de Ferro - é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a Guerra Civil."
+   }
+  }
+ ]
+}

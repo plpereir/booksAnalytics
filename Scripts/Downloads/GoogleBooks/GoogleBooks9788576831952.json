@@ -1,0 +1,78 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tsNbpFw3PdMC",
+   "etag": "r3Uu6d0WEgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tsNbpFw3PdMC",
+   "volumeInfo": {
+    "title": "Diario de Um Banana, V.2",
+    "authors": [
+     "Jeff Kinney",
+     "ANTONIO DE MACEDO"
+    ],
+    "publisher": "Vergara & Riba Editoras Ltda",
+    "publishedDate": "2008",
+    "description": "Grag continua se metendo em confusão. Só que desta vez as coisas pioram - Rodrick, seu irmão, sabe de um incidente que Greg quer manter em sigilo. Mas segredos são difíceis de serem guardados, especialmente quando há um diário envolvido.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576831953"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576831952"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+     "Children's stories"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 31,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tsNbpFw3PdMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tsNbpFw3PdMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tsNbpFw3PdMC&printsec=frontcover&dq=isbn:9788576831952&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tsNbpFw3PdMC&dq=isbn:9788576831952&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_de_Um_Banana_V_2.html?hl=&id=tsNbpFw3PdMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tsNbpFw3PdMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Faça o que quiser. Só não pergunte a Greg Heffley como foram suas férias de verão. Porque ele realmente não quer falar sobre isso. DE volta às aulas. GReg está ansioso para enterrar de vez os últimos três meses."
+   }
+  }
+ ]
+}

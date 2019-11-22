@@ -1,0 +1,856 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 435,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pg2NCryzjwEC",
+   "etag": "sOLnt4VAcjE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pg2NCryzjwEC",
+   "volumeInfo": {
+    "title": "Depois da Tempestade",
+    "publisher": "Editora Esfera",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788587293268"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8587293265"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pg2NCryzjwEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pg2NCryzjwEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pg2NCryzjwEC&printsec=frontcover&dq=Depois+da+tempestade&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pg2NCryzjwEC&dq=Depois+da+tempestade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Depois_da_Tempestade.html?hl=&id=pg2NCryzjwEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pg2NCryzjwEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não foi fácil para a adolescente Ana Laura encarar o desafio de buscar oportunidades no mercado de trabalho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XmhRDwAAQBAJ",
+   "etag": "QaF69Ym8kQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XmhRDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Depois da tempestade",
+    "authors": [
+     "Travis Mulhauser"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2018-04-10",
+    "description": "Percy James e a mãe, Carletta, vivem juntas na fria e isolada Cutler County desde sempre. A jovem de 16 anos está acostumada aos sumiços da mãe, viciada em metanfetamina. Desta vez, no entanto, após nove dias sem ter notícias, Percy decide ir atrás de Carletta em meio à tempestade de neve que se aproxima. Em seu lugar, o que encontra é um bebê indefeso que precisa ser salvo – decisão que trará como consequência uma eletrizante perseguição no cenário congelante do norte de Michigan. Entre mortos e sobreviventes, a vida dos habitantes da região jamais será a mesma.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595170391"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595170398"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XmhRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XmhRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XmhRDwAAQBAJ&printsec=frontcover&dq=Depois+da+tempestade&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XmhRDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XmhRDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XmhRDwAAQBAJ&rdid=book-XmhRDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.295E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.23E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Depois_da_tempestade-sample-epub.acsm?id=XmhRDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Depois_da_tempestade-sample-pdf.acsm?id=XmhRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XmhRDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Percy James e a mãe, Carletta, vivem juntas na fria e isolada Cutler County desde sempre."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GFtdDwAAQBAJ",
+   "etag": "P3LRb6WJaJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GFtdDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Depois da tempestade",
+    "authors": [
+     "Charles Martin"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2018-06-11",
+    "description": "Do autor de Depois daquela montanha, uma emocionante história de redenção na busca pelo amor. Tyler Steele é um Texas Ranger, um homem de uma espécie em extinção — ele é um caubóimoderno que vive em um mundo que não compreende seu instinto de justiça e de defesa daqueles que precisam de ajuda. Porém, Tyler não consegue perceber suas maiores fraquezas. Sua postura rígida, que era essencial para o trabalho, fez dele um homem fechado, incapaz de estabelecer uma ligação emocional sincera com sua esposa, Andie. Agora, aposentado aos 41 anos, criando o filho sozinho e correndo o risco de perder seu rancho, Tyler não sabe como reconstruir sua vida. Até que, certo dia, durante uma tempestade, bate em um carro caindo aos pedaços que estava parado no meio da estrada. É quando conhece Samantha e sua filhinha, Hope, que estão fugindo de uma situação aparentemente impossível de ser evitada. As duas se veem em perigo, desesperadas e sozinhas. Embora tenha acabado de conhecê-las, Tyler sabe que pode ajudá-las. E, conforme o relacionamento com Sam e Hope se desenvolve, ele percebe que terá de enfrentar suas verdadeiras fraquezas para se tornar o homem que precisa ser.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501101112"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501101117"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GFtdDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GFtdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GFtdDwAAQBAJ&printsec=frontcover&dq=Depois+da+tempestade&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GFtdDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GFtdDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 36.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GFtdDwAAQBAJ&rdid=book-GFtdDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.6E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Depois_da_tempestade-sample-epub.acsm?id=GFtdDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Depois_da_tempestade-sample-pdf.acsm?id=GFtdDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GFtdDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Do autor de Depois daquela montanha, uma emocionante história de redenção na busca pelo amor."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iBIMvgAACAAJ",
+   "etag": "2OWvnwg0rjM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iBIMvgAACAAJ",
+   "volumeInfo": {
+    "title": "DEPOIS DA TEMPESTADE",
+    "authors": [
+     "RICARDO AMORIM"
+    ],
+    "description": "Uma das mais graves crises da história gerou um grande pessimismo sobre nosso futuro. Natural, mas a economia, como o clima, é cíclica. Quando Dilma tomou posse, em 2010, as esperanças eram grandes; as frustrações também foram. Como chegamos à mais profunda recessão em um século? Que erros nos levaram à crise? Como sairemos dela? Por que a recuperação econômica surpreenderá pela força? Como sustentar essa recuperação inicial? Quais as lições e o legado da crise brasileira? Leia, chegue a suas próprias conclusões e ajude a construir o Brasil que vem por aí. Com prefácio do publicitário Nizan Guanaes, esta obra é um marco na análise dos anos Dilma, do governo do PT, de como o Brasil mergulhou em uma das mais profundas crises de sua história. Apesar de todo esse cenário catastrófico, Ricardo Amorim demonstra que a recuperação do País poderá ser mais rápida do que se poderia esperar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858630767X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788586307676"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iBIMvgAACAAJ&dq=Depois+da+tempestade&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iBIMvgAACAAJ&dq=Depois+da+tempestade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DEPOIS_DA_TEMPESTADE.html?hl=&id=iBIMvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iBIMvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apesar de todo esse cenário catastrófico, Ricardo Amorim demonstra que a recuperação do País poderá ser mais rápida do que se poderia esperar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LFIsDgAAQBAJ",
+   "etag": "rpo9vacOavE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LFIsDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Depois da Tempestade, a Bonança",
+    "authors": [
+     "Condessa de Ségur"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2017-01-23",
+    "description": "Pobre Genoveva! Desde a morte dos seus pais que o tio e o primo Jorge a maltratam a toda a hora...Felizmente, as visitas frequentes a casa dos vizinhos Saint-Aimard permitem-lhe escapar a algumas maldades. Mas, acima de tudo, o apoio da excêntrica menina Primerose e a dedicação do fiel Ramoramor criam alguns laivos de esperança... Coragem, Genoveva! Diz o provérbio que depois da tempestade, vem a bonança...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897416644"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897416641"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LFIsDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LFIsDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LFIsDgAAQBAJ&printsec=frontcover&dq=Depois+da+tempestade&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LFIsDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LFIsDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.97,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.62,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LFIsDgAAQBAJ&rdid=book-LFIsDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.697E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.562E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Depois_da_Tempestade_a_Bonan%C3%A7a-sample-epub.acsm?id=LFIsDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Depois_da_Tempestade_a_Bonan%C3%A7a-sample-pdf.acsm?id=LFIsDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LFIsDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas, acima de tudo, o apoio da excêntrica menina Primerose e a dedicação do fiel Ramoramor criam alguns laivos de esperança... Coragem, Genoveva! Diz o provérbio que depois da tempestade, vem a bonança."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s9O3ugEACAAJ",
+   "etag": "t596P4BjaOA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s9O3ugEACAAJ",
+   "volumeInfo": {
+    "title": "Depois Da Tempestade",
+    "subtitle": "COMO SALVAR A DEMOCRACIA NA EUROPA",
+    "authors": [
+     "Philippe Van Parijs",
+     "Luuk Van Middelaar",
+     "Pedro Sette-camara"
+    ],
+    "publishedDate": "2018-08-22",
+    "description": "Amartya Sen, Jürgen Habermas, Rémi Brague e outros doze dos mais prestigiados pensadores da atualidade, de posicionamentos políticos bastante diversificados, estão reunidos neste volume a fim de discutir caminhos para o aprimoramento e a manutenção da harmonia europeia. O convite partiu de Herman Van Rompuy, presidente do Conselho Europeu quando a União Europeia recebeu, em 2012, o Prêmio Nobel da Paz - e que enfrentou, enquanto ocupava esse cargo, desafios perturbadores como as ondas de imigração ilegal, a ascensão de movimentos populistas e o agravamento da crise do euro. Como organizadores da coletânea estão o liberal Luuk van Middelaar e o progressista Philippe Van Parijs. As perspectivas econômica, filosófica, histórica e sociológica aqui se encontram para que se discutam, sem medo da discordância, os temas mais urgentes para a causa da sobrevivência da civilização.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580333377"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580333374"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s9O3ugEACAAJ&dq=Depois+da+tempestade&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=s9O3ugEACAAJ&dq=Depois+da+tempestade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Depois_Da_Tempestade.html?hl=&id=s9O3ugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s9O3ugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O convite partiu de Herman Van Rompuy, presidente do Conselho Europeu quando a União Europeia recebeu, em 2012, o Prêmio Nobel da Paz - e que enfrentou, enquanto ocupava esse cargo, desafios perturbadores como as ondas de imigração ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5T0VAAAAQBAJ",
+   "etag": "JB4S6GyJ8hk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5T0VAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Vortex",
+    "subtitle": "Depois da Tempestade não Haverá Calmaria",
+    "authors": [
+     "Julie Cross"
+    ],
+    "publisher": "Editora Jangada",
+    "publishedDate": "2015-06-17",
+    "description": "Jackson Meyer agora é um agente secreto da Tempest, a misteriosa divisão da CIA responsável por oferecer proteção contra todas as ameaças relacionadas a viagens no tempo. Preso no passado após a tentativa de salvar Holly, ele tenta apagá-la da sua vida para não colocá-la em perigo. Mas o Eyewall, um departamento rival da CIA, descobre sua antiga ligação com Holly, colocando novamente em risco a vida dos dois, assim como a de seus parceiros. Eles irão descobrir que a realidade em torno deles é muito diferente do que pensavam.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564850439"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564850435"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5T0VAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5T0VAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5T0VAAAAQBAJ&printsec=frontcover&dq=Depois+da+tempestade&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5T0VAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5T0VAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.48,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5T0VAAAAQBAJ&rdid=book-5T0VAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.548E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vortex-sample-epub.acsm?id=5T0VAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5T0VAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jackson Meyer agora é um agente secreto da Tempest, a misteriosa divisão da CIA responsável por oferecer proteção contra todas as ameaças relacionadas a viagens no tempo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LUMhAQAAQBAJ",
+   "etag": "pcogaxt6LVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LUMhAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Filha da Tempestade",
+    "authors": [
+     "Richelle Mead"
+    ],
+    "publisher": "Agir Editora",
+    "publishedDate": "2013-10-01",
+    "description": "Eugenie Markham foi contratada para resolver um novo caso: o rapto de uma adolescente. O problema é que a menina não está presa no mundo dos humanos: ela foi levada para o Outro Mundo, habitado por nobres, criaturas mitológicas e almas perdidas, um lugar desconhecido e traiçoeiro. Mas Eugenie é uma poderosa xamã e já está mais do que acostumada a combater espíritos.Antes de fazer essa perigosa transição, ela acaba conhecendo Kiyo, por quem fica atraída de forma incomum. Após uma noite tumultuada e excitante, seus sentimentos estão confusos. Sem conseguir tirá-lo da cabeça, mesmo depois de dias, Eugenie parte para o Outro Mundo.O que era para ser uma missão breve e tranquila se torna uma grande reviravolta em sua vida. Contra a vontade, ela percebe que está cada vez mais conectada ao mundo que sempre odiou e também aos nobres — em especial a Dorian, um rei sedutor e ambicioso. Mas seu corpo ainda deseja Kiyo, e ela se vê mergulhada num ardente triângulo amoroso.Em Filha da Tempestade, Richelle Mead começa a apresentar uma nova face mágica de sua literatura: uma terra dividida em reinos, embates entre monarcas, uma profecia de guerras e conquistas, e uma herança revelada, com ambientes carregados de magia, sensualidade e luta pelo poder. Nesta nova série, a autora se volta para um público mais maduro, com um texto cheio de referências ao mundo pop contemporâneo, mas sem abrir mão de altas doses de fantasia e humor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522015344"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8522015341"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.22.22.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LUMhAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LUMhAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LUMhAQAAQBAJ&pg=PT110&dq=Depois+da+tempestade&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LUMhAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LUMhAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LUMhAQAAQBAJ&rdid=book-LUMhAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9400000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filha_da_Tempestade-sample-epub.acsm?id=LUMhAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filha_da_Tempestade-sample-pdf.acsm?id=LUMhAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LUMhAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Então, sua postura com relação ao rei da \u003cb\u003eTempestade\u003c/b\u003e é muito comum? Os \u003cbr\u003e\noutros se sentem assim também? — Alguns, sim; outros ... Outros desistiram \u003cbr\u003e\n\u003cb\u003edepois\u003c/b\u003e da derrota do rei da \u003cb\u003eTempestade\u003c/b\u003e. Se ele não conseguisse, ninguém \u003cbr\u003e\nconseguiria."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZTjdZMMFfe4C",
+   "etag": "uRcmrgtXc3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTjdZMMFfe4C",
+   "volumeInfo": {
+    "title": "Filha da tempestade - Amor traiçoeiro",
+    "authors": [
+     "Lindsay Armstrong",
+     "Penny Jordan"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2011-10-01",
+    "description": "Filha da tempestade Lindsay Armstrong Nunca pensaram que aquela tempestade mudaria as suas vidas... Resgatada durante uma terrível tempestade, a sensata e discreta Bridget deixou-se seduzir pelo lindíssimo estranho que lhe tinha salvado a vida. Mas ela só soube que o seu salvador era multimilionário e famosíssimo quando leu os títulos de um jornal. O misterioso estranho era Adam Beaumont, o herdeiro do império mineiro Beaumont. Agora, Bridget tinha de encontrar as palavras certas e coragem para lhe dizer que a sua relação tinha tido consequências. Amor traiçoeiro Penny Jordan Será que tinham acabado os romantismos para aquela mulher desconfiada? Numa viagem de negócios à bela cidade de Praga, Beth conheceu o encantador e sedutor Alex Andrews. O facto de ele se ter apaixonado por Beth tão rapidamente despertou as suspeitas dela. Ela aprendera a lição depois de uma humilhante experiência com um homem que a tinha enganado e não estava disposta a acreditar nas mentiras de outro. Estava na altura de lhes dar a provar o seu próprio veneno!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788490008393"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8490008396"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZTjdZMMFfe4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZTjdZMMFfe4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZTjdZMMFfe4C&pg=PT150&dq=Depois+da+tempestade&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZTjdZMMFfe4C&dq=Depois+da+tempestade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Filha_da_tempestade_Amor_trai%C3%A7oeiro.html?hl=&id=ZTjdZMMFfe4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filha_da_tempestade_Amor_trai%C3%A7oeiro-sample-epub.acsm?id=ZTjdZMMFfe4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filha_da_tempestade_Amor_trai%C3%A7oeiro-sample-pdf.acsm?id=ZTjdZMMFfe4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZTjdZMMFfe4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Teria ferido os sentimentos de Dee? Dee portava-se sempre com muita \u003cbr\u003e\nserenidade, mas havia uma sombra de dor no seu olhar. – Se me mostrei \u003cbr\u003e\nsurpreendida é porque sei como estás ocupada – disse Beth, sem mentir. \u003cbr\u003e\n\u003cb\u003eDepois\u003c/b\u003e da morte do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2OlJBQAAQBAJ",
+   "etag": "XM7o4Yt1CaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2OlJBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Majestoso Som Da Tempestade",
+    "authors": [
+     "Rodrigo Almada"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-10-12",
+    "description": "No inicio,era apenas o vazio. Depois veio a luz, que se expandiu e criou seu próprio universo. Quando tudo estava pronto e o olho incandescente fazia seu movimento, vieram os quatro. A deusa escarlate, a deusa de prata, a deusa branca e o deus da tempestade. Paralelo a eles, veio o universo escuro, aonde Malachy era mestre e reinava acima do lodo, da inveja e do ódio. Trancafiado dentro de si, remoía seu eterno ressentimento pela luz e seus deuses, até que um dia, encontra uma maneira de criar uma fenda entre um universo e o outro e consegue invadir e caça-los junto com suas legiões incandescentes. Pegos de surpresa, os deuses e o que sobrou das legiões fogem para a terra. Para sobreviverem, são obrigados a se separarem,e acabam perdendo a si e suas memórias. Depois de anos, se reencontram e começa a luta pelas suas lembranças e pelo retorno para sua terra natal.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90152973"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 361,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2OlJBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2OlJBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2OlJBQAAQBAJ&pg=PA60&dq=Depois+da+tempestade&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2OlJBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2OlJBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2OlJBQAAQBAJ&rdid=book-2OlJBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Majestoso_Som_Da_Tempestade-sample-pdf.acsm?id=2OlJBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2OlJBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "-O que vem \u003cb\u003edepois\u003c/b\u003e da estrada? -È uma floresta! -Eseu amigo tem casa lá? -Sim. \u003cbr\u003e\nQuer conhecê-lo? Charon lembrou-se do trato: -Uma mão lava a outra? -Não é? \u003cbr\u003e\nNesse momento, ocelular de Charon tocou. Era sua avó -Ola minha querida."
+   }
+  }
+ ]
+}

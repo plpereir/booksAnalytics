@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zmjvtAEACAAJ",
+   "etag": "eOGE5Ypode0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zmjvtAEACAAJ",
+   "volumeInfo": {
+    "title": "Laços Inseparaveis",
+    "authors": [
+     "Emily Giffin",
+     "Maria Ângela Amorim De Paschoal"
+    ],
+    "publishedDate": "2015-01-05",
+    "description": "Marian Caldwell é uma produtora de televisão de 36 anos, vivendo seu sonho em Nova York. Com uma carreira bem-sucedida e um relacionamento satisfatório, ela convenceu todo mundo, inclusive si mesma, que sua vida está do jeito que ela deseja. Mas uma noite, Marian atende a porta para encontrar Kirby Rose, uma garota de 18 anos com a chave para o passado que Marian pensou ter deixado para trás para sempre. Desde o momento que Kirby aparece na sua porta, o mundo perfeitamente construído de Marian - e sua verdadeira identidade - será chacoalhado até o fim, fazendo ressurgir fantasmas e memórias de um caso de amor apaixonado que ameaça tudo para definir quem ela realmente é. Para a precoce e determinada Kirby, o encontro vai provocar um processo de descobrimento que a leva ao começo da vida adulta, forçando-a a reavaliar sua família e seu futuro com uma visão sábia e doce. Enquanto as duas mulheres embarcam em uma jornada para encontrar o que está faltando em suas vidas, cada uma irá reconhecer que o lugar no qual se pertence normalmente é onde se menos espera - um lugar que talvez se force a esquecer, mas que o coração se lembra eternamente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563219472"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563219473"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zmjvtAEACAAJ&dq=isbn:9788563219473&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zmjvtAEACAAJ&dq=isbn:9788563219473&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La%C3%A7os_Inseparaveis.html?hl=&id=zmjvtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zmjvtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A autora de cinco romances de sucesso, Emily Giffin, lança uma história inesquecível de duas mulheres, as famílias que a fazem ser quem são, e a lealdade e o amor que as ligam."
+   }
+  }
+ ]
+}

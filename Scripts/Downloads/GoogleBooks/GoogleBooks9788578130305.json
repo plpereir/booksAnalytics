@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Ce-pbwAACAAJ",
+   "etag": "sTgq6aiA/lk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ce-pbwAACAAJ",
+   "volumeInfo": {
+    "title": "PONTE DAS LEMBRANÇAS",
+    "authors": [
+     "SCHELLIDA (ESPIRITO)",
+     "ELIANA MACHADO COELHO"
+    ],
+    "description": "Ricas, felizes e desfrutando de alta posição social, duas grandes amigas, Belinda e Maria Cândida, após muitos anos de separação, reencontram-se e colocam suas vidas em dia, revigorando a amizade que parecia perdida no tempo. Em visita à amiga, Maria Cândida conhece Danielle, filha de Belinda, e experimenta um carinho inexplicável pela moça. Acreditando ser sua filha desencarnada há alguns anos, resolve ajudá-la, uma vez que a jovem enfrenta problemas com seu marido Raul, que está muito doente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578130308"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578130305"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ce-pbwAACAAJ&dq=isbn:9788578130305&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Ce-pbwAACAAJ&dq=isbn:9788578130305&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PONTE_DAS_LEMBRAN%C3%87AS.html?hl=&id=Ce-pbwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ce-pbwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ricas, felizes e desfrutando de alta posição social, duas grandes amigas, Belinda e Maria Cândida, após muitos anos de separação, reencontram-se e colocam suas vidas em dia, revigorando a amizade que parecia perdida no tempo."
+   }
+  }
+ ]
+}

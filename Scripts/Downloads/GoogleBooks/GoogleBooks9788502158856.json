@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "h6x4MAEACAAJ",
+   "etag": "WF1vyK8Cc3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h6x4MAEACAAJ",
+   "volumeInfo": {
+    "title": "O PODEROSO CHEFAO CORPORATIVO",
+    "subtitle": "AS REGRAS DA MAFIA",
+    "authors": [
+     "LOUIS FERRANTE"
+    ],
+    "description": "Neste livro, o ex-mafioso Louis Ferrante pretende revelar suas técnicas de gerenciamento e explicar como aplicá-las - legalmente - em qualquer negócio legítimo. O autor busca trazer suas experiências na vida real, oferecendo conselhos, além de relatar episódios de bastidores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502158856"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502158856"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h6x4MAEACAAJ&dq=isbn:9788502158856&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=h6x4MAEACAAJ&dq=isbn:9788502158856&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_PODEROSO_CHEFAO_CORPORATIVO.html?hl=&id=h6x4MAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h6x4MAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, o ex-mafioso Louis Ferrante pretende revelar suas técnicas de gerenciamento e explicar como aplicá-las - legalmente - em qualquer negócio legítimo."
+   }
+  }
+ ]
+}

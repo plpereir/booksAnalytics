@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Uiu6uAAACAAJ",
+   "etag": "WjOqi6YU0nQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Uiu6uAAACAAJ",
+   "volumeInfo": {
+    "title": "Saga brasileira",
+    "subtitle": "a longa luta de um povo por sua moeda",
+    "authors": [
+     "Miriam Leitão"
+    ],
+    "publishedDate": "2011-01-01",
+    "description": "Esta obra aborda a história econômica do país, da hiperinflação ao plano Real, passando pelos congelamentos, planos que não passavam de um verão e o confisco do governo Collor, e procura mostrar como os brasileiros podem ter sofrido até a estabilização da moeda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501088714"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501088710"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Money"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Uiu6uAAACAAJ&dq=isbn:9788501088710&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Uiu6uAAACAAJ&dq=isbn:9788501088710&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Saga_brasileira.html?hl=&id=Uiu6uAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Uiu6uAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Saga brasileira: A longa luta de um povo por sua moeda, de Miriam Leitão, é um livro definitivo sobre a história econômica recente do país."
+   }
+  }
+ ]
+}

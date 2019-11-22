@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yJoMtAEACAAJ",
+   "etag": "7B3haZ/XCzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yJoMtAEACAAJ",
+   "volumeInfo": {
+    "title": "Pecar E Perdoar",
+    "authors": [
+     "Leandro Karnal"
+    ],
+    "publishedDate": "2017-04-07",
+    "description": "O comportamento moderno, mesmo em esferas não religiosas, ainda se vale de ideias elaboradas milênios atrás, nos primeiros textos judaicos, que deram origem às principais religiões monoteístas do presente. Talvez pela própria característica fluida e multifacetada do mundo atual, o pensamento religioso continua pertinente e relevante, não importa a crença de cada um. É a partir dessa constatação que Leandro Karnal constrói as argumentações e reflexões contidas em \"Pecar e perdoar\". Com exemplos que vão de Noé ao apóstolo Paulo, o autor passa em revista noções vitais fundamentais, como a luta pela superação, a angústia da dor e o senso de dever e valor, demonstrando que velhas metáforas teológicas falam de questões muito atuais",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8595080461"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595080461"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yJoMtAEACAAJ&dq=isbn:9788595080461&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yJoMtAEACAAJ&dq=isbn:9788595080461&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pecar_E_Perdoar.html?hl=&id=yJoMtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yJoMtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Talvez pela própria característica fluida e multifacetada do mundo atual, o pensamento religioso continua pertinente e relevante, não importa a crença de cada um. É a partir dessa constatação que Leandro Karnal constrói as ..."
+   }
+  }
+ ]
+}

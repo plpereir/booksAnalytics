@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0rOnDAAAQBAJ",
+   "etag": "1cxXY4CsmbY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0rOnDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Olá, meninas e meninos!",
+    "authors": [
+     "Taciele Alcolea"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2016-07-11",
+    "description": "Olá meninas e meninos! Estou tão acostumada a falar de mim nos vídeos que escrever tem sido cada vez mais um desafio. No entanto, escrever desperta em mim a calma de que eu tanto preciso para colocar as ideias em ordem e espalhar por aqui um pouco mais de mim. Espero inspirá-los com um pouco da minha história e lembrem-se: corram atrás dos seus sonhos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542207439"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542207432"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 79,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0rOnDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0rOnDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0rOnDAAAQBAJ&dq=isbn:9788542207439&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0rOnDAAAQBAJ&dq=isbn:9788542207439&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ol%C3%A1_meninas_e_meninos.html?hl=&id=0rOnDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0rOnDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Olá meninas e meninos!"
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RDeutAEACAAJ",
+   "etag": "2AjZSTt+2iA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RDeutAEACAAJ",
+   "volumeInfo": {
+    "title": "Na minha pele",
+    "authors": [
+     "Lázaro Ramos"
+    ],
+    "publishedDate": "2017",
+    "description": "Movido pelo desejo de viver num mundo em que a pluralidade cultural, racial, étnica e social seja vista como um valor positivo, e não uma ameaça, Lázaro Ramos divide com o leitor suas reflexões sobre temas como ações afirmativas, gênero, família, empoderamento, afetividade e discriminação. Ainda que não seja uma biografia, em \"Na minha pele\" Lázaro compartilha episódios íntimos de sua vida e também suas dúvidas, descobertas e conquistas. Ao rejeitar qualquer tipo de segregação ou radicalismos, Lázaro nos fala da importância do diálogo. Não se pode abraçar a diferença pela diferença, mas lutar pela sua aceitação num mundo ainda tão cheio de preconceitos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8547000410"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547000417"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+     "Blacks"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RDeutAEACAAJ&dq=isbn:9788547000417&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RDeutAEACAAJ&dq=isbn:9788547000417&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Na_minha_pele.html?hl=&id=RDeutAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RDeutAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ainda que não seja uma biografia, em Na minha pele Lázaro compartilha episódios íntimos de sua vida e também suas dúvidas, descobertas e conquistas."
+   }
+  }
+ ]
+}

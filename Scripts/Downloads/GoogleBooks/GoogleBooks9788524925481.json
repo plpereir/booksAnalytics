@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4fqeswEACAAJ",
+   "etag": "gGOfIln3hTM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4fqeswEACAAJ",
+   "volumeInfo": {
+    "title": "Vamos Pensar Um Pouco?",
+    "subtitle": "LIÇÕES ILUSTRADAS COM A TURMA DA MÔNICA",
+    "authors": [
+     "Mario Sergio Cortella",
+     "Mauricio De Souza"
+    ],
+    "publishedDate": "2017-09-11",
+    "description": "Vamos pensar um pouco? Dá para notar que esse é um convite muito diferente de Vamos pensar pouco?... Esse um faz toda diferença! Na vida cada um faz a diferença, mas não basta ser apenas um; pensamos melhor quando pensamos em turma, e, melhor ainda, acompanhados da Turma da Mônica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8524925485"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788524925481"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4fqeswEACAAJ&dq=isbn:9788524925481&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4fqeswEACAAJ&dq=isbn:9788524925481&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vamos_Pensar_Um_Pouco.html?hl=&id=4fqeswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4fqeswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vamos pensar um pouco? Dá para notar que esse é um convite muito diferente de Vamos pensar pouco?... Esse um faz toda diferença!"
+   }
+  }
+ ]
+}

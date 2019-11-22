@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yCj9oAEACAAJ",
+   "etag": "WuKhozRHS38",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yCj9oAEACAAJ",
+   "volumeInfo": {
+    "title": "O tempo é um rio que corre",
+    "authors": [
+     "Lya Fett Luft"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501102016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501102010"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 141,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yCj9oAEACAAJ&dq=isbn:9788501102010&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yCj9oAEACAAJ&dq=isbn:9788501102010&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_tempo_%C3%A9_um_rio_que_corre.html?hl=&id=yCj9oAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yCj9oAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Logo no título a força e a beleza do texto se anunciam. O tempo é um rio que corre ininterruptamente, afinal, da nascente até a foz, não há desembocadura que pare o rio e seu curso de água natural."
+   }
+  }
+ ]
+}

@@ -1,0 +1,894 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 13,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5mBdCwAAQBAJ",
+   "etag": "OoXSZFIY2ys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5mBdCwAAQBAJ",
+   "volumeInfo": {
+    "title": "A garota dinamarquesa",
+    "authors": [
+     "David Ebershoff"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2016-01-14",
+    "description": "Um simples favor que a esposa pede ao marido numa tarde fria, enquanto os dois pintam no ateliê. A modelo que vem posando para ela cancelou a sessão; ele se importaria de colocar as meias e os sapatos da moça, por alguns instantes, para que ela possa terminar o resto do retrato? \"Claro\", diz ele.\"O que você quiser.\" Assim começa uma das mais passionais e incomuns histórias de amor do século XX. Inspirado na história real do pintor dinamarquês Einar Wegener e sua esposa californiana, este delicado retrato de um casamento nos desafia a refletir o que fazer quando alguém que amamos quer mudar. Einar passa a se vestir cada vez mais como Lili – uma espécie de alter ego feminino –, por quem Greta se vê estranhamente atraída, e à medida que Einar desaparece na lembrança, eles percebem que uma escolha terá de ser feita: Lili ou Einar. Tendo como pano de fundo o glamour e a decadência da Europa da década de 1920, A garota dinamarquesa retrata a quase esquecida história de amor entre um homem que descobre sua verdadeira sexualidade e uma mulher disposta a sacrificar tudo por ele. Romance de estreia de David Ebershoff, A garota dinamarquesa ganhou o Prêmio Literário Lambda de 2000 na categoria de ficção transgênero, e foi transformado em um grande filme estrelado pelo já vencedor do Oscar, Eddie Redmayne.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568432501"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8568432506"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.19.19.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5mBdCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5mBdCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5mBdCwAAQBAJ&printsec=frontcover&dq=A+garota+dinamarquesa&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5mBdCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5mBdCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.38,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5mBdCwAAQBAJ&rdid=book-5mBdCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.25E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.138E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_garota_dinamarquesa-sample-epub.acsm?id=5mBdCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_garota_dinamarquesa-sample-pdf.acsm?id=5mBdCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5mBdCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Romance de estreia de David Ebershoff, A garota dinamarquesa ganhou o Prêmio Literário Lambda de 2000 na categoria de ficção transgênero, e foi transformado em um grande filme estrelado pelo já vencedor do Oscar, Eddie Redmayne."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZiZEDwAAQBAJ",
+   "etag": "QRnGznc0evU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZiZEDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Família(s) e afetividade(s)",
+    "subtitle": "",
+    "authors": [
+     "Luiz Paulo Ribeiro"
+    ],
+    "publisher": "Gramma",
+    "publishedDate": "2017-12-22",
+    "description": "E aí? Vamos discutir sobre a família homoafetiva? Este livro conta com um conjunto de textos sobre as relações as famílias e os sujeitos LGBT, é, pois, um convite ao reconhecimento de direitos e de possibilidades de constituição de famílias para além de parâmetros heteroafetivos. Neste caso, entendemos que família é uma unidade social pela qual se desenvolvem laços de afeto, de desenvolvimento e de partilha de vida e de amor. Os textos aqui organizados demonstram como este tipo de família tem se organizado na nossa contemporaneidade através das lentes da psicologia, direito, serviço social, literatura e cinema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788559682588"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8559682589"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZiZEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZiZEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZiZEDwAAQBAJ&pg=PA132&dq=A+garota+dinamarquesa&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZiZEDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZiZEDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZiZEDwAAQBAJ&rdid=book-ZiZEDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.8E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.8E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fam%C3%ADlia_s_e_afetividade_s-sample-pdf.acsm?id=ZiZEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZiZEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As duas aproximam-se cada vez mais e, quando seu marido a impede de passar \u003cbr\u003e\no Natal com a filha, Carol convida Therese a fazer uma viagem pelos Estados \u003cbr\u003e\nUnidos. \u003cb\u003eA garota dinamarquesa\u003c/b\u003e (Tom Hooper, Reino Unido, Alemanha, EUA,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CmxsDAAAQBAJ",
+   "etag": "l8RSTN8fzRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CmxsDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma temporada no escuro",
+    "authors": [
+     "Karl Ove Knausgård"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2016-06-28",
+    "description": "No quarto volume da série de ficção autobiográfica Minha Luta, Karl Ove Knausgård narra o inverno que passou perto do Circo Polar Ártico, investindo na escrita e na perda da virgindade. Karl Ove Knausgård está com dezoito anos quando parte para uma vila no norte da Noruega a fim de dar aulas a adolescentes. Sua intenção é juntar algum dinheiro para viajar e investir na incipiente atividade de escritor. No começo tudo corre bem, mas quando o escuro toma conta dos dias de inverno, a vida começa a se complicar. A escrita de Karl Ove para de fluir, e suas empreitadas para perder a virgindade fracassam. Com o alto consumo de álcool ele se aproxima da sombra do pai alcóolatra e resgata a temática do primeiro livro da série Minha Luta, \"A morte do pai\". Como a narrativa não segue ordem cronológica, este volume — um dos mais arrebatadores — pode ser lido de forma independente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543806174"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543806178"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CmxsDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CmxsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CmxsDAAAQBAJ&pg=PT129&dq=A+garota+dinamarquesa&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CmxsDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CmxsDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CmxsDAAAQBAJ&rdid=book-CmxsDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_temporada_no_escuro-sample-epub.acsm?id=CmxsDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_temporada_no_escuro-sample-pdf.acsm?id=CmxsDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CmxsDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Comprávamos vinho barato nos supermercados, escolhíamos um banco para \u003cbr\u003e\nbeber e depois íamos a uma discoteca que ficava nas proximidades. Já na \u003cbr\u003e\nsegunda noite eu conheci \u003cb\u003euma garota dinamarquesa\u003c/b\u003e incrível, nos encontramos \u003cbr\u003e\ntodas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "78t8DwAAQBAJ",
+   "etag": "/j1AUB5JfGg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/78t8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Direito em Cartaz: Nuances do Direito com a Sétima Arte",
+    "authors": [
+     "Thiago Luiz Rigon de Araujo",
+     "Jucelma Cássia Camara Tolotti",
+     "Angélica Cerdotes"
+    ],
+    "publisher": "Deviant",
+    "publishedDate": "2018-12-01",
+    "description": "A presente obra “Direito em Cartaz: Nuances do Direito com a Sétima Arte” é fruto de um projeto de ação extensionista realizado na URI-Frederico Westphalen desde 2015, que tinha por intento oportunizar aos alunos do curso uma atividade fora do convencional, e, fomentar o pensamento crítico e científico dos discentes e docentes do nosso curso. Também é fruto das atividades do Grupo de Pesquisa Direito e Cidadania na Sociedade Contemporânea, em suas ações extensivas no âmbito da universidade, e, de atuação conjunta com o Grupo de Pesquisa Alfajus da Universidade de Caxias do Sul- Campus Bento Gonçalves, a partir de uma parceria iniciada em 2018. CAPÍTULOS: 1. Direito de propriedade, demarcação de terras indígenas e o princípio da dignidade humana: uma análise crítica do caso da fazenda Suiá-missu 2. Os transgênicos a partir do documentário “O mundo segundo a Monsanto”: reflexões necessárias 3. Cortes de drogas vs. laranja mecânica: um estudo criminológico das técnicas adotadas 4. Resíduos poliméricos e a proteção do meio ambiente marinho: análise à luz do documentário “A plastic ocean” 5. A construção da(s) identidade(s) entre realidade e ficção: o que tem a nos dizer uma “Garota dinamarquesa”!? 6. Uma visão sobre preconceito na atual sociedade e a análise do filme Mississipi em chamas 7. Uma análise jurídica do filme “Você não conhece o jack” sob a ótica do testamento vital 8. O direito à saúde no brasil e sua relação com o documentário “Sicko: SOS saúde” 9. Políticas públicas no filme “Eu, Daniel Blake” e a relação com a realidade brasileira 10. Nova percepção sobre o curta-metragem “Ilha das flores”: a dignidade da pessoa humana e o direito ao meio ambiente ecologicamente equilibrado na sociedade de consumo 11. Vigiando os vigilantes: uma abordagem sobre o panoptismo a partir de Watchmen 12. Mudanças climáticas, evidências científicas e cooperação: o cenário do planeta a partir dos documentários Uma verdade inconveniente e Uma verdade mais inconveniente 13. Responsabilidade civil ambiental por uma análise do filme “A qualquer preço”",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788553240197"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8553240193"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 229,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=78t8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=78t8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=78t8DwAAQBAJ&pg=PA87&dq=A+garota+dinamarquesa&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=78t8DwAAQBAJ&dq=A+garota+dinamarquesa&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Direito_em_Cartaz_Nuances_do_Direito_com.html?hl=&id=78t8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=78t8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "3 POR UM DIREITO CAPAZ DE PROTEGERAS “NOVAS IDENTIDADES” (TRAN)\u003cbr\u003e\nSEXUAIS A PARTIR DO FILME “\u003cb\u003eA GAROTA DINAMARQUESA\u003c/b\u003e” Nessa linha, a \u003cbr\u003e\nidentidade sexual é ressignificada na atualidade, não se compreendendo a&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dC5hDwAAQBAJ",
+   "etag": "DxcRDl6adZU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dC5hDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Transexualidade",
+    "subtitle": "O corpo entre o sujeito e a ciência",
+    "authors": [
+     "Marco Antonio Coutinho Jorge",
+     "Natália Pereira Travassos"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2018-07-19",
+    "description": "Uma análise relevante e cuidadosa para um debate atual e indispensável A transexualidade tem sido tratada de modo corriqueiro e banalizado. Claro que ela deve ser considerada com naturalidade, porém a falta de qualquer pausa ou indagação surpreende, já que o processo transexualizador implica tratamentos médicos sérios, muitos irreversíveis. Esse livro trata o tema sob o prisma da psicanálise. Ressaltando os aspectos essenciais da sexualidade humana, traz uma breve história da transexualidade na medicina, na psicanálise e na cultura. Propõe discussões relevantes e pouco exploradas, como destransição e a relação entre homofobia e transexualidade. Questiona a rapidez da medicina ao atender às demandas de adequação corporal dos transexuais, e marca posição sugerindo prudência e refinamento nas avaliações dos casos de transexualidade, sobretudo na infância. Para isso, defende que situemos a transexualidade nas encruzilhadas da cultura e seus efeitos sobre a vivência da sexualidade. Repudiando tanto a patologização da condição trans quanto a simplificação leviana do que ela envolve, é uma ótima contribuição para um debate, e uma realidade, que promete prosseguir vivo. \"Graças a um estudo profundo e a uma análise pertinente, esse é um grande livro. Tão surpreendente pelo conteúdo quanto pela forma. Ideias novas expostas com a maior clareza.\" Betty Milan",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537817780"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537817783"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dC5hDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dC5hDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dC5hDwAAQBAJ&pg=PT58&dq=A+garota+dinamarquesa&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dC5hDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dC5hDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dC5hDwAAQBAJ&rdid=book-dC5hDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Transexualidade-sample-epub.acsm?id=dC5hDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dC5hDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... cirúrgica, e ainda sem uso de hormônios, de que se tem notícia ocorreram em \u003cbr\u003e\n1912, com Lili Elbeu (que ficou mundialmente conhecida com o filme \u003cb\u003eA garota\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003edinamarquesa\u003c/b\u003e), e despertaram a atenção da imprensa norte-americana."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uc55DwAAQBAJ",
+   "etag": "Ls2mAdrnqas",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uc55DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Canções Dos Bodes",
+    "authors": [
+     "Luciana Carrero"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "“As canções dos bodes & outros textos” – Trata-se de um livro de conhecimentos, vivências e memórias, personalíssimos, que podemos denominar como heterodoxos. Embora contenha teoria literária, às vezes sutil e, por outras, ostensiva, não se pode enquadra-lo no gênero didático que encontramos em toda uma literatura secular e até milenar, que trata dos temas de escrever de modo doutrinário, em sua grande maioria. A autora fez o caminho, esquecendo conscientemente os monstros sagrados, sejam estes definíveis, no contexto, como poetas, escritores, críticos, editores, livros e enciclopédias, para trazer um relato do seu universo pessoal. A obra é mais inspirativa e menos técnica, mais pé num chão exclusivo que quer chegar incitando à rebeldia, querendo abrir novos caminhos. Uma obra que precisa ser lida pelos novos escritores que chegam, para demonstrar que um autor precisa ter coragem para desvendar escaninhos nunca dantes sondados. A autora parece querer dizer para que construam seus alicerces numa nova estrutura e não fiquem a bater nas velhas fórmulas prescritas. O livro é uma teoria que não é teoria; uma prosa que é teoria, sem querer sê-lo. Uma surpresa que vai atrair novos olhares sobre o ofício de escrever, tirando uns do marasmo e trazendo outros para caminhos novos.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU33968"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uc55DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uc55DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uc55DwAAQBAJ&pg=PA21&dq=A+garota+dinamarquesa&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uc55DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uc55DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.71,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.71,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uc55DwAAQBAJ&rdid=book-uc55DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.971E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.971E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Can%C3%A7%C3%B5es_Dos_Bodes-sample-pdf.acsm?id=uc55DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uc55DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eGarota\u003c/b\u003e. \u003cb\u003eDinamarquesa\u003c/b\u003e. (sinopse. do. filme). Um jovem casal de artistas vive uma \u003cbr\u003e\nexperiência existencial de intensa emoção, numa história ímpar, que merece ser \u003cbr\u003e\nvista sem a tendência de apor-lhe um rótulo e de conceituá-la dentro da força&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KAfdnmmLoiAC",
+   "etag": "U10OTe7UNeA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KAfdnmmLoiAC",
+   "volumeInfo": {
+    "title": "A menina quebrada",
+    "authors": [
+     "Eliane Brum"
+    ],
+    "publisher": "Arquipelago Editorial Ltda",
+    "publishedDate": "2013",
+    "description": "Nas colunas da repórter Eliane Brum no site da revista Época, a vida pode ser tudo, menos rasa. A cada segunda-feira, os leitores encontram um olhar sobre o Brasil, sobre o mundo, sobre a vida - a de dentro e a de fora. Eliane pode escrever sobre a Amazônia profunda, como alguém que cobre a floresta desde os anos 90; ou pode provocar pais e filhos, com uma observação aguda das relações familiares marcadas pelo consumo; ou pode refletir sobre a ditadura da felicidade, que tanta infelicidade nos causa. O que não muda são a profundidade e a seriedade com que ela trata cada tema. O que não é surpresa é seu enorme talento para enxergar muito além do óbvio. Essa combinação transformou sua coluna de opinião em um fenômeno de audiência. Este livro reúne seus melhores textos e dá ao leitor uma fotografia do nosso tempo, visto pelo olhar de uma repórter que observa as ruas do mundo disposta a ver. E que escreve para desacomodar o olhar de quem a lê.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560171453"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8560171452"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KAfdnmmLoiAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KAfdnmmLoiAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KAfdnmmLoiAC&pg=PT97&dq=A+garota+dinamarquesa&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KAfdnmmLoiAC&dq=A+garota+dinamarquesa&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_menina_quebrada.html?hl=&id=KAfdnmmLoiAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_menina_quebrada-sample-epub.acsm?id=KAfdnmmLoiAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_menina_quebrada-sample-pdf.acsm?id=KAfdnmmLoiAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KAfdnmmLoiAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Explica que, como ela é meio brasileira, meio \u003cb\u003edinamarquesa\u003c/b\u003e, não fala inglês. \u003cbr\u003e\nBianca não caminha e precisa de uma cadeira de rodas, já que a sua foi \u003cbr\u003e\nroubada. Lars pergunta ainda se ela pode se hospedar na casa deles porque, \u003cbr\u003e\ncomo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l-GoswEACAAJ",
+   "etag": "TDchzQpuR38",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l-GoswEACAAJ",
+   "volumeInfo": {
+    "title": "Fortaleza Impossível",
+    "authors": [
+     "Jason Rekulak",
+     "Roberto Gray"
+    ],
+    "description": "Um trio de garotos esquisitos e uma nerd brilhante que esconde um grande segredo. Um inesperado romance que nasce em meio a computadores e disquetes. Um ousado e perigoso assalto para roubar a edição de maio de 1987 da revista Playboy, com imagens escandalosas de uma famosa apresentadora de TV. Todos esses elementos se unem para compor Fortaleza Impossível, um romance que fará você rir, se emocionar e recordar a maravilhosa sensação de se apaixonar por algo - ou alguém - pela primeira vez.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580417481"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580417487"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=l-GoswEACAAJ&dq=A+garota+dinamarquesa&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=l-GoswEACAAJ&dq=A+garota+dinamarquesa&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fortaleza_Imposs%C3%ADvel.html?hl=&id=l-GoswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=l-GoswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“Uma declaração de amor aos anos 1980.” – David Ebershoff, autor de A garota dinamarquesa “Misto de história de amor, começo da adolescência e filme de ação, Fortaleza Impossível é um romance inteligente sobre amizade, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9NZBCwAAQBAJ",
+   "etag": "Co1jEtHC52k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9NZBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Orgulho e Preconceito: Pride and Prejudice",
+    "subtitle": "Edição bilíngue português - inglês",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "O romance retrata a relação entre Elizabeth Bennet (Lizzy) e Fitzwilliam Darcy na Inglaterra rural do século XVIII. Lizzy possui outras quatro irmãs, nenhuma delas casadas, o que Sra. Bennet, mãe de Lizzy, considera um absurdo. Quando Sr. Bingley, jovem bem sucedido, aluga uma mansão próxima da casa dos Bennet, Sra. Bennet vê nele um possível marido para uma de suas filhas. De fato, ele parece se interessar bastante por Jane, sua filha mais velha, logo no primeiro baile em que ele, as irmãs e o Sr. Darcy, seu amigo, comparecem. Enquanto Sr. Bingley é visto com bons olhos por todos, Sr. Darcy, por seu jeito frio, é mal falado. Lizzy, em particular, desgosta imensamente dele, por ele ter ferido seu orgulho na primeira vez em que se encontram. A recíproca não é verdadeira. Mesmo com uma má primeira impressão, Darcy realmente se encanta por Lizzy, sem que ela saiba do fato. A partir daí o livro mostra a evolução do relacionamento entre eles e os que os rodeiam, procurando apresentar também, desse modo, a sociedade do final do século XVIII.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781610"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781611"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9NZBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9NZBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9NZBCwAAQBAJ&printsec=frontcover&dq=A+garota+dinamarquesa&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9NZBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9NZBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9NZBCwAAQBAJ&rdid=book-9NZBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Orgulho_e_Preconceito_Pride_and_Prejudic-sample-epub.acsm?id=9NZBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Orgulho_e_Preconceito_Pride_and_Prejudic-sample-pdf.acsm?id=9NZBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9NZBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bennet vê nele um possível marido para uma de suas filhas. De fato, ele parece se interessar bastante por Jane, sua filha mais velha, logo no primeiro baile em que ele, as irmãs e o Sr. Darcy, seu amigo, comparecem."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mmjgAwAAQBAJ",
+   "etag": "jQQV0HjmCl8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mmjgAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A fera interior",
+    "authors": [
+     "Søren Hammer",
+     "Lotte Hammer"
+    ],
+    "publisher": "Vestígio",
+    "publishedDate": "2014-09-19",
+    "description": "Podemos fazer justiça com as próprias mãos? Cinco corpos masculinos mutilados - castrados - e um rico empreendedor que denuncia na mídia a falta de firmeza da justiça dinamarquesa para com os pedófilos. O inspetor Simonsen, que tem experiência demais para não desconfiar das coincidências, logo compreende que está diante de um plano de grandes dimensões, cujos pormenores ainda desconhece... Neste primeiro romance, intenso e cativante, Lotte e Søren Hammer constroem uma intriga milimétrica e engenhosa sobre um assunto ainda tabu na Dinamarca, a pedofilia. Pintando o retrato de uma opinião pública que toma partido dos assassinos, os autores levam o leitor a questionar suas próprias certezas éticas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582860021"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582860021"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.4.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mmjgAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mmjgAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mmjgAwAAQBAJ&printsec=frontcover&dq=A+garota+dinamarquesa&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mmjgAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mmjgAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mmjgAwAAQBAJ&rdid=book-mmjgAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_fera_interior-sample-epub.acsm?id=mmjgAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_fera_interior-sample-pdf.acsm?id=mmjgAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mmjgAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste primeiro romance, intenso e cativante, Lotte e Søren Hammer constroem uma intriga milimétrica e engenhosa sobre um assunto ainda tabu na Dinamarca, a pedofilia."
+   }
+  }
+ ]
+}

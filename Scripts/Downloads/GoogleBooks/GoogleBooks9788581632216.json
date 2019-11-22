@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Iq1InQEACAAJ",
+   "etag": "8+ZjP5ih4fE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Iq1InQEACAAJ",
+   "volumeInfo": {
+    "title": "Bruxos e bruxas",
+    "authors": [
+     "James Patterson",
+     "Ana Paula Corradini"
+    ],
+    "publishedDate": "2013",
+    "description": "É como entrar em um pesadelo. Do nada, você é retirado de sua casa, preso, e acusado de bruxaria. Parece século 17, mas é o governo da Nova Ordem, e está acontecendo agora! Sob a ideologia da Nova Ordem, O Único Que É O Único mantém seu poder à força, sem música, nem internet, nem livros, arte ou beleza. E ter menos de 18 anos já é motivo suficiente para que você seja suspeito de conspiração. Os irmãos Allgood estão encarcerados nesse pesadelo e, para escapar desse mundo de opressão e medo, terão que contar um com o outro e aprender a usar a magia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581632211"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581632216"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 286,
+    "printType": "BOOK",
+    "categories": [
+     "Brothers and sisters"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Iq1InQEACAAJ&dq=isbn:9788581632216&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Iq1InQEACAAJ&dq=isbn:9788581632216&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bruxos_e_bruxas.html?hl=&id=Iq1InQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Iq1InQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É como entrar em um pesadelo."
+   }
+  }
+ ]
+}

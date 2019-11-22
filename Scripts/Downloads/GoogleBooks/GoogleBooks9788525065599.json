@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OmNzuQEACAAJ",
+   "etag": "rpCxxaRXQBQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OmNzuQEACAAJ",
+   "volumeInfo": {
+    "title": "Correspondentes",
+    "authors": [
+     "Memoria Globo"
+    ],
+    "publishedDate": "2018-07-27",
+    "description": "A Globo Livros lança, em parceria com o Memória Globo, Correspondentes - Bastidores, histórias e aventuras de jornalistas brasileiros pelo mundo, obra que reúne mais de cem histórias de jornalistas que foram ou são correspondentes internacionais da Globo. O livro, escrito entre a razão e a emoção, é composto por vinte autores que misturam fato e memória. Caco Barcellos, César Tralli, Edney Silvestre, Ernesto Paglia, Ilze Scamparini, Jorge Pontual, Lucas Mendes, Luís Fernando Silva Pinto, Marcos Losekann, Marcos Uchoa, Pedro Bial, Renato Machado, Ricardo Pereira, Roberto Feith, Roberto Kovalick, Rodrigo Alvarez, Sandra Passarinho, Sergio Motta Mello, Silio Boccanera e Sônia Bridi compartilham as experiências mais marcantes da carreira, em 49 países. São relatos inéditos, que levam o leitor a viajar no tempo e no espaço, percorrendo mais de quarenta anos de jornalismo da Globo no exterior.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525065595"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525065599"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 532,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OmNzuQEACAAJ&dq=isbn:9788525065599&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OmNzuQEACAAJ&dq=isbn:9788525065599&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Correspondentes.html?hl=&id=OmNzuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OmNzuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;A Globo Livros lança, em parceria com o Memória Globo, Correspondentes - Bastidores, histórias e aventuras de jornalistas brasileiros pelo mundo, obra que reúne mais de cem histórias de jornalistas que foram ou são correspondentes ..."
+   }
+  }
+ ]
+}

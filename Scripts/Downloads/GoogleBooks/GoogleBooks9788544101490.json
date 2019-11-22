@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5JtAvgAACAAJ",
+   "etag": "/JWYJTtmTbA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5JtAvgAACAAJ",
+   "volumeInfo": {
+    "title": "BILIONARIOS",
+    "authors": [
+     "RICARDO GEROMEL"
+    ],
+    "publishedDate": "2015-01-05",
+    "description": "'Repleto de caricaturas divertidas, este livro tem como objetivo mostrar que os 1.645 bilionários presentes na lista da revista Forbes de 2014 possuem mais características em comum do que os zeros antes da vírgula em suas contas bancárias. O autor Ricardo Geromel, conhecido por ser um 'caçador de bilionários', acredita que existe um mindset bilionário, o que faz com que a maioria desses afortunados pense e aja de maneira similar. Independentemente de suas personalidades diversas, quase todos os bilionários parecem seguir à risca oito 'regras', que são descritas em detalhes neste livro enquanto o autor aproveita para compartilhar as curiosas e interessantes histórias desses personagens reais.'",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8544101496"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544101490"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5JtAvgAACAAJ&dq=isbn:9788544101490&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5JtAvgAACAAJ&dq=isbn:9788544101490&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BILIONARIOS.html?hl=&id=5JtAvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5JtAvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O autor Ricardo Geromel, conhecido por ser um &#39;caçador de bilionários&#39;, acredita que existe um mindset bilionário, o que faz com que a maioria desses afortunados pense e aja de maneira similar."
+   }
+  }
+ ]
+}

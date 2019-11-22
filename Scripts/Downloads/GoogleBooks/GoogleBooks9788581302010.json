@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dEICnwEACAAJ",
+   "etag": "qWIjfWF3JBo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dEICnwEACAAJ",
+   "volumeInfo": {
+    "title": "O príncipe da privataria",
+    "subtitle": "a historia secreta de como o Brasil perdeu seu patrimônio e Fernando Henrique Cardoso ganhou sua reeleição",
+    "authors": [
+     "Palmério Dória"
+    ],
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581302017"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581302010"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 399,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dEICnwEACAAJ&dq=isbn:9788581302010&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dEICnwEACAAJ&dq=isbn:9788581302010&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_pr%C3%ADncipe_da_privataria.html?hl=&id=dEICnwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dEICnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Palmério Dória conta tudo sobre a reeleição de FHC. Este livro de Palmério Dória, autor do best-seller &quot;Honoráveis Bandidos - um retrato do Brasil na Era Sarney&quot;, desta mesma Geração Editorial, trata agora da Era FHC."
+   }
+  }
+ ]
+}

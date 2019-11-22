@@ -1,0 +1,825 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 445,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GJ9GDwAAQBAJ",
+   "etag": "55RBjQblwjA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GJ9GDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um homem de sorte",
+    "authors": [
+     "Nicholas Sparks"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2018-02-05",
+    "description": "\"Um dos livros mais felizes de Nicholas Sparks, que captura a atenção desde a primeira página. Uma linda história, com personagens verossímeis, sobre a importância de se confiar no amor verdadeiro.\" – Overstock.com D urante uma missão no Iraque, o fuzileiro Logan Thibault encontra, enterrada no chão, uma fotografia de uma linda jovem sorridente. Logo depois, ele experimenta uma súbita onda de sorte – ganha todos os jogos de pôquer e até sobrevive a um confronto mortal. A explicação parece ser uma só: a foto que ele encontrou se transformou em seu amuleto.Ao voltar para casa, nos Estados Unidos, Logan não consegue tirar a jovem da cabeça e empreende uma jornada ao outro lado do país para encontrá-la. Na viagem, conhece Elizabeth, uma mulher divorciada, mãe de um menino, e é pego de surpresa pela forte atração que nasce entre eles. Enquanto ele e Elizabeth se entregam a uma enlouquecedora paixão, Logan decide não dizer nada sobre sua busca. Em pouco tempo, porém, esse segredo poderá separá-los e destruir não apenas seu amor, mas também a vida dos dois. Repleto de romance e suspense, Um homem de sorte é uma história inesquecível sobre os caminhos surpreendentes que o destino nos leva a seguir.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580418101"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580418100"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GJ9GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GJ9GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GJ9GDwAAQBAJ&printsec=frontcover&dq=Um+homem+de+sorte&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GJ9GDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GJ9GDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=GJ9GDwAAQBAJ&rdid=book-GJ9GDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_homem_de_sorte-sample-epub.acsm?id=GJ9GDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_homem_de_sorte-sample-pdf.acsm?id=GJ9GDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GJ9GDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um homem de sorte fala sobre a busca incansável pelo amor verdadeiro.&quot; – Book Reporter"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xpgVAQAAMAAJ",
+   "etag": "T/xb0Y0sIQU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xpgVAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Um homem de sorto",
+    "subtitle": "farsa trágica em um acto",
+    "authors": [
+     "Vicente Sanches"
+    ],
+    "publishedDate": "1966",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89103294005"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 70,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xpgVAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xpgVAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xpgVAQAAMAAJ&q=Um+homem+de+sorte&dq=Um+homem+de+sorte&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xpgVAQAAMAAJ&dq=Um+homem+de+sorte&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_homem_de_sorto.html?hl=&id=xpgVAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xpgVAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "farsa trágica em \u003cb\u003eum\u003c/b\u003e acto Vicente Sanches. VENÂNCIO Mais o quê? GREGORIO \u003cbr\u003e\nOlhe, mais ... VENÂNCIO De acordo: é \u003cb\u003eum\u003c/b\u003e facto-., é \u003cb\u003eum\u003c/b\u003e facto que existem o que \u003cbr\u003e\nse chama pessoas de \u003cb\u003esorte\u003c/b\u003e. . . De \u003cb\u003esorte\u003c/b\u003e e de azar. . . GREGORIO E de azar,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JskcAQAAIAAJ",
+   "etag": "yNh3X2xLzfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JskcAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Silvio de Abreu",
+    "subtitle": "um homem de sorte",
+    "authors": [
+     "Vilmar Ledesma"
+    ],
+    "publisher": "Imprensa Oficial Do Estado",
+    "publishedDate": "2005",
+    "description": "Neste livro, 'as pessoas vão conhecer os bastidores e a magia da televisão na visão de um autor que passou por diversas fases e imprimiu sua marca de qualidade e bom humor em grandes histórias e inesquecíveis personagens', como afirma o professor Hubert Alquéres. Belíssima, sucesso da TV Globo, confirma mais uma vez o talento do novelista Silvio de Abreu, responsável por vários trabalhos de grande audiência, como Guerra dos Sexos, Rainha da Sucata, Torre de Babel, A Próxima Vítima e As Filhas da Mãe. Também diretor de cinema, o Mulher Objeto é seu filme mais conhecido, ele diz que é um homem de sorte porque 'podem acontecer problemas, brigas, dissabores, mas sempre o resultado final é positivo, sempre o avanço é certo'. Para Vilmar Ledesma, autor deste livro-depoimento, o paulistano Sílvio de Abreu é 'um homem de palavra, daqueles que respondem aos recados, diz que vai ligar dali a tantos dias e não falha'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8570604165"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788570604163"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 429,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JskcAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JskcAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JskcAQAAIAAJ&q=Um+homem+de+sorte&dq=Um+homem+de+sorte&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JskcAQAAIAAJ&dq=Um+homem+de+sorte&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Silvio_de_Abreu.html?hl=&id=JskcAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JskcAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para Vilmar Ledesma, autor deste livro-depoimento, o paulistano Sílvio de Abreu é &#39;um homem de palavra, daqueles que respondem aos recados, diz que vai ligar dali a tantos dias e não falha&#39;."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6conBgAAQBAJ",
+   "etag": "Mf34FxedsUA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6conBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Um Homem De Sorte",
+    "authors": [
+     "Shawn Inmon"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2015-01-05",
+    "description": "Um Homem de sorte, por Shawn Inmon Um dos mais famosos finalistas regressa para a sua 25.a reunião mas uma mulher que se sentiu injustiçada espera-o com um plano de vingança. Um conto que tem a extensão perfeita para uma leitura breve – 6 200 palavras. Nada nunca tinha corrido mal para Brett Mann – até esta noite. “Um Homem de Sorte” é a história de um homem de sucesso que chega triunfante à sua 25.a reunião do liceu. A sua vida fora abençoada com uma elegante e bela esposa, com filhas brilhantes, com uma carreira que era a inveja de qualquer homem e mais dinheiro que aquele que conseguia gastar. “A verdadeira questão é, foi ele que conquistou tudo isso ou foi tudo por encantamento? Mas mais importante, será que esse encantamento está prestes a tornar-se numa maldição? Género: Conto Género Secundário: Mistério, Thriler e Suspense Língua: Inglês Contagem de palavras: 6 000 Informação de venda: Este é um conto de pequena extensão que tem vendido bem de forma consistente desde a sua publicação, em Fevereiro de 2012. Tem base numa ideia que prende a atenção e à qual os leitores têm respondido muito bem – um homem desagradável que tem o que merece. Tem atualmente 31 críticas na Amazon, com uma média de 4,9 estrelas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781633398801"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1633398803"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 46,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6conBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6conBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6conBgAAQBAJ&pg=PT1&dq=Um+homem+de+sorte&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6conBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6conBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.77,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 3.77,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6conBgAAQBAJ&rdid=book-6conBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3770000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3770000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6conBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Shawn Inmon. \u003cb\u003eUm Homem de Sorte\u003c/b\u003e Shawn Inmon Traduzido por Constança \u003cbr\u003e\nAlves “Um de Homem Sorte” por Escrito ShawnInmon Copyright © 2014Shawn."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EXRwwgEACAAJ",
+   "etag": "O0Mqm1gdRQA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EXRwwgEACAAJ",
+   "volumeInfo": {
+    "title": "Um homem de sorte",
+    "authors": [
+     "Michael J. Fox"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9725301811"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789725301814"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Actors"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=EXRwwgEACAAJ&dq=Um+homem+de+sorte&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=EXRwwgEACAAJ&dq=Um+homem+de+sorte&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_homem_de_sorte.html?hl=&id=EXRwwgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EXRwwgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XwVyDwAAQBAJ",
+   "etag": "1ScQq4VxbRY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XwVyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "MÁfia Do Rock",
+    "authors": [
+     "Sandro"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Sinopse Trabalho que traz 15 álbuns da Banda Máfia do Rock Suscintamente compilado As composições contidas neste livro São as Letras das Músicas Verdadeiro deleite Um estilo de Vida... A história continua... Importante ouvir as músicas de cada obra Elas se completam em letras, sons e emoções... Uma viagem ao mundo de Ilusões Às vezes eu tenho um desejo enorme de me expressar Faltando-me as palavras ainda me resta a música Assim talvez, quem sabe, alguém possa entender Basta curtir",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU27216"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 249,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XwVyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XwVyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XwVyDwAAQBAJ&pg=PA78&dq=Um+homem+de+sorte&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XwVyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XwVyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 107.79,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 107.79,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XwVyDwAAQBAJ&rdid=book-XwVyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0779E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0779E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/M%C3%81fia_Do_Rock-sample-pdf.acsm?id=XwVyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XwVyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A VIAGEM Sou \u003cb\u003eum homem de sorte\u003c/b\u003e... Amanhece um dia chuvoso, quatros horas \u003cbr\u003e\nda manhã, segunda-feira brava, sexta-feira foiferiado do dia do trabalho, minha \u003cbr\u003e\nmulher maravilhosa fica zangada etriste porque pegou uma pontinha dentro da&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uwJtDwAAQBAJ",
+   "etag": "mAKa2l5ii6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uwJtDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Skinner Vai ao Cinema",
+    "subtitle": "Análise do Comportamento, Filmes, Análise Funcional",
+    "authors": [
+     "Michela Rodrigues Ribeiro",
+     "Ana Karina C. R. de-Farias"
+    ],
+    "publisher": "Instituto Walden4",
+    "publishedDate": "2014-09-10",
+    "description": "Análises psicológicas de filmes sob a perspectiva da Análise do Comportamento. São discutidos, entre outros, conceitos como relações afetivas, comportamento violento e eventos privados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565721042"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565721043"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 262,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uwJtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uwJtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uwJtDwAAQBAJ&pg=PA42&dq=Um+homem+de+sorte&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uwJtDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uwJtDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uwJtDwAAQBAJ&rdid=book-uwJtDwAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Skinner_Vai_ao_Cinema-sample-pdf.acsm?id=uwJtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uwJtDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alfie descreve-se, então, como \u003cb\u003eum homem de sorte\u003c/b\u003e. Tal descrição pode ser \u003cbr\u003e\ntratada como um mando disfarçado de tato9 (Medeiros, 2002), sendo mantido \u003cbr\u003e\npela argumentação, por parte da audiência, de que ele possui muito mais que \u003cbr\u003e\nsorte,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SLdjDwAAQBAJ",
+   "etag": "+/sYzteKnYs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SLdjDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O que acontece quando um homem cai do céu",
+    "authors": [
+     "Lesley Nneka Arimah"
+    ],
+    "publisher": "Editora Kapulana",
+    "publishedDate": "2018-07-12",
+    "description": "\"O que acontece quando um homem cai do céu\" é uma coletânea de doze contos, da escritora Lesley Nneka Arimah, que nasceu no Reino Unido, e foi criada na Nigéria. São histórias contadas majoritariamente de uma perspectiva feminina, e trazem questões como maternidade e relação mãe/filha, sacrifício, feminilidade, amadurecimento e violência. Alguns dos contos apresentam aspectos da literatura fantástica, outros são mais realistas. A autora ganhou o \"Kirkus Prize\", além de o livro estar em várias listas de mais lidos e mais recomendados de 2017. Lesley Nneka Arimah, de origem nigeriana, nasceu e cresceu no Reino Unido, mas viveu em outros países, como a Nigéria, onde seu pai trabalhava. Hoje, mora em Minneapolis, nos Estados Unidos. O que acontece quando um homem cai do céu foi lançado em 2017 nos Estados Unidos, no Reino Unido e na Nigéria. Recebeu vários prêmios importantes, como o \"Kirkus Reviews Prize\", (categoria Ficção, 2017) e indicações como para o \"John Leonard Prize\", da National Book Critics Circle. Desde 2014, quase todos seus contos já haviam sido publicados e premiados nos meios literários de reconhecimento internacional, como o Commonwealth Short Story Prize for Africa, The New Yorker e Harper's Magazine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568846391"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8568846394"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 2500,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SLdjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SLdjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SLdjDwAAQBAJ&pg=PT114&dq=Um+homem+de+sorte&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SLdjDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SLdjDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SLdjDwAAQBAJ&rdid=book-SLdjDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_acontece_quando_um_homem_cai_do_c-sample-epub.acsm?id=SLdjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SLdjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A tartaruga e o espírito arrancaram um espinho cada um, ansiosos por desejos \u003cbr\u003e\nque estavam fora de seu alcance, e fecharam os olhos. Foi quando o porco-\u003cbr\u003e\nespinho ... Thomas, por outro lado, era \u003cb\u003eum homem de sorte\u003c/b\u003e. Ele estava sempre&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GFFB3yirVoUC",
+   "etag": "T9kOZtZxFrA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GFFB3yirVoUC",
+   "volumeInfo": {
+    "title": "Busco tua face, Senhor",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515004941"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515004942"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GFFB3yirVoUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GFFB3yirVoUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GFFB3yirVoUC&pg=PA11&dq=Um+homem+de+sorte&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GFFB3yirVoUC&dq=Um+homem+de+sorte&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Busco_tua_face_Senhor.html?hl=&id=GFFB3yirVoUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GFFB3yirVoUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ORAÇÃO DE \u003cb\u003eUM HOMEM DE SORTE\u003c/b\u003e Salmo 1 Feliz quem . . . ama a Lei do \u003cbr\u003e\nSenhor. Tenho sorte, Senhor, e sei disso. Tenho a sorte de conhecer-te, de \u003cbr\u003e\nsaber os teus caminhos, de saber a tua vontade, de conhecer a tua lei. As coisas \u003cbr\u003e\ntêm&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iu7-AwAAQBAJ",
+   "etag": "nvIoPvgKDfI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iu7-AwAAQBAJ",
+   "volumeInfo": {
+    "title": "Você mudou minha vida para melhor",
+    "subtitle": "Histórias de gratidão e amor que transformaram pessoas",
+    "authors": [
+     "Max Lucado"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "publishedDate": "2014-07-09",
+    "description": "VOCÊ NÃO PODE AJUDAR TODO MUNDO. MAS TODO MUNDO PODE AJUDAR ALGUÉM.Quantas vezes olhamos para trás, para a estrada de nossa vida, e pensamos: \"E se aquele irmão não tivesse me ajudado, como seria daqui para frente?\" Em algum momento de nossa existência sentimos a necessidade de agradecer àquela pessoa que, seja com uma ajuda material ou espiritual, tocou nossa vida e a modificou totalmente, para sempre. Se ao folhear este livro você se lembrou desta pessoa, aproveite este momento para agradecer e retribuir o que ela fez.Em Você mudou minha vida para melhor você vai se emocionar com as tocantes histórias de pessoas comuns que transformaram vidas com um simples ato de compaixão, amizade ou sabedoria, inspiradas pelo amor incondicional de Deus. Uma celebração à amizade e à gratidão, este livro é o presente ideal para alguém que fez a diferença em sua vida; uma excelente oportunidade de dizer MUITO OBRIGADO POR TUDO!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578606190"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578606191"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.19.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iu7-AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iu7-AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iu7-AwAAQBAJ&pg=PT124&dq=Um+homem+de+sorte&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=iu7-AwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-iu7-AwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=iu7-AwAAQBAJ&rdid=book-iu7-AwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_mudou_minha_vida_para_melhor-sample-epub.acsm?id=iu7-AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_mudou_minha_vida_para_melhor-sample-pdf.acsm?id=iu7-AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iu7-AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dan Mazur considerava-se \u003cb\u003eum homem de sorte\u003c/b\u003e. A maior parte das pessoas o \u003cbr\u003e\nteria considerado louco. Ele estava a uma caminhada de duas horas do cimo do \u003cbr\u003e\nmonte Everest, a trezentos metros da realização do sonho de uma vida inteira."
+   }
+  }
+ ]
+}

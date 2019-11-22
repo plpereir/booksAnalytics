@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "x6lrAQAACAAJ",
+   "etag": "4jxz/TzXjno",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x6lrAQAACAAJ",
+   "volumeInfo": {
+    "title": "Crescer não é fácil",
+    "subtitle": "a crise, a economia mundial e o crescimento brasileiro",
+    "authors": [
+     "José Roberto Mendonça de Barros"
+    ],
+    "publishedDate": "2012",
+    "description": "Esta obra traz textos como - Incerteza e volatilidade na economia mundial; Ainda a crise mundial; Cresce o desconforto com a situação mundial; A Venezuela ruma para o desastre; Uma revisão do cenário econômico internacional; Piora a situação mundial; A economia americana vai se recuperar?; O mundo ainda está perigoso, entre outros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535262873"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535262872"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 267,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=x6lrAQAACAAJ&dq=isbn:9788535262872&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=x6lrAQAACAAJ&dq=isbn:9788535262872&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Crescer_n%C3%A3o_%C3%A9_f%C3%A1cil.html?hl=&id=x6lrAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x6lrAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra traz textos como - Incerteza e volatilidade na economia mundial; Ainda a crise mundial; Cresce o desconforto com a situação mundial; A Venezuela ruma para o desastre; Uma revisão do cenário econômico internacional; Piora a ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ELykuAAACAAJ",
+   "etag": "Xiy6/O/eHJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ELykuAAACAAJ",
+   "volumeInfo": {
+    "title": "RESTART - CORAÇAO NA MAO",
+    "authors": [
+     "FATIMA GIGLIOTTI"
+    ],
+    "description": "A jornalista Fátima Gigliotti esquadrinhou, durante dois meses, a vida de Pe Lanza, Pe Lu, Thomas e Koba, que formam a banda Restart. Ela viajou com eles no ônibus da banda, andou pelos bastidores dos shows, conversou com eles a sós, ouviu seus amigos, ex-professores, mães, pais, irmãos e vizinhos, conheceu suas casas, abriu seus velhos álbuns de fotografias. Como resultado, esta obra apresenta a intimidade, a infância, a família, o colégio, os primeiros acordes, as primeiras bandas, a paixão pela música e a amizade que une os quatro garotos. O livro conta com entrevistas exclusivas, fotos, bastidores do show, e mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502123858"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502123854"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ELykuAAACAAJ&dq=isbn:9788502123854&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ELykuAAACAAJ&dq=isbn:9788502123854&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/RESTART_CORA%C3%87AO_NA_MAO.html?hl=&id=ELykuAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ELykuAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A jornalista Fátima Gigliotti esquadrinhou, durante dois meses, a vida de Pe Lanza, Pe Lu, Thomas e Koba, que formam a banda Restart."
+   }
+  }
+ ]
+}

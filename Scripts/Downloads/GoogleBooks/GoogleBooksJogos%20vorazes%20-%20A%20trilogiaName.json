@@ -1,0 +1,942 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 23,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XcQAAgAAQBAJ",
+   "etag": "ISrcBSBgqzI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XcQAAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Trilogia Jogos Vorazes",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2013-11-01",
+    "description": "Este livro reúne os três volumes da série Jogos Vorazes, fenômeno mundial da literatura. Pioneiro na escrita distópica, a trilogia Jogos Vorazes se passa em um futuro pós-guerras e destruição, em um local antes conhecido como América do Norte e agora chamado de Panem. O novo país é dividido em treze Distritos, que são controlados pela Capital, totalmente autoritária. Tudo que é produzido nos Distritos abastece obrigatoriamente a Capital, sendo terminantemente proibido que os Distritos consumam o que produzem. Um dia, o Distrito 13 se rebela, mas acaba sendo destruído. Para punir os demais Distritos e evitar novas rebeliões, a Capital cria os Jogos Vorazes, um reality show anual em que cada região do país deve ceder, por meio do sorteio chamado Colheita, um menino e uma menina entre 12 e 18 anos para entrar numa arena para lutar. Apenas um sobrevive. Best-seller da Veja, a trilogia Jogos Vorazes foi adaptada para o cinema e estrelada por Jennifer Lawrence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581223025"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581223028"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.30.29.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XcQAAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XcQAAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XcQAAgAAQBAJ&printsec=frontcover&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XcQAAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XcQAAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 66.02,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XcQAAgAAQBAJ&rdid=book-XcQAAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.602E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trilogia_Jogos_Vorazes-sample-epub.acsm?id=XcQAAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Trilogia_Jogos_Vorazes-sample-pdf.acsm?id=XcQAAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XcQAAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apenas um sobrevive. Best-seller da Veja, a trilogia Jogos Vorazes foi adaptada para o cinema e estrelada por Jennifer Lawrence."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i3g4PrLGz4wC",
+   "etag": "6KUqpL7N9Qo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i3g4PrLGz4wC",
+   "volumeInfo": {
+    "title": "Jogos vorazes",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2012-02-15",
+    "description": "Na abertura dos Jogos Vorazes, a organização não recolhe os corpos dos combatentes caídos e dá tiros de canhão até o final. Cada tiro, um morto. Onze tiros no primeiro dia. Treze jovens restaram, entre eles, Katniss. Para quem os tiros de canhão serão no dia seguinte?... Após o fim da América do Norte, uma nova nação chamada Panem surge. Formada por doze distritos, é comandada com mão de ferro pela Capital. Uma das formas com que demonstra seu poder sobre o resto do carente país é com Jogos Vorazes, uma competição anual transmitida ao vivo pela televisão, em que um garoto e uma garota de doze a dezoito anos de cada distrito são selecionados e obrigados a lutar até a morte! Para evitar que sua irmã seja a mais nova vítima do programa, Katniss se oferece para participar em seu lugar. Vinda do empobrecido Distrito 12, ela sabe como sobreviver em um ambiente hostil. Peeta, um garoto que ajudou sua família no passado, também foi selecionado. Caso vença, terá fama e fortuna. Se perder, morre. Mas para ganhar a competição, será preciso muito mais do que habilidade. Até onde Katniss estará disposta a ir para ser vitoriosa nos Jogos Vorazes? Best-seller da Veja, a trilogia Jogos Vorazes foi adaptada para o cinema e estrelada por Jennifer Lawrence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581220307"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581220304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.38.38.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i3g4PrLGz4wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i3g4PrLGz4wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=i3g4PrLGz4wC&printsec=frontcover&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=i3g4PrLGz4wC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-i3g4PrLGz4wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.75,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=i3g4PrLGz4wC&rdid=book-i3g4PrLGz4wC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.275E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.211E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jogos_vorazes-sample-epub.acsm?id=i3g4PrLGz4wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jogos_vorazes-sample-pdf.acsm?id=i3g4PrLGz4wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i3g4PrLGz4wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Até onde Katniss estará disposta a ir para ser vitoriosa nos Jogos Vorazes? Best-seller da Veja, a trilogia Jogos Vorazes foi adaptada para o cinema e estrelada por Jennifer Lawrence."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uLrUpMscQqcC",
+   "etag": "mlk13fzzJfg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uLrUpMscQqcC",
+   "volumeInfo": {
+    "title": "Em chamas",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2012-02-15",
+    "description": "Depois da improvável e inusitada vitória de Katniss Everdeen e Peeta Mellark nos últimos Jogos Vorazes, algo parece ter mudado para sempre em Panem. Aqui e ali, distúrbios e agitações nos distritos dão sinais de que uma revolta é iminente. Katniss e Peeta, representantes do paupérrimo Distrito 12, não apenas venceram os Jogos, mas ridicularizaram o governo e conseguiram fazer todos – incluindo o próprio Peeta – acreditarem que são um casal apaixonado. A confusão na cabeça de Katniss não é menor do que a das ruas. Em meio ao turbilhão, ela pensa cada vez mais em seu melhor amigo, o jovem caçador Gale, mas é obrigada a fingir que o romance com Peeta é real. Já o governo parece especialmente preocupado com a influência que os dois adolescente vitoriosos – transformados em verdadeiros ídolos nacionais – podem ter na população. Por isso, existem planos especiais para mantê-los sob controle, mesmo que isso signifique forçá-los a lutar novamente. Apenas um sobrevive. Best-seller da Veja, a trilogia Jogos Vorazes foi adaptada para o cinema e estrelada por Jennifer Lawrence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581220314"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581220312"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.41.41.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uLrUpMscQqcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uLrUpMscQqcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uLrUpMscQqcC&printsec=frontcover&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uLrUpMscQqcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uLrUpMscQqcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.75,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uLrUpMscQqcC&rdid=book-uLrUpMscQqcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.275E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.211E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_chamas-sample-epub.acsm?id=uLrUpMscQqcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Em_chamas-sample-pdf.acsm?id=uLrUpMscQqcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uLrUpMscQqcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Depois da improvável e inusitada vitória de Katniss Everdeen e Peeta Mellark nos últimos Jogos Vorazes, algo parece ter mudado para sempre em Panem."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OretLo2hgXcC",
+   "etag": "quklM9Yye+I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OretLo2hgXcC",
+   "volumeInfo": {
+    "title": "A esperança",
+    "authors": [
+     "Suzanne Collins"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2012-02-15",
+    "description": "Depois de sobreviver duas vezes à crueldade de uma arena projetada para destruí-la, Katniss acreditava que não precisaria mais lutar. Mas as regras do jogo mudaram: com a chegada dos rebeldes do lendário Distrito 13, enfim é possível organizar uma resistência. Começou a revolução. A coragem de Katniss nos jogos fez nascer a esperança em um país disposto a fazer de tudo para se livrar da opressão. E agora, contra a própria vontade, ela precisa assumir seu lugar como símbolo da causa rebelde. Ela precisa virar o Tordo. O sucesso da revolução dependerá de Katniss aceitar ou não essa responsabilidade. Será que vale a pena colocar sua família em risco novamente? Será que as vidas de Peeta e Gale serão os tributos exigidos nessa nova guerra? Acompanhe Katniss até o fim deste thriller, numa jornada ao lado mais obscuro da alma humana, em uma luta contra a opressão e a favor da esperança. Apenas um sobrevive. Best-seller da Veja, a trilogia Jogos Vorazes foi adaptada para o cinema e estrelada por Jennifer Lawrence.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581220321"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581220320"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.42.42.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OretLo2hgXcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OretLo2hgXcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OretLo2hgXcC&printsec=frontcover&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OretLo2hgXcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OretLo2hgXcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OretLo2hgXcC&rdid=book-OretLo2hgXcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.55E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.422E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_esperan%C3%A7a-sample-epub.acsm?id=OretLo2hgXcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_esperan%C3%A7a-sample-pdf.acsm?id=OretLo2hgXcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OretLo2hgXcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Começou a revolução. A coragem de Katniss nos jogos fez nascer a esperança em um país disposto a fazer de tudo para se livrar da opressão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GLRRvgAACAAJ",
+   "etag": "kD0L8R2Wck0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GLRRvgAACAAJ",
+   "volumeInfo": {
+    "title": "JOGOS VORAZES E A FILOSOFIA",
+    "subtitle": "UMA CRITICA DA TRAIÇAO PURA",
+    "authors": [
+     "NICOLAS MICHAUD",
+     "GEORGE A. DUNN",
+     "PATRICIA AZEREDO"
+    ],
+    "description": "Cometer um assassinato com a finalidade de se autopreservar pode ser considerado moral? É possível que algo tão simples quanto uma música dê início a uma revolução? A filosofia pode ajudar Katniss a escolher entre Peeta e Gale? Tocando em temas profundos, como lealdade e moralidade, 'Jogos vorazes e a filosofia' nos ajuda a analisar uma das mais famosas distopias de nosso tempo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576846446"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576846444"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GLRRvgAACAAJ&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GLRRvgAACAAJ&dq=Jogos+vorazes+-+A+trilogia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/JOGOS_VORAZES_E_A_FILOSOFIA.html?hl=&id=GLRRvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GLRRvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cometer um assassinato com a finalidade de se autopreservar pode ser considerado moral? É possível que algo tão simples quanto uma música dê início a uma revolução?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_z0bDQAAQBAJ",
+   "etag": "zg90FohVvqU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_z0bDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Má feminista",
+    "subtitle": "Ensaios provocativos de uma ativista desastrosa",
+    "authors": [
+     "Roxane Gay"
+    ],
+    "publisher": "Novo Século",
+    "publishedDate": "2016-09-19",
+    "description": "Nesta seleção de ensaios engraçados e perspicazes, Roxane Gay nos leva a uma viagem sobre sua própria evolução como mulher negra, ao mesmo tempo em que nos transporta a um passeio pela cultura nos últimos anos. O retrato que emerge não é apenas o de uma mulher incrivelmente sagaz em contínuo crescimento para compreender a si mesma e à nossa sociedade, mas também o espelho de nós mesmos. Gay fomenta um debate ácido e cômico sobre o feminismo atual – e suas contradições –, política, racismo, violência, transitando entre a cultura pop e a análise crítica. Má feminista é um olhar afiado, e nos alerta, acima de tudo, para a maneira pela qual a cultura que nos envolve torna-nos quem somos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542809541"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542809548"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_z0bDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_z0bDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_z0bDQAAQBAJ&pg=PT183&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_z0bDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_z0bDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_z0bDQAAQBAJ&rdid=book-_z0bDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/M%C3%A1_feminista-sample-epub.acsm?id=_z0bDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/M%C3%A1_feminista-sample-pdf.acsm?id=_z0bDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_z0bDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Enquanto lia a \u003cb\u003etrilogia\u003c/b\u003e, pensei no artigo de Gurdon porque fiquei impressionada, \u003cbr\u003e\nmais de uma vez, pela intensidade dos ... A \u003cb\u003etrilogia Jogos vorazes\u003c/b\u003e é sombria e \u003cbr\u003e\nbrutal, mas, no fim, os livros também oferecem esperança – para um mundo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X_xBDwAAQBAJ",
+   "etag": "UiKpi0PI3b8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X_xBDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Feminismos, Identidades, Comparativismos: Vertentes nas Literaturas de Língua Inglesa Vol. XII",
+    "subtitle": "",
+    "authors": [
+     "A na Lucia de Souza Henriques"
+    ],
+    "publisher": "Letra Capital Editora LTDA",
+    "publishedDate": "2017-12-07",
+    "description": "O décimo segundo volume de Feminismos, identidades, comparativismos: vertentes nas literaturas de língua inglesa reúne, da mesma forma que toda a série publicada anualmente desde 2003, trabalhos das professoras do Curso de Mestrado em Literaturas de Língua Inglesa, que é ligado ao Programa de Pós-Graduação do Instituto de Letras da Universidade do Estado do Rio de Janeiro. Os ensaios que compõem os capítulos desta obra contemplam uma diversidade de temas e apontam para a pluralidade de questões abordadas a partir de uma das linhas de pesquisa do MLLI, cujos títulos são: “Literatura e Comparativismo” e “A Voz e o Olhar do Outro: questões de gênero e/ou etnia nas literaturas de língua inglesa”. Os diálogos aqui presentes, por vezes, ultrapassam o campo dos estudos literários e dos estudos culturais, ilustrando parte do interesse acadêmico de cada uma das pesquisadoras. Ao chegarmos a este volume número 12, renovamos os agradecimentos ao PPGL da UERJ pelo apoio dado e torcemos para que possamos dar continuidade a esta série, sempre procurando contribuir para aprofundamento de discussões em torno de nosso objeto comum do desejo que é a literatura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577853267"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577853268"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X_xBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X_xBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X_xBDwAAQBAJ&pg=PA65&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=X_xBDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-X_xBDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=X_xBDwAAQBAJ&rdid=book-X_xBDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Feminismos_Identidades_Comparativismos_V-sample-pdf.acsm?id=X_xBDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X_xBDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Portanto, a encontramos mais adiante em romances populares, vinculados à \u003cbr\u003e\ncultura pop, concebidos após o ataque terrorista de 11 de setembro e a Guerra \u003cbr\u003e\nao Terror, como a famosa e popular \u003cb\u003etrilogia Jogos Vorazes\u003c/b\u003e (2008), Em Chamas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "61j5DAAAQBAJ",
+   "etag": "04+W4NfPkVo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/61j5DAAAQBAJ",
+   "volumeInfo": {
+    "title": "Sou fã! E agora?",
+    "authors": [
+     "Frini Georgakopoulos"
+    ],
+    "publisher": "Editora Seguinte",
+    "publishedDate": "2016-09-05",
+    "description": "Fã que é fã adora conversar, discutir, interagir. Mas nem sempre temos por perto um amigo tão fanático quanto a gente para desabafar. Foi pensando nisso que Frini Georgakopoulos, uma fã de carteirinha, escreveu este livro: um manual de sobrevivência voltado para quem é apaixonado por livros, filmes, séries de TV...Com uma linguagem rápida e divertida, Sou fã! E agora? é uma mistura de artigos breves e atividades interativas que convidam a refletir sobre os motivos para curtirmos tanto as histórias, além de ajudar a descobrir o que fazer com todo esse amor: criar seu próprio cosplay, escrever uma fanfic, organizar um evento, começar um blog ou canal e muito mais!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543806822"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543806828"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=61j5DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=61j5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=61j5DAAAQBAJ&pg=PT79&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=61j5DAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-61j5DAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=61j5DAAAQBAJ&rdid=book-61j5DAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sou_f%C3%A3_E_agora-sample-epub.acsm?id=61j5DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sou_f%C3%A3_E_agora-sample-pdf.acsm?id=61j5DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=61j5DAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Série Fallen, Lauren Kate 13. Série Academia de Vampiros, Richelle Mead 14. \u003cbr\u003e\nSaga Crepúsculo, Stephenie Meyer 15. \u003cb\u003eTrilogia Jogos Vorazes\u003c/b\u003e, Suzanne Collins \u003cbr\u003e\n16. Entrevista com o vampiro, Anne Rice 17. Série Harry Potter, J. K. Rowling 18."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ChUCCwAAQBAJ",
+   "etag": "Wuq8MDNI4rw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ChUCCwAAQBAJ",
+   "volumeInfo": {
+    "title": "O historiador e as novas tecnologias - reunião de artigos do II Encontro de Pesquisas Históricas - PUCRS",
+    "subtitle": "Evento acadêmico - História - Encontro - Pós-graduação - Graduação – PUCRS",
+    "authors": [
+     "Marcelo Vianna",
+     "Cristiano Enrique de Brum",
+     "Débora Soares Karpowicz",
+     "Luciana da Costa de Oliveira",
+     "Rafael Saraiva Lapuente",
+     "Fernando Comiran",
+     "Alexandre Pena Matos",
+     "Priscila M. Weber",
+     "Luísa Kuhl Brasil",
+     "Wanessa Tag Wendt"
+    ],
+    "publisher": "Memorial do Ministério Público do Rio Grande do Sul ",
+    "description": "Livro com artigos do II Encontro de Pesquisas Históricas – PUCRS - organizado pelos alunos do Programa de Pós-Graduação em História da PUCRS entre os dias 26 e 28 de maio de 2015.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588802223"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588802228"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 2056,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ChUCCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ChUCCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ChUCCwAAQBAJ&pg=PA1596&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ChUCCwAAQBAJ&dq=Jogos+vorazes+-+A+trilogia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_historiador_e_as_novas_tecnologias_reu.html?hl=&id=ChUCCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_historiador_e_as_novas_tecnologias_reu-sample-pdf.acsm?id=ChUCCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ChUCCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas o foco de meu trabalho será nas novas produções, que ganham também no \u003cbr\u003e\ncinema, o prestígio dos jovens, focarei nas séries \u003cb\u003eJogos Vorazes\u003c/b\u003e e Divergente. \u003cbr\u003e\nSuzanne Collins escreve em sua \u003cb\u003etrilogia\u003c/b\u003e de livros, The Hunger Games (2008),&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtlBCwAAQBAJ",
+   "etag": "qb4jLDZ9rD8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtlBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Persuasão: Persuasion",
+    "subtitle": "Edição bilíngue português- inglês",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Jane Austen começou a escrever 'Persuasão', seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816. O livro foi publicado, postumamente, em 1818 e serviu como base do roteiro sobre o romance dos personagens interpretados por Sandra Bullock e Keanu Reeves, no filme 'A Casa do Lago', de 2006. 'Persuasão' costuma ser associado a outro de seus romances, 'A Abadia de Northanger', pois além dos dois livros terem sido originalmente publicados em um único volume, ambas as histórias são situadas na cidade de Bath, um balneário termal onde Jane Austen viveu de1801 a 1805. O enredo deste empolgante livro gira em torno dos amores de Anne Elliot que se apaixonara pelo pobre, mas ambicioso jovem oficial da marinha, capitão Frederick Wentworth. A família de Anne não concorda com essa relação e a convence romper seu relacionamento amoroso. Anos após Anne reencontra Frederick, agora cortejando sua amiga e vizinha, Louisa Musgrove. 'Persuasão' é amplamente apreciada, pois tem uma simpática história de amor, de trama simples e bem elaborada, e mostra o estilo de narrativa irônica de Jane Austen. Além disto, é original, pelo fato, entre outros motivos, de ser uma das poucas histórias da escritora que não apresenta a heroína em plena juventude. O romance também é um apanágio ao homem de iniciativa, através do personagem do capitão Frederick Wentworth que parte de uma origem humilde e que alcança influência e status pela força de seus méritos e não através de herança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781993"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781999"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 920,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jtlBCwAAQBAJ&printsec=frontcover&dq=Jogos+vorazes+-+A+trilogia&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jtlBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&rdid=book-jtlBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-epub.acsm?id=jtlBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-pdf.acsm?id=jtlBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jtlBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jane Austen começou a escrever &#39;Persuasão&#39;, seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816."
+   }
+  }
+ ]
+}

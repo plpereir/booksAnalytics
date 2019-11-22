@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RbJrQgAACAAJ",
+   "etag": "qPOfxScerVY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RbJrQgAACAAJ",
+   "volumeInfo": {
+    "title": "Dez leis para ser feliz",
+    "subtitle": "ferramentas para se apaixonar pela vida",
+    "authors": [
+     "Augusto Jorge Cury"
+    ],
+    "publishedDate": "2003",
+    "description": "Neste livro, o autor procura explicar o que é a felicidade e, afinal, o que é ser feliz. Aqui, ele pretende explicitar meios para alcançar essa felicidade. Cury também apresenta dez passos, que quando seguidos corretamente, segundo o autor, o ser humano pode se tornar feliz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575420569"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575420560"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RbJrQgAACAAJ&dq=isbn:9788575420560&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RbJrQgAACAAJ&dq=isbn:9788575420560&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dez_leis_para_ser_feliz.html?hl=&id=RbJrQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RbJrQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Aqui, ele pretende explicitar meios para alcançar essa felicidade. Cury também apresenta dez passos, que quando seguidos corretamente, segundo o autor, o ser humano pode se tornar feliz."
+   }
+  }
+ ]
+}

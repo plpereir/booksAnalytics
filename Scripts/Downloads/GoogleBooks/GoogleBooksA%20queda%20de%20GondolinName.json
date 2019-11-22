@@ -1,0 +1,805 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 23,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2yJnDwAAQBAJ",
+   "etag": "HX2P0jPtjYM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2yJnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Queda de Gondolin",
+    "authors": [
+     "J.R.R. Tolkien"
+    ],
+    "publisher": "HarperCollins Brasil",
+    "publishedDate": "2018-08-30",
+    "description": "O último dos três Grandes Contos Perdidos do legendário de J.R.R.Tolkien narra a jornada de Tuor rumo à cidade secreta de Gondolin, refúgio élfico do povo do Rei Turgon. Contra a bela cidade, levanta-se Morgoth, o Inimigo Sombrio, com seu exército de seres malévolos. A história da Queda de Gondolin começou a ser escrita em 1916 e agora ganha vida graças ao trabalho editorial de Christopher Tolkien, filho e executor legal das obras de Tolkien. Dessa forma cumprem-se duas sinas: a dos Elfos noldorin na Primeira Era do mundo e a do autor, ao conseguir publicar individualmente os três Grandes Contos dos Dias Antigos Fechando a mitologia da Terra-média, A Queda de Gondolin, assim como Beren e Lúthien e Os Filhos de Húrin, foi ricamente ilustrada pelo renomado artista britânico Alan Lee, que retrata a fantasia de Tolkien há mais de 30 anos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595084148"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595084149"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2yJnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2yJnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2yJnDwAAQBAJ&printsec=frontcover&dq=A+queda+de+Gondolin&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2yJnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2yJnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2yJnDwAAQBAJ&rdid=book-2yJnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Queda_de_Gondolin-sample-epub.acsm?id=2yJnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2yJnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dessa forma cumprem-se duas sinas: a dos Elfos noldorin na Primeira Era do mundo e a do autor, ao conseguir publicar individualmente os três Grandes Contos dos Dias Antigos Fechando a mitologia da Terra-média, A Queda de Gondolin, assim ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zv28vAEACAAJ",
+   "etag": "g2QltFjW82g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zv28vAEACAAJ",
+   "volumeInfo": {
+    "title": "Beren E Lúthien",
+    "authors": [
+     "J R R Tolkien",
+     "Christopher Tolkien"
+    ],
+    "publishedDate": "2018-11-15",
+    "description": "O conto de Beren e Lúthien foi, ou tornou-se, elemento fundamental na evolução de O Silmarillion, os mitos e lendas da Primeira Era do Mundo concebidos por J. R. R. Tolkien. Um ano após retornar da França e da Batalha do Somme, no final de 1916, ele escreveu o conto. Essencial à história, e jamais modificado, é o destino que se impõe sobre o amor dos protagonistas: Beren é um homem mortal, enquanto Lúthien é uma elfa imortal. O pai dela, um grande senhor élfico, opõe-se ao relacionamento e, para permitir o casamento com Lúthien, impõe a Beren uma tarefa impossível de ser realizada. É esse o foco central da lenda: a tentativa incrivelmente heroica de Beren e Lúthien de, juntos, roubar uma Silmaril do maior de todos os seres malignos, Melkor, chamado Morgoth, o Sombrio Inimigo do Mundo. Neste livro, Christopher Tolkien tenta extrair a história de Beren e Lúthien da obra mais abrangente em que está inserida. Contudo, a própria lenda foi se modificando conforme novas associações foram sendo criadas dentro da narrativa maior. A fim de mostrar um pouco do processo pelo qual essa lenda da Terra-média evoluiu ao longo dos anos, ele conta a história nas próprias palavras de seu pai ao fornecer, primeiro, a forma original do texto e, em seguida, passagens em prosa e em verso de textos tardios que ilustram a narrativa à medida que ela muda. Apresentados de forma reunida pela primeira vez, esses textos revelam aspectos da história, tanto em eventos quanto em suas imediações narrativas, que posteriormente se perderam. Publicado no décimo aniversário do livro mais recente sobre a Terra-média, o best-seller internacional Os Filhos de Húrin, este novo volume também inclui desenhos e pinturas de Alan Lee, que também ilustrou O Senhor dos Anéis e O Hobbit, e que ganhou um Oscar por seu trabalho na trilogia cinematográfica de O Senhor dos Anéis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8595083665"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595083660"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zv28vAEACAAJ&dq=A+queda+de+Gondolin&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zv28vAEACAAJ&dq=A+queda+de+Gondolin&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Beren_E_L%C3%BAthien.html?hl=&id=zv28vAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zv28vAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dentre eles, talvez Beren e Lúthien fosse o mais apreciado, a nível pessoal, por seu próprio autor, que relacionava o romance mágico entre os dois protagonistas à sua própria história de amor com a esposa, Edith Bratt."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yodhDwAAQBAJ",
+   "etag": "Ux4wkzBWoi0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yodhDwAAQBAJ",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien. Uma biografia",
+    "authors": [
+     "Humphrey Carpenter"
+    ],
+    "publisher": "HarperCollins Brasil",
+    "publishedDate": "2018-08-01",
+    "description": "\"A biografia autorizada do criador da Terra-média. Nas décadas posteriores ao falecimento de J.R.R. Tolkien, em setembro de 1973, milhões de pessoas leram O Hobbit, O Senhor dos Anéis e O Silmarillion e ficaram tão fascinadas quanto intrigadas com o homem muito reservado por trás dos livros. Nascido na África do Sul, em janeiro de 1892, John Ronald Reuel Tolkien ficou órfão durante a infância e cresceu quase na pobreza. Ele serviu na Primeira Guerra Mundial e sobreviveu à Batalha do Somme, onde perdeu quase todos os seus amigos mais íntimos. Após a guerra, retornou à vida acadêmica, conquistando uma grande reputação como estudioso e professor universitário, e tornando-se, por fim, Professor de Inglês em Oxford, onde fez amizade com C.S. Lewis e os outros escritores conhecidos, formando um grupo denominado Os Inklings. Então, de repente, sua vida mudou dramaticamente. Certo dia, enquanto corrigia provas, ele acabou escrevendo no verso de uma folha: \"Numa toca no chão vivia um hobbit\" – e a fama mundial o aguardava. Humphrey Carpenter recebeu acesso irrestrito a todos os documentos de Tolkien e entrevistou seus amigos e familiares. A partir dessas fontes ele segue o longo e doloroso processo de criação que produziu O Senhor dos Anéis e O Silmarillion e fornece uma vasta gama de informações sobre a vida e a obra de um dos mais estimados autores do século XX.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595084001"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595084009"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yodhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yodhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yodhDwAAQBAJ&pg=PT114&dq=A+queda+de+Gondolin&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yodhDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yodhDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yodhDwAAQBAJ&rdid=book-yodhDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/J_R_R_Tolkien_Uma_biografia-sample-epub.acsm?id=yodhDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yodhDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É “\u003cb\u003eA Queda de Gondolin\u003c/b\u003e”, que relata o ataque de Morgoth, o principal poder \u003cbr\u003e\nmaligno, ao último reduto élfico. Após uma terrível batalha, um grupo de \u003cbr\u003e\nhabitantes de Gondolin consegue escapar, e entre eles está Earendel20, neto \u003cbr\u003e\ndo rei."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jMAYCwAAQBAJ",
+   "etag": "HYzpVkZA+n0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jMAYCwAAQBAJ",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien, o senhor da fantasia",
+    "authors": [
+     "Michael White"
+    ],
+    "publisher": "Darkside Entretenimento LTDA",
+    "publishedDate": "2015-10-21",
+    "description": "J.R.R. Tolkien, o Senhor da Fantasia reconta a vida de Tolkien, autor de clássicos como a trilogia O Senhor dos Anéis e O Hobbit, e considerado um dos maiores autores de fantasia de todos os tempos. A biografia acompanha a vida e a trajetória do escritor, começando por sua infância na África do Sul, seguida do retorno da família para a Inglaterra. Os Tolkien estabeleceram-se em Birmingham, cidade que passava por uma rápida industrialização nos anos 1890, mas ainda era cercada por uma paisagem de tirar o fôlego. Este cenário que reunia e mesclava o coração industrial do Império britânico próximo a bosques e montanhas idílicas e selvagens foi determinante para as ideias e a escrita de Tolkien. A DarkSide, optou, no caso de J.R.R. Tolkien, o Senhor da Fantasia, apenas pelo lançamento do modelo mais luxuoso - porém pelo preço mais baixo. \"Fizemos essa opção em homenagem ao grande mestre da fantasia, para que o máximo de leitores conheçam sua vida\", justifica Christiano Menezes, diretor editorial da DarkSide. Já é clássico o momento inspirador quando era professor em Oxford e um dia, corrigindo exames, ao se deparar com uma página em branco que um aluno havia deixado no caderno de exercícios, Tolkien escreve de repente: \"Em uma toca no chão vivia um Hobbit\". Bem à sua maneira, ele fica intrigado com aquilo e decide descobrir mais a respeito dos hobbits. Escrito para os seus filhos, O Hobbit tornou-se um sucesso imediato quando foi publicado em 1937. Vendeu milhões de exemplares mundo afora desde então e estabeleceu-se como \"um dos livros mais influentes de nossa geração\". Influência e paixão que só aumentaram com as adaptações para o cinema da trilogia de O Senhor dos Anéis, por Peter Jackson, e que voltam a atrair a atenção de todos novamente com o começo da nova trilogia de O Hobbit. O resto, bem, o resto é história, que você conhece em J.R.R. Tolkien, o Senhor da Fantasia, escrita pelo jornalista Michael White.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788566636642"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8566636643"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jMAYCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jMAYCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jMAYCwAAQBAJ&pg=PT78&dq=A+queda+de+Gondolin&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jMAYCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jMAYCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jMAYCwAAQBAJ&rdid=book-jMAYCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/J_R_R_Tolkien_o_senhor_da_fantasia-sample-epub.acsm?id=jMAYCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/J_R_R_Tolkien_o_senhor_da_fantasia-sample-pdf.acsm?id=jMAYCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jMAYCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O primeiro conto completo (que por fim tornou-se um dos últimos episódios em O \u003cbr\u003e\nSilmarillion) foi “\u003cb\u003eA Queda de Gondolin\u003c/b\u003e”, que descreve uma batalha terrível aonde \u003cbr\u003e\nnosso herói, Earendel, o marinheiro, ajudou os elfos e os homens de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B3uFDwAAQBAJ",
+   "etag": "dbIvFF0bhIA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B3uFDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Silmarillion",
+    "authors": [
+     "J.R.R. Tolkien"
+    ],
+    "publisher": "HarperCollins Brasil",
+    "publishedDate": "2019-03-18",
+    "description": "\"O Silmarillion\" é um relato dos Dias Antigos da Primeira Era do mundo criado por J.R.R. Tolkien. É a história longínqua para a qual os personagens de \"O Senhor dos Anéis\" e \"O Hobbit\" olham para trás, e em cujos eventos alguns deles, como Elrond e Galadriel, tomaram parte. Os contos de \"O Silmarillion\" se passam em uma época em que Morgoth, o Primeiro Senhor Sombrio, habitava a Terra-média, e os Altos-Elfos guerreavam contra ele pela recuperação das Silmarils, as joias que continham a pura luz de Valinor. O livro começa com \"O Ainulindalë\", o mito da criação do Universo, seguido pelo \"Valaquenta\", onde estão descritas a natureza e os poderes de cada um dos deuses. O \"Akallâbeth\" narra o apogeu e a queda do reino da grande ilha de Númenor no final da Segunda Era e \"Dos Anéis de Poder\" fala dos grandes eventos no final da Terceira Era, como narrado em \"O Senhor dos Anéis\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595085152"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595085153"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B3uFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B3uFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=B3uFDwAAQBAJ&pg=PT339&dq=A+queda+de+Gondolin&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=B3uFDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-B3uFDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 49.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=B3uFDwAAQBAJ&rdid=book-B3uFDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.74E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Silmarillion-sample-epub.acsm?id=B3uFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B3uFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por fim, quando Eärendil tinha sete anos de idade, Morgoth estava pronto e \u003cbr\u003e\nsoltou sobre Gondolin seus Balrogs, e seus ... não menos, por Tuor, muito está \u003cbr\u003e\ncontado n&#39;\u003cb\u003eA Queda de Gondolin\u003c/b\u003e: da batalha de Ecthelion da Fonte com Gothmog\u003cbr\u003e\n,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sD1aDwAAQBAJ",
+   "etag": "MAROgRHozrU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sD1aDwAAQBAJ",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien e C.S. Lewis",
+    "subtitle": "O dom da Amizade",
+    "authors": [
+     "Colin Duriez"
+    ],
+    "publisher": "HarperCollins Brasil",
+    "publishedDate": "2018-05-23",
+    "description": "A VERDADE POR TRÁS DA FANTASIA Venerados por leitores do mundo inteiro, os dois maiores escritores de fantasia do século XX, J.R.R. Tolkien e C.S. Lewis, venderam juntos mais de 250 milhões de exemplares de suas sagas O Senhor dos Anéis e As crônicas de Nárnia. Porém, poucas pessoas sabem que Tolkien e Lewis, muito diferentes tanto no temperamento quanto no estilo de escrita, tiveram, ao longo de quase 40 anos, uma relação conturbada, marcada por afinidades, ressentimentos e influências mútuas. Sem o encorajamento de Lewis, Tolkien jamais teria escrito O Senhor dos Anéis; por outro lado, toda a ficção de Lewis é profundamente marcada pelas ideias de Tolkien. Em O dom da amizade, o professor e jornalista inglês Colin Duriez conta a verdadeira história dessa relação de amor e ódio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595083745"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595083746"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sD1aDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sD1aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sD1aDwAAQBAJ&pg=PT44&dq=A+queda+de+Gondolin&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sD1aDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sD1aDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sD1aDwAAQBAJ&rdid=book-sD1aDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.316E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/J_R_R_Tolkien_e_C_S_Lewis-sample-epub.acsm?id=sD1aDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sD1aDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tentou incorporar essa qualidade em sua ficção e suas línguas inventadas. As \u003cbr\u003e\nhistórias que criou nos anos de guerra — como “\u003cb\u003eA queda de Gondolin\u003c/b\u003e” — \u003cbr\u003e\nvinham-lhe como algo dado, não como criação consciente. Esse senso de coisa \u003cbr\u003e\ndada e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V11ZAAAAMAAJ",
+   "etag": "bKBS6EnDX7Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V11ZAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ciências da religião",
+    "subtitle": "história e sociedade",
+    "authors": [
+     "Instituto Mackenzie. Escola Superior de Teologia"
+    ],
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173014321561"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V11ZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V11ZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=V11ZAAAAMAAJ&q=A+queda+de+Gondolin&dq=A+queda+de+Gondolin&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=V11ZAAAAMAAJ&dq=A+queda+de+Gondolin&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ci%C3%AAncias_da_religi%C3%A3o.html?hl=&id=V11ZAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V11ZAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... e Valaquenta); a terceira, Os grandes contos {The Lays of Leithian, Narn I Hin \u003cbr\u003e\nHúrin, \u003cb\u003eA queda de Gondolin\u003c/b\u003e, Edrendil o Peregrino); e a quarta, Os últimos contos \u003cbr\u003e\n{Akalla- RELIGlAO E LITERATURA - REFLEXÕES SOBRE O SILMARILLION. p."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rbkwAAAAYAAJ",
+   "etag": "LM+x5klgK4w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rbkwAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Veintitrés",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172148280125"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rbkwAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rbkwAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=rbkwAAAAYAAJ&q=A+queda+de+Gondolin&dq=A+queda+de+Gondolin&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rbkwAAAAYAAJ&dq=A+queda+de+Gondolin&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veintitr%C3%A9s.html?hl=&id=rbkwAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rbkwAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tres de las fotografías de Marcos Adandla para la muestra Diana expuesta en el \u003cbr\u003e\nHotel \u003cb\u003eGondolin\u003c/b\u003e de Capital Federal. QUÉ HACER Para ... \u003cb\u003eQueda\u003c/b\u003e entonces el \u003cbr\u003e\npozo de sus ojos y los sucesivos desiertos donde se posan, quieran o no \u003cbr\u003e\nquieran."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GyzSegHVNfQC",
+   "etag": "akEV2tlQSXs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GyzSegHVNfQC",
+   "volumeInfo": {
+    "title": "Diccionario Geografico-Estadistico-Historico de Espana y sus Posesiones de Ultramar",
+    "publishedDate": "1850",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z25737840X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GyzSegHVNfQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GyzSegHVNfQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=GyzSegHVNfQC&pg=PA449&dq=A+queda+de+Gondolin&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=GyzSegHVNfQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-GyzSegHVNfQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=GyzSegHVNfQC&rdid=book-GyzSegHVNfQC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Diccionario_Geografico_Estadistico_Histo.pdf?id=GyzSegHVNfQC&hl=&output=pdf&sig=ACfU3U0yRPlog5kLogVIv-JnulJ_YS61cA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GyzSegHVNfQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... del Judio, procedente de las vertientes de las fuentes indicadas, y el \u003cb\u003eGondolin\u003c/b\u003e, \u003cbr\u003e\nque divide este térm. de los de Jerez, .... Esto es lo que \u003cb\u003equeda\u003c/b\u003e unido de aquel \u003cbr\u003e\nmonumento; pero el autor de la crónica de la órden de Alcántara, completa su&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r1w8AQAAIAAJ",
+   "etag": "uOknk5TUosU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r1w8AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Diccionario geográfico-estadístico-histórico de España y sus posesiones de ultramar: Via-Zuz",
+    "authors": [
+     "Pascual Madoz"
+    ],
+    "publishedDate": "1850",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105010362858"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Geography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r1w8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r1w8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=r1w8AQAAIAAJ&pg=PA449&dq=A+queda+de+Gondolin&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r1w8AQAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r1w8AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=r1w8AQAAIAAJ&rdid=book-r1w8AQAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Diccionario_geogr%C3%A1fico_estad%C3%ADstico_his.pdf?id=r1w8AQAAIAAJ&hl=&output=pdf&sig=ACfU3U3K5E0uH_SkObmJc5lj4iViaIKUMw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r1w8AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... del Judio, procedente de las vertientes de las fuentes indicadas, y el \u003cb\u003eGondolin\u003c/b\u003e, \u003cbr\u003e\nque divide este térm. de los de Jerez, .... Esto es ló que \u003cb\u003equeda\u003c/b\u003e unido de aquel \u003cbr\u003e\nmonumento; pero el autor de la crónica de la órden de Alcántara, completa su&nbsp;..."
+   }
+  }
+ ]
+}

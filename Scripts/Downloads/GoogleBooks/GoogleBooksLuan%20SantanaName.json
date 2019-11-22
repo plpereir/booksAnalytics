@@ -1,0 +1,876 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 65,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EZjNjwEACAAJ",
+   "etag": "zeu+BrN9/4I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EZjNjwEACAAJ",
+   "volumeInfo": {
+    "title": "Luan Santana",
+    "subtitle": "a biografia",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501106194"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501106193"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EZjNjwEACAAJ&dq=Luan+Santana&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=EZjNjwEACAAJ&dq=Luan+Santana&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Luan_Santana.html?hl=&id=EZjNjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EZjNjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para muitos, o Brasil que dá certo. O país de Luan Santana; sem dúvida o do futuro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P0bXCgAAQBAJ",
+   "etag": "URXphJfBaps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P0bXCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Luan Santana",
+    "authors": [
+     "Ricardo Marques"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2015-10-30",
+    "description": "Uma leitura com fotos e documentos inéditos que aos poucos reconstrói o cenário que permitiu ao jovem artista exercitar e lapidar livre e consistentemente sua vocação Luan Santana não é o que é hoje à toa. Não chegou aonde chegou por acaso. Esta biografia deixa isso bem claro. E vai além. Caso raro de talento excepcional desenvolvido sob as melhores condições – família amorosa (com sólidos valores) e estrutura profissional impecável e bem-planejada –, Luan Santana é o maior artista pop brasileiro da atualidade e aquele de futuro mais promissor. Conhecer esta história, brilhantemente contada pelo jornalista Ricardo Marques, é conhecer a história de um Brasil tão menosprezado quanto independente e vencedor. Para muitos, o Brasil que dá certo. O país de Luan Santana; sem dúvida o do futuro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501106827"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501106828"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=P0bXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=P0bXCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=P0bXCgAAQBAJ&printsec=frontcover&dq=Luan+Santana&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=P0bXCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-P0bXCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=P0bXCgAAQBAJ&rdid=book-P0bXCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.126E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Luan_Santana-sample-epub.acsm?id=P0bXCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Luan_Santana-sample-pdf.acsm?id=P0bXCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=P0bXCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Conhecer esta história, brilhantemente contada pelo jornalista Ricardo Marques, é conhecer a história de um Brasil tão menosprezado quanto independente e vencedor. O país de Luan Santana; sem dúvida, o do futuro."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3QVPDAAAQBAJ",
+   "etag": "KGuRYKVpYGo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3QVPDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia de Cifras Musicais Ed.05 Especial Sertanejo",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2016-06-08",
+    "description": "Aprenda os maiores hits com muita facilidade. De forma simples e didática, confira os acordes necessários para tocar sua música favorita, aprender novas cifras. Afine seu instrumento e boa diversão!",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3QVPDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3QVPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3QVPDAAAQBAJ&pg=PA12&dq=Luan+Santana&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3QVPDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3QVPDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 3.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3QVPDAAAQBAJ&rdid=book-3QVPDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3QVPDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "F# 12 Amar Nãoé Pecado - \u003cb\u003eLuanSantana\u003c/b\u003e Amar Nãoé Pecado sentimento e me \u003cbr\u003e\nsufoquei \u003cb\u003eLuan Santana\u003c/b\u003e Autores: \u003cb\u003eLuan Santana\u003c/b\u003e Fred / Gustavo G#m7 E B Mas \u003cbr\u003e\nagora éahora, eu vou gritar pra F# /Marco Aurélio / Márcia Araújo Álbum: Luan&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W4I0DwAAQBAJ",
+   "etag": "gQ+hbFbYtB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W4I0DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia Cifras Musicais Especial: Sertanejo",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-09-09",
+    "description": "Aprenda a tocar os maiores sucessos sertanejos: Bruninho & Davi, Bruno & Marrone, Eduardo Costa, Fernando & Sorocaba, Gusttavo Lima, Henrique & Diego, Henrique & Juliano, Israel Novaes, João Bosco & Vinicius, João Neto & Frederico, Jorge & Matheus, Luan Santana, Lucas Lucco, Maiara & Maraisa, Marcos & Belutti, Marília Mendonca, Matheus & Kauan, Naiara Azevedo, Simone & Simaria, Thaeme & Thiago, Zé Neto & Cristiano.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=W4I0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=W4I0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=W4I0DwAAQBAJ&pg=PA3&dq=Luan+Santana&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=W4I0DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-W4I0DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=W4I0DwAAQBAJ&rdid=book-W4I0DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=W4I0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sumário EU, VOCE O MARE ELA \u003cb\u003eLuan Santana\u003c/b\u003e FANTASMA \u003cb\u003eLuan Santana\u003c/b\u003e \u003cbr\u003e\nADIVINHA Lucas Lucco DE BUENAS Lucas Lucco 10% Maiara &amp; Maraisa \u003cbr\u003e\nCRUZANDO OS DEDOS Maiara &amp; Maraisa FALA A VERDADE Maiara &amp; Maraisa \u003cbr\u003e\nQUASE&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xvk6DwAAQBAJ",
+   "etag": "ryoxTLuGx64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xvk6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ainda existem caubóis",
+    "subtitle": "A saga da dupla que transformou o sertanejo no ritmo mais ouvido do país",
+    "authors": [
+     "Fernando & Sorocaba"
+    ],
+    "publisher": "Editora Paralela",
+    "publishedDate": "2017-11-13",
+    "description": "Conheça mais sobre a dupla que mudou o cenário do sertanejo nacional!Qual é o maior sonho de um aspirante a astro do sertanejo?Fazer parte de uma das duplas mais conhecidas do país?Compor e produzir músicas que vão virar sucessos nacionais?Revelar outros artistas que se tornarão sensações? Pois Fernando e Sorocaba realizaram esses três sonhos e muitos outros nos seus dez anos de estrada. Primeiro estouraram no país fazendo um sertanejo para cima e festeiro, com grande influência do country americano. Depois revelaram e cuidaram da carreira de nomes como Luan Santana, Lucas Lucco e Marcos e Belutti e produziram canções como “Aquele 1%”, que projetou o fenômeno Wesley Safadão. Neste livro, a dupla relembra suas origens e os episódios mais importantes de suas vidas, mostrando como ajudaram a transformar o sertanejo no ritmo mais ouvido do Brasil. Uma história de sucesso, superação e, sobretudo, paixão pela música.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554510190"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554510194"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xvk6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xvk6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xvk6DwAAQBAJ&pg=PT73&dq=Luan+Santana&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xvk6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xvk6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xvk6DwAAQBAJ&rdid=book-xvk6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ainda_existem_caub%C3%B3is-sample-epub.acsm?id=xvk6DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ainda_existem_caub%C3%B3is-sample-pdf.acsm?id=xvk6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xvk6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Veja o balanço da presença da dupla e dos artistas que foram produzidos por \u003cbr\u003e\neles nas listas das dez mais: 2010 “Você não sabe o que é amor” (\u003cb\u003eLuan Santana\u003c/b\u003e\u003cbr\u003e\n) e “Madri” (Fernando &amp; Sorocaba) 2011 “Amar não é pecado”, “Um beijo” e “As&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QQ_ADgAAQBAJ",
+   "etag": "QSARAdqFu3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QQ_ADgAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia de Cifras Musicais Ed.07 Sertanejo",
+    "subtitle": "Toque sem errar",
+    "authors": [
+     "On Line Editora",
+     "Cifras Musicais On Line Editora",
+     "Música On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-04-27",
+    "description": "Se você já domina as cordas ou está começando no fantástico universo musical, prepare-se para tocar os maiores sucessos do sertanejo, com dicas e truques que vão ajudá-lo a aperfeiçoar a técnica de tocar. Afine seu instrumento e boa diversão!",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QQ_ADgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QQ_ADgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QQ_ADgAAQBAJ&pg=PA27&dq=Luan+Santana&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QQ_ADgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QQ_ADgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QQ_ADgAAQBAJ&rdid=book-QQ_ADgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QQ_ADgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "sentimento e me sufoquei Autores: \u003cb\u003eLuan Santana\u003c/b\u003e Fred / Gustavo /Marco Aurélio / \u003cbr\u003e\nMárcia Araújo G#m7 E B Mas agora é a hora, eu vou gritar pra Álbum: \u003cb\u003eLuan\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eSantana\u003c/b\u003e – Ao Vivo no Rio F# todo mundo de uma vez B Intro: G#m7 E B F(2X) E \u003cbr\u003e\nEu&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W7VGDwAAQBAJ",
+   "etag": "ylFWUsatAwk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W7VGDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia de Cifras Musicais 02: Sertanejo",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2018-01-13",
+    "description": "Aprenda a tocar e cantar os maiores sucessos sertanejos. Luan Santana, Jorge e Mateus, Gusttavo Lima, Paula Fernandes, Michel Teló e outros.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 98,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=W7VGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=W7VGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=W7VGDwAAQBAJ&pg=PA18&dq=Luan+Santana&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=W7VGDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-W7VGDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=W7VGDwAAQBAJ&rdid=book-W7VGDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=W7VGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um Beijo \u003cb\u003eLuan Santana\u003c/b\u003e Autor: \u003cb\u003eLuan Santana\u003c/b\u003e Álbum: Ao Vivo No Rio mento(\u003cbr\u003e\ncolaborador) e E d O n L in it o r a / M o is é s N a s c \u003cb\u003eLuan Santana\u003c/b\u003e Apesar de ter \u003cbr\u003e\napenas 23 anos, \u003cb\u003eLuan Santana\u003c/b\u003e já é um dos principais nomes da música \u003cbr\u003e\nsertaneja&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ragtAAAAQBAJ",
+   "etag": "z+2UlBVMWr0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ragtAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Não Faz Sentido",
+    "authors": [
+     "NETO, FELIPE"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-07-01",
+    "description": "CRIADO POR FELIPE NETO em 2010 sem maiores pretensões, o \"Não Faz Sentido\" tornou-se um fenômeno da internet brasileira e o primeiro canal de vídeos em língua portuguesa a ultrapassar a marca de 1 milhão de inscritos. Confundido muitas vezes com seu personagem reclamão, Felipe Neto expõe nesta obra sua outra face, sem óculos escuros, muito diferente da que se vê em seus vídeos mais famosos. Do garoto que se levantou da falência à exposição meteórica que o levou a depressão; dos bastidores envolvendo o vídeo contra a série Crepúsculo ao desentendimento com celebridades; acompanhamos, com muita sinceridade, uma história de sucesso por trás dos panos. Você conhece o Não Faz Sentido. Agora vai conhecer a história, através de uma linguagem bem- humorada e sem nunca se levar muito a sério, pela lente de quem está por trás da câmera. E comprovar que, apesar do nome, este livro nos apresenta a história de um projeto cujo sucesso possuiu não apenas toda lógica, como também todos os motivos para se comunicar com uma geração altamente conectada, disposta a revolucionar a maneira como lidaremos com a produção e o conteúdo do entretenimento mundial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577343959"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577343952"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.17.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ragtAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ragtAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ragtAAAAQBAJ&pg=PT251&dq=Luan+Santana&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ragtAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ragtAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ragtAAAAQBAJ&rdid=book-ragtAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_Faz_Sentido-sample-epub.acsm?id=ragtAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ragtAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando eu estava pesquisando material pra fazer o vídeo “Fiukar” eu vi um \u003cbr\u003e\nvídeo no YouTube do \u003cb\u003eLuan Santana\u003c/b\u003e em um show. E ele falou mais ou menos a \u003cbr\u003e\nmesma coisa que tu acabou de me falar, só que de um jeito mais viado. Fiuk \u003cbr\u003e\npensou&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZDxlDwAAQBAJ",
+   "etag": "3kNEFNGBLvM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZDxlDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cifras Musicais Sertanejas 05",
+    "subtitle": "Na Onda do Sertanejo!",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2018-07-17",
+    "description": "Aprenda a tocar, passo a passo, os maiores sucessos do momento. Luan Santana, Jorge & Mateus, Naiara & Ronaldo, Ricardo & João Fernando, Gusttavo Lima, Munhoz & Mariano e muitos outros.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 34,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZDxlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZDxlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZDxlDwAAQBAJ&printsec=frontcover&dq=Luan+Santana&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZDxlDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZDxlDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZDxlDwAAQBAJ&rdid=book-ZDxlDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZDxlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Aprenda a tocar, passo a passo, os maiores sucessos do momento. Luan Santana, Jorge &amp; Mateus, Naiara &amp; Ronaldo, Ricardo &amp; João Fernando, Gusttavo Lima, Munhoz &amp; Mariano e muitos outros."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZddWAwAAQBAJ",
+   "etag": "Fi9Ga7WmodY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZddWAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Party Brazil Phrasebook 2014",
+    "subtitle": "Slang, Music, Fun and Futebol",
+    "authors": [
+     "Alice Rose",
+     "Nati Vale",
+     "Jadson Caçador"
+    ],
+    "publisher": "Ulysses Press",
+    "publishedDate": "2014-02-11",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781612433158"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1612433154"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZddWAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZddWAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=ZddWAwAAQBAJ&pg=PA127&dq=Luan+Santana&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZddWAwAAQBAJ&dq=Luan+Santana&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Party_Brazil_Phrasebook_2014.html?hl=&id=ZddWAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Party_Brazil_Phrasebook_2014-sample-epub.acsm?id=ZddWAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Party_Brazil_Phrasebook_2014-sample-pdf.acsm?id=ZddWAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZddWAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cowboys come out to play. The Brazilian equivalent of country- western, \u003cbr\u003e\ncomplete with funny hats, tight jeans, and cowboy boots. Popular in Goiás. \u003cbr\u003e\nPopular artists: Gustavo Lima, \u003cb\u003eLuan Santana\u003c/b\u003e, Zezé de Camargo e Luciano, \u003cbr\u003e\nChitãozinho e&nbsp;..."
+   }
+  }
+ ]
+}

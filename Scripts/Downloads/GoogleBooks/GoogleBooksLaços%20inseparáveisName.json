@@ -1,0 +1,799 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 150,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "g6QlsLzw8J0C",
+   "etag": "im2JHbynqTk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g6QlsLzw8J0C",
+   "volumeInfo": {
+    "title": "Laços Inseparáveis",
+    "subtitle": "O lugar ao qual pertencemos é onde menos esperamos nos encontrar",
+    "authors": [
+     "Emily Giffin"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2012-11-15",
+    "description": "A autora de cinco romances de sucesso, Emily Giffin, lança uma história inesquecível de duas mulheres, as famílias que a fazem ser quem são, e a lealdade e o amor que as ligam. Marian Caldwell é uma produtora de televisão de 36 anos, vivendo seu sonho em Nova York. Com uma carreira bem-sucedida e um relacionamento satisfatório, ela convenceu todo mundo, inclusive si mesma, que sua vida está do jeito que ela deseja. Mas uma noite, Marian atende a porta... para apenas encontrar Kirby Rose, uma garota de 18 anos com a chave para o passado que Marian pensou ter deixado para trás para sempre. Desde o momento que Kirby aparece na sua porta, o mundo perfeitamente construído de Marian — e sua verdadeira identidade — será chacoalhado até o fim, fazendo ressurgir fantasmas e memórias de um caso de amor apaixonado que ameaça tudo para definir quem ela realmente é. Para a precoce e determinada Kirby, o encontro vai provocar um processo de descobrimento que a leva ao começo da vida adulta, forçando-a a reavaliar sua família e seu futuro com uma visão sábia e doce. Enquanto as duas mulheres embarcam em uma jornada para encontrar o que está faltando em suas vidas, cada uma irá reconhecer que o lugar no qual pertencemos normalmente é onde menos esperamos — um lugar que talvez forçamos a esquecer, mas que o coração se lembra eternamente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581631509"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581631509"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.26.26.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g6QlsLzw8J0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g6QlsLzw8J0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g6QlsLzw8J0C&printsec=frontcover&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=g6QlsLzw8J0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-g6QlsLzw8J0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=g6QlsLzw8J0C&rdid=book-g6QlsLzw8J0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.416E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/La%C3%A7os_Insepar%C3%A1veis-sample-epub.acsm?id=g6QlsLzw8J0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/La%C3%A7os_Insepar%C3%A1veis-sample-pdf.acsm?id=g6QlsLzw8J0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g6QlsLzw8J0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A autora de cinco romances de sucesso, Emily Giffin, lança uma história inesquecível de duas mulheres, as famílias que a fazem ser quem são, e a lealdade e o amor que as ligam."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "19Z_UxxSANcC",
+   "etag": "kJvkt/CUAKg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/19Z_UxxSANcC",
+   "volumeInfo": {
+    "title": "Sexualidade humana - Verdade e significado",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515014335"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515014330"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=19Z_UxxSANcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=19Z_UxxSANcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=19Z_UxxSANcC&pg=PA71&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=19Z_UxxSANcC&dq=La%C3%A7os+insepar%C3%A1veis&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sexualidade_humana_Verdade_e_significado.html?hl=&id=19Z_UxxSANcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=19Z_UxxSANcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Porém, até mesmo a catequese seria distorcida se os \u003cb\u003elaços inseparáveis\u003c/b\u003e entre a \u003cbr\u003e\nreligião e a moral fossem utilizados como pretexto para introduzir na instrução \u003cbr\u003e\nreligiosa as informações sexuais, biológicas e afetivas, que os pais deveriam dar\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9sg2VYYyg4cC",
+   "etag": "bcm3XlvrrTQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9sg2VYYyg4cC",
+   "volumeInfo": {
+    "title": "ESTRANHEZA",
+    "authors": [
+     "LUÍS FELIPE SPROTTE"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "Já sem domínio de certas estranhezas em sua vida, Anna apaixona-se por Andrius. Ela é filha de azeris, e sempre após o sexo coloca o hino do Azerbaijão para escutar. Andrius foge de todos e admira-se pelo fato de apaixonar-se por Anna. Anna é noiva de Paulo. Andrius namora Juan. Anna não consegue esquecer-se de seus pais- sua mãe Lale, eternamente apaixonada pelo marido Emin, e Emin apaixonado pela húngara Anna. Já sem domínio de certas estranhezas em suas ruas, São Paulo não revela nem a Deus seus personagens, dividindo-os com outras cidades.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578930936"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578930932"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 330,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9sg2VYYyg4cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9sg2VYYyg4cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9sg2VYYyg4cC&pg=PA98&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9sg2VYYyg4cC&dq=La%C3%A7os+insepar%C3%A1veis&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ESTRANHEZA.html?hl=&id=9sg2VYYyg4cC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9sg2VYYyg4cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As irmãs olhavam para Juan como mantenedoras de \u003cb\u003elaços inseparáveis\u003c/b\u003e, e ele \u003cbr\u003e\nsoube que elas o amavam ante a tudo. Naquela mesma noite, José deixou de \u003cbr\u003e\nassombrar a casa, pois onde os vivos são seus próprios temores os mortos não \u003cbr\u003e\ntêm&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6wXCcF8TvywC",
+   "etag": "MXVemec/Xu0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6wXCcF8TvywC",
+   "volumeInfo": {
+    "title": "As terras inventadas",
+    "subtitle": "discurso e natureza em Jean de Léry, André João Antonil e Richard Francis Burton",
+    "authors": [
+     "Wilton Carlos Lima da Silva"
+    ],
+    "publisher": "UNESP",
+    "publishedDate": "2003-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571394768"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571394766"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 329,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6wXCcF8TvywC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6wXCcF8TvywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6wXCcF8TvywC&pg=PA112&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6wXCcF8TvywC&dq=La%C3%A7os+insepar%C3%A1veis&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_terras_inventadas.html?hl=&id=6wXCcF8TvywC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6wXCcF8TvywC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... que é presidida pelos atos mais intensos dos instintos, e que exclui &quot;a verdade\u003cbr\u003e\n, o caminho e a fé&quot;, contrastando com aquilo que define o narrador, que tem \u003cbr\u003e\n\u003cb\u003elaços inseparáveis\u003c/b\u003e com um mundo em estado de cultura e em busca da \u003cbr\u003e\nsalvação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zbx5DwAAQBAJ",
+   "etag": "RIZGD8lmoFY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zbx5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Documentos Da Igreja",
+    "authors": [
+     "Francisco Cardoso (Org.)"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Livro que reúne alguns dos mais importantes documentos católicos com o ensino da doutrina de mais de dois mil anos. Com os assuntos mais diversos: sexualidade, socialismo, modernismo, liturgia e outros. autorizado pela editora do vaticano.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU32476"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 665,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Zbx5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Zbx5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Zbx5DwAAQBAJ&pg=PA79&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Zbx5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Zbx5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Zbx5DwAAQBAJ&rdid=book-Zbx5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Documentos_Da_Igreja-sample-pdf.acsm?id=Zbx5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Zbx5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Porém, até mesmo a catequese seria distorcida se os \u003cb\u003elaços inseparáveis\u003c/b\u003e entre a \u003cbr\u003e\nreligião e a moral fossem utilizados como pretexto para introduzir na instrução \u003cbr\u003e\nreligiosa as informações sexuais, biológicas e afectivas, que os pais deveriam&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gzPXmx2QyAgC",
+   "etag": "FFWRWnhOo/0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gzPXmx2QyAgC",
+   "volumeInfo": {
+    "title": "Ensaiando a Canção – Paulinho da Viola e Outros Escritos",
+    "publisher": "Atelie Editorial",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574806167"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574806161"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gzPXmx2QyAgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gzPXmx2QyAgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gzPXmx2QyAgC&pg=PA185&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gzPXmx2QyAgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gzPXmx2QyAgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gzPXmx2QyAgC&rdid=book-gzPXmx2QyAgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ensaiando_a_Can%C3%A7%C3%A3o_Paulinho_da_Viola_e-sample-pdf.acsm?id=gzPXmx2QyAgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gzPXmx2QyAgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não há de um lado a obra e de outro o público: há uma dinâmica da criação do \u003cbr\u003e\nobjeto artístico onde autor e público estão unidos por \u003cb\u003elaços inseparáveis\u003c/b\u003e. Há um \u003cbr\u003e\nmovimento contínuo de geração de sentido onde a obra estimula o leitor a 185&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x5QqCQAAQBAJ",
+   "etag": "Sh/Ju0yKCVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x5QqCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Primeiro e Único",
+    "authors": [
+     "Emily Giffin"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2015-05-11",
+    "description": "# Novo livro de Emily Giffin, escritora dos best-sellers Ame o que é seu, Questões do coração, Presentes da vida, Uma prova de amor e Laços Inseparáveis. Shea tem 33 anos e passou toda a sua vida em uma cidadezinha universitária que vive em função do futebol americano. Criada junto com sua melhor amigas, Lucy, filha do lendário treinador Clive Carr, Shea nunca teve coragem de deixar sua terra natal. Acabou cursando a universidade, onde conseguiu um emprego no departamento atlético e passa todos os dias junto do treinador e já está no mesmo cargo há mais de dez anos. Quando finalmente abre mão da segurança e decide trilhar um caminho desconhecido, Shea descobre novas verdades sobre pessoas e fatos e essa situação a obriga a confrontar seus desejos mais profundos, seus medos e segredos. \"Profundo, belamente escrito\". – Marie Claire \"Uma história surpreendente sobre as dores do amadurecimento.\" – BookPage",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581635996"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581635997"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.21.20.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=x5QqCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=x5QqCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=x5QqCQAAQBAJ&printsec=frontcover&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=x5QqCQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-x5QqCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=x5QqCQAAQBAJ&rdid=book-x5QqCQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.416E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Primeiro_e_%C3%9Anico-sample-epub.acsm?id=x5QqCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Primeiro_e_%C3%9Anico-sample-pdf.acsm?id=x5QqCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x5QqCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "# Novo livro de Emily Giffin, escritora dos best-sellers Ame o que é seu, Questões do coração, Presentes da vida, Uma prova de amor e Laços Inseparáveis."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R_nMlbBc0P8C",
+   "etag": "MoZYCQ2CJvU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R_nMlbBc0P8C",
+   "volumeInfo": {
+    "title": "A instituição da Religião Cristã - Tomo 1",
+    "authors": [
+     "JOAO CALVINO"
+    ],
+    "publisher": "UNESP",
+    "description": "Esta edição, traduzida diretamente do latim, baseia-se na versão definitiva dos tratados teológicos de 1559, resultado de quase trinta anos de reflexões do pensador franco-suíço.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571398047"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8571398046"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 508,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R_nMlbBc0P8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R_nMlbBc0P8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=R_nMlbBc0P8C&pg=PA37&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=R_nMlbBc0P8C&dq=La%C3%A7os+insepar%C3%A1veis&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_institui%C3%A7%C3%A3o_da_Religi%C3%A3o_Crist%C3%A3_Tom.html?hl=&id=R_nMlbBc0P8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R_nMlbBc0P8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CAPÍTULO I O conhecimento de Deus e o de nós mesmos são realidades \u003cbr\u003e\n\u003cb\u003einseparáveis\u003c/b\u003e. ... de Deus e o conhecimento de nós mesmos.77 Como são unidas \u003cbr\u003e\nentre si por muitos \u003cb\u003elaços\u003c/b\u003e, não é fácil discernir qual precede e gera a outra. Pois, \u003cbr\u003e\nem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S3FR-nRtuW0C",
+   "etag": "gzqEWKvd1t8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S3FR-nRtuW0C",
+   "volumeInfo": {
+    "title": "As relações perigosas",
+    "authors": [
+     "Choderlos de Laclos"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2013-10-09",
+    "description": "Uma troca de cartas repleta de segredos de alcova, engenhosas estratégias de manipulação e cruéis jogos de poder vêm a público em As relações perigosas, clássico romance francês escrito por Chordelos de Laclos no século 18. Considerada uma das obras mais controversas, discutidas e representativas da França pré-revolução, o título ganha nova edição pela Biblioteca Azul, selo editorial da Globo Livros, 20 anos após sua última publicação no Brasil. A obra mantém a tradução de Carlos Drummond de Andrade, que apresentou a história de Laclos ao público brasileiro em 1947, e o posfácio também assinado pelo poeta, com textos revisados. O clássico romance francês de 1782 conta, por meio de cartas trocadas pelos personagens, as artimanhas de dois libertinos, o visconde de Valmont e a marquesa de Merteuil, em sua disputa por seduzir e descartar amantes – como Cécile, jovem confidente da marquesa que está prestes a se casar, e a virtuosa, porém já casada, madame de Tourvel. Na época de sua publicação, a imoralidade da obra e a crueldade dos protagonistas chocaram a alta nobreza e renderam um processo a Laclos. Em 1823, o tribunal correcional do Sena mandou destruir “esse escrito perigoso que ultraja os bons costumes”. Para sorte da literatura, porém, o livro sobreviveu e ultrapassou os séculos mantendo o mesmo vigor de antes: encantou escritores como Baudelaire, Stendhal, Gide e Deleuze, e ganhou diversas adaptações no cinema com diretores como Roger Vadim, Stephen Frears e Milos Forman, e atores como Jeanne Moreau, Jean-Louis Trintignant, Glenn Close, John Malkovich, Michelle Pfeiffer e Annette Benning.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525054869"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525054860"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 520,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=S3FR-nRtuW0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=S3FR-nRtuW0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=S3FR-nRtuW0C&pg=PT215&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=S3FR-nRtuW0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-S3FR-nRtuW0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=S3FR-nRtuW0C&rdid=book-S3FR-nRtuW0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_rela%C3%A7%C3%B5es_perigosas-sample-epub.acsm?id=S3FR-nRtuW0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_rela%C3%A7%C3%B5es_perigosas-sample-pdf.acsm?id=S3FR-nRtuW0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=S3FR-nRtuW0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Diziam uns que, na sociedade das \u003cb\u003einseparáveis\u003c/b\u003e (assim foram chamadas então), \u003cbr\u003e\na lei fundamental era a comunidade de ... Concluiu que os \u003cb\u003elaços\u003c/b\u003e de amor ou de \u003cbr\u003e\namizade já estavam frouxos ou rotos e apenas os do amor próprio e do hábito&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DV9MAAAAYAAJ",
+   "etag": "O35YFTyJ6gk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DV9MAAAAYAAJ",
+   "volumeInfo": {
+    "title": "De 1.o de agosto a 27 de setembro",
+    "publishedDate": "1871",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433086979519"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Slavery"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DV9MAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DV9MAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DV9MAAAAYAAJ&pg=PA293&dq=La%C3%A7os+insepar%C3%A1veis&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DV9MAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DV9MAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=DV9MAAAAYAAJ&rdid=book-DV9MAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/De_1_o_de_agosto_a_27_de_setembro.epub?id=DV9MAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/De_1_o_de_agosto_a_27_de_setembro.pdf?id=DV9MAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2x3hPWTU1TxlgppO9OQMcg3w5LIw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DV9MAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nada mais justo do que pôr ao abrigo dos caprichos e das injustiças, \u003cbr\u003e\n\u003cb\u003einseparáveis\u003c/b\u003e do mando absoluto, esses ... Allegam que o direito ao pecúlio e a \u003cbr\u003e\nalforria obrigatória afrouxam os \u003cb\u003elaços\u003c/b\u003e da dependência em que o escravo deve \u003cbr\u003e\nestar para&nbsp;..."
+   }
+  }
+ ]
+}

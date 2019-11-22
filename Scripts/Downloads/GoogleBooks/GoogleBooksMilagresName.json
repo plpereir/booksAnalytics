@@ -1,0 +1,764 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 377,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fdr9WtqTDdwC",
+   "etag": "4Jpeqptoz1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fdr9WtqTDdwC",
+   "volumeInfo": {
+    "title": "Meditações de Um Curso Em Milagres",
+    "authors": [
+     "HELEN SHUCMAN",
+     "WILLIAM THETFORD"
+    ],
+    "publisher": "Editora Pensamento",
+    "description": "O 'Curso' é um estudo das verdades eternas, que oferece um caminho para a transformação pessoal. Sua principal mensagem de amor e paz universais é a rejeição da culpa e a aceitação do perdão. Em essência não se trata de um obra religiosa, mas de um ensinamento espiritual.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531515025"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531515026"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fdr9WtqTDdwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fdr9WtqTDdwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fdr9WtqTDdwC&printsec=frontcover&dq=Milagres&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fdr9WtqTDdwC&dq=Milagres&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Medita%C3%A7%C3%B5es_de_Um_Curso_Em_Milagres.html?hl=&id=fdr9WtqTDdwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fdr9WtqTDdwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O &#39;Curso&#39; é um estudo das verdades eternas, que oferece um caminho para a transformação pessoal."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "07AsDwAAQBAJ",
+   "etag": "sl3nT+x6lMk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/07AsDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Milagres",
+    "subtitle": "Histórias reais sobre acontecimentos extraordinários atribuídos à intervenção de Nossa Senhora Aparecida",
+    "authors": [
+     "Rodrigo Alvarez"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2017-07-14",
+    "description": "Milagres é o livro mais completo e sem dúvida o mais emocionante sobre os 300 anos de acontecimentos sobrenaturais atribuídos à intervenção de Nossa Senhora Aparecida. O escritor Rodrigo Alvarez, autor dos best-sellers Aparecida, Maria e Humano Demais, foi o único jornalista que teve acesso ao “baú” dos milagres do Santuário Nacional de Aparecida. Após meses mergulhando nas mais incríveis histórias dos fiéis, ele relata os acontecimentos extraordinários associados à santa que é o maior símbolo da fé católica brasileira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525064776"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525064777"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=07AsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=07AsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=07AsDwAAQBAJ&printsec=frontcover&dq=Milagres&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=07AsDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-07AsDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.06,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=07AsDwAAQBAJ&rdid=book-07AsDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.506E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Milagres-sample-epub.acsm?id=07AsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Milagres-sample-pdf.acsm?id=07AsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=07AsDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O escritor Rodrigo Alvarez, autor dos best-sellers Aparecida, Maria e Humano Demais, foi o único jornalista que teve acesso ao “baú” dos milagres do Santuário Nacional de Aparecida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FsNxDwAAQBAJ",
+   "etag": "/KDbvAcVP3Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FsNxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Milagres",
+    "authors": [
+     "Weverton"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Com o passar do tempo muitos questionamentos foram feitos sobre milagres. Será que eles ainda são para este tempo? Será que é uma questão de Dom Espiritual? Para que milagres se existe a Palavra de Deus? Essas e outras perguntas serão respondidas neste livro. Mas, atenção: Os milagres são para você! Você está sendo convidado a passear pela festa de Caná para aprender com Jesus sobre a importância do milagre em seu ministério.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU17404"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 60,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FsNxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FsNxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FsNxDwAAQBAJ&printsec=frontcover&dq=Milagres&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FsNxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FsNxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FsNxDwAAQBAJ&rdid=book-FsNxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Milagres-sample-pdf.acsm?id=FsNxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FsNxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Será que eles ainda são para este tempo? Será que é uma questão de Dom Espiritual? Para que milagres se existe a Palavra de Deus? Essas e outras perguntas serão respondidas neste livro. Mas, atenção: Os milagres são para você!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gAnMGtG_CwsC",
+   "etag": "YZhdpYTS1/w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gAnMGtG_CwsC",
+   "volumeInfo": {
+    "title": "Milagres De Amor E Amizade",
+    "authors": [
+     "Yitta Halberstan/Judith Leventhal"
+    ],
+    "publisher": "Butterfly Editora",
+    "description": "É véspera de Natal. Johnny está internado e deseja ganhar um videogame. O presente é caro e as lojas estão fechadas... A neta de Nana Rizzo é retirada da piscina, quase afogada. As tentativas para salvá-la não dão certo... Recém-casados, voltando para casa de metrô depois de uma festa muito simples, os noivos surpreendem-se com um estranho passageiro... Na Europa, Rupert perdeu o vôo que o levaria de volta aos Estados Unidos. Com apenas oito dólares no bolso, está sozinho e desesperado... Prematura, a filha de Karen está na Unidade de Terapia Intensiva, prestes a se despedir da vida. Michael, com apenas três anos de idade, quer conhecer a irmãzinha... Prisioneira dos nazistas, Ester vai ser fuzilada. De repente, ouve um latido... No final de cada uma das sessenta e quatro histórias deste livro, um milagre acontece. Leia e descubra como os milagres acontecem e quando contar com eles; seu destino também pode mudar...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8588477459"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588477452"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 239,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gAnMGtG_CwsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gAnMGtG_CwsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gAnMGtG_CwsC&printsec=frontcover&dq=Milagres&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gAnMGtG_CwsC&dq=Milagres&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Milagres_De_Amor_E_Amizade.html?hl=&id=gAnMGtG_CwsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gAnMGtG_CwsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É véspera de Natal."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EuNxDwAAQBAJ",
+   "etag": "yEPiDduNWsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EuNxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Milagres",
+    "authors": [
+     "Wagner"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "É um romance focado em profunda filosofia espiritual. O lugar, uma fazenda ainda fictícia, com o nome de Milagres é um exemplo de relacionamento harmônico entre pessoas e com a natureza em uma comunidade. O objetivo ali é fazer “Um Curso em Milagres” (UCEM), livro consagrado da FOUNDATION FOR INNER PEACE.O personagem principal faz o curso e tem um romance incomum, de alto nível, com uma impulsiva garota que também faz o curso no local. Ele escreve o livro que é composto de suas narrativas, reflexões e diálogos profundos com os companheiros de curso e o seu Deus interior de uma forma natural e acessível, apesar de temas muito fortes e controversos.Fala da necessidade de Ser mais do que fazer, de ter atitude mais do que ações práticas.Todo o livro conduz mais à vida interna, que é Real, do que a externa, que é irreal.Conduz à construção de um novo Eu, muito mais integrado e principalmente destemido, determinado e ciente da própria divindade.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU22546"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 231,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EuNxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EuNxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EuNxDwAAQBAJ&printsec=frontcover&dq=Milagres&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EuNxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EuNxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EuNxDwAAQBAJ&rdid=book-EuNxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Milagres-sample-pdf.acsm?id=EuNxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EuNxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É um romance focado em profunda filosofia espiritual. O lugar, uma fazenda ainda fictícia, com o nome de Milagres é um exemplo de relacionamento harmônico entre pessoas e com a natureza em uma comunidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JNh2lZSsJhEC",
+   "etag": "zmP1ofjTwsY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JNh2lZSsJhEC",
+   "volumeInfo": {
+    "title": "Dom dos milagres (O)",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515006634"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515006632"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JNh2lZSsJhEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JNh2lZSsJhEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JNh2lZSsJhEC&pg=PA12&dq=Milagres&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JNh2lZSsJhEC&dq=Milagres&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dom_dos_milagres_O.html?hl=&id=JNh2lZSsJhEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JNh2lZSsJhEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ambos os Testamentos, o Antigo e o Novo, estão cheios de narrativas de \u003cbr\u003e\n\u003cb\u003emilagres\u003c/b\u003e. Entretanto, é no Novo Testamento que encontramos os \u003cb\u003emilagres\u003c/b\u003e \u003cbr\u003e\nrelacionados como um dom, ou carisma, do Espírito Santo. O dom dos \u003cb\u003emilagres\u003c/b\u003e \u003cbr\u003e\ne os outros&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZUINkKL8Vo4C",
+   "etag": "YM4LVKMOzvA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZUINkKL8Vo4C",
+   "volumeInfo": {
+    "title": "Milagres de Lourdes (Os)",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515023660"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515023660"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZUINkKL8Vo4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZUINkKL8Vo4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZUINkKL8Vo4C&pg=PA32&dq=Milagres&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZUINkKL8Vo4C&dq=Milagres&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Milagres_de_Lourdes_Os.html?hl=&id=ZUINkKL8Vo4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZUINkKL8Vo4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este capítulo de apresentação geral do \u003cb\u003emilagre\u003c/b\u003e seria incompleto se não \u003cbr\u003e\nmencionássemos o julgamento do \u003cb\u003emilagre\u003c/b\u003e da parte dos médicos. Em alguns dos \u003cbr\u003e\npróximos capítulos, lembraremos os procedimentos médicos de constatação das \u003cbr\u003e\ncuras,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JFf5N7wB0g8C",
+   "etag": "uKttueDEUMo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JFf5N7wB0g8C",
+   "volumeInfo": {
+    "title": "Um místico brasileiro",
+    "subtitle": "vida e milagres de Antônio Conselheiro",
+    "authors": [
+     "Robert B. Cunninghame Graham"
+    ],
+    "publisher": "UNESP",
+    "publishedDate": "2002",
+    "description": "Este livro conta a vida de Antônio Mendes Maciel, o Conselheiro, um dos personagens mais fascinantes e trágicos da História recente de nosso país. Mescla de santo, iluminado e profeta, o Conselheiro foi um 'possuído' que arrastou consigo para a morte milhares de deserdados. Sua história seduziu o viajante inglês Robert B. Cunninghame Graham, que publicou este relato em 1920, na Inglaterra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8588193183"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588193185"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 213,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JFf5N7wB0g8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JFf5N7wB0g8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JFf5N7wB0g8C&printsec=frontcover&dq=Milagres&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JFf5N7wB0g8C&dq=Milagres&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_m%C3%ADstico_brasileiro.html?hl=&id=JFf5N7wB0g8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JFf5N7wB0g8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sua história seduziu o viajante inglês Robert B. Cunninghame Graham, que publicou este relato em 1920, na Inglaterra."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HYQal0Bk-0sC",
+   "etag": "l3tY7dDzXmQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HYQal0Bk-0sC",
+   "volumeInfo": {
+    "title": "Milagres - A ciência confirma a fé",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "851501498X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515014989"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 486,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HYQal0Bk-0sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HYQal0Bk-0sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HYQal0Bk-0sC&pg=PA220&dq=Milagres&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HYQal0Bk-0sC&dq=Milagres&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Milagres_A_ci%C3%AAncia_confirma_a_f%C3%A9.html?hl=&id=HYQal0Bk-0sC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HYQal0Bk-0sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "PERCEPTÍVEL — Vimos que os modernistas identificam \u003cb\u003emilagre\u003c/b\u003e com sinal. E \u003cbr\u003e\ninsistindo no sinal miniminizam o \u003cb\u003emilagre\u003c/b\u003e. E assim também miniminizam o valor \u003cbr\u003e\nde sinal... * * * Muitos, modernistas ou não, na definição de \u003cb\u003emilagre\u003c/b\u003e incluem,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XUcadsMU6fMC",
+   "etag": "ot17rJjt62g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XUcadsMU6fMC",
+   "volumeInfo": {
+    "title": "Tenda dos milagres",
+    "authors": [
+     "Jorge Amado"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2008-09-08",
+    "description": "Na Tenda dos Milagres, na ladeira do Tabuão, em Salvador, onde o amigo Lídio Corró mantém uma modesta tipografia e pinta quadros de milagres de santos, o mulato Pedro Archanjo atua como uma espécie de intelectual orgânico do povo afro-descendente da Bahia. Autodidata, seus estudos sobre a herança cultural africana e sua defesa entusiástica da miscigenação abalam a ortodoxia acadêmica e causam indignação entre a elite branca e racista. A história é contada retrospectivamente, em dois tempos. Em 1968, a passagem por Salvador de um célebre etnólogo americano admirador de Archanjo desencadeia um revival de sua vida e obra. Para a comemoração do centenário de nascimento do herói redescoberto, arma-se todo um circo midiático. Contrapondo-se a essa apropriação política da imagem de Archanjo, sua trajetória é narrada paralelamente como foi preservada na memória do povo: os amores, as polêmicas com os luminares da universidade, os confrontos com a polícia. Ao contar a história desse herói complexo, também conhecido como \"Ojuobá, os olhos de Xangô\", Jorge Amado traça um painel da cultura negra baiana e de sua resistência contra a repressão violenta a que foi submetida nas primeiras décadas do século XX, resgatando e exaltando manifestações como o candomblé, a capoeira, os afoxés e o samba de roda. Escrito em 1969, com a verve e a sensualidade habituais do autor, Tenda dos Milagres atesta seu amor à cultura afro-brasileira e seu humanismo radicalmente libertário. Foi adaptado com sucesso para o cinema, por Nelson Pereira dos Santos, e para a televisão, como minissérie da Rede Globo. Este e-book não contém as imagens presentes na edição impressa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580860078"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580860075"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XUcadsMU6fMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XUcadsMU6fMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XUcadsMU6fMC&printsec=frontcover&dq=Milagres&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XUcadsMU6fMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XUcadsMU6fMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XUcadsMU6fMC&rdid=book-XUcadsMU6fMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tenda_dos_milagres-sample-epub.acsm?id=XUcadsMU6fMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Tenda_dos_milagres-sample-pdf.acsm?id=XUcadsMU6fMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XUcadsMU6fMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na Tenda dos Milagres, na ladeira do Tabuão, em Salvador, o mulato Pedro Archanjo atua como uma espécie de intelectual orgânico do povo afro-descendente da Bahia."
+   }
+  }
+ ]
+}

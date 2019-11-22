@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5iR8PG8FCTsC",
+   "etag": "bcKG2g9sNGo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5iR8PG8FCTsC",
+   "volumeInfo": {
+    "title": "Dois irmãos",
+    "authors": [
+     "Milton Hatoum"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2006",
+    "description": "'Dois irmãos' é a história de como se constroem as relações de identidade e diferença numa família em crise. O enredo desta vez tem como centro a história de dois irmãos gêmeos - Yaqub e Omar - e suas relações com a mãe, o pai e a irmã. Moram na mesma casa Domingas, empregada da família, e seu filho. Esse menino - o filho da empregada - narra, trinta anos depois, os dramas que testemunhou calado. Buscando a identidade de seu pai entre os homens da casa, ele tenta reconstruir os cacos do passado, ora como testemunha, ora como quem ouviu e guardou, mudo, as histórias dos outros. Do seu canto, ele vê personagens que se entregam ao incesto, à vingança, à paixão desmesurada. O lugar da família se estende ao espaço de Manaus, o porto à margem do rio Negro - a cidade e o rio, metáforas das ruínas e da passagem do tempo, acompanham o andamento do drama familiar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535908331"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535908336"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Twins"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5iR8PG8FCTsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5iR8PG8FCTsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5iR8PG8FCTsC&dq=isbn:9788535908336&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5iR8PG8FCTsC&dq=isbn:9788535908336&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dois_irm%C3%A3os.html?hl=&id=5iR8PG8FCTsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5iR8PG8FCTsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Dois irmãos&#39; é a história de como se constroem as relações de identidade e diferença numa família em crise."
+   }
+  }
+ ]
+}

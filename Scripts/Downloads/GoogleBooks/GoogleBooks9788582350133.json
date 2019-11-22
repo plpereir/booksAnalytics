@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YcS2NAEACAAJ",
+   "etag": "EZMLMxdJunc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YcS2NAEACAAJ",
+   "volumeInfo": {
+    "title": "Depois Dos Quinze - Quando Tudo Começou A Mudar",
+    "authors": [
+     "Bruna Vieira"
+    ],
+    "description": "Neste livro, o leitor poderá encontrar histórias, desabafos e segredos de Bruna Vieira, garota que possui uma página na internet sobre moda, comportamento e internet para o público adolescente. Na obra, Bruna apresenta sua história em forma de crônicas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582350139"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582350133"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YcS2NAEACAAJ&dq=isbn:9788582350133&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YcS2NAEACAAJ&dq=isbn:9788582350133&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Depois_Dos_Quinze_Quando_Tudo_Come%C3%A7ou_A.html?hl=&id=YcS2NAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YcS2NAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ELa fez de uma típica angústia adolescente inspiração e motivação para se entregar ao que hoje é um dos blogs mais respeitados e acessados do país – o Depois dos Quinze.E Agora o blog virou livro - Depois dos Quinze - Quando tudo ..."
+   }
+  }
+ ]
+}

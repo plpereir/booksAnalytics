@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9n9xMAEACAAJ",
+   "etag": "UkpOxskCQaE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9n9xMAEACAAJ",
+   "volumeInfo": {
+    "title": "Rapido E Devagar",
+    "subtitle": "DUAS FORMAS DE PENSAR",
+    "authors": [
+     "Daniel Kahneman",
+     "Cassio De Arantes Leite"
+    ],
+    "description": "Nesta obra, Daniel Kahneman procura mostrar as formas que controlam a mente - o pensamento rápido, intuitivo e emocional e o devagar, lógico e ponderado. Daniel busca mostrar a capacidade do pensamento rápido, sua influência persuasiva nas decisões e até onde se pode ou não confiar nele. Segundo a obra, o entendimento do funcionamento dessas duas formas de pensar pode ajudar em decisões pessoais e profissionais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853900383X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539003839"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9n9xMAEACAAJ&dq=isbn:9788539003839&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9n9xMAEACAAJ&dq=isbn:9788539003839&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rapido_E_Devagar.html?hl=&id=9n9xMAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9n9xMAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Rápido e devagar: duas formas de pensar, Daniel Kahneman nos leva a uma viagem pela mente humana e explica as duas formas de pensar: uma é rápida, intuitiva e emocional; a outra, mais lenta, deliberativa e lógica."
+   }
+  }
+ ]
+}

@@ -1,0 +1,861 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 346,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "s_o3BAAAQBAJ",
+   "etag": "dMifNHSfHao",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s_o3BAAAQBAJ",
+   "volumeInfo": {
+    "title": "It: A coisa",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Suma",
+    "publishedDate": "2014-08-04",
+    "description": "O clássico de Stephen King em nova edição. Durante as férias escolares de 1958, em Derry, pacata cidadezinha do Maine, Bill, Richie, Stan, Mike, Eddie, Ben e Beverly aprenderam o real sentido da amizade, do amor, da confiança e... do medo. O mais profundo e tenebroso medo. Naquele verão, eles enfrentaram pela primeira vez a Coisa, um ser sobrenatural e maligno que deixou terríveis marcas de sangue em Derry. Quase trinta anos depois, os amigos voltam a se encontrar. Uma nova onda de terror tomou a pequena cidade. Mike Hanlon, o único que permanece em Derry, dá o sinal. Precisam unir forças novamente. A Coisa volta a atacar e eles devem cumprir a promessa selada com sangue que fizeram quando crianças. Só eles têm a chave do enigma. Só eles sabem o que se esconde nas entranhas de Derry. O tempo é curto, mas somente eles podem vencer a Coisa. Em It: A Coisa, clássico de Stephen King em nova edição, os amigos irão até o fim, mesmo que isso signifique ultrapassar os próprios limites.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581051529"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581051529"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1104,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.19.17.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s_o3BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s_o3BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s_o3BAAAQBAJ&printsec=frontcover&dq=It+-+A+coisa&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s_o3BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s_o3BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s_o3BAAAQBAJ&rdid=book-s_o3BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/It_A_coisa-sample-epub.acsm?id=s_o3BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/It_A_coisa-sample-pdf.acsm?id=s_o3BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s_o3BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O tempo é curto, mas somente eles podem vencer a Coisa. Em It: A Coisa, clássico de Stephen King em nova edição, os amigos irão até o fim, mesmo que isso signifique ultrapassar os próprios limites."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KBiaAAAAIAAJ",
+   "etag": "W7Be/w/A93w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KBiaAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Línguas de fogo",
+    "subtitle": "ensaio sobre Clarice Lispector",
+    "authors": [
+     "Claire Varin"
+    ],
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106011266969"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KBiaAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KBiaAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KBiaAAAAIAAJ&q=It+-+A+coisa&dq=It+-+A+coisa&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KBiaAAAAIAAJ&dq=It+-+A+coisa&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/L%C3%ADnguas_de_fogo.html?hl=&id=KBiaAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KBiaAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Clarice Lispector ilumina a coisa clara: &quot;Faz parte do trabalho registrar o óbvio&quot; (\u003cbr\u003e\nAV, 73). ... Flor de lírio, Clarice abre-se para o coração das coisas, para o grande \u003cbr\u003e\npeito do mundo, em busca daquilo que chama de \u003cb\u003eit. a coisa\u003c/b\u003e em si &quot;como forma,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "44UyAQAAMAAJ",
+   "etag": "hwqH10hOcfU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/44UyAQAAMAAJ",
+   "volumeInfo": {
+    "title": "A-E",
+    "authors": [
+     "António de Morais Silva"
+    ],
+    "publishedDate": "1813",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000115432951"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese language"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=44UyAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=44UyAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=44UyAQAAMAAJ&pg=PA429&dq=It+-+A+coisa&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=44UyAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-44UyAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=44UyAQAAMAAJ&rdid=book-44UyAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_E.pdf?id=44UyAQAAMAAJ&hl=&output=pdf&sig=ACfU3U2q2UglqOwBhljLboGN23X6ov_yxA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=44UyAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fazer transacção por alguma coisa: v. g. compuserão-se em 3. mil reis. §. Com \u003cbr\u003e\numa ## la de certa ... S. Concerto , convenção amigavel entre litigantes;&quot; \u003cb\u003eit a\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ecoisa\u003c/b\u003e dada em composição da demanda, ou litígio, ou acção. Elucidar. S. \u003cbr\u003e\nConcerto&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YONaDwAAQBAJ",
+   "etag": "5i/BkZjghcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YONaDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Outsider",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Suma",
+    "publishedDate": "2018-06-15",
+    "description": "Um crime indescritível. Uma investigação inexplicável. Uma das histórias mais perturbadoras de Stephen King dos últimos tempos.O corpo de um menino de onze anos é encontrado abandonado no parque de Flint City, brutalmente assassinado. Testemunhas e impressões digitais apontam o criminoso como uma das figuras mais conhecidas da cidade — Terry Maitland, treinador da Liga Infantil de beisebol, professor de inglês, casado e pai de duas filhas. O detetive Ralph Anderson não hesita em ordenar uma prisão rápida e bastante pública, fazendo com que em pouco tempo toda a cidade saiba que o Treinador T é o principal suspeito do crime. Maitland tem um álibi, mas Anderson e o promotor público logo têm amostras de DNA para corroborar a acusação. O caso parece resolvido. Mas conforme a investigação se desenrola, a história se transforma em uma montanha-russa, cheia de tensão e suspense. Terry Maitland parece ser uma boa pessoa, mas será que isso não passa de uma máscara? A aterrorizante resposta é o que faz desta uma das histórias mais perturbadoras de Stephen King.\"Uma história envolvente que mexe com todos os nossos medos... Para os fãs dos livros antigos de King, como It: a Coisa.\" — Kirkus Reviews",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554511708"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554511700"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YONaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YONaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YONaDwAAQBAJ&printsec=frontcover&dq=It+-+A+coisa&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YONaDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YONaDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YONaDwAAQBAJ&rdid=book-YONaDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Outsider-sample-epub.acsm?id=YONaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Outsider-sample-pdf.acsm?id=YONaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YONaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A aterrorizante resposta é o que faz desta uma das histórias mais perturbadoras de Stephen King.&quot;Uma história envolvente que mexe com todos os nossos medos... Para os fãs dos livros antigos de King, como It: a Coisa.&quot; — Kirkus Reviews"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "h85mDwAAQBAJ",
+   "etag": "GjJ1+4yNnW4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h85mDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Celular",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Suma",
+    "publishedDate": "2018-08-03",
+    "description": "Um dos livros mais sangrentos e horripilantes do mestre do terror. Stephen King captura o leitor desde as primeiras páginas, sem oferecer qualquer chance para que recupere o fôlego antes do final devastador.Em Celular, King leva o medo da tecnologia e do terrorismo digital às últimas consequências. De uma hora para outra, telefones celulares se tornam os responsáveis pelo apocalipse, ao apagar do cérebro de milhões de pessoas qualquer traço de humanidade, deixando no lugar apenas violência e impulsos destrutivos. Aqueles que não possuem um celular, como o artista gráfico Clayton Riddell e seu pequeno grupo de normies — pessoas que não sofreram o ataque —, agora lutam por sobrevivência. Enquanto batalha para chegar a um lugar seguro e reencontrar sua família, Riddell se vê cada vez mais rodeado por caos, carnificina e uma horda terrível de humanos que foram reduzidos aos instintos mais básicos... mas que parecem estar começando a evoluir.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554512415"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554512413"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h85mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h85mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=h85mDwAAQBAJ&printsec=frontcover&dq=It+-+A+coisa&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=h85mDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-h85mDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=h85mDwAAQBAJ&rdid=book-h85mDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.89E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Celular-sample-epub.acsm?id=h85mDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Celular-sample-pdf.acsm?id=h85mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h85mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Stephen King captura o leitor desde as primeiras páginas, sem oferecer qualquer chance para que recupere o fôlego antes do final devastador.Em Celular, King leva o medo da tecnologia e do terrorismo digital às últimas consequências."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MatJDwAAQBAJ",
+   "etag": "APUhI5u1nNk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MatJDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A incendiária",
+    "subtitle": "Coleção Biblioteca Stephen King",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Suma",
+    "publishedDate": "2018-04-06",
+    "description": "Uma criança com o poder mais extraordinário e incontrolável de todos os tempos. Um poder capaz de destruir o mundo. Após anos esgotado no Brasil, A incendiária volta às livrarias como parte da Biblioteca Stephen King, coleção de clássicos do mestre do terror em edição especial com conteúdo extra. No livro, Andy e Vicky eram apenas universitários precisando de uma grana extra quando se voluntariaram para um experimento científico comandado por uma organização governamental clandestina conhecida como \"a Oficina\". As consequências foram o surgimento de estranhos poderes psíquicos — que tomaram efeitos ainda mais perigosos quando os dois se apaixonaram e tiveram uma filha. Desde pequena, Charlie demonstra ter herdado um poder absoluto e incontrolável. Pirocinética, a garota é capaz de criar fogo com a mente. Agora o governo está à caça da garotinha, tentando capturá-la e utilizar seu poder como arma militar. Impotentes e cada vez mais acuados, pai e filha percorrem o país em uma fuga desesperada, e percebem que o poder de Charlie pode ser sua única chance de escapar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554510794"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554510798"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MatJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MatJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MatJDwAAQBAJ&printsec=frontcover&dq=It+-+A+coisa&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MatJDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MatJDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MatJDwAAQBAJ&rdid=book-MatJDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_incendi%C3%A1ria-sample-epub.acsm?id=MatJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_incendi%C3%A1ria-sample-pdf.acsm?id=MatJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MatJDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um poder capaz de destruir o mundo. Após anos esgotado no Brasil, A incendiária volta às livrarias como parte da Biblioteca Stephen King, coleção de clássicos do mestre do terror em edição especial com conteúdo extra."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "asWHDwAAQBAJ",
+   "etag": "VYXKnvDeBpI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/asWHDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A metade sombria – Coleção Biblioteca Stephen King",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Suma",
+    "publishedDate": "2019-03-21",
+    "description": "Após anos esgotado no Brasil, A metade sombria volta às livrarias como parte da Biblioteca Stephen King, coleção de clássicos do mestre do terror em edição especial com conteúdo extra. Criar George Stark foi fácil. Se livrar dele, nem tanto. Há anos, Thad Beaumont vem escrevendo, sob o pseudônimo George Stark, thrillers violentos que pagam as contas da família, mas não são considerados \"livros sérios\" pelo escritor. Quando um jornalista ameaça expor o segredo, Thad decide abrir o jogo primeiro, e dá um fim público ao pseudônimo. Beaumont volta a escrever sob o próprio nome, e seu alter ego ameaçador está definitivamente enterrado. Tudo vai bem. Até que uma série de assassinatos tem início, e todas as pistas apontam para Thad. Ele gostaria de poder dizer que é inocente, que não participou dos atos monstruosos acontecendo ao seu redor. Mas a verdade é que George Stark não ficou feliz de ser dispensado tão facilmente, e está de volta para perseguir os responsáveis por sua morte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554513498"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554513495"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=asWHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=asWHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=asWHDwAAQBAJ&printsec=frontcover&dq=It+-+A+coisa&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=asWHDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-asWHDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 42.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=asWHDwAAQBAJ&rdid=book-asWHDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_metade_sombria_Cole%C3%A7%C3%A3o_Biblioteca_St-sample-epub.acsm?id=asWHDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_metade_sombria_Cole%C3%A7%C3%A3o_Biblioteca_St-sample-pdf.acsm?id=asWHDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=asWHDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Após anos esgotado no Brasil, A metade sombria volta às livrarias como parte da Biblioteca Stephen King, coleção de clássicos do mestre do terror em edição especial com conteúdo extra."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KyCKswEACAAJ",
+   "etag": "pbcB7XASJW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KyCKswEACAAJ",
+   "volumeInfo": {
+    "title": "Hex",
+    "authors": [
+     "Thomas Olde Hevelt",
+     "Fabio Fernandes"
+    ],
+    "description": "Toda cidade pequena tem segredos. Mas nenhuma delas é como Black Spring, o pacato vilarejo que esconde uma bruxa de verdade do resto do mundo. Os moradores sabem que não se deve mexer com ela. Assim como aconteceu com as bruxas de Salem, Katherine Van Wyler foi condenada à fogueira. Mas a feiticeira sobreviveu e continua rondando a cidade, mais de trezentos anos depois. Com costuras em seus olhos e correntes nos braços, Katherine aparece nos lugares mais improváveis quando bem entende, sussurrando a morte para quem chega perto o suficiente para ouvir. Assim como a Morte Vermelha, de Edgar Allan Poe, ela enfeitiçou a alma da cidade de forma que escapar não é uma opção: quem se afasta demais tem a mente invadida por pensamentos suicidas, e muitos não retornam para contar a história. Os habitantes de Black Spring controlam os passos da bruxa 24 horas por dia através do hexapp, um aplicativo de celular desenvolvido especialmente para garantir que a bruxa não seja revelada para os Forasteiros. A vigilância constante aumenta o clima de paranoia na cidade, enquanto um grupo de adolescentes desafia as regras e resolve provocar a bruxa para ver se ela é tão perigosa quanto dizem. O holandês Thomas Olde Heuvelt, indicado ao World Fantasy Award em 2014 e ganhador do Hugo Fantasy Award no ano seguinte, é a mente por trás dessa obra aterrorizante que chega aos leitores mais corajosos da DarkSide® Books em uma edição capa dura tão caprichada que merece todas as câmeras de vigilância ao seu redor. O livro foi tão bem recebido que uma adaptação para a TV está em andamento, com roteiro de Gary Dauberman, de It: A Coisa e Annabelle. Seguindo os passos do mestre Stephen King, que narrou com maestria os conflitos e tensões dos moradores aprisionados na pequena cidade de Chester’s Mill, em Sob a Redoma, Thomas Olde Heuvelt guia o leitor em uma jornada de isolamento e perda da humanidade. O lento mergulho do vilarejo em uma tensão obscura e quase medieval fará os leitores brasileiros se entregarem à loucura de hex. Repleto de elementos próprios da cultura holandesa e influências macabras do clássico As Bruxas, de Roal Dahl, hex é perfeito para os fãs de Wytches e A Bruxa de Blair, por ser o tipo de livro que relembra que cidadezinhas, por mais pitorescas que sejam, podem esconder horrores capazes de protagonizar os piores pesadelos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8594540698"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788594540690"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KyCKswEACAAJ&dq=It+-+A+coisa&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KyCKswEACAAJ&dq=It+-+A+coisa&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hex.html?hl=&id=KyCKswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KyCKswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Repleto de elementos próprios da cultura holandesa e influências macabras do clássico As Bruxas, de Roal Dahl, hex é perfeito para os fãs de Wytches e A Bruxa de Blair, por ser o tipo de livro que relembra que cidadezinhas, por mais ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tPg_QGGcP1oC",
+   "etag": "9+7QJAQmaaY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tPg_QGGcP1oC",
+   "volumeInfo": {
+    "title": "Sex appeal do inorgânico, O – Coleção Atopos",
+    "authors": [
+     "Mario Perniola"
+    ],
+    "publisher": "Studio Nobel",
+    "publishedDate": "2005",
+    "description": "Realidade virtual, telefones celulares capazes de receber imagens, sons e textos, leitores de CDs portáteis, reprodutores de MP3, arquitetura desconstrutiva, performances desportivas e artísticas, sexo, drogas e rock’n’roll... fazem parte da cultura de uma parte da sociedade na qual as relações sociais passaram a ser eletronicamente mediadas. Em 'O sex appeal do inorgânico', Mario Perniola analisa esse momento cultural, esse novo modo de sentir caracterizados pela relação entre o sujeito e o objeto e o objeto e o sujeito. 'O sex appeal do inorgânico' é uma obra para quem quer entender o momento que vivemos, a sociedade de massa e a de consumo, a necessidade de um novo tipo de mercadoria comunicativa, de novos espaços urbanos e de outras formas de interação social, que são impostos ao sentir contemporâneo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575530526"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575530528"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tPg_QGGcP1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tPg_QGGcP1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tPg_QGGcP1oC&pg=PA28&dq=It+-+A+coisa&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tPg_QGGcP1oC&dq=It+-+A+coisa&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sex_appeal_do_inorg%C3%A2nico_O_Cole%C3%A7%C3%A3o_At.html?hl=&id=tPg_QGGcP1oC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tPg_QGGcP1oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta é a \u003cb\u003ecoisa\u003c/b\u003e que nos interessa e é com esta que hoje ocorre o confronto, não a \u003cbr\u003e\n\u003cb\u003ecoisa\u003c/b\u003e que pensa, nem aquela que se move e tampouco a \u003cb\u003ecoisa\u003c/b\u003e que resplandece \u003cbr\u003e\nnuma ... 2 R. Descartes, Meditationes de prima Philosophia, II (trad. \u003cb\u003eit\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j4aaP_Vs__kC",
+   "etag": "IbCIlHpBO8s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j4aaP_Vs__kC",
+   "volumeInfo": {
+    "title": "Fast Portuguese with Elisabeth Smith (Coursebook)",
+    "authors": [
+     "Elisabeth Smith"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2011-05-27",
+    "description": "Elisabeth Smith has used her wide teaching experience to write a course that covers just the vocabulary and the grammar that you really need. This day-by-day programme is easy to follow and fun to do. At the end of six weeks, you'll have the confidence and knowledge to tackle all the situations you need to know about, such as shopping, eating out and getting around. With just the essential words and phrases to learn, and flashcards at the back of the book to help learn them, progress is fast and enjoyable. By the end of this course, you will be at Level A2 of the Common European Framework for Languages: Can understand sentences and frequently used expressions. Can communicate in simple and routine tasks.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444145175"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1444145177"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Foreign Language Study"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j4aaP_Vs__kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j4aaP_Vs__kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=j4aaP_Vs__kC&pg=PT70&dq=It+-+A+coisa&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=j4aaP_Vs__kC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-j4aaP_Vs__kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.47,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.47,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=j4aaP_Vs__kC&rdid=book-j4aaP_Vs__kC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.947E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.947E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fast_Portuguese_with_Elisabeth_Smith_Cou-sample-epub.acsm?id=j4aaP_Vs__kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j4aaP_Vs__kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Read each sentence several times until you can say \u003cb\u003eit\u003c/b\u003e out loud &#39;in a flash&#39; Alguém \u003cbr\u003e\ntelefonou. Someone phoned. Não disse para qué. He/she didn&#39;t say what for. É \u003cbr\u003e\numa \u003cb\u003ecoisa\u003c/b\u003e importante. \u003cb\u003eIt&#39;s\u003c/b\u003e an important matter. Na semana que vem temos&nbsp;..."
+   }
+  }
+ ]
+}

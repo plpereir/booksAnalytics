@@ -1,0 +1,729 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 414,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "N2ExOXxw6cAC",
+   "etag": "UlSpUaQzUnE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N2ExOXxw6cAC",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013",
+    "authors": [
+     "Craig Glenday"
+    ],
+    "publisher": "Bantam Books",
+    "publishedDate": "2013-04-30",
+    "description": "Includes new and updated records with never-before-seen photography--from the new shortest living man and a slam-dunking parrot to the fiercest predators in the ocean.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345547118"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "034554711X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 606,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 37,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=N2ExOXxw6cAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=N2ExOXxw6cAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=N2ExOXxw6cAC&dq=Guinness+World+Records+2013&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=N2ExOXxw6cAC&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013.html?hl=&id=N2ExOXxw6cAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=N2ExOXxw6cAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Includes new and updated records with never-before-seen photography--from the new shortest living man and a slam-dunking parrot to the fiercest predators in the ocean."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dZCdBQAAQBAJ",
+   "etag": "uXD2geTCJAE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dZCdBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Guinness World Records: Celebrating 60 Years",
+    "subtitle": "",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2014-11-28",
+    "description": "In this special diamond anniversary book, we share 60 of the most iconic, heart-warming and world-changing records, year by year from 1955 to today. Illustrated with stunning photography, these records show how Guinness World Records is a mirror to the evolving world around us. From the first man in space to the longest fingernails, there’s something for everyone in this trip down record-breaking memory lane.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843739"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "190884373X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dZCdBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dZCdBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=dZCdBQAAQBAJ&printsec=frontcover&dq=Guinness+World+Records+2013&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dZCdBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dZCdBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.78,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 3.78,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dZCdBQAAQBAJ&rdid=book-dZCdBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3780000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3780000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guinness_World_Records_Celebrating_60_Ye-sample-epub.acsm?id=dZCdBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guinness_World_Records_Celebrating_60_Ye-sample-pdf.acsm?id=dZCdBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dZCdBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Illustrated with stunning photography, these records show how Guinness World Records is a mirror to the evolving world around us."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WXSv-dxcRKMC",
+   "etag": "/oVNcxNGajk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WXSv-dxcRKMC",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013 Bonus Chapter",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2012-09-20",
+    "description": "Guinness World Records 2013 The Bonus Chapter features all new exclusive pages that you will not find in our annual book. Featuring additional content in the form of photographs and record-breaking facts, The Bonus Chapter also provides a behind-the-scenes look at Guinness World Records. The Bonus Chapter is available exclusively as a richly designed eBook and includes our Top 10 Claimants, a 'Day in the Life of an Adjudicator' as well as a special section on the Olympics and a quiz to test your superlative knowledge. A perfect accompaniment to Guinness World Records 2013, The Bonus Chapter is for all those fans who want to learn even more about the ultimate authority on record-breaking.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843067"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1908843063"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 83,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.5.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WXSv-dxcRKMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WXSv-dxcRKMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=WXSv-dxcRKMC&dq=Guinness+World+Records+2013&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WXSv-dxcRKMC&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013_Bonus_Chapte.html?hl=&id=WXSv-dxcRKMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WXSv-dxcRKMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Guinness World Records 2013 The Bonus Chapter features all new exclusive pages that you will not find in our annual book."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G8S2NAEACAAJ",
+   "etag": "cb55eEQVUVk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G8S2NAEACAAJ",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013",
+    "subtitle": "DESCUBRA UM MUNDO DE NOVOS RECORDES",
+    "authors": [
+     "Guinness Publishing"
+    ],
+    "description": "Além de novos recordes e destaques para os recordes brasileiros, este livro busca trazer em suas páginas uma experiência 3D com realidade aumentada, onde o leitor poderá ter o Menor Homem do Mundo, A Maior Aranha e outros recordes nas mãos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522013934"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522013937"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 290,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G8S2NAEACAAJ&dq=Guinness+World+Records+2013&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G8S2NAEACAAJ&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013.html?hl=&id=G8S2NAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G8S2NAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Além de novos recordes e destaques para os recordes brasileiros, este livro busca trazer em suas páginas uma experiência 3D com realidade aumentada, onde o leitor poderá ter o Menor Homem do Mundo, A Maior Aranha e outros recordes nas ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qI0cuGi53pAC",
+   "etag": "TAjY1ysuRkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qI0cuGi53pAC",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013",
+    "subtitle": "Full Color eBook",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2012-11-01",
+    "description": "The Guinness World Records 2013 eBook features thousands of brand new inspirational achievements and exclusive pictures chronicling Guinness World Records from all over the world! With more than 4,000 records and over a dozen chapters Guinness World Records 2013 is the must-have eBook of the year for aspiring record-breakers of all ages. From Wacky Vehicles and Animalympics to special pages devoted to a world tour of superlatives and an exploration of the extremes of record-breaking, Guinness World Records 2013 is fully designed and brings to you the world of record-breaking like you've never seen before!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843029"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1908843020"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qI0cuGi53pAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qI0cuGi53pAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=qI0cuGi53pAC&dq=Guinness+World+Records+2013&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qI0cuGi53pAC&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013.html?hl=&id=qI0cuGi53pAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qI0cuGi53pAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Guinness World Records 2013 eBook features thousands of brand new inspirational achievements and exclusive pictures chronicling Guinness World Records from all over the world!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nSzRDjidsdgC",
+   "etag": "QG4bXW3beaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nSzRDjidsdgC",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013 - The Engineering Chapter",
+    "subtitle": "Full Color eBook",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2012-11-01",
+    "description": "Welcome to The Engineering Chapter ebook, an excerpt from Guinness World Records 2013. What makes humans great? Many would say that it is our ability to use ideas and tools to transform and enhance our own environment. In The Engineering Chapter we celebrate our uniqueness by visiting some of the greatest buildings and observing our most incredible feats of engineering. From the tallest buildings to the strangest vehicles, this chapter is packed full of things that push the boundaries of our creativity. Contains brand new records, astonishing pictures and exciting new design features.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843388"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1908843381"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nSzRDjidsdgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nSzRDjidsdgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=nSzRDjidsdgC&dq=Guinness+World+Records+2013&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nSzRDjidsdgC&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013_The_Engineer.html?hl=&id=nSzRDjidsdgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nSzRDjidsdgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Welcome to The Engineering Chapter ebook, an excerpt from Guinness World Records 2013."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C8xXZ-3bEQQC",
+   "etag": "cjU+oAJH9gw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C8xXZ-3bEQQC",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013 Gamer's Edition - Sample Chapter",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2013-01-17",
+    "description": "Welcome to this sample ebook chapter of the Guinness World Records Gamer's Edition, readable on all devices but specifically formatted to be read on most smartphones! These selected features have been specifically designed for all ereading devices to give you a flavor of the full action-packed Gamer's Edition 2013 available now in physical and ebook forms. The Gamer's Edition is the ultimate guide to videogames, packed full of the most up-to-date news, achievements and developments in the gaming world, illustrated with the best and most exciting imagery from this year's top titles. Complete with fascinating facts, figures and features on the most popular games, the latest edition also includes gameplay tips and hints, retro facts from classic games, and your favorite characters battling it out against each other in our new \"Vs\" feature. One of the features we've included here brings you the results of our readers' poll of the most visually stunning videogame graphics ever. As game graphics become ever more stylized, fast-moving and impressive, we guide you through a visual feast of the 50 titles you ranked as the very greatest. To participate in the poll for next year's book, please visit www.guinnessworldrecords.com/gamers. We'd love to hear from you, and you could win yourself a prize!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843319"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1908843314"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 83,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=C8xXZ-3bEQQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=C8xXZ-3bEQQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=C8xXZ-3bEQQC&dq=Guinness+World+Records+2013&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=C8xXZ-3bEQQC&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013_Gamer_s_Edit.html?hl=&id=C8xXZ-3bEQQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C8xXZ-3bEQQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Gamer&#39;s Edition is the ultimate guide to videogames, packed full of the most up-to-date news, achievements and developments in the gaming world, illustrated with the best and most exciting imagery from this year&#39;s top titles."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f--L2cB1mp8C",
+   "etag": "v70AUwcnKLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f--L2cB1mp8C",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013 - The Universe Chapter",
+    "subtitle": "Full Color eBook",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2012-11-01",
+    "description": "Welcome to The Universe Chapter ebook, an excerpt from Guinness World Records 2013. Take a journey into the sun, and find out what it's like to live in space. Come with us as we unveil some of the wonders of the universe on a record-breaking journey through the most fascinating facts about our planet and beyond. Contains brand new records, astonishing pictures and exciting new design features.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843142"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1908843144"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 59,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f--L2cB1mp8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f--L2cB1mp8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=f--L2cB1mp8C&dq=Guinness+World+Records+2013&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=f--L2cB1mp8C&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013_The_Universe.html?hl=&id=f--L2cB1mp8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f--L2cB1mp8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Welcome to The Universe Chapter ebook, an excerpt from Guinness World Records 2013."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v0GSMhF4ER0C",
+   "etag": "qQutyjCDhks",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v0GSMhF4ER0C",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013 - The Science Chapter",
+    "subtitle": "Full Color eBook",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2012-11-01",
+    "description": "Welcome to The Science Chapter ebook, an excerpt from Guinness World Records 2013. Have you ever wondered whether the technology you see in sci-fi films is actually possible, or what the next frontier of scientific breakthrough will be? Which household item is related to the Large Hadron Collider? And how far have people progressed with connecting machines to biological nervous systems? Discover the answers to these questions and many more, as you immerse yourself in the world of record-breaking at the very cutting edge of science. Contains brand new records, astonishing pictures and exciting new design features.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843425"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "190884342X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=v0GSMhF4ER0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=v0GSMhF4ER0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=v0GSMhF4ER0C&dq=Guinness+World+Records+2013&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=v0GSMhF4ER0C&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013_The_Science.html?hl=&id=v0GSMhF4ER0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=v0GSMhF4ER0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Welcome to The Science Chapter ebook, an excerpt from Guinness World Records 2013."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OMEd36p9I5kC",
+   "etag": "y5zgoxJgN1s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OMEd36p9I5kC",
+   "volumeInfo": {
+    "title": "Guinness World Records 2013 - The Adventure Chapter",
+    "subtitle": "Full Color eBook",
+    "authors": [
+     "Guinness World Records"
+    ],
+    "publisher": "Guinness World Records",
+    "publishedDate": "2012-11-01",
+    "description": "Welcome to The Adventure Chapter ebook, an excerpt from Guinness World Records 2013. This is the record-breaking home of the world's greatest adventurers - impressive heroes who explore the most extreme parts of the world and undertake epic journeys under the most gruelling conditions to test the limits of mind and body. Circumnavigate the world, climb the highest mountains, then maybe take a world tour of your own, following our itinerary that takes in the most amazing records each continent has to offer. Contains brand new records, astonishing pictures and exciting new design features.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781908843302"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1908843306"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Travel"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OMEd36p9I5kC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OMEd36p9I5kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=OMEd36p9I5kC&dq=Guinness+World+Records+2013&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OMEd36p9I5kC&dq=Guinness+World+Records+2013&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guinness_World_Records_2013_The_Adventur.html?hl=&id=OMEd36p9I5kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OMEd36p9I5kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This is the record-breaking home of the world&#39;s greatest adventurers - impressive heroes who explore the most extreme parts of the world and undertake epic journeys under the most gruelling conditions to test the limits of mind and body."
+   }
+  }
+ ]
+}

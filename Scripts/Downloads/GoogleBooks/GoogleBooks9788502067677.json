@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YnBuPwAACAAJ",
+   "etag": "nM1rWxrGG/o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YnBuPwAACAAJ",
+   "volumeInfo": {
+    "title": "Fundamentos de economia",
+    "authors": [
+     "Marco Antonio Sandoval de Vasconcellos",
+     "Manuel Enriquez Garcia"
+    ],
+    "publishedDate": "2008",
+    "description": "Esta obra aborda os seguintes tópicos - Introdução à Economia - conceito, problemas fundamentais, funcionamento de uma economia de mercado, inter-relação com outras áreas e divisão do estudo econômico; Breve retrospecto da evolução do pensamento econômico; Economia e direito; Introdução à Microeconomia e à Macroeconomia; Crescimento e desenvolvimento econômico; entre outros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502067672"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502067677"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 292,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YnBuPwAACAAJ&dq=isbn:9788502067677&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YnBuPwAACAAJ&dq=isbn:9788502067677&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentos_de_economia.html?hl=&id=YnBuPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YnBuPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra aborda os seguintes tópicos - Introdução à Economia - conceito, problemas fundamentais, funcionamento de uma economia de mercado, inter-relação com outras áreas e divisão do estudo econômico; Breve retrospecto da ..."
+   }
+  }
+ ]
+}

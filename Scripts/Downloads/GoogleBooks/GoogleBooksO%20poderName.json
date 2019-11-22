@@ -1,0 +1,892 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 327,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wGv3CQAAQBAJ",
+   "etag": "yyQRvLyMd9A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wGv3CQAAQBAJ",
+   "volumeInfo": {
+    "title": "O poder da ação",
+    "subtitle": "Faça sua vida ideal sair do papel",
+    "authors": [
+     "Paulo Vieira"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "Acorde para os objetivos que quer conquistar. Já aconteceu a você de se olhar no espelho e não gostar daqueles quilos a mais? De observar seu momento profissional somente com frustração? De se sentir desconectado dos seus familiares, dos seus amigos? Se você acha que essas são situações normais, pense de novo! Só porque isso acontece com várias pessoas não quer dizer que a vida deva ser assim. Só porque algo se torna comum, não significa que seja normal! Neste livro, Paulo Vieira lhe convida a quebrar o ciclo vicioso e iniciar um caminho de realização. Para isso, ele apresenta o método responsável por impactar 250 mil pessoas ao longo de sua carreira - e que pode ser a chave para o que você tanto procura. No decorrer destas páginas, o autor lhe entrega uma bússola. E para conseguir se guiar por ela você terá de assumir um compromisso com a mudança. Preparado? Aproveite todas as provocações e os desafios propostos nesta obra para conseguir, de fato, fazer o check-up completo sobre si mesmo. Acorde, creia, comunique, tenha foco, AJA! Pare de adiar sua vida e seja quem quer ser a partir de agora. Não existe outra opção. E está em suas mãos reescrever seu futuro. + de 100 SEMANAS NAS LISTAS DE MAIS VENDIDOS!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200475"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200471"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.13.16.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wGv3CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wGv3CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wGv3CQAAQBAJ&printsec=frontcover&dq=O+poder&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wGv3CQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wGv3CQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wGv3CQAAQBAJ&rdid=book-wGv3CQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.415E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_a%C3%A7%C3%A3o-sample-epub.acsm?id=wGv3CQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_a%C3%A7%C3%A3o-sample-pdf.acsm?id=wGv3CQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wGv3CQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Só porque algo se torna comum, não significa que seja normal! Neste livro, Paulo Vieira lhe convida a quebrar o ciclo vicioso e iniciar um caminho de realização."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k0j8IgiMKoMC",
+   "etag": "x3JyJD8AuOk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k0j8IgiMKoMC",
+   "volumeInfo": {
+    "title": "O poder do hábito",
+    "subtitle": "Por que fazemos o que fazemos na vida e nos negócios",
+    "authors": [
+     "Charles Duhigg"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2012-10-01",
+    "description": "Charles Duhigg, repórter investigativo do New York Times, mostra que a chave para o sucesso é entender como os hábitos funcionam - e como podemos transformá-los. Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida. Em um laboratório, neurologistas descobriram que os padrões dentro do cérebro dela mudaram de maneira fundamental. Publicitários da Procter & Gamble observaram vídeos de pessoas fazendo a cama. Tentavam desesperadamente descobrir como vender um novo produto chamado Febreze, que estava prestes a se tornar um dos maiores fracassos na história da empresa. De repente, um deles detecta um padrão quase imperceptível - e, com uma sutil mudança na campanha publicitária, Febreze começa a vender um bilhão de dólares por anos. Um diretor executivo pouco conhecido assume uma das maiores empresas norte-americanas. Seu primeiro passo é atacar um único padrão entre os funcionários - a maneira como lidam com a segurança no ambiente de trabalho -, e logo a empresa começa a ter o melhor desempenho no índice Dow Jones. O que todas essas pessoas tem em comum? Conseguiram ter sucesso focando em padrões que moldam cada aspecto de nossas vidas. Tiveram êxito transformando hábitos. Com perspicácia e habilidade, Charles Duhigg apresenta um novo entendimento da natureza humana e seu potencial para a transformação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539004256"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539004259"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.30.27.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=k0j8IgiMKoMC&printsec=frontcover&dq=O+poder&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=k0j8IgiMKoMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-k0j8IgiMKoMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=k0j8IgiMKoMC&rdid=book-k0j8IgiMKoMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_do_h%C3%A1bito-sample-epub.acsm?id=k0j8IgiMKoMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_do_h%C3%A1bito-sample-pdf.acsm?id=k0j8IgiMKoMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k0j8IgiMKoMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Charles Duhigg, repórter investigativo do New York Times, mostra que a chave para o sucesso é entender como os hábitos funcionam - e como podemos transformá-los."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WWuFYgUzSawC",
+   "etag": "KU09jJOLNQk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WWuFYgUzSawC",
+   "volumeInfo": {
+    "title": "O Poder Da Persuasão",
+    "authors": [
+     "Robert B. Cialdini"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2006",
+    "description": "Explica por que algumas pessoas são extraordinariamente persuasivas e como você pode vencê-las em seu próprio jogo. Fala dos seis segredos psicológicos por trás do nosso poderoso impulso para ceder, e como persuasores habilidosos usam esses segredos sem serem notados, como se defender deles e como fazer esses segedos trabalharem a nosso favor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535221808"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535221800"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WWuFYgUzSawC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WWuFYgUzSawC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WWuFYgUzSawC&printsec=frontcover&dq=O+poder&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WWuFYgUzSawC&dq=O+poder&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Poder_Da_Persuas%C3%A3o.html?hl=&id=WWuFYgUzSawC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WWuFYgUzSawC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Explica por que algumas pessoas são extraordinariamente persuasivas e como você pode vencê-las em seu próprio jogo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Zm1IDwAAQBAJ",
+   "etag": "DTWraDkyu9U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zm1IDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Poder",
+    "authors": [
+     "Rhonda Byrne"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2018-02-05",
+    "description": "O SEU DESTINO É UMA VIDA FANTÁSTICA! Este é o manual para o maior poder do universo – O Poderde ter tudo que você quiser.Sem O Poder, você não teria nascido. Sem O Poder, não haveria um único ser humano no planeta. O Poder é a origem de cada descoberta, invenção e criação humana. Saúde perfeita, relacionamentos incríveis, uma carreira que você ama, uma vida repleta de felicidade e o dinheiro de que você precisa para ser, fazer e ter o que quiser – tudo pode ser conquistado com O Poder.A vida dos seus sonhos sempre esteve mais perto do que você imaginou, porque O Poder – de ter tudo de bom na sua vida – está dentro de você.Para criar qualquer coisa, para mudar qualquer coisa, só é preciso uma coisa... O PODER.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543105680"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543105684"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Zm1IDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Zm1IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Zm1IDwAAQBAJ&printsec=frontcover&dq=O+poder&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Zm1IDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Zm1IDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.24,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Zm1IDwAAQBAJ&rdid=book-Zm1IDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.324E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder-sample-epub.acsm?id=Zm1IDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder-sample-pdf.acsm?id=Zm1IDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Zm1IDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sem O Poder, você não teria nascido. Sem O Poder, não haveria um único ser humano no planeta. O Poder é a origem de cada descoberta, invenção e criação humana."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "95TlM8WBXwIC",
+   "etag": "FAvHP/MlM20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/95TlM8WBXwIC",
+   "volumeInfo": {
+    "title": "O Poder do Agora",
+    "subtitle": "Um guia para a iluminação espiritual",
+    "authors": [
+     "Eckhart Tolle"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2010-12-28",
+    "description": "Nós passamos a maior parte de nossas vidas pensando no passado e fazendo planos para o futuro. Ignoramos ou negamos o presente e adiamos nossas conquistas para algum dia distante, quando conseguiremos tudo o que desejamos e seremos, finalmente, felizes.Mas, se queremos realmente mudar nossas vidas, precisamos começar neste momento. Essa é a mensagem simples, mas transformadora de Eckhart Tolle: viver no Agora é o melhor caminho para a felicidade e a iluminação.Para compreender a jornada em direção a O Poder do Agora, a primeira coisa a fazer é deixar para trás nossa mente analítica e nosso falso ego. Desde o primeiro capítulo subiremos rapidamente para uma altitude mais elevada, onde se respira um ar mais leve, o ar espiritual. Embora seja uma travessia desafiadora, Eckhart Tolle nos guia com sua linguagem simples e facilita o entendimento de conceitos complexos ao escrever no formato de perguntas e respostas.Combinando conceitos do cristianismo, do budismo, do hinduísmo, do taoísmo e de outras tradições espirituais, Tolle elaborou um guia de grande eficiência para a descoberta do nosso potencial interior.Esse livro é um manual prático que nos ensina a tomar consciência dos pensamentos e das emoções que nos impedem de vivenciar plenamente a alegria e a paz que estão dentro de nós mesmos.\"Este é um dos melhores livros que surgiram nos últimos tempos. Cada frase transmite verdade e poder.\" – Deepak Chopra,autor de As Sete Leis Espirituais do Sucesso",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575426319"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575426311"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.74.70.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=95TlM8WBXwIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=95TlM8WBXwIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=95TlM8WBXwIC&printsec=frontcover&dq=O+poder&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=95TlM8WBXwIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-95TlM8WBXwIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=95TlM8WBXwIC&rdid=book-95TlM8WBXwIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_do_Agora-sample-epub.acsm?id=95TlM8WBXwIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_do_Agora-sample-pdf.acsm?id=95TlM8WBXwIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=95TlM8WBXwIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para compreender a jornada em direção a O Poder do Agora, a primeira coisa a fazer é deixar para trás nossa mente analítica e nosso falso ego."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pfs4SPdlhFAC",
+   "etag": "IGs0MYz4s64",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pfs4SPdlhFAC",
+   "volumeInfo": {
+    "title": "O poder no pensamento social",
+    "subtitle": "dissonâncias",
+    "authors": [
+     "Renarde Freire Nobre"
+    ],
+    "publisher": "Editora UFMG",
+    "publishedDate": "2008",
+    "description": "Como sugere o subtítulo da obra, a idéia de 'dissonâncias' explicita que, mais do que tratarmos de um tema vital no pensamento social, o que interessa é apreendê-lo conforme se apresenta no interior do corpus teórico mais geral- com constância marcada por",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8570416946"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788570416940"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 177,
+    "printType": "BOOK",
+    "categories": [
+     "Political science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pfs4SPdlhFAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pfs4SPdlhFAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pfs4SPdlhFAC&printsec=frontcover&dq=O+poder&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pfs4SPdlhFAC&dq=O+poder&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_poder_no_pensamento_social.html?hl=&id=pfs4SPdlhFAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pfs4SPdlhFAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como sugere o subtítulo da obra, a idéia de &#39;dissonâncias&#39; explicita que, mais do que tratarmos de um tema vital no pensamento social, o que interessa é apreendê-lo conforme se apresenta no interior do corpus teórico mais geral- com ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yiUVUy05pHkC",
+   "etag": "NuAjkWHzJYc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yiUVUy05pHkC",
+   "volumeInfo": {
+    "title": "O Poder do Pensamento Positivo",
+    "authors": [
+     "Norman Vincent Peale"
+    ],
+    "publisher": "Editora Cultrix",
+    "publishedDate": "2015-06-16",
+    "description": "Neste livro, que é o precursor de O Segredo, o autor Norman Vincent Peale ensina um sistema de vida baseado numa técnica espiritual simples e clara, que pode ser resumida numa única frase: todos poderão levar uma vida feliz e gratificante. Se você, diz Peale, \"ler este livro com profunda atenção, observando cuidadosamente os seus ensinamentos, e se praticar, sincera e persistentemente, os princípios e fórmulas nele expostos, irá experimentar uma extraordinária modificação em si mesmo. Suas relações com as outras pessoas serão melhores e você terá uma nova e agradável sensação de bem-estar.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531610707"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8531610702"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.99.97.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yiUVUy05pHkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yiUVUy05pHkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yiUVUy05pHkC&printsec=frontcover&dq=O+poder&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yiUVUy05pHkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yiUVUy05pHkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yiUVUy05pHkC&rdid=book-yiUVUy05pHkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.38E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.666E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_do_Pensamento_Positivo-sample-epub.acsm?id=yiUVUy05pHkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_do_Pensamento_Positivo-sample-pdf.acsm?id=yiUVUy05pHkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yiUVUy05pHkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, que é o precursor de O Segredo, o autor Norman Vincent Peale ensina um sistema de vida baseado numa técnica espiritual simples e clara, que pode ser resumida numa única frase: todos poderão levar uma vida feliz e ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tNL96iKQfjkC",
+   "etag": "/8Gi5+W8pZw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tNL96iKQfjkC",
+   "volumeInfo": {
+    "title": "O poder da influência mental",
+    "authors": [
+     "WILLIAM WALKER ATIKINSON"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "description": "As formas de manifestações da Influência Mental são muitas e variadas. Em alguns casos, ela se manifesta sob a forma de um poder exercido por algumas pessoas, que leva a atrair outras até elas. Algumas pessoas são atraídas ou 'seduzidas' por outras que possuem esse poder e suas afeições são mantidas cativas por essa força misteriosa. Fala-se de alguns como 'fascinantes', 'possuidores de poderes da atração', 'com postura vencedora', tendo 'grande magnetismo pessoal', entre outros. Por meio desta obra, o leitor terá condições de desenvolver esse poder e aplicá-lo, com responsabilidade e bom senso, em sua vida pessoal e profissional. O livro traz assuntos como - A Lei da Vibração, Ondas de Pensamento e Indução Mental, Concentração e Visualização Mental, Fascinação e Hipnose, Influência à Distância e em Massa, Magias Negra e Branca e Técnicas de Auto-proteção.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599187821"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8599187821"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tNL96iKQfjkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tNL96iKQfjkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tNL96iKQfjkC&printsec=frontcover&dq=O+poder&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tNL96iKQfjkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tNL96iKQfjkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tNL96iKQfjkC&rdid=book-tNL96iKQfjkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_influ%C3%AAncia_mental-sample-pdf.acsm?id=tNL96iKQfjkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tNL96iKQfjkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As formas de manifestações da Influência Mental são muitas e variadas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xg5xXtXBrBsC",
+   "etag": "06HC+pc8c3I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xg5xXtXBrBsC",
+   "volumeInfo": {
+    "title": "O poder das marcas",
+    "authors": [
+     "José Benedito Pinho"
+    ],
+    "publisher": "Summus Editorial",
+    "publishedDate": "1996",
+    "description": "O acelerado desenvolvimento tecnológico dos produtos industriais permite que muitos fabricantes apresentem ao mercado artigos com as mesmas especificações. Nesse contexto, a imagem da marca assume uma importância vital. O autor se propõe a aprofundar o conhecimento do processo de gestão de marcas, bem como determinar com maior precisão o papel que a publicidade cumpre na construção da imagem da marca.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532305490"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532305497"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+     "Advertising"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xg5xXtXBrBsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xg5xXtXBrBsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xg5xXtXBrBsC&printsec=frontcover&dq=O+poder&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xg5xXtXBrBsC&dq=O+poder&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_poder_das_marcas.html?hl=&id=xg5xXtXBrBsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xg5xXtXBrBsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O acelerado desenvolvimento tecnológico dos produtos industriais permite que muitos fabricantes apresentem ao mercado artigos com as mesmas especificações."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o9ZBhgxsJeUC",
+   "etag": "uoa9QxhWw0g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o9ZBhgxsJeUC",
+   "volumeInfo": {
+    "title": "O poder das circunstâncias",
+    "subtitle": "Entenda como o mundo à nossa volta influencia nossos pensamentos e comportamentos",
+    "authors": [
+     "Sam Sommers"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2012-05-11",
+    "description": "O MUNDO à nossa volta nos manipula e influencia nossos pensamentos e instintos mais viscerais; A nossa personalidade não é tão estável quanto imaginamos e somos mais influenciados por aqueles que nos rodeiam do que gostaríamos; Neste livro, Sam Sommers evidencia que, todos os dias, ignoramos o poder das circunstâncias em nossas vidas e não percebemos que questões tão comuns como onde estamos, com quem estamos ou se estamos com pressa afetam o a nossa forma de pensar e agir; Ele nos mostra que muitas de nossas suposições sobre a natureza humana não estão corretas e descreve as armadilhas que devemos evitar; Além disso, apresenta ideias que nos ajudam a tomar decisões melhores e a observar mais aguçadamente o MUNDO à nossa volta; Através de percepções originais, esta obra revela o quanto as situações exercem influência em nossas atitudes, obrigando-nos a repensar como nos vemos, tornando-nos mais eficazes no trabalho, em casa e no cotidiano; É uma leitura rica e interessante sobre a importância do contexto em nossa vida e sobre o que realmente nos motiva;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535214345"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535214348"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o9ZBhgxsJeUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o9ZBhgxsJeUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=o9ZBhgxsJeUC&printsec=frontcover&dq=O+poder&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=o9ZBhgxsJeUC&dq=O+poder&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_poder_das_circunst%C3%A2ncias.html?hl=&id=o9ZBhgxsJeUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o9ZBhgxsJeUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O MUNDO à nossa volta nos manipula e influencia nossos pensamentos e instintos mais viscerais; A nossa personalidade não é tão estável quanto imaginamos e somos mais influenciados por aqueles que nos rodeiam do que gostaríamos; Neste ..."
+   }
+  }
+ ]
+}

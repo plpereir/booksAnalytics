@@ -1,0 +1,167 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "09NiDwAAQBAJ",
+   "etag": "bbKzJeCvPAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/09NiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Manual de Direito Processual Civil Volume único",
+    "authors": [
+     "Cassio Scarpinella Bueno"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2018-02-01",
+    "description": "Esta obra sistematiza o novo processo civil, fazendo um exame completo de seus institutos à luz do Código de Processo Civil de 2015. Em poucos anos, tornouse leitura de milhares de estudantes de direito, que desde então encontram um livro com conteúdo confiável, escrito por um autor que é referência na área e que sistematiza de forma didática e prática em volume único toda a matéria exigida nas Faculdades de Direito. Dentre os destaques do livro, estão os resumos sintéticos ao final de cada capítulo e um vocabulário da terminologia técnica da disciplina. A 4ª edição segue a evolução na compreensão do Direito Processual Civil, tendo sido inteiramente revista pelo autor, ampliada com a inserção de indicações de leituras complementares e atualizada com a Lei n. 13.466, de 1272017 (que criou preferência especial dos idosos com mais de 80 anos) e a Lei n. 13.465, de 1172017 (que introduziu o direito de laje no Direito Civil, acarretando diversos reflexos processuais). O leitor pode ter a certeza que tem em mãos uma obra que proporciona correta formação em Direito Processual Civil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547231224"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547231226"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=09NiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=09NiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=09NiDwAAQBAJ&printsec=frontcover&dq=Vade+mecum+Saraiva+compacto+-+Brochura+-+17%C2%AA+Ed.+2017&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=09NiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-09NiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 133.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 133.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=09NiDwAAQBAJ&rdid=book-09NiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.33E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.33E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Manual_de_Direito_Processual_Civil_Volum-sample-epub.acsm?id=09NiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=09NiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra sistematiza o novo processo civil, fazendo um exame completo de seus institutos à luz do Código de Processo Civil de 2015."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BkNnDwAAQBAJ",
+   "etag": "C+KG8MPjzSw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BkNnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Passo a passo para elaboração de petições trabalhistas - 5ed",
+    "authors": [
+     "Marco Antonio Redinz"
+    ],
+    "publisher": "Saraiva Educação S.A.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547216566"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547216561"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BkNnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BkNnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BkNnDwAAQBAJ&printsec=frontcover&dq=Vade+mecum+Saraiva+compacto+-+Brochura+-+17%C2%AA+Ed.+2017&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BkNnDwAAQBAJ&dq=Vade+mecum+Saraiva+compacto+-+Brochura+-+17%C2%AA+Ed.+2017&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Passo_a_passo_para_elabora%C3%A7%C3%A3o_de_peti.html?hl=&id=BkNnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Passo_a_passo_para_elabora%C3%A7%C3%A3o_de_peti-sample-epub.acsm?id=BkNnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BkNnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

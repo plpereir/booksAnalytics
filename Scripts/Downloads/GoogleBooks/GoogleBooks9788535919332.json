@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mEJWXwAACAAJ",
+   "etag": "OfcVivnyRh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mEJWXwAACAAJ",
+   "volumeInfo": {
+    "title": "Terramarear",
+    "subtitle": "peripécias de dois turistas culturais",
+    "authors": [
+     "Ruy Castro",
+     "Heloisa Seixas"
+    ],
+    "publishedDate": "2011-01-01",
+    "description": "Quando viajam pelo Brasil ou ao exterior, a passeio ou a trabalho, juntos ou separados, Ruy Castro e Heloisa Seixas procuram o espírito dos lugares. Para isso, antes de partir, leem livros, ouvem músicas e assistem a filmes sobre a região que vão visitar. Chegando lá, traçam roteiros, que compartilham com os leitores em 'Terramarear'. Em vez de lojas de grife ou de cartões-postais, eles vão atrás de história, arquitetura, música, cinema, gastronomia ou da cultura das ruas. O material deste livro cobre um período de mais de três décadas, como a série sobre a Revolução Francesa, enviada de Paris por Ruy em 1989 para um jornal brasileiro, até textos escritos para o livro, como o relato de Heloisa sobre suas aventuras em Moscou.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535919333"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535919332"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "categories": [
+     "Heritage tourism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mEJWXwAACAAJ&dq=isbn:9788535919332&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mEJWXwAACAAJ&dq=isbn:9788535919332&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Terramarear.html?hl=&id=mEJWXwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mEJWXwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O material deste livro cobre um período de mais de três décadas, como a série sobre a Revolução Francesa, enviada de Paris por Ruy em 1989 para um jornal brasileiro, até textos escritos especialmente para Terramarear, como o relato ..."
+   }
+  }
+ ]
+}

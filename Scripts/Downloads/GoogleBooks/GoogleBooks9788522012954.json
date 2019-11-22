@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8P6NZwEACAAJ",
+   "etag": "/5zUCnCmwf8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8P6NZwEACAAJ",
+   "volumeInfo": {
+    "title": "Jose Simao Em - A Esculhambaçao Geral Da Republica",
+    "authors": [
+     "Jose Simao"
+    ],
+    "description": "Zé Simão mostra o lado engraçado do cotidiano do povo brasileiro neste livro. A obra reúne mais de quinhentas piadas e análises dos mais diversos assuntos como celebridades, política e futebol.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522012954"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522012954"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8P6NZwEACAAJ&dq=isbn:9788522012954&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=8P6NZwEACAAJ&dq=isbn:9788522012954&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jose_Simao_Em_A_Esculhamba%C3%A7ao_Geral_Da.html?hl=&id=8P6NZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8P6NZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Zé Simão mostra o lado engraçado do cotidiano do povo brasileiro neste livro. A obra reúne mais de quinhentas piadas e análises dos mais diversos assuntos como celebridades, política e futebol."
+   }
+  }
+ ]
+}

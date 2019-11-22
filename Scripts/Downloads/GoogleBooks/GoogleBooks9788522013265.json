@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BffyugAACAAJ",
+   "etag": "17W9WW2Brlk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BffyugAACAAJ",
+   "volumeInfo": {
+    "title": "O poder dos quietos",
+    "authors": [
+     "Susan Cain",
+     "Ana Carolina Bento Ribeiro"
+    ],
+    "publishedDate": "2012",
+    "description": "Com argumentos que buscam ser cativantes, uma extensa pesquisa e repleto de histórias reais, 'O poder dos quietos' mostra como os tímidos e introvertidos são subvalorizados, e como pode-se perder com isso. Partindo da ascensão do Ideal da Extroversão no século XX, Susan Cain questiona os valores dominantes no mundo empresarial moderno, no qual a colaboração forçada pode bloquear o caminho da inovação e no qual o potencial de liderança dos introvertidos é frequentemente negligenciado. A autora apresenta histórias de introvertidos de sucesso e procura oferecer conselhos sobre como os tímidos podem tirar vantagem das suas características.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522013268"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522013265"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 334,
+    "printType": "BOOK",
+    "categories": [
+     "Extraversion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BffyugAACAAJ&dq=isbn:9788522013265&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BffyugAACAAJ&dq=isbn:9788522013265&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_poder_dos_quietos.html?hl=&id=BffyugAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BffyugAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com argumentos que buscam ser cativantes, uma extensa pesquisa e repleto de histórias reais, &#39;O poder dos quietos&#39; mostra como os tímidos e introvertidos são subvalorizados, e como pode-se perder com isso."
+   }
+  }
+ ]
+}

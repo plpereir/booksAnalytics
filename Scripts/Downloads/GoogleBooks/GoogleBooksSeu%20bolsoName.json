@@ -1,0 +1,854 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 397,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WGVADwAAQBAJ",
+   "etag": "z1H5pP4qYaw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WGVADwAAQBAJ",
+   "volumeInfo": {
+    "title": "Educando seu bolso",
+    "authors": [
+     "Daniel Meinberg",
+     "Ewerton Veloso",
+     "Frederico Torres",
+     "Leandro Novais",
+     "Lívia Senna"
+    ],
+    "publisher": "Gutenberg",
+    "publishedDate": "2017-11-28",
+    "description": "Educando seu bolso traz a experiência de profissionais com décadas de estrada em finanças e em educação. Ao todo, são 48 textos em linguagem descontraída, que percorrem os diversos caminhos da educação financeira e convidam o leitor a cuidar melhor de si e do próprio dinheiro Neste livro, além de textos para refletir e saborear, você vai encontrar: regras de bolso – porque certas coisas possuem o jeito certo de fazer; pais ensinando e aprendendo com os filhos; dicas que te ajudam a descobrir para onde vai o seu dinheiro; aluno dando aula para a professora; caso de um economista, mestre em finanças, com mais de vinte anos de mercado, aprendendo sobre dívidas com o taxista; orientações para você cuidar bem do seu futuro e muito mais... E você NÃO encontrará: fórmulas, gráficos, tabelas, economês e matemática financeira. Chega de acreditar em fórmulas mágicas que prometem soluções rápidas. Seja o gerente da sua própria vida! Mostraremos que o dinheiro deve ser sempre a solução, nunca o problema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582354971"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582354975"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WGVADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WGVADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WGVADwAAQBAJ&printsec=frontcover&dq=Seu+bolso&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WGVADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WGVADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.1,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WGVADwAAQBAJ&rdid=book-WGVADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.71E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Educando_seu_bolso-sample-epub.acsm?id=WGVADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Educando_seu_bolso-sample-pdf.acsm?id=WGVADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WGVADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Educando seu bolso traz a experiência de profissionais com décadas de estrada em finanças e em educação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "212i7bJiq34C",
+   "etag": "opPrep1kLEg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/212i7bJiq34C",
+   "volumeInfo": {
+    "title": "Salve seu bolso",
+    "publisher": "Editora Peirópolis",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585663340"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585663346"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 241,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=212i7bJiq34C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=212i7bJiq34C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=212i7bJiq34C&pg=PA12&dq=Seu+bolso&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=212i7bJiq34C&dq=Seu+bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Salve_seu_bolso.html?hl=&id=212i7bJiq34C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=212i7bJiq34C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vê-se, portanto, que aos consumidores não basta lutar para evitar ou reparar os \u003cbr\u003e\nmales ao bolso, à saúde e à sua dignidade. Também ... Comprar quando se está \u003cbr\u003e\ntriste, com pressa ou com raiva também acaba afetando o \u003cb\u003eseu bolso\u003c/b\u003e? Outras&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PCQelSKVB5oC",
+   "etag": "cDADnjjnoDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PCQelSKVB5oC",
+   "volumeInfo": {
+    "title": "Economize sempre oplaneta agradece e seu bolso tambem.",
+    "authors": [
+     "ISALVA ACCIOLY"
+    ],
+    "publisher": "Mescla Editorial",
+    "description": "A autora, Isalva Accioly, trata da questão da sobrevivência do Planeta e aproveita os itens do orçamento doméstico como gancho para discorrer sobre vários assuntos, tais como - preservação do meio ambiente; reciclagem de lixo; economia de energia elétrica, água, gás e telefone; taxas e impostos; planos de saúde; vestuário, higiene, beleza; alimentação; transporte; a importância da água para a sobrevivência da humanidade; consciência dos direitos do consumidor, incluindo ampla listagem dos órgãos ou entidades competentes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8588641011"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588641013"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PCQelSKVB5oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PCQelSKVB5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PCQelSKVB5oC&pg=PA25&dq=Seu+bolso&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PCQelSKVB5oC&dq=Seu+bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Economize_sempre_oplaneta_agradece_e_seu.html?hl=&id=PCQelSKVB5oC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PCQelSKVB5oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Assim nasceu em 1997 Economize Sempre — O Planeta Agradece e \u003cb\u003eSeu Bolso\u003c/b\u003e \u003cbr\u003e\nTambém, concluído este ano. O objetivo deste livro é levar mais informações ao \u003cbr\u003e\nmaior número de pessoas, que jamais seria atingido somente com os cursos,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HZh0BQAAQBAJ",
+   "etag": "M2B9Ff7Yp8g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HZh0BQAAQBAJ",
+   "volumeInfo": {
+    "title": "SEU BOLSO",
+    "authors": [
+     "Dony De Nuccio - Samy Dana"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-11-01",
+    "description": "Para as perguntas mais importantes de quem precisa organizar a vida financeira, Dony De Nuccio e Samy Dana têm as respostas mais úteis e necessárias. Dando atenção à economia real, que afeta diretamente o cotidiano da população, eles explicam em Seu bolso os melhores métodos para evitar as armadilhas da dívida e para montar um orçamento doméstico inteligente, rumo a uma vida melhor e um futuro mais tranquilo. É melhor comprar ou alugar um imóvel? Consórcio ou financiamento? Carro novo ou usado? Como conseguir o melhor plano de telefonia? Como planejar adequadamente uma viagem? Como transformar o cartão de crédito de vilão em aliado? Deixando de lado os clichês dos guias financeiros, os autores usam toda a experiência adquirida no contato com a audiência do programa para abordar de maneira prática algumas das questões que mais afligem o brasileiro na hora de pensar sobre dinheiro. Dony De Nuccio é bacharel em Jornalismo pela USP e mestre em Economia pela Fundação Getúlio Vargas (FGV), e apresenta desde 2013 o programa Conta Corrente, do canal GloboNews. Antes de entrar para a televisão, trabalhou cinco anos como investidor do mercado de ações no banco Citibank. Samy Dana tem Ph.D em Business, doutorado em Administração e mestrado em Economia. É professor de Economia da FGV e criador e coordenador do Núcleo de Cultura, Criatividade e Comportamento – GVcult.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577345212"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577345211"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.22.21.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HZh0BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HZh0BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HZh0BQAAQBAJ&printsec=frontcover&dq=Seu+bolso&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HZh0BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HZh0BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 10.7,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HZh0BQAAQBAJ&rdid=book-HZh0BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.699E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.07E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/SEU_BOLSO-sample-epub.acsm?id=HZh0BQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HZh0BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dando atenção à economia real, que afeta diretamente o cotidiano da população, eles explicam em Seu bolso os melhores métodos para evitar as armadilhas da dívida e para montar um orçamento doméstico inteligente, rumo a uma vida ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-7V5DwAAQBAJ",
+   "etag": "3RlvWtRnmq4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-7V5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte De Proteger VocÊ E O Seu Bolso",
+    "authors": [
+     "Www.Vemm.Com.Br"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Se você é uma das pessoas que sofre no fim do mês com o pouco que sobra do salário, com certeza precisa aprender a proteger o seu bolso. Essa pode não ser uma tarefa fácil e, se fosse, não estaria lendo esse e-book, mas sim mergulhado em uma piscina de dinheiro ou curtindo uma viagem para algum lugar paradisíaco, observando o pôr do sol rodeado por muito luxo. Mas, vamos voltar à realidade: precisamos trabalhar e tentar pagar as contas e, para que isso aconteça, é preciso se organizar. Veja algumas dicas de como fazer isso e ainda conseguir se divertir sem precisar ficar contando todas as suas moedinhas.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU31502"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-7V5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-7V5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-7V5DwAAQBAJ&pg=PA6&dq=Seu+bolso&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-7V5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--7V5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-7V5DwAAQBAJ&rdid=book--7V5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_De_Proteger_Voc%C3%8A_E_O_Seu_Bolso-sample-pdf.acsm?id=-7V5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-7V5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pegue um que caiba no \u003cb\u003eseu bolso\u003c/b\u003e. Se a empresa tem um celular corporativo, \u003cbr\u003e\nótimo, não vai precisar gastar do \u003cb\u003eseu bolso\u003c/b\u003e com as ligações do trabalho, mas \u003cbr\u003e\nnão exagere porque o chefe pode descontar do seu salário o que não for \u003cbr\u003e\nprofissional."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "woL2DQAAQBAJ",
+   "etag": "7OxHdsTkEj4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/woL2DQAAQBAJ",
+   "volumeInfo": {
+    "title": "Mentalidade",
+    "subtitle": "Blinde a sua mente para encher o seu bolso",
+    "authors": [
+     "Pablo Paucar"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2017-02-06",
+    "description": "\"Ao longo dos últimos 20 anos como empresário, tendo altos e baixos, a maior lição que eu aprendi foi a de que o sucesso é um jogo mental, ou seja, a maneira como você pensa define sua qualidade de vida. O Pablo Paucar é uma das pessoas que mais entendem de mentalidade para o sucesso e, se você ler esse livro com muita atenção e aplicar tudo que está escrito aqui, mudará a sua vida para muito melhor apenas usando aquilo que ela já tem. Mudando apenas uma única coisa: sua mentalidade.\" Conrado Adolpho Empresário na indústria de Internet Marketing e autor do best-seller Os 8Ps do marketing digital Existe aquele tipo de pessoa que trabalha por 40 anos no mesmo ritmo frenético, deixa amigos e família de lado. No final, alguns não conseguem sequer retirar riqueza dessa rotina e, os que conseguem, acabam perdendo a essência da própria alma no caminho. Há também as pessoas que desistem diante de qualquer dificuldade. Falta persistência, motivação, foco. Ou, talvez, pessoas que trabalham visando somente riqueza, e nada mais. Do que adianta tudo isso? O fato é que não importa se trabalhamos muito ou pouco. O que precisamos entender é que o sucesso não é uma casualidade e que ser rico está muito além de dígitos em uma conta bancária. Neste livro, Pablo Paucar convida o leitor a mergulhar em uma jornada de autoconhecimento, venha com ele e descubra: - As armadilhas que cercam o mindset do sucesso; - Exercícios e desafios que vão motivá-lo a alcançar cada etapa do seu crescimento; - Que você pode mudar sua vida hoje se tiver as ferramentas corretas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545201410"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545201419"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=woL2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=woL2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=woL2DQAAQBAJ&printsec=frontcover&dq=Seu+bolso&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=woL2DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-woL2DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=woL2DQAAQBAJ&rdid=book-woL2DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.395E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mentalidade-sample-epub.acsm?id=woL2DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mentalidade-sample-pdf.acsm?id=woL2DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=woL2DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Pablo Paucar é uma das pessoas que mais entendem de mentalidade para o sucesso e, se você ler esse livro com muita atenção e aplicar tudo que está escrito aqui, mudará a sua vida para muito melhor apenas usando aquilo que ela já ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ohJaDwAAQBAJ",
+   "etag": "ZKsLmoF/tRE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ohJaDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Me Poupe!",
+    "subtitle": "10 passos para nunca mais faltar dinheiro no seu bolso",
+    "authors": [
+     "Nathalia Arcuri"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2018-05-18",
+    "description": "Como economizar no dia a dia? Como poupar mesmo ganhando pouco? Quais são os melhores (e os piores) investimentos? Como poupar para o futuro sem abrir mão dos desejos e necessidades do presente?Sei que você tem muitas dúvidas sobre o que fazer com o seu dinheiro. Sei também que muita gente simplesmente não faz nada com ele – a não ser pagar contas e juntar moedinhas para chegar até o fim do mês.É por isso que estou aqui.Sempre fui uma poupadora compulsiva. Desde cedo compreendi que precisaria juntar dinheiro para realizar meus sonhos. Aos 7 anos comecei a poupar para comprar um carro quando fizesse 18. Com 23 comprei meu primeiro apartamento à vista. Aos 30 pedi demissão do meu emprego de repórter de TV e montei o canal Me Poupe!, no YouTube. Aos 32 me tornei milionária.Hoje o Me Poupe! tem mais de 2 milhões de inscritos e é visto por mais de 8 milhões de pessoas por mês, sendo pioneiro na criação do conceito de entretenimento financeiro ao falar de dinheiro com leveza e bom humor. Tenho orgulho de dizer que, aos 35 anos, estou perto de conquistar minha independência financeira.Vou contar para você como cheguei até aqui, as roubadas em que me meti, as dúvidas que tive e tudo o que aprendi ao longo desses anos. Mas este livro não é sobre mim. É sobre você, o seu dinheiro e a maneira como vem lidando com ele até agora.Eu resolvi escrevê-lo para passar uma mensagem curta e grossa: você pode sair do buraco, não importa qual o tamanho dele.Para ajudar nesse processo, reuni exemplos práticos, situações reais, planilhas e exercícios, e organizei tudo isso em 10 passos simples para nunca mais faltar dinheiro no seu bolso.A partir dessas dicas, você vai aprender a dar um basta nos hábitos que sabotam sua saúde financeira, a identificar as crenças que impedem seu enriquecimento e a encontrar modalidades de investimento que caibam na sua realidade. E o melhor: vai descobrir um mundo maravilhoso em que o dinheiro trabalha para você, e não você para ele.Mas talvez a minha dica mais importante seja: poupar não é só acumular um monte de dinheiro. Poupar tem a ver com realizar sonhos. É necessário ter foco, estabelecer prioridades e até abrir mão de uma ou outra coisa em nome de um objetivo maior.Eu poupo desde criança porque tenho metas e propósitos. E essas metas e propósitos têm a ver com pessoas e com experiências, porque, afinal, viver não é correr atrás de grana. A vida vale pelas experiências que o dinheiro nos proporciona, pelos encontros que temos pelo caminho e pela alegria de estarmos vivos todos os dias.Nathalia Arcuri \"Os fãs do canal Me Poupe! não vão se decepcionar. Nathalia Arcuri venceu o desafio de levar para o papel a linguagem que se tornou sua marca registrada, o que deve fidelizar multidões e reforçar o propósito de seu trabalho. Você tem em mãos um instrumento de transformação. Leia-o com sabedoria e coloque em prática o que encontrar aqui. Sua vida será outra, certamente mais rica, depois desta leitura.\" – Gustavo Cerbasi",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543105826"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "854310582X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ohJaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ohJaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ohJaDwAAQBAJ&printsec=frontcover&dq=Seu+bolso&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ohJaDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ohJaDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ohJaDwAAQBAJ&rdid=book-ohJaDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Me_Poupe-sample-epub.acsm?id=ohJaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Me_Poupe-sample-pdf.acsm?id=ohJaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ohJaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A vida vale pelas experiências que o dinheiro nos proporciona, pelos encontros que temos pelo caminho e pela alegria de estarmos vivos todos os dias. Nathalia Arcuri &quot;Os fãs do canal Me Poupe! não vão se decepcionar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "604A5CbMLwEC",
+   "etag": "0eJEUW4dZeQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/604A5CbMLwEC",
+   "volumeInfo": {
+    "title": "A Dieta do Bolso",
+    "authors": [
+     "Bussinger,eliana"
+    ],
+    "publisher": "Elsevier Brasil",
+    "description": "Você poderá compreender, de uma maneira surpreendentemente simples, como as duas saúdes – do bolso e do corpo – possuem semelhanças incríveis. E aprenderá como é possível conseguir o equilíbrio entre as duas saúdes utilizando-se das comparações, das dicas e das imagens que a autora utiliza em seu livro para demonstrar como as dietas alimentares e financeiras são coincidentes. Utilizando-se largamente de pirâmides - e divertidos exemplos de sua própria experiência - Eliana nos conduz, com leveza e humor, por dois terrenos que costumamos considerar árduos. Com isso prova que é possível aprender (e ensinar) sobre finanças de uma maneira original e divertida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535240382"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535240381"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=604A5CbMLwEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=604A5CbMLwEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=604A5CbMLwEC&dq=Seu+bolso&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=604A5CbMLwEC&dq=Seu+bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Dieta_do_Bolso.html?hl=&id=604A5CbMLwEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=604A5CbMLwEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Você poderá compreender, de uma maneira surpreendentemente simples, como as duas saúdes – do bolso e do corpo – possuem semelhanças incríveis; E aprenderá como é possível conseguir o equilíbrio entre as duas saúdes utilizando ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mDhfvgAACAAJ",
+   "etag": "tdIA3TetrJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mDhfvgAACAAJ",
+   "volumeInfo": {
+    "title": "SEU BOLSO EM TERAPIA",
+    "authors": [
+     "ALESSANDRO ZAHOTEI"
+    ],
+    "description": "O objetivo desta obra é colocar o leitor em contato com o próprio bolso. Fazendo com que a sua relação com o bolso não seja influenciada pela falta de dialogo que tanto atrapalha as nossas relações pessoais nos dias de hoje. É importante que este dialogo seja aberto e transparente, para isso precisa quebrar paradigmas e principalmente ter consciência de suas escolhas financeiras, como a utilização de cartão de crédito, cheque especial, crédito especial etc. Lembrar de que controlar gastos não é ser \"pão duro\", é ser consciente de que o dinheiro não é brinquedo e que precisa ser muito bem tratado.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8583810788"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788583810780"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 84,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mDhfvgAACAAJ&dq=Seu+bolso&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mDhfvgAACAAJ&dq=Seu+bolso&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/SEU_BOLSO_EM_TERAPIA.html?hl=&id=mDhfvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mDhfvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O objetivo desta obra é colocar o leitor em contato com o próprio bolso."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y5G3aOtn30MC",
+   "etag": "iRYZvbdscj8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y5G3aOtn30MC",
+   "volumeInfo": {
+    "title": "Olha Quem Está Poupando",
+    "subtitle": "O Livro Essencial que Prepara seu Bolso para a Chegada do Bebê",
+    "authors": [
+     "Maria Delmas"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2012-11-01",
+    "description": "Olha Quem Está Poupando",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535258141"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535258140"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.7.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=y5G3aOtn30MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=y5G3aOtn30MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=y5G3aOtn30MC&printsec=frontcover&dq=Seu+bolso&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=y5G3aOtn30MC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-y5G3aOtn30MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=y5G3aOtn30MC&rdid=book-y5G3aOtn30MC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.912E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.912E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Olha_Quem_Est%C3%A1_Poupando-sample-epub.acsm?id=y5G3aOtn30MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y5G3aOtn30MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Olha Quem Está Poupando"
+   }
+  }
+ ]
+}

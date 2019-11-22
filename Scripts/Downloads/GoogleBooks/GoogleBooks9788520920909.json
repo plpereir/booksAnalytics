@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "r-RCPwAACAAJ",
+   "etag": "uh7dB54WDys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r-RCPwAACAAJ",
+   "volumeInfo": {
+    "title": "O homem e seus símbolos",
+    "authors": [
+     "Carl Gustav Jung",
+     "Maria Lúcia Pinho"
+    ],
+    "publishedDate": "2008",
+    "description": "Inspirado em um sonho do autor e concluído apenas dez dias antes de sua morte, 'O homem e seus símbolos' constitui uma tentativa de expor os princípios fundamentais da psicologia analítica jungiana para o leitor, sem qualquer obrigatoriedade de conhecimento especializado. Jung reuniu nesta obra artigos que tratam dos mais diferentes assuntos - dos sonhos e das artes plásticas até o relacionamento pessoal e a estrutura da personalidade humana. As páginas ilustradas desta edição revisada - com mais de quinhentas imagens - ajudam na compreensão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852092090X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520920909"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 419,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r-RCPwAACAAJ&dq=isbn:9788520920909&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=r-RCPwAACAAJ&dq=isbn:9788520920909&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_homem_e_seus_s%C3%ADmbolos.html?hl=&id=r-RCPwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r-RCPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inspirado em um sonho do autor e concluído apenas dez dias antes de sua morte, &#39;O homem e seus símbolos&#39; constitui uma tentativa de expor os princípios fundamentais da psicologia analítica jungiana para o leitor, sem qualquer ..."
+   }
+  }
+ ]
+}

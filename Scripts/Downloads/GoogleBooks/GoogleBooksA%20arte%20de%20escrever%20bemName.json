@@ -1,0 +1,898 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 271,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "w0ZdAwAAQBAJ",
+   "etag": "cCFYiDxNVrg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w0ZdAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte de escrever bem",
+    "subtitle": "um guia para jornalistas e profissionais do texto",
+    "authors": [
+     "Dad Squarisi",
+     "Arlete Salvador"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2008-10-02",
+    "description": "Escrever é fundamental. Afinal, quem, nos dias de hoje, não precisa mandar mensagens pelo correio eletrônico, escrever relatórios, fazer vestibular, ou produzir uma matéria jornalística? Este livro, inicialmente destinado a jornalistas e profissionais do texto, é o mais claro e bem humorado que qualquer um que precise escrever bem pode obter. Donas de texto impecável, agradável e atual, Dad Squarisi e Arlete Salvador mostram como é possível redigir de modo adequado e elegante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572444996"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8572444998"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w0ZdAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w0ZdAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=w0ZdAwAAQBAJ&printsec=frontcover&dq=A+arte+de+escrever+bem&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=w0ZdAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-w0ZdAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.28,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=w0ZdAwAAQBAJ&rdid=book-w0ZdAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.128E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_escrever_bem-sample-epub.acsm?id=w0ZdAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_escrever_bem-sample-pdf.acsm?id=w0ZdAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w0ZdAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Donas de texto impecável, agradável e atual, Dad Squarisi e Arlete Salvador mostram como é possível redigir de modo adequado e elegante."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OjM5DwAAQBAJ",
+   "etag": "PGbur6PQpzQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OjM5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte de Escrever para a Web",
+    "authors": [
+     "Paulo Maccedo"
+    ],
+    "publisher": "DVS Editora",
+    "publishedDate": "2017-10-10",
+    "description": "Vender não se resume em divulgar. Não é \"quanto mais se divulga, mais se vende\". O controle não é seu, é do público, é do cliente. Aliás, não é por você que o consumidor pensa em comprar, é por ele mesmo. Foi-se o tempo em que bastava você falar sobre o seu trabalho, seu negócio, seus serviços etc. Aquele tempo em que apenas o investimento nos melhores canais de publicidade trazia o resultado esperado. Esse jogo tradicional, intrusivo, que aparenta um tipo de \"controle\" sobre o que as pessoas irão consumir, no fundo, é apenas uma comunicação sem permissão que \"invade\" o espaço do consumidor em potencial. Você acha mesmo que o público, no momento em que está assistindo a um vídeo, por exemplo, fica lá esperando para aparecer uma propaganda sua? Não, ele não está interessado no que você tem a dizer ou vender. Pode ser duro ler isso, mas é a verdade. Então, se você quer que ele se interesse pelas suas ideias, serviços e produtos, ou o que quer que você venda, é melhor começar a investir em criação de conteúdo. Se você quer apenas \"ser visto\", pode continuar investindo apenas em mídia tradicional, com os folhetinhos, propaganda e anúncios sobre o quanto o seu trabalho é espetacular. Você será visto por muitas pessoas em pouquíssimo tempo. Esse é um jogo válido, mas se você quer construir um relacionamento, de maneira que as pessoas comprem e depois sintam o prazer de promover sua marca e seus produtos, a criação de conteúdo precisa entrar em cena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582891575"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582891571"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OjM5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OjM5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OjM5DwAAQBAJ&pg=PT15&dq=A+arte+de+escrever+bem&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OjM5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OjM5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OjM5DwAAQBAJ&rdid=book-OjM5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_Escrever_para_a_Web-sample-epub.acsm?id=OjM5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_Escrever_para_a_Web-sample-pdf.acsm?id=OjM5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OjM5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Introdução Quem eu sou e quem eu quero que você seja “Aprenda \u003cb\u003ea escrever\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ebem\u003c/b\u003e. Com o avanço \u003cb\u003eda\u003c/b\u003e internet, \u003cb\u003ea\u003c/b\u003e necessidade de produção de conteúdo on-line \u003cbr\u003e\n[sic] cresce todos os dias. Logo, quem souber \u003cb\u003eescrever bem\u003c/b\u003e encontrará várias&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H2GA1nB_RlUC",
+   "etag": "zAG5ibuAN8E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H2GA1nB_RlUC",
+   "volumeInfo": {
+    "title": "A Arte de Escrever",
+    "authors": [
+     "Arthur Schopenhauer"
+    ],
+    "publisher": "L&PM",
+    "publishedDate": "2005-12-26",
+    "description": "Arthur Schopenhauer foi o responsável por introduzir o budismo à metafísica alemã. Foi além do idealismo kantiano e tinha em Hegel seu principal opositor. Suas obras mais importantes são O mundo como vontade e representação (1819) e Parerga e Paralipomena (1851). Nesta antologia de ensaios recolhidos de Parerga e Paralipomena, o leitor vai encontrar textos que trazem as mais ferinas, entusiasmadas e cômicas reflexões acerca do ofício do próprio Schopenhauer, isto é, o ato de pensar, a escrita, a leitura, a avaliação de obras de outras pessoas, o mundo erudito como um todo. São eles: “Sobre a erudição e os eruditos”, “Pensar por si mesmo”, “Sobre a escrita e o estilo”, “Sobre a leitura e os livros” e “Sobre a linguagem e as palavras”. Embora redigidos na primeira metade do século 19, estes ensaios, ao tratar sobre o mundo das letras, os vícios do pensamento humano, as armadilhas da escrita e da crítica, continuam válidos – hoje talvez mais do que nunca. E, marca personalíssima do autor, são modernos, pulsantes de vida, de inteligência e humor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525409829"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525409820"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.29.30.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H2GA1nB_RlUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H2GA1nB_RlUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H2GA1nB_RlUC&printsec=frontcover&dq=A+arte+de+escrever+bem&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H2GA1nB_RlUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H2GA1nB_RlUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H2GA1nB_RlUC&rdid=book-H2GA1nB_RlUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.13E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_Escrever-sample-epub.acsm?id=H2GA1nB_RlUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_Escrever-sample-pdf.acsm?id=H2GA1nB_RlUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H2GA1nB_RlUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Arthur Schopenhauer foi o responsável por introduzir o budismo à metafísica alemã."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V8l5DwAAQBAJ",
+   "etag": "YkjYeswIj8c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V8l5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "As Técnicas Da Arte De Escrever",
+    "authors": [
+     "Dr. João Domingos Soares De Oliveira"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O nosso desafio é treinar a você para ser um escritor de sucesso. São apenas 10 passos. Primeiro, vamos familiarizar-te com as principais divisões da GRAMÁTICA. Somente assim, poderás dominar tanto a FONOLOGIA, como a MORFOLOGIA e a SINTAXE. E antes de prosseguirmos, nós o outorgaremos os segredos da CRASE. Nesse nível, vamos TEXTUALIZAR passo-a-passo. Depois, treinaremos as TÉCNICAS PARA UMA BOA REDAÇÃO. Em seguida, faremos três REDAÇÕES, propriamente dita, de 10 pontos. Somente assim, cultivar-me-ei a tua CRIATIVIDADE. E para concluir, terás toda uma disciplina sobre CRIATIVIDADE.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU34326"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V8l5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V8l5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=V8l5DwAAQBAJ&pg=PA69&dq=A+arte+de+escrever+bem&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=V8l5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-V8l5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=V8l5DwAAQBAJ&rdid=book-V8l5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_T%C3%A9cnicas_Da_Arte_De_Escrever-sample-pdf.acsm?id=V8l5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V8l5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A ambiguidade lexical é quando uma determinada palavra assume dois ou mais \u003cbr\u003e\nsignificados, como acontece com a ... disso, a falsa ideia de que “escreve \u003cb\u003ebem\u003c/b\u003e \u003cbr\u003e\nquem 69 As Técnicas \u003cb\u003eda Arte de Escrever\u003c/b\u003e – Dr. JoãoDomingos Soares de \u003cbr\u003e\nOliveira."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-iuuCQAAQBAJ",
+   "etag": "bpa5z3MV/l4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-iuuCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Da arte de falar mal",
+    "authors": [
+     "Carlos Heitor Cony"
+    ],
+    "publisher": "Nova Fronteira",
+    "publishedDate": "2015-05-27",
+    "description": "EXCLUSIVO EM EBOOK! Sobre Carlos Heitor Cony: Estreou na literatura ganhando por duas vezes consecutivas o Prêmio Manuel Antônio de Almeida. Ganhou em quatro ocasiões o Prêmio Jabuti na categoria Romance, duas vezes o Prêmio Livro do Ano da Câmara Brasileira do Livro e o Prêmio Nacional Nestlé de Literatura. Em 1998, foi condecorado pelo governo francês com a L’Ordre des Arts et des Lettres. Foi eleito para a Academia Brasileira de Letras em março de 2000. No século XX, Carlos Heitor Cony deu à arte de falar mal não só uma coluna célebre, publicada no Correio da Manhã, mas também um novo estatuto, calcado na irreverência completa, na riqueza de alvos e, sobretudo, na qualidade viciante do texto. Com seu domínio pleno da língua, usado a favor de uma fina ironia, Cony consegue aqui prender os leitores, que celebram com prazer o cativeiro. Em Da arte de falar mal, o escritor reúne cinquenta crônicas publicadas de 1961 a 1963 na coluna de mesmo nome. Nela, o escritor “não chegava a falar mal de ninguém, mas, genericamente, de tudo”, segundo ele próprio. Nada escapa, e sua inteligência resulta num texto que consegue ser ao mesmo tempo divertido, mal-humorado, sagaz e atemporal. O livro já passou dos cinquenta anos, mas a arte de falar mal e a arte de escrever bem – esta com certeza dominada pelo nosso mestre Cony – não envelhecem nem saem de moda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520940662"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8520940668"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.24.23.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-iuuCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-iuuCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-iuuCQAAQBAJ&printsec=frontcover&dq=A+arte+de+escrever+bem&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-iuuCQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--iuuCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.14,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-iuuCQAAQBAJ&rdid=book--iuuCQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.699E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.614E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Da_arte_de_falar_mal-sample-epub.acsm?id=-iuuCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Da_arte_de_falar_mal-sample-pdf.acsm?id=-iuuCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-iuuCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EXCLUSIVO EM EBOOK!Sobre Carlos Heitor Cony: Estreou na literatura ganhando por duas vezes consecutivas o Prêmio Manuel Antônio de Almeida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ef80DgAAQBAJ",
+   "etag": "moQsE6JNJCA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ef80DgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte de escrever com arte",
+    "authors": [
+     "Ronald Claver"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2017-02-24",
+    "description": "Para o dicionário Houaiss, o significado de palavra é, entre outros: capacidade de exprimir ideias por meio de sons articulados e conjunto coerente de ideias fundamentais a serem transmitidas, ensinadas. Ao ler A arte de escrever com arte, o leitor vai poder enxergar as infinitas possibilidades que as letras, as palavras e as frases podem abrigar e ver que a definição de \"palavra” vai muito além do que possamos imaginar. Essa publicação se constitui como um hipertexto. Uma \"coisa” leva a outra \"coisa” e a leitura parece não ter hora para acabar. E se ao leitor parecer que o livro é \"meio maluco” é um bom sinal. Pois, a proposta é inventar, brincar com as palavras. E para isso não tem limite de idade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582178867"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582178867"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ef80DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ef80DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ef80DgAAQBAJ&printsec=frontcover&dq=A+arte+de+escrever+bem&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ef80DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ef80DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ef80DgAAQBAJ&rdid=book-ef80DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_escrever_com_arte-sample-epub.acsm?id=ef80DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_escrever_com_arte-sample-pdf.acsm?id=ef80DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ef80DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao ler A arte de escrever com arte, o leitor vai poder enxergar as infinitas possibilidades que as letras, as palavras e as frases podem abrigar e ver que a definição de &quot;palavra&quot; vai muito além do que possamos imaginar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZMSOPgAACAAJ",
+   "etag": "TFrG5jXWV+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZMSOPgAACAAJ",
+   "volumeInfo": {
+    "title": "A ARTE DE ESCREVER COM ARTE",
+    "authors": [
+     "JOSE CARLOS LEAL"
+    ],
+    "description": "Com o intuito de orientar tanto aqueles que têm talento para escrever quanto os que não foram agraciados por essa dádiva, 'A arte de escrever com arte' é um livro que trabalha a escrita como o ourives trabalha uma jóia. O estudo burila o talento e o ajuda a desabrochar e a se desenvolver, formando um bom escritor. É este o objetivo principal do livro - melhorar a escrita dos concursandos para que a comunicação seja efetivada com sucesso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535221727"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535221725"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZMSOPgAACAAJ&dq=A+arte+de+escrever+bem&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZMSOPgAACAAJ&dq=A+arte+de+escrever+bem&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_ARTE_DE_ESCREVER_COM_ARTE.html?hl=&id=ZMSOPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZMSOPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com o intuito de orientar tanto aqueles que têm talento para escrever quanto os que não foram agraciados por essa dádiva, &#39;A arte de escrever com arte&#39; é um livro que trabalha a escrita como o ourives trabalha uma jóia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gMlnAwAAQBAJ",
+   "etag": "kw7lXBb6uJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gMlnAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A arte de entrevistar bem",
+    "authors": [
+     "Thaís Oyama"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2012-12-05",
+    "description": "Este livro descreve os encantos e conta os segredos para escapar das ciladas daquilo que é a base da reportagem e, na opinião de muitos, seu momento mais prazeroso: a entrevista. Estudantes e até mesmo experientes profissionais do ramo muitas vezes deparam-se com situações complicadas. Como quebrar o gelo? Gravar ou não gravar? Como lidar com entrevistados difíceis? Guia abrangente, a obra aponta os erros mais comuns e indica truques infalíveis sobre o que fazer para não transformar a entrevista em um desastre, mesmo em situações imprevisíveis. Além disso, Thaís Oyama relata a experiência de 11 talentosos jornalistas para mostrar que, mais do que aprendizado teórico, a arte de entrevistar se aperfeiçoa com o exercício permanente da profissão.\ufeff",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572444989"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857244498X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gMlnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gMlnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gMlnAwAAQBAJ&pg=PT2&dq=A+arte+de+escrever+bem&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gMlnAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gMlnAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gMlnAwAAQBAJ&rdid=book-gMlnAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_arte_de_entrevistar_bem-sample-epub.acsm?id=gMlnAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_arte_de_entrevistar_bem-sample-pdf.acsm?id=gMlnAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gMlnAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "COLEÇÃO COMUNICAÇÃO Coordenação Luciana Pinsky \u003cb\u003eA arte de escrever\u003c/b\u003e \u003cbr\u003e\nbemDad Squarisi e Arlete Salvador A arte de entrevistar \u003cb\u003ebem\u003c/b\u003e Thaís Oyama A \u003cbr\u003e\narte de fazer um jornal diário Ricardo Noblat A mídia e seus truques Nilton&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DdRnAwAAQBAJ",
+   "etag": "vPyNt5sHbqo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DdRnAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte de fazer um jornal diário",
+    "authors": [
+     "Ricardo Noblat"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2006-11-02",
+    "description": "Este livro é uma tribuna na qual Ricardo Noblat faz uma defesa empenhada do jornalismo responsável e realmente informativo. A leitura de A ARTE DE FAZER UM JORNAL DIÁRIO é tão indispensável quanto a dos cadernos de política ou de atualidades, e tão prazerosa quanto a da seção de quadrinhos dos jornais. Verdadeira aula para jornalistas e aspirantes a jornalistas, este texto preciso, leve e bem-humorado é recomendado tanto para estudantes de Comunicação quanto para os demais leitores que buscam livros bem concebidos e instigantes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572445542"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8572445544"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DdRnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DdRnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DdRnAwAAQBAJ&pg=PT73&dq=A+arte+de+escrever+bem&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DdRnAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DdRnAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DdRnAwAAQBAJ&rdid=book-DdRnAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.3E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_fazer_um_jornal_di%C3%A1rio-sample-epub.acsm?id=DdRnAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_de_fazer_um_jornal_di%C3%A1rio-sample-pdf.acsm?id=DdRnAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DdRnAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003ea\u003c/b\u003e. \u003cb\u003earte\u003c/b\u003e. de. \u003cb\u003eescrever\u003c/b\u003e. RESPEITO \u003cb\u003eÀ\u003c/b\u003e LÍNGUA É BOM Ninguém será guilhotinado \u003cbr\u003e\nna praça \u003cb\u003eda\u003c/b\u003e Bastilha por não saber \u003cb\u003eescrever\u003c/b\u003e ... Sei que muitos de vocês não se \u003cbr\u003e\nderam conta \u003cb\u003eda\u003c/b\u003e obrigação de es\u200bcrever \u003cb\u003ebem\u003c/b\u003e para quem vive de \u003cb\u003eescrever\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gZ1cAAAAcAAJ",
+   "etag": "vG+cXJ7oa8A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gZ1cAAAAcAAJ",
+   "volumeInfo": {
+    "title": "Novo Secretario Luso-Brasileiro, arte de escrever ... toda a especie de cartas ... por ***.",
+    "publishedDate": "1865",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BL:A0018685004"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gZ1cAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gZ1cAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gZ1cAAAAcAAJ&pg=PR8&dq=A+arte+de+escrever+bem&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gZ1cAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gZ1cAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=gZ1cAAAAcAAJ&rdid=book-gZ1cAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gZ1cAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "este falta, aquellas serão inuteis; \u003cb\u003eescrever bem\u003c/b\u003e&#39; e ao mesmo tempo \u003cb\u003ebem\u003c/b\u003e pensar, \u003cbr\u003e\n\u003cb\u003ebem\u003c/b\u003e sentir e \u003cb\u003ebem\u003c/b\u003e exprimir; e ter ao mesmo tempo espirito, alma e gosto`; o estylo \u003cbr\u003e\nsuppõe \u003cb\u003ea\u003c/b\u003e reunião e o exercicio de todas as faculdades intellectuaes; as ideas&nbsp;..."
+   }
+  }
+ ]
+}

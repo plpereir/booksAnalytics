@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JQNXvgAACAAJ",
+   "etag": "unfTKoNIAGc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JQNXvgAACAAJ",
+   "volumeInfo": {
+    "title": "STAR WARS - LIVRO DOS SITH",
+    "authors": [
+     "DANIEL WALLACE",
+     "RAQUEL NOVAES"
+    ],
+    "description": "Que a saga Star Wars é um dos maiores fenômenos de todos os tempos não é novidade. Que os personagens são mania mundial, também não. Para apimentar mais essa febre e satisfazer um desejo antigo dos fãs, é lançado o 'Livro dos Sith', manifesto do lado negro da Força. Ao longo dos séculos, à medida que os Lordes Sith ascendiam ao poder, alguns deles registravam sua filosofia e seus esquemas para assumir o controle da galáxia. Ao serem derrotados, esse conhecimento desapareceu. Ou, pelo menos, era o que parecia. Seus escritos foram passados entre Sith selecionados - e até mesmo Jedi -, que acrescentaram suas reflexões a essas raras páginas. Na busca por domínio, Darth Sidious foi atrás do que sobrou dos cinco textos mais lendários do lado negro. A partir desse conhecimento, ele escreveu um sexto texto - seu próprio manifesto. Reunidos, esses documentos formam o Livro dos Sith. Nele são apresentados os maiores mestres, o surgimento do clã, os armamentos, o vestuário, os segredos obscuros, entre outros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8528617939"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788528617931"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JQNXvgAACAAJ&dq=isbn:9788528617931&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JQNXvgAACAAJ&dq=isbn:9788528617931&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/STAR_WARS_LIVRO_DOS_SITH.html?hl=&id=JQNXvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JQNXvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O LIvro dos Sith revela as raras páginas do universo de Star Wars, uma das maiores sagas de todos os tempos. O Leitor vai conhecer os maiores mestres, os armamentos, o vestuário, o surgimento do clã e segredos obscuros."
+   }
+  }
+ ]
+}

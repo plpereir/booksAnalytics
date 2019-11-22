@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "n4tblwEACAAJ",
+   "etag": "ryQEXqcEXB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n4tblwEACAAJ",
+   "volumeInfo": {
+    "title": "Subliminar",
+    "authors": [
+     "LEONARD MLODINOW",
+     "CLAUDIO CARINA"
+    ],
+    "publisher": "Jorge Zahar Editor Ltda",
+    "publishedDate": "2013-03-05",
+    "description": "O leitor acha que sabe como e por que faz suas escolhas? As preferências políticas, a gorjeta que dá ao garçom, aquele colega de trabalho com uma cara tão amigável de quem desconfia e até a pessoa com quem o leitor se casa não são opções tão objetivas assim, segundo a obra. Por trás do pensamento consciente, age uma parte desconhecida da mente. É disso que trata aqui Leonard Mlodinow. O livro busca ser uma viagem ao inconsciente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8537809594"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537809594"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=n4tblwEACAAJ&dq=isbn:9788537809594&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=n4tblwEACAAJ&dq=isbn:9788537809594&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Subliminar.html?hl=&id=n4tblwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n4tblwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot; Booklist &quot;Divertidamente acessível, embora intelectualmente rigoroso, este livro transcende os limites tradicionais entre neurociência, psicologia e filosofia, descortinando a mente subliminar."
+   }
+  }
+ ]
+}

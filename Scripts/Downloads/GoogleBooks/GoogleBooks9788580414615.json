@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AZ0cvgAACAAJ",
+   "etag": "OH9CZG2VgoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AZ0cvgAACAAJ",
+   "volumeInfo": {
+    "title": "EVA",
+    "authors": [
+     "WILLIAM P. YOUNG",
+     "FABIANO MORAIS"
+    ],
+    "description": "O que realmente aconteceu no Jardim do Éden? Num suspense emocionante, William P. Young, autor de A cabana (4,5 milhões de exemplares vendidos no Brasil) faz em seu novo livro uma abordagem totalmente nova e inspiradora da história da Criação. Fruto de mais de 40 anos de pesquisas, fiel aos textos bíblicos originais e com uma narrativa primorosa, Eva apresenta um ponto de vista humano e reconfortante de um dos episódios mais tristes das Escrituras- o momento em que o homem vira a face para Deus e é expulso do Paraíso. Com sua capacidade única de emocionar e fazer refletir, o autor trata de temas como perda, culpa, perdão e redenção, e cria uma alegoria sobre a importância de nossas escolhas, a verdade de nossas origens e o poder transformador do amor de Deus.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858041461X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580414615"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AZ0cvgAACAAJ&dq=isbn:9788580414615&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AZ0cvgAACAAJ&dq=isbn:9788580414615&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/EVA.html?hl=&id=AZ0cvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AZ0cvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fruto de mais de 40 anos de pesquisas, fiel aos textos bíblicos originais e com uma narrativa primorosa, Eva apresenta um ponto de vista humano e reconfortante de um dos episódios mais tristes das Escrituras: o momento em que o homem vira ..."
+   }
+  }
+ ]
+}

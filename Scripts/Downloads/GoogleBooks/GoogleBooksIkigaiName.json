@@ -1,0 +1,879 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 326,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bAZNDwAAQBAJ",
+   "etag": "HWzemOu9qbo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bAZNDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ikigai",
+    "subtitle": "Os segredos dos japoneses para uma vida longa e feliz",
+    "authors": [
+     "Héctor García",
+     "Francesc Miralles"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2018-03-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002803"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002805"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bAZNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bAZNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bAZNDwAAQBAJ&printsec=frontcover&dq=Ikigai&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bAZNDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bAZNDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bAZNDwAAQBAJ&rdid=book-bAZNDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.061E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai-sample-epub.acsm?id=bAZNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai-sample-pdf.acsm?id=bAZNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bAZNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4FxZDwAAQBAJ",
+   "etag": "5arVZ6jjjCw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4FxZDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ikigai: Os cinco passos para encontrar seu propósito de vida e ser mais feliz",
+    "authors": [
+     "Ken Mogi"
+    ],
+    "publisher": "Editora Alto Astral Ltda",
+    "publishedDate": "2018-05-04",
+    "description": "Viver uma vida plena, longa e feliz? Sim, é possível. A fórmula, segundo os japoneses, é encontrar o seu próprio ikigai, que vai ajudar você a definir e apreciar os prazeres da vida. Aqui, você irá descobrir os cinco passos para alcançá-lo e, assim, encontrar satisfação e alegria em tudo aquilo que faz. Esse antigo segredo dos japoneses pode fazer você viver mais, ter mais saúde, ser menos estressado e, principalmente, mais realizado com a sua vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582467381"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582467389"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4FxZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4FxZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4FxZDwAAQBAJ&printsec=frontcover&dq=Ikigai&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4FxZDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4FxZDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 5.98,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 5.31,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4FxZDwAAQBAJ&rdid=book-4FxZDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5980000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5310000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai_Os_cinco_passos_para_encontrar_se-sample-epub.acsm?id=4FxZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai_Os_cinco_passos_para_encontrar_se-sample-pdf.acsm?id=4FxZDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4FxZDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Viver uma vida plena, longa e feliz?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nMTHswEACAAJ",
+   "etag": "T1SIeC2QjQ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nMTHswEACAAJ",
+   "volumeInfo": {
+    "title": "Ikigai",
+    "subtitle": "OS SEGREDOS DOS JAPONESES PARA UMA VIDA LONGA E FE",
+    "authors": [
+     "Francesc Miralles",
+     "Hector Garcia",
+     "Elisa Menezes"
+    ],
+    "publishedDate": "2018-03-14",
+    "description": "Descubra seu ikigai e encontre o propósito que vai guiar sua vida Por que existem pessoas que sabem o que querem, enquanto outras definham na confusão? Segundo os japoneses, o segredo é encontrar seu ikigai, conceito que pode ser traduzido como razão para viver. TEr um ikigai claro e definido proporciona a satisfação e o propósito que justificam nossa existência, sendo, para muitos, também a chave da longevidade. Em Ikigai: Os segredos dos japoneses para uma vida longa e feliz, os autores Francesc Miralles e Héctor García vão até Okinawa, a ilha japonesa de população centenária, e reúnem pela primeira vez em livro os hábitos e rotinas que mantém em dia a saúde da mente, do corpo e do espírito daquele povo. UM guia com informações claras e sucintas, além de listas, tabelas e ilustrações que colocam em suas mãos as ferramentas certas para entender e encontrar seu ikigai.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002791"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002797"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nMTHswEACAAJ&dq=Ikigai&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nMTHswEACAAJ&dq=Ikigai&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ikigai.html?hl=&id=nMTHswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nMTHswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Descubra seu ikigai e encontre o propósito que vai guiar sua vida Por que existem pessoas que sabem o que querem, enquanto outras definham na confusão?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GHUWtgEACAAJ",
+   "etag": "BoKSf3t3szE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GHUWtgEACAAJ",
+   "volumeInfo": {
+    "title": "Ikigai",
+    "authors": [
+     "Ken Mogi",
+     "Regiane Winarski"
+    ],
+    "publishedDate": "2018-05-04",
+    "description": "Viver uma vida plena, longa e feliz? Sim, é possível. A fórmula, segundo os japoneses, é encontrar o seu próprio ikigai, que vai ajudar você a definir e apreciar os prazeres da vida. Aqui, você irá descobrir os cinco passos para alcançá-lo e, assim, encontrar satisfação e alegria em tudo aquilo que faz. Esse antigo segredo dos japoneses pode fazer você viver mais, ter mais saúde, ser menos estressado e, principalmente, mais realizado com a sua vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582467311"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582467312"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GHUWtgEACAAJ&dq=Ikigai&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GHUWtgEACAAJ&dq=Ikigai&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ikigai.html?hl=&id=GHUWtgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GHUWtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Viver uma vida plena, longa e feliz?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q-tTDwAAQBAJ",
+   "etag": "SG+9lQdzyR4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-tTDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ikigai",
+    "subtitle": "Giving every day meaning and joy",
+    "authors": [
+     "Yukari Mitsuhashi"
+    ],
+    "publisher": "Hachette UK",
+    "publishedDate": "2018-05-24",
+    "description": "Ikigai is a traditional Japanese concept that embodies happiness in living. It is, essentially, the reason that you get up in the morning. This book is about finding your ikigai - identifying your purpose or passion and using this knowledge to achieve greater happiness in your life. Your ikigai doesn't have to be some grand ambition or highly noble life's purpose - it can be something simple and humble, like tending your garden or walking your dog. Having grown up in Japan, Yukari Mitsuhashi understands first hand what ikigai means to Japanese people. Now living in Los Angeles, she has written this book to introduce the traditional concept to a new audience. This is not a 'one size fits all' book. Instead, Ikigai encourages you to look at the details of your life and appreciate the everyday moments as you learn to identify your own personal ikigai. The book includes case studies from a range of people sharing their ikigai, from athletes to writers and business people. With its refreshingly simple philosophy and liberating concepts, this beautifully presented book will be a guide you will return to again and again.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857835406"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857835408"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q-tTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q-tTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=Q-tTDwAAQBAJ&pg=PT17&dq=Ikigai&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Q-tTDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Q-tTDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.66,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Q-tTDwAAQBAJ&rdid=book-Q-tTDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.266E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.266E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai-sample-epub.acsm?id=Q-tTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q-tTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "If there were ten people, there would be ten different \u003cb\u003eikigai\u003c/b\u003e. If ten people wrote \u003cbr\u003e\ntheir own definition of what \u003cb\u003eikigai\u003c/b\u003e means, it might result in ten different \u003cbr\u003e\nexplanations. A person may have more than one \u003cb\u003eikigai\u003c/b\u003e at any given time and \u003cbr\u003e\ntheir \u003cb\u003eikigai\u003c/b\u003e may&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HhB-DwAAQBAJ",
+   "etag": "YGrwOiiJofY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HhB-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ikigai",
+    "subtitle": "Discover Your Reason For Being",
+    "authors": [
+     "Justyn Barnes"
+    ],
+    "publisher": "Quarto Press",
+    "publishedDate": "2018-11-01",
+    "description": "Embrace the Japanese concept of ikigai and discover a renewed sense of purpose. Be mindful of small pleasures each day to build a more enjoyable and fulfilling life. Keep mentally and physically active to ease the ageing process. The Japanese term ikigai has no direct English translation but essentially means ‘reason for living’ or ‘value in life’. The concept posits that a person’s ikigai lies at the intersection of four interconnected aspects of life: what we love, what we’re good at, what the world needs and what we can be paid for. Ikigai, therefore, is the ideal balance between our passion, mission, vocation and profession. Ikigai is about making the most of every day, rooted in the belief that finding pleasure in many small things is the secret to a more rewarding life overall. While living in the here and now is key, the sense of purpose derived from pursuing ikigai bolsters our mental resilience to overcome setbacks and feel positive about the future. This concise, easily accessible book offers readers practical advice to identify what really motivates them to get up and go every morning and how seeking their personal ikigai can improve their daily lives. Each of the tenets of ikigai is explained and examined, illustrated by real-life examples of their application and inspiring photographs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781781318348"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1781318344"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HhB-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HhB-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=HhB-DwAAQBAJ&pg=PA159&dq=Ikigai&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HhB-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HhB-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.47,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 42.47,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HhB-DwAAQBAJ&rdid=book-HhB-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.247E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.247E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai-sample-epub.acsm?id=HhB-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ikigai-sample-pdf.acsm?id=HhB-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HhB-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "1, Winter 1996) Mitani, Noriko and Wallhagen, Margaret I., “Pursuit of \u003cbr\u003e\nPsychological Well-Being (\u003cb\u003eIkigai\u003c/b\u003e) and the Evolution of Self-Understanding in the \u003cbr\u003e\nContext of Caregiving in Japan,” (Culture, Medicine and Psychiatry, Vol. 26; No.4 \u003cbr\u003e\n; 2002)&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rEV9tAEACAAJ",
+   "etag": "DYJq3iSnQ+A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rEV9tAEACAAJ",
+   "volumeInfo": {
+    "title": "Ikigai - Viva Bem Até Aos Cem",
+    "authors": [
+     "Francesc Miralles",
+     "Hector Garcia",
+     "Alexandra Guimarães"
+    ],
+    "description": "A missão deste livro é ajudá-lo a encontrar o seu ikigai ou aquilo que dá sentido à sua vida! Numa conversa sobre o propósito da vida, Héctor e Francesc decidiram rumar à aldeia com maior índice de longevidade do mundo: Ogimi, em Okinawa, Japão. Ao conviverem com as pessoas mais velhas do planeta, conheceram os segredos mais bem guardados para se ter uma vida longa, saudável e feliz, que se podem resumir num conceito: o ikigai. Conheça a dieta especial e o treino físico e mental que esta \"aldeia dos centenários\" segue. Beber chá, satisfazer o estômago em apenas 80%, conviver e estar permanentemente ocupado são algumas das sugestões que encontrará neste livro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9897390286"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897390289"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rEV9tAEACAAJ&dq=Ikigai&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rEV9tAEACAAJ&dq=Ikigai&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ikigai_Viva_Bem_At%C3%A9_Aos_Cem.html?hl=&id=rEV9tAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rEV9tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Numa conversa sobre o propósito da vida, Héctor e Francesc decidiram rumar à aldeia com maior índice de longevidade do mundo: Ogimi, em Okinawa, Japão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vZNiDwAAQBAJ",
+   "etag": "wZGcK7Ifj4s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vZNiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Ikigai",
+    "subtitle": "The Japanese Secret Philosophy for a Happy Healthy Long Life With Joy and Purpose Every Day",
+    "authors": [
+     "Marie Xue"
+    ],
+    "publisher": "",
+    "publishedDate": "2018-06-30",
+    "description": "Discover the ancient Japanese secret ways to see joy, meaning, and purpose in every single day of your life. Today only, get this bestseller for a special price. Have you ever stopped to think about what it is that will make your life worth living? Is it the large amount of money that you have in the bank? The prestigious education that you got? The family and friends that surround you? Or your spiritual belief that there is someone greater than you in the world? Most people will spend their entire lifetimes trying to figure it out, but only a few will have the privilege of really understanding and experiencing themselves what it means to live a fulfilled life. Over the past years, we’ve seen many life philosophies take center stage, all claiming to hold to secret to happiness and fulfillment. While all of them may have very convincing premises, only one truly stands out. Ikigai, or the Japanese concept of finding your purpose, is the key to living a meaningful life. If there’s one people group who have mastered the art of living - and living well, it’s definitely the Okinawans of Japan. Famous for being the world’s longest-living people, they attribute their joy and contentment to finding their ikigai. It’s the reason why they live longer, happier, and better lives than the rest of us. So how does knowing your ikigai change your life? And what should you do to help you uncover your ikigai? Well, you’ll discover all that and more after you’ve read this book. This book is packed with helpful insights that will change not just the way you think, but also the way you live. You’ll learn how to slow down and let go of the things that stop you from finding your ultimate purpose. This book will also give you the blueprint to living the life that you always wanted so you won’t have to feel your life is meaningless ever again. I hope that through this book, you will see joy, meaning, and purpose in every single day of your life. Here Is A Preview Of What You'll Read... The Meaning of Ikigai Start Where You Are Confront Anxiety Head-On! How to Find your Ikigai Secrets to Living the Life You’ve Always Wanted Ikigai for Beginners And much, much more! Download your copy today! Take action today and download this book now at a special price!",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 70,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vZNiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vZNiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=vZNiDwAAQBAJ&printsec=frontcover&dq=Ikigai&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vZNiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vZNiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.49,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vZNiDwAAQBAJ&rdid=book-vZNiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8490000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8490000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vZNiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Well, you’ll discover all that and more after you’ve read this book. This book is packed with helpful insights that will change not just the way you think, but also the way you live."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gHqDDwAAQBAJ",
+   "etag": "UH1ewd4Jtwk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gHqDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "How to Ikigai",
+    "subtitle": "Lessons for Finding Happiness and Living Your Life's Purpose",
+    "authors": [
+     "Tim Tamashiro"
+    ],
+    "publisher": "Mango Media Inc.",
+    "publishedDate": "2019-01-31",
+    "description": "Live Your Best Life Ancient, time-tested wisdom: Okinawa, Japan is a tiny, tiny island south of the Japanese mainland where people live their life’s purpose every day. How is it possible for so many to live each day in such meaningful ways? The Okinawan concept of Ikigai. How to Ikigai describes the lifestyle choices that have led to an island full of fulfilled, long-living people. Magical reality come to life: Examples of ikigai in action are often magical. Take David Michiels. David stuttered severely well into his adulthood. In clinical terms, his stutter was difficult to treat. But David started to work in a liquor store. Before long, his focus turned to one specific section of the sales floor: the scotch section. As he spent more of his days learning about scotch, he began to share his knowledge with customers. Eventually, David noticed that his stutter vanished when he talked to anyone about scotch. Over time, David’s passion led to a new life. Today, he is a renowned whiskey expert, traveling the world tasting and purchasing whiskey on behalf of his employer. He feels his life is meaningful because of ikigai. A humble look at happiness: Bringing together an exploration of joy not unlike that of The Book of Joy by the Dalai Lama and Archbishop Desmond Tutu, a look inward reminiscent of The Untethered Soul by Michael A. Singer, and deep truths like those explored by Singer in The Surrender Experiment, How to Ikigai describes the concept of Ikigai with clarity and meaning. How to Ikigai explains a simple but abstract map for living a meaningful life. After reading this book, you will understand how to implement Ikigai’s four directions in your own life: • Do what you love • Do what you’re good at • Do what the world needs • Do what you can be rewarded for",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781633539013"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1633539016"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gHqDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gHqDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=gHqDDwAAQBAJ&printsec=frontcover&dq=Ikigai&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gHqDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gHqDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.82,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.82,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gHqDDwAAQBAJ&rdid=book-gHqDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.882E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.882E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/How_to_Ikigai-sample-epub.acsm?id=gHqDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/How_to_Ikigai-sample-pdf.acsm?id=gHqDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gHqDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "After reading this book, you will understand how to implement Ikigai’s four directions in your own life: • Do what you love • Do what you’re good at • Do what the world needs • Do what you can be rewarded for"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "20kAa87zzUYC",
+   "etag": "a+3AsKTg42g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/20kAa87zzUYC",
+   "volumeInfo": {
+    "title": "What Makes Life Worth Living?",
+    "subtitle": "How Japanese and Americans Make Sense of Their Worlds",
+    "authors": [
+     "Gordon Mathews"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1996-04-05",
+    "description": "Here is an original and provocative anthropological approach to the fundamental philosophical question of what makes life worth living. Gordon Mathews considers this perennial issue by examining nine pairs of similarly situated individuals in the United States and Japan. In the course of exploring how people from these two cultures find meaning in their daily lives, he illuminates a vast and intriguing range of ideas about work and love, religion, creativity, and self-realization. Mathews explores these topics by means of the Japanese term ikigai, \"that which most makes one's life seem worth living.\" American English has no equivalent, but ikigai applies not only to Japanese lives but to American lives as well. Ikigai is what, day after day and year after year, each of us most essentially lives for. Through the life stories of those he interviews, Mathews analyzes the ways Japanese and American lives have been affected by social roles and cultural vocabularies. As we approach the end of the century, the author's investigation into how the inhabitants of the world's two largest economic superpowers make sense of their lives brings a vital new understanding to our skeptical age.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0520916476"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780520916470"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=20kAa87zzUYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=20kAa87zzUYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=20kAa87zzUYC&pg=PA12&dq=Ikigai&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=20kAa87zzUYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-20kAa87zzUYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 139.09,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 139.09,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=20kAa87zzUYC&rdid=book-20kAa87zzUYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3909E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.3909E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/What_Makes_Life_Worth_Living-sample-epub.acsm?id=20kAa87zzUYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/What_Makes_Life_Worth_Living-sample-pdf.acsm?id=20kAa87zzUYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=20kAa87zzUYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Chapter One The Varieties of \u003cb\u003eIkigai\u003c/b\u003e in Japan \u003cb\u003eIkigai\u003c/b\u003e in Japanese Print Media \u003cbr\u003e\nWhile living in Japan during the 1980s, I often came across the word \u003cb\u003eikigai\u003c/b\u003e, a \u003cbr\u003e\nword that both intrigued and puzzled me. Japanese dictionaries define \u003cb\u003eikigai\u003c/b\u003e in \u003cbr\u003e\nsuch&nbsp;..."
+   }
+  }
+ ]
+}

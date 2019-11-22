@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jZHLZwEACAAJ",
+   "etag": "i7ULTg+duZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jZHLZwEACAAJ",
+   "volumeInfo": {
+    "title": "CRASH - UMA BREVE HISTORIA DA ECONOMIA",
+    "subtitle": "DA GRECIA ANTIGA AO SECULO XXI",
+    "authors": [
+     "ALEXANDRE VERSIGNASSI"
+    ],
+    "description": "De onde vem o dinheiro? Quem o inventou? Por que hoje ele é tão importante na vida das pessoas? Como funciona o sobe e desce do valor do dólar? Por que isso ocorre? O que determina o valor de uma ação na Bolsa? Com que finalidade os papéis de uma empresa são negociados? De que maneira opera a Bolsa de Valores? Quem pode investir? O autor conta histórias curiosas e interessantes como a dos primeiros especuladores, que investiam em tulipas na Holanda, flor que caiu no gosto dos europeus no século XVII; a dos alemães, que precisavam sair carregados de dinheiro quando iam às compras, em meio a uma das maiores inflações que já existiram, perdendo apenas para a dos húngaros após a Segunda Guerra Mundial; e a dos brasileiros, que detêm até hoje o recorde de maior período de inflação da história.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580442591"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580442595"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jZHLZwEACAAJ&dq=isbn:9788580442595&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jZHLZwEACAAJ&dq=isbn:9788580442595&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CRASH_UMA_BREVE_HISTORIA_DA_ECONOMIA.html?hl=&id=jZHLZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jZHLZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De onde vem o dinheiro?"
+   }
+  }
+ ]
+}

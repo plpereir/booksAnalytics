@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xqUPjwEACAAJ",
+   "etag": "0eSKYzRDukg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xqUPjwEACAAJ",
+   "volumeInfo": {
+    "title": "Número zero",
+    "authors": [
+     "Umberto Eco"
+    ],
+    "publishedDate": "2015",
+    "description": "1945, Lake Como. Mussolini and his mistress are captured and shot by local partisans. The precise circumstances of Il Duce's death remain shrouded in controversy. 1992, Milan. Colonna, a depressed writer picking up hack work, is offered a fee he can't refuse to ghost-write a memoir. His subject: a fledgling newspaper, which happens to be financed by a powerful media magnate. As Colonna gets to know the team of journalists, he learns the paranoid theories of Braggadocio who is convinced that Mussolini's corpse was a body-double and part of a wider Fascist plot. It's the scoop he desperately needs. The evidence? He's working on it. Colonna is sceptical. But when a body is found, stabbed to death in a back alley and the paper is shut down, even he is jolted out of his complacency. Fuelled by media hoaxes, Mafiosi, love, gossip and murder, Numero Zero reverberates with the clash of the forces that have shaped Italy since World War II.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501104671"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501104670"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Conspiracies"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xqUPjwEACAAJ&dq=isbn:9788501104670&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xqUPjwEACAAJ&dq=isbn:9788501104670&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/N%C3%BAmero_zero.html?hl=&id=xqUPjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xqUPjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Um grupo de redatores, reunido ao acaso, prepara um jornal."
+   }
+  }
+ ]
+}

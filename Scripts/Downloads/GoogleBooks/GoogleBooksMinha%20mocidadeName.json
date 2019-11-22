@@ -1,0 +1,703 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 453,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rU30ZwEACAAJ",
+   "etag": "4GXsdViGfOM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rU30ZwEACAAJ",
+   "volumeInfo": {
+    "title": "MINHA MOCIDADE",
+    "authors": [
+     "WINSTON CHURCHILL",
+     "CARLOS LACERDA"
+    ],
+    "publishedDate": "1967",
+    "description": "Esta obra conta a história de Winston Churchill em uma fase em que pareceu sair de cena. Ele escreve sobre sua infância e seu tempo de colégio, sobre o jovem tenente de cavalaria noroeste da Índia, em Cuba, no Sudão e na Guerra dos Bôeres da África do Sul, chegando ao início da carreira política depois de umas eleições perdidas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520926584"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520926581"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rU30ZwEACAAJ&dq=Minha+mocidade&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rU30ZwEACAAJ&dq=Minha+mocidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MINHA_MOCIDADE.html?hl=&id=rU30ZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rU30ZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra conta a história de Winston Churchill em uma fase em que pareceu sair de cena."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aj4ZAAAAYAAJ",
+   "etag": "hL12vuQRy5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aj4ZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A mocidade de Trajano",
+    "authors": [
+     "Alfredo d'Escragnolle Taunay Taunay (Visconde de)"
+    ],
+    "publishedDate": "1871",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433044582876"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.3.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aj4ZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aj4ZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aj4ZAAAAYAAJ&pg=PA158&dq=Minha+mocidade&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aj4ZAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aj4ZAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=aj4ZAAAAYAAJ&rdid=book-aj4ZAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/A_mocidade_de_Trajano.epub?id=aj4ZAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aj4ZAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Trajano tomou attitude solemne : — Meu pai,retorquio-lhe, juro-lhe, como já jurei \u003cbr\u003e\nno dia da morte de minha mãi, juro-lhe, que ... que me tire deste estado em que \u003cbr\u003e\nperco, ha mezes, todo o vigor de \u003cb\u003eminha mocidade\u003c/b\u003e e talvez de minha existencia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O4108N7OVp8C",
+   "etag": "kI/fOkOva2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O4108N7OVp8C",
+   "volumeInfo": {
+    "title": "Devocionais Para Todas as Estações",
+    "publisher": "Editora Ultimato",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577790326"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577790320"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O4108N7OVp8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O4108N7OVp8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=O4108N7OVp8C&pg=PA180&dq=Minha+mocidade&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=O4108N7OVp8C&dq=Minha+mocidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Devocionais_Para_Todas_as_Esta%C3%A7%C3%B5es.html?hl=&id=O4108N7OVp8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O4108N7OVp8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "pessoas da Bíblia puderam declarar que foram fiéis a Deus desde a sua \u003cbr\u003e\nmocidade. “Já envelheci e estou cheio de cãs... O meu procedimento esteve \u003cbr\u003e\ndiante de vós desde a \u003cb\u003eminha mocidade\u003c/b\u003e até ao dia de hoje” (Samuel, 1Sm 12.2). “\u003cbr\u003e\nEu temo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9QJJXB6-aKwC",
+   "etag": "Hc7IDaMZPVA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9QJJXB6-aKwC",
+   "volumeInfo": {
+    "title": "A mocidade enganada, desenganada",
+    "subtitle": "duello espiritual, onde com gravissimas sentenças da Escritura, e Santos Padres, com solidas ponderaçoens, e exemplos muy singulares de erudiçao sagrada e profana se propoem, e convencem en forma de dialogo ...",
+    "authors": [
+     "Manoel Conciencia"
+    ],
+    "publishedDate": "1730",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCM:5326524953"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 697,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9QJJXB6-aKwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9QJJXB6-aKwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9QJJXB6-aKwC&pg=PA47&dq=Minha+mocidade&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9QJJXB6-aKwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9QJJXB6-aKwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=9QJJXB6-aKwC&rdid=book-9QJJXB6-aKwC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_mocidade_enganada_desenganada.pdf?id=9QJJXB6-aKwC&hl=&output=pdf&sig=ACfU3U2vcQ330Hp0czX1Q6o-I-vio46ImQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9QJJXB6-aKwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "SDeos meu naõ vos alongueis de mim, SDeos vinde em minha ajuda, naõ vos \u003cbr\u003e\nlembreis dos deliftos , e ignorancias da \u003cb\u003eminha mocidade\u003c/b\u003e , Senhor “Deos. \u003cbr\u003e\nAppareceo-lhe entaõ com fua irmã Santa Magdalena o Salvador do mundo , em \u003cbr\u003e\ncujas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LtMVDgAAQBAJ",
+   "etag": "FQSZ/te+Ck0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LtMVDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Delitos da Mocidade",
+    "subtitle": "",
+    "authors": [
+     "Camilo Castelo Branco"
+    ],
+    "publisher": "Ediçoes Vercial",
+    "publishedDate": "2017-02-09",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897001802"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897001808"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LtMVDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LtMVDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LtMVDgAAQBAJ&pg=PT7&dq=Minha+mocidade&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LtMVDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LtMVDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.65,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.65,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LtMVDgAAQBAJ&rdid=book-LtMVDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.365E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.365E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Delitos_da_Mocidade-sample-epub.acsm?id=LtMVDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Delitos_da_Mocidade-sample-pdf.acsm?id=LtMVDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LtMVDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Passaria pelo ânimo do meu amigo completar a \u003cb\u003eminha\u003c/b\u003e biografia literária, \u003cbr\u003e\npublicando esses livros tão distanciados dos últimos que eu produzi tanto \u003cbr\u003e\nquanto a \u003cb\u003emocidade\u003c/b\u003e feliz se distanceia da velhice atribulada? Foi esse o \u003cbr\u003e\npropósito?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zG_xxwVafVYC",
+   "etag": "sRAOf0E1Zw4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zG_xxwVafVYC",
+   "volumeInfo": {
+    "title": "A mocidade enganada, desenganada, duello espiritual",
+    "subtitle": "onde com gravissimas sentenças da escritura, e santos padres, com solidas ponderaçoes, e exemplos mui singulares de erudiçao sagrada e profana se propoem e convencen en forma de dialogo ... : obra tamben mui util para prègadores, confessores, e missionarios, a quem toca propôr os catholicos desenganos",
+    "authors": [
+     "Manoel Conciencia"
+    ],
+    "publishedDate": "1766",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCM:5325114165"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zG_xxwVafVYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zG_xxwVafVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zG_xxwVafVYC&pg=PA238&dq=Minha+mocidade&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zG_xxwVafVYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zG_xxwVafVYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=zG_xxwVafVYC&rdid=book-zG_xxwVafVYC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_mocidade_enganada_desenganada_duello_e.pdf?id=zG_xxwVafVYC&hl=&output=pdf&sig=ACfU3U1GU_7mKQvzHNIWywQh7qzstDIbIg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zG_xxwVafVYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Perfuadi/te-te que podias derrubar ao novo foldado, que e/lá fortalecido com a \u003cbr\u003e\nvirtude de Chrifio, cujo fou, e a quem confagrei já a \u003cb\u003eminha mocidade\u003c/b\u003e, velhice, e a \u003cbr\u003e\nvida toda ? Ao ecco detas vozes naõ pôde refitir o monftro infernal; e deixando&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hrrsjdl0pWIC",
+   "etag": "ip0e/fOAvKY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hrrsjdl0pWIC",
+   "volumeInfo": {
+    "title": "Biblia Sagrada contendo o novo e o velho testamento",
+    "publishedDate": "1819",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BML:37001101711070"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hrrsjdl0pWIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hrrsjdl0pWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hrrsjdl0pWIC&pg=PA605&dq=Minha+mocidade&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hrrsjdl0pWIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hrrsjdl0pWIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=hrrsjdl0pWIC&rdid=book-hrrsjdl0pWIC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Biblia_Sagrada_contendo_o_novo_e_o_velho.pdf?id=hrrsjdl0pWIC&hl=&output=pdf&sig=ACfU3U1QA7vJ-feJIwpfOjV_S1hQW0mVrw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hrrsjdl0pWIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "4 Quaes saÕ as frechas ua maõ do valente : taes saõ os filhos da mocidade. 5 \u003cbr\u003e\nBemaventurado o varaõ que en- ... 2 Ja desde \u003cb\u003eminha mocidade\u003c/b\u003e muitas vezes me \u003cbr\u003e\nangustiáraõ : todavia naõ prevalecéraõ contra my. 3 Lavradores lavráraõ sobre&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4hBIAAAAcAAJ",
+   "etag": "kK17I64wX20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4hBIAAAAcAAJ",
+   "volumeInfo": {
+    "title": "“A” biblia sagrada, contendo o novo e o velho testamento, traduzida em portuguez per Joao Ferreira d'Almeida.)",
+    "authors": [
+     "Biblia portugallice"
+    ],
+    "publishedDate": "1819",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z137206808"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4hBIAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4hBIAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4hBIAAAAcAAJ&pg=PA605&dq=Minha+mocidade&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4hBIAAAAcAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4hBIAAAAcAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=4hBIAAAAcAAJ&rdid=book-4hBIAAAAcAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_biblia_sagrada_contendo_o_novo_e_o_vel.pdf?id=4hBIAAAAcAAJ&hl=&output=pdf&sig=ACfU3U0G3GIhSYfmNweD6b1CMhckTG8KnQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4hBIAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quaes saõ as frechas na maõ do valente: taes saõ os filhos da mocidade. 5 \u003cbr\u003e\nBemaventurado o varaõ que encheo ... 2 Ja desde \u003cb\u003eminha mocidade\u003c/b\u003e muitas \u003cbr\u003e\nvezes me angustiáraõ: todavia naõ prevalecéraõ contra my. 3 \u003cbr\u003e\nLavradoreslavráraõ sobre&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JLfuAAAAMAAJ",
+   "etag": "9V5beg/NRRE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JLfuAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Minha vida: Da mocidade a velhice, 1893-1934",
+    "authors": [
+     "Medeiros e Albuquerque"
+    ],
+    "publishedDate": "1934",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:32000000643850"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JLfuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JLfuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JLfuAAAAMAAJ&q=Minha+mocidade&dq=Minha+mocidade&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JLfuAAAAMAAJ&dq=Minha+mocidade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Minha_vida_Da_mocidade_a_velhice_1893_19.html?hl=&id=JLfuAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JLfuAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não se pede para ele sinão muito tempo disponivel. E além disso, método e \u003cbr\u003e\norganisação. Maurice Bouchor tem um verso que é o resumo da \u003cb\u003eminha\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003emocidade\u003c/b\u003e: &quot;Ma jeunesse fut chaste et folie d&#39;idéal&quot;. Este verso diz exata- mente o \u003cbr\u003e\nmeu caso."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mA9FBQAAQBAJ",
+   "etag": "PUEJ8IVc8HE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mA9FBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Antigo Testamento",
+    "authors": [
+     "TÂnia Mara"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-10-17",
+    "description": "AO LEITOR Bem aventurados, os que andam sempre de coração limpo. Em especial na presença do pai. Tudo que faz prospera, vive com alegria e transmite felicidade, amor, harmonia, paz, compreensão, fé, humildade, esperança. Ler, meditar, refletir, aprender, ensinar, viver, realizar e evangelizar. Muitas pessoas. Lê a BÍBLIA SAGRADA e diz que nada entenderam outras lê e diz que a Bíblia está errada. Cada um com sua compreensão, cada um no seu ciclo evolutivo. Devemos ler e meditar sobre o que lemos. Devemos refletir com paciência, aprender o que de bom vamos entendendo. Usando a nossa força interior para nos impulsionar para o bem, o amor, caridade, compaixão obediência ao pai. Em vez de ficar questionando, constatando erros da Bíblia. Silencie suas inquietações. Fale com Deus e no silencio profundo de sua alma. Procure ouvir a vóz do Pai. Muitos nada entendem ficam difamando a BÍBLIA SAGRADA. Reflita.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90153211"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 428,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mA9FBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mA9FBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mA9FBQAAQBAJ&pg=PA42&dq=Minha+mocidade&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mA9FBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mA9FBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.76,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 10.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=mA9FBQAAQBAJ&rdid=book-mA9FBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.076E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.076E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Antigo_Testamento-sample-pdf.acsm?id=mA9FBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mA9FBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "4 Livra-me, Deus meu, da mão do ímpio, do poder do homem injusto e cruel, 5 \u003cbr\u003e\nPois tu és a minha esperança, Senhor Deus; tu és a minha confiança desde a \u003cbr\u003e\n\u003cb\u003eminha mocidade\u003c/b\u003e. 6 Em time tenho apoiado desde que nasci; tu és aquele que \u003cbr\u003e\nme&nbsp;..."
+   }
+  }
+ ]
+}

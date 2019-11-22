@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NIYbQAAACAAJ",
+   "etag": "Wy80Bs/z6Sg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NIYbQAAACAAJ",
+   "volumeInfo": {
+    "title": "EU QUERO SER RICO!",
+    "authors": [
+     "MAURICIO (BASTTER) HISSA"
+    ],
+    "description": "A inércia nos mantém escravos de um sistema que nos impede de sermos ricos, pois temos de sustentá-lo. A maioria não vai ficar rica porque o sistema luta contra isso e não suportaria uma maioria rica. Mas você pode fazer parte da minoria que enriquece e que coloca o sistema para trabalhar ao invés de sustentá-lo. Na verdade o sistema não te impede de ficar rico, apenas te induz a não ser, a sustentá-lo e quase todos seguem este caminho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535236309"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535236309"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 180,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NIYbQAAACAAJ&dq=isbn:9788535236309&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NIYbQAAACAAJ&dq=isbn:9788535236309&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/EU_QUERO_SER_RICO.html?hl=&id=NIYbQAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NIYbQAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A inércia nos mantém escravos de um sistema que nos impede de sermos ricos, pois temos de sustentá-lo."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KIdPvgAACAAJ",
+   "etag": "G9cchRb95E4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KIdPvgAACAAJ",
+   "volumeInfo": {
+    "title": "DARTH VADER E FILHO",
+    "authors": [
+     "JEFFREY BROWN",
+     "MATEUS DUQUE"
+    ],
+    "description": "Em uma releitura divertida e encantadora, Darth Vader é um pai como qualquer outro, exceto pelo fato de ser o Senhor Sombrio dos Sith. Com ilustrações de Jeffrey Brown, o livro apresenta as alegrias da paternidade por meio da lente de uma galáxia muito, muito distante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576572605"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576572602"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KIdPvgAACAAJ&dq=isbn:9788576572602&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KIdPvgAACAAJ&dq=isbn:9788576572602&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DARTH_VADER_E_FILHO.html?hl=&id=KIdPvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KIdPvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com ilustrações de Jeffrey Brown, o livro apresenta as alegrias da paternidade por meio da lente de uma galáxia muito, muito distante."
+   }
+  }
+ ]
+}

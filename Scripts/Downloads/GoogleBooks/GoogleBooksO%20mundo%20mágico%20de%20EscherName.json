@@ -1,0 +1,798 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 96,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GCzAswEACAAJ",
+   "etag": "FURzu8c18Iw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GCzAswEACAAJ",
+   "volumeInfo": {
+    "title": "O Mundo Mágico De Escher",
+    "authors": [
+     "Pieter Tjabbes",
+     "John Norman"
+    ],
+    "description": "\"A Magia de Escher\" reúne a reprodução de 95 obras do artista gráfico holandês Maurits Cornelis Escher (1898-1972), entre gravuras, desenhos e fac-símiles, incluindo todos os trabalhos mais conhecidos e suas obras enigmáticas em edição bilíngue.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8564170108"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564170100"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 180,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GCzAswEACAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GCzAswEACAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Mundo_M%C3%A1gico_De_Escher.html?hl=&id=GCzAswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GCzAswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;A Magia de Escher&quot; reúne a reprodução de 95 obras do artista gráfico holandês Maurits Cornelis Escher (1898-1972), entre gravuras, desenhos e fac-símiles, incluindo todos os trabalhos mais conhecidos e suas obras enigmáticas em ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "x7N5DwAAQBAJ",
+   "etag": "VpDUoIRawpA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/x7N5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Pacamões!",
+    "authors": [
+     "Maria Helena Guedes"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Os pacamões que segredos pode esconder um rio? Para o menino desta história, filho de camponeses, que vive brincando sozinho à beira do riacho próximo de sua casa, ele esconde um segredo surpreendente: é que ali vive uma carpa que sabe a língua dos homens. E uma amizade secreta, só deles, vai se estabelecer entre peixe e menino. Uma relação que acaba levando o pai do garoto a perceber a importância de se preservar a vida no riacho, que sofre com uma forte seca que assola a região. Escrito em homenagem ao filho...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU31144"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=x7N5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=x7N5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=x7N5DwAAQBAJ&pg=PA98&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=x7N5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-x7N5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=x7N5DwAAQBAJ&rdid=book-x7N5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Pacam%C3%B5es-sample-pdf.acsm?id=x7N5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=x7N5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "RELATRIO DEFINITIVO ESCHER CAROLINA CASSERES DE ALMEIDA DOS \u003cbr\u003e\nSANTOS MATRÍCULA: 201002092353 \u003cb\u003eO MUNDO MÁGICO DE ESCHER\u003c/b\u003e (\u003cbr\u003e\nRELATÓRIO SOBRE A EXPOSIÇÃO) A exposição \u003cb\u003eO Mundo Mágico de Escher\u003c/b\u003e, \u003cbr\u003e\ncujo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_tRxDwAAQBAJ",
+   "etag": "zFreu1YcOfg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_tRxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Matemática Contando Histórias",
+    "authors": [
+     "Marizete"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A Matemática contando Histórias - 1º ano, é parte da coleção de 5 livros, cada um dedicado a um ano de escolaridade do Ensino Fundamental na área de Conhecimento Matemático. Nessa coleção os conteúdos propostos pela legislação educacional do País são abordados a partir de uma perspectiva da Matemática do Cotidiano e a partir de uma visão pedagógica que pressupõe compromisso com uma aprendizagem significativa, que possibilite ao estudante, desenvolver a autonomia, o raciocínio lógico e a criatividade na busca de caminhos na construção do próprio conhecimento.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20610"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 134,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_tRxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_tRxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_tRxDwAAQBAJ&pg=PA133&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_tRxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_tRxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_tRxDwAAQBAJ&rdid=book-_tRxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Matem%C3%A1tica_Contando_Hist%C3%B3rias-sample-pdf.acsm?id=_tRxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_tRxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O DESAFIO DE ESCHER Há alguns anos o CCBB apresentou a Exposição: \u003cb\u003eO\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eMUNDO MÁGICO DE ESCHER\u003c/b\u003e O artista plástico Escher usou e abusou da \u003cbr\u003e\nMatemática em suas criações mágicas. Na mostra estava exposto o quadro \u003cbr\u003e\nROSTOS,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cq04BQAAQBAJ",
+   "etag": "m3Gm5OHbdvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cq04BQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Matemática Contando Histórias",
+    "authors": [
+     "Marizete Dias Barros"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-01-13",
+    "description": "A Matemática contando Histórias - 1º ano, é parte da coleção de 5 livros, cada um dedicado a um ano de escolaridade do Ensino Fundamental na área de Conhecimento Matemático. Nessa coleção os conteúdos propostos pela legislação educacional do País são abordados a partir de uma perspectiva da Matemática do Cotidiano e a partir de uma visão pedagógica que pressupõe compromisso com uma aprendizagem significativa, que possibilite ao estudante, desenvolver a autonomia, o raciocínio lógico e a criatividade na busca de caminhos na construção do próprio conhecimento.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90158247"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 136,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cq04BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cq04BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cq04BQAAQBAJ&pg=PA137&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cq04BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cq04BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.92,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cq04BQAAQBAJ&rdid=book-cq04BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.292E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.292E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Matem%C3%A1tica_Contando_Hist%C3%B3rias-sample-pdf.acsm?id=cq04BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cq04BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O DESAFIO DE ESCHER Há alguns anos o CCBB apresentou a Exposição: \u003cb\u003eO\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eMUNDO MÁGICO DE ESCHER\u003c/b\u003e O artista plástico Escher usou e abusou da \u003cbr\u003e\nMatemática em suas criações mágicas. Na mostra estava exposto o quadro \u003cbr\u003e\nROSTOS,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ef7BDAAAQBAJ",
+   "etag": "+zCbzcelZfc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ef7BDAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Lei Rouanet muito além dos (f)atos",
+    "authors": [
+     "Henilton Menezes"
+    ],
+    "publisher": "e-galáxia",
+    "publishedDate": "2016-07-29",
+    "description": "A Lei Rouanet foi criada em 1991 para financiar o desenvolvimento da Cultura Brasileira, criando o Programa Nacional de Apoio à Cultura (PRONAC). Desde então já foram viabilizados mais de 35 mil projetos, com um investimento de R$ 14 bilhões de reais, oriundos de incentivos fiscais concedidos pelo Governo Federal. Com base num estudo completo e inédito dos projetos realizados entre 2010 e 2014, esse livro cria um retrato da eficácia dos investimentos realizados e seus impactos nos segmentos culturais beneficiados. Faz, ainda, uma avaliação dos três mecanismos criados pela lei, analisando temas como os problemas de gestão, as razões de concentração dos investimentos em alguns estados brasileiros e a participações pública e privada. Como é a distribuição dos recursos financeiros entre os produtores de cultura? Quais os principais investidores? Qual a importância econômica e social da política de incentivos para a cultura? Quais os problemas da Lei e alterar a lei para corrigi-las? \"A Lei Rouanet Muito Além dos (F)Atos\" traz respostas para estas e muitas outras questões, tornando-se leitura imprescindível para quem faz uso do programa, sejam produtores culturais, artistas, gestores de equipamentos culturais, gestores públicos, jornalistas, estudantes e pesquisadores interessados no tema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584741243"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8584741240"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 535,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.9.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ef7BDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ef7BDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ef7BDAAAQBAJ&pg=PT202&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ef7BDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ef7BDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ef7BDAAAQBAJ&rdid=book-Ef7BDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Lei_Rouanet_muito_al%C3%A9m_dos_f_atos-sample-epub.acsm?id=Ef7BDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Lei_Rouanet_muito_al%C3%A9m_dos_f_atos-sample-pdf.acsm?id=Ef7BDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ef7BDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Marcos Mantoan relatou que: brasileiro sempre gostou de frequentar centro \u003cbr\u003e\ncultural, não é de agora. Tive o privilégio de presenciar Escher (exposição “\u003cb\u003eO\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003emundo mágico de Escher\u003c/b\u003e”, do artista holandês M.C. Escher) no Rio, com acesso \u003cbr\u003e\npara&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nxyvCQAAQBAJ",
+   "etag": "fqdQsw3ulgA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nxyvCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Fazendo Arte com a Matemática - 2ed",
+    "subtitle": "",
+    "authors": [
+     "Estela Kaufman Fainguelernt",
+     "Katia Regina Ashton Nunes"
+    ],
+    "publisher": "Penso Editora",
+    "publishedDate": "2015-05-01",
+    "description": "Já pensou em despertar o interesse dos alunos para a matemática de forma lúdica e criativa? Neste livro, as autoras propõem o ensino e a aprendizagem da matemática por meio da arte. É um convite para abandonar velhas crenças e derrubar barreiras que impedem os alunos de conhecer e apreciar melhor essas áreas tão importantes. Fazendo arte com a matemática apresenta diferentes leituras das obras mais marcantes de artistas como Dalí, Picasso e Mondrian, propondo atividades que integram matemática e arte, tornando as aulas muito mais ricas e interessantes. Em sua segunda edição, a obra traz um novo capítulo totalmente dedicado a obras de artistas brasileiros, valorizando o estudo da arte nacional na escola.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584290338"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8584290338"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nxyvCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nxyvCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nxyvCQAAQBAJ&pg=PA31&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nxyvCQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nxyvCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 52.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nxyvCQAAQBAJ&rdid=book-nxyvCQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.28E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.28E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fazendo_Arte_com_a_Matem%C3%A1tica_2ed-sample-pdf.acsm?id=nxyvCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nxyvCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste vídeo, o arquiteto Roberto Pompéia faz um passeio por uma exposição de \u003cbr\u003e\nEscher denominada \u003cb\u003eO mundo mágico de Escher\u003c/b\u003e, e comenta os conceitos da \u003cbr\u003e\nsimetria e da geometria que permeiam as obras desse artista. O suíço Max Bill&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9jsTAQAAMAAJ",
+   "etag": "aKeCL9/wOpg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9jsTAQAAMAAJ",
+   "volumeInfo": {
+    "title": "O que falta ao mundo para ser quadro",
+    "authors": [
+     "Rosa Alice Branco"
+    ],
+    "publishedDate": "1993",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "MINN:31951P00339377K"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 78,
+    "printType": "BOOK",
+    "categories": [
+     "Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9jsTAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9jsTAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9jsTAQAAMAAJ&q=O+mundo+m%C3%A1gico+de+Escher&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9jsTAQAAMAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_que_falta_ao_mundo_para_ser_quadro.html?hl=&id=9jsTAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9jsTAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ERNST, Bruno - VAventure des Figures Impossibles, Berlin, Taschen, 1990. - O \u003cbr\u003e\nEspelho \u003cb\u003eMágico\u003c/b\u003e de M. C. \u003cb\u003eEscher\u003c/b\u003e, Berlin, Taschen, 1991. \u003cb\u003eESCHER\u003c/b\u003e, M. C. - \u003cbr\u003e\nUoeuvre Graphique, Paris, Solin, 1980. FOUCAULT, Michel - Les Mots et les \u003cbr\u003e\nChoses,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2BSPGwAACAAJ",
+   "etag": "DooLO9kWbuY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2BSPGwAACAAJ",
+   "volumeInfo": {
+    "title": "La magia de M.C. Escher",
+    "authors": [
+     "Maurits Cornelius Escher",
+     "J. L. Locher",
+     "W. F. Veldhuysen",
+     "Erik Thé"
+    ],
+    "publishedDate": "2003-01",
+    "description": "Jamás ningún artista trabajó con tanto ahínco como M. C. Escher para reproducir las visiones de su imaginación. Estas visiones fueron en si mismas bastante singulares - para Escher, la corteza del mundo visible no era otra cosa sino un trozo de tela que se podía cortar, plegar, configurar y reacomodar en formas maravillosas. Soberbio delineante, se impuso el reto de representar esas transformaciones sobrenaturales del espcaio dentro de los límites familiares estabelecidos por una hoja de papel. Las imágenes resultantes se han convertido en los materiales gráficos preferidos por decenas de miles de espectadores en todo elmundo. Este artista profundamente original se merecía desde hace tiempo un libro que hiciese justicia a su inventiva visual y aqui lo tenemos por fin. En él, las obras de Escher, desde los grandes grabados maestros hasta los numeroso dibujos previos inéditos, acompañados por sus palabras elocuentes, se han dispuesto de forma brillante, conformando así una expedici[on cinemática hacia el descubirmiento. Su destino será el mundo mágico de la imaginación del artista, un país inexplorado rebosante de concepciones e invenciones exóticas...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3822826111"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783822826119"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2BSPGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2BSPGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=2BSPGwAACAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2BSPGwAACAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_magia_de_M_C_Escher.html?hl=&id=2BSPGwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2BSPGwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jamás ningún artista trabajó con tanto ahínco como M. C. Escher para reproducir las visiones de su imaginación."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sQ9OAQAAMAAJ",
+   "etag": "KIDBHy1RK3E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sQ9OAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Expressão do espaço no português europeu",
+    "subtitle": "contributo psicolinguístico para o estudo da linguagem e cognição",
+    "authors": [
+     "Hanna Jakubowicz Batoréo"
+    ],
+    "publishedDate": "2000",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OSU:32435076518075"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 930,
+    "printType": "BOOK",
+    "categories": [
+     "Cognition"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sQ9OAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sQ9OAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sQ9OAQAAMAAJ&q=O+mundo+m%C3%A1gico+de+Escher&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sQ9OAQAAMAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Express%C3%A3o_do_espa%C3%A7o_no_portugu%C3%AAs_euro.html?hl=&id=sQ9OAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sQ9OAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Tempo sem a consciência significa — para Nabokov — um \u003cb\u003emundo\u003c/b\u003e animal, o \u003cbr\u003e\nTempo com a consciência é \u003cb\u003eo mundo\u003c/b\u003e do ... No nosso entender, é o caso do &quot;\u003cbr\u003e\nEspelho \u003cb\u003eMágico\u003c/b\u003e&quot; (1946), uma litografia de M. C. \u003cb\u003eEscher\u003c/b\u003e&quot;, que goza de um \u003cbr\u003e\nestatuto&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hd4eAQAAMAAJ",
+   "etag": "L3WCCMQCYtw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hd4eAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Colóquio",
+    "subtitle": "Artes",
+    "publishedDate": "1995",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NWU:35556026825364"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hd4eAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hd4eAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hd4eAQAAMAAJ&q=O+mundo+m%C3%A1gico+de+Escher&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=hd4eAQAAMAAJ&dq=O+mundo+m%C3%A1gico+de+Escher&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Col%C3%B3quio.html?hl=&id=hd4eAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hd4eAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "INCM, 1988 (\u003cb\u003eEscher\u003c/b\u003e) Ernst, B., O Espelho \u003cb\u003emágico\u003c/b\u003e de M. C. \u003cb\u003eEscher\u003c/b\u003e, Taschen, tr, \u003cbr\u003e\nport., 1991. FB – Figures du Baroque, Colloque-Cérisy, ... Hocke, Gustav, \u003cbr\u003e\nManeirismo: \u003cb\u003eO Mundo\u003c/b\u003e como Labirinto, tr. Perspectiva, 1986. Hottois, Gilbert, \u003cbr\u003e\nPenser la&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UCkMQgAACAAJ",
+   "etag": "fU2upr8du3c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UCkMQgAACAAJ",
+   "volumeInfo": {
+    "title": "OS 13 PORQUES",
+    "authors": [
+     "JAY ASHER"
+    ],
+    "description": "Ao voltar da escola, Clay Jensen encontra na porta de casa um misterioso pacote com seu nome. Dentro, ele descobre várias fitas cassetes. O garoto ouve as gravações e se dá conta de que elas foram feitas por Hannah Baker - uma colega de classe e antiga paquera -, que cometeu suicídio duas semanas atrás. Nas fitas, Hannah explica que existem treze motivos que a levaram à decisão de se matar. Clay é um desses motivos. Agora ele precisa ouvir tudo até o fim para descobrir como contribuiu para esse trágico acontecimento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8508126654"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788508126651"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UCkMQgAACAAJ&dq=isbn:9788508126651&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UCkMQgAACAAJ&dq=isbn:9788508126651&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/OS_13_PORQUES.html?hl=&id=UCkMQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UCkMQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao voltar da escola, Clay Jensen encontra um misterioso pacote com fitas cassetes narradas por uma colega de classe, nas quais ela explica por que cometeu suicídio."
+   }
+  }
+ ]
+}

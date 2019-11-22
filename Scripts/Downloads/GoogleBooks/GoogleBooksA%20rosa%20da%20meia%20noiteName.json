@@ -1,0 +1,808 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 360,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Fx9fAwAAQBAJ",
+   "etag": "YS3og/OJ/jo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Fx9fAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Rosa da Meia-Noite",
+    "subtitle": "Uma paixão para a vida toda. Uma procura sem fim.",
+    "authors": [
+     "Lucinda Riley"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2014-04-28",
+    "description": "Atravessando quatro gerações, A Rosa da Meia-Noite percorre desde os reluzentes palácios dos marajás da Índia até as imponentes mansões da Inglaterra, seguindo a trajetória extraordinária de Anahita Chavan, de 1911 até os dias de hoje. No apogeu do Império Britânico, a pequena Anahita, de 11 anos, de origem nobre e família humilde, aproxima-se da geniosa Princesa Indira, com quem estabelece um laço de afeto que nunca mais se romperia. Anahita acompanha sua amiga em uma viagem à Inglaterra pouco tempo antes da eclosão da Primeira Guerra Mundial. Ela conhece, então, o jovem Donald Astbury, herdeiro de uma deslumbrante propriedade, e sua ardilosa mãe. Oitenta anos depois, Rebecca Bradley é uma jovem atriz norte-americana que tem o mundo a seus pés. Quando a turbulenta relação com seu namorado, igualmente rico e famoso, toma um rumo inesperado, ela fica feliz por saber que o seu próximo papel uma aristocrata dos anos 1920 irá levá-la para muito longe dos holofotes: a isolada região de Dartmoor, na Inglaterra. As filmagens começam rapidamente, e a locação é a agora decadente Astbury Hall. Descendente de Anahita, Ari Malik chega ao País sem aviso prévio, afim de mergulhar na história do passado de sua família. Algo que ele descobre junto com Rebecca começa a trazer à tona segredos obscuros que assombram a dinastia Astbury. Mesma autora de A Casa das Orquídeas, A Luz através da Janela e A Garota do Penhasco",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581634371"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581634370"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 572,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.21.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Fx9fAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Fx9fAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Fx9fAwAAQBAJ&printsec=frontcover&dq=A+rosa+da+meia+noite&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Fx9fAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Fx9fAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.16,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Fx9fAwAAQBAJ&rdid=book-Fx9fAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.416E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Rosa_da_Meia_Noite-sample-epub.acsm?id=Fx9fAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Rosa_da_Meia_Noite-sample-pdf.acsm?id=Fx9fAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Fx9fAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Atravessando quatro gerações, A Rosa da Meia-Noite percorre desde os reluzentes palácios dos marajás da Índia até as imponentes mansões da Inglaterra, seguindo a trajetória extraordinária de Anahita Chavan, de 1911 até os dias de ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "85Q_E-55xiMC",
+   "etag": "e9C0mQJNaIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/85Q_E-55xiMC",
+   "volumeInfo": {
+    "title": "TRANSICAO",
+    "authors": [
+     "JOSÉ ANTÔNIO DE AZEVEDO"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "Transição é o título de um livro de conteúdo idêntico a sua gênese. Trata de modo quase metafórico das diversas transições porque tem passado o mundo com as suas metamorfoses, desde a agricultura primitiva, passando pela histórica, familiar, social, religiosa, literária até a tecnológica atual. Nesta volúpia de cada vez ter mais incentivou a humanidade a empregar todo o seu poder de inteligência em escala espantosa para, nos últimos sessenta anos, evoluir mais que toda história passada, até então. Neste sentido, a atual geração dos setentões suportou todo o peso desta carga ao adaptar-se à inversão de valores, essencialmente, à ética.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788561590611"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8561590610"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=85Q_E-55xiMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=85Q_E-55xiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=85Q_E-55xiMC&pg=PA52&dq=A+rosa+da+meia+noite&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=85Q_E-55xiMC&dq=A+rosa+da+meia+noite&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/TRANSICAO.html?hl=&id=85Q_E-55xiMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=85Q_E-55xiMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "bem, não dispondo de recursos financeiros para dançar naqueles bailes, \u003cbr\u003e\nChaline contornava a dificuldade fazendo bico, fora do expediente normal. \u003cb\u003eA\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003erosa da meia\u003c/b\u003e-\u003cb\u003enoite\u003c/b\u003e era única, arrematada por um rapaz, que a ofertava a uma \u003cbr\u003e\nmoça, com&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nx25BwAAQBAJ",
+   "etag": "lVGJmLcKf7A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nx25BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Histórias da Meia-Noite [Biografia com Análises e Críticas, Ilustrado] - Vol. II",
+    "subtitle": "Contos: A Parasita Azul, As Bodas de Luís Duarte, Ernesto de Tal, O Relógio de Ouro, Ponto de Vista",
+    "authors": [
+     "Machado de Assis"
+    ],
+    "publisher": "LL Library",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Nx25BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Nx25BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Nx25BwAAQBAJ&pg=PT153&dq=A+rosa+da+meia+noite&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Nx25BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Nx25BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Nx25BwAAQBAJ&rdid=book-Nx25BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3rias_da_Meia_Noite_Biografia_com_A-sample-epub.acsm?id=Nx25BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3rias_da_Meia_Noite_Biografia_com_A-sample-pdf.acsm?id=Nx25BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Nx25BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nasceram uma para outra; era o cravo e a \u003cb\u003erosa\u003c/b\u003e; \u003cb\u003ea rosa\u003c/b\u003e vivia para o cravo, o \u003cbr\u003e\ncravo vivia para \u003cb\u003ea rosa\u003c/b\u003e: veio uma brisa e comunicou os perfumes ... O jantar \u003cbr\u003e\nchegava ao fim: eram oito horas e \u003cb\u003emeia\u003c/b\u003e; vinham chegando alguns músicos para \u003cbr\u003e\no baile."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Wa9cAAAAQBAJ",
+   "etag": "6P+/pkB8fZ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wa9cAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Histórias da meia-noite",
+    "authors": [
+     "Machado de Assis"
+    ],
+    "publisher": "Google Play Books",
+    "publishedDate": "2013-10-10",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Wa9cAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Wa9cAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Wa9cAAAAQBAJ&pg=PT103&dq=A+rosa+da+meia+noite&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Wa9cAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Wa9cAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=Wa9cAAAAQBAJ&rdid=book-Wa9cAAAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Hist%C3%B3rias_da_meia_noite.epub?id=Wa9cAAAAQBAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Wa9cAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA rosa\u003c/b\u003e e o cravo ali estão consorciados no amplexo da simpatia: \u003cb\u003ea\u003c/b\u003e brisa ali está \u003cbr\u003e\nhonrando \u003cb\u003ea\u003c/b\u003e nossa reunião. Ninguém ... O jantar ChegaVa ao fim: eram oito horas \u003cbr\u003e\ne \u003cb\u003emeia\u003c/b\u003e; Vinham chegando alguns músicos para o baile. Todavia, ainda houve&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nPNGAQAAMAAJ",
+   "etag": "8pS4XocdbPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nPNGAQAAMAAJ",
+   "volumeInfo": {
+    "title": "A lenda da meia-noite",
+    "authors": [
+     "Manuel Pinheiro Chagas"
+    ],
+    "publishedDate": "1874",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "SRLF:A0000610394"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 227,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nPNGAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nPNGAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nPNGAQAAMAAJ&pg=PA64&dq=A+rosa+da+meia+noite&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nPNGAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nPNGAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=nPNGAQAAMAAJ&rdid=book-nPNGAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/A_lenda_da_meia_noite.epub?id=nPNGAQAAMAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nPNGAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Branca vinha triste, triste como \u003cb\u003ea\u003c/b\u003e rola namorada que vê fugir para longes terras o \u003cbr\u003e\nescolhido do seu coração, e pallida como \u003cb\u003ea\u003c/b\u003e ... O sol tinha surgido havia pouco do \u003cbr\u003e\nOriente, e a oração da candida virgem, pura como \u003cb\u003ea rosa\u003c/b\u003e que abre o seio ao&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "74S4DQAAQBAJ",
+   "etag": "0El65vwTa58",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/74S4DQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Rosa Branca",
+    "authors": [
+     "Amy Ewing"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2016-12-01",
+    "description": "A continuação de \"A cidade solitária\" promete ser ainda mais emocionante. No livro A Joia, primeiro volume da série A Cidade Solitária , Violet Lasting é comprada por uma das mulheres mais poderosas da realeza, a Duquesa do Lago, e vai viver com ela na Joia, o círculo onde mora toda a nobreza. Agora, Violet tem de fugir da Joia, do círculo nobre da Cidade Solitária para salvar a própria vida e a do seu amor, Ash. Junto com seu amado e Raven, sua melhor amiga, Violet tenta se libertar da terrível vida de servidão e crueldade. Só que ninguém disse que deixar a Joia seria fácil, e ela terá que passar por grandes obstáculos. No meio disso tudo, a jovem ainda descobre que há uma revolução sendo planejada contra a realeza e que seu papel nisso é fundamental. É hora de Violet descobrir que é muito mais poderosa do que sempre imaginou!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544104422"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544104428"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=74S4DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=74S4DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=74S4DQAAQBAJ&pg=PT86&dq=A+rosa+da+meia+noite&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=74S4DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-74S4DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=74S4DQAAQBAJ&rdid=book-74S4DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Rosa_Branca-sample-epub.acsm?id=74S4DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=74S4DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma menina muito nova, no máximo \u003cb\u003ede\u003c/b\u003e 14 anos, chama da frente \u003cb\u003ede\u003c/b\u003e uma casa \u003cbr\u003e\npintada \u003cb\u003ede rosa\u003c/b\u003e e amarelo. Ela usa menos roupas que ... O relógio na torre do \u003cbr\u003e\noutro lado da praça informa que passa da \u003cb\u003emeia\u003c/b\u003e-\u003cb\u003enoite\u003c/b\u003e. Um casal está sentado em\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZekBAQAAQBAJ",
+   "etag": "FM0ayt19+Hg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZekBAQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Rosa e o Dragão",
+    "subtitle": "",
+    "authors": [
+     " VANESSA PEREIRA"
+    ],
+    "publisher": "Novo Seculo Livraria e Editora Ltda",
+    "description": "Nosso destino está definido ou somos nós que o escrevemos através de nossas escolhas? Desirée é uma típica adolescente, com amizades fortes desde a infância. Pais ausentes, amigos presentes e uma certeza: a amizade não se troca por nada. Mas e quando surge um amor inimaginável? Tudo se transforma ao conhecer Andrew, um rapaz elegante, que chama a atenção por seu modo de ser. O amor acontece e dispara o coração adolescente. Contudo, Desirée mal sabe o que a espera. Um único pedido de Andrew e toda sua vida pode mudar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576798927"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576798921"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZekBAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZekBAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZekBAQAAQBAJ&pg=PT6&dq=A+rosa+da+meia+noite&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZekBAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZekBAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZekBAQAAQBAJ&rdid=book-ZekBAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Rosa_e_o_Drag%C3%A3o-sample-epub.acsm?id=ZekBAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Rosa_e_o_Drag%C3%A3o-sample-pdf.acsm?id=ZekBAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZekBAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu estava andando pelo parque da cidade. Já passava da \u003cb\u003emeia noite\u003c/b\u003e. Estava me \u003cbr\u003e\nsentindo tão bem com o brilhodaLua que refletia em mim que nem percebi o \u003cbr\u003e\npassar das horas. Então resolvi sentar perto do lago para admirar \u003cb\u003ea\u003c/b\u003e Lua cheia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VOZ7b6dtlwcC",
+   "etag": "ehTYWAxkIxI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VOZ7b6dtlwcC",
+   "volumeInfo": {
+    "title": "O Véu da Meia-Noite",
+    "authors": [
+     "LARA ADRIAN"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-05-10",
+    "description": "Guerreira especialista em balas e lâminas, Renata é superior a qualquer homem - vampiro ou mortal. Mas a sua arma mais poderosa é o seu extraordinário dom psíquico - uma dádiva rara e mortífera. Agora um estranho ameaça a sua independência ganha a custo, um vampiro de cabelo dourado que a atrai para um reino sombrio... e prazer para lá da imaginação. Viciado em adrenalina, Nikolai distribui a sua própria justiça pelos inimigos da Raça - e a sua última presa é um assassino implacável. Uma mulher atravessa-se à sua frente: Renata, a guarda-costas sedutora e calma. Mas os poderes de Renata são testados quando uma criança que ama é ameaçada, e ela é forçada a pedir ajuda a Niko. Quando os dois unem esforços, quando o desejo alimenta as chamas de uma fome mais profunda, a vida de Renata é cercada por um homem que oferece o delicioso prazer de um vínculo de sangue... e uma paixão que pode salvá-los ou condená-los para sempre...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898228949"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898228946"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VOZ7b6dtlwcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VOZ7b6dtlwcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VOZ7b6dtlwcC&pg=PT123&dq=A+rosa+da+meia+noite&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VOZ7b6dtlwcC&dq=A+rosa+da+meia+noite&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_V%C3%A9u_da_Meia_Noite.html?hl=&id=VOZ7b6dtlwcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_V%C3%A9u_da_Meia_Noite-sample-epub.acsm?id=VOZ7b6dtlwcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_V%C3%A9u_da_Meia_Noite-sample-pdf.acsm?id=VOZ7b6dtlwcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VOZ7b6dtlwcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eA\u003c/b\u003e luz ultravioleta era tóxica para \u003cb\u003ea\u003c/b\u003e sua espécie – letal ao fim \u003cb\u003ede\u003c/b\u003e cerca \u003cb\u003ede\u003c/b\u003e uma \u003cbr\u003e\nhora \u003cb\u003ede\u003c/b\u003e exposição prolongada –, mas não conseguia reunir \u003cb\u003ea\u003c/b\u003e coragem para \u003cbr\u003e\ntapar aquela fresta na ... Também explicava porque tinha passado toda \u003cb\u003ea noite\u003c/b\u003e, \u003cb\u003eà\u003c/b\u003e \u003cbr\u003e\nexceção da ... Corou, ficando com as faces \u003cb\u003ede\u003c/b\u003e um ternurento tomcor \u003cb\u003ede rosa\u003c/b\u003e.–\u003cb\u003eA\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003enoite\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mNZGAAAAMAAJ",
+   "etag": "PCqIUeov/7w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mNZGAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Archivo pittoresco",
+    "publishedDate": "1860",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015034734627"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portugal"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mNZGAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mNZGAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mNZGAAAAMAAJ&pg=PA387&dq=A+rosa+da+meia+noite&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mNZGAAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-mNZGAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=mNZGAAAAMAAJ&rdid=book-mNZGAAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Archivo_pittoresco.pdf?id=mNZGAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3eMM1dmPELpCqLuGaZN4jQBQU2EA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mNZGAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "38l| Isabel estava no jardim havia \u003cb\u003emeia\u003c/b\u003e hora, mas o negrinho encantado ainda \u003cbr\u003e\nnão tinha apparecido. Decorreu ... Cançada e inconsolavel, retirou-se; e ao \u003cbr\u003e\ndesata- viar-se, viu no toucador \u003cb\u003ea rosa de\u003c/b\u003e Alexandria que recebera na vespera \u003cbr\u003e\n\u003cb\u003ede\u003c/b\u003e S. João entre as \u003cb\u003ede\u003c/b\u003e oiro e perolas. Aquella ... Porventura não és tu o genio da \u003cbr\u003e\n\u003cb\u003enoite\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zQXhAQAAQBAJ",
+   "etag": "G54+tMoaT1k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zQXhAQAAQBAJ",
+   "volumeInfo": {
+    "title": "O Brasil de rosa: mito e história no universo rosiano: o amor e o poder",
+    "authors": [
+     "Luiz Roncari"
+    ],
+    "publisher": "SciELO - Editora UNESP",
+    "publishedDate": "2004-01-01",
+    "description": "Livro que procura discutir parte da obra de GUIMARÃES ROSA como sendo a de um intérprete do Brasil, de forma peculiar (como afirma o autor) que, nos seus três primeiros livros, apreciou os costumes da vida pública junto aos da vida privada, os familiares e amorosos, próprios do romance. Demonstra como as três obras iniciais de Rosa, .Sagarana, Corpo de baile e Grande sertão: veredas, se relacionam e se imbricam, podendo as duas primeiras ser consideradas como estudos preparatórios para Grande sertão. Nessa perspectiva, o autor investiga a genealogia e a formação do herói jagunço; a gestação dos paradigmas amorosos de Grande sertão, já incubados em Sagarana e desenvolvidos num dos romances de Corpo de baile; e a teatralização do drama civilizatório no Brasil. (co-edição: FAPESP)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539302819"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539302810"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 348,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zQXhAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zQXhAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zQXhAQAAQBAJ&pg=PA117&dq=A+rosa+da+meia+noite&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zQXhAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zQXhAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zQXhAQAAQBAJ&rdid=book-zQXhAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.12E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.12E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_de_rosa_mito_e_hist%C3%B3ria_no_uni-sample-epub.acsm?id=zQXhAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Brasil_de_rosa_mito_e_hist%C3%B3ria_no_uni-sample-pdf.acsm?id=zQXhAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zQXhAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "pensar que \u003cb\u003ea\u003c/b\u003e oposição, no caso, é só entre uma mentalidade religiosa branca, \u003cbr\u003e\ncristã, e uma negra, afro. ... do Mangolô, que tem ao lado o chiqueiro onde os \u003cbr\u003e\nporcos chafurdam e se empanturram, e que, \u003cb\u003eà meia\u003c/b\u003e-\u003cb\u003enoite\u003c/b\u003e, “nessa hora vira fera”."
+   }
+  }
+ ]
+}

@@ -1,0 +1,806 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 31,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5rctCgAAQBAJ",
+   "etag": "eMA303LZiuQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5rctCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O conde enfeitiçado",
+    "authors": [
+     "Julia Quinn"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2015-08-05",
+    "description": "Toda vida tem um divisor de águas, um momento súbito, empolgante e extraordinário que muda a pessoa para sempre. Para Michael Stirling, esse instante ocorreu na primeira vez em que pôs os olhos em Francesca Bridgerton.Depois de anos colecionando conquistas amorosas sem nunca entregar seu coração, o libertino mais famoso de Londres enfim se apaixonou. Infelizmente, conheceu a mulher de seus sonhos no jantar de ensaio do casamento dela. Em 36 horas, Francesca se tornaria esposa do primo dele.Mas isso foi no passado. Quatro anos depois, Francesca está livre, embora só pense em Michael como amigo e confidente. E ele não ousa falar com ela sobre seus sentimentos – a culpa por amar a viúva de John, praticamente um irmão para ele, não permite.Em um encontro inesperado, porém, Francesca começa a ver Michael de outro modo. Quando ela cai nos braços dele, a paixão e o desejo provam ser mais fortes do que a culpa. Agora o ex-devasso precisa convencê-la de que nenhum homem além dele a fará mais feliz.No sexto livro da série Os Bridgertons, Julia Quinn mostra, em sua já consagrada escrita cheia de delicadezas, que a vida sempre nos reserva um final feliz. Basta que estejamos atentos para enxergá-lo.\"Julia Quinn é nossa Jane Austen contemporânea.\" – Jill Barnett, autora de Tudo por um beijo\"Inteligente e divertido.\" – revista Time",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580414417"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580414415"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.18.18.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5rctCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5rctCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5rctCgAAQBAJ&printsec=frontcover&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5rctCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5rctCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.89,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5rctCgAAQBAJ&rdid=book-5rctCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.089E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_conde_enfeiti%C3%A7ado-sample-epub.acsm?id=5rctCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_conde_enfeiti%C3%A7ado-sample-pdf.acsm?id=5rctCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5rctCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Basta que estejamos atentos para enxergá-lo. &quot;Julia Quinn é nossa Jane Austen contemporânea.&quot; – Jill Barnett, autora de Tudo por um beijo &quot;Inteligente e divertido.&quot; – revista Time"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZF89DwAAQBAJ",
+   "etag": "EUC30Z6+Lyw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZF89DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Enfeitiçada pelo meu sedutor",
+    "authors": [
+     "Dawn Brower"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2017-11-05",
+    "description": "Zane Rossington, Marquês de Seabrook está desiludido e entediado. Não acredita no amor, e vive a vida como bem entende. Tudo isso muda quando encontra uma mulher misteriosa vagando pela sua estufa, durante seu baile anual de máscaras, com tema de Era Regência. Lady Callista Lyon, Condessa de Marin tinha um desejo... vingança. No momento em que finalmente a alcançaria, ela é derrubada do terraço e, de algum modo, acaba na estufa da mansão Seabrook. Incerta se conseguiu completar a missão, mas determinada a seguir em frente, ela faz o seu melhor para se adaptar à nova vida. Em meio ao caos e incertezas, será que Zane e Callista descobrirão algo que tinham acreditado ter perdido?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781507197011"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1507197012"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 105,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZF89DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZF89DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZF89DwAAQBAJ&pg=PT15&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZF89DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZF89DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZF89DwAAQBAJ&rdid=book-ZF89DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.525E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.291E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZF89DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO conde\u003c/b\u003e não viverá para ver outro dia.” Callista continuou andando para frente. “\u003cbr\u003e\nAgora, Ulrich, é hora de você partir.” \u003cb\u003eO conde\u003c/b\u003e não parecia estar pronto para nada\u003cbr\u003e\n. Estava em pé, parado, e parecia pensar. “Não vai atirar em mim. Não até que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F_CGDwAAQBAJ",
+   "etag": "JhdsmOmwlLA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F_CGDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Conde de Grayson",
+    "authors": [
+     "Amanda Mariel"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2019-01-17",
+    "description": "Damien Archer, o Conde de Grayson e Lady Charlotte Lawson são completos opostos. Onde ele é moreno, ela é toda mechas louras e olhos azuis. A pele de alabastro de Charlotte é um total contraste que o bronzeado de Damien. Ele tem um metro e oitenta e sete, e ela é tão pequena que mal chega a um metro e meio. Além disso, a personalidade alegre dela é o total oposto da sua disposição mal humorada dele. Mas o mais aborrecido de tudo isso é a tendência que ele tem de se esquivar das regras da sociedade enquanto ela as segue sem vacilar. Damien deseja nada mais que passar tempo bebendo, festejando e apostando, enquanto Charlotte passa suas tardes em chás, bailes e musicais. Ela é uma verdadeira dama e ele um libertino determinado. Quando os caminhos deles se cruzam, eles têm todas as razões para seguirem direções opostas, mas ainda assim, eles não parecem conseguir evitar um ao outro. As paixões se intensificam, colocando-os em risco. Eles correm o risco de perder não apenas suas reputações, mas o mais importante, os seus corações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781547566563"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1547566566"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F_CGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F_CGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F_CGDwAAQBAJ&pg=PT8&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=F_CGDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-F_CGDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=F_CGDwAAQBAJ&rdid=book-F_CGDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F_CGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Série Damas e Vagabundos: Esquemas Escandalosos Intenções Escandalosas \u003cbr\u003e\nEscandalosa Redenção Escandalosa Ligação Escandalosa (Em breve) Amores \u003cbr\u003e\nFabulosos: \u003cb\u003eEnfeitiçada\u003c/b\u003e pelo \u003cb\u003eConde\u003c/b\u003e Aprisionada pelo Capitão Encantado por&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HPU_DwAAQBAJ",
+   "etag": "Df8tCqczqbE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HPU_DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Enfeitiçada pelo Conde",
+    "authors": [
+     "Amanda Mariel"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2017-11-18",
+    "description": "Rose e Hunter vão superar suas diferenças e abrir os braços para o amor verdadeiro? Rose Woodcourt, uma costureira pobre, é orgulhosa demais para aceitar ajuda, mesmo quando seu lar e sua liberdade estão sendo ameaçados pelo infame Sr. Wolfe. Especialmente não de Hunter Thorne, um cavalheiro com título, que está muito acima da sua posição. Condes cortejam plebeias por uma razão e uma razão somente, e Rose não tem interesse em se tornar a amante de um homem rico – não importa o quão lindo e encantador ele seja. Hunter é um homem honrado: ele se recusa a dar as costas para aquela beleza vivaz, não importa o quanto ela o afaste. À medida que as ameaças do Sr. Wolfe evoluem para ações, Rose não tem outra opção a não ser recorrer a Hunter. Eles poderão colocar um fim às abomináveis façanhas de Wolfe antes que Rose perca tudo o que lhe é de mais querido, incluindo a sua liberdade?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781507198049"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1507198043"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HPU_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HPU_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HPU_DwAAQBAJ&pg=PT8&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HPU_DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HPU_DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HPU_DwAAQBAJ&rdid=book-HPU_DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.525E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HPU_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Amanda Mariel. Enfeitiçada pelo Conde Amores Fabulosos livro um Amanda \u003cbr\u003e\nMariel Dedicatória Para todos nós que ainda acreditamos em Página do Título \u003cbr\u003e\nPágina dos Direitos Autorais Enfeitiçada pelo \u003cb\u003eConde Enfeitiçada\u003c/b\u003e pelo Conde."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qQIkL_ZzrBcC",
+   "etag": "wA+Zo4qPRJ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qQIkL_ZzrBcC",
+   "volumeInfo": {
+    "title": "O conde de Monte Cristo: edição bolso de luxo",
+    "authors": [
+     "Alexandre Dumas"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2012-07-16",
+    "description": "Traições, denúncias anônimas, tesouros fabulosos, envenenamentos, vinganças e muito suspense. A trama de \"O Conde de Monte Cristo\" traz uma emoção diferente a cada página e talvez isso explique a razão de a obra do escritor francês Alexandre Dumas ter se transformado em um clássico da literatura mundial, mexendo com a imaginação dos leitores há mais de 150 anos. No romance, o marinheiro Edmond Dantés é preso injustamente, vítima de um complô. Anos depois, consegue escapar da prisão, enriquece e planeja uma vingança mirabolante. A galeria de personagens criada por Dumas faz um retrato fiel da França do século XIX, um mundo em transformação, em que passou a ser possível a mudança de posições sociais. As aventuras de Dantés ainda ganharam diversas versões cinematográficas que colaboraram para o sucesso da trama. Com texto integral e a mesma tradução premiada da Edição Comentada e Ilustrada, vencedora do Jabuti, a versão Bolso de Luxo ainda tem capa dura. E tudo com um preço mais que acessível.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537808801"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537808806"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1663,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.14.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qQIkL_ZzrBcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qQIkL_ZzrBcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qQIkL_ZzrBcC&pg=PA1256&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qQIkL_ZzrBcC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qQIkL_ZzrBcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qQIkL_ZzrBcC&rdid=book-qQIkL_ZzrBcC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_conde_de_Monte_Cristo_edi%C3%A7%C3%A3o_bolso_d-sample-epub.acsm?id=qQIkL_ZzrBcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_conde_de_Monte_Cristo_edi%C3%A7%C3%A3o_bolso_d-sample-pdf.acsm?id=qQIkL_ZzrBcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qQIkL_ZzrBcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E é o senhor, \u003cb\u003econde\u003c/b\u003e, quem promove esse casamento? ... \u003cb\u003eO conde\u003c/b\u003e irá me fazer a \u003cbr\u003e\njustiça de atestar que sempre lhe supliquei, ao contrário, para romper o meu \u003cbr\u003e\ncompromisso, ... Danglars, mas ele está \u003cb\u003eenfeitiçado\u003c/b\u003e pelo seu cidadão de Lucca."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-r0GAAAAQAAJ",
+   "etag": "n8PmRRvViPY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-r0GAAAAQAAJ",
+   "volumeInfo": {
+    "title": "Revista universal Lisbonense",
+    "publishedDate": "1850",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:555048563"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-r0GAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-r0GAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-r0GAAAAQAAJ&pg=PA124&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-r0GAAAAQAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--r0GAAAAQAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=-r0GAAAAQAAJ&rdid=book--r0GAAAAQAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Revista_universal_Lisbonense.pdf?id=-r0GAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2-aNEK3k0US7CCndCP8Wwt426Ffw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-r0GAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não é por bruxaria que o Sr. \u003cb\u003eConde\u003c/b\u003e se fez estimar de El-Rei; — que lá estimal-o, \u003cbr\u003e\nestima-o ele, e de véras — a amizade de Sua ... —Não ha terras em Portugal \u003cbr\u003e\nque cheguem para o Sr. \u003cb\u003eConde\u003c/b\u003e — accrescentou outro. ... Para \u003cb\u003eenfeitiçar\u003c/b\u003e El-Rei."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ii8uAQAAIAAJ",
+   "etag": "RBkkv6BbC5E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ii8uAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Um anno na corte",
+    "authors": [
+     "João de Andrade Corvo"
+    ],
+    "publishedDate": "1863",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3117593"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portugal"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ii8uAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ii8uAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ii8uAQAAIAAJ&pg=RA1-PA84&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ii8uAQAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ii8uAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=ii8uAQAAIAAJ&rdid=book-ii8uAQAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Um_anno_na_corte.epub?id=ii8uAQAAIAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Um_anno_na_corte.pdf?id=ii8uAQAAIAAJ&hl=&output=pdf&sig=ACfU3U2_3m8IooLS3WIeYUERe9RX5tWOtg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ii8uAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Então nega, senhor Zé, que \u003cb\u003eo conde\u003c/b\u003e fosse uma noite a casa aqui da velha Zaída, \u003cbr\u003e\npara ella lhe ensinar uma receita... — Uma receita para quê? — perguntou \u003cbr\u003e\ncolerico Manuel Serralheiro, o defensor do \u003cb\u003econde\u003c/b\u003e. — Para \u003cb\u003eenfeitiçar\u003c/b\u003e el-rei."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nB0oAAAAYAAJ",
+   "etag": "siSVrGuybHY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nB0oAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Anecdotas do ministerio do marquez de Pombal e conde d'Oeiras Sebastião José de Carvalho sobre o reinado de José Ie",
+    "subtitle": "rei de Portugal",
+    "publishedDate": "1852",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:HNKBDY"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nB0oAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nB0oAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nB0oAAAAYAAJ&pg=PA194&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nB0oAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-nB0oAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=nB0oAAAAYAAJ&rdid=book-nB0oAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Anecdotas_do_ministerio_do_marquez_de_Po.epub?id=nB0oAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Anecdotas_do_ministerio_do_marquez_de_Po.pdf?id=nB0oAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3wjGEW7hfMwo1fM26yuEFLLqM6Bg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nB0oAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... indignado d&#39;esta constancia, vingou-se publicando , que elle morrêra mais \u003cbr\u003e\nendurecido do que Antiocho , mais desesperado do que Judas , pela ridícula \u003cbr\u003e\nvaidade de sustentar a honra de uma Companhia , que possuía o segredo d,\u003cbr\u003e\n\u003cb\u003eenfeitiçar\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qyw5AQAAMAAJ",
+   "etag": "XWyC1EFhhn4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qyw5AQAAMAAJ",
+   "volumeInfo": {
+    "title": "Anecdotas du ministerio do Marquez de Pombal e conde d'Oeiras Sabastiô Jose' de Carvalho, sobre o reinado de D. Jos ̌I, rei de Portugal",
+    "authors": [
+     "Sebastiao Jo ̌de Carvalho e Mello marquis de Pombal"
+    ],
+    "publishedDate": "1852",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000131055463"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qyw5AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qyw5AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qyw5AQAAMAAJ&pg=PA194&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qyw5AQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qyw5AQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=qyw5AQAAMAAJ&rdid=book-qyw5AQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Anecdotas_du_ministerio_do_Marquez_de_Po.pdf?id=qyw5AQAAMAAJ&hl=&output=pdf&sig=ACfU3U3ZvNE0FLVNbCtqCRqEp9Ua_pvVrQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qyw5AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... mais desesperado do que Judas , pela ridicula vaidade de sustentar a honra \u003cbr\u003e\nde uma Companhia, que possuia o segredo d&#39;\u003cb\u003eenfeitiçar\u003c/b\u003e todos os que se the \u003cbr\u003e\nentregavam. Dizendo depois piedosamente, que tinha dito missa para pedir a \u003cbr\u003e\nDeos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "huIpAAAAYAAJ",
+   "etag": "wNFcLxnnvO4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/huIpAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O lobo da madragôa",
+    "subtitle": "romance original ...",
+    "authors": [
+     "Alberto Pimentel"
+    ],
+    "publishedDate": "1904",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433082238266"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 341,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=huIpAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=huIpAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=huIpAAAAYAAJ&q=O+conde+enfeiti%C3%A7ado&dq=O+conde+enfeiti%C3%A7ado&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=huIpAAAAYAAJ&dq=O+conde+enfeiti%C3%A7ado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_lobo_da_madrag%C3%B4a.html?hl=&id=huIpAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=huIpAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O joven \u003cb\u003econde\u003c/b\u003e de Oeiras tao rendido ficou com aquelle olhar que promettia \u003cbr\u003e\nparaisos e saques, tao encantado pela formosa serêa, que tambem ... \u003cb\u003eO conde\u003c/b\u003e, \u003cbr\u003e\njá \u003cb\u003eenfeitiçado\u003c/b\u003e pela «prima-donna,» approvou este plano, e prometteu auxilial-o."
+   }
+  }
+ ]
+}

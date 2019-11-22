@@ -1,0 +1,795 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 173,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dkmRjSFOXrIC",
+   "etag": "h4C14dINSyA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dkmRjSFOXrIC",
+   "volumeInfo": {
+    "title": "Os últimos passos de um vencedor",
+    "authors": [
+     "José Roberto Burnier"
+    ],
+    "publisher": "Globo Livros",
+    "description": "O experiente repórter José Roberto Burnier acompanhou de perto os cinco últimos anos do ex-vice-presidente da República. Nesse período, estabeleceu uma relação de amizade e confiança com José Alencar, convivendo mais com ele, seus familiares e médicos que com a própria família — no momento de sua morte, Burnier era o único jornalista dentro do Hospital Sírio-Libanês e foi o primeiro a anunciar seu falecimento, em rede nacional, quando a emoção precisou ser controlada, e o repórter então prevaleceu sobre o amigo e admirador. Burnier reconstrói, a partir de depoimentos do próprio Alencar e de vasta pesquisa, o vitorioso caminho percorrido pelo garoto pobre que se tornou empresário bem-sucedido e vice-presidente da República. Além disso, traz informações inéditas e exclusivas sobre a doença e a morte do vice-presidente, confirmando que, além de um inesquecível exemplo de amor à vida, José Alencar foi um vencedor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525050908"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525050903"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dkmRjSFOXrIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dkmRjSFOXrIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dkmRjSFOXrIC&printsec=frontcover&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dkmRjSFOXrIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dkmRjSFOXrIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dkmRjSFOXrIC&rdid=book-dkmRjSFOXrIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_%C3%BAltimos_passos_de_um_vencedor-sample-epub.acsm?id=dkmRjSFOXrIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_%C3%BAltimos_passos_de_um_vencedor-sample-pdf.acsm?id=dkmRjSFOXrIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dkmRjSFOXrIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O experiente repórter José Roberto Burnier acompanhou de perto os cinco últimos anos do ex-vice-presidente da República."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ziqgX8UqmIC",
+   "etag": "7C/d7y+kP3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ziqgX8UqmIC",
+   "volumeInfo": {
+    "title": "Memórias de um vencedor",
+    "authors": [
+     "Eduardo Barra"
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "1995",
+    "description": "Um retrato violento da trajetória singular de um brasileiro, dos anos 1940, em um vilarejo do interior, até o começo do século XXI, num Rio de Janeiro caótico. Ao narrar este percurso, de office-boy a industrial, o autor constrói um painel contundente da própria história do país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585490543"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585490546"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5ziqgX8UqmIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5ziqgX8UqmIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5ziqgX8UqmIC&pg=PA26&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5ziqgX8UqmIC&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mem%C3%B3rias_de_um_vencedor.html?hl=&id=5ziqgX8UqmIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5ziqgX8UqmIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Há muito não entrava num ônibus, pois meu universo nos \u003cb\u003eúltimos\u003c/b\u003e tempos não \u003cbr\u003e\nexigia mais que alguns \u003cb\u003epassos\u003c/b\u003e a pé. Rumávamos para a zona norte e percebi \u003cbr\u003e\nque enfrentaria uma longa viagem. Sentaram bem próximo do motorista e me&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ty0KAQAAIAAJ",
+   "etag": "KDQSeFYy7q8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ty0KAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Os Vencedores--1978",
+    "authors": [
+     "Humberto Mariotti"
+    ],
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:B3168587"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Short stories, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ty0KAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ty0KAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ty0KAQAAIAAJ&q=Os+%C3%BAltimos+passos+de+um+vencedor&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Ty0KAQAAIAAJ&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Os_Vencedores_1978.html?hl=&id=Ty0KAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ty0KAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... de agora e de sempre, e para que tais acontecimentos permaneçam vivos na \u003cbr\u003e\nmemória de quantos viram ...&quot; (DIÁRIO de D. Feraão) Meus \u003cb\u003eúltimos passos\u003c/b\u003e na \u003cbr\u003e\ncalma destas serras (Sigo os últimos traços de luz) . O interior sombrio da \u003cbr\u003e\nsenzala ."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p8p5DwAAQBAJ",
+   "etag": "UtatbB0nyCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p8p5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Vencedor",
+    "authors": [
+     "Jarlesson"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O vencedor conta a história de um jovem da zona rural de Montes Claros, que sonha de ser um jornalista, e resolve largar tudo e ir embora para a cidade Grande em busca de seus sonhos.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU34549"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 243,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=p8p5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=p8p5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=p8p5DwAAQBAJ&pg=PA226&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=p8p5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-p8p5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=p8p5DwAAQBAJ&rdid=book-p8p5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Vencedor-sample-pdf.acsm?id=p8p5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p8p5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... taxi estoura, por sorte a distancia que faltava de chegar ate a republica, era \u003cbr\u003e\nque vinte \u003cb\u003epassos\u003c/b\u003e, ou seja, poucos metros. ... a velocidade e depois parar porque \u003cbr\u003e\nhavia funcionários no metro naquele momento fazendo \u003cb\u003eúltimos\u003c/b\u003e ajustes na linha,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bfAeDAAAQBAJ",
+   "etag": "9wYpJIwGsWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bfAeDAAAQBAJ",
+   "volumeInfo": {
+    "title": "A maldição do vencedor",
+    "authors": [
+     "Marie Rutkoski"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2016-06-01",
+    "description": "Kestrel quer ser dona do próprio destino. Alistar-se no Exército ou casar-se não fazem parte dos seus planos. Contrariando as vontades do pai – o poderoso general de Valória, reconhecido por liderar batalhas e conquistar outros povos –, a jovem insiste em sua rebeldia. Ironicamente, na busca pela própria liberdade, Kestrel acaba comprando um escravo em um leilão. O valor da compra chega a ser escandaloso, e mal sabe ela que esse ato impensado lhe custará muito mais do que moedas valorianas. O mistério em torno do escravo é hipnotizante. Os olhos de Arin escondem segredos profundos que, aos poucos, começam a emergir, mas há sempre algo que impede Kestrel de tocá-los. Dois povos inimigos, a guerra iminente e uma atração proibida... As origens que separam Kestrel de Arin são as mesmas que os obrigarão a lutarem juntos, mas por razões opostas. A maldição do vencedor é um verdadeiro triunfo lírico no universo das narrativas fantásticas. Com sua escrita poderosa, Marie Rutkoski constrói um épico de beleza indômita. Em um mundo dividido entre o desejo e a escolha, o dominador e o dominado, a razão e a emoção, de que lado você permanecerá?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576839781"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576839784"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bfAeDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bfAeDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bfAeDAAAQBAJ&pg=PT34&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bfAeDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bfAeDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bfAeDAAAQBAJ&rdid=book-bfAeDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_maldi%C3%A7%C3%A3o_do_vencedor-sample-epub.acsm?id=bfAeDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_maldi%C3%A7%C3%A3o_do_vencedor-sample-pdf.acsm?id=bfAeDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bfAeDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os campos também eram silenciosos, com seus sons baixinhos: o capinar de \u003cbr\u003e\numa enxada no jardim, os \u003cb\u003epassos\u003c/b\u003e suaves de cascos de cavalos no estábulo \u003cbr\u003e\nlonge da casa, o farfalhar ... Nos \u003cb\u003eúltimos\u003c/b\u003e tempos, porém, ela não tinha paz em \u003cbr\u003e\ncasa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VrI_AwAAQBAJ",
+   "etag": "AkfntWUWlzM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VrI_AwAAQBAJ",
+   "volumeInfo": {
+    "title": "O código da superação",
+    "authors": [
+     "José Luiz Tejon"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "O autor nos leva em uma fascinante jornada para encontrar o código da superação. Em uma viagem real, ele vai até as ruínas de Tel Megiddo, em Israel, o lugar do apocalipse bíblico. E é no fim do mundo que ele nos mostra como descobrir essa poderosa chave, que nos faz perceber que é possível transformar infortúnios, desamparos, dores, opressão e morte em possibilidades de alegria e celebração, pois a vida é um projeto de alegria e felicidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573128963"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573128968"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VrI_AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VrI_AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VrI_AwAAQBAJ&pg=PT116&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VrI_AwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VrI_AwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VrI_AwAAQBAJ&rdid=book-VrI_AwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_c%C3%B3digo_da_supera%C3%A7%C3%A3o-sample-epub.acsm?id=VrI_AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_c%C3%B3digo_da_supera%C3%A7%C3%A3o-sample-pdf.acsm?id=VrI_AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VrI_AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se não tomarmos cuidado, nossa cabeça se justifica e logo cria bons motivos \u003cbr\u003e\npara explicar por que não conseguimos andar \u003cb\u003eos últimos passos\u003c/b\u003e ... Não fui falar \u003cbr\u003e\ncom o \u003cb\u003evencedor\u003c/b\u003e naquela hora, mas passei a admirar o compositor que ali estava\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tHm_DQAAQBAJ",
+   "etag": "i7xvGiKykUo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tHm_DQAAQBAJ",
+   "volumeInfo": {
+    "title": "Vozes guardadas",
+    "authors": [
+     "Elisa Lucinda"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2016-12-16",
+    "description": "Com a delicadeza, a sensualidade, a inteligência e o humor que marcam a sua criação artística, os versos deste Vozes guardadas revelam amores contidos e outros obscenos, um mundo vasto de espantos, lágrimas, risos e paixões. Ao entregar ao público mais uma leva das \"multidões de vozes\" que a habitam, a poeta se despede dessas vozes guardadas para dividi-las com todos, fazendo delas nossas próprias vozes. Penetrar no universo dos poemas de Elisa Lucinda exige estancar o tempo e a correria da vida: um delicioso e irrecusável convite.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501108821"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501108820"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 518,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.19.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tHm_DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tHm_DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tHm_DQAAQBAJ&pg=PT10&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tHm_DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tHm_DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 42.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tHm_DQAAQBAJ&rdid=book-tHm_DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.266E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vozes_guardadas-sample-epub.acsm?id=tHm_DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vozes_guardadas-sample-pdf.acsm?id=tHm_DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tHm_DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... the kisses • O \u003cb\u003evencedor\u003c/b\u003e • O risco • O baile • O enigma • Poeminha para dizer \u003cbr\u003e\nadeus • A lua entregou tudo • Ocupação do ... Vozerio • Dor guarani • Dor do \u003cbr\u003e\ndesejo • A negação do desejo • \u003cb\u003eOs últimos passos\u003c/b\u003e de uma ilusão V. Baralho do \u003cbr\u003e\nsonho&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_G9TAAAAMAAJ",
+   "etag": "HDE/bJsvtqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_G9TAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Muro frio",
+    "subtitle": "romance",
+    "publishedDate": "1962*",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173024442518"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 198,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_G9TAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_G9TAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_G9TAAAAMAAJ&q=Os+%C3%BAltimos+passos+de+um+vencedor&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_G9TAAAAMAAJ&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Muro_frio.html?hl=&id=_G9TAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_G9TAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tem pena do homem, vencido ou \u003cb\u003evencedor\u003c/b\u003e ele caminha suas horas cercado de \u003cbr\u003e\npoucos amigos, está tão sozinho que ... como os quase mortos sem ligação \u003cbr\u003e\nalguma, os nervos gastos na tentativa de comer ou de andar seus \u003cb\u003eúltimos\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003epassos\u003c/b\u003e,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MY5VAAAAMAAJ",
+   "etag": "PNVtd9R+RtE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MY5VAAAAMAAJ",
+   "volumeInfo": {
+    "title": "História da literatura brasileira",
+    "publishedDate": "1954",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023769523"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MY5VAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MY5VAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MY5VAAAAMAAJ&q=Os+%C3%BAltimos+passos+de+um+vencedor&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=MY5VAAAAMAAJ&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_brasileira.html?hl=&id=MY5VAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MY5VAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... das célebres pretensões anárquicas dos 13 generais, o \u003cb\u003evencedor\u003c/b\u003e \u003cbr\u003e\nimperturbável da revolta da armada. A têmpera de resistência, revelada nos \u003cbr\u003e\ndous \u003cb\u003eúltimos passos\u003c/b\u003e, num meio de desfibrados e gananciosos vivedores da \u003cbr\u003e\npolítica alimentaria,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X6juAAAAMAAJ",
+   "etag": "nHNOlHElsWI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X6juAAAAMAAJ",
+   "volumeInfo": {
+    "title": "História da literatura brasileira: Diversas manifestações na prosa. Reações anti-românticas na poesia",
+    "authors": [
+     "Sílvio Romero",
+     "Nelson Romero"
+    ],
+    "publishedDate": "1949",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:32000004983252"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian literature"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X6juAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X6juAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X6juAAAAMAAJ&q=Os+%C3%BAltimos+passos+de+um+vencedor&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=X6juAAAAMAAJ&dq=Os+%C3%BAltimos+passos+de+um+vencedor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hist%C3%B3ria_da_literatura_brasileira_Diver.html?hl=&id=X6juAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X6juAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... das célebres pretensões anárquicas dos 13 generais, o \u003cb\u003evencedor\u003c/b\u003e \u003cbr\u003e\nimperturbável da revolta da armada. A têmpera de resistência, revelada nos \u003cbr\u003e\ndous \u003cb\u003eúltimos passos\u003c/b\u003e, num meio de desfibrados e gananciosos vivedores da \u003cbr\u003e\npolítica alimentaria,&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZO4_vgAACAAJ",
+   "etag": "ZuBrHbbW6IY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZO4_vgAACAAJ",
+   "volumeInfo": {
+    "title": "A HISTORIA DO MUNDO PARA QUEM TEM PRESSA",
+    "authors": [
+     "EMMA MARRIOTT",
+     "PAULO AFONSO"
+    ],
+    "publishedDate": "2015-03-02",
+    "description": "'A História do Mundo para Quem Tem Pressa' é na verdade um guia sintético, mas abrangente, para tudo o que precisamos saber sobre os acontecimentos mais importantes da história, desde as antigas civilizações até o final da Segunda Guerra Mundial e a criação da ONU. Quer esteja interessado no império de Alexandre, o Grande, ou no florescimento da república cartaginesa e sua destruição por Roma; na ascensão dos califados árabes ou na dinastia Tang, da China; na Guerra Civil Norte-Americana ou na emancipação das mulheres, você encontrará os fatos essenciais neste livro igualmente essencial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8565859517"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565859516"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZO4_vgAACAAJ&dq=isbn:9788565859516&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZO4_vgAACAAJ&dq=isbn:9788565859516&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_HISTORIA_DO_MUNDO_PARA_QUEM_TEM_PRESSA.html?hl=&id=ZO4_vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZO4_vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;A História do Mundo para Quem Tem Pressa&#39; é na verdade um guia sintético, mas abrangente, para tudo o que precisamos saber sobre os acontecimentos mais importantes da história, desde as antigas civilizações até o final da Segunda ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,843 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 485,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hxAvjwEACAAJ",
+   "etag": "3INP4qUw3jQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hxAvjwEACAAJ",
+   "volumeInfo": {
+    "title": "Encontrada",
+    "subtitle": "à espera do felizes para sempre",
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576863189"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576863182"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 476,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hxAvjwEACAAJ&dq=Encontrada&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=hxAvjwEACAAJ&dq=Encontrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encontrada.html?hl=&id=hxAvjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hxAvjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A continuação do sucesso Perdida Sofia está de volta ao século dezenove e mais que animada para começar a viver o seu final feliz ao lado de Ian Clarke."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pyV6DwAAQBAJ",
+   "etag": "s7PtVKcvpMQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pyV6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Ovelha Perdida Foi Encontrada",
+    "authors": [
+     "Madalena"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Esta é a minha história contada em diversos momento da minha vida. É um diário, experiências sobrenaturais com o bem e o mal. Duas forças me cercaram: Uma querendo destruir-me e a Outra para me defender. Deus e o Seu Exercito. A Ovelha (num sentido figurado sou eu). Fui encontrada por Jesus.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU38087"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 111,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pyV6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pyV6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pyV6DwAAQBAJ&pg=PT84&dq=Encontrada&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pyV6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pyV6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pyV6DwAAQBAJ&rdid=book-pyV6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Ovelha_Perdida_Foi_Encontrada-sample-pdf.acsm?id=pyV6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pyV6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "39 A OVELHA PERDIDA FOI \u003cb\u003eENCONTRADA\u003c/b\u003e Um dia outra vizinha me chamou e \u003cbr\u003e\ndisse: - Meu marido está quebrando tudo dentro de casa, ele não pode beber \u003cbr\u003e\nque fica doido, não sei mais o que fazer! - Eu disse: -Vou buscar o Senhor nesta\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NbHTBgAAQBAJ",
+   "etag": "Iie4hiDYSAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NbHTBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Encontrada (Livro 8 De Memórias De Um Vampiro)",
+    "subtitle": "",
+    "authors": [
+     "Morgan Rice"
+    ],
+    "publisher": "Morgan Rice",
+    "publishedDate": "2015-02-17",
+    "description": "Em ENCONTRADA (Livro n 8 De Memórias De Um Vampiro), Caitlin e Caleb despertam na Israel antiga, no ano 33 D.C., e ficam surpresos ao ver que estão na época de Cristo. A Israel antiga é um local de lugares sagrados, sinagogas antigas e relíquias perdidas. É o lugar mais espiritualmente carregado do universo – e em 33 D.C., o ano da crucificação de Cristo, um período de muita agitação. No coração da capital, Jerusalém, fica o Templo de Salomão, dentro do qual fica o Lugar do santíssimo e a Arca de Deus. E nas ruas, Cristo dará seus últimos passos para ser crucificado. Jerusalém é uma cidade repleta de gente de todos os lugares e crenças, sob o domínio dos sempre presentes soldados Romanos e Pôncio Pilatos. A cidade também tem um lado escuro, com suas ruas labirínticas e uma variedade de vielas que dão acesso a segredos ocultos e templos pagãos. Caitlin finalmente tem as quatro chaves, mas ainda assim, ela deve encontrar seu pai. Sua busca a leva até Nazaré, Cafarnaum e Jerusalém seguindo uma trilha mística de segredos e pistas no encalço de Jesus. A missão também a leva até o Monte das Oliveiras, até Aiden e seu coven, e a mais segredos e relíquias do que nunca antes. A cada momento, seu pai parece estar cada vez mais próximo. Mas está missão é especial: Sam mudou para o lado do mal, e também voltou no tempo, se unindo a Rexius – líder de um coven do mal. Eles se unem na busca, com a intenção de encontrar o escudo antes dela. Rexius fará qualquer coisa para destruir Caitlin e Caleb, e com Sam ao seu lado e um novo exército atrás dele, as chances estão do seu lado. Para piorar tudo, Scarlet volta no tempo sozinha - separada de seus pais. Ele vaga pelas ruas de Jerusalém sozinha, com Ruth, e ela começa a descobrir seus próprios poderes, e também se envolve em situações de mais perigo do que nunca antes. Especialmente quando ele descobre que também está guardando um segredo. Caitlin encontrará seu pai? Será que ela encontrará o antigo Escudo vampiro? E se reunirá com sua filha mais uma vez? Sam tentará matá-la? E será que o amor dela por Caleb sobreviverá a mais esta viagem no tempo? ENCONTRADA é o livro nº. 8 da série Diário de um Vampiro (precedido por TRANSFORMADA, AMADA, TRAÍDA, PREDESTINADA, DESEJADA, COMPROMETIDA e PROMETIDA), e ainda pode ser lido de maneira independente. ENCONTRADA tem 71,000 palavras. Os livros nº 9 - 10 da série DIÁRIOS DE UM VAMPIRO também estão disponíveis! E a trilogia bestseller nº 1 de Morgan Rice, SOBREVIVÊNCIA, um suspense distópico, pós-apocalíptico, também está disponível. A série de fantasia de Morgan Rice, O ANEL DO FEITICEIRO, compost de dez livros (e contando) também está disponível – começando pelo Livro nº 1, UMA BUSCA DE HERÓIS, que é está disponível gratuitamente!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781632912428"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1632912422"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NbHTBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NbHTBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NbHTBgAAQBAJ&pg=PT188&dq=Encontrada&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NbHTBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NbHTBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NbHTBgAAQBAJ&rdid=book-NbHTBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NbHTBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ela tinha \u003cb\u003eencontrado\u003c/b\u003e as chaves, tinha \u003cb\u003eencontrado\u003c/b\u003e seu pai, tinha \u003cb\u003eencontrado\u003c/b\u003e o \u003cbr\u003e\nescudo. Ela tinha \u003cb\u003eencontrado\u003c/b\u003e o antídoto, a cura para o vampirismo de todos os \u003cbr\u003e\ntempos. Mas isso não parecia sucesso. Ela só queria estar ali, viva, com todos \u003cbr\u003e\nque&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yEMtAAAAYAAJ",
+   "etag": "V/dFTh77+oQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yEMtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Poesia encontrada",
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022951237"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 179,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yEMtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yEMtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yEMtAAAAYAAJ&q=Encontrada&dq=Encontrada&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yEMtAAAAYAAJ&dq=Encontrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poesia_encontrada.html?hl=&id=yEMtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yEMtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VpFcBAAAQBAJ",
+   "etag": "jDhq4Ezhz6I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VpFcBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Encontrada - Perdida - vol. 2",
+    "subtitle": "À espera do felizes para sempre",
+    "authors": [
+     "Carina Rissi"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2014-08-26",
+    "description": "Segundo volume da aclamada série Perdida. Sofia está de volta ao século XIX e mais do que animada para começar a viver o seu final feliz ao lado de Ian Clarke. No entanto, em meio à loucura dos preparativos para o casamento, ela percebe que se tornar a sra. Clarke não vai ser tão simples quanto imaginava. As confusões encontram a garota antes mesmo de ela chegar ao altar — e uma tia intrometida que quer atrapalhar o relacionamento é apenas uma delas. Além disso, coisas estranhas estão acontecendo na vila e Ian parece estar enfrentando alguns problemas que prefere não dividir com a noiva. Decidida, Sofia fará o que estiver ao seu alcance para ajudar o homem que ama. Ela não está disposta a permitir que nada nem ninguém atrapalhe seu futuro. Porém, suas ações podem pôr tudo a perder, e Sofia descobre que a única pessoa capaz de destruir o seu \"felizes para sempre\" é ela própria.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576863847"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576863847"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 476,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.27.28.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VpFcBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VpFcBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VpFcBAAAQBAJ&printsec=frontcover&dq=Encontrada&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VpFcBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VpFcBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VpFcBAAAQBAJ&rdid=book-VpFcBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.84E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Encontrada_Perdida_vol_2-sample-epub.acsm?id=VpFcBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Encontrada_Perdida_vol_2-sample-pdf.acsm?id=VpFcBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VpFcBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Segundo volume da aclamada série Perdida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uLNxDwAAQBAJ",
+   "etag": "F7OQUehd6sE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uLNxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Gestão Organizacional",
+    "authors": [
+     "Norberto"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um fator todas as empresas possuem em comum, independente de seu tamanho ou se ela é uma empresa de manufatura ou de serviço, ou ainda se produz bens 100% tangíveis ou misto ou 100% intangíveis. Este fator em comum é a “função” produção. Esta função existe em toda e qualquer tipo de empresa, e é exatamente nesta etapa que as empresas transformam as matérias primas e insumos em bens de consumo. Porém, não quer dizer que é a função mais importante ou a única “função” na empresa, há também a “função” vendas, “função” compras, “função” financeira, “função” contabilidade, entre outras. A interligação sincronizada entre as diversas “funções” da empresa traz a esta o equilíbrio econômico e financeiro desejado. Porém, distorções nos processos existem e necessita-se estar constantemente buscando melhorias em cada um dos processos de cada uma das “funções” , seja para a melhoria da qualidade, seja para a correção de não conformidades, seja para aumento do volume de produção ou da produtividade ou ainda para estar adaptando-se às constantes mudanças do mercado. As melhorias nos diversos processos organizacionais dão-se pelas pessoas, são elas que possuem o conhecimento do processo que executam, e uma vez estimuladas, geram idéias que irão alterar estes processos trazendo resultados positivos para a empresa. Existem dois tipos básicos de melhoria nas empresas, aquelas que são geradas “de cima para baixo”, geralmente são poucas de alto valor de investimento e aquelas geradas “de baixo para cima” que são em grande número com pouco ou nenhum investimento necessário. É exatamente este grande número de idéias geradas pelas pessoas que executam os processos que é o foco deste livro, idéias simples, que praticamente não exigiram investimento ou investimentos de baixo valor, porém, trouxeram ótimos ganhos para as empresas. Pequenas idéias, grandes soluções. Este é o tema central do livro. Porém, não poderíamos deixar de acrescentar um capítulo sobre Inteligência competitiva. Por quê? Em função de que as melhorias realizadas nas empresas buscam uma redução de custos operacionais melhorando a sua rentabilidade e a sua produtividade, tornando-a mais competitiva no mercado. É justamente este conhecimento adquirido e aplicado na prática, que gera novos conhecimentos e assim criando um círculo virtuoso de conhecimento e gerando a inteligência organizacional. Portanto, livro está divido em três partes. Na primeira parte há dois capítulos, o primeiro sobre Inteligência Competitiva, e no segundo uma base teórica que cria uma sustentação teórica ao desenvolvimento do tema sugerido. O leitor verificará que a fundamentação teórica inicia-se pelo assunto mais amplo, e aos poucos é conduzido para o assunto específico do trabalho. Com isso, o leitor poderá montar ao longo da leitura um conjunto de conhecimentos que dão uma base de suporte para entendimento dos trabalhos. É importante ressaltar que os textos da fundamentação foram retirados dos diversos trabalhos realizados pelos alunos. Portanto esta fundamentação não deve ser considerada como padrão para todos os trabalhos desta linha de pesquisa, mas sim, como uma orientação básica para futuros trabalhos. Na segunda parte, são apresentados os casos reais desenvolvidos por alunos do oitavo semestre de administração do Instituto Blumenauense de Ensino Superior, casos estes que foram o resultado de seus trabalhos de conclusão de curso. O leitor poderá verificar em cada capítulo como de forma simples e objetiva é possível implementar melhorias com ganhos significativos para a empresa. Poderá ainda verificar como os conceitos das diversas ferramentas de melhoria de processo amplamente difundidas nas empresas de manufaturas, podem e devem ser aplicadas em empresas de serviço, pois, os três últimos casos foram desenvolvidos em empresas de serviços, que produzem bens totalmente intangíveis. Na terceira parte, foi colocada uma relação de referências bibliográficas que podem ser utilizadas para o desenvolvimento dos vários trabalhos nesta linha de pesquisa. Está subdividida por assunto, recursos humanos, sistemas de informação, gestão do conhecimento, produção, etc. Esta parte é uma importante fonte de pesquisa para futuros trabalhos de conclusão de cursos, fornece aos alunos relação das obras mais utilizadas, não sendo sem dúvida as únicas, porém, é um bom início no processo de pesquisa. Não consideramos esta obra não está pronta, uma vez que, este são apenas alguns dos inúmeros excelentes trabalhos desenvolvidos. Esperamos mantê-la sempre atualizada com novas edições, com novos casos. Que este livro possa ser para você leitor ou leitora ou para a sua empresa um incentivo na busca e implementação das idéias de melhoria que com certeza existem, basta apenas incentivar que elas aflorem.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU15475"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 406,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uLNxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uLNxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uLNxDwAAQBAJ&pg=PA332&dq=Encontrada&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uLNxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uLNxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uLNxDwAAQBAJ&rdid=book-uLNxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gest%C3%A3o_Organizacional-sample-pdf.acsm?id=uLNxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uLNxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "38 Data que foi efetuado o acompanhamento, se liberado ou rejeitado. 39 \u003cbr\u003e\nQuantidade de peças não-conformes \u003cb\u003eencontradas\u003c/b\u003e. 40 Anota-se no campo entre \u003cbr\u003e\nparênteses () o número de peças não conformes e qual a conformidade \u003cbr\u003e\n\u003cb\u003eencontrada\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3zhDDwAAQBAJ",
+   "etag": "WN+IFZupSYA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3zhDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Encontrada até quinta - Noivas da semana - Livro 7",
+    "authors": [
+     "Catherine Bybee"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2017-12-15",
+    "description": "Sétimo livro da série Noivas da semana. Assombrada pelo passado, Gabriella Masini acredita que contos de fadas acontecem somente com outras pessoas. Trabalhando na Alliance, a agência de casamentos de elite, ela é ótima com números, mas não consegue somar dois mais dois quando se trata de seu último cliente: Hunter Blackwell, um bilionário bad boy cheio de segredos. Quando Gabi se recusa a ser sua esposa temporária, Hunter faz uma oferta que ela não pode rejeitar. Apenas a conta bancária de Hunter é maior que sua habilidade para conseguir o que quer. Ele tem uma razão secreta para querer se casar — e acha que a sensual e atrevida Gabi é perfeita para o papel. Mas, quando o casamento de conveniência se torna perigoso, o ricaço deve decidir se cumpre a promessa de honrar e proteger Gabi.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576866664"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576866668"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3zhDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3zhDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3zhDDwAAQBAJ&printsec=frontcover&dq=Encontrada&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3zhDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3zhDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3zhDDwAAQBAJ&rdid=book-3zhDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Encontrada_at%C3%A9_quinta_Noivas_da_semana-sample-epub.acsm?id=3zhDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Encontrada_at%C3%A9_quinta_Noivas_da_semana-sample-pdf.acsm?id=3zhDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3zhDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sétimo livro da série Noivas da semana."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "47wgBQAAQBAJ",
+   "etag": "Hu1BtLxrcFU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/47wgBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Filme noturno",
+    "subtitle": "",
+    "authors": [
+     "Marisha Pessl"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2014-11-21",
+    "description": "Em uma noite fria de outono, Ashley Cordova é encontrada morta em um armazém abandonado em Manhattan. Embora a polícia suspeite de suicídio, o jornalista Scott McGrath acredita que exista algo mais por trás dessa história. Seu interesse pelo caso não é gratuito: Ashley é filha do famoso e recluso diretor de filmes de terror Stanislas Cordova, um homem que não é visto em público há mais de trinta anos e que, no passado, teve um papel trágico na vida de McGrath. Impulsionado por vingança, curiosidade e necessidade de descobrir a verdade, o jornalista é atraído para o horripilante e hipnótico mundo de Stanislas. Da última vez que chegou perto do cineasta, McGrath perdeu o casamento e a carreira. Dessa vez, pode acabar perdendo muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580575934"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580575931"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=47wgBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=47wgBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=47wgBQAAQBAJ&pg=PT13&dq=Encontrada&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=47wgBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-47wgBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=47wgBQAAQBAJ&rdid=book-47wgBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filme_noturno-sample-epub.acsm?id=47wgBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filme_noturno-sample-pdf.acsm?id=47wgBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=47wgBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ashley Cordova, 24, \u003cb\u003eencontrada\u003c/b\u003e morta Fotografia cortesia de K&amp;M Recording \u003cbr\u003e\nPublicado: 14 de outubro de 2011, por Charles Dunbar Um corpo \u003cb\u003eencontrado\u003c/b\u003e em \u003cbr\u003e\num armazém abandonado em Chinatown, na quinta-feira, foi identificado pelo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QZ-ctAEACAAJ",
+   "etag": "gwo10YGNELI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QZ-ctAEACAAJ",
+   "volumeInfo": {
+    "title": "Encontrada Até Quinta",
+    "authors": [
+     "Catherine Bybee",
+     "Sandra Martha Dolinsky"
+    ],
+    "description": "O sétimo livro da série Noivas da semana. Gabriella Masini: assombrada pelo passado, com as cicatrizes que não a deixam esquecer, Gabi acredita que contos de fadas acontecem com outras pessoas, não com ela. Trabalhando na Alliance, a agência de casamentos de elite, ela é ótima com números, mas não consegue somar dois mais dois quando se trata de seu último cliente: um bilionário bad boy com seus próprios segredos. Quando Gabi se recusa a ser sua esposa temporária, Hunter faz uma oferta que ela não pode recusar. Mas o casamento com um homem como ele nunca poderia dar certo... ou poderia? Hunter Blackwell: apenas sua conta bancária é maior que sua habilidade para conseguir o que quer. Ele tem uma razão secreta para querer se casar, pelo menos por um tempo - e acha que a sensual e atrevida Gabi é perfeita para o papel. Mas, quando o casamento de conveniência se torna perigoso, Hunter deve decidir até onde iria para cumprir a promessa de honrar e proteger Gabi para sempre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576866099"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576866091"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QZ-ctAEACAAJ&dq=Encontrada&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QZ-ctAEACAAJ&dq=Encontrada&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Encontrada_At%C3%A9_Quinta.html?hl=&id=QZ-ctAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QZ-ctAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O sétimo livro da série Noivas da semana."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Su9xDwAAQBAJ",
+   "etag": "OcTyK+EpDZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Su9xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Escatologia Analisada",
+    "authors": [
+     "Prof."
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A escatologia bíblica é o ponto culminante da teologia sistemática. Não é apenas o clímax, o desfecho e a consumação do estudo teológico, mas a apresentação da escatologia é também a suprema demonstração de habilidade teológica. Aqui, mais que em qualquer outro campo, exceto talvez na doutrina da pessoa de Cristo, estão expostas as importantes ferramentas da exegese, da síntese, da hermenêutica e do sistema teológico. Exige-se um julgamento refinado para discernir o que deve ser interpretado à letra em contraposição ao que deve ser interpretado de forma espiritual e alegórica. A coerência da revelação de Deus como um todo no Antigo e no Novo Testamento deve ser mantida.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24188"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 635,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Su9xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Su9xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Su9xDwAAQBAJ&pg=PA77&dq=Encontrada&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Su9xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Su9xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 74.33,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 74.33,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Su9xDwAAQBAJ&rdid=book-Su9xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.433E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.433E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Escatologia_Analisada-sample-pdf.acsm?id=Su9xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Su9xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lincoln resume: As quatro alianças incondicionais, feitas com juramentos, são \u003cbr\u003e\n\u003cb\u003eencontradas\u003c/b\u003e em 1) Gênesis 12.1-3, em que a fórmula é \u003cb\u003eencontrada\u003c/b\u003e, expressa ou \u003cbr\u003e\nsubentendida sete vezes; 2) Deuteronômio 30.1-10, em que é \u003cb\u003eencontrada\u003c/b\u003e,&nbsp;..."
+   }
+  }
+ ]
+}

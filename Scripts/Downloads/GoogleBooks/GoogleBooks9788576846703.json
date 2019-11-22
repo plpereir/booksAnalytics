@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rZw9lQEACAAJ",
+   "etag": "2NbsqReupzY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rZw9lQEACAAJ",
+   "volumeInfo": {
+    "title": "MCFLY",
+    "subtitle": "UNSAID THINGS... NOSSA HISTORIA",
+    "authors": [
+     "MCFLY",
+     "PATRICIA AZEREDO"
+    ],
+    "description": "Ainda adolescentes, os integrantes do McFly foram parar direto sob os holofotes e tiveram que se adaptar depressa à fama recém-adquirida - e a tudo que a acompanhava. Tom, Danny, Harry e Dougie compartilham histórias de sua vida e da trajetória do McFly. Eles relatam detalhes de suas infâncias, dos caminhos pessoais que levaram cada um à banda, das dificuldades que precisaram superar, de suas vidas amorosas e de sua música.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576846705"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576846703"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rZw9lQEACAAJ&dq=isbn:9788576846703&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rZw9lQEACAAJ&dq=isbn:9788576846703&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MCFLY.html?hl=&id=rZw9lQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rZw9lQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma das mais populares e bem sucedidas bandas do Reino Unido, o McFly lança sua biografia McFly unsaid things."
+   }
+  }
+ ]
+}

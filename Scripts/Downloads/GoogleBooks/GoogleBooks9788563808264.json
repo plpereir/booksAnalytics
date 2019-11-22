@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QtGctAEACAAJ",
+   "etag": "DpTXlRqo2JU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QtGctAEACAAJ",
+   "volumeInfo": {
+    "title": "Sempre Melhor",
+    "authors": [
+     "Jose Carlos De Lucca"
+    ],
+    "description": "'Sempre Melhor' traz lindas mensagens extraídas de cinco livros do consagrado autor José Carlos De Lucca, que já atingiu a marca de mais de meio milhão de livros vendidos, e tem o objetivo de nos fazer sentir, em nosso dia-a-dia, as palavras acolhedoras com que De Lucca tanto tem sensibilizado e iluminado seus leitores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563808265"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563808264"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QtGctAEACAAJ&dq=isbn:9788563808264&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QtGctAEACAAJ&dq=isbn:9788563808264&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sempre_Melhor.html?hl=&id=QtGctAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QtGctAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Sempre Melhor&#39; traz lindas mensagens extraídas de cinco livros do consagrado autor José Carlos De Lucca, que já atingiu a marca de mais de meio milhão de livros vendidos, e tem o objetivo de nos fazer sentir, em nosso dia-a-dia, as ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "VISwfUlmRG8C",
+   "etag": "Gd++6hnDVJU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VISwfUlmRG8C",
+   "volumeInfo": {
+    "title": "O SONHO DO CELTA",
+    "authors": [
+     "MARIO VARGAS LLOSA",
+     "ARI ROITMAN",
+     "PAULINA WACHT"
+    ],
+    "publisher": "Editora Objetiva",
+    "description": "Esta obra narra a saga de Roger Casement, um irlandês a serviço do Império Britânico, que conheceu a violência da colonização na África e na América do Sul no começo do século XX. Ao denunciar os abusos e os maus-tratos contra colonos, passou a valorizar a liberdade acima de tudo. E, em nome da liberdade, voltou-se contra seu próprio governo. Em 1916, encarcerado em um presídio de segurança máxima em Londres, é acusado pelo governo inglês de alta traição e aguarda sua sentença. Apenas cinco anos antes, havia sido nomeado Cavalheiro. Agora, abandonado por quase todos os amigos, difamado pela opinião pública, corre o risco de ser executado.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8579620678"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579620676"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VISwfUlmRG8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VISwfUlmRG8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VISwfUlmRG8C&dq=isbn:9788579620676&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VISwfUlmRG8C&dq=isbn:9788579620676&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_SONHO_DO_CELTA.html?hl=&id=VISwfUlmRG8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VISwfUlmRG8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em O sonho do celta, Mario Vargas Llosa volta à forma do romance histórico para narrar a saga de Roger Casement, um personagem complexo, muitas vezes controverso."
+   }
+  }
+ ]
+}

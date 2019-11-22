@@ -1,0 +1,63 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Kvh5GwAACAAJ",
+   "etag": "jd7gKY6dwvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kvh5GwAACAAJ",
+   "volumeInfo": {
+    "title": "O sol e para todos",
+    "authors": [
+     "Harper Lee"
+    ],
+    "publishedDate": "1963",
+    "description": "Esta obra acompanha três anos da vida dos jovens Jem e Scout Fincher numa terra de preconceito racial, a história é pontuada pelo caso de um homem negro injustamente acusado do estupro de uma garota branca numa pequena cidade do Alabama. Scout, a narradora da trama, e Jem, seu irmão mais velho, são filhos do advogado Atticus Fincher, designado a defender Tom Robinson - acusado de estupro. Sobre esse pano de fundo, as duas crianças e seu amigo Dill passam a conhecer o estranho mundo em que vivem e descobrem os significados de palavras como respeito e tolerância.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:683454584"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 314,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Kvh5GwAACAAJ&dq=isbn:9788503009492&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Kvh5GwAACAAJ&dq=isbn:9788503009492&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_sol_e_para_todos.html?hl=&id=Kvh5GwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Kvh5GwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Um livro emblematico sobre racismo e injustica: a historia de um advogado que defende um homem negro acusado de estuprar uma mulher branca nos Estados Unidos dos anos 1930 e enfrenta represalias da comunidade racista."
+   }
+  }
+ ]
+}

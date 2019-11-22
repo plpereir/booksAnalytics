@@ -1,0 +1,893 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 456,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jyryoQEACAAJ",
+   "etag": "hE5l5q5+T4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jyryoQEACAAJ",
+   "volumeInfo": {
+    "title": "Belo casamento",
+    "authors": [
+     "Jamie McGuire"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576863251"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576863250"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 123,
+    "printType": "BOOK",
+    "categories": [
+     "Elopement"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jyryoQEACAAJ&dq=Belo+casamento&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jyryoQEACAAJ&dq=Belo+casamento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Belo_casamento.html?hl=&id=jyryoQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jyryoQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A louca e viciante história de amor de Travis e Abby foi narrada por ela em Belo desastre e por ele em Desastre iminente."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VWCbAwAAQBAJ",
+   "etag": "I028KHvp7KE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VWCbAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Belo casamento - Belo desastre - vol. 2.5",
+    "authors": [
+     "Jamie McGuire"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2014-05-20",
+    "description": "A louca e viciante história de amor de Travis e Abby foi narrada por ela em Belo desastre e por ele em Desastre iminente. Como num conto de fadas moderno, sabemos que eles se casaram e foram felizes para sempre... mas quanto realmente conhecemos dessa história? Por que Abby fez o pedido de casamento? Que confidências eles trocaram antes da cerimônia? Onde passaram a noite de núpcias? Quem sabia que eles iam se casar e guardou segredo? Todos os detalhes sobre o casamento de Travis e Abby eram secretos... até agora. Os fãs do casal mais quente da literatura terão todas as suas perguntas respondidas nesta história vertiginosa sobre o dia (e a noite...) do casamento de Travis e Abby — e o melhor, contada pelo ponto de vista dos dois!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576863533"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576863537"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.24.25.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VWCbAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VWCbAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VWCbAwAAQBAJ&printsec=frontcover&dq=Belo+casamento&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VWCbAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VWCbAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VWCbAwAAQBAJ&rdid=book-VWCbAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.126E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Belo_casamento_Belo_desastre_vol_2_5-sample-epub.acsm?id=VWCbAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Belo_casamento_Belo_desastre_vol_2_5-sample-pdf.acsm?id=VWCbAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VWCbAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A louca e viciante história de amor de Travis e Abby foi narrada por ela em Belo desastre e por ele em Desastre iminente."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tiVwDwAAQBAJ",
+   "etag": "8X4aGJdAWDA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tiVwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Segredos Para Um Casamento Feliz",
+    "authors": [
+     "Angela Sirino"
+    ],
+    "description": "O ebook O Segredo Para Um Casamento Feliz da autora Angela Sirino.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788558281287"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8558281289"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tiVwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tiVwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tiVwDwAAQBAJ&pg=PT78&dq=Belo+casamento&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tiVwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tiVwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 30.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tiVwDwAAQBAJ&rdid=book-tiVwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tiVwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Descubra que não há relacionamento mais lindo e encantador do que um \u003cb\u003ebelo\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ecasamento\u003c/b\u003e... Amar não consiste em olhar para si mesmo, mas sim em olharem, \u003cbr\u003e\nos dois juntos, para a mesma direção, para o mesmo objetivo, que deve ser “\u003cbr\u003e\nfazer&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_ENb_0In8q8C",
+   "etag": "thA5Gjvwwqg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_ENb_0In8q8C",
+   "volumeInfo": {
+    "title": "Joseph Campbell Vida E Obra",
+    "authors": [
+     "JOSEPH CAMPBELL",
+     "PHIL COUSINEAU"
+    ],
+    "publisher": "Editora Agora",
+    "publishedDate": "2003",
+    "description": "Obra das mais queridas dos fãs de Joseph Campbell no mundo todo, ela traz entrevistas dos últimos anos de sua vida e trechos de suas palestras. O texto caminha explicando simultaneamente o processo da jornada e a vida de Campbell. Generosamente ilustrado, com fotos e reproduções de arte, este livro comemora o centenário de Campbell.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571838232"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571838239"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 287,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_ENb_0In8q8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_ENb_0In8q8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_ENb_0In8q8C&pg=PA119&dq=Belo+casamento&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_ENb_0In8q8C&dq=Belo+casamento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Joseph_Campbell_Vida_E_Obra.html?hl=&id=_ENb_0In8q8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_ENb_0In8q8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O que me tem chocado muito é de repente ouvir dizer de um ou outro de meus \u003cbr\u003e\namigos, que já haviam constituído família e nos faziam pensar: &quot;Oh! Que \u003cb\u003ebelo\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ecasamento\u003c/b\u003e!&quot;, e agora estão separados. Mas quando existe cooperação o sentido \u003cbr\u003e\nde&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PpRKBO3agOIC",
+   "etag": "+gIFJrp1nfk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PpRKBO3agOIC",
+   "volumeInfo": {
+    "title": "Sobre homens e lagostas",
+    "authors": [
+     "Elizabeth Gilbert"
+    ],
+    "publisher": "Alfaguara",
+    "publishedDate": "2011-11-07",
+    "description": "Em Sobre homens e lagostas, romance de estreia de Elizabeth Gilbert, a autora do best-seller Comer, Rezar, Amar explora o universo das comunidades que se beneficiam da pesca lagosteira no litoral do Maine, nos Estados Unidos. Os habitantes das ilhas de Fort Niles e Courne Haven são inimigos há décadas, e os lagosteiros locais sempre estiveram em pé de guerra. É nesse mundo que habita Ruth Thomas, a jovem heroína deste livro, que poderia ter escolhido uma vida de luxo e privilégios por ser herdeira da rica família da mãe. Mas é o mundo bruto do pai e dos pescadores onde ela cresceu e escolheu viver. Principalmente depois de conhecer Owney Wishnell, jovem aspirante a pescador, de personalidade reservada e porte atlético, e um dos maiores inimigos de seu pai.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579621154"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579621151"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "5.11.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PpRKBO3agOIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PpRKBO3agOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PpRKBO3agOIC&pg=PT106&dq=Belo+casamento&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PpRKBO3agOIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PpRKBO3agOIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PpRKBO3agOIC&rdid=book-PpRKBO3agOIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sobre_homens_e_lagostas-sample-epub.acsm?id=PpRKBO3agOIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sobre_homens_e_lagostas-sample-pdf.acsm?id=PpRKBO3agOIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PpRKBO3agOIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Belo acordo. — \u003cb\u003eBelo casamento\u003c/b\u003e — disse Gloria. — Isso mesmo — disse Kitty, \u003cbr\u003e\nsatisfeita. — É um \u003cb\u003ebelo casamento\u003c/b\u003e. Não que você saiba alguma coisa sobre isso, \u003cbr\u003e\nGloria. E ninguém vai expulsar ninguém da casa de ninguém. — Veremos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PmiMDwAAQBAJ",
+   "etag": "etoLZk6sin0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PmiMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "David Copperfield",
+    "authors": [
+     "Charles Dickens"
+    ],
+    "publisher": "Nova Fronteira",
+    "publishedDate": "2019-03-08",
+    "description": "Considerado o maior escritor inglês da era vitoriana e admirado por Dostoiévski e Van Gogh, Charles Dickens, de todas as suas obras, tinha uma favorita: David Copperfield. Neste romance de formação, em muito inspirado na vida de seu autor, acompanhamos o amadurecimento e a tumultuosa jornada de David, um menino nascido à meia-noite de uma sexta-feira — o que, segundo a superstição, o condenaria a ser infeliz. Em uma narrativa repleta de tensão, encontramos não apenas personagens memoráveis, mas também um retrato contundente da realidade social da época.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520943991"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8520943993"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 912,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PmiMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PmiMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PmiMDwAAQBAJ&pg=PT545&dq=Belo+casamento&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PmiMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PmiMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 94.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PmiMDwAAQBAJ&rdid=book-PmiMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.499E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/David_Copperfield-sample-epub.acsm?id=PmiMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PmiMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Parece-me que ele faz um \u003cb\u003ebelo casamento\u003c/b\u003e — disse-me Mr. Spenlow. Expliquei-\u003cbr\u003e\nlhe que nada absolutamente sabia a respeito. — Realmente? — perguntou ele. \u003cbr\u003e\n— Pelo que se conclui das palavras que Mr. Murdstone deixou escapar, como,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "adhwDwAAQBAJ",
+   "etag": "0HQyFH0SeHI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/adhwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Conselhos a uma recém-casada",
+    "authors": [
+     "Alice Von Hildebrand"
+    ],
+    "publisher": "Petra (Nova Fronteira)",
+    "publishedDate": "2018-09-28",
+    "description": "Este livro faz enfim chegar, aos leitores brasileiros, as palavras de Alice von Hildebrand, uma das vozes femininas mais importantes de nosso tempo. Aqui, a célebre teóloga, especialista nos temas do amor, do matrimônio e da feminilidade, nos apresenta uma série de cartas cujo objetivo é ajudar sua afilhada a superar os obstáculos que costumam se apresentar na vida a dois, desde os maiores até os que parecem mais insignificantes. Com uma linguagem simples, mas ao mesmo tempo profunda e bela, Conselhos a uma recém-casada é leitura obrigatória para aprendermos a crescer no amor quando a lua de mel acaba.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582781388"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582781385"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=adhwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=adhwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=adhwDwAAQBAJ&pg=PT110&dq=Belo+casamento&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=adhwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-adhwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=adhwDwAAQBAJ&rdid=book-adhwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9490000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Conselhos_a_uma_rec%C3%A9m_casada-sample-epub.acsm?id=adhwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Conselhos_a_uma_rec%C3%A9m_casada-sample-pdf.acsm?id=adhwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=adhwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "De repente, todos os pequenos incômodos e as discussões que afligem o \u003cbr\u003e\ncasamento de vocês diariamente vieram à tona, ... A resposta certa é deixar que \u003cbr\u003e\no \u003cb\u003ebelo casamento\u003c/b\u003e de George e Christine os convença de que a verdadeira \u003cbr\u003e\nharmonia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HrNG8zSQXwkC",
+   "etag": "LaWUv3ezkjI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HrNG8zSQXwkC",
+   "volumeInfo": {
+    "title": "Demônio Do Meio-dia",
+    "authors": [
+     "Andrew Solomon"
+    ],
+    "publisher": "Editora Objetiva",
+    "publishedDate": "2001",
+    "description": "'O demônio do meio-dia' é um livro de relato do autor sobre sua relação com a depressão. Inspirado pelo que sentiu na própria pele, Andrew faz uma investigação e um estudo dessa síndrome que aflige o homem moderno.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573024747"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573024746"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 483,
+    "printType": "BOOK",
+    "categories": [
+     "Depressed persons"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HrNG8zSQXwkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HrNG8zSQXwkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HrNG8zSQXwkC&pg=PA147&dq=Belo+casamento&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HrNG8zSQXwkC&dq=Belo+casamento&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dem%C3%B4nio_Do_Meio_dia.html?hl=&id=HrNG8zSQXwkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HrNG8zSQXwkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Passou o ano animada e feliz planejando com o noivo a cerimônia para celebrar \u003cbr\u003e\no casamento. Foi um \u003cb\u003ebelo casamento\u003c/b\u003e de verão, planejado com o mesmo \u003cbr\u003e\ncuidado meticuloso de um tratamento homeopático. Claudia estava linda, e foi \u003cbr\u003e\numa&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ws1wDwAAQBAJ",
+   "etag": "buZv0f/L/4Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ws1wDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Todas as pequenas luzes",
+    "authors": [
+     "Jamie McGuire"
+    ],
+    "publisher": "Verus Editora",
+    "publishedDate": "2018-10-01",
+    "description": "Novo livro da autora da série best-seller Belo Desastre. Quando Elliott Youngblood vê Catherine Calhoun pela primeira vez, ele é apenas um garoto com uma câmera nas mãos que nunca viu algo tão triste e tão belo. Os dois se sentem excluídos e logo se tornam amigos. Porém, no momento em que Catherine mais precisa dele, Elliott é forçado a sair da cidade. Alguns anos depois, Elliott finalmente retorna, mas ele e Catherine agora são pessoas diferentes. Ele é um atleta bem-sucedido, e ela passa todo o tempo livre trabalhando na misteriosa pousada de sua mãe. Catherine ainda não perdoou Elliott por abandoná-la num momento difícil, mas ele está determinado a reconquistar a amizade dela — e a ganhar seu coração. Bem quando Catherine está pronta para confiar outra vez em Elliott, ele se torna o principal suspeito em uma tragédia local. Apesar da desconfiança de todos na cidade, Catherine se agarra ao seu amor por Elliott. Mas um segredo devastador que ela esconde pode destruir qualquer chance de felicidade que os dois ainda têm.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576867326"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857686732X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ws1wDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ws1wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ws1wDwAAQBAJ&pg=PT1&dq=Belo+casamento&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ws1wDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ws1wDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ws1wDwAAQBAJ&rdid=book-Ws1wDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.84E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todas_as_pequenas_luzes-sample-epub.acsm?id=Ws1wDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Todas_as_pequenas_luzes-sample-pdf.acsm?id=Ws1wDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ws1wDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Também de Jamie McGuire Série Belo Desastre: Belo desastre Desastre \u003cbr\u003e\niminente \u003cb\u003eBelo casamento\u003c/b\u003e Algo belo Série Irmãos Maddox: Bela distração Bela \u003cbr\u003e\nredenção Belo sacrifício Bela chama Belo funeral Red Hill Tradução Ana \u003cbr\u003e\nGuadalupe."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KXUQAgAAQBAJ",
+   "etag": "IwVCUZtWFvk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KXUQAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Você vai sair dessa!",
+    "authors": [
+     "Max Lucado"
+    ],
+    "publisher": "Thomas Nelson Brasil",
+    "publishedDate": "2013-11-05",
+    "description": "A gente não pode escolher todas as lutas da vida, mas sempre pode escolher o melhor aliado. Você vai sair dessa. Não importa o desafio — problemas financeiros, tragédias na família, as limitações da enfermidade, enfim, seja qual for a natureza da sua luta. Por mais que a dor seja insuportável, que o desespero persista e que a batalha pareça maior que suas forças, pode contar com uma certeza: você não está só. Neste livro, Max Lucado mostra que Deus traçou um plano de vitória para seus filhos. Ele nunca prometeu que superar as adversidades seria fácil, indolor, mas deixou o Espírito Santo para que possamos atravessar os momentos de turbulência. Não é fácil manter a fé em meio à perda, ao sofrimento, mas o poder regenerador de Deus conforta e fortalece. Segure em sua mão e caminhe com ele Você vai sair dessa. Não será sem dor. Não será rápido. Mas Deus vai usar essa bagunça toda para o bem. Por enquanto, não seja tolo nem ingênuo. Mas também não se desespere. Com a ajuda de Deus,você vai sair dessa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578605193"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578605195"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.27.28.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KXUQAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KXUQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KXUQAgAAQBAJ&pg=PT49&dq=Belo+casamento&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KXUQAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KXUQAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KXUQAgAAQBAJ&rdid=book-KXUQAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_vai_sair_dessa-sample-epub.acsm?id=KXUQAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_vai_sair_dessa-sample-pdf.acsm?id=KXUQAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KXUQAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Não! — Você recomendaria a alguém sofrer um ataque cardíaco? — \u003cbr\u003e\nDefinitivamente, não. — A sua vida significa mais para você hoje do que antes? \u003cbr\u003e\n— Bem, sim... — Você e Nell sempre tiveram um \u003cb\u003ebelo casamento\u003c/b\u003e, mas vocês se \u003cbr\u003e\nsentem&nbsp;..."
+   }
+  }
+ ]
+}

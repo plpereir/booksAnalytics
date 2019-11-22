@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6gNXYgEACAAJ",
+   "etag": "gq4mTNbmUtI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6gNXYgEACAAJ",
+   "volumeInfo": {
+    "title": "MIL DIAS NA TOSCANA",
+    "authors": [
+     "MARLENA DE BLASI",
+     "MARCELLO LINO"
+    ],
+    "description": "Há alguns anos, quando se conheceram, Marlena e Fernando se apaixonaram à primeira vista e começaram a viver uma história de amor que mais parecia um conto de fadas. Agora, decidem que chegou o momento de dar adeus a Veneza, onde tudo começou, e partem em busca de uma vida mais tranquila.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575426192"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575426197"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6gNXYgEACAAJ&dq=isbn:8575426192&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6gNXYgEACAAJ&dq=isbn:8575426192&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MIL_DIAS_NA_TOSCANA.html?hl=&id=6gNXYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6gNXYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Há alguns anos, quando se conheceram, Marlena e Fernando se apaixonaram à primeira vista e começaram a viver uma história de amor que mais parecia um conto de fadas."
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ztGhvwEACAAJ",
+   "etag": "JUv27E09JSQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ztGhvwEACAAJ",
+   "volumeInfo": {
+    "title": "A Arte Da Sabedoria",
+    "authors": [
+     "Baltasar Gracian"
+    ],
+    "description": "Grandes sábios e ilustres líderes buscaram conhecimento na obra mais clássica de Baltasar Gracián. Escritos há mais de 300 anos, os aforismas criados pelo autor permanecem atuais e são imprescindíveis para alcançar, em qualquer aspecto da vida, o sucesso. Absolutamente único... um livro feito para uso constante - um companheiro para a vida. \" Arthur Schopenhauer Faça que lhe vejam como sensato, em vez de intrometido. Busque alguém que o ajude a carregar suas tristezas e compartilhe as suas felicidades. Não queira o que todos querem, seja feliz com o que tem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8595810346"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595810341"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ztGhvwEACAAJ&dq=isbn:9788595810341&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ztGhvwEACAAJ&dq=isbn:9788595810341&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Arte_Da_Sabedoria.html?hl=&id=ztGhvwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ztGhvwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Grandes sábios e ilustres líderes buscaram conhecimento na obra mais clássica de Baltasar Gracián."
+   }
+  }
+ ]
+}

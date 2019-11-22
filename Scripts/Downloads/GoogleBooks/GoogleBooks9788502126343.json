@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TwCKZwEACAAJ",
+   "etag": "rWlWO6NguIo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TwCKZwEACAAJ",
+   "volumeInfo": {
+    "title": "AÇOES COMUNS, LUCROS EXTRAORDINARIOS",
+    "authors": [
+     "PHILIP FISHER"
+    ],
+    "description": "Esta obra oferece elementos que visam a uma melhor compreensão sobre o tema, além de técnicas de avaliação que possibilita ao investidor se envolver mais com os seus investimentos, baseadas no registro de Philip Fisher e seu método para escolher e aplicar em ações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502126342"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502126343"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TwCKZwEACAAJ&dq=isbn:9788502126343&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TwCKZwEACAAJ&dq=isbn:9788502126343&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A%C3%87OES_COMUNS_LUCROS_EXTRAORDINARIOS.html?hl=&id=TwCKZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TwCKZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta obra oferece elementos que visam a uma melhor compreensão sobre o tema, além de técnicas de avaliação que possibilita ao investidor se envolver mais com os seus investimentos, baseadas no registro de Philip Fisher e seu método ..."
+   }
+  }
+ ]
+}

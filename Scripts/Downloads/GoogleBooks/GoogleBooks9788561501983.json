@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AsbnDNVxrhMC",
+   "etag": "R241dilLrsE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AsbnDNVxrhMC",
+   "volumeInfo": {
+    "title": "A privataria tucana",
+    "publisher": "Geração Editorial",
+    "publishedDate": "2011-01-01",
+    "description": "Esta obra é resultado das investigações do autor sobre a chamada 'Era das Privatizações', promovida pelo governo Fernando Henrique Cardoso. O livro busca trazer à tona os bastidores da política e do empresariado no Brasil à época, e os desvios de dinheiro público.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788561501983"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8561501987"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AsbnDNVxrhMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AsbnDNVxrhMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AsbnDNVxrhMC&dq=isbn:9788561501983&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AsbnDNVxrhMC&dq=isbn:9788561501983&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_privataria_tucana.html?hl=&id=AsbnDNVxrhMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AsbnDNVxrhMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A PRIVATARIA TUCANA nos traz, de maneira chocante e até decepcionante, a dura realidade dos bastidores da política e do empresariado brasileiro, em conluio para roubar dinheiro público."
+   }
+  }
+ ]
+}

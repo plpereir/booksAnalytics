@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pguXuAAACAAJ",
+   "etag": "164m9Rmoxag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pguXuAAACAAJ",
+   "volumeInfo": {
+    "title": "CHEF EM CASA",
+    "subtitle": "VOCE PODE FAZER ATE 27.000 CARDAPIOS COMPLETOS",
+    "authors": [
+     "ANA MARIA BRAGA"
+    ],
+    "description": "'Chef em Casa' traz receitas de entradas, pratos principais e sobremesas em cartões individuais que podem ser guardados em uma caixa metálica. O leitor poderá criar combinações de até 27 mil cardápios, intercalando os diferentes pratos. Cada receita é apresentada passo a passo em fotografias; e Ana Maria Braga ainda dá dicas de preparo e consumo dos ingredientes e pratos prontos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522012865"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522012862"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 90,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pguXuAAACAAJ&dq=isbn:9788522012862&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pguXuAAACAAJ&dq=isbn:9788522012862&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CHEF_EM_CASA.html?hl=&id=pguXuAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pguXuAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Chef em Casa&#39; traz receitas de entradas, pratos principais e sobremesas em cartões individuais que podem ser guardados em uma caixa metálica."
+   }
+  }
+ ]
+}

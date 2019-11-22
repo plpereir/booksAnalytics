@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RZ1WvgAACAAJ",
+   "etag": "X9gfYVlAIow",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RZ1WvgAACAAJ",
+   "volumeInfo": {
+    "title": "O PODER DA ESCOLHA",
+    "authors": [
+     "ZIBIA GASPARETTO",
+     "LUCIUS"
+    ],
+    "description": "Quando Eugênia soube que o marido a havia abandonado, achou que não valia a pena continuar vivendo. Júlio, o ex-companheiro, saiu de casa para viver com Magali sem nem levar em consideração os anos de dedicação dela ao casamento. Em meio a uma intensa trama que mescla amor, crime, traição, sequestro e redenção, Eugênia e Magali terão que aprender, cada uma a sua maneira, que nada na vida é por acaso e o poder de escolha é absoluto, afinal, é escolhendo que criamos o nosso destino.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577223795"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577223794"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RZ1WvgAACAAJ&dq=isbn:9788577223794&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RZ1WvgAACAAJ&dq=isbn:9788577223794&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_PODER_DA_ESCOLHA.html?hl=&id=RZ1WvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RZ1WvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em meio a uma intensa trama que mescla amor, crime, traição, sequestro e redenção, Eugênia e Magali terão que aprender, cada uma a sua maneira, que nada na vida é por acaso e o poder de escolha é absoluto, afinal, é escolhendo que ..."
+   }
+  }
+ ]
+}

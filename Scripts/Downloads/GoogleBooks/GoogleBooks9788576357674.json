@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iGU4ngAACAAJ",
+   "etag": "jfC+BZMV39c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iGU4ngAACAAJ",
+   "volumeInfo": {
+    "title": "Acontece que eu sou baiano",
+    "subtitle": "identidade e memória cultural no cancioneiro de Dorival Caymmi",
+    "authors": [
+     "Marielson Carvalho"
+    ],
+    "publishedDate": "2009",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576357674"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576357674"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "categories": [
+     "Composers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iGU4ngAACAAJ&dq=isbn:9788576357674&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iGU4ngAACAAJ&dq=isbn:9788576357674&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Acontece_que_eu_sou_baiano.html?hl=&id=iGU4ngAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iGU4ngAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

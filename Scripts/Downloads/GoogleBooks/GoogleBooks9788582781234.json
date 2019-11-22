@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tTbEtgEACAAJ",
+   "etag": "g5RH4anVrX0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tTbEtgEACAAJ",
+   "volumeInfo": {
+    "title": "Maria, A Nova Primavera",
+    "authors": [
+     "Pe. Moacir Anastacio De Carvalho"
+    ],
+    "publishedDate": "2018-05-30",
+    "description": "Neste livro, o fundador da Festa de Pentecostes mergulha em episódios da vida da Virgem Maria para trazer reflexões para revigorar a vida de fé. Além disso, oferece testemunhos pessoais que culminam na devoção a um recente título de Maria que há de florescer ainda mais entre o povo brasileiro: Nossa Senhora da Primavera. Após a leitura destas páginas, podemos entender por que a Festa de Pentecostes atrai tantos corações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582781237"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582781234"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tTbEtgEACAAJ&dq=isbn:9788582781234&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tTbEtgEACAAJ&dq=isbn:9788582781234&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Maria_A_Nova_Primavera.html?hl=&id=tTbEtgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tTbEtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, o fundador da Festa de Pentecostes mergulha em episódios da vida da Virgem Maria para trazer reflexões para revigorar a vida de fé."
+   }
+  }
+ ]
+}

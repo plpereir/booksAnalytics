@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OfRAvgAACAAJ",
+   "etag": "SB4OvPV3Y/M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OfRAvgAACAAJ",
+   "volumeInfo": {
+    "title": "DESTRUA ESTE DIARIO (CAPA ORIGINAL)",
+    "authors": [
+     "KERI SMITH",
+     "ROGERIO DURST"
+    ],
+    "description": "Um diário costuma servir para anotar ideias, memórias ou registros do cotidiano. Keri Smith, ilustradora e artista canadense, inventou um tipo diferente de diário, que exige do usuário uma interação mais lúdica e inusitada. Com a proposta de estimular a criatividade e questionar convenções sobre a forma como lidamos com os objetos, 'Destrua este diário' nos convida a rasgar páginas, rabiscar, pintar fora das linhas, manchar e até mesmo levar o livro para o banho. A ideia surgiu quando a autora começou a refletir sobre o início da sua carreira como artista e percebeu que o perfeccionismo tão exaltado na nossa cultura era um grande empecilho do processo criativo. A experiência fez com que ela entendesse que é preciso esculhambar a monotonia e o lugar-comum para que o novo possa surgir.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580574161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580574166"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OfRAvgAACAAJ&dq=isbn:9788580574166&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OfRAvgAACAAJ&dq=isbn:9788580574166&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DESTRUA_ESTE_DIARIO_CAPA_ORIGINAL.html?hl=&id=OfRAvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OfRAvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um diário costuma servir para anotar ideias, memórias ou registros do cotidiano. Keri Smith, ilustradora e artista canadense, inventou um tipo diferente de diário, que exige do usuário uma interação mais lúdica e inusitada."
+   }
+  }
+ ]
+}

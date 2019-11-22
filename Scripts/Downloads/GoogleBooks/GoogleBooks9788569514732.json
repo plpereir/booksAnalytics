@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZmyqswEACAAJ",
+   "etag": "nc11oQJM2vI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZmyqswEACAAJ",
+   "volumeInfo": {
+    "title": "Estrelas Alem Do Tempo",
+    "authors": [
+     "Margot Lee Shetterly",
+     "Balao Editorial"
+    ],
+    "publishedDate": "2017-01-16",
+    "description": "Durante a Segunda Guerra Mundial, a incipiente indústria aeronáutica americana contratou matemáticas negras para suprir sua falta de mão de obra. Esses \"computadores humanos\" continuaram trabalhando para seu governo e passaram a fazer parte da NASA em uma época em que vingava a segregação racial. Elas garantiram que os Estados Unidos ganhassem a corrida especial contra a União Soviética e lutaram para realizar o sonho americano. Esta é a sua história, que chega também aos cinemas na adaptação cinematográfica estrelada por Taraji P. Henson, Janelle Monáe, Octavia Spencer, Kevin Costner, Kirsten Dunst e Jim Parsons.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8569514735"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569514732"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZmyqswEACAAJ&dq=isbn:9788569514732&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZmyqswEACAAJ&dq=isbn:9788569514732&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Estrelas_Alem_Do_Tempo.html?hl=&id=ZmyqswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZmyqswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Durante a Segunda Guerra Mundial, a incipiente indústria aeronáutica americana contratou matemáticas negras para suprir sua falta de mão de obra."
+   }
+  }
+ ]
+}

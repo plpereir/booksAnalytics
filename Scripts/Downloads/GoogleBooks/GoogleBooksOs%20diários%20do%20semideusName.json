@@ -1,0 +1,842 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 165,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "viYSygyffLQC",
+   "etag": "JcdjTbmzG5I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/viYSygyffLQC",
+   "volumeInfo": {
+    "title": "Os diários do semideus",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "description": "Todo jovem semideus precisa se preparar para um árduo futuro: destruir monstros, aventurar-se pelo mundo e lidar com os temperamentais deuses gregos e romanos. Nesse volume recheado de relatos inéditos, retratos e entrevistas com personalidades do Olimpo, diagramas e brincadeiras criados pelo Escriba Sênior do Acampamento Meio-Sangue, Rick Riordan, Percy Jackson e seus amigos vão encarar inimigos perigosos e tarefas mortais. As lições aprendidas com essas histórias poderão salvar a vida de qualquer semideus!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580573183"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580573181"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=viYSygyffLQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=viYSygyffLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=viYSygyffLQC&printsec=frontcover&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=viYSygyffLQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-viYSygyffLQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=viYSygyffLQC&rdid=book-viYSygyffLQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_di%C3%A1rios_do_semideus-sample-epub.acsm?id=viYSygyffLQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_di%C3%A1rios_do_semideus-sample-pdf.acsm?id=viYSygyffLQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=viYSygyffLQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesse volume recheado de relatos inéditos, retratos e entrevistas com personalidades do Olimpo, diagramas e brincadeiras criados pelo Escriba Sênior do Acampamento Meio-Sangue, Rick Riordan, Percy Jackson e seus amigos vão encarar ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dbLgAwAAQBAJ",
+   "etag": "YzT7V9BHVBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dbLgAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Semideuses e monstros",
+    "subtitle": "",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2014-07-04",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580575583"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580575583"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dbLgAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dbLgAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dbLgAwAAQBAJ&pg=PT295&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dbLgAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dbLgAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dbLgAwAAQBAJ&rdid=book-dbLgAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.691E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Semideuses_e_monstros-sample-epub.acsm?id=dbLgAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Semideuses_e_monstros-sample-pdf.acsm?id=dbLgAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dbLgAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rick Riordan. Conheça os livros da série Os heróisdoOlimpo Livro Um Livro Dois \u003cbr\u003e\nLivro Três Livro quatro \u003cb\u003eOs diários do semideus\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CRP4nUi3pSIC",
+   "etag": "i6AHmDd4cWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CRP4nUi3pSIC",
+   "volumeInfo": {
+    "title": "O filho de Netuno",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2012-05-02",
+    "description": "A vida de Percy Jackson é assim mesmo: uma grande bagunça de deuses e monstros que, na maioria das vezes, acaba em problemas. Filho de Poseidon, o deus do mar, um belo dia Percy desperta sem memória e acaba em um acampamento de heróis que não reconhece. Agarrado à lembrança de uma garota, só tem uma certeza: os dias de jornadas e batalhas não terminaram. Percy e seus novos colegas semideuses vão enfrentar os misteriosos desígnios da Profecia dos Sete. Se falharem, as consequências, é claro, serão desastrosas. Com início no “outro” acampamento meio-sangue e se estendendo para além das terras dos deuses, esta sequência da série Os heróis do Olimpo apresenta novos semideuses e criaturas incríveis, além de trazer de volta alguns monstros bastante conhecidos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580571912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858057191X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CRP4nUi3pSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CRP4nUi3pSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CRP4nUi3pSIC&pg=PT582&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CRP4nUi3pSIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CRP4nUi3pSIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CRP4nUi3pSIC&rdid=book-CRP4nUi3pSIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_filho_de_Netuno-sample-epub.acsm?id=CRP4nUi3pSIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_filho_de_Netuno-sample-pdf.acsm?id=CRP4nUi3pSIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CRP4nUi3pSIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rick Riordan. Livro 5 O sangue do Olimpo Livro extra \u003cb\u003eOs diários do semideus\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6R5XCabaEd4C",
+   "etag": "SCc5QixlvI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6R5XCabaEd4C",
+   "volumeInfo": {
+    "title": "O herói perdido",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Novos e conhecidos personagens do Acampamento Meio-Sangue dividem espaço nesse primeiro volume da série Os heróis do Olimpo. Rick Riordan volta ao universo de Percy Jackson e os Olimpianos com ainda mais aventuras, humor e mistério. Depois de salvar o Olimpo do maligno titã Cronos, Percy Jackson e seus amigos trabalharam duro para reconstruir seu mais querido refúgio, o Acampamento Meio-Sangue. É lá que a próxima geração de semideuses terá de se preparar para enfrentar uma nova e aterrorizante profecia. Os campistas seguirão firmes na inevitável jornada, mas, para sobreviver, precisarão contar com a ajuda de alguns heróis, digamos, um pouco mais experientes - semideuses dos quais todos já ouvimos falar... e muito.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570878"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570875"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6R5XCabaEd4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6R5XCabaEd4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6R5XCabaEd4C&pg=PT607&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6R5XCabaEd4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6R5XCabaEd4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6R5XCabaEd4C&rdid=book-6R5XCabaEd4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_her%C3%B3i_perdido-sample-epub.acsm?id=6R5XCabaEd4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_her%C3%B3i_perdido-sample-pdf.acsm?id=6R5XCabaEd4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6R5XCabaEd4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rick Riordan. Livro 5 O sangue do Olimpo Livro extra \u003cb\u003eOs diários do semideus\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dUmIAAAAQBAJ",
+   "etag": "kKO6j9VRAFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dUmIAAAAQBAJ",
+   "volumeInfo": {
+    "title": "A casa de Hades",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2013-10-08",
+    "description": "Hazel está diante de uma encruzilhada. As forças de Gaia estão decididas a impedi-los de avançar e alcançar seu objetivo: chegar à Casa de Hades, nas terras antigas, para resgatar Percy e Annabeth e fechar definitivamente as Portas da Morte, impedindo os monstros de retornarem ao mundo mortal. Ela e o que restou da tripulação do Argo II sabem o que precisa ser feito, mas todos os caminhos parecem levar ao fracasso de sua missão. Entretanto, eles precisam se decidir e agir rápido, pois o tempo está passando. A sanguinária Mãe Terra escolheu o dia primeiro de agosto para o seu despertar. No Tártaro, Annabeth e Percy passam por grandes dificuldades. Famintos, com sede e feridos, mal conseguem andar pelo território sombrio e venenoso repleto de inimigos que espreitam na escuridão. Não há como descobrir onde ficam as Portas da morte. E mesmo que soubessem sua localização, uma legião formada pelos monstros mais poderosos e fiéis a Gaia estará lá para guardá-las. Nesse momento, Annabeth e Percy não estão em condições de enfrentá-los em um combate. Apesar da enorme desvantagem, Hazel, Annabeth, Percy e os outros semideuses da profecia sabem que sua única opção é tentar o impossível. Não apenas por si mesmos, mas por todos que amam, ainda que o amor possa ser a escolha mais arriscada de todas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580574203"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858057420X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.10.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dUmIAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dUmIAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dUmIAAAAQBAJ&pg=PT665&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dUmIAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dUmIAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dUmIAAAAQBAJ&rdid=book-dUmIAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_casa_de_Hades-sample-epub.acsm?id=dUmIAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_casa_de_Hades-sample-pdf.acsm?id=dUmIAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dUmIAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rick Riordan. Livro 5 O sangue do Olimpo Livro extra \u003cb\u003eOs diários do semideus\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oovhAAAAMAAJ",
+   "etag": "JaBkeHLVcbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oovhAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Brasil, primeiro",
+    "subtitle": "história dos Diários Associados",
+    "authors": [
+     "Glauco Carneiro"
+    ],
+    "publishedDate": "1999*",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000092845043"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 690,
+    "printType": "BOOK",
+    "categories": [
+     "Mass media"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oovhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oovhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=oovhAAAAMAAJ&q=Os+di%C3%A1rios+do+semideus&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oovhAAAAMAAJ&dq=Os+di%C3%A1rios+do+semideus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Brasil_primeiro.html?hl=&id=oovhAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oovhAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas a verdade é que \u003cb\u003eos Diários\u003c/b\u003e Associados tiveram uma origem pouco \u003cbr\u003e\nempresarial e muito mais jornalística. Acho que ... na paz da intemporalidade e \u003cbr\u003e\nteve esse raro e extra-humano privilégio de que só desfrutam os heróis e \u003cbr\u003e\n\u003cb\u003esemideuses\u003c/b\u003e: foi&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F4Fn2yF1YggC",
+   "etag": "OlvQolQsqAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F4Fn2yF1YggC",
+   "volumeInfo": {
+    "title": "Miguel Torga - Diário - Vols. IX a XII",
+    "authors": [
+     "MIGUEL TORGA"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2011-04-11",
+    "description": "Os Diários de Torga, publicados originalmente em edição de autor, em 16 volumes, constituem o retrato de um homem, de um escritor e de um tempo. Publicados ininterruptamente entre 1941 e 1993, dão-nos uma apaixonante visão do país e da sociedade portuguesa da época, com todas as transformações que ao longo desse tempo a marcaram.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722045452"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722045458"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F4Fn2yF1YggC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F4Fn2yF1YggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F4Fn2yF1YggC&pg=PA118&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=F4Fn2yF1YggC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-F4Fn2yF1YggC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=F4Fn2yF1YggC&rdid=book-F4Fn2yF1YggC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Miguel_Torga_Di%C3%A1rio_Vols_IX_a_XII-sample-pdf.acsm?id=F4Fn2yF1YggC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F4Fn2yF1YggC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vê se não desesperas E me esperas Até que eu volte, e à sombra da velhice Te \u003cbr\u003e\nconte, envergonhado, As indignas façanhas Que cometi Na pele do \u003cb\u003esemideus\u003c/b\u003e \u003cbr\u003e\nque nunca fui Sê tu divina, de verdade, aí, Nessa ilha de esperança, Fiel ao&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vycPAAAAYAAJ",
+   "etag": "KHKu17VlkGc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vycPAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A UDN e o udenismo",
+    "subtitle": "ambigüidades do liberalismo brasileiro, 1945-1965",
+    "authors": [
+     "Maria Victoria de Mesquita Benevides"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023888781"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 297,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vycPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vycPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vycPAAAAYAAJ&q=Os+di%C3%A1rios+do+semideus&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vycPAAAAYAAJ&dq=Os+di%C3%A1rios+do+semideus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_UDN_e_o_udenismo.html?hl=&id=vycPAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vycPAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em São Paulo o jornal O Estado de S. Paulo, no Rio de Janeiro o Correio da \u003cbr\u003e\nManhã, o \u003cb\u003eDiário\u003c/b\u003e de Noticias e o \u003cb\u003eDiário\u003c/b\u003e Carioca ... leiam-se os jornais do Rio, de \u003cbr\u003e\nS. Paulo, e aqui de Minas: Eduardo Gomes anda elevado à categoria de \u003cb\u003esemi-\u003c/b\u003e\u003cbr\u003e\n\u003cb\u003edeus\u003c/b\u003e!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ukYtAAAAYAAJ",
+   "etag": "NXB8tIKo5GM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ukYtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Diários de André",
+    "publishedDate": "1974",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022930769"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 105,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ukYtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ukYtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ukYtAAAAYAAJ&q=Os+di%C3%A1rios+do+semideus&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ukYtAAAAYAAJ&dq=Os+di%C3%A1rios+do+semideus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rios_de_Andr%C3%A9.html?hl=&id=ukYtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ukYtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Estou adorando o \u003cb\u003eSemideus\u003c/b\u003e... — Eu não. Acho melhor Os Ossos do Barão. — \u003cbr\u003e\nVocê viu o Odorico fazendo papel de velhinho? — Vi. Gosto mais dele assim. \u003cbr\u003e\nDetestava o Odorico. — É mesmo. O Odorico era muito intrigante. — E além \u003cbr\u003e\ndisso&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J6RNAQAAIAAJ",
+   "etag": "hsT4O6QIJNc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J6RNAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Diario do Congresso Nacional",
+    "authors": [
+     "Brazil. Congresso Nacional",
+     "Brazil. Congresso Nacional. Câmara dos Deputados"
+    ],
+    "publishedDate": "1990-05",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105117557301"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=J6RNAQAAIAAJ&q=Os+di%C3%A1rios+do+semideus&dq=Os+di%C3%A1rios+do+semideus&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=J6RNAQAAIAAJ&dq=Os+di%C3%A1rios+do+semideus&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_do_Congresso_Nacional.html?hl=&id=J6RNAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J6RNAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Congressitas. para onde vamos. com um quadro político. social e institucional \u003cbr\u003e\ntão grave e com um Presidente que assume a atitude de uma \u003cb\u003esemideus\u003c/b\u003e? \u003cbr\u003e\nPergunto a este Congresso Nacional: qual será nosso caminho? Teremos pulso \u003cbr\u003e\npara&nbsp;..."
+   }
+  }
+ ]
+}

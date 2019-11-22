@@ -1,0 +1,903 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 407,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1QQmDwAAQBAJ",
+   "etag": "YlhAqdlTGy0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1QQmDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Marília de Dirceu",
+    "authors": [
+     "Tomás Antônio Gonzaga"
+    ],
+    "publisher": "Ciranda Cultural Editora e Distribuidora LTDA",
+    "publishedDate": "2017-05-31",
+    "description": "Em Marília de Dirceu, Tomás Antônio Gonzaga escreve textos belíssimos e ao mesmo tempo dotados de uma técnica impressionante. Essa harmonia traz à tona a grande espontaneidade de Gonzaga. Um homem apaixonado por uma mulher bem mais jovem, tendo o tempo como aspecto ameaçador, torna essa a obra-prima do autor. O cenário escolhido por Gonzaga é a Inconfidência Mineira, o que imprime ainda mais valor à obra. Aqui, temos o universo lírico e sentimental do Arcadismo em uma de suas melhores expressões.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538071433"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538071432"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1QQmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1QQmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1QQmDwAAQBAJ&printsec=frontcover&dq=Dirceu&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1QQmDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1QQmDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.81,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1QQmDwAAQBAJ&rdid=book-1QQmDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 810000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar%C3%ADlia_de_Dirceu-sample-epub.acsm?id=1QQmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar%C3%ADlia_de_Dirceu-sample-pdf.acsm?id=1QQmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1QQmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Marília de Dirceu, Tomás Antônio Gonzaga escreve textos belíssimos e ao mesmo tempo dotados de uma técnica impressionante. Essa harmonia traz à tona a grande espontaneidade de Gonzaga."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "otJxDwAAQBAJ",
+   "etag": "JDfg7LtklgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/otJxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Devaneios De Dirceu",
+    "authors": [
+     "Eduardo"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um livro para se apaixonar, se emocionar e detestar ao mesmo tempo. Uma explosão de sentimentos confusa e extremamente complexa. Nesta leitura você experimentará uma viagem por dentro da mente mais louca que o mundo já viu, mas ao mesmo tempo a mais brilhante...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20277"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 43,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=otJxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=otJxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=otJxDwAAQBAJ&pg=PA4&dq=Dirceu&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=otJxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-otJxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=otJxDwAAQBAJ&rdid=book-otJxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Devaneios_De_Dirceu-sample-pdf.acsm?id=otJxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=otJxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Prazer, eu sou \u003cb\u003eDirceu\u003c/b\u003e! Conheci \u003cb\u003eDirceu\u003c/b\u003e em uma manhã de terça-feira, \u003cbr\u003e\ncaminhando pelas ruas do meu bairro numa tarde de outono, pisando em folhas \u003cbr\u003e\nsecas e observando todo aquele ambiente seco ilustrando perfeitamente a \u003cbr\u003e\nestação,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1h23BAAAQBAJ",
+   "etag": "r1CZZ9IPeos",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1h23BAAAQBAJ",
+   "volumeInfo": {
+    "title": "Máximas do Dirceu",
+    "authors": [
+     "Dirceu Ferreira"
+    ],
+    "publisher": "Gutemberg",
+    "publishedDate": "2014-08-25",
+    "description": "Neste livro, o célebre frasista e escritor Dirceu Ferreira, colaborador do antológico Pasquim, reúne suas mais divertidas e engraçadas frases sobre o cotidiano brasileiro. Com humor sutil e por vezes ácido, é um brilhante cronista da realidade nacional, já que, ao retratar cenas do dia a dia em suas frases hilariantes e contundentes, consegue promover, ao mesmo tempo, uma reflexão e uma risada. Suas centenas de máximas são acompanhadas de ilustrações do cartunista Nani. Além das frases e das charges, há no livro alguns fac-símiles de cartas e bilhetes de figuras importantes do cenário cultural brasileiro que influenciaram Dirceu e ao mesmo tempo foram influenciadas por seu trabalho, como Carlos Drummond de Andrade, Ziraldo, Henfil, Zuenir Ventura e até mesmo o jogador de futebol Tostão, que assina o prefácio da obra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582350928"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582350929"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1h23BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1h23BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1h23BAAAQBAJ&pg=PT7&dq=Dirceu&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1h23BAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1h23BAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1h23BAAAQBAJ&rdid=book-1h23BAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/M%C3%A1ximas_do_Dirceu-sample-epub.acsm?id=1h23BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/M%C3%A1ximas_do_Dirceu-sample-pdf.acsm?id=1h23BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1h23BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eduardo Gonçalves de Andrade (Tostão) Por meio do amigo comum, Toninho \u003cbr\u003e\nDrummond, conheci \u003cb\u003eDirceu\u003c/b\u003e no final dos anos 60. Em 1969, fui operado do olho e \u003cbr\u003e\nfiz parte de minha recuperação em Araxá, terra de \u003cb\u003eDirceu\u003c/b\u003e, de Toninho e de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SepoDwAAQBAJ",
+   "etag": "wyrNWQfCJaQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SepoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Zé Dirceu",
+    "subtitle": "Memórias - Livro 1",
+    "authors": [
+     "Zé Dirceu"
+    ],
+    "publisher": "Geração Editorial",
+    "publishedDate": "2018-08-31",
+    "description": "Muitos escreveram sobre José Dirceu, com mais erros do que acertos. Com tempo, na prisão, ele mesmo escreveu a fascinante história de sua vida. Os bastidores inéditos de sua militância estudantil nos anos 1960, o exílio e o treinamento para ser guerrilheiro em Cuba, a cirurgia plástica que mudou seu rosto, a vida clandestina no Brasil nos anos 1970, a volta à legalidade com a anistia, em 1979, e sua ascensão no Partido dos Trabalhadores, onde se tornou presidente e maior responsável pela eleição de Lula à presidência da República. Pela primeira vez ele revela segredos dos bastidores da luta política dentro do PT e do próprio governo, onde foi chefe da Casa Civil e provável sucessor de Lula, até ser abatido pelas denúncias do chamado \"Mensalão\". No primeiro volume de suas \"Memórias\" – outro virá, com novas revelações – ele expõe o que jamais foi dito sobre sua vida e sobre os principais líderes da política brasileira nos últimos 50 anos. Um livro imprescindível para se entender como foi a luta contra a ditadura militar, a redemocratização, a derrubada do presidente Fernando Collor, a oposição aos governos de Fernando Henrique Cardoso, a eleição de Lula e Dilma e o atual momento político do país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581304113"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581304117"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SepoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SepoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SepoDwAAQBAJ&pg=PT781&dq=Dirceu&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SepoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SepoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SepoDwAAQBAJ&rdid=book-SepoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Z%C3%A9_Dirceu-sample-epub.acsm?id=SepoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SepoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Memórias - Livro 1 Zé \u003cb\u003eDirceu\u003c/b\u003e. Ivone (namorada de Zé \u003cb\u003eDirceu\u003c/b\u003e)197 Izar, Ricardo \u003cbr\u003e\n436, 438 ... 477 Jeová 114, 126, 134, 155 Jereissati, Tasso 220, 246, 249, 312, \u003cbr\u003e\n379-380,383 Joana (filha de Zé \u003cb\u003eDirceu\u003c/b\u003e) 5, 19, 232, 272-273, 397, 472 João \u003cbr\u003e\nAlfredo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KXBiCAAAQBAJ",
+   "etag": "yB5PvIVQ1bo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KXBiCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Marília de Dirceu",
+    "subtitle": "A musa, a Inconfidência e a vida privada em Ouro Preto no século XVIII",
+    "authors": [
+     "Alexandre Ibañez",
+     "Staël Gontijo"
+    ],
+    "publisher": "Gutemberg",
+    "publishedDate": "2014-10-20",
+    "description": "\"Sempre ouvi dizer que a vida de Marília de Dirceu desvaloriza uma biografia, por ela ter sido apenas um apêndice de Thomas Antonio Gonzaga. Além disso, sabemos pouco sobre fatos fundamentais da sua história. Não deixou um diário, os documentos e fontes primárias são quase inexistentes, a tradição oral se confunde com a lenda.\" Este romance biográfico reconstrói uma das personagens mais importantes da história brasileira, cingida pela ascensão e decadência de Vila Rica, hoje Ouro Preto, que chegou a ser comparada a Londres e Paris. Por essa obra podemos conhecer melhor os costumes nas Minas Gerais do século XVIII e observar como a musa de Gonzaga foi diferente dos contemporâneos. Ela enfrentou muitos preconceitos em sua época, mas realizou com dignidade rara uma ascensão estável naquela sociedade; foi considerada uma celebridade de quem até o imperador quis beijar a mão. Marília, como toda musa, foi ao mesmo tempo expressão de sua época e exceção a ela.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582352212"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582352212"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KXBiCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KXBiCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KXBiCAAAQBAJ&pg=PT236&dq=Dirceu&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KXBiCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KXBiCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KXBiCAAAQBAJ&rdid=book-KXBiCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar%C3%ADlia_de_Dirceu-sample-epub.acsm?id=KXBiCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar%C3%ADlia_de_Dirceu-sample-pdf.acsm?id=KXBiCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KXBiCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Documentário sobre Marília de \u003cb\u003eDirceu\u003c/b\u003e. Rio de Janeiro: Ministério da Educação e \u003cbr\u003e\nCultura-Serviço de Documentação, 1966. GONÇALVES, Adelto. Gonzaga, um \u003cbr\u003e\npoeta do iluminismo. Rio de Janeiro: Nova Fronteira, 1999. GONZAGA, Tomás&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QSZKBQAAQBAJ",
+   "etag": "VMGnzF0PjDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QSZKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Devaneios De Dirceu",
+    "authors": [
+     "Eduardo Marques"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-12-02",
+    "description": "Um livro para se apaixonar, se emocionar e detestar ao mesmo tempo. Uma explosão de sentimentos confusa e extremamente complexa. Nesta leitura você experimentará uma viagem por dentro da mente mais louca que o mundo já viu, mas ao mesmo tempo a mais brilhante...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90155777"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 43,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QSZKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QSZKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QSZKBQAAQBAJ&pg=PA4&dq=Dirceu&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QSZKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-QSZKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QSZKBQAAQBAJ&rdid=book-QSZKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Devaneios_De_Dirceu-sample-pdf.acsm?id=QSZKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QSZKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Prazer, eu sou \u003cb\u003eDirceu\u003c/b\u003e! Conheci \u003cb\u003eDirceu\u003c/b\u003e em uma manhã de terça-feira, \u003cbr\u003e\ncaminhando pelas ruas do meu bairro numa tarde de outono, pisando em folhas \u003cbr\u003e\nsecas e observando todo aquele ambiente seco ilustrando perfeitamente a \u003cbr\u003e\nestação,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gh0BAAAAMAAJ",
+   "etag": "tEc1HLSZuCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gh0BAAAAMAAJ",
+   "volumeInfo": {
+    "title": "O amor infeliz de Marília e Dirceu",
+    "authors": [
+     "Augusto de Lima Júnior"
+    ],
+    "publishedDate": "1938",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015063033511"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 182,
+    "printType": "BOOK",
+    "categories": [
+     "Poets, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gh0BAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gh0BAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gh0BAAAAMAAJ&q=Dirceu&dq=Dirceu&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gh0BAAAAMAAJ&dq=Dirceu&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_amor_infeliz_de_Mar%C3%ADlia_e_Dirceu.html?hl=&id=gh0BAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gh0BAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fiK1lTQcknoC",
+   "etag": "a8OG8SFMRsU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fiK1lTQcknoC",
+   "volumeInfo": {
+    "title": "Dirceu",
+    "subtitle": "A biografia",
+    "authors": [
+     "Otávio Cabral"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2013-06-05",
+    "description": "Daniel, Hoffmann, Carlos Henrique, Pedro Caroço. Cubano, argentino, brasileiro. Todos foram – são – José Dirceu, personagem cuja trajetória se confunde com a história da esquerda latino-americana na segunda metade do século XX, e particularmente com a do Brasil, já no século XXI. Dirceu foi líder estudantil em 1968, protagonista do histórico congresso da UNE em Ibiúna. Capturado, seria um dos presos trocados pelo embaixador americano. Desbaratado o movimento, encarcerados ou mortos cada um de seus integrantes, sobreviveria para mergulhar num longo período de clandestinidade, a ser somente interrompido, em 1979, pela anistia. Livre, conheceria o sindicalista Lula, fundaria o PT e se tornaria o mais afamado articulador político do petismo. Em 2003, pela via democrática que não ajudara a construir, alcançaria o Palácio, ministro mais importante de um presidente eleito pela esperança. E então o mensalão... De súbito desempregado, era o mais novo consultor da República, capitalista convicto, lobista feito milionário. E então o julgamento do mensalão... A condenação. Não é que Dirceu não tenha, afinal, chegado a lugar algum. Ele chegou a vários; chegará a outros tantos ainda. Este livro, porém, fabuloso trabalho de reportagem de Otávio Cabral, é antes sobre os caminhos de um homem que é muitos, e sobre sua capacidade de se reinventar. É sobre o comandante Daniel, o argentino Hoffmann, o comerciante Carlos Henrique, o namorador Pedro Caroço. É sobre as escolhas, muito mais que os fins. É sobre a ambição e o desejo, muito mais que o poder. • O jornalista Otávio Cabral é editor de Veja, a mais importante revista semanal do Brasil, na qual trabalha desde 2004. Em vinte anos de carreira, acumula passagens pelos jornais Notícias Populares e Folha de S. Paulo. Durante dez anos, de 2000 a 2010, cobriu os principais acontecimentos da política nacional diretamente em Brasília.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501404206"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501404209"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.24.25.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fiK1lTQcknoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fiK1lTQcknoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fiK1lTQcknoC&printsec=frontcover&dq=Dirceu&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fiK1lTQcknoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fiK1lTQcknoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fiK1lTQcknoC&rdid=book-fiK1lTQcknoC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7500000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dirceu-sample-epub.acsm?id=fiK1lTQcknoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Dirceu-sample-pdf.acsm?id=fiK1lTQcknoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fiK1lTQcknoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dirceu foi líder estudantil em 1968, protagonista do histórico congresso da UNE em Ibiúna. Capturado, seria um dos presos trocados pelo embaixador americano."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k5hNuAEACAAJ",
+   "etag": "hMIZdh1iiCg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k5hNuAEACAAJ",
+   "volumeInfo": {
+    "title": "Zé Dirceu",
+    "subtitle": "MEMÓRIAS -",
+    "authors": [
+     "Dirceu José"
+    ],
+    "publishedDate": "2018-08-30",
+    "description": "Muitos escreveram sobre José Dirceu, com mais erros do que acertos. Com tempo, na prisão, ele mesmo escreveu a fascinante história de sua vida. Os bastidores inéditos de sua militância estudantil nos anos 1960, o exílio e o treinamento para ser guerrilheiro em Cuba, a cirurgia plástica que mudou seu rosto, a vida clandestina no Brasil nos anos 1970, a volta à legalidade com a anistia, em 1979, e sua ascensão no Partido dos Trabalhadores, onde se tornou presidente e maior responsável pela eleição de Lula à presidência da República. Pela primeira vez ele revela segredos dos bastidores da luta política dentro do PT e do próprio governo, onde foi chefe da Casa Civil e provável sucessor de Lula, até ser abatido pelas denúncias do chamado \"Mensalão\". No primeiro volume de suas \"Memórias\" - outro virá, com novas revelações - ele expõe o que jamais foi dito sobre sua vida e sobre os principais líderes da política brasileira nos últimos 50 anos. Um livro imprescindível para se entender como foi a luta contra a ditadura miliar, a redemocratização, a derrubada do presidente Fernando Collor, a oposição aos governos de Fernando Henrique Cardoso, a eleição de Lula e Dilma e o atual momento político do país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581304060"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581304069"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=k5hNuAEACAAJ&dq=Dirceu&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=k5hNuAEACAAJ&dq=Dirceu&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Z%C3%A9_Dirceu.html?hl=&id=k5hNuAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k5hNuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Muitos escreveram sobre José Dirceu, com mais erros do que acertos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s1FgDwAAQBAJ",
+   "etag": "HKDOWwBh4P0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s1FgDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Marília de Dirceu - Com questões comentadas de vestibular",
+    "authors": [
+     "Tomás Antônio Gonzaga"
+    ],
+    "publisher": "Ciranda Cultural",
+    "publishedDate": "2018-06-18",
+    "description": "Em Marília de Dirceu, Tomás Antônio Gonzaga escreve textos belíssimos e ao mesmo tempo dotados de uma técnica impressionante. Essa harmonia traz à tona a grande espontaneidade de Gonzaga. Um homem apaixonado por uma mulher bem mais jovem, tendo o tempo como aspecto ameaçador, torna essa a obra-prima do autor. O cenário escolhido por Gonzaga é a Inconfidência Mineira, o que imprime ainda mais valor à obra. Aqui, temos o universo lírico e sentimental do Arcadismo em uma de suas melhores expressões.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538078692"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538078690"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s1FgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s1FgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s1FgDwAAQBAJ&printsec=frontcover&dq=Dirceu&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s1FgDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s1FgDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s1FgDwAAQBAJ&rdid=book-s1FgDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mar%C3%ADlia_de_Dirceu_Com_quest%C3%B5es_comenta-sample-epub.acsm?id=s1FgDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s1FgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Marília de Dirceu, Tomás Antônio Gonzaga escreve textos belíssimos e ao mesmo tempo dotados de uma técnica impressionante. Essa harmonia traz à tona a grande espontaneidade de Gonzaga."
+   }
+  }
+ ]
+}

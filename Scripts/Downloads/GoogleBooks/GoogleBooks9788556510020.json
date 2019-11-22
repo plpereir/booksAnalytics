@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "W2YRvgAACAAJ",
+   "etag": "X5zMR7XHFrk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W2YRvgAACAAJ",
+   "volumeInfo": {
+    "title": "MR. MERCEDES",
+    "authors": [
+     "STEPHEN KING",
+     "REGIANE WINARSKI"
+    ],
+    "description": "Ainda é madrugada e, em uma falida cidade do Meio-Oeste, centenas de pessoas fazem fila em uma feira de empregos, desesperadas para conseguir trabalho. De repente, um único carro surge, avançando para a multidão. O Mercedes atropela vários inocentes, antes de recuar e fazer outra investida. Oito pessoas são mortas e várias ficam feridas. O assassino escapa. Meses depois, o detetive Bill Hodges ainda é atormentado pelo fracasso na resolução do caso, e passa os dias em frente à TV, contemplando a ideia de se matar. Ao receber uma carta de alguém que se autodenomina o Assassino do Mercedes, Hodges desperta da aposentadoria deprimida, decidido a encontrar o culpado. \"Mr. Mercedes\" narra uma guerra entre o bem e o mal, Stephen King mergulha na mente obsessiva e psicótica desse assassino.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8556510027"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788556510020"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 3607,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=W2YRvgAACAAJ&dq=isbn:9788556510020&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=W2YRvgAACAAJ&dq=isbn:9788556510020&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MR_MERCEDES.html?hl=&id=W2YRvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=W2YRvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mr. Mercedes narra uma guerra entre o bem e o mal, e o mergulho de Stephen King na mente obsessiva e psicótica desse assassino é tão arrepiante quanto inesquecível."
+   }
+  }
+ ]
+}

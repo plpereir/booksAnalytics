@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4rXkygAACAAJ",
+   "etag": "vofZRQ1NC1I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4rXkygAACAAJ",
+   "volumeInfo": {
+    "title": "PARISIENSE, A - O GUIA DE ESTILO DE INES",
+    "subtitle": "DE LA FRESSANGE",
+    "authors": [
+     "SOPHIE GACHET",
+     "INES DE LA FRESSANGE",
+     "ADALGISA CAMPOS"
+    ],
+    "description": "Ines de la Fressange conta o que aprendeu sobre estilo e beleza durante sua experiência na indústria da moda. Ela dá conselhos de como se vestir como as parisienses e sugere um guarda-roupa a partir de sete itens básicos e bons acessórios. Esse guia inclui endereços da Paris secreta da autora - hotéis, restaurantes, spas, lugares fora do circuito turístico oficial e uma seção feita para a diversão das crianças.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570638"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570632"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4rXkygAACAAJ&dq=isbn:9788580570632&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4rXkygAACAAJ&dq=isbn:9788580570632&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PARISIENSE_A_O_GUIA_DE_ESTILO_DE_INES.html?hl=&id=4rXkygAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4rXkygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ines de la Fressange conta o que aprendeu sobre estilo e beleza durante sua experiência na indústria da moda."
+   }
+  }
+ ]
+}

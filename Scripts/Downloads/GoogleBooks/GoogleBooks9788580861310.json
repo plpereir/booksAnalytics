@@ -1,0 +1,104 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Vm2aIsAr8iEC",
+   "etag": "T3bqKFkuxPE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vm2aIsAr8iEC",
+   "volumeInfo": {
+    "title": "As esganadas",
+    "authors": [
+     "Jô Soares"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2011-10-14",
+    "description": "Em As esganadas, o autor do best-seller O xangô de Baker Street explora mais uma vez tema que lhe é caro: os assassinatos em série. No entanto, tal como Alfred Hitchcock, que desprezava os romances policiais cujo objetivo se resume a descobrir quem é o criminoso (o famoso \"whodonit\"), Jô Soares revela logo no início não somente quem é o desalmado como sua motivação psicológica (melhor dizer psicanalítica) para matar. O delicioso núcleo narrativo está nas tentativas aparvalhadas da polícia de encontrar um criminoso que, além de muito esperto e de não despertar suspeita nenhuma, possui uma rara característica física que dificulta sobremaneira a utilização dos novos \"métodos científicos\" da polícia carioca. Para investigar os crimes, o famigerado chefe de polícia Filinto Müller designa um delegado ranzinza, assessorado por um auxiliar obtuso e medroso, e que contará com a inestimável ajuda de um sofisticado e culto ex-inspetor. Na perseguição ao criminoso, os três investigadores ganham a desejável companhia de uma jovem linda, destemida, viajada e moderna, que é repórter e fotógrafa da principal revista ilustrada do país. O leitor também pode se fartar aqui com uma outra faceta constante da obra literária de Jô Soares: a escolha de um momento do passado para cenário de sua narrativa, o que lhe permite entrar em detalhes históricos curiosos enquanto desenvolve a trama. Desta vez, voltamos ao Rio de Janeiro do Estado Novo, tendo por pano de fundo mais amplo o avanço do nazismo e as primeiras nuvens ameaçadoras que anunciam a Segunda Guerra Mundial. Entre os eventos da época que Jô resgata estão uma corrida de automóveis no Circuito da Gávea (de que participam o cineasta Manoel de Oliveira e o lendário Chico Landi) e a transmissão pelo rádio da derrota do Brasil de Leônidas da Silva para a Itália na semifinal da Copa de 1938, na França.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580861310"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580861314"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.15.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Vm2aIsAr8iEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Vm2aIsAr8iEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Vm2aIsAr8iEC&printsec=frontcover&dq=isbn:9788580861310&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Vm2aIsAr8iEC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Vm2aIsAr8iEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Vm2aIsAr8iEC&rdid=book-Vm2aIsAr8iEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_esganadas-sample-epub.acsm?id=Vm2aIsAr8iEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_esganadas-sample-pdf.acsm?id=Vm2aIsAr8iEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Vm2aIsAr8iEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em As esganadas, o autor do best-seller O xangô de Baker Street explora mais uma vez tema que lhe é caro: os assassinatos em série."
+   }
+  }
+ ]
+}

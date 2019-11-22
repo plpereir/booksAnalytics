@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kMKLDAEACAAJ",
+   "etag": "YI9GX/p/+j0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kMKLDAEACAAJ",
+   "volumeInfo": {
+    "title": "A herdeira",
+    "subtitle": "livro 4 da serie A Selecao",
+    "authors": [
+     "Kiera Cass"
+    ],
+    "publishedDate": "2015",
+    "description": "\"Twenty years ago, America Singer entered the Selection and won Prince Maxon's heart. Now the time has come for Princess Eadlyn to hold a Selection of her own. Eadlyn doesn't expect her Selection to be anything like her parents' fairy-tale love story ... but as the competition begins, she may discover that finding her own happily ever after isn't as impossible as she's always thought.\"--",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8565765652"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565765657"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 391,
+    "printType": "BOOK",
+    "categories": [
+     "Contests"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kMKLDAEACAAJ&dq=isbn:9788565765657&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kMKLDAEACAAJ&dq=isbn:9788565765657&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_herdeira.html?hl=&id=kMKLDAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kMKLDAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Vinte anos atrás, America Singer participou da Seleção e conquistou o coração do príncipe Maxon."
+   }
+  }
+ ]
+}

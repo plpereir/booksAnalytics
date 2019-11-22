@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UwORtAEACAAJ",
+   "etag": "yutge4IrqPo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UwORtAEACAAJ",
+   "volumeInfo": {
+    "title": "Em Busca De Respostas",
+    "authors": [
+     "Zibia Gasparetto"
+    ],
+    "description": "Desde o início da civilização, os espíritos de luz trazem aos homens as provas da eternidade. Em busca de respostas é uma pesquisa sobre o trabalho que eles realizam desde o princípio dos tempos, interferindo nos problemas humanos. Durante sua vida, Zibia Gasparetto ouviu várias histórias por esse Brasil afora e resolveu reuní-las em um livro sobre o assunto, baseando-se nelas para relatar suas conclusões.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577225518"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577225514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UwORtAEACAAJ&dq=isbn:9788577225514&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UwORtAEACAAJ&dq=isbn:9788577225514&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Em_Busca_De_Respostas.html?hl=&id=UwORtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UwORtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Desde o início da civilização, os espíritos de luz trazem aos homens as provas da eternidade. Em busca de respostas é uma pesquisa sobre o trabalho que eles realizam desde o princípio dos tempos, interferindo nos problemas humanos."
+   }
+  }
+ ]
+}

@@ -1,0 +1,867 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 27,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "h2zOwAEACAAJ",
+   "etag": "ghmejbGg9nk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/h2zOwAEACAAJ",
+   "volumeInfo": {
+    "title": "Dieta Barriga Zero",
+    "authors": [
+     "LIZ VACCARIELLO"
+    ],
+    "publisher": "Leya",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9892306813"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789892306810"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=h2zOwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=h2zOwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=h2zOwAEACAAJ&dq=A+dieta+da+barriga+zero&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=h2zOwAEACAAJ&dq=A+dieta+da+barriga+zero&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dieta_Barriga_Zero.html?hl=&id=h2zOwAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=h2zOwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_V5xAQAAQBAJ",
+   "etag": "W8H4Wjp8ais",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_V5xAQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Dieta Completa de Seleções",
+    "subtitle": "Um plano estratégico para alcançar sua boa forma",
+    "authors": [
+     "Seleções do Reader's Digest"
+    ],
+    "publisher": "Readers Digest Brasil",
+    "publishedDate": "2013-10-18",
+    "description": "Desenvolvido por Seleções, esse programa inovador de emagrecimento funciona de verdade. Você vai deixar de comer os alimentos que se convertem mais depressa em gordura e se concentrar naqueles que combatem o excesso de peso! O programa de 21 dias lhe ensinará as mudanças, as atitudes e, principalmente, os alimentos corretos para perder rapidamente até 12 quilos e ficar livre deles para sempre! Receitas maravilhosas, um plano alimentar fácil de seguir, histórias de sucesso estimulantes (você não vai acreditar nas fotos de antes e depois), além de conselhos e ferramentas realmente eficazes, todos aprovados por médicos e pesquisas recém-publicadas, fazem da Dieta Completa de Seleções o melhor e mais novo programa de emagrecimento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576454793"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576454793"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_V5xAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_V5xAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_V5xAQAAQBAJ&pg=PP1&dq=A+dieta+da+barriga+zero&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_V5xAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_V5xAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_V5xAQAAQBAJ&rdid=book-_V5xAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Dieta_Completa_de_Sele%C3%A7%C3%B5es-sample-epub.acsm?id=_V5xAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Dieta_Completa_de_Sele%C3%A7%C3%B5es-sample-pdf.acsm?id=_V5xAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_V5xAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um plano estratégico para alcançar sua boa forma Seleções do Reader&#39;s Digest. \u003cbr\u003e\nDA MESMA AUTORA DE \u003cb\u003eA DIETA DA BARRIGA ZERO\u003c/b\u003e! LIZ VACCARIELLO \u003cbr\u003e\nSeleçëaa A DIETA coMfiPLETA DE sELEçoEs Um plano estratégico para."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1JAQBAAAQBAJ",
+   "etag": "qPWzPeHoiBo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1JAQBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Cultura e imaginação publicitária",
+    "authors": [
+     "Everardo Rocha",
+     "Cláudia Pereira"
+    ],
+    "publisher": "Mauad Editora Ltda",
+    "publishedDate": "2013-09-10",
+    "description": "Os textos que integram a coletânea são resultado de diferentes pesquisas realizadas pelo PECC - Programa de estudos em comunicação e consumo Academia Infoglo\u00adbo/PUC-Rio. Desde 2011, o PECC desenvolve estudos que têm como foco questões relacionadas ao universo do consumo, visto como um processo de troca simbólica e de prática social. O Programa investiga o consumo em sua dimensão de sistema cultural e como narrativa constante nos meios de comunicação. Assim, suas investigações estão voltadas para o significado cultural do consumo, sua expressividade como forma de comunicação e os modos assumidos por suas práticas sociais. A obra apresenta um conjunto de reflexões que enfatizam o debate sobre as representações do consumo nas narrativas publicitárias e midiáticas em alguns de seus diferentes modos de realização e acontecimento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574786087"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857478608X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 195,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.314.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1JAQBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1JAQBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1JAQBAAAQBAJ&pg=PT158&dq=A+dieta+da+barriga+zero&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1JAQBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1JAQBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 28.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.6,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1JAQBAAAQBAJ&rdid=book-1JAQBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.86E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.86E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cultura_e_imagina%C3%A7%C3%A3o_publicit%C3%A1ria-sample-pdf.acsm?id=1JAQBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1JAQBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com \u003cb\u003ea dieta da barriga zero\u003c/b\u003e, em um mês você enxuga até 9 centímetros e vive \u003cbr\u003e\nmelhor. As capas de Boa Forma representam explicitamente este ideal de \u003cbr\u003e\nbeleza, agora também questão de saúde, que é o emagrecimento. A noção de \u003cbr\u003e\nque&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KbmmAgAAQBAJ",
+   "etag": "CuAsvvnviZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbmmAgAAQBAJ",
+   "volumeInfo": {
+    "title": "As receitas da Dieta Completa de Seleções",
+    "subtitle": "Elaboradas para perder até 12 quilos em 21 dias!",
+    "authors": [
+     "Seleções do Reader's Digest"
+    ],
+    "publisher": "Readers Digest Brasil",
+    "publishedDate": "2014-01-23",
+    "description": "As Receitas da Dieta Completa de Seleções é o livro ideal para quem sabe que comer bem é fundamental para uma vida boa e saudável. As 150 novas receitas de baixa caloria aqui apresentadas vêm para complementar o cardápio de A Dieta Completa de Seleções, e os leitores ainda não familiarizados poderão conhecer um pouco mais deste exclusivo método desenvolvido por Seleções. Com opções saudáveis, rápidas e fáceis de fazer - como Contrafilé Selado na Frigideira com Molho de Vinho Tinto, Salmão Pincelado com Romã e Alface-Romana com Guacamole - além de sobremesas e vários menus, entre eles vegetarianos e para intolerantes à lactose. Faça uma dieta equilibrada e perca até 12 quilos em 21 dias sem se sentir restringido em relação aos alimentos em seu cardápio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576455028"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576455021"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 421,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KbmmAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KbmmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KbmmAgAAQBAJ&pg=PT26&dq=A+dieta+da+barriga+zero&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KbmmAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KbmmAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KbmmAgAAQBAJ&rdid=book-KbmmAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_receitas_da_Dieta_Completa_de_Sele%C3%A7-sample-epub.acsm?id=KbmmAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_receitas_da_Dieta_Completa_de_Sele%C3%A7-sample-pdf.acsm?id=KbmmAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KbmmAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eliminador de Gordura no 1: Alimentação Quando estava pesquisando para \u003cb\u003eA\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003edieta da barrigazero\u003c/b\u003e!, lembro de ter ficado arrepiada ao ler a respeito da \u003cbr\u003e\npesquisa que mostravaque ácidos graxos monoinsaturados (AGMs) eram \u003cbr\u003e\nnutrientes que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g_S7DgAAQBAJ",
+   "etag": "nCMCR56gW3s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g_S7DgAAQBAJ",
+   "volumeInfo": {
+    "title": "La Dieta Cero Barriga",
+    "subtitle": "Zero Belly Diet",
+    "authors": [
+     "David Zinczenko"
+    ],
+    "publisher": "Vintage Espanol",
+    "publishedDate": "2017-05-02",
+    "description": "Shows how to deactivate your fat genes, rev up your metabolism, banish bloat, and balance your digestive health, allowing you to easily build lean, strong stomach muscle and strip away unwanted belly fat without sacrificing calories or spending hours at the gym. Features a week-by -week menu plan, fifty tasty recipes, and a handy shopping list that leads to a minium of cooking and plenty of feasting. \"La dieta cero barriga es un nuevo plan revolucionario para desactivar los genes de la grasa y ayudar a mantener el peso de por vida. El experto en nutricion David Zinczenko ha pasado toda su carrera investigando sobre la grasa del vientre y, ahora, muestra un nuevo estudio que revela el misterio de por que algunas personas se mantienen delgadas mientras que otras, por mucho que lo intenten, no consiguen bajar de peso. Algunos alimentos se convierten en nuestros genes de la grasa, causantes del aumento de peso, pero existen nueve alimentos poderosos que actuan directamente sobre estos genes desactivandolos y propiciando una perdida de peso facil, rapida y sostenible. Con este libro conoceras como desactivar los genes de la grasa, acelerar el metabolismo, desterrar la hinchazon y equilibrar la salud digestiva. Conseguiras crear una fuerte masa muscular de forma facil, reforzar el estomago y olvidarte de la grasa del vientre sin sacrificar calorias o pasar horas en el gimnasio. El resultado: una perdida de peso mas facil, mas rapida, mas duradera y mas placentera de lo que uno pueda imaginarse. La dieta cero barriga incluye un plan semanal de menus, asi como cincuenta sabrosas recetas y una practica lista de la compra.\"--Back cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780525433354"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "052543335X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g_S7DgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g_S7DgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=g_S7DgAAQBAJ&dq=A+dieta+da+barriga+zero&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g_S7DgAAQBAJ&dq=A+dieta+da+barriga+zero&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/La_Dieta_Cero_Barriga.html?hl=&id=g_S7DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g_S7DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;La dieta cero barriga es un nuevo plan revolucionario para desactivar los genes de la grasa y ayudar a mantener el peso de por vida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cGQeAwAAQBAJ",
+   "etag": "hFp1wFCAWFc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cGQeAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Barriga de trigo",
+    "subtitle": "Livre-se do trigo, livre-se dos quilos a mais e descubra o seu caminho de volta para a saúde",
+    "authors": [
+     "William Davis"
+    ],
+    "publisher": "WWF Martins Fontes",
+    "publishedDate": "2015-08-07",
+    "description": "Em Barriga de trigo, o médico mostra que o trigo já não é o substancial alimento que nossos antepassados moíam para seu pão de cada dia: o trigo de hoje foi geneticamente modificado para garantir maior produtividade ao menor custo possível. Consequentemente, esse cereal, que no passado era benéfico, foi transformado num ingrediente que, apesar de seus pouquíssimos nutrientes, de provocar o aumento da glicose no sangue mais depressa que o consumo do açúcar branco e de causar dependência, é onipresente, fazendo-nos andar numa montanha-russa de fome, alimentação em excesso e fadiga. O doutor Davis esclarece a ligação do trigo com o ganho de peso, com a gordura localizada e com uma série de efeitos prejudiciais à saúde, desde o diabetes e a doença cardíaca até transtornos imunológicos e neurológicos, como a doença celíaca, a artrite reumatoide e a demência. Em suma, ele apresenta uma argumentação irresistível para que se eliminem totalmente da dieta os derivados do trigo, com estratégias para tornar a transição a um só tempo simples e permanente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578277185"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857827718X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 286,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cGQeAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cGQeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cGQeAwAAQBAJ&pg=PT193&dq=A+dieta+da+barriga+zero&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cGQeAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cGQeAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cGQeAwAAQBAJ&rdid=book-cGQeAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.14E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.961E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Barriga_de_trigo-sample-epub.acsm?id=cGQeAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Barriga_de_trigo-sample-pdf.acsm?id=cGQeAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cGQeAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em pessoas geneticamente suscetíveis, que lutam com o metabolismo dos \u003cbr\u003e\ntriglicerídeos, as \u003cb\u003edietas\u003c/b\u003e de baixo teor de gordura ... Mesmo pessoas que tenham \u003cbr\u003e\n\u003cb\u003ezero\u003c/b\u003e partícula pequena de LDL no início, podem ser forçadas a desenvolvêlas \u003cbr\u003e\npelo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RaRcBAAAQBAJ",
+   "etag": "VykOjFZPj+I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RaRcBAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Farsa das Dietas",
+    "authors": [
+     "Claudia Carmello"
+    ],
+    "publisher": "Super Interessante",
+    "publishedDate": "2013-12-12",
+    "description": "Comer a cada três horas? Demonizar carboidratos? Ingerir só proteína? Tudo bobagem. Conheça os maiores mitos das dietas. E aprenda o verdadeiro caminho para perder peso. É o que você encontra aqui, nesta reportagem de capa da Super, publicada originalmente em maio de 2009.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536416809"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8536416807"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 12,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RaRcBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RaRcBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RaRcBAAAQBAJ&pg=PT14&dq=A+dieta+da+barriga+zero&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RaRcBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RaRcBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 1.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RaRcBAAAQBAJ&rdid=book-RaRcBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Farsa_das_Dietas-sample-epub.acsm?id=RaRcBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Farsa_das_Dietas-sample-pdf.acsm?id=RaRcBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RaRcBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E vem engordando: nos EUA, a indústria das \u003cb\u003edietas\u003c/b\u003e é maior que a de tênis Você \u003cbr\u003e\npode não prestar atenção no que come, mas há um ... light e \u003cb\u003ezero\u003c/b\u003e, adoçantes, \u003cbr\u003e\nvídeos de fitness, sites de consultoria nutricional (afiliados ou não a \u003cb\u003euma dieta\u003c/b\u003e \u003cbr\u003e\nespecífica), remédios para emagrecer, spas. ... \u003cb\u003eA Dieta\u003c/b\u003e do Abdome (programa de \u003cbr\u003e\n6 semanas, foca em 11 alimentos que magicamente tiram gordura só da \u003cb\u003ebarriga\u003c/b\u003e)\u003cbr\u003e\n,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Qythuyl5jVkC",
+   "etag": "SWqaYLN1p1c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Qythuyl5jVkC",
+   "volumeInfo": {
+    "title": "Medidas Perfeitas",
+    "authors": [
+     "SALLY LEWIS"
+    ],
+    "publisher": "Marco Zero",
+    "description": "Este livro tem uma estratégia - dieta e exercícios - para uma vida saudável. Explicando em detalhes a importância de se manter o peso adequado, ele mostra como avaliar a condição física, a importância de ingerir determinados nutrientes e descartar outros, como controlar as porções, os alimentos que ajudam a controlar os hormônios e a reduzir o estresse. Sua proposta é uma dieta simples e flexível, com diversas opções de cardápios para os mais variados gostos, deliciosos e fáceis de fazer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8527904357"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788527904353"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Qythuyl5jVkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Qythuyl5jVkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Qythuyl5jVkC&pg=PA6&dq=A+dieta+da+barriga+zero&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Qythuyl5jVkC&dq=A+dieta+da+barriga+zero&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Medidas_Perfeitas.html?hl=&id=Qythuyl5jVkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Qythuyl5jVkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma vez que você tenha alcançado seu peso ideal, poderá usar o Plano de \u003cbr\u003e\nManutenção da \u003cb\u003eDieta\u003c/b\u003e (veja página 27) para ... onde o aumento de peso na meia-\u003cbr\u003e\nidade se torna comum - estômago, \u003cb\u003ebarriga\u003c/b\u003e, cintura, quadris, coxas e nádegas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BW61DgAAQBAJ",
+   "etag": "srYBB5xu+q4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BW61DgAAQBAJ",
+   "volumeInfo": {
+    "title": "O pequeno livro da dieta",
+    "subtitle": "verdades, dicas e terapias para perder peso - para sempre",
+    "authors": [
+     "Kimberly Willis"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2017-04-20",
+    "description": "O pequeno livro da dieta aponta os erros que cometemos quando fazemos dieta e traz dicas práticas para quem deseja não só perder peso como continuar magro. Kimberly Willis usa uma combinação de yoga, hipnose, programação neurolinguística (PNL), acupuntura e discernimento para auxiliar a mudança de hábitos alimentares, resultando em uma perda de peso real e duradoura. Willis mostra que pequenas alterações em sua rotina podem criar grandes mudanças e que não é necessário ficar horas na academia ou passar fome — talvez você só precise de uma pequena ajuda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546500291"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8546500290"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BW61DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BW61DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BW61DgAAQBAJ&pg=PT19&dq=A+dieta+da+barriga+zero&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BW61DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BW61DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BW61DgAAQBAJ&rdid=book-BW61DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7500000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_pequeno_livro_da_dieta-sample-epub.acsm?id=BW61DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_pequeno_livro_da_dieta-sample-pdf.acsm?id=BW61DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BW61DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ponha uma das mãos sobre a \u003cb\u003ebarriga\u003c/b\u003e. Respire profunda e lentamente pelo nariz, \u003cbr\u003e\ncomo se pudesse respirar ... o metabolismo está estimulado, você queima mais \u003cbr\u003e\ncalorias. Lembre-se: Gordura \u003cb\u003ezero\u003c/b\u003e não significa caloria \u003cb\u003ezero\u003c/b\u003e As calorias contam!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "K7oaAQAAIAAJ",
+   "etag": "c8UPkybSuoo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K7oaAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106019969309"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K7oaAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K7oaAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=K7oaAQAAIAAJ&q=A+dieta+da+barriga+zero&dq=A+dieta+da+barriga+zero&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=K7oaAQAAIAAJ&dq=A+dieta+da+barriga+zero&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=K7oaAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K7oaAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "m carnes magras, peixe, legumes, verduras e saladas sem um pingo de óleo \u003cbr\u003e\nnem temperos \u003cb\u003ezero\u003c/b\u003e de álcool e \u003cb\u003ezero\u003c/b\u003e de derivados de leite ... vira um fenômeno \u003cbr\u003e\nde pernas poderosas, braços esculpidos e \u003cb\u003ebarriga\u003c/b\u003e tão negativa que parece que \u003cbr\u003e\nvai encostar na coluna Vertebral. ... Um método de exercícios (e \u003cb\u003edieta\u003c/b\u003e, se \u003cbr\u003e\nprecisar) que reúne intensidade brutal e muita variedade de movimentOS, \u003cbr\u003e\ntrabalhando em&nbsp;..."
+   }
+  }
+ ]
+}

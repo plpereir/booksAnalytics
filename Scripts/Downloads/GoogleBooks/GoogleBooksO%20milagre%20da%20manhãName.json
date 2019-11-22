@@ -1,0 +1,786 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 484,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yqQWDQAAQBAJ",
+   "etag": "QSsmMHG3FwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yqQWDQAAQBAJ",
+   "volumeInfo": {
+    "title": "O milagre da manhã",
+    "authors": [
+     "Hal Elrod"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2016-09-15",
+    "description": "Conheça o método simples e eficaz que vai proporcionar a vida dos sonhos — antes das 8 horas da manhã! Hal Elrod explica os benefícios de acordar cedo e desenvolver todo o nosso potencial e as nossas habilidades. O milagre da manhã permite que o leitor alcance níveis de sucesso jamais imaginados, tanto na vida pessoal quanto profissional. A mudança de hábitos e a nova rotina matinal proposta por Hal vai proporcionar melhorias significativas na saúde, na felicidade, nos relacionamentos, nas finanças, na espiritualidade ou quaisquer outras áreas que necessitem ser aprimoradas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546500093"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8546500096"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.25.23.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yqQWDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yqQWDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yqQWDQAAQBAJ&printsec=frontcover&dq=O+milagre+da+manh%C3%A3&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yqQWDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yqQWDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yqQWDQAAQBAJ&rdid=book-yqQWDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.65E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_milagre_da_manh%C3%A3-sample-epub.acsm?id=yqQWDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_milagre_da_manh%C3%A3-sample-pdf.acsm?id=yqQWDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yqQWDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hal Elrod explica os benefícios de acordar cedo e desenvolver todo o nosso potencial e as nossas habilidades. O milagre da manhã permite que o leitor alcance níveis de sucesso jamais imaginados, tanto na vida pessoal quanto profissional."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t1VxDwAAQBAJ",
+   "etag": "QVHb0I+YPwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t1VxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O milagre da manhã para transformar seu relacionamento",
+    "authors": [
+     "Hal Elrod",
+     "Paul Martino",
+     "Stacey Martino",
+     "Honorée Corder"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2018-10-15",
+    "description": "Do autor de O milagre da manhã, best-seller com mais de 100 mil vendidos Você não precisa da cooperação do seu parceiro para alcançar os resultados que você quer. Este é um livro sobre relacionamentos diferente de qualquer outro que você já tenha visto! Através dos ensinamentos do método \"Milagre da Manhã\", você poderá criar as mudanças que você merece no seu relacionamento – tudo sem precisar que seu parceiro participe do processo com você.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546501564"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8546501564"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=t1VxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=t1VxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t1VxDwAAQBAJ&printsec=frontcover&dq=O+milagre+da+manh%C3%A3&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=t1VxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-t1VxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=t1VxDwAAQBAJ&rdid=book-t1VxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.65E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_milagre_da_manh%C3%A3_para_transformar_seu-sample-epub.acsm?id=t1VxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t1VxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Do autor de O milagre da manhã, best-seller com mais de 100 mil vendidos Você não precisa da cooperação do seu parceiro para alcançar os resultados que você quer."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zBsDuQEACAAJ",
+   "etag": "1ch+7GHR6Vw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zBsDuQEACAAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã - Diário",
+    "authors": [
+     "Hal Elrod",
+     "Patrícia Azeredo"
+    ],
+    "publishedDate": "2018-07-30",
+    "description": "Em 'O milagre da manhã - Diário', Elrod traz uma ferramenta que visa tornar a prática matinal das seis atividades diárias muito mais fácil! Ao longo de 52 semanas, será possível registrar as práticas de silêncio, leitura, afirmações, visualização, exercícios e escrita que compõem o método criado pelo autor. O livro oferece ao leitor a oportunidade de acompanhar o próprio desenvolvimento ao longo de um ano, revisitar as lições que aprendeu durante a jornada, reconhecer o progresso que teve nesse período e avaliar os pontos em que poder melhorar a sua prática de 'O milagre da manhã'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8546500851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546500857"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zBsDuQEACAAJ&dq=O+milagre+da+manh%C3%A3&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zBsDuQEACAAJ&dq=O+milagre+da+manh%C3%A3&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Milagre_Da_Manh%C3%A3_Di%C3%A1rio.html?hl=&id=zBsDuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zBsDuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Agora, com O milagre da manhã – Diário, Elrod traz uma ferramenta que vai tornar a prática matinal das seis atividades diárias muito mais fácil!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5zWuvAEACAAJ",
+   "etag": "c7idZfrpmf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5zWuvAEACAAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã Para Transformar Seu Relacionam",
+    "authors": [
+     "Hal Elrod"
+    ],
+    "publishedDate": "2018-10-22",
+    "description": "Crie um amor inabalável e desperte uma paixão para a vida inteira! Hal Elrod, autor do best-seller O milagre da manhã, uniu seu método inovador ao conhecimento de Paul & Stacey Martino, especialistas em relacionamentos, para possibilitar que você seja um agente de mudança e crie a vida amorosa dos sonhos, bastando, inclusive, que apenas um dos envolvidos na relação tome a iniciativa de aderir à estratégia. Adaptando o método que já mudou a vida de milhares de pessoas em todo o mundo para o campo dos relacionamentos, os autores oferecem ferramentas que serão capazes de ajudá-lo a entender por que as manhãs são importantes para transformar seu relacionamento, edificar solidamente sua parceria por meio de conversas construtivas e libertar a paixão, trazendo de volta a deliciosa sensação da conquista do início do relacionamento. Empodere-se e fortaleça seu vínculo, descobrindo seus próprios desejos e criando uma vida a dois muito mais feliz. O milagre da manhã para transformar seu relacionamento é um livro que ultrapassa gênero, faixa etária e classe social, transferindo o foco para o que é mais importante para a maioria dos seres humanos: o amor – seja o amor-próprio ou o amor compartilhado com alguém especial.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576849992"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576849995"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5zWuvAEACAAJ&dq=O+milagre+da+manh%C3%A3&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5zWuvAEACAAJ&dq=O+milagre+da+manh%C3%A3&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Milagre_Da_Manh%C3%A3_Para_Transformar_Seu.html?hl=&id=5zWuvAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5zWuvAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hal Elrod, autor do best-seller O milagre da manhã, uniu seu método inovador ao conhecimento de Paul &amp; Stacey Martino, especialistas em relacionamentos, para possibilitar que você seja um agente de mudança e crie a vida amorosa dos ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pRp6DwAAQBAJ",
+   "etag": "pCTbbhlmFpQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pRp6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã Hal Elrod",
+    "authors": [
+     "O"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Milagre da Manhã - Hal Elrod",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35840"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pRp6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pRp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pRp6DwAAQBAJ&pg=PA7&dq=O+milagre+da+manh%C3%A3&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pRp6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pRp6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pRp6DwAAQBAJ&rdid=book-pRp6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Milagre_Da_Manh%C3%A3_Hal_Elrod-sample-pdf.acsm?id=pRp6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pRp6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Oh, e mencionei que já perdi 12,5 quilos?” — William Hougen, gerente distrital (\u003cbr\u003e\nGresham, OR) “Tenho usado \u003cb\u003eO milagre da manhã\u003c/b\u003e há dez meses. Desde então \u003cbr\u003e\nminha renda mais do que dobrou, estou na melhor forma da minha vida e nunca\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qxp6DwAAQBAJ",
+   "etag": "TAgdk9i6nl0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qxp6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã Hal Elrod",
+    "authors": [
+     "Ana"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Milagre da Manhã - Hal Elrod",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35839"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qxp6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qxp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qxp6DwAAQBAJ&pg=PA7&dq=O+milagre+da+manh%C3%A3&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qxp6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qxp6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qxp6DwAAQBAJ&rdid=book-qxp6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Milagre_Da_Manh%C3%A3_Hal_Elrod-sample-pdf.acsm?id=qxp6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qxp6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Oh, e mencionei que já perdi 12,5 quilos?” — William Hougen, gerente distrital (\u003cbr\u003e\nGresham, OR) “Tenho usado \u003cb\u003eO milagre da manhã\u003c/b\u003e há dez meses. Desde então \u003cbr\u003e\nminha renda mais do que dobrou, estou na melhor forma da minha vida e nunca\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "C23AvwEACAAJ",
+   "etag": "psRdNih0Hd4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C23AvwEACAAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã Com Deus",
+    "authors": [
+     "Reginaldo Manzotti"
+    ],
+    "description": "Em \"Milagre da manhã com Deus\", Pe. Reginaldo Mazotti nos oferece um método extremamente eficaz para começarmos o dia já em diálogo com o Senhor, redirecionando todas as nossas atividades àquilo que Ele deseja e pode nos dar. Com 365 reflexões inspiradoras, uma para cada dia do ano, esta obra renova em nós a certeza de que, tendo o Senhor por perto, tudo fica mais fácil e as verdadeiras mudanças podem acontecer, quaisquer que sejam as circinstâncias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582781555"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582781555"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=C23AvwEACAAJ&dq=O+milagre+da+manh%C3%A3&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=C23AvwEACAAJ&dq=O+milagre+da+manh%C3%A3&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Milagre_Da_Manh%C3%A3_Com_Deus.html?hl=&id=C23AvwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=C23AvwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &quot;Milagre da manhã com Deus&quot;, Pe. Reginaldo Mazotti nos oferece um método extremamente eficaz para começarmos o dia já em diálogo com o Senhor, redirecionando todas as nossas atividades àquilo que Ele deseja e pode nos dar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MK_JU70yulwC",
+   "etag": "hHssdtJLJ9M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MK_JU70yulwC",
+   "volumeInfo": {
+    "title": "Libertinagem ; Estrela da manhã",
+    "authors": [
+     "Manuel Bandeira"
+    ],
+    "publisher": "Editorial Universidad de Costa Rica",
+    "publishedDate": "1998",
+    "description": "Giulia Lanciani y otros investigadores brasileños e italianos forman esta edición crítica que tiene como uno de sus principales objetivos hacer una revisión de la vida y obra de Bandeira, a partir del estudio de la experimentación poética y su concreción en la elaboración de la obra. El libro contiene manuscritos facsimilares, correspondencia, cuadernos de trabajo, referencias de otros escritores, un archivo fotográfico y una cronología hecha por el mismo poeta.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8489666326"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788489666320"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 781,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MK_JU70yulwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MK_JU70yulwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MK_JU70yulwC&pg=PA609&dq=O+milagre+da+manh%C3%A3&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=MK_JU70yulwC&dq=O+milagre+da+manh%C3%A3&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Libertinagem_Estrela_da_manh%C3%A3.html?hl=&id=MK_JU70yulwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MK_JU70yulwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Andorinha andorinha minha cantiga é mais triste! Passei a vida à toa à toa... Não \u003cbr\u003e\né \u003cb\u003eo milagre\u003c/b\u003e da poesia? Mas é, acima de tudo, \u003cb\u003eo milagre\u003c/b\u003e da poesia de Manuel \u003cbr\u003e\nBandeira. \u003cb\u003eMilagre\u003c/b\u003e que se repete a cada passo na sua obra, tanto na parte \u003cbr\u003e\nanterior&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HKfwv099-WsC",
+   "etag": "l0sCZrJ1BOg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HKfwv099-WsC",
+   "volumeInfo": {
+    "title": "Na raiz escondida, o milagre da vida",
+    "publisher": "Edicoes Loyola",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515029860"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8515029863"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HKfwv099-WsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HKfwv099-WsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HKfwv099-WsC&pg=PA11&dq=O+milagre+da+manh%C3%A3&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HKfwv099-WsC&dq=O+milagre+da+manh%C3%A3&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Na_raiz_escondida_o_milagre_da_vida.html?hl=&id=HKfwv099-WsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HKfwv099-WsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(JESUS CRISTO) Aristides era um homem muito rico que vivia em sua mansão \u003cbr\u003e\ncercada por um jardim florido e um grande lago. \u003cb\u003eManhã\u003c/b\u003e bonita, ensolarada. \u003cbr\u003e\nAristides apreciava a paisagem, da sacada do seu quarto. Viu \u003cb\u003eo\u003c/b\u003e filho \u003cbr\u003e\natravessando a&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aKmZCgAAQBAJ",
+   "etag": "4Zmptcrt0fg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aKmZCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Alerta",
+    "subtitle": "",
+    "authors": [
+     "Charles Pereira"
+    ],
+    "publisher": "biblioteca24horas",
+    "publishedDate": "2012-09-03",
+    "description": "O Alerta é uma obra de ficção criada para discutir e repensar as realidades que estão ocorrendo no dia a dia da humanidade e possíveis acontecimentos catastróficos que estão por vir. Uma história que instigará o leitor à uma reflexão dos caminhos que orientam a humanidade em busca da verdadeira Luz e das opções que lhe são dadas para ultrapassar a grande encruzilhada em que se encontrará no final dos tempos. Cristianismo, Judaismo e Maçonaria são temas abordados nessa obra que fará com que o leitor viaje em busca da solução do mistério.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541601269"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541601269"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aKmZCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aKmZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aKmZCgAAQBAJ&pg=PA101&dq=O+milagre+da+manh%C3%A3&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aKmZCgAAQBAJ&dq=O+milagre+da+manh%C3%A3&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Alerta.html?hl=&id=aKmZCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aKmZCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Aos pés do Cristo Redentor havia crianças que \u003cb\u003eo\u003c/b\u003e convidavam para pousar. \u003cbr\u003e\nMilhares e milhares de crianças ... \u003cb\u003eO\u003c/b\u003e Diário da \u003cb\u003eManhã\u003c/b\u003e noticiou em manchete e \u003cbr\u003e\nem letras garrafais: \u003cb\u003eMILAGRE\u003c/b\u003e NA BR 491. Na televisão, passavam flashes que&nbsp;..."
+   }
+  }
+ ]
+}

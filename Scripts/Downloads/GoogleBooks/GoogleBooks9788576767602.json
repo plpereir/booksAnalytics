@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tSjiSAAACAAJ",
+   "etag": "KLDfzGCHhwQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tSjiSAAACAAJ",
+   "volumeInfo": {
+    "title": "NOSSO DIARIO OTARIO",
+    "subtitle": "UM DIARIO PARA DIVIDIR COM AS SUAS AMIGAS",
+    "authors": [
+     "JIM BENTON"
+    ],
+    "description": "A leitora e suas amigas poderão fazer igual a Jamie Kelly em seu diário secreto, o item 'Nosso Diário Otário' vem com dicas para sobreviver à escola, uma escala de popularidade e a escala dos manés.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576767600"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576767602"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tSjiSAAACAAJ&dq=isbn:9788576767602&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tSjiSAAACAAJ&dq=isbn:9788576767602&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/NOSSO_DIARIO_OTARIO.html?hl=&id=tSjiSAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tSjiSAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A leitora e suas amigas poderão fazer igual a Jamie Kelly em seu diário secreto, o item &#39;Nosso Diário Otário&#39; vem com dicas para sobreviver à escola, uma escala de popularidade e a escala dos manés."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JiI_vgAACAAJ",
+   "etag": "MnHiapTmMqA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JiI_vgAACAAJ",
+   "volumeInfo": {
+    "title": "BELA COZINHA 2",
+    "authors": [
+     "BELA GIL"
+    ],
+    "publishedDate": "2015-10-23",
+    "description": "Bela Cozinha - 2 reúne pratos da temporada especial de Verão e da segunda e da terceira temporadas do programa exibido no GNT. O livro apresenta receitas saborosas, preparadas com ingredientes saudáveis, criados de acordo com a visão de Bela Gil de como nossas escolhas sobre o que comemos impactam a nossa saúde, a sociedade e o meio ambiente. A edição traz dicas para uma alimentação saudável, as propriedades dos ingredientes e textos de abertura nos quais Bela comenta cada receita, os sabores, as texturas e os benefícios à saúde.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525061166"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525061164"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 180,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JiI_vgAACAAJ&dq=isbn:9788525061164&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JiI_vgAACAAJ&dq=isbn:9788525061164&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BELA_COZINHA_2.html?hl=&id=JiI_vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JiI_vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ela está de volta com mais opções saudáveis em Bela Cozinha 2, que traz as receitas das temporadas 2, Verão e 3 do programa exibido às terças, às 20h30, no GNT."
+   }
+  }
+ ]
+}

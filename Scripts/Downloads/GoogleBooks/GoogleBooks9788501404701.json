@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xyuyoAEACAAJ",
+   "etag": "HrbeiHgOz3g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xyuyoAEACAAJ",
+   "volumeInfo": {
+    "title": "Esquerda caviar",
+    "subtitle": "a hipocrisia dos artistas e intelectuais progressistas no Brasil e no mundo",
+    "authors": [
+     "Rodrigo Constantino"
+    ],
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501404705"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501404701"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Intellectuals"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xyuyoAEACAAJ&dq=isbn:9788501404701&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xyuyoAEACAAJ&dq=isbn:9788501404701&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Esquerda_caviar.html?hl=&id=xyuyoAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xyuyoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro é sobre aquilo que tradicionalmente se chamou de “esquerda festiva” – que o autor atualiza e renomeia para “esquerda caviar” – e trata da associação histórica entre ícones da cultura (Chico Buarque, por exemplo) e ..."
+   }
+  }
+ ]
+}

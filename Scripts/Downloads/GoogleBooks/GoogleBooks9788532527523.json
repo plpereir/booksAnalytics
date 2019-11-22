@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YqfauQAACAAJ",
+   "etag": "IxQMZIm23xI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YqfauQAACAAJ",
+   "volumeInfo": {
+    "title": "A carne e o sangue",
+    "subtitle": "a Imperatriz D. Leopoldina, D. Pedro I e Domitila, a Marquesa de Santos",
+    "authors": [
+     "Mary Del Priore"
+    ],
+    "publishedDate": "2012-01-01",
+    "description": "Dividido entre uma princesa pura, leal e sofredora e uma mulher independente, forte e fogosa, Dom Pedro I viveu, paralelamente às convulsões que tornariam o Brasil independente de Portugal, uma vida pessoal igualmente complicada. Em 'A Carne e o Sangue', Mary del Priore procura retratar o triângulo amoroso que escandalizou a então insipiente sociedade brasileira com sua prosa em ritmo de romance, incluindo trechos de cartas da imperatriz e do imperador.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532527523"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532527523"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YqfauQAACAAJ&dq=isbn:9788532527523&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YqfauQAACAAJ&dq=isbn:9788532527523&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_carne_e_o_sangue.html?hl=&id=YqfauQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YqfauQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;A Carne e o Sangue&#39;, Mary del Priore procura retratar o triângulo amoroso que escandalizou a então insipiente sociedade brasileira com sua prosa em ritmo de romance, incluindo trechos de cartas da imperatriz e do imperador."
+   }
+  }
+ ]
+}

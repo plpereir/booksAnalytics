@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "X2sdogEACAAJ",
+   "etag": "a7LkCtfxSp0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X2sdogEACAAJ",
+   "volumeInfo": {
+    "title": "Indefensável",
+    "subtitle": "o goleiro Bruno e a história da morte de Eliza Samudio",
+    "authors": [
+     "Paulo Carvalho"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501036730"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501036735"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 266,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X2sdogEACAAJ&dq=isbn:9788501036735&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=X2sdogEACAAJ&dq=isbn:9788501036735&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Indefens%C3%A1vel.html?hl=&id=X2sdogEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X2sdogEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O GOLEIRO BRUNO E A HISTÓRIA DA MORTE DE ELIZA SAMUDIO Livro destinado a muita polêmica e grande imprensa, esta reportagem, escrita como thriller policial, disseca a macabra trama – planejada e calculada com rara frieza pelo então ..."
+   }
+  }
+ ]
+}

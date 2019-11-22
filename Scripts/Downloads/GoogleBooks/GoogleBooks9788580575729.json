@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LJxevgAACAAJ",
+   "etag": "1cRr4Sf1UNA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LJxevgAACAAJ",
+   "volumeInfo": {
+    "title": "TERMINE ESTE LIVRO",
+    "authors": [
+     "KERI SMITH",
+     "ROGERIO DURST"
+    ],
+    "description": "Keri Smith estava passeando por um parque quando encontrou um livro de conteúdo profundamente misterioso. As páginas, soltas e embaralhadas pelo vento, pareciam incompletas, e a capa, quase ilegível, exibia as palavras 'Manual de instruções'. Diante desse material curioso, ela decidiu transferir para outra pessoa o desafio de decifrar o que há por trás dessa história estranha. E é o leitor quem tem a missão de completar o conteúdo da obra desconhecida. Mas não se preocupe - Smith jamais o deixaria desamparado. Antes de revelar os segredos desse estranho manual, você precisa passar por um treinamento intensivo nas artes da espionagem e da investigação. Aprenda a decodificar mensagens criptografadas, reconhecer padrões ocultos no ambiente e usar a criatividade para dar a objetos comuns utilidades extraordinárias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580575729"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580575729"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LJxevgAACAAJ&dq=isbn:9788580575729&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LJxevgAACAAJ&dq=isbn:9788580575729&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/TERMINE_ESTE_LIVRO.html?hl=&id=LJxevgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LJxevgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Keri Smith estava passeando por um parque quando encontrou um livro de conteúdo profundamente misterioso."
+   }
+  }
+ ]
+}

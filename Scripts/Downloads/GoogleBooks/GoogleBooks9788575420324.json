@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "svJzAAAACAAJ",
+   "etag": "krqy2ewPUXo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/svJzAAAACAAJ",
+   "volumeInfo": {
+    "title": "Em busca do príncipe encantado",
+    "authors": [
+     "Bradley Trevor Greive"
+    ],
+    "publishedDate": "2002",
+    "description": "Neste livro, Bradley Trevor Greive usa e abusa do seu bom-humor ao combinar fotos e textos para retratar os perigos e prazeres dos relacionamentos e a dificuldade da mulher moderna de achar um parceiro à sua altura- um homem que não seja ciumento, não fuja de compromissos e, lógico, que beije bem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575420321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575420324"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 119,
+    "printType": "BOOK",
+    "categories": [
+     "Man-woman relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=svJzAAAACAAJ&dq=isbn:9788575420324&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=svJzAAAACAAJ&dq=isbn:9788575420324&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Em_busca_do_pr%C3%ADncipe_encantado.html?hl=&id=svJzAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=svJzAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, Bradley Trevor Greive usa e abusa do seu bom-humor ao combinar fotos e textos para retratar os perigos e prazeres dos relacionamentos e a dificuldade da mulher moderna de achar um parceiro à sua altura- um homem que não seja ..."
+   }
+  }
+ ]
+}

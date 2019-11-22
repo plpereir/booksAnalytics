@@ -1,0 +1,63 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "g-g1jwEACAAJ",
+   "etag": "YaErtvZCPwE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g-g1jwEACAAJ",
+   "volumeInfo": {
+    "title": "Faça amor, não faça jogo",
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582352077"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582352076"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 223,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g-g1jwEACAAJ&dq=isbn:9788582352076&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g-g1jwEACAAJ&dq=isbn:9788582352076&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fa%C3%A7a_amor_n%C3%A3o_fa%C3%A7a_jogo.html?hl=&id=g-g1jwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g-g1jwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "MAs o autor nos faz enxergar a vida de forma diferente. FAça amor, não faça jogo é um lembrete de que, no jogo do amor, não é necessário haver ganhadores ou perdedores."
+   }
+  }
+ ]
+}

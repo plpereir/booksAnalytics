@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OsyuswEACAAJ",
+   "etag": "JP/8pzOMz5A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OsyuswEACAAJ",
+   "volumeInfo": {
+    "title": "Diario De Um Banana, V.12 - Apertem Os Cintos",
+    "authors": [
+     "Jeff Kinney",
+     "Alexandre Boide"
+    ],
+    "publishedDate": "2017-11-07",
+    "description": "O feriado de fim de ano é sempre um estresse. E para fugir dessa loucura, a família Heffley decide passar o Natal em um resort paradisíaco. Mas o que era para ser um feriadão relaxado acaba se transformando num terrível pesadelo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8550701440"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550701448"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OsyuswEACAAJ&dq=isbn:9788550701448&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OsyuswEACAAJ&dq=isbn:9788550701448&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_De_Um_Banana_V_12_Apertem_Os_Cint.html?hl=&id=OsyuswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OsyuswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os Heffley estão dando o fora!"
+   }
+  }
+ ]
+}

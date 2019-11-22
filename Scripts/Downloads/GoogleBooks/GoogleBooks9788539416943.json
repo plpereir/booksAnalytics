@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2hxDvgAACAAJ",
+   "etag": "9d8FLU5s7tE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2hxDvgAACAAJ",
+   "volumeInfo": {
+    "title": "ARTETERAPIA CRIATIVA",
+    "authors": [
+     "ADINA COMISCEAC"
+    ],
+    "description": "Uma atividade manual muito anterior a qualquer tecnologia atual, proporciona bem-estar, prazer e alívio do estresse. Colorir é relaxante e, além de ser um passatempo, um hobby, é uma forma extremante saudável de lidar com a ansiedade do dia a dia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539416948"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539416943"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2hxDvgAACAAJ&dq=isbn:9788539416943&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2hxDvgAACAAJ&dq=isbn:9788539416943&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ARTETERAPIA_CRIATIVA.html?hl=&id=2hxDvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2hxDvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma atividade manual muito anterior a qualquer tecnologia atual, proporciona bem-estar, prazer e alívio do estresse."
+   }
+  }
+ ]
+}

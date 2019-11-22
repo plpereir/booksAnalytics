@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mTpRtAEACAAJ",
+   "etag": "2QKvkc53uws",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mTpRtAEACAAJ",
+   "volumeInfo": {
+    "title": "Diario De Um Nerd - Livro 1",
+    "authors": [
+     "Philip Osbourne"
+    ],
+    "description": "Phil, o nerd, é um garoto de 12 anos muito inteligente que adora estar com os amigos. Ele e sua turma precisam se preparar para competir nas Olímpiadas de Matemática e Ciências. Mas, para tentar conquistar a garota dos seus sonhos, Phil começa a viver uma vida secreta de campeão esportista. Em meio a todas as mentiras, será que Phil conseguirá conciliar as duas realidades?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "853808089X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538080893"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mTpRtAEACAAJ&dq=isbn:9788538080893&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mTpRtAEACAAJ&dq=isbn:9788538080893&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_De_Um_Nerd_Livro_1.html?hl=&id=mTpRtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mTpRtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Phil, o nerd, é um garoto de 12 anos muito inteligente que adora estar com os amigos."
+   }
+  }
+ ]
+}

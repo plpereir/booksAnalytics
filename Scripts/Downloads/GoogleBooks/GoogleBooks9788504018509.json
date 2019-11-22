@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "c9xHvgAACAAJ",
+   "etag": "O/lfJ+EkCnw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c9xHvgAACAAJ",
+   "volumeInfo": {
+    "title": "PROMESSAS NA ESCURIDAO",
+    "authors": [
+     "SADIE MATTHEWS",
+     "MARCELO YAMASHITA SALLES"
+    ],
+    "description": "Dominic e Beth não estão mais juntos! Pode a confiança quebrada de um amor ser restabelecida? É tudo um mal-entendido, mas não foi assim que Dominic entendeu. Ainda mais quando Andrei Dubrovski e Anna Poliakov estão intimamente envolvidos. Quando Beth tem todas as respostas para esclarecer a confusão, viaja desesperadamente até Paris, atrás de Dominic, na esperança de se reconciliarem e provarem que o amor pode superar qualquer situação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8504018504"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788504018509"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=c9xHvgAACAAJ&dq=isbn:9788504018509&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=c9xHvgAACAAJ&dq=isbn:9788504018509&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PROMESSAS_NA_ESCURIDAO.html?hl=&id=c9xHvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c9xHvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dominic e Beth não estão mais juntos!"
+   }
+  }
+ ]
+}

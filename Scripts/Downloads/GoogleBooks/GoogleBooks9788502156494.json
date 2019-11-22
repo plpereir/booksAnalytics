@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eeOAMAEACAAJ",
+   "etag": "f39uQsKD0do",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eeOAMAEACAAJ",
+   "volumeInfo": {
+    "title": "BOB ESPONJA - VAI, EQUIPE!",
+    "authors": [
+     "MOLLY REISNER"
+    ],
+    "description": "Todo dia é dia de esportes na Fenda do Bikini - todos adoram sair para jogar. Neste livro, Bob Esponja e seus amigos relembram seus melhores momentos na história esportiva desse lugar de pura diversão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502156497"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502156494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 10,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eeOAMAEACAAJ&dq=isbn:9788502156494&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eeOAMAEACAAJ&dq=isbn:9788502156494&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BOB_ESPONJA_VAI_EQUIPE.html?hl=&id=eeOAMAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eeOAMAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Todo dia é dia de esportes na Fenda do Bikini - todos adoram sair para jogar. Neste livro, Bob Esponja e seus amigos relembram seus melhores momentos na história esportiva desse lugar de pura diversão."
+   }
+  }
+ ]
+}

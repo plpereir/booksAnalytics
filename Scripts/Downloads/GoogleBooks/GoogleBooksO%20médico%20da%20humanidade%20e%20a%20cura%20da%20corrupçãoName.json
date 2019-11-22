@@ -1,0 +1,747 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 54,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yDHxCwAAQBAJ",
+   "etag": "JZxGpbPVYnQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yDHxCwAAQBAJ",
+   "volumeInfo": {
+    "title": "O médico da humanidade e a cura da corrupção",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2016-04-11",
+    "description": "Uma nação em chamas recebe um misterioso personagem para tratar suas feridas. Autor mais lido da década no Brasil! 27 milhões de livros vendidos, publicado em 70 países. A humanidade, em particular o Brasil, está em chamas devido à corrupção. Mas como ela se instala na mente humana? Todo ser humano tem vampiros mentais capazes de asfixiá-lo, como o orgulho, a ira, a inveja, o ciúme, a dissimulação, a ambição e a necessidade neurótica de ser o centro das atenções. Esses vampiros costumam ser imperceptíveis aos hospedeiros, embora os destruam.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542207286"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542207289"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.22.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yDHxCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yDHxCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yDHxCwAAQBAJ&printsec=frontcover&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yDHxCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yDHxCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yDHxCwAAQBAJ&rdid=book-yDHxCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_m%C3%A9dico_da_humanidade_e_a_cura_da_corr-sample-epub.acsm?id=yDHxCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_m%C3%A9dico_da_humanidade_e_a_cura_da_corr-sample-pdf.acsm?id=yDHxCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yDHxCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma nação em chamas recebe um misterioso personagem para tratar suas feridas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HrXnF5aQG7cC",
+   "etag": "M3Q+orZ7NDE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HrXnF5aQG7cC",
+   "volumeInfo": {
+    "title": "Boletim do Governo do Estado da India",
+    "authors": [
+     "Portuguese India"
+    ],
+    "publishedDate": "1868",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "WISC:89093116382"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Gazettes"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HrXnF5aQG7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HrXnF5aQG7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HrXnF5aQG7cC&pg=PA383&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HrXnF5aQG7cC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HrXnF5aQG7cC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=HrXnF5aQG7cC&rdid=book-HrXnF5aQG7cC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HrXnF5aQG7cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "o valor da sua utilidade, e, simultaneamente, a importancia do \u003cb\u003emedico\u003c/b\u003e como \u003cbr\u003e\nelemento social. ... seus preceitos são os meios; e o homem, que a professa, e \u003cbr\u003e\nque pelo seu ministerio tambem se dedica á \u003cb\u003ecura\u003c/b\u003e, ao alivio e conforto da \u003cbr\u003e\n\u003cb\u003ehumanidade\u003c/b\u003e, sofredora ... que attestam a incuria dos governos, a \u003cb\u003ecorrupção\u003c/b\u003e \u003cbr\u003e\nphysica e moral dos povos, e a sua degeneração, pelo abandono de luxuosas e \u003cbr\u003e\nsoberbas cidades&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dWf-CQAAQBAJ",
+   "etag": "vC4i+pdqJdQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dWf-CQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Nuvem Sobre o Santuário",
+    "subtitle": "ou algo que não suspeita a orgulhosa filosofia de nosso século",
+    "authors": [
+     "Karl Von Eckhartshausen"
+    ],
+    "publisher": "Sociedade das Ciências Antigas",
+    "description": "O nosso século é, de preferência a qualquer outro, o mais notável para o observador imparcial e sereno. Por toda parte existe fermentação tanto na alma como no coração do homem; encontra-se a cada passo o combate da luz e das trevas, de idéias mortas e idéias vivas, da vontade morta e inerte com a força viva e ativa; se vê por todo lado, enfim, a guerra entre o homem animal e o homem espiritual que desperta. Homem natural!... renuncia às tuas últimas forças; até teu próprio combate revela a tua natureza superior que repousa em teu seio. Pressentes a tua dignidade, tu a sentes mesmo; porém tudo é ainda obscuro ao teu redor e a lâmpada da tua débil razão não é suficiente para iluminar os objetos aos quais deverias aspirar. Diz-se que vivemos no século das luzes e seria mais justo dizer que vivemos no século do crepúsculo: aqui e ali, o raio luminoso penetra através da nuvem das trevas, mas ele não ilumina ainda com toda a sua pureza nossa razão e nosso coração. Os homens não estão de acordo sobre as suas concepções: sábios disputam; e onde há disputa, não existe a luz nem se conhece a verdade. Os objetos mais importantes para a humanidade são ainda indeterminados. Não se está de acordo nem sobre o princípio da razão, nem sobre o princípio da moralidade ou do móvel da vontade. Isto prova que, mal grado estejamos na grande época das luzes, ainda não sabemos bem o que ela representa em nosso cérebro e em nosso coração. Seria possível que nós soubéssemos tudo isto mais cedo, se não imaginássemos que temos já a flama do conhecimento em nossas mãos, ou se pudéssemos lançar um olhar sobre a nossa fraqueza e reconhecer que ainda nos falta uma luz mais elevada. Nós vivemos nos tempos da idolatria da razão, depositamos uma tocha sobre o altar, proclamamos em altas vozes que a aurora está despontando e que por toda parte o dia aparece realmente, e deste modo o mundo se eleva cada vez mais da obscuridade à luz e a perfeição, pelas artes, as ciências, gosto refinado ou mesmo por uma perfeita compreensão da religião. Pobres homens! Até onde haveis exaltado a felicidade dos homens? Já existiu um século que tivesse custado tantas vítimas como o presente? Existiu um século no qual a imoralidade e o egoísmo tenham predominado mais do que neste? Conhece-se a árvore pelos seus frutos. Insensatos!... Com o vosso falso raciocínio... obteríeis a luz com a qual quereis esclarecer os outros? Será que todas as vossas idéias não são tiradas dos sentidos, que não vos dão qualquer verdade mas somente os fenômenos externos? Tudo aquilo que dá o conhecimento no tempo e no espaço não é relativo? Tudo aquilo que nós podemos chamar verdadeiro, não é apenas uma verdade relativa?... Não se pode achar a verdade absoluta na esfera dos fenômenos externos.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 44,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dWf-CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dWf-CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dWf-CQAAQBAJ&pg=PA34&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dWf-CQAAQBAJ&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Nuvem_Sobre_o_Santu%C3%A1rio.html?hl=&id=dWf-CQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Nuvem_Sobre_o_Santu%C3%A1rio-sample-pdf.acsm?id=dWf-CQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dWf-CQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Acaso é isto possível considerando a \u003cb\u003ecorrupção\u003c/b\u003e da natureza humana, quando a \u003cbr\u003e\nexperiência nos tem provado de ... A \u003cb\u003ecura\u003c/b\u003e da \u003cb\u003ehumanidade\u003c/b\u003e só é possível \u003cbr\u003e\ndestruindo em nós o fermento do pecado, para o que é necessário um \u003cb\u003emédico\u003c/b\u003e e \u003cbr\u003e\num&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FzEv-96nGpkC",
+   "etag": "rHMF0EE2JYo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FzEv-96nGpkC",
+   "volumeInfo": {
+    "title": "A ARVORE DA VIDA - DO MISTICO AO QUANTICO",
+    "authors": [
+     "NÚLVIO LERMEN"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "(Sinopse Revisada)Imagine só, uma árvore que deseja conhecer o Mundo. Quem já viu uma coisa dessas? É justamente a inteligência e a sabedoria que se uni aqui; uma história contada com delicadeza e diversão. O elemento maravilhoso dessa narrativa é aquele o qual irrompe subitamente no mundo real, negando ou contradizendo suas regras; é algo mágico ou absurdo que, de repente, manifesta-se em meio ao universo cotidiano da natureza. Trata-se de uma característica a qual, na verdade, remonta aos contos de fadas. Aqui os animais falam e enganam, as árvores choram, riem, perdoam, dão e escutam conselhos. É um mundo inteiramente imaginário e desconhecido. O gato que tentou comer o Rato- uma história de prazer para leitores de todas as idades; uma experiência das mais surpreendentes e deliciosas que o mundo dos livros pode oferecer ? narrativa fluente e rica; linguagem brilhante e simples; diversão num ritmo de inteligência veloz. Deixe Bichano e Nino os levarem para alguns minutos de aventura e diversão, você se sentirá mais leve e reflexível no mundo dos gatos. Você tem medo do escuro? Nesta e em outras histórias que compõem este volume, eu criei novas maneiras de enxergar as coisas que acontecem todo dia. O mundo parece ser feito apenas de coisas que a gente vê. Mas, há outras que não vemos, como por exemplo, o poder do medo sobre a nossa imaginação. O medo pode gerar aventuras fabulosas, ou, levar-nos a um complexo terror. Fabio será o personagem certo para lhe dar esse exemplo. Nesta história, ele verá coisas demais. Ora, uma imaginação tão fértil como a desse menino tem que nos dar uma aventura ou desventura a qual nos surpreenda. Vá em frente, vale apena ler! Ben RogersLidia - ok (28/12/2010)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578936648"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578936647"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 466,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FzEv-96nGpkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FzEv-96nGpkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FzEv-96nGpkC&pg=PA93&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FzEv-96nGpkC&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_ARVORE_DA_VIDA_DO_MISTICO_AO_QUANTICO.html?hl=&id=FzEv-96nGpkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FzEv-96nGpkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seu príncipe regente é Rafael, \u003cb\u003eo Médico\u003c/b\u003e Celestial, o Mestre da \u003cb\u003eHumanidade\u003c/b\u003e, o \u003cbr\u003e\nAnjo dos Quatro Ventos e o Curador de Feridas. É especialmente reverenciado \u003cbr\u003e\ncomo Anjo de \u003cb\u003ecura\u003c/b\u003e, tratando de todas as enfermidades e ferimentos. Atribui-se a \u003cbr\u003e\nele a defesa da ... MIKAEL - Atributos: Desvenda conspirações, combate a \u003cbr\u003e\n\u003cb\u003ecorrupção\u003c/b\u003e, favorece o exercício da política e da diplomacia. - Oposto: \u003cbr\u003e\nMalevolência."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IS1qDwAAQBAJ",
+   "etag": "vvuRqtWl3jI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IS1qDwAAQBAJ",
+   "volumeInfo": {
+    "title": "As Palavras",
+    "authors": [
+     "Bediuzzaman Said Nursi",
+     "Eyub Kosker"
+    ],
+    "publisher": "Brasil Nur - RNK",
+    "publishedDate": "2018-06-01",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 642,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IS1qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IS1qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IS1qDwAAQBAJ&pg=PA622&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IS1qDwAAQBAJ&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_Palavras.html?hl=&id=IS1qDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_Palavras-sample-pdf.acsm?id=IS1qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IS1qDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... a \u003cb\u003ecorrupção\u003c/b\u003e na terra, será considerado como se tivesse assassinado toda a \u003cbr\u003e\n\u003cb\u003ehumanidade\u003c/b\u003e&quot;861estabelece dois mistérios ... Não Exagere nas Coisas que Você \u003cbr\u003e\nGosta A \u003cb\u003ecura\u003c/b\u003e para uma doença apenas agrava a outra; o antídoto se torna&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t1Z8DwAAQBAJ",
+   "etag": "Cs+5FxoGDkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t1Z8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "JESUS DE GENEZARÉ, 1o vol",
+    "subtitle": "a doutrina do papa bento XVI será toda evangélica?",
+    "authors": [
+     "Filipe dos Santos"
+    ],
+    "publisher": "Edições Vieira da Silva",
+    "publishedDate": "2018-11-16",
+    "description": "- O método exegético bíblico. - O ?mistério? e a imagem histórica de Jesus. - O baptismo de Jesus (e os 2 tipos de baptismo: da morte e da Vida). - As 3 tentações de Jesus (e o seu significado). - A Boa Nova do Reino de Deus. - O Sermão da Montanha: as Bem-aventuranças, a Torah e os 2 tipos de Lei (da morte e da Vida), a concepção do/s sábado/s, e o sentido do 4.o mandamento (e a distinção entre o pensamento hebraico-judaico e o cristão). - O Pai Nosso. - Os Discípulos e os Apóstolos. - A Mensagem das Parábolas (natureza e finalidade, sentidos e significados): do Bom Samaritano, do Filho Pródigo, e do rico avarento e do pobre Lázaro. - A questão e as imagens joaninas (da água, da videira-vinho-sangue, do trigo-pão-carne e do pastor). - A confissão de Pedro (sobre Jesus) e a Transfiguração de Jesus. - As auto-identificações de Jesus (como o Filho do Homem, o Filho, e ?Eu sou?)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897791086"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897791086"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 854,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=t1Z8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=t1Z8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t1Z8DwAAQBAJ&pg=PA404&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=t1Z8DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-t1Z8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.01,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.01,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=t1Z8DwAAQBAJ&rdid=book-t1Z8DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.401E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.401E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/JESUS_DE_GENEZAR%C3%89_1o_vol-sample-epub.acsm?id=t1Z8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/JESUS_DE_GENEZAR%C3%89_1o_vol-sample-pdf.acsm?id=t1Z8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t1Z8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E ver-se-ia a existência de envenenamentos mundiais do clima espiritual, que \u003cbr\u003e\nameaçam a \u003cb\u003ehumanidade\u003c/b\u003e na sua dignidade e até na ... Mateus acrescenta a \u003cbr\u003e\nmissão de \u003cb\u003ecurar\u003c/b\u003e: os Doze são enviados para “\u003cb\u003ecurar\u003c/b\u003e toda a enfermidade e toda a \u003cbr\u003e\ndoença” (Mt, 10,1). ... a sobrevivência da \u003cb\u003ehumanidade\u003c/b\u003e, mas também a \u003cbr\u003e\nconservação doplaneta), efeito da \u003cb\u003ecorrupção\u003c/b\u003e,degradação e poluição morale \u003cbr\u003e\nespiritual do Homem."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SeoAAAAAYAAJ",
+   "etag": "VYhL+8IoGmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SeoAAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Historia e memorias",
+    "subtitle": "Nova serie",
+    "authors": [
+     "Academia das Ciências de Lisboa"
+    ],
+    "publishedDate": "1877",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044092562073"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SeoAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SeoAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SeoAAAAAYAAJ&pg=PR178&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SeoAAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SeoAAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=SeoAAAAAYAAJ&rdid=book-SeoAAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_e_memorias.epub?id=SeoAAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_e_memorias.pdf?id=SeoAAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2BDbsE3-Sgk9VW5NuU3sZPuWACtw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SeoAAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... como o mais subtil dos seus inventos lherapeulicos as formulas imprecatorias \u003cbr\u003e\ncontra a febre, a doença, a \u003cb\u003ecorrupção\u003c/b\u003e *. No Oriente a scien- cia é serva da \u003cbr\u003e\ntradição hierática, o sacerdote è simultaneamente o sábio, \u003cb\u003eo medico\u003c/b\u003e, o \u003cbr\u003e\nphilosopho, o legislador *. ... consequência necessária da sua mediação entre o \u003cbr\u003e\nceo e a \u003cb\u003ehumanidade\u003c/b\u003e, absorvem todos os foros do pensamento. ... Em Pindaro, \u003cbr\u003e\nseguindo as tradições da Grécia, Esculápio \u003cb\u003ecura\u003c/b\u003e as enfermidades com o influxo \u003cbr\u003e\ndc suaves encan-&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7hvqINqayswC",
+   "etag": "JAktZJbb5Cc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7hvqINqayswC",
+   "volumeInfo": {
+    "title": "Memorias da Academia Real das Sciencias de Lisboa",
+    "publishedDate": "1877",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "ONB:+Z25656580X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7hvqINqayswC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7hvqINqayswC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7hvqINqayswC&pg=PR178&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7hvqINqayswC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7hvqINqayswC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=7hvqINqayswC&rdid=book-7hvqINqayswC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7hvqINqayswC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... como o mais subtil dos seus inventos therapeuticos as formulas imprecatorias \u003cbr\u003e\ncontra a febre, a doença, a \u003cb\u003ecorrupção\u003c/b\u003e&quot;. No Oriente a sciencia é serva da tradição \u003cbr\u003e\nhieratica, o sacerdote é simultaneamente o sabio, \u003cb\u003eo medico\u003c/b\u003e, o philosopho, ... por \u003cbr\u003e\numa consequencia necessaria da sua mediação entre o ce0 e a \u003cb\u003ehumanidade\u003c/b\u003e, \u003cbr\u003e\nabsorvem todos os fóros do pensamento. ... Em Pindaro, seguindo as tradições \u003cbr\u003e\nda Grecia, Esculapio \u003cb\u003ecura\u003c/b\u003e as enfermidades com o influxo de suaves \u003cbr\u003e\nencantações,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ni2RfUAw9d8C",
+   "etag": "lw3QsoPCL4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ni2RfUAw9d8C",
+   "volumeInfo": {
+    "title": "Memorias da Academia Real das Sciências de Lisboa",
+    "publishedDate": "1877",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BSB:BSB11350662"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ni2RfUAw9d8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ni2RfUAw9d8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ni2RfUAw9d8C&pg=PR178&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ni2RfUAw9d8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ni2RfUAw9d8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=Ni2RfUAw9d8C&rdid=book-Ni2RfUAw9d8C&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ni2RfUAw9d8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... como o mais subtil dos seus inventos therapeuticos as formulas imprecatorias \u003cbr\u003e\ncontra a febre, a doença, a \u003cb\u003ecorrupção\u003c/b\u003e&quot;. No Oriente a sciencia é serva da tradição \u003cbr\u003e\nhieratica, o sacerdote é simultaneamente o sabio, \u003cb\u003eo medico\u003c/b\u003e, o philosopho, ... por \u003cbr\u003e\numa consequencia necêssaria da sua mediação entre o ceo e a \u003cb\u003ehumanidade\u003c/b\u003e, \u003cbr\u003e\nabsorvem todos os fóros do pensamento. ... Em Pindaro, seguindo as tradições \u003cbr\u003e\nda Grecia, Esculapio \u003cb\u003ecura\u003c/b\u003e as enfermidades com o influxo de suaves \u003cbr\u003e\nencantações,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cIi6DgAAQBAJ",
+   "etag": "39/AanEPsek",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cIi6DgAAQBAJ",
+   "volumeInfo": {
+    "title": "RASTAFARI",
+    "subtitle": "Cura para as nações - Uma perspectiva brasileira",
+    "authors": [
+     "André Duarte P. de Albuquerque"
+    ],
+    "publisher": "Simplissimo Livros Ltda",
+    "publishedDate": "2017-04-14",
+    "description": "Razão e fé. Há muito que se discute essa relação. Santo Agostinho dizia que a razão não era necessária, ao homem bastaria a fé. São Tomás de Aquino reconheceu a importância da razão para aproximar o homem a Deus. André, se bem o conheço, não é um tomista, mas fez com maestria essa segunda operação. Seu livro cumpre o interessante papel de unir fé e razão, religião e ciência. Fala com desenvoltura das passagens bíblicas e de como elas teriam se manifestado nos povos da Etiópia. Fazendo-o, traça registros históricos - algo da ciência - ao mesmo tempo em que deslinda sua crença em ensinamentos bíblicos. Nesta obra singular temos referência ao imperialismo, às guerras mundiais, à descolonização africana. Temos, também, informações preciosas sobre a presença da cannabis na história humana, tanto quanto sobre a alimentação saudável, não determinada por interesses econômico-industriais. Não bastasse tanta riqueza de análise, André ainda nos contempla com incursões biográficas sobre Bob Marley não prescindido - é claro! - de toda uma explicação quanto ao balanço aprazível do reagge. Mais não digo para não atrasar o início de tão instigante leitura. Clayton Avelar - Historiador",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588860797"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588860791"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cIi6DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cIi6DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cIi6DgAAQBAJ&pg=PT70&dq=O+m%C3%A9dico+da+humanidade+e+a+cura+da+corrup%C3%A7%C3%A3o&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cIi6DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cIi6DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cIi6DgAAQBAJ&rdid=book-cIi6DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/RASTAFARI-sample-epub.acsm?id=cIi6DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/RASTAFARI-sample-pdf.acsm?id=cIi6DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cIi6DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eCura\u003c/b\u003e para as nações - Uma perspectiva brasileira André Duarte P. de \u003cbr\u003e\nAlbuquerque ... ao perceber como são inúmeras, e pouco conhecidas, as \u003cbr\u003e\ncontribuições africanas para a \u003cb\u003ehumanidade\u003c/b\u003e, tanto espiritual quanto ... Eles \u003cbr\u003e\ndenunciam sistema político e econômico opressor, cruel e racista; condenam \u003cbr\u003e\nódio, ciúme, inveja, engano, astúcia, traição e qualquer tipo de \u003cb\u003ecorrupção\u003c/b\u003e; \u003cbr\u003e\nrejeitam competição; revelam o&nbsp;..."
+   }
+  }
+ ]
+}

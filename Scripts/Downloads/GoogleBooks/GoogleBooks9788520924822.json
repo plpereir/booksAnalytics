@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cjVkewAACAAJ",
+   "etag": "jlEwUbL+Kpg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cjVkewAACAAJ",
+   "volumeInfo": {
+    "title": "O milagre",
+    "authors": [
+     "Nicholas Sparks",
+     "ELVIRA SERAPICOS"
+    ],
+    "publishedDate": "2006",
+    "description": "Jeremy Marsh é um respeitado jornalista que não consegue emplacar um relacionamento afetivo que o faça feliz. Acostumado a viajar pelo mundo à cata de lendas urbanas, Jeremy parte em direção a uma cidadezinha do sul dos Estados Unidos para investigar as misteriosas luzes de um antigo cemitério escravo que teria sido alvo de uma maldição. Lá ele conhece a bela Lexie Darnell, que irá ajudá-lo em sua fantasmagórica missão. Prestes a descobrir um segredo que poderá abalar os alicerces da comunidade, esse destruidor de mitos terá de se confrontar com o único fenômeno que considera genuinamente misterioso e sobrenatural- uma paixão avassaladora.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520924824"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520924822"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 326,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cjVkewAACAAJ&dq=isbn:9788520924822&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cjVkewAACAAJ&dq=isbn:9788520924822&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_milagre.html?hl=&id=cjVkewAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cjVkewAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jeremy Marsh é um respeitado jornalista que não consegue emplacar um relacionamento afetivo que o faça feliz."
+   }
+  }
+ ]
+}

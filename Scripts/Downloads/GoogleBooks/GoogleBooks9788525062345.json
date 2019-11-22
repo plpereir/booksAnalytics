@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ufZoswEACAAJ",
+   "etag": "QtrwZVnFJdA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ufZoswEACAAJ",
+   "volumeInfo": {
+    "title": "Humano demais",
+    "subtitle": "a biografia do Padre Fábio de Melo : o homem que desafia regras, canta, filosofa, faz humor, tem milhões de seguidores na internet e atravessa os muros da Igreja para falar a todos os brasileiros",
+    "authors": [
+     "Rodrigo Alvarez"
+    ],
+    "publishedDate": "2016",
+    "description": "Em Humano Demais, o escritor Rodrigo Alvarez, correspondente internacional da tv Globo e autor dos best-sellers Aparecida e Maria, revela o religioso que buscou na própria história a inspiração para pregar, escrever, cantar e, assim, mudar a vida de seus",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525062340"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525062345"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 415,
+    "printType": "BOOK",
+    "categories": [
+     "Priests"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ufZoswEACAAJ&dq=isbn:9788525062345&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ufZoswEACAAJ&dq=isbn:9788525062345&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Humano_demais.html?hl=&id=ufZoswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ufZoswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Humano Demais, o escritor Rodrigo Alvarez, correspondente internacional da tv Globo e autor dos best-sellers Aparecida e Maria, revela o religioso que buscou na própria história a inspiração para pregar, escrever, cantar e, assim, ..."
+   }
+  }
+ ]
+}

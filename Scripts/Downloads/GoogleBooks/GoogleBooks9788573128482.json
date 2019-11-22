@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2jApmwEACAAJ",
+   "etag": "f7DnISVdhMY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2jApmwEACAAJ",
+   "volumeInfo": {
+    "title": "Carlos Wizard",
+    "subtitle": "sonhos não têm limites : a trajetória do professor que se tornou um dos maiores empreendedores do Brasil",
+    "authors": [
+     "Ignácio de Loyola Brandão",
+     "CARLOS WIZARD MARTINS"
+    ],
+    "publishedDate": "2013",
+    "description": "Segundo a obra, ficar rico não é questão de sorte, e sim de postura mental, escolhas e determinação. Não se pode ter medo, vergonha ou culpa por ser rico. Este é Carlos Wizard Martins, presidente do Grupo Multi Educação, ensino de idiomas e profissionalizante. Nesse livro estão os sucessos e os momentos de dor desse homem que venceu todas as condições adversas para alcançar o êxito e nos mostrar que sonhos não têm limites.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573128488"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573128482"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Businesspeople"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2jApmwEACAAJ&dq=isbn:9788573128482&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2jApmwEACAAJ&dq=isbn:9788573128482&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Carlos_Wizard.html?hl=&id=2jApmwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2jApmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este é Carlos Wizard Martins, presidente do Grupo Multi Educação, ensino de idiomas e profissionalizante, que atende mais de um milhão de alunos, com 3 mil escolas no Brasil e em dez países, gera 50 mil empregos e movimenta 3 bilhões ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FWVyMAEACAAJ",
+   "etag": "EnmeupZ7Smg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FWVyMAEACAAJ",
+   "volumeInfo": {
+    "title": "Lições de garra, fé e sucesso",
+    "authors": [
+     "Vitor Belfort"
+    ],
+    "publishedDate": "2012-01-01",
+    "description": "Nesta obra, Vitor Belfort reflete sobre a sua história, os obstáculos que se impuseram no caminho, as vitórias e derrotas dentro e fora do octógono, e procura mostrar que a fé se tornou um combustível para seguir sempre adiante. O livro tem caráter motivacional, com objetivo de mostrar que a vida é repleta de lutas e que é possível superar os obstáculos e vencer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578603141"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578603144"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 231,
+    "printType": "BOOK",
+    "categories": [
+     "Martial artists"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FWVyMAEACAAJ&dq=isbn:9788578603144&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FWVyMAEACAAJ&dq=isbn:9788578603144&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Li%C3%A7%C3%B5es_de_garra_f%C3%A9_e_sucesso.html?hl=&id=FWVyMAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FWVyMAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, Vitor Belfort reflete sobre a sua história, os obstáculos que se impuseram no caminho, as vitórias e derrotas dentro e fora do octógono, e procura mostrar que a fé se tornou um combustível para seguir sempre adiante."
+   }
+  }
+ ]
+}

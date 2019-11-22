@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qN4TPAAACAAJ",
+   "etag": "cwlgnOzq/VQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qN4TPAAACAAJ",
+   "volumeInfo": {
+    "title": "O monge e o executivo",
+    "subtitle": "uma história sobra a essência da liderança",
+    "authors": [
+     "James C. Hunter"
+    ],
+    "publishedDate": "2004",
+    "description": "As definições; O velho paradgma; O modelo; O verbo; O ambiente; A escolha; A recompensa; Epílogo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575421026"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575421024"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "Leadership"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 65,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qN4TPAAACAAJ&dq=isbn:9788575421024&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qN4TPAAACAAJ&dq=isbn:9788575421024&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_monge_e_o_executivo.html?hl=&id=qN4TPAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qN4TPAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As definições; O velho paradgma; O modelo; O verbo; O ambiente; A escolha; A recompensa; Epílogo."
+   }
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 123,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WGbBCwAAQBAJ",
+   "etag": "wRz6YaQ6Mq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WGbBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Violência na história",
+    "subtitle": "Memória, trauma e reparação",
+    "authors": [
+     "Carlos Fico",
+     "Antonio Costa Pinto",
+     "Denise Rollemberg",
+     "Márcio Seligmann-Silva",
+     "Avraham Milgram",
+     "Maria Celina D'Araújo",
+     "Monica Grin",
+     "Maria Paula Araujo",
+     "JessieJane Vieira de Sousa",
+     "Paulo Abrão",
+     "Marcelo D. Torelly",
+     "Samantha Viz Quadrat",
+     "Aldo Marchesi",
+     "Emilio Crenzel",
+     "Vicente Palermo",
+     "Izabel Priscila Pimentel da Silva"
+    ],
+    "publisher": "Editora Ponteio - Dumará Distribuidora Lta",
+    "publishedDate": "2013-12-20",
+    "description": "Nos últimos anos tem se intensificado, em todo o mundo, o debate sobre justiça de transição. Inúmeros países que vivenciaram ditaduras militares, regimes arbitrários e discriminatórios e experiências de guerra civil enfrentam, nos dias de hoje, a questão de como lidar com o legado da violência política. Memória, justiça e reparação são temas fundamentais neste momento, são eles que podem assegurar uma reconciliação política com conteúdo democrático. Este é o tema deste livro, com a colaboração de autores brasileiros e de outros de países como Argentina, Uruguai, Portugal e Israel, aonde a mesma questão foi enfrentada. No Brasil, esse debate ganhou força após a criação da Comissão da Verdade, em 2011.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788564116382"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8564116383"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WGbBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WGbBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WGbBCwAAQBAJ&printsec=frontcover&dq=Box+-+Paulo+Vieira&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WGbBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WGbBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WGbBCwAAQBAJ&rdid=book-WGbBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.78E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.78E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Viol%C3%AAncia_na_hist%C3%B3ria-sample-epub.acsm?id=WGbBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Viol%C3%AAncia_na_hist%C3%B3ria-sample-pdf.acsm?id=WGbBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WGbBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nos últimos anos tem se intensificado, em todo o mundo, o debate sobre justiça de transição."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sP9xDwAAQBAJ",
+   "etag": "yDIV/7plUBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sP9xDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Great Recipes",
+    "authors": [
+     "Luis"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Recipes, Easy, great, tasty, fantastic",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU26452"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 25,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sP9xDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sP9xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sP9xDwAAQBAJ&pg=PT5&dq=Box+-+Paulo+Vieira&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sP9xDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sP9xDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.86,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sP9xDwAAQBAJ&rdid=book-sP9xDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.086E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Great_Recipes-sample-pdf.acsm?id=sP9xDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sP9xDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Luis \u003cb\u003ePaulo Vieira\u003c/b\u003e. Lasagna ground beef INGREDIENTS 500g mass of lasagna \u003cbr\u003e\n500g mincemeat 2 cream \u003cb\u003eboxes\u003c/b\u003e 2 or 3 tablespoons butter 2 to 3 tablespoons \u003cbr\u003e\nflour 500 g of ham 500g mozzarella Salt to taste 2 cups of milk (more or less) 1 \u003cbr\u003e\nonion,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtUOfHuhme8C",
+   "etag": "9iA3m3E9NM0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtUOfHuhme8C",
+   "volumeInfo": {
+    "title": "Compreendendo Probabilidade e Estatística",
+    "authors": [
+     "LUIS PAULO VIEIRA BRAGA"
+    ],
+    "publisher": "Editora E-papers",
+    "description": "Pode ser utilizado em cursos de 60 horas para graduandos ou de 30 horas para graduados sem formação em estatística",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576502821"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576502828"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 230,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jtUOfHuhme8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jtUOfHuhme8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jtUOfHuhme8C&pg=PA77&dq=Box+-+Paulo+Vieira&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jtUOfHuhme8C&dq=Box+-+Paulo+Vieira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Compreendendo_Probabilidade_e_Estat%C3%ADsti.html?hl=&id=jtUOfHuhme8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jtUOfHuhme8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Luis \u003cb\u003ePaulo Vieira\u003c/b\u003e Braga ... Introduzir os gráficos distribuição empírica e \u003cb\u003ebox\u003c/b\u003e-plot. \u003cbr\u003e\n... Finalidade Ao final deste capítulo o aluno será capaz de calcular estatísticas \u003cbr\u003e\nde ordem, fazer os gráficos \u003cb\u003ebox\u003c/b\u003e-plot e distribuição empírica, assim como&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1kE4DwAAQBAJ",
+   "etag": "rnSPilVoD+8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1kE4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Estreia do Líder: Os primeiros passos na trilha da liderança",
+    "authors": [
+     " Paulo Vieira de Campos"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2017-10-03",
+    "description": "Com a tecnologia cada vez mais presente em nossa vida, as mudanças acontecem em uma velocidade maior e o que era indispensável ontem pode deixar de ser em questão de dias. “Tudo muda, o tempo todo” é o que se ouve com frequência. O fator humano, no entanto, continua sendo e sempre será o sopro que a tudo dá vida! É com este olhar que Paulo Vieira de Campos nos apresenta as informações e “dicasDukas” contidas em seu livro A Estreia do Líder: Os primeiros passos na trilha da liderança. De forma instrutiva, dinâmica e instigante, o autor nos conduz nesta caminhada literária ao universo da liderança, que integra as etapas: APRENDER, LIDERAR, ENSINAR E TRANSFORMAR. O leitor vai conhecer o passo a passo de todo caminhante que inicia na estrada da arte de inspirar e motivar pessoas a realizarem um trabalho e conquistarem um objetivo. Líderes e CEOs de grandes empresas também acrescentam valiosas informações, com relatos sobre suas experiências neste universo. Em A Estreia do Líder, você vai querer seguir sempre em frente: vencer em seu sonho, seu projeto e sua história - única e original. Então, aceite o convite: avante!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550801926"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550801925"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1kE4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1kE4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1kE4DwAAQBAJ&pg=PA73&dq=Box+-+Paulo+Vieira&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1kE4DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1kE4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 52.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1kE4DwAAQBAJ&rdid=book-1kE4DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.243E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.243E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Estreia_do_L%C3%ADder_Os_primeiros_passos-sample-pdf.acsm?id=1kE4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1kE4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003ePaulo Vieira\u003c/b\u003e de Campos. “momento da aula” permite que vocêfaçaosajustes \u003cbr\u003e\nnecessáriose também crieum clima deflexibilidade, bom humore ... nem \u003cbr\u003e\npercebemos. #DICADUKA “Coaching in a \u003cb\u003ebox\u003c/b\u003e” é um material produzido pela \u003cbr\u003e\nLiderar 73."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BlFSlQbrzSoC",
+   "etag": "+paOzbjeP8Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BlFSlQbrzSoC",
+   "volumeInfo": {
+    "title": "Introdução à Mineração de Dados - 2a edição: Edição ampliada e revisada",
+    "authors": [
+     "LUIS PAULO VIEIRA BRAGA Braga"
+    ],
+    "publisher": "Editora E-papers",
+    "publishedDate": "2005",
+    "description": "KDD e mineração de dados; Bancos de dados para mineração de dados - data warehouse, data mart e data webhouse; A construção de modelos no processo KDD/DM; Tratamento de dados para DM; Métodos para modelagem; Plano de prototipagem; Validação do modelo; Implementação; Retorno do investimento (ROI); Exemplos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576500353"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576500353"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 212,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BlFSlQbrzSoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BlFSlQbrzSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BlFSlQbrzSoC&pg=PA31&dq=Box+-+Paulo+Vieira&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BlFSlQbrzSoC&dq=Box+-+Paulo+Vieira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introdu%C3%A7%C3%A3o_%C3%A0_Minera%C3%A7%C3%A3o_de_Dados_2a.html?hl=&id=BlFSlQbrzSoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BlFSlQbrzSoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "LUIS \u003cb\u003ePAULO VIEIRA\u003c/b\u003e BRAGA Braga. * * * * PROBLEMA &gt; POPULAÇÃO ... Já \u003cbr\u003e\npara dados intervalares ou contínuos a geração de gráficos tais como “\u003cbr\u003e\nhistograma” e \u003cb\u003ebox\u003c/b\u003e-plot podem ajudar a identificar estes casos. Para outliers \u003cbr\u003e\nexistem muitos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dzC7AAAAIAAJ",
+   "etag": "HjmLwmmdgpE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dzC7AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Major Companies of Argentina, Brazil, Mexico, and Venezuela",
+    "authors": [
+     "S. J. Longrigg"
+    ],
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105116913836"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Corporations"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dzC7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dzC7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dzC7AAAAIAAJ&q=Box+-+Paulo+Vieira&dq=Box+-+Paulo+Vieira&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dzC7AAAAIAAJ&dq=Box+-+Paulo+Vieira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Major_Companies_of_Argentina_Brazil_Mexi.html?hl=&id=dzC7AAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dzC7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Branch Offices: Av Duque de Caxias 414, São Paulo - SP Subsidiary Companies: \u003cbr\u003e\nParticipação em Empreendimentos e Transportes ... de Janeiro - RJ Tel: 232-\u003cbr\u003e\n4220 Cable: Petrofértil Telex: 021-23880 President: \u003cb\u003ePaulo Vieira\u003c/b\u003e Belotti Directors\u003cbr\u003e\n: Porthos Augusto de Lima ... Algeria; 23 lsmail Mohamed Street, PO \u003cb\u003eBox\u003c/b\u003e 76, \u003cbr\u003e\nCairo, Egypt: Takhte Jamshid Ave, lranians&#39; Bank Building, PO \u003cb\u003eBox\u003c/b\u003e 2140, Tehran, \u003cbr\u003e\nlran;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hl2iAgAAQBAJ",
+   "etag": "ajr9SN5Bry8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hl2iAgAAQBAJ",
+   "volumeInfo": {
+    "title": "THE BOX MAN",
+    "authors": [
+     "Josiel Vieira"
+    ],
+    "publisher": "Livrus",
+    "publishedDate": "2013-05-01",
+    "description": "\"Você já parou para refletir que muitas vezes em sua vida age apenas para agradar aos olhos dos outros? Que quando tenta ser você mesmo sente uma grande vergonha, como se estivesse nu diante do olhar alheio? O personagem principal desse livro se sentia assim. E o que ele irá fazer para resolver essa situação será surpreendente. \"\"The Box Man\"\" versa sobre temas cruciais de nosso tempo, e mistura filosofia, metalinguagem, crise existencial e um universo rico em imagens e reflexões para levar o leitor a uma viagem para dentro de si mesmo. Texto premiado no 11º Festival Univesitário de Literatura promovido pela revista literária Livro Aberto. Solidão. Desespero existencial. Angústia criativa. Um duro caminho a se caminhar. E a singela relação entre um pensador amargurado de 29 anos e uma menina rebelde de 17. Este é The Box Man, texto vencedor do II Festival Universitário de Literatura.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578550677"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578550676"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hl2iAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hl2iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hl2iAgAAQBAJ&pg=PA2&dq=Box+-+Paulo+Vieira&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hl2iAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hl2iAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hl2iAgAAQBAJ&rdid=book-hl2iAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.75E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.75E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/THE_BOX_MAN-sample-pdf.acsm?id=hl2iAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hl2iAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Josiel \u003cb\u003eVieira\u003c/b\u003e. Todos os direitos desta edição reservados a autora. Publicado por \u003cbr\u003e\nLivrus Network. Rua 24 de Maio, 77 - 10o andar - Sala 1002 Centro - São \u003cb\u003ePaulo\u003c/b\u003e - \u003cbr\u003e\nSP - 01041-001 Website: www.livrus.com.br E-mail:&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UcBVDwAAQBAJ",
+   "etag": "HG4Wc2hrYzQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UcBVDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O voto do brasileiro - Edição Bilíngue",
+    "authors": [
+     "Alberto Carlos Almeida"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2018-05-18",
+    "description": "O cientista político Alberto Carlos Almeida destrincha as últimas três eleições presidenciais no Brasil e projeta um possível cenário para as eleições presidenciais de 2018, a partir da análise de mapas comparativos inéditos sobre o comportamento eleitoral do brasileiro nos últimos 12 anos. Do ponto de vista do comportamento eleitoral, as eleições presidenciais brasileiras são bem-estruturadas e previsíveis, e em nada devem às eleições nacionais dos países que consideramos exemplo de desenvolvimento. Ao final destas páginas, o leitor vai chegar a uma conclusão sobre as eleições deste ano, mas o livro não se esgota aí. O que tem de melhor é o retrato que faz do Brasil e o olhar que projeta para além das urnas, o que o torna leitura obrigatória a todos que se interessam por política.The Brazilian Presidential ElectionsIn The Brazilian Presidential Elections (O voto do brasileiro, in Portuguese), Alberto Carlos Almeida analyzes the last three presidential elections in Brazil. The author demonstrates that the stronghold of the PSDB in those elections was the middle class of the state of São Paulo, while poorer voters in the Northeast of the country made that region the PT citadel. The author goes on to show that presidential elections in Brazil are structured just like national elections in the world's major democracies. Consequently, he argues, it is highly unlikely that the PSDB or the PT will not contest the runoff round of the upcoming presidential election.It is of note that this important aspect still remains unclear to the majority of the country's influential thinkers, be they the politicians themselves, journalists, or the business and financial elites. The chapters of the book deal with:The voteIncomeLiving conditionsZooming inFirst world BrazilForecast of electoral results in 2018 Like most of Alberto Almeida's published work, this book is essentially analytical in nature and non-judgmental concerning values. It uses academic scholarship to divulge in accessible language, on an ample scale, a crucial aspect of Brazilian politics. The book contains several maps of the country that reveal, by region, how voting occurred in recent elections and how income is distributed, as well as indicators of living conditions. In the chapter entitled \"Zooming in\", various regions, states and some municipalities are subjected to close-up analysis, calling attention to and reflecting on discrepancies in electoral results. The chapter \"First world Brazil\" compares voting patterns in Brazil with those of Spain, Germany, France, Italy, Great Britain and the United States, pointing out important similarities. In the last chapter the reader (or the voter) will get the chance to forecast the result of the forthcoming presidential election, based on the premises chosen and the consequences of each of them on the on the outcome of the election. The book will contain both Portuguese and English texts and is to be published by Record Publishing House.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501100276"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501100277"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UcBVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UcBVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UcBVDwAAQBAJ&printsec=frontcover&dq=Box+-+Paulo+Vieira&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UcBVDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UcBVDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UcBVDwAAQBAJ&rdid=book-UcBVDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.076E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_voto_do_brasileiro_Edi%C3%A7%C3%A3o_Bil%C3%ADngue-sample-epub.acsm?id=UcBVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_voto_do_brasileiro_Edi%C3%A7%C3%A3o_Bil%C3%ADngue-sample-pdf.acsm?id=UcBVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UcBVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The chapters of the book deal with: - The vote - Income - Living conditions - Zooming in - First world Brazil - Forecast of electoral results in 2018 Like most of Alberto Almeida&#39;s published work, this book is essentially analytical in ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "58c-HPij6RMC",
+   "etag": "46o2QZbU3fU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/58c-HPij6RMC",
+   "volumeInfo": {
+    "title": "Pine Wilt Disease: A Worldwide Threat to Forest Ecosystems",
+    "authors": [
+     "Manuel M. Mota",
+     "Paulo R. Vieira"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2008-08-28",
+    "description": "Pine wilt disease (PWD) is unquestionably a major threat to forest ecosystems worldwide. After seriously affecting Eastern Asian countries, the challenge is now in Europe, following its detection in Portugal in 1999 and its subsequent spread. For foresters, these were really very bad news and, in order for adequate action to be taken, scientists had to teach politicians about the seriousness of the problem. That is never an easy task, but it was successfully done at that time, mainly by the continued effort of Professor Manuel Mota. The challenge of having political decisions based on good science is fundamental for the success of any program, but especially in dif?cult situations such as those arising by the introduction of harmful organisms in new ecosystems. The success of the dialogue between science and policy requires intelligent partners from each side, which is not always necessarily the case... Examples of lack of recognition of problems raised by science are unfortunately abundant throughout the history of science. The recent recognition of the efforts of the Intergovernmental Panel on Climate Change (IPCC) and Al Gore with the - bel Prize, and the continued failure in taking appropriate actions by major political players is a dramatic modern example of the dif?culty of this dialogue...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402084553"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1402084552"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 405,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=58c-HPij6RMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=58c-HPij6RMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=58c-HPij6RMC&pg=PA15&dq=Box+-+Paulo+Vieira&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=58c-HPij6RMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-58c-HPij6RMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 650.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 650.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=58c-HPij6RMC&rdid=book-58c-HPij6RMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.509E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.509E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pine_Wilt_Disease_A_Worldwide_Threat_to-sample-epub.acsm?id=58c-HPij6RMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pine_Wilt_Disease_A_Worldwide_Threat_to-sample-pdf.acsm?id=58c-HPij6RMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=58c-HPij6RMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Manuel M. Mota, \u003cb\u003ePaulo\u003c/b\u003e R. \u003cb\u003eVieira\u003c/b\u003e. Incursion Management in the Face of Multiple \u003cbr\u003e\nUncertainties: ... issues in the management of incursions are discussed. The. M. \u003cbr\u003e\nHodda CSIRO Entomology, GPO \u003cb\u003eBox\u003c/b\u003e 1700, Canberra ACT 2601, Australia e-mail\u003cbr\u003e\n:&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QmKzAAAAIAAJ",
+   "etag": "S1QGKGB7hiY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QmKzAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Industrialization in Latin America",
+    "subtitle": "from the \"black box\" to the \"empty box\" : a comparison of contemporary industrialization patterns",
+    "authors": [
+     "Fernando Fajnzylber"
+    ],
+    "publisher": "United Nations, Economic Commission for Latin America and the Caribbean ; New York, NY, USA : United Nations Publications Sales Section [distributor]",
+    "publishedDate": "1990",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822006480990"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QmKzAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QmKzAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=QmKzAAAAIAAJ&q=Box+-+Paulo+Vieira&dq=Box+-+Paulo+Vieira&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QmKzAAAAIAAJ&dq=Box+-+Paulo+Vieira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Industrialization_in_Latin_America.html?hl=&id=QmKzAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QmKzAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "from the &quot;black \u003cb\u003ebox\u003c/b\u003e&quot; to the &quot;empty \u003cb\u003ebox\u003c/b\u003e&quot; : a comparison of contemporary \u003cbr\u003e\nindustrialization patterns Fernando Fajnzylber ... Bonelli, Regis and \u003cb\u003ePaulo Vieira\u003c/b\u003e \u003cbr\u003e\nda Cunha, 1983, &quot;Distribucao da renda e padroes de crescimento: um modelo \u003cbr\u003e\ndinámico&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,815 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 398,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "k0j8IgiMKoMC",
+   "etag": "RLi9F1/oBTA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k0j8IgiMKoMC",
+   "volumeInfo": {
+    "title": "O poder do hábito",
+    "subtitle": "Por que fazemos o que fazemos na vida e nos negócios",
+    "authors": [
+     "Charles Duhigg"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2012-10-01",
+    "description": "Charles Duhigg, repórter investigativo do New York Times, mostra que a chave para o sucesso é entender como os hábitos funcionam - e como podemos transformá-los. Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida. Em um laboratório, neurologistas descobriram que os padrões dentro do cérebro dela mudaram de maneira fundamental. Publicitários da Procter & Gamble observaram vídeos de pessoas fazendo a cama. Tentavam desesperadamente descobrir como vender um novo produto chamado Febreze, que estava prestes a se tornar um dos maiores fracassos na história da empresa. De repente, um deles detecta um padrão quase imperceptível - e, com uma sutil mudança na campanha publicitária, Febreze começa a vender um bilhão de dólares por anos. Um diretor executivo pouco conhecido assume uma das maiores empresas norte-americanas. Seu primeiro passo é atacar um único padrão entre os funcionários - a maneira como lidam com a segurança no ambiente de trabalho -, e logo a empresa começa a ter o melhor desempenho no índice Dow Jones. O que todas essas pessoas tem em comum? Conseguiram ter sucesso focando em padrões que moldam cada aspecto de nossas vidas. Tiveram êxito transformando hábitos. Com perspicácia e habilidade, Charles Duhigg apresenta um novo entendimento da natureza humana e seu potencial para a transformação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539004256"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539004259"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.30.27.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=k0j8IgiMKoMC&printsec=frontcover&dq=O+poder+do+h%C3%A1bito&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=k0j8IgiMKoMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-k0j8IgiMKoMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=k0j8IgiMKoMC&rdid=book-k0j8IgiMKoMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_do_h%C3%A1bito-sample-epub.acsm?id=k0j8IgiMKoMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_do_h%C3%A1bito-sample-pdf.acsm?id=k0j8IgiMKoMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=k0j8IgiMKoMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Charles Duhigg, repórter investigativo do New York Times, mostra que a chave para o sucesso é entender como os hábitos funcionam - e como podemos transformá-los."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ky4ZDQAAQBAJ",
+   "etag": "+2Gj7gqOcUw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ky4ZDQAAQBAJ",
+   "volumeInfo": {
+    "title": "O Poder do Pensamento Positivo: Como Aliviar seu Estresse e Mudar sua Vida",
+    "authors": [
+     "Poppi Edwards"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2016-09-19",
+    "description": "Você descobrirá nestas páginas a importância de pensar positivo e encontrará dicas de como superar hábitos negativos, além de estratégias para melhorar sua vida no âmbito pessoal. E o mais importante: encontrará um ponto de entrada para sua transição para uma vida melhor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781507155349"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1507155344"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 51,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ky4ZDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ky4ZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ky4ZDQAAQBAJ&pg=PT25&dq=O+poder+do+h%C3%A1bito&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ky4ZDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ky4ZDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.44,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ky4ZDQAAQBAJ&rdid=book-Ky4ZDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.144E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ky4ZDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "café antes de ir para \u003cb\u003eo\u003c/b\u003e trabalho. Se quiser criar \u003cb\u003eo hábito\u003c/b\u003e de se exercitar um \u003cbr\u003e\npouco mais, você pode passar a ir andando até uma lanchonete, em vez de \u003cbr\u003e\ntomar seu café em casa. Cada pessoa tem seus próprios meios de ligar \u003cb\u003ehábitos\u003c/b\u003e \u003cbr\u003e\nnovos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mi3PCwAAQBAJ",
+   "etag": "Lr2xFkAX5OA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mi3PCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mais rápido e melhor",
+    "subtitle": "Os segredos da produtividade na vida e nos negócios",
+    "authors": [
+     "Charles Duhigg"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2016-05-09",
+    "description": "Em O poder do hábito, o vencedor do prêmio Pulitzer Charles Duhigg explica por que fazemos o que fazemos. Em Mais rápido e melhor, ele mostra como melhorar o que fazemos.Um grupo de cientistas de dados do Google embarca num estudo sobre como as melhores equipes funcionam e descobre que a forma que um grupo interage é mais importante do que quem está no grupo. Os diretores do filme Frozen, da Disney, estão quase sem prazo e à beira de uma catástrofe - até que decidem sacudir suas equipes da maneira certa e estimulam um avanço criativo que resultou em um dos filmes mais lucrativos de todos os tempos. O que essas pessoas têm em comum? Elas sabem que produtividade tem que ver com as escolhas que fazemos. Estudos recentes sugerem que a produtividade nem sempre está relacionada a trabalhar mais horas por dia e a tentar ser mais “eficiente”. Mais rápido e melhor traz oito conceitos-chave que explicam por que algumas pessoas e empresas são tão produtivas. Ao combinar sua incansável curiosidade, histórias instigantes e grandes reportagens com a experiência de profissionais de diversas áreas - CEOs, educadores, generais, agentes do FBI, pilotos de avião e compositores da Broadway -, Duhigg mostra como todos nós podemos alcançar o sucesso com menos estresse e esforço, fazer mais sem sacrificar o que estimamos e nos tornar mais rápidos e melhores em tudo o que fazemos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543805801"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543805805"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Mi3PCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Mi3PCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Mi3PCwAAQBAJ&printsec=frontcover&dq=O+poder+do+h%C3%A1bito&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Mi3PCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Mi3PCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Mi3PCwAAQBAJ&rdid=book-Mi3PCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_r%C3%A1pido_e_melhor-sample-epub.acsm?id=Mi3PCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_r%C3%A1pido_e_melhor-sample-pdf.acsm?id=Mi3PCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Mi3PCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em O poder do hábito, o vencedor do prêmio Pulitzer Charles Duhigg explica por que fazemos o que fazemos. Em Mais rápido e melhor, ele mostra como melhorar o que fazemos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yiUVUy05pHkC",
+   "etag": "sjW/sWIHUto",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yiUVUy05pHkC",
+   "volumeInfo": {
+    "title": "O Poder do Pensamento Positivo",
+    "authors": [
+     "Norman Vincent Peale"
+    ],
+    "publisher": "Editora Cultrix",
+    "publishedDate": "2015-06-16",
+    "description": "Neste livro, que é o precursor de O Segredo, o autor Norman Vincent Peale ensina um sistema de vida baseado numa técnica espiritual simples e clara, que pode ser resumida numa única frase: todos poderão levar uma vida feliz e gratificante. Se você, diz Peale, \"ler este livro com profunda atenção, observando cuidadosamente os seus ensinamentos, e se praticar, sincera e persistentemente, os princípios e fórmulas nele expostos, irá experimentar uma extraordinária modificação em si mesmo. Suas relações com as outras pessoas serão melhores e você terá uma nova e agradável sensação de bem-estar.\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531610707"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8531610702"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.99.97.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yiUVUy05pHkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yiUVUy05pHkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yiUVUy05pHkC&pg=PT101&dq=O+poder+do+h%C3%A1bito&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yiUVUy05pHkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yiUVUy05pHkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yiUVUy05pHkC&rdid=book-yiUVUy05pHkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.38E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.666E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_do_Pensamento_Positivo-sample-epub.acsm?id=yiUVUy05pHkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Poder_do_Pensamento_Positivo-sample-pdf.acsm?id=yiUVUy05pHkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yiUVUy05pHkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sinto-me alegre — respondeu \u003cb\u003eo\u003c/b\u003e outro. Acrescentou depois: — Tenho por \u003cb\u003ehábito\u003c/b\u003e \u003cbr\u003e\nmanter-me sempre alegre. Foi tudo \u003cb\u003eo\u003c/b\u003e que disse, mas estou certo de que todos \u003cbr\u003e\nque se achavam naquele compartimento devem ter deixado \u003cb\u003eo\u003c/b\u003e trem com aquelas\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TK54DwAAQBAJ",
+   "etag": "F4hFJ+ZRKG0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TK54DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Pader do Habito, Editora Objectiva, 2012",
+    "subtitle": "O Pader do Habito",
+    "authors": [
+     "Charles Duhigg"
+    ],
+    "publisher": "Bukupedia ",
+    "publishedDate": "2012-11-12",
+    "description": "Ela era a participante de estudo favorita dos cientistas. Lisa Allen, de acordo com sua ficha, tinha 34 anos, começara a fumar e beber aos 16, e lutara com a obesidade durante a maior parte da vida. Chegou a um ponto, aos 20 e poucos anos, em que órgãos de cobrança começaram a persegui-la para recuperar mais de 10 mil dólares em dívidas. Um velho currículo listava que seu emprego mais longo durara menos de um ano. A mulher que estava diante dos pesquisadores naquele dia, no entanto, era esbelta e vibrante, com as pernas tonificadas de uma corredora. Parecia uma década mais nova que as fotos em seu prontuário, e capaz de aguentar mais exercícios do que qualquer outra pessoa no recinto. Segundo o relatório mais recente em seu arquivo, Lisa não tinha dívidas, não bebia e estava em seu 39o mês numa empresa de design gráfico. “Quanto tempo faz desde o seu último cigarro?”, um dos médicos perguntou, dando início à lista de perguntas que Lisa respondia toda vez que vinha a esse laboratório perto de Bethesda, Maryland. “Quase quatro anos”, ela disse, “e perdi 27 quilos e corri uma maratona desde então”. Ela também começara um mestrado e comprara uma casa. Tinha sido um período cheio de acontecimentos. O grupo de cientistas na sala incluía neurologistas, psicólogos, geneticistas e um sociólogo. Durante os últimos três anos, com verba dos Institutos Nacionais de Saúde, eles vinham investigando Lisa e mais de vinte outros indivíduos que haviam deixado de ser fumantes, comedores compulsivos, bêbados problemáticos, viciados em compras e possuidores de outros hábitos destrutivos. Todos os participantes tinham uma coisa em comum: haviam reconstruído suas vidas em períodos relativamente curtos. Os pesquisadores queriam entender como. Por isso mediram os sinais vitais de cada um, instalaram câmeras de vídeo dentro de suas casas para observar suas rotinas, sequenciaram trechos de seus DNAs e, com tecnologias que lhes permitiam espiar dentro da cabeça das pessoas em tempo real, observaram o sangue e os impulsos elétricos fluírem através de seus cérebros enquanto eram expostos a tentações como fumaça de cigarro e refeições fartas. O objetivo dos pesquisadores era descobrir como os hábitos funcionam num nível neurológico — e o que era necessário para fazê-los mudar. “Sei que você já contou essa história umas dez vezes”, disse o médico para Lisa, “mas alguns dos meus colegas só a ouviram em segunda mão. Você se importaria em descrever de novo como parou de fumar?”. “Claro”, disse Lisa. “Começou no Cairo.” As férias tinham sido uma decisão um tanto impulsiva, ela explicou. Alguns meses antes, seu marido chegara do trabalho e anunciara que ia deixá-la porque estava apaixonado por outra mulher. Lisa levou um certo tempo para processar a traição e assimilar o fato de que estava realmente se divorciando. Houve um período de luto, depois um período em que ela o espionava obsessivamente, seguia sua nova namorada pela cidade, ligava para ela depois da meia-noite e batia o telefone. Depois houve a noite em que Lisa apareceu na casa da namorada, bêbada, esmurrando a porta dela e gritando que ia queimar o prédio inteiro. “Não foi uma época muito boa para mim”, disse Lisa. “Eu sempre quisera ver as pirâmides, e ainda não tinha estourado o limite dos meus cartões de crédito, então...” Em sua primeira manhã no Cairo, Lisa acordou com o raiar do dia ao som do chamado para oração de uma mesquita ali perto. Estava escuro como breu dentro de seu quarto de hotel. Meio cega, e com o fuso horário alterado, ela pegou um cigarro. Estava tão desorientada que não percebeu — até sentir o cheiro de plástico queimado — que estava tentando acender uma caneta, não um Marlboro. Lisa passara os últimos quatro meses chorando, comendo compulsivamente, sem conseguir dormir, e sentindo-se envergonhada, desamparada, deprimida e furiosa, tudo ao mesmo tempo. Deitada na cama, ela entrou em colapso. “Foi como se aquela onda de tristeza me engolisse”, ela disse. “Senti como se tudo o que eu jamais quisera tivesse desmoronado. Eu nem conseguia fumar direito. “E então comecei a pensar no meu ex-marido, e em como seria difícil arranjar outro emprego quando eu voltasse, e como eu ia odiar esse emprego e como me sentia pouco saudável o tempo todo. Levantei e derrubei uma jarra d’água que se estilhaçou no chão, e comecei a chorar ainda mais. Senti um desespero, como se tivesse que mudar algo, tivesse que achar pelo menos uma coisa que eu fosse capaz de controlar.” Tomou uma ducha e saiu do hotel. Enquanto Lisa passava pelas ruas esburacadas do Cairo num táxi e depois pelas estradas de terra que levavam à Esfinge, às pirâmides de Gizé e ao vasto, interminável deserto ao redor delas, sua autocomiseração cedeu por um breve instante. Ela precisava de um objetivo na vida, pensou. Algo pelo qual pudesse batalhar. Então ela decidiu, sentada dentro do táxi, que voltaria ao Egito e faria uma trilha pelo deserto. Lisa sabia que era uma ideia maluca. Estava fora de forma, com excesso de peso e sem dinheiro no banco. Não sabia o nome do deserto para onde estava olhando, ou mesmo se uma tal viagem era possível. Nada disso importava, no entanto. Ela precisava de alguma coisa em que se focar. Lisa decidiu que se daria um ano para se preparar. E para sobreviver a uma expedição daquelas, tinha certeza de que precisaria fazer sacrifícios. Principalmente, ela teria que parar de fumar. Quando Lisa finalmente cruzou o deserto 11 meses depois — só que numa excursão motorizada com ar-condicionado, junto com meia dúzia de outras pessoas —, a caravana levava tanta água, comida, barracas, mapas, aparelhos de GPS e rádios bidirecionais que acrescentar um pacote de cigarros não teria feito muita diferença. Mas no táxi, Lisa não sabia disso. E para os cientistas no laboratório, os detalhes da sua viagem não eram relevantes. Pois, por motivos que eles só estavam começando a entender, aquela pequena mudança na percepção de Lisa naquele dia no Cairo — a convicção de que precisava parar de fumar para realizar seu objetivo — desencadeara uma série de transformações que acabariam refletindo em todas as partes de sua vida. Ao longo dos seis meses seguintes, ela substituiria o cigarro pela corrida, e isso, por sua vez, mudou o jeito como ela comia, trabalhava, dormia, guardava dinheiro, organizava seus dias de trabalho, fazia planos para o futuro, e assim por diante. Ela começaria a correr meiasmaratonas, depois uma maratona, voltaria a estudar, compraria uma casa e ficaria noiva. Por fim ela foi recrutada para o estudo dos cientistas, e quando os pesquisadores começaram a examinar imagens do cérebro de Lisa, viram algo notável: um conjunto de padrões neurológicos — seus antigos hábitos — tinha sido suplantado por padrões novos. Eles ainda podiam ver a atividade neural de seus antigos comportamentos, porém esses impulsos estavam superados por uma série de novos desejos. Conforme os hábitos de Lisa mudaram, seu cérebro mudara também. Os cientistas acreditavam que não tinha sido a viagem ao Cairo que provocara a mudança, nem o divórcio ou a travessia do deserto, mas o fato de que primeiro Lisa se concentrara primeiramente em mudar um único hábito: o fumo. Todos os participantes do estudo haviam passado por um processo semelhante. Focando-se num único padrão — o que é conhecido como um “hábito angular” —, Lisa também ensinara a si mesma a reprogramar as outras rotinas automáticas de sua vida. Não só os indivíduos são capazes de mudanças como essa. Quando as empresas se concentram em mudar hábitos, organizações inteiras podem se transformar. Empresas como a Procter & Gamble, a Starbucks, a Alcoa e a Target já tiraram proveito dessa revelação para influenciar o modo como o trabalho é feito, como os funcionários se comunicam, e — sem que os clientes percebam — o jeito como as pessoas fazem compras. “Quero lhe mostrar uma de suas tomografias mais recentes”, um pesquisador disse a Lisa perto do final de seu exame. Ele exibiu uma figura numa tela de computador que mostrava imagens do interior da cabeça dela. “Quando você vê comida, estas áreas” — ele apontou para um lugar perto do centro do cérebro dela —, “que são associadas a anseios e fome, ainda estão ativas. Seu cérebro ainda produz os impulsos que faziam você comer em excesso. “No entanto, tem atividade nova nesta área” — ele apontou para a região mais perto de sua testa —, “onde acreditamos que a inibição comportamental e a autodisciplina começam. Essa atividade foi se tornando mais acentuada a cada vez que você veio aqui”. Lisa era a participante favorita dos cientistas porque suas tomografias eram muito convincentes, muito úteis para criar um mapa no qual os padrões comportamentais — os hábitos — residem dentro de nossas mentes. “Você está nos ajudando a entender como uma decisão se torna um comportamento automático”, o médico lhe disse. Todas as pessoas no recinto sentiam que estavam no limiar de alguma coisa importante. E estavam mesmo. Quando você acordou hoje de manhã, qual foi a primeira coisa que fez? Você foi direto para o chuveiro, checou seu e-mail ou pegou um donut no balcão da cozinha? Escovou os dentes antes ou depois de se enxugar? Amarrou o sapato esquerdo ou o direito primeiro? O que você disse para os seus filhos antes de sair de casa? Que caminho pegou para ir ao trabalho? Quando você chegou à sua mesa, respondeu e-mails, conversou com um colega ou foi logo escrever um memorando? Salada ou hambúrguer no almoço? Quando chegou em casa, calçou tênis e saiu para correr, ou pegou um drinque e foi jantar na frente da TV? “Toda a nossa vida, na medida em que tem forma definida, não é nada além de uma massa de hábitos”, escreveu William James em 1892. A maioria das escolhas que fazemos a cada dia pode parecer fruto de decisões tomadas com bastante consideração, porém não é. Elas são hábitos. E embora cada hábito signifique relativamente pouco por si só, ao longo do tempo, as refeições que pedimos, o que dizemos a nossos filhos toda noite, se poupamos ou gastamos dinheiro, com que frequência fazemos exercícios, e o modo como organizamos nossos pensamentos e rotinas de trabalho têm impactos enormes na nossa saúde, produtividade, segurança financeira e felicidade. Um artigo publicado por um pesquisador da Duke University em 2006 descobriu que mais de 40% das ações que as pessoas realizavam todos os dias não eram decisões de fato, mas sim hábitos. William James — assim como inúmeros outros, de Aristóteles a Oprah Winfrey — passou boa parte de sua vida tentando entender por que os hábitos existem. Porém só nas últimas duas décadas os neurologistas, psicólogos, sociólogos e marqueteiros realmente começaram a entender como os hábitos funcionam — e, mais importante, como eles mudam. Este livro é dividido em três partes. A primeira parte é focada em como os hábitos surgem dentro de vidas individuais. Ela explora a neurologia da formação dos hábitos, os meios de formar novos hábitos e mudar antigos, e os métodos, por exemplo, que certo publicitário usou para transformar a escovação de dentes, antes uma prática obscura, numa obsessão nacional. Ela mostra como a Procter & Gamble transformou um spray chamado Febreze num negócio de um bilhão de dólares tirando proveito dos impulsos habituais dos consumidores, como os Alcoólicos Anônimos reformam vidas atacando hábitos que estão no cerne do vício, e como o técnico Tony Dungy reverteu a sorte do pior time da National Football League (Liga Nacional de Futebol Americano) fazendo com que as reações automáticas de seus jogadores focassem deixas sutis em campo. A segunda parte examina os hábitos de empresas e organizações bem-sucedidas. Ela mostra em detalhes como um executivo chamado Paul O’Neill — antes de se tornar secretário da Fazenda — converteu uma produtora de alumínio em dificuldades na empresa de mais alto desempenho do índice Dow Jones, enfocando um hábito angular, e como a Starbucks transformou um menino que largara o ensino médio num alto gerente, incutindo hábitos projetados para tonificar sua força de vontade. Ela descreve por que mesmo os cirurgiões mais talentosos podem cometer erros catastróficos quando os hábitos organizacionais de um hospital deterioram-se. A terceira parte examina os hábitos de sociedades. Reconta como Martin Luther King Jr. e o movimento pelos direitos civis tiveram êxito, em parte, por mudarem os hábitos sociais arraigados dos moradores de Montgomery, Alabama — e por que um foco semelhante ajudou um jovem pastor chamado Rick Warren a construir a maior igreja do país em Saddleback Valley, Califórnia. Por fim, ela explora questões éticas delicadas, tais como se um assassino na Grã-Bretanha deve ser libertado caso possa argumentar de forma convincente que seus hábitos o levaram a matar.Todos os capítulos giram em torno de um argumento central: hábitos podem ser mudados, se entendermos como eles funcionam. Este livro é baseado em centenas de estudos acadêmicos, entrevistas com mais de trezentos cientistas e executivos, e pesquisas realizadas em dezenas de empresas. (Para um índice de fontes, veja as notas do livro e o site http://www.thepowerofhabit.com.) Ele aborda os hábitos em sua definição técnica: as escolhas que todos fazemos deliberadamente em algum momento, e nas quais paramos de pensar depois mas continuamos fazendo, normalmente todo dia. Em certo momento, todos nós decidimos conscientemente o quanto iríamos comer e quando sairíamos para correr. Depois paramos de fazer escolhas, e o comportamento tornou-se automático. É uma consequência natural da nossa neurologia. E entendendo como isso acontece, você pode reconstruir esses padrões do jeito que quiser. Comecei a me interessar pela ciência dos hábitos oito anos atrás, quando estava trabalhando como repórter de jornal em Bagdá. As forças armadas dos Estados Unidos, como me ocorreu enquanto eu as observava em ação, são um dos maiores experimentos de formação de hábitos da história. O treinamento básico ensina aos soldados uma série de hábitos cuidadosamente projetados: como atirar, pensar e se comunicar sob fogo. No campo de batalha, cada comando emitido se baseia em comportamentos praticados a ponto de virarem automáticos. A organização inteira depende de rotinas ensaiadas inúmeras vezes para construir bases, definir prioridades estratégicas e decidir como reagir a ataques. Naqueles primeiros dias da guerra, quando a insurreição se alastrava e o número de mortos crescia, os comandantes estavam buscando hábitos que pudessem incutir entre soldados e iraquianos, para assim criar uma paz duradoura. Fazia cerca de dois meses que eu estava no Iraque quando ouvi falar de um oficial que realizava um programa improvisado de modificação de hábitos em Kufa, uma pequena cidade a 150 quilômetros da capital. Ele era um major do Exército que analisara fitas de vídeo de tumultos recentes e identificara um padrão: a violência geralmente era precedida por uma multidão de iraquianos que se reunia numa praça ou outro espaço aberto e, ao longo de várias horas, aumentava. Os vendedores ambulantes de comida apareciam, assim como os espectadores. Então alguém jogava uma pedra ou uma garrafa, e o caos corria solto. Quando o major se reuniu com o prefeito de Kufa, fez um pedido estranho: será que eles podiam manter os ambulantes afastados das praças? Claro, disse o prefeito. Umas poucas semanas depois, uma pequena multidão reuniu-se perto da Masjid al-Kufa, ou Grande Mesquita de Kufa. Ao longo da tarde, ela foi inchando de tamanho. Algumas pessoas começaram a entoar frases de protesto. A polícia iraquiana, pressentindo problemas, falou com a base por rádio e pediu que as tropas americanas ficassem de sobreaviso. Quando escureceu, a multidão começou a ficar inquieta e faminta. As pessoas procuraram os vendedores de kebab que geralmente enchiam a praça, mas não encontraram nenhum. Os espectadores se foram. Os protestantes ficaram desanimados. Às oito da noite, todo mundo tinha ido embora. Quando visitei a base perto de Kufa, conversei com o major. As pessoas não pensam necessariamente na dinâmica de uma multidão em termos de hábitos, ele me disse. Mas passara toda sua carreira sendo treinado na psicologia da formação de hábitos. No acampamento militar, ele assimilara hábitos para carregar sua arma, adormecer numa zona de guerra, manter o foco em meio ao caos da batalha e tomar decisões enquanto estava exausto e sobrecarregado. Frequentara aulas que lhe ensinaram hábitos para economizar dinheiro, se exercitar todo dia e se comunicar com os colegas de dormitório. Conforme foi avançando de posto, ele aprendeu a importância dos hábitos organizacionais para garantir que os subordinados pudessem tomar decisões sem pedir permissão o tempo todo, e como as rotinas certas tornavam mais fácil trabalhar ao lado de pessoas que ele normalmente não suportava. E agora, na tarefa improvisada de construir uma nação, ele estava vendo como multidões e culturas seguiam muitas das mesmas regras. Num certo sentido, ele disse, uma comunidade era um aglomerado gigante de hábitos que ocorriam entre milhares de pessoas e que, dependendo da forma como estas são influenciadas, podia resultar em violência ou em paz. Além de retirar os vendedores ambulantes, promovera dezenas de experimentos diferentes em Kufa para influenciar os hábitos dos moradores. Não houvera um único tumulto desde que chegara. “Entender os hábitos foi a coisa mais importante que aprendi no Exército”, o major me disse. “Isso mudou tudo no modo como vejo o mundo. Você quer adormecer rápido e acordar se sentindo bem? Preste atenção aos seus padrões noturnos e ao que faz automaticamente quando acorda. Quer fazer com que correr seja fácil? Crie estímulos para transformar isso numa rotina. Treino meus filhos com esse tipo de pensamento. Minha mulher e eu escrevemos planos de hábitos para o nosso casamento. É só nisso que falamos em reuniões de comando. Ninguém em Kufa teria me dito que podíamos influenciar multidões retirando as barraquinhas de kebab, mas uma vez que você vê tudo como um monte de hábitos, é como se alguém te desse uma lanterna e um pé de cabra e você pudesse pôr as mãos à obra.” O major era um homem pequeno da Geórgia. Estava o tempo todo cuspindo sementes de girassol ou tabaco mascado numa xícara. Ele me disse que, antes de entrar para as Forças Armadas, sua melhor opção de carreira era consertar linhas telefônicas ou, possivelmente, virar traficante de metanfetamina, caminho que alguns de seus colegas de ensino médio tinham escolhido com menos êxito. Agora, ele supervisionava oitocentas tropas numa das organizações de guerra mais sofisticadas do planeta. “Estou te dizendo, se um caipira como eu pode aprender essas coisas, qualquer pessoa pode. Eu falo para os meus soldados o tempo todo, não tem nada que você não possa se criar os hábitos certos.” Na última década, nossa compreensão da neurologia dos hábitos e do modo como os padrões funcionam dentro de nossas vidas, sociedades e organizações expandiu-se de maneira que não poderíamos ter imaginado cinquenta anos antes. Agora sabemos por que os hábitos surgem, como eles mudam, e a ciência que há por trás de sua mecânica. Sabemos como dividi-los em partes e reconstruí-los de acordo com nossas especificações. Entendemos como fazer as pessoas comerem menos, se exercitarem mais, trabalharem de forma mais eficiente e levarem vidas mais saudáveis. Transformar um hábito não é necessariamente fácil nem rápido. Nem sempre é simples. Mas é possível. E agora entendemos como.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539004256"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539004259"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 477,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TK54DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TK54DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TK54DwAAQBAJ&dq=O+poder+do+h%C3%A1bito&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TK54DwAAQBAJ&dq=O+poder+do+h%C3%A1bito&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Pader_do_Habito_Editora_Objectiva_2012.html?hl=&id=TK54DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TK54DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ela era a participante de estudo favorita dos cientistas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lTaY5dAHj48C",
+   "etag": "WvfL4JoPohk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lTaY5dAHj48C",
+   "volumeInfo": {
+    "title": "O poder do amor",
+    "authors": [
+     "Candace Camp"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2013-02-16",
+    "description": "Durante toda a sua vida, Olivia Moreland rejeitara os poderes extra-sensoriais que possuía. De facto, dedicava-se a contestar as habilidades dos médiuns de Londres. Todavia, quando Stephen, lorde Saint Leger, lhe pediu ajuda para investigar um suposto médium, Olivia percebeu que não podia ignorar a perigosa presença que sentia na sua antiquíssima casa... Como também não podia ignorar a incrível conexão que existia entre Stephen e ela, como se se conhecessem de outra época... Stephen partira de Blackhope Hall quando o seu irmão mais velho lhe arrebatara o título e a mulher que amava. Agora, depois da morte do seu irmão, regressara e encontrara a sua família envolvida num escândalo. Quem estaria por detrás da morte do seu irmão, um espírito mau ou o médium que afirmava tê-lo descoberto? E, sobretudo, quem era aquela Olivia Moreland que conseguira voltar a despertar a paixão dentro dele?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788468725550"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8468725552"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lTaY5dAHj48C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lTaY5dAHj48C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lTaY5dAHj48C&pg=PT91&dq=O+poder+do+h%C3%A1bito&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lTaY5dAHj48C&dq=O+poder+do+h%C3%A1bito&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_poder_do_amor.html?hl=&id=lTaY5dAHj48C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_do_amor-sample-epub.acsm?id=lTaY5dAHj48C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_do_amor-sample-pdf.acsm?id=lTaY5dAHj48C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lTaY5dAHj48C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No dia seguinte de manhã, Olivia procurou Tom Quick e pediulhe para procurar \u003cbr\u003e\nno quarto do senhor Babington um \u003cb\u003ehábito\u003c/b\u003e preto semelhante ao que \u003cb\u003eo\u003c/b\u003e «fantasma\u003cbr\u003e\n» do jardim usara no dia anterior. Depois de lhe pedir para fazer a tarefa, passou\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TW_8IL7QOaYC",
+   "etag": "zyoKIx6xBiQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TW_8IL7QOaYC",
+   "volumeInfo": {
+    "title": "A ARTE DE FAZER ACONTECER",
+    "authors": [
+     "DAVID ALLEN"
+    ],
+    "publisher": "Gulf Professional Publishing",
+    "description": "Segundo a obra, só quando as mentes estão claras e os pensamentos organizados é que as pessoas podem atingir a produtividade sem estresse e liberar o potencial criativo. Desde os princípios fundamentais (como decidir qual será o próximo passo para cada item de uma lista de coisas a fazer) até as dicas comprovadas, este livro poderá transformar a maneira de trabalhar - e de vivenciar o trabalho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535219080"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535219081"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TW_8IL7QOaYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TW_8IL7QOaYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TW_8IL7QOaYC&pg=PA175&dq=O+poder+do+h%C3%A1bito&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TW_8IL7QOaYC&dq=O+poder+do+h%C3%A1bito&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_ARTE_DE_FAZER_ACONTECER.html?hl=&id=TW_8IL7QOaYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TW_8IL7QOaYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO\u003c/b\u003e. \u003cb\u003ePODER\u003c/b\u003e. DO. \u003cb\u003eHABITO\u003c/b\u003e. DA. COLETA. M á muito mais nessas simples técnicas \u003cbr\u003e\ne modelos do que pode parecer, à primeira vista. Na verdade, elas \u003cbr\u003e\nproporcionam um método sistemático para manter a sua mente livre das \u003cbr\u003e\ndistrações, \u003cb\u003eo\u003c/b\u003e que&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MFoxAQAAMAAJ",
+   "etag": "JWdnu5XXDZw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MFoxAQAAMAAJ",
+   "volumeInfo": {
+    "title": "O Instituto",
+    "publishedDate": "1877",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112028099668"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.5.3.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MFoxAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MFoxAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MFoxAQAAMAAJ&pg=PA202&dq=O+poder+do+h%C3%A1bito&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MFoxAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MFoxAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=MFoxAQAAMAAJ&rdid=book-MFoxAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/O_Instituto.pdf?id=MFoxAQAAMAAJ&hl=&output=pdf&sig=ACfU3U0bSe007tvm1grL3QwfQp4C6fjavw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MFoxAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na enunciação dos meios que contrariavam \u003cb\u003eo poder\u003c/b\u003e virtual de propagação do \u003cbr\u003e\nhomem, Malthus não levou em conta a perfectibilidade e o \u003cb\u003ehabito\u003c/b\u003e. \u003cb\u003eO\u003c/b\u003e homem é \u003cbr\u003e\nperfectivel, e com \u003cb\u003eo\u003c/b\u003e seu aperfeiçoamento crescem as suas necessidades \u003cbr\u003e\nphysicas,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "92ENAAAAIAAJ",
+   "etag": "jOh/X1OmQcg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/92ENAAAAIAAJ",
+   "volumeInfo": {
+    "title": "O novo principe, ou, O espirito dos governos monarchicos",
+    "authors": [
+     "José Osorio da Gama e Castro"
+    ],
+    "publishedDate": "1841",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105038897893"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Monarchy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=92ENAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=92ENAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=92ENAAAAIAAJ&pg=PA129&dq=O+poder+do+h%C3%A1bito&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=92ENAAAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-92ENAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=92ENAAAAIAAJ&rdid=book-92ENAAAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/O_novo_principe_ou_O_espirito_dos_govern.epub?id=92ENAAAAIAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/O_novo_principe_ou_O_espirito_dos_govern.pdf?id=92ENAAAAIAAJ&hl=&output=pdf&sig=ACfU3U1QtL2jMYl379SERLk8q1SkwqiWmA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=92ENAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "nViaàa de coacção ) , então o poder adquirido se torna tanto mais firme, tanto \u003cbr\u003e\nmais augusto, e tanto mais inviolavel, ... se o tempo introduzio as modificações \u003cbr\u003e\nnecessarias — se \u003cb\u003eo poder do habito\u003c/b\u003e transformou em admissivel , e finalmente \u003cbr\u003e\nem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G2xNyMZnjkUC",
+   "etag": "sbx7bdZ1wcA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G2xNyMZnjkUC",
+   "volumeInfo": {
+    "title": "Poder Do Pensamento Pela Ioga, O",
+    "authors": [
+     "Swami Sivananda, Madalena Nicol"
+    ],
+    "publisher": "Editora Pensamento",
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531505208"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531505201"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 117,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G2xNyMZnjkUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G2xNyMZnjkUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G2xNyMZnjkUC&pg=PA52&dq=O+poder+do+h%C3%A1bito&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G2xNyMZnjkUC&dq=O+poder+do+h%C3%A1bito&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poder_Do_Pensamento_Pela_Ioga_O.html?hl=&id=G2xNyMZnjkUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G2xNyMZnjkUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Swami Sivananda. 4. \u003cb\u003eO PODER\u003c/b\u003e DO PENSAMENTO PELA FORÇA DE \u003cbr\u003e\nVONTADE. ... Quando você quebra \u003cb\u003eo\u003c/b\u003e velho \u003cb\u003ehábito\u003c/b\u003e de beber café, de certa \u003cbr\u003e\nmaneira controlou \u003cb\u003eo\u003c/b\u003e sentido do paladar, destruiu um Va- sana e eliminou \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\ndesejo pelo café."
+   }
+  }
+ ]
+}

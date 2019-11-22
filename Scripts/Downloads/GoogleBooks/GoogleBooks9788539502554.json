@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aqYHywAACAAJ",
+   "etag": "BRwt2Mmql08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aqYHywAACAAJ",
+   "volumeInfo": {
+    "title": "QUEM VENDE ENRIQUECE",
+    "authors": [
+     "NAPOLEON HILL"
+    ],
+    "description": "O autor se baseia na própria experiência e na vida e na carreira de outros profissionais para tentar mostrar o que leva uma pessoa a ser um vendedor talentoso. Dentre os assuntos abordados, estão - como encontrar o seu comprador em potencial e a maneira mais eficiente de falar com ele; como planejar uma estratégia vencedora; como criar o hábito de fazer sempre mais; como usar melhor o seu tempo e como a autossugestão pode ser uma forte ferramenta de vendas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539502550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539502554"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 292,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aqYHywAACAAJ&dq=isbn:9788539502554&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aqYHywAACAAJ&dq=isbn:9788539502554&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/QUEM_VENDE_ENRIQUECE.html?hl=&id=aqYHywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aqYHywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O autor se baseia na própria experiência e na vida e na carreira de outros profissionais para tentar mostrar o que leva uma pessoa a ser um vendedor talentoso."
+   }
+  }
+ ]
+}

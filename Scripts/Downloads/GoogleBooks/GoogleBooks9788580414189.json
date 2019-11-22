@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fHMbvgAACAAJ",
+   "etag": "p97pzR14qc4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fHMbvgAACAAJ",
+   "volumeInfo": {
+    "title": "FEITIÇO DA SOMBRA",
+    "authors": [
+     "NORA ROBERTS",
+     "MARIA CLARA DE BIASE"
+    ],
+    "description": "perder – e perder a amizade dele. Essa mudança em sua relação pode abalar o círculo e permitir que uma perigosa ameaça ressurja aos poucos, como uma névoa. Para detê-la, Connor precisará novamente da família e dos amigos para despertar a força e a fúria que correm em seu sangue. Quem sabe pela última vez.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580414180"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580414189"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fHMbvgAACAAJ&dq=isbn:9788580414189&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fHMbvgAACAAJ&dq=isbn:9788580414189&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FEITI%C3%87O_DA_SOMBRA.html?hl=&id=fHMbvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fHMbvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Segundo livro da trilogia Primos O’Dwyer, Feitiço da sombra é uma emocionante história sobre os maiores poderes mágicos que existem: o amor, a amizade e a família."
+   }
+  }
+ ]
+}

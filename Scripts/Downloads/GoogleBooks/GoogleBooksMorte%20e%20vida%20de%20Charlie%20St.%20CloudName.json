@@ -1,0 +1,107 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9boGtVJjCa8C",
+   "etag": "0e9UiOQ325Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9boGtVJjCa8C",
+   "volumeInfo": {
+    "title": "Morte e vida de Charlie St. Cloud",
+    "subtitle": "Um coração dividido entre dois mundos",
+    "authors": [
+     "Ben Sherwood"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2012-08-16",
+    "description": "Em uma pacata vila de pescadores da Nova Inglaterra, Charlie St. Cloud cuida dos gramados e monumentos de um antigo cemitério onde seu irmão mais jovem, Sam, está enterrado. Após sobreviver ao acidente de carro que tirou a vida de seu irmão, Charlie recebe um dom extraordinário: ele consegue enxergar, conversar e até mesmo brincar com o espírito de Sam. É nesse mundo místico que entra Tess Carroll, uma cativante mulher treinando para navegar sozinha ao redor do mundo em um veleiro. O destino faz com que seu barco seja apanhado por uma violenta tempestade, trazendo-a, assim, para a vida de Charlie. Sua bela e incomum ligação os leva a uma corrida contra o tempo e a uma escolha entre a vida e a morte, entre o passado e o futuro, entre apegar-se ou deixar o passado para trás - e à descoberta de que milagres podem acontecer se nós simplesmente abrirmos nosso coração.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581631226"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581631223"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.33.32.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9boGtVJjCa8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9boGtVJjCa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9boGtVJjCa8C&printsec=frontcover&dq=Morte+e+vida+de+Charlie+St.+Cloud&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9boGtVJjCa8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9boGtVJjCa8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9boGtVJjCa8C&rdid=book-9boGtVJjCa8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9400000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Morte_e_vida_de_Charlie_St_Cloud-sample-epub.acsm?id=9boGtVJjCa8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Morte_e_vida_de_Charlie_St_Cloud-sample-pdf.acsm?id=9boGtVJjCa8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9boGtVJjCa8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em uma pacata vila de pescadores da Nova Inglaterra, Charlie St. Cloud cuida dos gramados e monumentos de um antigo cemitério onde seu irmão mais jovem, Sam, está enterrado."
+   }
+  }
+ ]
+}

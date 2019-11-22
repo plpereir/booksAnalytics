@@ -1,0 +1,844 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 182,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kOaICgAAQBAJ",
+   "etag": "Eqfe9wHYuPA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kOaICgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Catador de Sonhos",
+    "subtitle": "O empresário visionário que começou como catador de latinhas ensina tudo o que você precisa saber sobre otimismo, superação e determinação",
+    "authors": [
+     "Geraldo Rufino"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "Ele já quebrou seis vezes e saiu de todas elas mais sábio – e mais rico. É comum que as pessoas se abalem com mais facilidade quando enfrentam os revezes da vida, e, ainda pior, quando enfrentam uma crise muitas vezes desistem sem sequer tentar virar o jogo. De onde vem tanto desânimo, tanta falta de fé? Geraldo Rufino é o exemplo de que basta mudar o modo de pensar e todos os caminhos podem se abrir. Não sem trabalhar muito, é claro. Trabalhar muito com o espírito e a mente é a formula do sucesso que Rufino conseguiu desenvolver. O homem que começou a vida como catador de lixo reciclável nunca perdeu o sucesso de vista, e hoje é presidente da JR Diesel, cujo faturamento é superior a 50 milhões de reais por ano. Empreendedor visionário, trabalhador incansável, otimista incorrigível, Geraldo Rufino ensina como transformar sua vida e seu negócio para nunca mais se sentir vencido. Comece hoje a: - Enxergar oportunidades em cenários diversificados. - Não se deixar abalar pelas crises. - Manter a credibilidade em momentos críticos. - Gerir uma equipe que tatua o nome da empresa na alma - Fazer do seu sucesso uma fonte de sucesso para a sua família. - E muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200727"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200722"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kOaICgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kOaICgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kOaICgAAQBAJ&printsec=frontcover&dq=O+catador+de+sonhos&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kOaICgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kOaICgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.45,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.81,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kOaICgAAQBAJ&rdid=book-kOaICgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.045E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9810000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Catador_de_Sonhos-sample-epub.acsm?id=kOaICgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Catador_de_Sonhos-sample-pdf.acsm?id=kOaICgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kOaICgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Geraldo Rufino é o exemplo de que basta mudar o modo de pensar e todos os caminhos podem se abrir. Não sem trabalhar muito, é claro. Trabalhar muito com o espírito e a mente é a formula do sucesso que Rufino conseguiu desenvolver."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Dv1mDwAAQBAJ",
+   "etag": "hc6/Bqc6Hqg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Dv1mDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O poder da simplicidade no mundo ágil",
+    "subtitle": "Como desenvolver soft skills e aplica-las com scrum e design thinking para ter mais resultado com menos trabalho, em menor tempo",
+    "authors": [
+     "Susanne Andrade"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2018-09-01",
+    "description": "A simplicidade é o caminho para a agilidade na busca de resultados nas empresas e para a felicidade profissional. Você se sente sobrecarregado a ponto de perder a energia para o trabalho e para a vida? Também sente que não produz tanto quanto deseja? Vê que as relações estão cada dia mais desgastadas, especialmente no mundo do trabalho? A boa notícia é saber que em meio a tudo isso existe saída. Neste livro, Susanne Andrade vai apresentar a você o Modelo Ágil Comportamental (MAC), criado para dar conta desse cenário. Você já imaginou fazer parte de um ambiente mais colaborativo na empresa, que lhe proporciona maior produtividade e felicidade? É possível, sim, conquistar tudo isso a partir de uma liderança mais humanizada, na qual todas as pessoas devem se engajar, sejam gestores ou não. Apesar de vivermos em um mundo complexo, a simplicidade é o caminho para conquistarmos essa realidade que acabamos de descrever. O mundo está mudando, sobretudo o corporativo. A simplicidade corresponde a tudo o que não é excesso e desperdício, é a essência das coisas e das pessoas. Na simplicidade não há exageros, mas sim o que se é, de maneira genuína e autêntica. Aqui você vai aprender de maneira prática a: •Identificar o seu propósito; •Investir em sua inteligência emocional; •Assumir o protagonismo, ousar e ter atitude; •Construir um ambiente colaborativo; •Liderar de maneira humanizada; •Flexibilizar, inovar a dar adeus ao medo de errar; •Encantar seus clientes. Aplique esse modelo e verá que tudo será mais fácil e mais leve!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202790"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202792"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Dv1mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Dv1mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Dv1mDwAAQBAJ&pg=PT100&dq=O+catador+de+sonhos&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Dv1mDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Dv1mDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.74,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Dv1mDwAAQBAJ&rdid=book-Dv1mDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.674E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.674E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_simplicidade_no_mundo_%C3%A1gil-sample-epub.acsm?id=Dv1mDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_simplicidade_no_mundo_%C3%A1gil-sample-pdf.acsm?id=Dv1mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Dv1mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Há uma bela frase de Geraldo Rufino, autor do livro \u003cb\u003eO catador de sonhos\u003c/b\u003e: “Mude \u003cbr\u003e\no que é possível e aceite o que não pode mudar”. E é assim que devemos nos \u003cbr\u003e\nposicionar diante da vida: fazer tudo o que está ao nosso alcance, decidindo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4ANfDwAAQBAJ",
+   "etag": "BrGukLf8yiU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4ANfDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O poder da positividade",
+    "subtitle": "Os 7 princípios para blindar a sua mente e transformar a sua vida",
+    "authors": [
+     "Geraldo Rufino"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2018-06-30",
+    "description": "Como ser feliz e positivo num mundo que nos apresenta o caos e o pessimismo diariamente? Grande parte das pessoas está infeliz, mas não sabe muito bem onde buscar a felicidade. Elas se sentem exaustas, cansadas da própria vida, como se todos os seus problemas fossem insolúveis. Pensam e agem com base na negatividade. Enfrentar os problemas as leva a viverem sem esperança. Será que existe alguma maneira de mudar essa realidade e viver de uma maneira plena? A marca registrada de Geraldo Rufino é a positividade. De acordo com o ponto de vista dele, o que nos acontece é sempre o melhor, ainda que não enxerguemos assim no início. Afinal, Deus só faz o melhor para nós. E é disso que trata este livro: de como nos mantermos dentro de nossos valores é a única maneira de tornarmos a nossa vida bem-sucedida em todas as áreas, não importa os problemas que tenhamos de enfrentar. São os valores que nos levam adiante, assim como tem acontecido nas quase seis décadas de vida do Geraldo Rufino. Com valores bem cultivados, o restante será apenas consequência. Aqui você verá que: •Família é a base; •Humildade é algo que precisamos ter incondicionalmente; •Positividade é fundamental, pois você é aquilo que pensa; •Paixão é o que faz com que o Universo coloque tudo onde deveria estar; •Não julgar é essencial para tratarmos todos como nossos semelhantes, uma vez que somos interdependentes; • Praticar o bem não importa a quem é uma máxima que devemos adotar como lema; • Ser feliz é muito fácil: basta pensarmos que todos os dias ganhamos novamente o direito a mais um dia de vida!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202646"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202644"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4ANfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4ANfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4ANfDwAAQBAJ&printsec=frontcover&dq=O+catador+de+sonhos&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4ANfDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4ANfDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.54,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4ANfDwAAQBAJ&rdid=book-4ANfDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.254E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.161E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_positividade-sample-epub.acsm?id=4ANfDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_poder_da_positividade-sample-pdf.acsm?id=4ANfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4ANfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pensam e agem com base na negatividade. Enfrentar os problemas as leva a viverem sem esperança. Será que existe alguma maneira de mudar essa realidade e viver de uma maneira plena? A marca registrada de Geraldo Rufino é a positividade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BrSnq62U2T8C",
+   "etag": "G4MBPpaJaJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BrSnq62U2T8C",
+   "volumeInfo": {
+    "title": "O Catador de Pregos",
+    "publisher": "Bookess",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788562418181"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8562418188"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BrSnq62U2T8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BrSnq62U2T8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BrSnq62U2T8C&pg=PA3&dq=O+catador+de+sonhos&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BrSnq62U2T8C&dq=O+catador+de+sonhos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Catador_de_Pregos.html?hl=&id=BrSnq62U2T8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BrSnq62U2T8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esses lugares, esses tempos, nascem na cabeça dos homens e mulheres, nas \u003cbr\u003e\nsuas narrativas, nos seus \u003cb\u003esonhos\u003c/b\u003e, no vazio de seus corações. A nosso busca \u003cbr\u003e\ncom este e tentar construir dentro do universo da pedagogia da autonomia,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YtXtSAAACAAJ",
+   "etag": "e/xM6PnUxy4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YtXtSAAACAAJ",
+   "volumeInfo": {
+    "title": "O catador de lixo",
+    "subtitle": "e o bracelete persa",
+    "authors": [
+     "Velma Damasceno"
+    ],
+    "publishedDate": "2008",
+    "description": "Após sonhar com uma volta ao passado, Pedro acorda e encontra sobre a cômoda de seu quarto objetos pertencentes a seis séculos a.C., objetos esses que estavam em seu sonho. Amedrontado, ele esconde um desses objetos - um bracelete raro com a simbologia dos persas - e passa a investigar esse mistério. 'O Catador de Lixo' é o primeiro romance de uma série de três volumes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576791307"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576791300"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 151,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YtXtSAAACAAJ&dq=O+catador+de+sonhos&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YtXtSAAACAAJ&dq=O+catador+de+sonhos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_catador_de_lixo.html?hl=&id=YtXtSAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YtXtSAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Amedrontado, ele esconde um desses objetos - um bracelete raro com a simbologia dos persas - e passa a investigar esse mistério. &#39;O Catador de Lixo&#39; é o primeiro romance de uma série de três volumes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f7U1DwAAQBAJ",
+   "etag": "Md544T6qgYA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f7U1DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Seminários sobre análise de sonhos",
+    "subtitle": "Notas do Seminário dado em 1928-1930 por C. G. Jung",
+    "authors": [
+     "Carl Gustav Jung"
+    ],
+    "publisher": "Editora Vozes Limitada",
+    "publishedDate": "2017-08-29",
+    "description": "No começo de novembro de 1928, Jung iniciou o seminário sobre Análise de Sonhos, ao qual este volume é dedicado. Em encontros semanais, interrompidos por recessos sazonais de um mês ou mais, o seminário perdurou até o final de junho de 1930. Nestes seminários, Jung expôs seus conceitos psicológicos e seus métodos analíticos, bem como suas visões sobre a sociedade, o indivíduo, a religião, a história e muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532655936"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8532655939"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 760,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f7U1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f7U1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f7U1DwAAQBAJ&pg=PT162&dq=O+catador+de+sonhos&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=f7U1DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-f7U1DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 120.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 120.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=f7U1DwAAQBAJ&rdid=book-f7U1DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.209E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.209E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Semin%C3%A1rios_sobre_an%C3%A1lise_de_sonhos-sample-epub.acsm?id=f7U1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Semin%C3%A1rios_sobre_an%C3%A1lise_de_sonhos-sample-pdf.acsm?id=f7U1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f7U1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sigg: Quem é o “eu” em seu \u003cb\u003esonho\u003c/b\u003e? Não seria ele o homem domesticado? Dr. \u003cbr\u003e\nJung: \u003cb\u003eO catador\u003c/b\u003e de galinhas não é o homem convencional. O homem \u003cbr\u003e\nconvencional é aquele que persegue prostitutas. Seu exterior convencional saiu \u003cbr\u003e\ncom as&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aW1GDwAAQBAJ",
+   "etag": "8BERfAMMHCM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aW1GDwAAQBAJ",
+   "volumeInfo": {
+    "title": "História dos catadores no Brasil",
+    "subtitle": "",
+    "authors": [
+     "Antonio de Pádua Bosi"
+    ],
+    "publisher": "Edições Verona",
+    "publishedDate": "2018-01-11",
+    "description": "“História dos Catadores no Brasil” investiga homens e mulheres que viveram e vivem do trabalho com o lixo. Essa atividade é antiga. Remonta a Atenas do século 500 a.C., criadora do primeiro lixão onde trabalhadores “especializados” nessa função recolhiam e transportavam os dejetos para fora da cidade. Junto ao manejo do lixo, a reciclagem também é uma prática antiga. No Velho Testamento, por volta do século VIII a.C., Isaías propôs que se fizessem relhas e arados de lanças e foices. Evidências como essas cortaram toda a Idade Média até o século XVIII, quando a reciclagem tornou-se um negócio, conectando pobreza, lixo e reciclagem. Esse raciocínio ajuda a explicar o estigma historicamente construído sobre as pessoas que trabalham com o lixo alheio. Ajuda também a desenvolver a hipótese de que a reciclagem transformou-se numa atividade comercial apenas com o capitalismo, a partir dos séculos XVIII e XIX. Tais questões são levadas e comparadas à realidade brasileira dos últimos 200 anos. Nesse período, chega-se à presença dos catadores, vistos como uma parte bastante desgastada do mundo do trabalho. São trabalhadores anônimos, mostrados por rara documentação que deles fala indiretamente. Os catadores receberam maior atenção a partir da década de 1950, quando se fizeram mais visíveis nas grandes cidades. Desse ponto, que conduz até o final do livro, o roteiro da pesquisa e da narrativa prioriza a investigação sobre quem são os catadores, o que eles pensam que são e o que foram, e como eles gostariam de ser.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788567476216"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8567476216"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aW1GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aW1GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aW1GDwAAQBAJ&pg=PT152&dq=O+catador+de+sonhos&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aW1GDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aW1GDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aW1GDwAAQBAJ&rdid=book-aW1GDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_dos_catadores_no_Brasil-sample-epub.acsm?id=aW1GDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_dos_catadores_no_Brasil-sample-pdf.acsm?id=aW1GDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aW1GDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A aprovação dessa lei deixou as cooperativas de \u003cb\u003ecatadores\u003c/b\u003e virtualmente mais \u003cbr\u003e\npróximas de algum tipo de prestação de ... Seu \u003cb\u003esonho\u003c/b\u003e, registrado na \u003cbr\u003e\ndocumentação dos Congressos e Encontros do MNCR, era que os \u003cb\u003ecatadores\u003c/b\u003e se \u003cbr\u003e\nreunissem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ISbaswEACAAJ",
+   "etag": "hzfFlYcAKw8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ISbaswEACAAJ",
+   "volumeInfo": {
+    "title": "O Catador De Papéis",
+    "authors": [
+     "Henry Pablo"
+    ],
+    "description": "Ao arrastar o carrinho de madeira cheio de papéis, o catador de imagens exercita seu corpo esquelético antes da hora do rush, antes que a chuva caia e o arraste mundo afora. Nas laterais do carrinho, o número 89 pintado em branco. O número da sorte. Seu número de registro no sindicato dos sonhos perdidos. Na parte traseira do carrinho, uma placa presa com fios de cobre encontrados num bueiro, esclarece: “Desculpem-nos pelo transtorno. Estamos trabalhando por você”.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8551601156"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551601150"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ISbaswEACAAJ&dq=O+catador+de+sonhos&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ISbaswEACAAJ&dq=O+catador+de+sonhos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Catador_De_Pap%C3%A9is.html?hl=&id=ISbaswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ISbaswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao arrastar o carrinho de madeira cheio de papéis, o catador de imagens exercita seu corpo esquelético antes da hora do rush, antes que a chuva caia e o arraste mundo afora."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f_7BDAAAQBAJ",
+   "etag": "oQKLfBuVL50",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f_7BDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Pense dentro da caixa",
+    "subtitle": "Aprenda a enxergar oportunidades e empreenda em qualquer cenário",
+    "authors": [
+     "Thiago Oliveira"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-08-30",
+    "description": "Do empresário que já foi office boy e e construiu uma grande empresa em um mercado bilionário! Muitas pessoas acreditam que apenas ideias revolucionárias são capazes de trazer inovação, que para empreender você precisa ser um gênio inventor. Thiago Oliveira veio para provar que isso não existe. Ele acredita que a sua grande chance de inovar pode partir justamente de resolver problemas do cotidiano. E mais: você pode inovar em processos que são os mais tediosos, e isso vale milhões! Neste livro, você vai descobrir que a chave para a prosperidade pode estar na sua frente. O autor ensina a enxergar, dentro da caixa \"trabalho\" já existente, as oportunidades para fazer diferente. - Aprenda a encontrar brechas para agir. - Saiba como visualizar oportunidades onde menos imaginava. - Entenda como os processos mais chatos do seu cotidiano podem ser uma oportunidade de negócio. - Aprenda a planejar a estratégia do seu negócio. - Encontre satisfação pessoal, profissional e financeira. \"Thiago Oliveira é um exemplo no qual todos os brasileiros precisam se espelhar. Apesar da pouca idade, ele é um empreendedor nato, que tem foco em cuidar da equipe e dos clientes como se fossem sua família. Neste livro ele nos mostra como o mundo ainda está cheio de problemas a serem resolvidos por pessoas comuns como você e eu. É o livro certo para quem precisa dar uma virada na empresa ou na carreira.\" Geraldo Rufino, Fundador da JR Diesel e autor do best-seller O catador de sonhos \"Pense dentro da caixa é uma resposta às indagações da nova geração empreendedora. Thiago Oliveira sabe que o segredo do empreendedor de sucesso é olhar para o dia a dia com foco de melhorar o mundo em que vivemos.\" Bruno Caetano, Superintendente do Sebrae-SP",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545201212"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545201214"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f_7BDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f_7BDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f_7BDAAAQBAJ&printsec=frontcover&dq=O+catador+de+sonhos&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=f_7BDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-f_7BDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=f_7BDAAAQBAJ&rdid=book-f_7BDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pense_dentro_da_caixa-sample-epub.acsm?id=f_7BDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pense_dentro_da_caixa-sample-pdf.acsm?id=f_7BDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f_7BDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Muitas pessoas acreditam que apenas ideias revolucionárias são capazes de trazer inovação, que para empreender você precisa ser um gênio inventor. Thiago Oliveira veio para provar que isso não existe."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JAVgAAAAMAAJ",
+   "etag": "B8ZI/usSzOQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JAVgAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Ciência & saude coletiva",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059172149000031"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JAVgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JAVgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JAVgAAAAMAAJ&q=O+catador+de+sonhos&dq=O+catador+de+sonhos&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JAVgAAAAMAAJ&dq=O+catador+de+sonhos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ci%C3%AAncia_saude_coletiva.html?hl=&id=JAVgAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JAVgAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "única opção viável, que ele percebe, no momento, é passar de \u003cb\u003ecatador\u003c/b\u003e para \u003cbr\u003e\natravessador, ou seja, em vez de vender o material, ele compraria para ... É \u003cbr\u003e\ninteressante observar que a condição de inserção permite \u003cb\u003esonhos\u003c/b\u003e, antes \u003cbr\u003e\nimpossíveis."
+   }
+  }
+ ]
+}

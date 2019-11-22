@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "m5xpAAAAMAAJ",
+   "etag": "MaQ+j9NyC94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m5xpAAAAMAAJ",
+   "volumeInfo": {
+    "title": "A hora da estrela",
+    "authors": [
+     "Clarice Lispector"
+    ],
+    "publishedDate": "1998",
+    "description": "A história da nordestina Macabéa é contada passo a passo pelo escritor Rodrigo S.M., alter-ego de Clarice Lispector, de um modo que busca permitir aos leitores acompanhar o seu processo de criação. O autor faz o relato da vida triste e sem perspectiva da alagoana Macabéa, pontuada com as informações do 'Você sabia?' da rádio Relógio, sinistro metrônomo a comandar o ritmo de seus últimos dias de vida. Para a cartomante Carlota, a quem Macabéa procura em busca de um sopro de esperança, esses dias derradeiros deveriam ser coroados com o casamento com um estrangeiro rico. Mas, ironicamente, Macabéa termina sob as rodas de um automóvel de luxo Mercedes-Benz.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015070707065"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 87,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian literature"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m5xpAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m5xpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=m5xpAAAAMAAJ&dq=isbn:9788532508126&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=m5xpAAAAMAAJ&dq=isbn:9788532508126&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_hora_da_estrela.html?hl=&id=m5xpAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m5xpAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A história da nordestina Macabéa é contada passo a passo pelo escritor Rodrigo S.M., alter-ego de Clarice Lispector, de um modo que busca permitir aos leitores acompanhar o seu processo de criação."
+   }
+  }
+ ]
+}

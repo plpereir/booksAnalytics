@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "w45071ysS5AC",
+   "etag": "s+icw8VPyvw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w45071ysS5AC",
+   "volumeInfo": {
+    "title": "O Pequeno Principe",
+    "subtitle": "Edition en langue portugaise",
+    "authors": [
+     "Antoine de Saint-Exupéry",
+     "Dom Marcos Barbosa"
+    ],
+    "publisher": "Agir Editora",
+    "publishedDate": "2004-01-01",
+    "description": "Esta nova impressão de O Pequeno Príncipe, de Antoine de Saint-Exupéry, está totalmente em conformidade com a edição original americana, a única feita com o autor em vida, em 1943. Saint-Exupéry, exilado nos Estados Unidos de 1941 a 1943 e impossibilitado de manter um relacionamento mais próximo com seu editor parisiense, confiou à editora nova-iorquina Reynal & Hitchcock o sonho de publicar as duas primeiras edições da obra, uma em francês e outra em inglês, ambas reproduzindo as célebres aquarelas. Somente três anos mais tarde, a 30 de novembro de 1945, saía da gráfica a 1a edição de O Pequeno Príncipe na França, pela Librairie Gallimard. Comparando-se as duas edições americanas de 1943 com a edição póstuma francesa de 1945, verificamos diferenças significativas na reprodução dos desenhos de Saint-Exupéry. Por que tantas variações? Como o gráfico francês não dispunha dos desenhos originais do autor, ele partiu das ilustrações de uma das duas edições que poderemos julgar muito \"avivadas\" ou \"remontadas\". As pinceladas, ainda bem visíveis na edição de 1943, desapareceram sob o efeito do polimento das cores, e muitos detalhes foram alterados. Portanto, decidimos, usando os meios técnicos de que dispomos, publicar esta nova impressão de O Pequeno Príncipe a partir da edição norte-americana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522005230"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522005239"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Princes"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 72,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w45071ysS5AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w45071ysS5AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=w45071ysS5AC&dq=isbn:9788522005239&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=w45071ysS5AC&dq=isbn:9788522005239&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Pequeno_Principe.html?hl=&id=w45071ysS5AC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w45071ysS5AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta nova impressão de O Pequeno Príncipe, de Antoine de Saint-Exupéry, está totalmente em conformidade com a edição original americana, a única feita com o autor em vida, em 1943."
+   }
+  }
+ ]
+}

@@ -1,0 +1,676 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 8,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XqOHPgAACAAJ",
+   "etag": "LsnjZr6p1MQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XqOHPgAACAAJ",
+   "volumeInfo": {
+    "title": "A invenção de Hugo Cabret",
+    "authors": [
+     "Brian Selznick",
+     "Marcos Bagno"
+    ],
+    "publishedDate": "2007",
+    "description": "Hugo Cabret é um menino órfão que vive escondido na central de trem de Paris dos anos 1930. Esgueirando-se por passagens secretas, Hugo cuida dos gigantescos relógios do lugar - escuta seus compassos, observa os enormes ponteiros e responsabiliza-se pelo funcionamento das máquinas. A sobrevivência de Hugo depende do anonimato - ele tenta se manter invisível porque guarda um incrível segredo, que é posto em risco quando o severo dono da loja de brinquedos da estação e sua afilhada cruzam o caminho do garoto. Um desenho enigmático, um caderno valioso, uma chave roubada e um homem mecânico estão no centro desta história, que, narrada por texto e imagens, procura misturar elementos dos quadrinhos e do cinema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576752034"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576752035"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 533,
+    "printType": "BOOK",
+    "categories": [
+     "France"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XqOHPgAACAAJ&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XqOHPgAACAAJ&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_inven%C3%A7%C3%A3o_de_Hugo_Cabret.html?hl=&id=XqOHPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XqOHPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hugo Cabret é um menino órfão que vive escondido na central de trem de Paris dos anos 1930."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u_gkDwAAQBAJ",
+   "etag": "eg8C7TcES2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u_gkDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pesquisa Narrativa",
+    "subtitle": "interfaces entre histórias de vida, arte e educação",
+    "authors": [
+     "Raimundo Martins, Irene Tourinho e Elizeu Clementino de Souza _Organizadores_"
+    ],
+    "publisher": "Fundação de Apoio a Tecnologia e Ciencia - Editora UFSM ",
+    "publishedDate": "2017-05-24",
+    "description": "Este livro reune textos que exploram e discutem as narrativas como espacos de pesquisa e de _acontecimentos_ pedagogicos. Pesquisadores de seis paises examinam conceitos, praticas e processos que envolvem narrativas, a partir de diferentes perspectivas, configurando os modos como elas constituem a vida dos sujeitos, suas relacoes com a arte e a educacao compartilhando investigacoes acerca do tema. Narrativas sao construidas na experiencia como atos de formacao e transformacao de episodios que, elaborados, produzem diversas temporalidades, novas significacoes e outras historias de vida. Investindo na capacidade humana de olhar a arte e a educacao de forma sensivel e critica, esta publicacao prioriza encontros, aprendizagens e partilhas interpretados a partir do impacto afetivo e relacional de vivencias cotidianas, que, por suas relacoes com as disposicoes humanas para narrar, se transformam em fontes privilegiadas para a pesquisa narrativa e o estudo das interfaces entre historias de vida, arte e educacao.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573912944"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573912944"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 374,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u_gkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u_gkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u_gkDwAAQBAJ&pg=PT261&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u_gkDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u_gkDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 42.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u_gkDwAAQBAJ&rdid=book-u_gkDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.2E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pesquisa_Narrativa-sample-epub.acsm?id=u_gkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pesquisa_Narrativa-sample-pdf.acsm?id=u_gkDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u_gkDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tradução de Gonçalo Zagalo Pereira. Universidade Nova de Lisboa, 17 mar. \u003cbr\u003e\n2011. Disponível em: &lt;http://www.anped.org.br/sites/default/files/trabalho-gt17-\u003cbr\u003e\n3575.pdf&gt;. Acesso em: 08 mai. 2014. Filmografia \u003cb\u003eA INVENÇÃO de Hugo Cabret\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "92A-DwAAQBAJ",
+   "etag": "lZMdTl63Aag",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/92A-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Discurso, Cinema e Educação: Metáforas Visuais em Abril Despedaçado",
+    "authors": [
+     "Ana Cristina Abrantes"
+    ],
+    "publisher": "Appris Editora e Livraria Eireli - ME",
+    "publishedDate": "2017-11-06",
+    "description": "Tempo, espaço, conflito, amor, permanência e mudança são conceitos tão fundamentais para nós quanto de difícil apreensão, exigindo trabalho imaginativo para os figurar. A pesquisa de Ana Cristina, por meio da ideia da metáfora visual e do discurso não verbal, torna visível tais questões intangíveis que são a matéria prima pictórica do filme Abril Despedaçado. O sertão está em todos nós como imagens do profundo; é o que a bela análise da autora nos mostra ao recontar academicamente a grande obra de Walter Salles. A obra Discurso, Cinema e Educação se destina a todos os amantes da sétima arte, quer atores, quer espectadores. Tem o objetivo de instruir e de entreter por intermédio das várias imagens recortadas do cinema nacional e internacional com as quais o leitor se identificará de imediato. O texto é fluido e redigido com o intuito de aproximar o leitor dos temas abordados. Independentemente se o leitor é educador, pesquisador, estudante ou mero curioso, sentirá o prazer de se ligar à autora durante uma \"viagem\" imaginária e sensível por meio desta análise lúdica das metáforas visuais presentes no cinema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547307141"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547307141"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 121,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=92A-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=92A-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=92A-DwAAQBAJ&pg=PT44&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=92A-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-92A-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=92A-DwAAQBAJ&rdid=book-92A-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Discurso_Cinema_e_Educa%C3%A7%C3%A3o_Met%C3%A1foras-sample-epub.acsm?id=92A-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Discurso_Cinema_e_Educa%C3%A7%C3%A3o_Met%C3%A1foras-sample-pdf.acsm?id=92A-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=92A-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Da mesma forma se pode observar a presença do relógio em filmes tais quais \u003cbr\u003e\nAlice Através do Espelho, \u003cb\u003eA Invenção de Hugo Cabret\u003c/b\u003e, Mulher Maravilha e \u003cbr\u003e\nCinderela. Alice Através do Espelho (James Bobin, 2016) conta a história da \u003cbr\u003e\njovem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pNRSDwAAQBAJ",
+   "etag": "lrrd2qkIx/8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pNRSDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Luz, câmera e história",
+    "subtitle": "Práticas de ensino com o cinema",
+    "authors": [
+     "Rodrigo de Almeida Ferreira"
+    ],
+    "publisher": "Autêntica",
+    "publishedDate": "2018-04-01",
+    "description": "Luz, câmera e história entrecruza cinema, ensino e história no exercício da educação do olhar – uma abertura de janelas para ver, sentir, ler, interpretar e analisar representações cinematográficas dos sujeitos e grupos sociais no processo histórico. A complexa relação entre o cinema e a história no campo educativo é percorrida, aqui, considerando-se propostas teórico-metodológicas que potencializam o uso do filme na educação. Assim, são apresentadas reflexões sobre cinema-história e ações educacionais – pensadas para atividades nas escolas, nas universidades, em ações de extensão, em oficinas –, tendo em vista diferentes conteúdos e as necessidades dos alunos envolvidos em cada projeto. Com o objetivo de estimular a reflexão sobre os sentidos produzidos pela linguagem fílmica nos caminhos do ensino e da aprendizagem de história, Luz, câmera e história estabelece diálogos com professores e estudantes, e está aberto aos interessados no debate sobre as narrativas cinematográficas da história.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551302989"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551302981"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pNRSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pNRSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pNRSDwAAQBAJ&pg=PT56&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pNRSDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pNRSDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 59.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pNRSDwAAQBAJ&rdid=book-pNRSDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.98E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.98E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Luz_c%C3%A2mera_e_hist%C3%B3ria-sample-epub.acsm?id=pNRSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Luz_c%C3%A2mera_e_hist%C3%B3ria-sample-pdf.acsm?id=pNRSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pNRSDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O filme \u003cb\u003eA invenção de Hugo Cabret\u003c/b\u003e (2011, originalmente Hugo) apresenta \u003cbr\u003e\naspectos do cinema de Méliès a partir da perspectiva de um menino de 12 anos. \u003cbr\u003e\nO filme, de Martin Scorsese, é baseado no livro infantojuvenil A invenção de \u003cbr\u003e\nHugo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rt2FBwAAQBAJ",
+   "etag": "wNPUeRgqqt8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rt2FBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Introdução a Computação",
+    "subtitle": "",
+    "authors": [
+     "Gilberto Farias de Sousa Filho",
+     "Eduardo de Santana Medeiros Alexandre"
+    ],
+    "publisher": "Editora da UFPB",
+    "publishedDate": "2014-03-01",
+    "description": "Livro utilizado no curso de licenciatura em computação à distância na UFPB",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788523708924"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8523708928"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rt2FBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rt2FBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rt2FBwAAQBAJ&pg=PA62&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rt2FBwAAQBAJ&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introdu%C3%A7%C3%A3o_a_Computa%C3%A7%C3%A3o.html?hl=&id=rt2FBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Introdu%C3%A7%C3%A3o_a_Computa%C3%A7%C3%A3o-sample-pdf.acsm?id=rt2FBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rt2FBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Figura 5.3: (a) Autômato suíço do século XIX escrevendo um poema Figura 5.4: (\u003cbr\u003e\nb) Autômato do filme “\u003cb\u003eA Invenção de Hugo Cabret\u003c/b\u003e” Algoritmos podem ser \u003cbr\u003e\nimplementados em circuitos elétricos ou até mesmo em dispositivos mecânicos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LzlVCgAAQBAJ",
+   "etag": "P5+dPxJpNps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LzlVCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Cornucópia de Palavras: Penúltimas Crônicas",
+    "subtitle": "",
+    "authors": [
+     "Eucárdio Derroso"
+    ],
+    "publisher": "biblioteca24horas",
+    "publishedDate": "2015-04-09",
+    "description": "Este livro contém uma vida de crônicas, durante mais de quarenta anos de escrita do autor. A primeira parte representa as últimas produções de 2011 a 2015, contendo trabalhos publicados ou não. Escritos nesse período. Ao final, estão selecionadas algumas crônicas publicadas em livros anteriores, desde 1975, quando ocorreu a primeira edição do livro Muito Antes Pelo Contrário.Os assuntos tratados versam sobre tudo, desde uma visão romântica de uma paisagem até a discussão de assuntos mais sérios, no que a crônica significa para a literatura. Todas as matérias possuem um começo e um fim, uma mensagem, um dito, uma conclusão, um ensinamento.O resumo da obra pode ser enfocado na manifestação do grande Carlos Drumond de Andrade, quando afirmou, em carta ao autor, que \"seus textos são ágeis, leves de agradável leitura\". Antônio Soares, por sua vez, define: \"cada crônica é mais recipiente que outra. A última informando melhor que a anterior. Os temas são vibrantes e cheios de atualidade. Saltam de vertente a vertente. Elas informam, revelam e ensinam. São sérias, ironizam e brincam. Ora são meigas e fortes ou teóricas e opinativas\". \"Fecunda criatividade já dispersa em milhares de escritos\", conclui.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541608961"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541608964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 184,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LzlVCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LzlVCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LzlVCgAAQBAJ&pg=PA75&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LzlVCgAAQBAJ&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cornuc%C3%B3pia_de_Palavras_Pen%C3%BAltimas_Cr%C3%B4.html?hl=&id=LzlVCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LzlVCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Será que foi inventado pelos italianos ou já existiu um Eucárdio Roesslin na \u003cbr\u003e\nAlemanha como pioneiro da pediatria na ... de A verdadeira história de \u003cbr\u003e\nHugougougougo Cabretabretabretabret Quem assistiu ao filme “\u003cb\u003eA Invenção de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eHugo Cabret\u003c/b\u003e”&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IAp4DgAAQBAJ",
+   "etag": "9vZhQPJU/B8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IAp4DgAAQBAJ",
+   "volumeInfo": {
+    "title": "A busca sofrida de Martha Perdida",
+    "authors": [
+     "Caroline Wallace"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2017-04-10",
+    "description": "Um conto de fadas para adultos, uma mistura de A invenção de Hugo Cabret e O fabuloso destino de Amélie Poulain Martha está perdida. Ela esteve perdida desde que era apenas um bebê, abandonada em uma mala dentro do trem que ligava Paris a Liverpool; e, desde então, Martha aguarda na Estação Lime Street, na loja de achados e perdidos, que alguém venha buscá-la. Isso faz dezesseis anos, mas ela continua confiante. Obrigada por sua nova ‘Mãe’ – a dona da loja de achados e perdidos que a adotou porque não tinha outra opção – a trabalhar e atender os passageiros da estação, Martha se envolve em alguns mistérios: uma mala que talvez tenha pertencido aos Beatles, túneis secretos embaixo da estação, um soldado romano que aparece todos os dias às 17h37 em pleno ano de 1976; sem mencionar a maldição que envolve a própria Martha: ela nunca pode deixar a estação de trem de Liverpool, do contrário o lugar desabará. O maior de todos os mistérios tem um prazo urgente para ser solucionado: Martha anda recebendo cartas anônimas de alguém que sabe quem ela realmente é, e ela precisa de uma resposta para não se perder novamente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595170070"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "859517007X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.14.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IAp4DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IAp4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IAp4DgAAQBAJ&printsec=frontcover&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IAp4DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IAp4DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 26.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.7,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IAp4DgAAQBAJ&rdid=book-IAp4DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.6E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.47E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_busca_sofrida_de_Martha_Perdida-sample-epub.acsm?id=IAp4DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_busca_sofrida_de_Martha_Perdida-sample-pdf.acsm?id=IAp4DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IAp4DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um conto de fadas para adultos, uma mistura de A invenção de Hugo Cabret e O fabuloso destino de Amélie Poulain Martha está perdida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qM7wAwAAQBAJ",
+   "etag": "gqVMVIYHW/I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qM7wAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Se eu ficar",
+    "authors": [
+     "Gayle Forman"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2014-08-04",
+    "description": "Por que eu tenho a impressão de que você está prestes a mudar a minha vida? Em uma manhã de fevereiro, Mia sai para um passeio de carro. E, em um instante, tudo muda. Todas as escolhas se perderam, menos uma. A única que realmente importa. O livro está entre os mais vendidos em todo o Brasil desde a primeira semana do lançamento # O Livro foi adaptado para os cinemas e o filme será lançamento em setembro, no Brasil. Será protagonizado pela atriz Chloë Grace Moretz, famosa por filmes como a série Kick Ass e A Invenção de Hugo Cabret. # Livro Vencedor de 10 importantes prêmios literários no exterior, entre os mais recentes: Abraham Lincoln Award Nominee (2012) e Goodreads Choice Nominee for Young Adult Fiction (2009). # Conteúdo extra: Entrevista realizada pela autora Gayle Forman com os atores protagonistas do filme. Às vezes você faz escolhas na vida, e às vezes as escolhas fazem você. Essa é a beleza das coisas. Sinopse Depois do acidente, ela ainda consegue ouvir a música. Ela vê o seu corpo sendo tirado dos destroços do carro de seus pais – mas não sente nada. Tudo o que ela pode fazer é assistir ao esforço dos médicos para salvar sua vida, enquanto seus amigos e parentes aguardam na sala de espera... e o seu amor luta para ficar perto dela. Pelas próximas 24 horas, Mia precisa compreender o que aconteceu antes do acidente – e também o que aconteceu depois. Ela sabe que precisa fazer a escolha mais difícil de todas: se ela irá ficar. \"Impossível parar de ler\" - The Bookseller",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581635514"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581635512"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.26.24.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qM7wAwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qM7wAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qM7wAwAAQBAJ&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qM7wAwAAQBAJ&dq=A+inven%C3%A7%C3%A3o+de+Hugo+Cabret&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Se_eu_ficar.html?hl=&id=qM7wAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qM7wAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "# Conteúdo extra: Entrevista realizada pela autora Gayle Forman com os atores protagonistas do filme. Às vezes você faz escolhas na vida, e às vezes as escolhas fazem você. Essa é a beleza das coisas."
+   }
+  }
+ ]
+}

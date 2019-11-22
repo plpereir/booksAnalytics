@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kQzVuAEACAAJ",
+   "etag": "jITZvbhD8iU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kQzVuAEACAAJ",
+   "volumeInfo": {
+    "title": "Por Todas Nós",
+    "subtitle": "CONSELHOS QUE NÃO RECEBI SOBRE LUTA, AMOR E SER MU",
+    "authors": [
+     "Ellora Haonne"
+    ],
+    "publishedDate": "2018-07-10",
+    "description": "Uma das coisas mais complexas da vida é a luta para aceitar-se. Todos os dias, travamos uma batalha contra nós mesmas, nossos desejos, nossa sexualidade e nosso corpo. Nunca é o suficiente, sempre falta algo. POR TODAS NÓS surge como um ombro amigo e solidário, mostrando que não estamos sozinhas em nossos sofrimentos diários e precisamos questionar tudo aquilo que a sociedade impõe – sem julgamentos nem padrões preconcebidos. Ellora Haonne se despe de qualquer paradigma que você já leu antes e compartilha seus medos e suas experiências, dando conselhos que nunca deram a ela e pronta para lutar por aquilo que acredita!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582467540"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582467541"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kQzVuAEACAAJ&dq=isbn:9788582467541&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kQzVuAEACAAJ&dq=isbn:9788582467541&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Por_Todas_N%C3%B3s.html?hl=&id=kQzVuAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kQzVuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ellora Haonne se despe de qualquer paradigma que você já leu antes e compartilha seus medos e suas experiências, dando conselhos que nunca deram a ela e pronta para lutar por aquilo que acredita!"
+   }
+  }
+ ]
+}

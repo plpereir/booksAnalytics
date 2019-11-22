@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yuPyRgAACAAJ",
+   "etag": "+c0vHsxrPSU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yuPyRgAACAAJ",
+   "volumeInfo": {
+    "title": "Diário de um banana",
+    "subtitle": "a gota d'água",
+    "authors": [
+     "Jeff Kinney",
+     "Antonio de Macedo Soares"
+    ],
+    "publishedDate": "2010",
+    "description": "\"Greg Heffley não toma jeito mesmo. E a cada dia se envolve em mais confusão. O difícil é fazer seu pai engolir esse 'talento' de Greg para se meter em situações embaraçosas. Ele já está por aqui com o garoto. E para botar algum juízo na cabeça dele, Frank Heffley tenta de tudo um pouco.\" --P. [4] of cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576832291"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576832294"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+     "Diaries"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yuPyRgAACAAJ&dq=isbn:9788576832294&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yuPyRgAACAAJ&dq=isbn:9788576832294&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_de_um_banana.html?hl=&id=yuPyRgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yuPyRgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O difícil é fazer seu pai engolir esse &#39;talento&#39; de Greg para se meter em situações embaraçosas. Ele já está por aqui com o garoto. E para botar algum juízo na cabeça dele, Frank Heffley tenta de tudo um pouco.&quot;--Page 4 of cover."
+   }
+  }
+ ]
+}

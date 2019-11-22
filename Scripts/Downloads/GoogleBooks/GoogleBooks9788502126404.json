@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ITajZwEACAAJ",
+   "etag": "BqkXEje2/os",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ITajZwEACAAJ",
+   "volumeInfo": {
+    "title": "QUE A VIDA ME ENSINOU, O - WASHINGTON OLIVETTO",
+    "authors": [
+     "WASHINGTON OLIVETTO"
+    ],
+    "description": "No livro da coleção 'O que a vida me ensinou', Washington Olivetto conta a sua trajetória de vida e como se tornou um reconhecido publicitário brasileiro, trazendo, neste livro, lições e experiências vividas durante seus anos de carreira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502126407"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502126404"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ITajZwEACAAJ&dq=isbn:9788502126404&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ITajZwEACAAJ&dq=isbn:9788502126404&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/QUE_A_VIDA_ME_ENSINOU_O_WASHINGTON_OLIVE.html?hl=&id=ITajZwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ITajZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No livro da coleção &#39;O que a vida me ensinou&#39;, Washington Olivetto conta a sua trajetória de vida e como se tornou um reconhecido publicitário brasileiro, trazendo, neste livro, lições e experiências vividas durante seus anos de ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WDsKtwAACAAJ",
+   "etag": "p8U0ThiLLAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WDsKtwAACAAJ",
+   "volumeInfo": {
+    "title": "MULHERES INTELIGENTES, RELAÇOES SAUDAVEIS",
+    "authors": [
+     "AUGUSTO CURY"
+    ],
+    "description": "Este livro pretende apresentar diversos tipos de mulheres - as observadoras, as analíticas, as mulheres casulos, dentre outras, buscando trazer o lado positivo e negativo de cada comportamento. Cury aborda também outros temas do universo feminino, tais como a ditadura do ciúme, a generalização da crítica, o excesso de trabalho, o medo da perda. Ao final de cada capítulo o autor apresenta frases-conselhos destinada aos homens, para ajudá-los a refletir sobre as mulheres de sua vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576656221"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576656227"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WDsKtwAACAAJ&dq=isbn:9788576656227&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WDsKtwAACAAJ&dq=isbn:9788576656227&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MULHERES_INTELIGENTES_RELA%C3%87OES_SAUDAVEI.html?hl=&id=WDsKtwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WDsKtwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cury aborda também outros temas do universo feminino, tais como a ditadura do ciúme, a generalização da crítica, o excesso de trabalho, o medo da perda."
+   }
+  }
+ ]
+}

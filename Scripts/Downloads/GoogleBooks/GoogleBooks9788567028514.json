@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nXtVvgAACAAJ",
+   "etag": "W7wzVDcIaC8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nXtVvgAACAAJ",
+   "volumeInfo": {
+    "title": "A TEORIA DE TUDO",
+    "subtitle": "EXTRAORDINARIA HISTORIA DE JANE E STEPHEN HAWKING",
+    "authors": [
+     "JANE HAWKING",
+     "JULIO DE ANDRADE FILHO",
+     "SANDRA MARTHA DOLINSKY"
+    ],
+    "description": "Quando Jane conhece Stephen, percebe que está entrando para uma família que é pelo menos diferente. Com grande sede de conhecimento, os Hawking possuíam o hábito de levar material de leitura para o jantar, ir a óperas e concertos e estimular o brilhantismo em seus filhos - entre eles aquele que seria conhecido como um dos maiores gênios da humanidade, Stephen. Diagnosticado com esclerose lateral amiotrófica aos 21 anos, enquanto conhecia a jovem tímida Jane, Hawking superou todas as expectativas dos médicos sobre suas chances de sobrevivência a partir da perseverança de sua mulher. Mesmo ao descobrir que a condição de Stephen apenas pioraria, Jane seguiu firme na decisão de compartilhar a vida com aquele que havia lhe encantado. Ao contar uma trajetória de 25 anos de casamento e três filhos, ela mostra uma história universal e tocante, narrada sob um ponto de vista único. Stephen Hawking chega o mais próximo que alguém já conseguiu de explicar o sentido da vida, enquanto Jane nos mostra que já o conhecia desde sempre - ele está na nossa capacidade de amar e de superar limites em nome daqueles que escolhemos para compartilhar a vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8567028515"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788567028514"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nXtVvgAACAAJ&dq=isbn:9788567028514&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nXtVvgAACAAJ&dq=isbn:9788567028514&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_TEORIA_DE_TUDO.html?hl=&id=nXtVvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nXtVvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro que inspirou o emocionante filme A Teoria de Tudo."
+   }
+  }
+ ]
+}

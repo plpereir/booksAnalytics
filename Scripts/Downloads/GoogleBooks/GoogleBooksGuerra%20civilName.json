@@ -1,0 +1,711 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 292,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XDVGUR9dpcwC",
+   "etag": "zBmPIflviBg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XDVGUR9dpcwC",
+   "volumeInfo": {
+    "title": "Guerra civil",
+    "subtitle": "estado e trauma",
+    "authors": [
+     "Luís Mir"
+    ],
+    "publisher": "Geração Editorial",
+    "publishedDate": "2004",
+    "description": "Estudo sobre o conflito entre o Estado e os cidadãos no Brasil, conflito econômico e étnico, iniciado há cinco séculos e que se perpetua em forma de uma guerra civil. Destaca a saúde pública como objeto do descaso e negligência estatal e, em especial, o atendimento médico-hospitalar a traumas, responsáveis pela situação de calamidade e de guerra no país.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575091123"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575091128"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 956,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XDVGUR9dpcwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XDVGUR9dpcwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XDVGUR9dpcwC&printsec=frontcover&dq=Guerra+civil&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XDVGUR9dpcwC&dq=Guerra+civil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guerra_civil.html?hl=&id=XDVGUR9dpcwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guerra_civil-sample-pdf.acsm?id=XDVGUR9dpcwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XDVGUR9dpcwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Estudo sobre o conflito entre o Estado e os cidadãos no Brasil, conflito econômico e étnico, iniciado há cinco séculos e que se perpetua em forma de uma guerra civil."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PHIIAAAAQAAJ",
+   "etag": "y7APCi3yObU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PHIIAAAAQAAJ",
+   "volumeInfo": {
+    "title": "A guerra civil em Portugal, o sitio do Porto e a morte de don Pedro, por hum estrangeiro [H. Owen].",
+    "authors": [
+     "Hugh Owen"
+    ],
+    "publishedDate": "1836",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OXFORD:590741980"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PHIIAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PHIIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PHIIAAAAQAAJ&printsec=frontcover&dq=Guerra+civil&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PHIIAAAAQAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PHIIAAAAQAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=PHIIAAAAQAAJ&rdid=book-PHIIAAAAQAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_guerra_civil_em_Portugal_o_sitio_do_Po.pdf?id=PHIIAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2xfpgoS9Ty-HlH_M0q7iYU9V3qCw&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PHIIAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nLHqUV6u6sEC",
+   "etag": "crbTTtUxc24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nLHqUV6u6sEC",
+   "volumeInfo": {
+    "title": "Poesia galega - Das origens à Guerra Civil",
+    "authors": [
+     "FABIO ARISTIMUNHO VARGAS"
+    ],
+    "publisher": "hedra",
+    "description": "Esta coleção reúne uma seleção de poemas e autores representativos dos principais períodos históricos de cada literatura - Galega, Espanhola, Catalã e Basca - desde suas origens como manifestação literária, a partir do séc. XII, até a Guerra Civil Espanhola, encerrada em 1o de abril de 1939.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577151233"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577151239"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 126,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nLHqUV6u6sEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nLHqUV6u6sEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nLHqUV6u6sEC&printsec=frontcover&dq=Guerra+civil&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nLHqUV6u6sEC&dq=Guerra+civil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poesia_galega_Das_origens_%C3%A0_Guerra_Civi.html?hl=&id=nLHqUV6u6sEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nLHqUV6u6sEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta coleção reúne uma seleção de poemas e autores representativos dos principais períodos históricos de cada literatura - Galega, Espanhola, Catalã e Basca - desde suas origens como manifestação literária, a partir do séc."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BZPX0cifkB4C",
+   "etag": "iEu7QeQqUnk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BZPX0cifkB4C",
+   "volumeInfo": {
+    "title": "Poesia basca - Das origens à Guerra Civil",
+    "authors": [
+     "VARIOS AUTORES",
+     "Fábio Aristimunho Vargas"
+    ],
+    "publisher": "hedra",
+    "publishedDate": "2009",
+    "description": "Esta coleção reúne uma seleção de poemas e autores representativos dos principais períodos históricos de cada literatura - Galega, Espanhola, Catalã e Basca - desde suas origens como manifestação literária, a partir do séc. XII, até a Guerra Civil Espanhola, encerrada em 1o de abril de 1939.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577151202"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577151204"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BZPX0cifkB4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BZPX0cifkB4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BZPX0cifkB4C&printsec=frontcover&dq=Guerra+civil&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BZPX0cifkB4C&dq=Guerra+civil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poesia_basca_Das_origens_%C3%A0_Guerra_Civil.html?hl=&id=BZPX0cifkB4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BZPX0cifkB4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta coleção reúne uma seleção de poemas e autores representativos dos principais períodos históricos de cada literatura - Galega, Espanhola, Catalã e Basca - desde suas origens como manifestação literária, a partir do séc."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kPSuV4hYGTIC",
+   "etag": "YIIGarM8Bv0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kPSuV4hYGTIC",
+   "volumeInfo": {
+    "title": "Behemoth contra Leviatã - Guerra civil na filosofia de Thomas Hobbes",
+    "authors": [
+     "Nádia Souki"
+    ],
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "2008",
+    "description": "Um pensador entre dois mundos, suspenso entre o Renascimento e a Modernidade, Thomas Hobbes é, certamente, a maior expressão da filosofia política produzida em língua inglesa. Considerado por muitos o verdadeiro fundador da filosofia política moderna, seu pensamento só foi plenamente reconhecido entre os ingleses depois de ter atravessado o Canal da Mancha e ser recebido em Paris, por obra de Mersenne, Sorbière e Gassendi. De pensador maldito durante a guerra civil, passou a ser respeitado, depois da Restauração, como uma verdadeira instituição inglesa. É esse filósofo paradoxal que se descobre na presente obra como pensador da guerra e defensor da paz.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515034871"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8515034875"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 267,
+    "printType": "BOOK",
+    "categories": [
+     "Civil war"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kPSuV4hYGTIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kPSuV4hYGTIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kPSuV4hYGTIC&printsec=frontcover&dq=Guerra+civil&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kPSuV4hYGTIC&dq=Guerra+civil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Behemoth_contra_Leviat%C3%A3_Guerra_civil_na.html?hl=&id=kPSuV4hYGTIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kPSuV4hYGTIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um pensador entre dois mundos, suspenso entre o Renascimento e a Modernidade, Thomas Hobbes é, certamente, a maior expressão da filosofia política produzida em língua inglesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EYcDAAAAYAAJ",
+   "etag": "iJ1Pj1XKcmA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EYcDAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Historia da guerra civil e do estabele cimento do governo parlamentar em Portugal comprehedendo a historia diplomatics, militar e politica d'este reino desde 1777 até 1834",
+    "authors": [
+     "Simão José da Luz Soriano"
+    ],
+    "publishedDate": "1866",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:32044004543203"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EYcDAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EYcDAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EYcDAAAAYAAJ&printsec=frontcover&dq=Guerra+civil&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EYcDAAAAYAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EYcDAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=EYcDAAAAYAAJ&rdid=book-EYcDAAAAYAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_da_guerra_civil_e_do_estabele_c.epub?id=EYcDAAAAYAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_da_guerra_civil_e_do_estabele_c.pdf?id=EYcDAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0w7H0D9jfQXmRkt-_xZcYEVzramQ&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EYcDAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F85JBQAAQBAJ",
+   "etag": "relHoWyiZ+g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F85JBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Guerra Civil",
+    "subtitle": "Uma história do universo Marvel",
+    "authors": [
+     "Stuart Moore"
+    ],
+    "publisher": "Novo Século",
+    "publishedDate": "2014-11-11",
+    "description": "A épica história que provoca a separação do Universo Marvel! Homem de Ferro e Capitão América: dois membros essenciais para os Vingadores, a maior equipe de super-heróis do mundo. Quando uma trágica batalha deixa um buraco na cidade de Stamford, matando centenas de pessoas, o governo americano exige que todos os super-heróis revelem sua identidade e registrem seus poderes. Para Tony Stark – o Homem de Ferro – é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a Guerra Civil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542804546"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542804546"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F85JBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F85JBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F85JBQAAQBAJ&printsec=frontcover&dq=Guerra+civil&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=F85JBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-F85JBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=F85JBQAAQBAJ&rdid=book-F85JBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.32E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guerra_Civil-sample-epub.acsm?id=F85JBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guerra_Civil-sample-pdf.acsm?id=F85JBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F85JBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para Tony Stark – o Homem de Ferro – é um passo lamentável, porém necessário, o que o leva a apoiar a lei. Para o Capitão América, é uma intolerável agressão à liberdade cívica. Assim começa a Guerra Civil."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DDALAAAAIAAJ",
+   "etag": "kXPnOpnGQQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DDALAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Historia da Guerra Civil e do estabelecimento do governo parlamentar em Portugal: Primeira epocha (t.1-3) 1866-1879.-v.4-10.Segunda epocha; guerra da peninsula (t.1-5) 1870-1893.-v.11-19.Terceira epocha; estabelecimento do governo parlamentar (t.1-7) 1881-1890",
+    "authors": [
+     "Simao Jose da Luz Soriano"
+    ],
+    "publishedDate": "1867",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105014787035"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Portugal"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DDALAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DDALAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DDALAAAAIAAJ&printsec=frontcover&dq=Guerra+civil&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DDALAAAAIAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DDALAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=DDALAAAAIAAJ&rdid=book-DDALAAAAIAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_da_Guerra_Civil_e_do_estabeleci.epub?id=DDALAAAAIAAJ&hl=&output=epub&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Historia_da_Guerra_Civil_e_do_estabeleci.pdf?id=DDALAAAAIAAJ&hl=&output=pdf&sig=ACfU3U2qtCukIR-pGWqT5IZCExb6CsYZ0A&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DDALAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hJiLYRncldwC",
+   "etag": "hQF0j7XGW90",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hJiLYRncldwC",
+   "volumeInfo": {
+    "title": "Peguem a foice e vamos à luta",
+    "subtitle": "determinantes agrários da Guerra Civil",
+    "authors": [
+     "Artur Zimerman"
+    ],
+    "publisher": "Editora Humanitas",
+    "publishedDate": "2008",
+    "description": "A proposta desse livro é abordar assuntos de natureza agrária analisados empiricamente, incluindo-os no conjunto de determinantes de guerras civis com os quais a literatura já trabalha. Entre eles o papel da demografia rural e da concentração de terra, o",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577320928"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577320929"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Civil war"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hJiLYRncldwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hJiLYRncldwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hJiLYRncldwC&printsec=frontcover&dq=Guerra+civil&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=hJiLYRncldwC&dq=Guerra+civil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Peguem_a_foice_e_vamos_%C3%A0_luta.html?hl=&id=hJiLYRncldwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hJiLYRncldwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A proposta desse livro é abordar assuntos de natureza agrária analisados empiricamente, incluindo-os no conjunto de determinantes de guerras civis com os quais a literatura já trabalha."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0WOllqcU8QsC",
+   "etag": "IQf3nba+5wo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0WOllqcU8QsC",
+   "volumeInfo": {
+    "title": "Poesia espanhola - Das origens à Guerra Civil",
+    "authors": [
+     "FABIO ARISTIMUNHO VARGAS"
+    ],
+    "publisher": "hedra",
+    "description": "Esta coleção reúne uma seleção de poemas e autores representativos dos principais períodos históricos de cada literatura - Galega, Espanhola, Catalã e Basca - desde suas origens como manifestação literária, a partir do séc. XII, até a Guerra Civil Espanhola, encerrada em 1o de abril de 1939.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577151219"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577151212"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 155,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0WOllqcU8QsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0WOllqcU8QsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0WOllqcU8QsC&printsec=frontcover&dq=Guerra+civil&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0WOllqcU8QsC&dq=Guerra+civil&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poesia_espanhola_Das_origens_%C3%A0_Guerra_C.html?hl=&id=0WOllqcU8QsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0WOllqcU8QsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta coleção reúne uma seleção de poemas e autores representativos dos principais períodos históricos de cada literatura - Galega, Espanhola, Catalã e Basca - desde suas origens como manifestação literária, a partir do séc."
+   }
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dBPWjgEACAAJ",
+   "etag": "OnQ8qTvLEB8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dBPWjgEACAAJ",
+   "volumeInfo": {
+    "title": "Poética",
+    "authors": [
+     "Ana Cristina Cesar"
+    ],
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535923519"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535923513"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 503,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=dBPWjgEACAAJ&dq=isbn:9788535923513&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dBPWjgEACAAJ&dq=isbn:9788535923513&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Po%C3%A9tica.html?hl=&id=dBPWjgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dBPWjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

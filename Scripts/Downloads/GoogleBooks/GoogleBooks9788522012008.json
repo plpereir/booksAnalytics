@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ToJjYgEACAAJ",
+   "etag": "2QrP533hK6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ToJjYgEACAAJ",
+   "volumeInfo": {
+    "title": "4 VIDAS DE UM CACHORRO",
+    "authors": [
+     "BRUCE W. CAMERON"
+    ],
+    "description": "'4 vidas de um cachorro' apresenta Bailey, um cãozinho muito esperto, que busca um propósito para a vida. Depois de vir ao mundo diversas vezes, ele se pergunta se algum dia encontrará sua verdadeira missão na terra. '4 vidas de um cachorro' é um livro que procura demonstrar que o amor nunca morre e que todas as pessoas têm um propósito.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8522012008"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522012008"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ToJjYgEACAAJ&dq=isbn:9788522012008&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ToJjYgEACAAJ&dq=isbn:9788522012008&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/4_VIDAS_DE_UM_CACHORRO.html?hl=&id=ToJjYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ToJjYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;4 vidas de um cachorro&#39; apresenta Bailey, um cãozinho muito esperto, que busca um propósito para a vida."
+   }
+  }
+ ]
+}

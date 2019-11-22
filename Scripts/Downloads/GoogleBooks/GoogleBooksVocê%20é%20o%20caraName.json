@@ -1,0 +1,898 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 329,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fa4tAwAAQBAJ",
+   "etag": "XgL/3mGjE6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fa4tAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pai, você é o cara!",
+    "authors": [
+     "Alexandre Lacava"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-03-22",
+    "description": "Este livro ajuda os filhos que querem presentear e homenagear seu pai a tocar o coração desse homem tão importante na sua vida com palavras e imagens de agradecimento, carinho, reconhecimento e amor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573128949"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573128941"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fa4tAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fa4tAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fa4tAwAAQBAJ&printsec=frontcover&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fa4tAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fa4tAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fa4tAwAAQBAJ&rdid=book-fa4tAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pai_voc%C3%AA_%C3%A9_o_cara-sample-epub.acsm?id=fa4tAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pai_voc%C3%AA_%C3%A9_o_cara-sample-pdf.acsm?id=fa4tAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fa4tAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro ajuda os filhos que querem presentear e homenagear seu pai a tocar o coração desse homem tão importante na sua vida com palavras e imagens de agradecimento, carinho, reconhecimento e amor."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pOMU1_2NPAMC",
+   "etag": "S+XRkyiLNlc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pOMU1_2NPAMC",
+   "volumeInfo": {
+    "title": "Macaco Simão no cipó das onze, ou, Se acordar cedo desse dinheiro, passarinho já tava milionário",
+    "publisher": "Editora Iluminuras Ltda",
+    "publishedDate": "1989",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8585219351"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585219352"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 125,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian wit and humor"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pOMU1_2NPAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pOMU1_2NPAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pOMU1_2NPAMC&pg=PA69&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pOMU1_2NPAMC&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Macaco_Sim%C3%A3o_no_cip%C3%B3_das_onze_ou_Se_ac.html?hl=&id=pOMU1_2NPAMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pOMU1_2NPAMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O look Juma é o mais procurado: \u003cb\u003evocê\u003c/b\u003e desfia um ninho de jaburu e faz uma \u003cbr\u003e\nperuca, bota uma saia maria-mijona, uma \u003cb\u003ecara\u003c/b\u003e ex-cep-cio-nal, um pé pra dentro \u003cbr\u003e\ne um peito pra fora, e grita &quot;Monta Juventino!&quot;. Pronto, \u003cb\u003evocê\u003c/b\u003e está a \u003cb\u003ecara\u003c/b\u003e de uma&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kDRKBQAAQBAJ",
+   "etag": "JYxs8HpWHac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kDRKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "E VocÊ, Tem Cara De Que?",
+    "authors": [
+     "Ana Moraes"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-12-19",
+    "description": "Quem não conhece essa brincadeira? E você, tem cara de quê?",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90156706"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 63,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kDRKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kDRKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kDRKBQAAQBAJ&pg=PT1&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kDRKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-kDRKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kDRKBQAAQBAJ&rdid=book-kDRKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/E_Voc%C3%8A_Tem_Cara_De_Que-sample-pdf.acsm?id=kDRKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kDRKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ana Moraes. Título original: E \u003cb\u003evocê\u003c/b\u003e, tem \u003cb\u003ecara\u003c/b\u003e de que? Diagramação e Capa: Ana \u003cbr\u003e\nMoraes Ilustrações: Ilustração Digital Editora: APMC Blog http://\u003cbr\u003e\nanapaulademoraescordeiro.blogspot.com.br E-mail&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hh53BwAAQBAJ",
+   "etag": "/dNQ2RCG8oU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hh53BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Yaqui Delgado quer quebrar a sua cara",
+    "subtitle": "",
+    "authors": [
+     "Meg Medina"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-04-08",
+    "description": "Uma garota surge de repente no caminho da adolescente Piddy Sanchez para avisá-la de que Yaqui Delgado vai acabar com ela. Piddy acabou de mudar de escola e nem faz ideia de quem seja Yaqui, muito menos do que pode ter feito de tão errado para apanhar. Mas Yaqui sabe quem ela é, e a odeia. Piddy Sanchez não tem descanso. Ser filha de uma imigrante cubana nos Estados Unidos e crescer sem pai já era bem difícil sem ter alguém a odiando. No ensino médio da nova escola, seu corpo atraente desperta tanto os olhares dos meninos quanto o da esquentada Yaqui, que começa atacando a novata com ameaças cruéis, mas demonstra ser capaz de muito mais que isso, tornando a vida de Piddy um verdadeiro inferno dominado pelo medo. Denunciar Yaqui não é uma opção. Fugir não adianta. O importante agora é sobreviver.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580577167"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580577160"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=hh53BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=hh53BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=hh53BwAAQBAJ&pg=PT33&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=hh53BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-hh53BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=hh53BwAAQBAJ&rdid=book-hh53BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Yaqui_Delgado_quer_quebrar_a_sua_cara-sample-epub.acsm?id=hh53BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Yaqui_Delgado_quer_quebrar_a_sua_cara-sample-pdf.acsm?id=hh53BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=hh53BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu não conversei com ninguém no pátio. Então me lembro dos dois garotos que \u003cbr\u003e\nmexeram comigo. Minhas entranhas começam a se revirar. — \u003cb\u003eVocê\u003c/b\u003e está com \u003cbr\u003e\n\u003cb\u003ecara\u003c/b\u003e de culpada — diz ela. — Não, estou com \u003cb\u003ecara\u003c/b\u003e de irritada. Bato a porta do&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7jhFBQAAQBAJ",
+   "etag": "XMssapJVU1k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7jhFBQAAQBAJ",
+   "volumeInfo": {
+    "title": "A Parte Bonita Da Vida",
+    "authors": [
+     "Leonardo Santos Medeiros"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-05-25",
+    "description": "Pedro Silva da Rocha é um garoto de 16 anos que, ao decorrer dos dias, vai contando o ocorrido com ele e com as pessoas a volta dele. Ele mostra a parte boa da vida dele, transmitindo para ele um aumento de autoestima e também as partes ruins da vida dele, mostrando que até nas partes ruins da nossa vida temos que ver que existe uma parte boa, mas nós não vemos. Com o tempo ele cresce e percebe que os problemas que enfrentava no passado eram apenas barreiras que ele deveria passar para poder evoluir e amadurecer. Percebe que o destino não dá uma vida perfeita, mas cada um recebe a vida que consegue cuidar. Ele tenta resolver da melhor forma possível, e mesmo que seja algo muito complicado ele enfrenta e dar a “cara a bater”. Com o tempo ele vai mudando sua vida de várias formas. E a cada mudança vem também uma tristeza para tentar não deixa-lo progredir, mas Pedro não para de avançar. “A parte bonita da vida” é um livro complexo. Com vários problemas, mas o livro mostra que os momentos ruins não vieram para falar que “o que é bom dura pouco”, mas sim para falar que a vida é como uma escada e, para subir um degrau, é preciso estar com os pés firmes no degrau de baixo. E para isso é preciso passar por dificuldades, problemas e situações onde nem sempre tudo vai ser um “mar de rosas”.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90165979"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7jhFBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7jhFBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7jhFBQAAQBAJ&pg=PT138&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7jhFBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7jhFBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7jhFBQAAQBAJ&rdid=book-7jhFBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Parte_Bonita_Da_Vida-sample-pdf.acsm?id=7jhFBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7jhFBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Só que quando perdi voltei a ficar do lado de fora, mas quando cheguei lá já \u003cbr\u003e\ntinha outra pessoa lá. Então sentei do lado dele e disse: - Uai \u003cb\u003ecara\u003c/b\u003e, está aqui fora \u003cbr\u003e\npor quê? A festa não está boa não? Foi \u003cb\u003evocê\u003c/b\u003e que a preparou. Sorrindo para mim\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nf1JBQAAQBAJ",
+   "etag": "sUFYA7rdnBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nf1JBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Décadas De Terror",
+    "authors": [
+     "Paulo Torres"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-09-14",
+    "description": "Essa obra retrata um período infeliz na vida do povo brasileiro marca vergonhosa na história do Brasil. Época em que tudo era censurado, proibido. Quando ser oposição ao governo era ser traidor da pátria. Onde alguns generais se sentiam no direito de torturar, confiscar e matar qualquer uma pessoa que ousasse discordar deles. Época em que políticos e militares se aproveitaram para dedurar seus adversários políticos. Ou nas forças armadas. Muitos foram denunciados por invejosos. Época em que se falava baixinho. Ao se formar um grupinho numa praça logo aparecia a Polícia mandando circular. Reuniões autorizadas, mas nos cantos do salão estavam Agentes Federais de óculos escuros monitorando tudo. Onde brasileiros para poderem sobreviver tiveram que fugir do seu país.Muitos entraram para grupos terroristas para enfrentar o terrorismo oficial que era mais violento que o terrorismo clandestino.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90151347"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 316,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Nf1JBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Nf1JBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Nf1JBQAAQBAJ&pg=PA152&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Nf1JBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Nf1JBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Nf1JBQAAQBAJ&rdid=book-Nf1JBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.399E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/D%C3%A9cadas_De_Terror-sample-pdf.acsm?id=Nf1JBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Nf1JBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O homem se admirou de o Bastos conhecia o Alberto. _Quer dizer que \u003cb\u003evocê\u003c/b\u003e \u003cbr\u003e\nconhece esse \u003cb\u003ecara\u003c/b\u003e Pedrito? _Sim senhor! _Respondeu Bastos. _Ele é um \u003cbr\u003e\nbrasileiro exilado aqui no Uruguai. As coisas no Brasil estão péssimas \u003cb\u003evocê\u003c/b\u003e \u003cbr\u003e\nsabia Pedrito&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j9RKBQAAQBAJ",
+   "etag": "7DsBG3QRSRU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j9RKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Contos & Encontros Com A Poesia",
+    "authors": [
+     "Carlos Lucchesi E Ricardo Rodrigues"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-01-17",
+    "description": "Carlos Lucchesi e Ricardo Rodrigues uniram suas artes, amizade e inspirações em Contos & Encontros com a Poesia. Uniram ideais, na esperança de que a literatura possa ultrapassar todos os limites e fronteiras. Que possa ir muito mais além, modificando vidas, para moldar um outro futuro.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90158486"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j9RKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j9RKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=j9RKBQAAQBAJ&pg=PA48&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=j9RKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-j9RKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=j9RKBQAAQBAJ&rdid=book-j9RKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Contos_Encontros_Com_A_Poesia-sample-pdf.acsm?id=j9RKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j9RKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eVocê\u003c/b\u003e errou no café e quer acertar com a cachaça? É ruim, mano! - Ah, Julião. \u003cbr\u003e\nHoje eu vou tomar coragem...Hoje eu vou... - Olha lá para ela, Vinicius. Tú vai \u003cbr\u003e\njogar esse bafo de pinga na \u003cb\u003ecara\u003c/b\u003e dela, aí é ela quem vai correr... Vinicius joga a\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OgbNjVCawzgC",
+   "etag": "Ns8FZuQOdyE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OgbNjVCawzgC",
+   "volumeInfo": {
+    "title": "Você Sabe o que Passa pela Cabeça dos Homens?",
+    "subtitle": "Descubra o que eles realmente pensam sobre a vida, o amor, os relacionamentos e muito mais",
+    "authors": [
+     "Humfrey Hunter"
+    ],
+    "publisher": "Editora Seoman",
+    "publishedDate": "2015-06-16",
+    "description": "Se você acha que os homens às vezes são mais difíceis de entender do que álgebra avançada, este é o livro que você esperava. Aqui você encontrará um olhar sem censura sobre como os solteiros pensam, o que eles querem e por que fazem o que fazem. Após ler este livro, você vai aprender a identificar os que não estão realmente interessados em compromisso, descobrir como levar um cara a convidá-la para sair, e entender por que os homens às vezes não tomam uma iniciativa, mesmo quando querem tomar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788598903620"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8598903620"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OgbNjVCawzgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OgbNjVCawzgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OgbNjVCawzgC&pg=PT106&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OgbNjVCawzgC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OgbNjVCawzgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 6.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 6.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OgbNjVCawzgC&rdid=book-OgbNjVCawzgC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6950000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6950000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_Sabe_o_que_Passa_pela_Cabe%C3%A7a_dos-sample-epub.acsm?id=OgbNjVCawzgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Voc%C3%AA_Sabe_o_que_Passa_pela_Cabe%C3%A7a_dos-sample-pdf.acsm?id=OgbNjVCawzgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OgbNjVCawzgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "mensagens porque não gosta de \u003cb\u003evocê\u003c/b\u003e, mas seu pressuposto a respeito dele — \u003cbr\u003e\nisto é, que ele não está interessado em \u003cb\u003evocê\u003c/b\u003e — é o mesmo. Por quê? O \u003cb\u003ecara\u003c/b\u003e que \u003cbr\u003e\nespera três dias está seguindo um conjunto de regras preestabelecidas, e o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FEJ3BwAAQBAJ",
+   "etag": "YH9+Izuk+Lw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FEJ3BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Os filhos de Anansi",
+    "authors": [
+     "Neil Gaiman"
+    ],
+    "publisher": "Editora Intrinseca",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580577006"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580577004"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FEJ3BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FEJ3BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FEJ3BwAAQBAJ&pg=PT262&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FEJ3BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FEJ3BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FEJ3BwAAQBAJ&rdid=book-FEJ3BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_filhos_de_Anansi-sample-epub.acsm?id=FEJ3BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_filhos_de_Anansi-sample-pdf.acsm?id=FEJ3BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FEJ3BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Então ele perguntou: — \u003cb\u003eVocê é o cara\u003c/b\u003e que tem um limão? — O quê? — O cara \u003cbr\u003e\nque tem um limão? —Sim, acho que sou sim. — Ah, posso dar uma olhada? — \u003cbr\u003e\nNo meu limão? O rapaz assentiu, muito sério. — Não, não pode. Está no meu&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gt_e_3pW-NwC",
+   "etag": "OglMnc4cHpY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gt_e_3pW-NwC",
+   "volumeInfo": {
+    "title": "Jantares de mesa e cama – Vip",
+    "authors": [
+     "ALEXANDRA FORBES"
+    ],
+    "publisher": "Marco Zero",
+    "description": "Neste livro Alexandra Forbes, reúne cerca de 50 receitas simplificadas, destinadas aos homens que desejam se tornar excelentes cozinheiros, para impressionar suas convidadas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8527903555"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788527903554"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 90,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gt_e_3pW-NwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gt_e_3pW-NwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gt_e_3pW-NwC&pg=PT13&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gt_e_3pW-NwC&dq=Voc%C3%AA+%C3%A9+o+cara&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jantares_de_mesa_e_cama_Vip.html?hl=&id=gt_e_3pW-NwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gt_e_3pW-NwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando ela finalmente aceitar o convite para jantar no seu apê, vai procurar \u003cbr\u003e\nprovas materiais de que \u003cb\u003evocê\u003c/b\u003e é um \u003cb\u003ecara\u003c/b\u003e charmoso. Ela toca a campainha, vocês \u003cbr\u003e\ntrocam beijinhos ainda meio frios e, enquanto ela beberica o primeiro drinque da\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

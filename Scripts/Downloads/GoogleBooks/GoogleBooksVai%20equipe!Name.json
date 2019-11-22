@@ -1,0 +1,829 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 457,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eeOAMAEACAAJ",
+   "etag": "kpKfU08PC04",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eeOAMAEACAAJ",
+   "volumeInfo": {
+    "title": "BOB ESPONJA - VAI, EQUIPE!",
+    "authors": [
+     "MOLLY REISNER"
+    ],
+    "description": "Todo dia é dia de esportes na Fenda do Bikini - todos adoram sair para jogar. Neste livro, Bob Esponja e seus amigos relembram seus melhores momentos na história esportiva desse lugar de pura diversão.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8502156497"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502156494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 10,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eeOAMAEACAAJ&dq=Vai+equipe!&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eeOAMAEACAAJ&dq=Vai+equipe!&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BOB_ESPONJA_VAI_EQUIPE.html?hl=&id=eeOAMAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eeOAMAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Todo dia é dia de esportes na Fenda do Bikini - todos adoram sair para jogar. Neste livro, Bob Esponja e seus amigos relembram seus melhores momentos na história esportiva desse lugar de pura diversão."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s1tmDwAAQBAJ",
+   "etag": "bEpkA2Ro+08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s1tmDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Venda Mais Ed. 248",
+    "subtitle": "Desacelere",
+    "authors": [
+     "Editora Quantum"
+    ],
+    "publisher": "Editora Quantum",
+    "publishedDate": "2018-07-26",
+    "description": "Revista venda mais, venda mais, vendas, entrevista, marketing, marketing digital, gestão comercial, indicadores, campeão de vendas, empresa, cultura organizacional, negociação em vendas, V6, sucesso, pós-venda, líder, prospecção de clientes",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 68,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s1tmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s1tmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s1tmDwAAQBAJ&pg=PA58&dq=Vai+equipe!&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s1tmDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s1tmDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s1tmDwAAQBAJ&rdid=book-s1tmDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.95E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Venda_Mais_Ed_248-sample-pdf.acsm?id=s1tmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s1tmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Desacelere Editora Quantum. “SE VOCê TOlErA INDISCIPlINAS E DESVIOS DE \u003cbr\u003e\nCONDUTA, NÃO \u003cb\u003eVAI\u003c/b\u003e GErENCIAr UMA \u003cb\u003eEQUIPE\u003c/b\u003e OU UMA EMPrESA, VOCê \u003cb\u003eVAI\u003c/b\u003e \u003cbr\u003e\nGErENCIAr ExCEçõES, E ISSO \u003cb\u003eVAI\u003c/b\u003e CONSUMIr SEU TEMPO. VOCê NÃO SErá&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_fg8AAAAQBAJ",
+   "etag": "YClKycYKvIk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_fg8AAAAQBAJ",
+   "volumeInfo": {
+    "title": "O Código CEO",
+    "subtitle": "",
+    "authors": [
+     "David Rohlander"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2013-08-06",
+    "description": "O código CEO é o livro de cabeceira de todo executivo, gerente de projetos, líder e assistente executivo. Se você quer ter o sucesso de Steve Jobs, Jorge Paulo Lemann, Abílio Diniz, Roberto Justus e Mark Zuckerberg, não pode perder os dicas de David Rohlander, que une exemplos pessoais, estudos de caso do mundo corporativo e lições aprendidas ao longo de sua trajetória profissional para oferecer conselhos práticos a todas as pessoas que aspiram uma posição de liderança. Aprenda a dominar a comunicação, a execução de projetos e a lidar com sua equipe de modo a construir um ambiente de trabalho promissor que caminha sempre rumo ao sucesso!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579305467"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8579305462"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_fg8AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_fg8AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_fg8AAAAQBAJ&pg=PT97&dq=Vai+equipe!&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_fg8AAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_fg8AAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_fg8AAAAQBAJ&rdid=book-_fg8AAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_C%C3%B3digo_CEO-sample-epub.acsm?id=_fg8AAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_C%C3%B3digo_CEO-sample-pdf.acsm?id=_fg8AAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_fg8AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Cauteloso \u003cb\u003evai\u003c/b\u003e analisar cada decisão mais minuciosamente que qualquer outro \u003cbr\u003e\nestilo. Felizmente, ele tende a buscar a perfeição, então há boas chances da \u003cbr\u003e\ninformação atingir um padrão mais alto com as sugestões dele. Essa \u003cb\u003eequipe\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J11mDwAAQBAJ",
+   "etag": "oVpQYv6/en0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J11mDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Venda Mais Ed. 256",
+    "subtitle": "Seja um gigante das vendas!",
+    "authors": [
+     "Editora Quantum"
+    ],
+    "publisher": "Editora Quantum",
+    "publishedDate": "2018-07-26",
+    "description": "Revista venda mais, venda mais, vendas, entrevista, marketing, marketing digital, gestão comercial, indicadores, campeão de vendas, empresa, cultura organizacional, negociação em vendas, V6, sucesso, pós-venda, líder, prospecção de clientes",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J11mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J11mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=J11mDwAAQBAJ&pg=PA74&dq=Vai+equipe!&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=J11mDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-J11mDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=J11mDwAAQBAJ&rdid=book-J11mDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.95E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Venda_Mais_Ed_256-sample-pdf.acsm?id=J11mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J11mDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(Raul Candeloro) “Quando você tem uma \u003cb\u003eequipe\u003c/b\u003e altamente disciplinada, precisa \u003cbr\u003e\nestimular os profissionais a romperem o processo quando necessário. caso \u003cbr\u003e\ncontrário, você \u003cb\u003evai\u003c/b\u003e ter uma \u003cb\u003eequipe\u003c/b\u003e quadrada e que não \u003cb\u003evai\u003c/b\u003e conseguir enfrentar \u003cbr\u003e\nos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ELHhOyf1aI0C",
+   "etag": "n1pWT/+H+ho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ELHhOyf1aI0C",
+   "volumeInfo": {
+    "title": "Eficiência no trabalho em equipe",
+    "subtitle": "Michael D. Maginn",
+    "authors": [
+     "Michael D Maginn"
+    ],
+    "publisher": "NBL Editora",
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8521309058"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788521309055"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Decision making"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ELHhOyf1aI0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ELHhOyf1aI0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ELHhOyf1aI0C&pg=PA25&dq=Vai+equipe!&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ELHhOyf1aI0C&dq=Vai+equipe!&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Efici%C3%AAncia_no_trabalho_em_equipe.html?hl=&id=ELHhOyf1aI0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ELHhOyf1aI0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "apítulo Redigindo a constituição da \u003cb\u003eequipe\u003c/b\u003e □ Este capítulo \u003cb\u003evai\u003c/b\u003e ajudá-lo a: — — \u003cbr\u003e\n— — — &gt;&gt;—— ««i • Identificar o papel de uma constituição, para que | uma \u003cbr\u003e\n\u003cb\u003eequipe\u003c/b\u003e trabalhe mais efetivamente. j • Examinar os tipos de regras que as \u003cbr\u003e\n\u003cb\u003eequipes\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yaCzhVB3Q0oC",
+   "etag": "GPNwyGNM9w0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yaCzhVB3Q0oC",
+   "volumeInfo": {
+    "title": "Amanhã você vai entender",
+    "authors": [
+     "Rebecca Stead"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-06-06",
+    "description": "Miranda está em meio a um grande enigma, que começa com o bilhete acima, escondido no livro que ela pegara na biblioteca. Um estranho pode ter invadido sua casa; seu melhor amigo foi agredido na rua, e os bilhetes, que ela não compreende nem tampouco sabe quem escreve, continuam a chegar, alertando sobre a morte de alguém. Alguém próximo. Alguém que ela poderá ajudar a salvar. Mas, para isso, a menina precisa descobrir o que está acontecendo. Bilhete após bilhete, as peças do quebra-cabeça se juntam, até que finalmente o cenário se completa e Miranda percebe que a resposta sempre esteve ali, bem na sua frente. Mas o tempo é ardiloso: guarda hoje momentos que só amanhã você vai entender.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580571165"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580571162"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yaCzhVB3Q0oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yaCzhVB3Q0oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yaCzhVB3Q0oC&pg=PT14&dq=Vai+equipe!&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yaCzhVB3Q0oC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yaCzhVB3Q0oC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yaCzhVB3Q0oC&rdid=book-yaCzhVB3Q0oC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Amanh%C3%A3_voc%C3%AA_vai_entender-sample-epub.acsm?id=yaCzhVB3Q0oC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Amanh%C3%A3_voc%C3%AA_vai_entender-sample-pdf.acsm?id=yaCzhVB3Q0oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yaCzhVB3Q0oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Porém, o mais importante é derrotar a outra \u003cb\u003eequipe\u003c/b\u003e, porque o grupo que ganha a \u003cbr\u003e\nrodadafrelâmpago \u003cb\u003evai\u003c/b\u003e para o Círculo dos Vencedores, e o Círculo dos \u003cbr\u003e\nVencedores é onde está a grana. ~k~k~k Não temos muito tempo para praticar \u003cbr\u003e\nesta noite&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7C9eBgAAQBAJ",
+   "etag": "a/0SMQDPkng",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7C9eBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Gestão de Projetos",
+    "subtitle": "Teoria, Prática e Tendências",
+    "authors": [
+     "Daniel Jugend"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2016-06-03",
+    "description": "A proposta deste livro é a de apresentar - mostrando potencialidades e limitações - os fundamentos presentes no PMBOK, mas também apresentar outras práticas e métodos que recentemente veem chamando a atenção em gestão de projetos. O tema da Gestão de Projetos tem despertado interesse cada vez maior nos cursos superiores. A maioria dos cursos em Administração e Engenharia de Produção possuem esta disciplina. Além disso, observa-se também a presença dela em diversos outros cursos (tecnológico, de especialização, pós graduação, etc.), como Marketing, Engenharia Mecânica, Economia, Tecnologia em Produção Industrial, entre outros. Ao mesmo tempo em que se observa uma grande demanda atual por material em gestão de projetos, verifica-se também que a maioria dos livros textos da área prioriza, sobretudo, ao Guia PMBOK. Acredita-se que seria de grande valor uma obra que aborde não somente os fundamentos do PMBOK, mas, também, que apresente e aprofunde práticas e métodos em gerenciamento de projetos que não estão diretamente presentes nesse Guia, como por exemplo: mecanismos para tomada de decisão em portfólio de produtos, análise de adequação dos escritórios de projetos aos objetivos de negócio, aplicação prática de níveis de maturidade em gestão de projetos, utilização de métodos de gestão de conhecimento em projetos e sistemas colaborativos utilizados na gestão de projetos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535272611"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535272615"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.7.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7C9eBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7C9eBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7C9eBgAAQBAJ&pg=PT61&dq=Vai+equipe!&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7C9eBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7C9eBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 67.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 48.67,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7C9eBgAAQBAJ&rdid=book-7C9eBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.76E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.867E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gest%C3%A3o_de_Projetos-sample-epub.acsm?id=7C9eBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7C9eBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... dos membros da \u003cb\u003eequipe\u003c/b\u003e na tomada de decisão e na geração de propostas \u003cbr\u003e\npara resolução de problemas e desafios; ... dessa forma, o estilo que um gerente \u003cbr\u003e\nde projetos \u003cb\u003evai\u003c/b\u003e adotar para influenciar a \u003cb\u003eequipe vai\u003c/b\u003e depender também do nível \u003cbr\u003e\nde&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FjzVwFcd2_UC",
+   "etag": "lXns3HcHaAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FjzVwFcd2_UC",
+   "volumeInfo": {
+    "title": "Jogos Para Treinamento Em Recursos Humanos",
+    "authors": [
+     "Gary Kroehnert"
+    ],
+    "publisher": "Editora Manole Ltda",
+    "publishedDate": "2001",
+    "description": "'Jogos para Treinamento em Recursos Humanos' é uma valiosa fonte de simulações e exercícios dinâmicos e estimulantes, apropriados para quase todos os programas de treinamento que se possa conceber. Inclui jogos que visam aprimorar as habilidades de comunicação, facilitar a criação de grupos de trabalho, aumentar a percepção, além de muitas outras aplicações. Se você está procurando uma atividade de aquecimento para a abertura de uma sessão de treinamento ou um jogo para estimular o grupo, certamente irá encontrá-los em 'Jogos para Treinamento em Recursos Humanos'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852041057X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520410578"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FjzVwFcd2_UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FjzVwFcd2_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FjzVwFcd2_UC&pg=PA137&dq=Vai+equipe!&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FjzVwFcd2_UC&dq=Vai+equipe!&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jogos_Para_Treinamento_Em_Recursos_Human.html?hl=&id=FjzVwFcd2_UC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FjzVwFcd2_UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tamanho do grupo Ilimitado, mas dividido em \u003cb\u003eequipes\u003c/b\u003e de 5 a 7 participantes. \u003cbr\u003e\nMaterial necessário Papel ... Diga-lhes que a pessoa que \u003cb\u003evai\u003c/b\u003e apresentar o \u003cbr\u003e\nproblema também \u003cb\u003evai\u003c/b\u003e anotar as ideias da \u003cb\u003eequipe\u003c/b\u003e, uma de cada vez. Não é \u003cbr\u003e\npermitido&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gGwjAwAAQBAJ",
+   "etag": "C62GARxBkEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gGwjAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Correria",
+    "subtitle": "Histórias do universo da corrida",
+    "authors": [
+     "Sérgio Xavier Filho"
+    ],
+    "publisher": "Arquipelago Editorial Ltda",
+    "publishedDate": "2016-03-28",
+    "description": "Ao longo dos últimos cinco anos, o jornalista Sérgio Xavier Filho uniu em seu blog a paixão pela corrida ao seu talento para contar histórias. Dessa mistura surgiram textos inspirados e inspiradores. São relatos emocionantes de provas mundo afora e insights sobre variados aspectos do universo da corrida de rua: o gosto do brasileiro pelos revezamentos, as aventuras dos ultramaratonistas, as melhores maratonas, as inevitáveis lesões, a busca por desempenho. O blog Correria tornou-se um ponto de encontro de corredores — sejam eles iniciantes, experientes e até mesmo profissionais — e suas histórias. \"Conversar sobre treinos e provas é tão essencial quanto colocar os tênis e partir para a rua\", acredita o autor. É justamente esse espírito de conversa informal — porém bem informada — que guia este livro do começo ao fim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560171507"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8560171509"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gGwjAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gGwjAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gGwjAwAAQBAJ&pg=PT18&dq=Vai+equipe!&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gGwjAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-gGwjAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gGwjAwAAQBAJ&rdid=book-gGwjAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Correria-sample-epub.acsm?id=gGwjAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gGwjAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nas corridas de \u003cb\u003eequipe\u003c/b\u003e, o obaoba e os incentivos “\u003cb\u003evai\u003c/b\u003e, \u003cb\u003evai\u003c/b\u003e” dos companheiros \u003cbr\u003e\nfazem com que a empolgação vença a prudência. O pessoal dá um bico na \u003cbr\u003e\nplanilha em nome de um resultado melhor do time. Os limites são rompidos. \u003cbr\u003e\nAlgumas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kvar22gkaoQC",
+   "etag": "b2SXNBFjIBo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kvar22gkaoQC",
+   "volumeInfo": {
+    "title": "Placar Magazine",
+    "publishedDate": "1978-05-05",
+    "description": "PLACAR: a maior revista brasileira de futebol. Notícias, perfis, entrevistas, fotos exclusivas.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 72,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kvar22gkaoQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kvar22gkaoQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kvar22gkaoQC&pg=PA57&dq=Vai+equipe!&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kvar22gkaoQC&dq=Vai+equipe!&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Placar_Magazine.html?hl=&id=kvar22gkaoQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kvar22gkaoQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Isto quer dizer que a \u003cb\u003eequipe\u003c/b\u003e polonesa \u003cb\u003evai\u003c/b\u003e jogar trancada? — Não, não. Não \u003cbr\u003e\ntransfira meus pensamentos pessoais para concluir a tática do time polonês. \u003cbr\u003e\nNão há nenhuma correspondência mecânica entre uma coisa e outra. — Aí não \u003cbr\u003e\ndà pra&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_a2HtAEACAAJ",
+   "etag": "vqWmejnKbmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_a2HtAEACAAJ",
+   "volumeInfo": {
+    "title": "Voce Sabia? + De 400 Coisas Que Voce Deveria Saber",
+    "authors": [
+     "Lukas Marques",
+     "Daniel Miolo"
+    ],
+    "publishedDate": "2017-11-28",
+    "description": "Nada escapa ao olhar curioso de Lukas Marques e Daniel Molo, criadores do Você sabia? , programa de curiosidades no YouTube, com mais de 7 milhões de seguidores. Com bom humor, irreverência e muita informação, eles conquistaram a internet e agora vão invadir as livrarias com este livro repleto de fatos curiosos, bizarros e interessantes. Você entraria na Deep Web? Tem medo de histórias sobrenaturais? Já viu ou acredita em extraterrestres? Comeria um queijo vivo? E o que aconteceria se do nada a Terra parasse de girar? E que tal conhecer o objeto mais perigoso do mundo? Sabe da existência dos monstros marinhos?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542208439"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542208436"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_a2HtAEACAAJ&dq=isbn:9788542208436&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_a2HtAEACAAJ&dq=isbn:9788542208436&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Voce_Sabia_+_De_400_Coisas_Que_Voce_Deve.html?hl=&id=_a2HtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_a2HtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nada escapa ao olhar curioso de Lukas Marques e Daniel Molo, criadores do Você sabia? , programa de curiosidades no YouTube, com mais de 7 milhões de seguidores."
+   }
+  }
+ ]
+}

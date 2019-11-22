@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3i0HtwAACAAJ",
+   "etag": "pYeRXRxnhKk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3i0HtwAACAAJ",
+   "volumeInfo": {
+    "title": "José Alencar",
+    "subtitle": "amor à vida : a saga de um brasileiro",
+    "authors": [
+     "Eliane Cantanhêde"
+    ],
+    "publishedDate": "2010",
+    "description": "Biografia do ex-vice-presidente José de Alencar. Narra desde sua infância até a luta contra o câncer, passando pelo início da vida profissional e a construção de sua família.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575426249"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575426241"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3i0HtwAACAAJ&dq=isbn:9788575426241&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3i0HtwAACAAJ&dq=isbn:9788575426241&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jos%C3%A9_Alencar.html?hl=&id=3i0HtwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3i0HtwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Biografia do ex-vice-presidente José de Alencar. Narra desde sua infância até a luta contra o câncer, passando pelo início da vida profissional e a construção de sua família."
+   }
+  }
+ ]
+}

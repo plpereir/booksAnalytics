@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KLuCDQAAQBAJ",
+   "etag": "vkn64TxmQJM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KLuCDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário do Olivier",
+    "subtitle": "As receitas da Bocaina",
+    "authors": [
+     "Olivier Anquier"
+    ],
+    "publisher": "Globo Livros",
+    "publishedDate": "2016-06-24",
+    "description": "Introdutor da padaria de estilo francês no Brasil e do primeiro programa de culinária moderna da TV brasileira, Olivier Anquier lança seu primeiro livro de receitas, inspirado no período em que explorou de maneira única e apaixonada os pratos da cozinha tradicional brasileira. De maneira descontraída e clara, apresenta 100 deliciosas receitas que fizeram sucesso em seu programa no GNT. Com dicas, alternativas de ingredientes e pequenas histórias de sua vida, Olivier coloca a mão na massa e mostra o que faz de melhor. Diário do Olivier – As receitas da Bocaina nasceu na serra da Bocaina, um lugar paradisíaco no Vale do Rio Paraíba, onde o cozinheiro mantém com sua família uma casa de campo desde 1999. No grande fogão a lenha instalado ao centro da sala, Olivier colocou em prática o fruto das pesquisas culinárias que trazia de suas viagens aos mais diversos rincões do Brasil e também a outros países.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525062628"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525062626"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KLuCDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KLuCDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KLuCDQAAQBAJ&printsec=frontcover&dq=Di%C3%A1rio+do+Olivier+-+As+receitas+da+Bocaina&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KLuCDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KLuCDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KLuCDQAAQBAJ&rdid=book-KLuCDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.59E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.59E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_do_Olivier-sample-epub.acsm?id=KLuCDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_do_Olivier-sample-pdf.acsm?id=KLuCDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KLuCDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Diário do Olivier – As receitas da Bocaina nasceu na serra da Bocaina, um lugar paradisíaco no Vale do Rio Paraíba, onde o cozinheiro mantém com sua família uma casa de campo desde 1999."
+   }
+  }
+ ]
+}

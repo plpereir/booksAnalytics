@@ -1,0 +1,870 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 239,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "f_cxDwAAQBAJ",
+   "etag": "RiHG2JmwAzs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f_cxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O único livro que todo empresário precisa ler",
+    "subtitle": "Como fazer a empresa girar em torno de vendas, evitar as dívidas e inovar continuamente",
+    "authors": [
+     "Paulo Maranhão"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2017-09-05",
+    "description": "Se você pudesse fazer qualquer pergunta a um empresário que já faliu e deu a volta por cima, o que perguntaria? Frequentemente Paulo Maranhão é procurado por donos de negócio de todos os tamanhos para salvar empresas de crises e alavancar seu crescimento. E, segundo ele, todas as empresas parecem ser uma só quando tratamos dos problemas. Com uma trajetória que vai desde o faturamento de mais de 100 milhões até a falência – e de volta aos milhões –, o autor se tornou um dos pioneiros do e-commerce no Brasil e já atuou em empresas de todos os portes. Ele diz que existe uma única coisa que todos os empresários de sucesso têm em comum: espírito de vendedor aliado à uma resiliência imbatível. Quer dobrar o tamanho da empresa? Sair das dívidas? Descobrir por que os clientes não sabem que seu produto existe? Abra imediatamente este livro. Você ainda aprenderá a: - Ter uma liderança resiliente e usar isso a seu favor. - Vender qualquer coisa e, principalmente, a si mesmo. - Identificar os problemas que ninguém vê no negócio e como se livrar deles. - Entender como funciona o novo mundo das vendas e como você pode se destacar nele. - E muitos outros fatores que vão transformá-lo em um vendedor e empresário de sucesso. Você precisa descobrir os segredos que farão o seu negócio decolar",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545201960"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545201966"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f_cxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f_cxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f_cxDwAAQBAJ&printsec=frontcover&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=f_cxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-f_cxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=f_cxDwAAQBAJ&rdid=book-f_cxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.349E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_%C3%BAnico_livro_que_todo_empres%C3%A1rio_prec-sample-epub.acsm?id=f_cxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_%C3%BAnico_livro_que_todo_empres%C3%A1rio_prec-sample-pdf.acsm?id=f_cxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f_cxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Frequentemente Paulo Maranhão é procurado por donos de negócio de todos os tamanhos para salvar empresas de crises e alavancar seu crescimento. E, segundo ele, todas as empresas parecem ser uma só quando tratamos dos problemas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M6R9AgAAQBAJ",
+   "etag": "xCKxHG8LHis",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6R9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Os Lusíadas",
+    "subtitle": "Com uma biografia do poeta",
+    "authors": [
+     "Luís Vaz de Camões"
+    ],
+    "publisher": "Edições Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Os Lusíadas\" de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa. Nela se contam os feitos dos heróis portugueses que abriram o caminho pelos Oceanos, pondo em contacto povos e terras. Vasco da Gama e os marinheiros que o acompanharam até à Índia são as personagens principais deste poema épico que muito deve a Homero e Virgílio. Esta edição conta com uma biografia do poeta redigida por Manuel de Faria Severim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898392305"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898392304"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M6R9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6R9AgAAQBAJ&printsec=frontcover&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-M6R9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=M6R9AgAAQBAJ&rdid=book-M6R9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9250000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-epub.acsm?id=M6R9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_Lus%C3%ADadas-sample-pdf.acsm?id=M6R9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6R9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Os Lusíadas&quot; de Luís Vaz de Camões é a mais importante obra escrita em Língua Portuguesa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "64VnDwAAQBAJ",
+   "etag": "woC+6MbRzl8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/64VnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "COLEÇÃO PREPARATÓRIA PARA CONCURSO DE DELEGADO DE POLÍCIA - DIREITO CIVIL E EMPRESARIAL",
+    "authors": [
+     "FABIO VIEIRA FIGUEIREDO,MARCELO TADEU COMETTI,NESTOR SAMPAIO PENTEADO FILHO"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Esta coleção tem por objetivo atender às necessidades dos postulantes às carreiras de Delegado de Polícia, seja na esfera Estadual ou Federal. Os autores procuraram, com clareza e objetividade, apresentar os principais institutos de cada disciplina, levando o leitor a recordar a formação obtida na seara acadêmica, aliando-se praticidade, em face das questões bem escolhidas que ilustram cada final de capítulo, à sólida base teórica desenvolvida. Esta Coleção emerge como instrumental indispensável àqueles que pretendem habilitação profissional na carreira de Delegado de Polícia. Coordenação dos professores Fábio Vieira de Figueiredo, Marcelo Tadeu Cometti e Nestor Sampaio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502201606"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502201603"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=64VnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=64VnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=64VnDwAAQBAJ&pg=PT177&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=64VnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-64VnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 86.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 86.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=64VnDwAAQBAJ&rdid=book-64VnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.6E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.6E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/COLE%C3%87%C3%83O_PREPARAT%C3%93RIA_PARA_CONCURSO_DE-sample-epub.acsm?id=64VnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=64VnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os \u003cb\u003elivros\u003c/b\u003e obrigatórios podem ser divididos em comuns, quando a sua \u003cbr\u003e\nescrituração é imposta a \u003cb\u003etodos\u003c/b\u003e os \u003cb\u003eempresários\u003c/b\u003e, tal como o \u003cb\u003eLivro\u003c/b\u003e ... Atenção: o \u003cbr\u003e\n\u003cb\u003elivro\u003c/b\u003e diário é \u003cb\u003eo único livro\u003c/b\u003e mercantil cuja escrituração é imposta a \u003cb\u003etodo\u003c/b\u003e e qualquer \u003cbr\u003e\n\u003cb\u003eempresário\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H9lBCwAAQBAJ",
+   "etag": "o8DN3pqSbkU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H9lBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jane Eyre",
+    "subtitle": "Edição bilíngue português - inglês",
+    "authors": [
+     "Charlotte Brontë"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "O livro conta a história da menina Jane, órfã de pai e mãe, vivendo infeliz em companhia de parentes que a detestam. Após uma série de confrontos, Jane é enviada para um colégio interno, onde conhece seus primeiros momentos de verdadeira felicidade. Crescida e formada como professora, ela decide procurar uma nova posição, e no Solar de Thornfield, passa a ser a tutora da jovem Adèle, pupila de Lord Rochester. Quando conhece Rochester, apaixona-se por ele, e ele por ela. Este lhe propõe casamento e ela aceita, mas no dia de seu casamento, Jane descobre um terrível mistério que assola o Solar de Thornfield. Desiludida, foge e após dias vagando sem destino é recolhida por St John Rivers e suas irmãs. É pedida em casamento por Rivers, entretanto hesita e, antes de dar uma resposta, decide descobrir o que acopnteceu com Lord Rochester, pois não teve mais notícias dele desde que fugiu de sua casa. Encontra-o ferido e sozinho no Solar de Thornfield, destruído, morando em companhia de empregados ainda fieis.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781818"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781816"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 632,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H9lBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H9lBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H9lBCwAAQBAJ&printsec=frontcover&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H9lBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H9lBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H9lBCwAAQBAJ&rdid=book-H9lBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jane_Eyre-sample-epub.acsm?id=H9lBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jane_Eyre-sample-pdf.acsm?id=H9lBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H9lBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro conta a história da menina Jane, órfã de pai e mãe, vivendo infeliz em companhia de parentes que a detestam."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "b9RiDwAAQBAJ",
+   "etag": "4Ea+jKxXhyw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/b9RiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Curso de direito empresarial v. 1 – Teoria geral e direito societário",
+    "authors": [
+     "Marlon Tomazette"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2018-01-16",
+    "description": "Partindose de uma evolução histórica do direito comercial, chegase hoje ao moderno direito empresarial, cujo estudo se baseia essencialmente em três conceitos: a atividade (empresa), o sujeito (empresário individual e sociedades empresárias) e o conjunto de bens usados para o exercício dessa atividade (estabelecimento). O estudo abrange desde as noções mais históricas e conceituais do direito comercial e da empresa, até as questões mais específicas, como o estudo do nome empresarial, das marcas e das patentes. Além disso, na segunda parte do livro fazse um estudo do direito societários, com a análise da teoria geral, até a análise de cada uma das sociedades em espécie, passando ao final ao regime das concentrações empresariais. A análise desses conceitos é feita de forma detalhada, a partir da doutrina nacional e estrangeira, bem como da jurisprudência nacional, e tenta ser a mais completa e didática possível. Este volume 1, apresenta um estudo amplo e abrangente da teoria geral do direito empresarial e do direito societário.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788547230623"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8547230629"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=b9RiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=b9RiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=b9RiDwAAQBAJ&pg=PT700&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=b9RiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-b9RiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 112.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 112.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=b9RiDwAAQBAJ&rdid=book-b9RiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.12E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.12E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Curso_de_direito_empresarial_v_1_Teoria-sample-epub.acsm?id=b9RiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=b9RiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ASPECTOS FINANCEIROS DAS SOCIEDADES ANÔNIMAS 1 Escrituração \u003cbr\u003e\n\u003cb\u003eTodos\u003c/b\u003e os \u003cb\u003eempresários\u003c/b\u003e, sejam pessoas físicas, ... Nos termos da nossa atual \u003cbr\u003e\nlegislação, \u003cb\u003eo único livro\u003c/b\u003e obrigatório para \u003cb\u003etodos\u003c/b\u003e os \u003cb\u003eempresários\u003c/b\u003e é o \u003cb\u003elivro\u003c/b\u003e diário, \u003cbr\u003e\nque é&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ijtnDwAAQBAJ",
+   "etag": "mYbO75haOkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ijtnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Teoria Unificada - Delegado de Polícia e Delegado Federal",
+    "authors": [
+     "EMERSON PENHA MALHEIRO,FABIO VIEIRA FIGUEIREDO,FRANKLIN ANDERSON SISTI,GIBRAN NOBREGA ZERAIK ABDALLA,MARCELO TADEU COMETTI,MARIANA DE ARAUJO MENDES LIMA,NESTOR SAMPAIO PENTEADO FILHO,PRISCILA CRISTINA SILVA DA SILVEIRA,SAMUEL  LILO ABDALLA,WALLACE RICARDO MAGRI,SIMONE DIOGO CARVALHO FIGUEIREDO,SILVIA LIBERTO VASCONCELOS ARRUDA,ROSELLE ADRIANE SOGLIO,PAULO ARGARATE VASQUES,NAYARA CRISPIM DA SILVA,MARCO AURELIO SERAU JUNIOR,LUCIANO CESAR CASAROTI,GABRIELA RODRIGUES PINHEIRO"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Esta obra é coordenada por grandes especialistas na área de concursos públicos e organizada por Nestor Sampaio Penteado Filho, Delegado Corregedor-Geral da Polícia do Estado de São Paulo. Os coautores foram selecionados a dedo, considerando-se a vivência nos cursos preparatórios e nas atividades conexas à carreira. Reúne, em volume único, material completo e indispensável àqueles que buscam aprovação nos concursos para as carreiras de Delegado de Polícia e Delegado Federal. Explora todas as questões necessárias e controvertidas nas disciplinas, apresentando as divergências doutrinárias, bem como o pensamento dominante, acrescido da jurisprudência correlata.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502228085"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502228080"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ijtnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ijtnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ijtnDwAAQBAJ&pg=PT949&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ijtnDwAAQBAJ&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Teoria_Unificada_Delegado_de_Pol%C3%ADcia_e.html?hl=&id=ijtnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Teoria_Unificada_Delegado_de_Pol%C3%ADcia_e-sample-epub.acsm?id=ijtnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ijtnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Caso o \u003cb\u003eempresário\u003c/b\u003e não proceda a qualquer arquivamento no período de 10 \u003cbr\u003e\nanos, contado da data do último arquivamento, segundo o art. ... O \u003cb\u003elivro\u003c/b\u003e diário é \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eúnico livro\u003c/b\u003e mercantil cuja escrituração é imposta a \u003cb\u003etodo\u003c/b\u003e e qualquer \u003cb\u003eempresário\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XjlnDwAAQBAJ",
+   "etag": "FY6NtxsPwoY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XjlnDwAAQBAJ",
+   "volumeInfo": {
+    "title": ". PASSE EM CONCURSOS PÚBLICOS - NÍVEL SUPERIOR - Direito Empresarial",
+    "authors": [
+     "LICINIA ROSSI CORREIA DIAS,MARCELO BARBOSA SACRAMONE,MARCELO HUGO DA ROCHA"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Esta coleção é a ferramenta que faltava para o candidato que busca uma vaga na carreira pública. Aqui estão reunidos os itens essenciais para uma excelente preparação: Questões das principais bancas organizadoras. Entendimentos doutrinários de autores renomados. Jurisprudência dos Tribunais Superiores com alta incidência em provas subjetivas. Conteúdo teórico selecionado e aprofundado para concursos de nível superior de grande dificuldade e concorrência. Recursos gráficos que auxiliam na fixação do conteúdo por meio dos tópicos: ?para memorizar? e ?para gabaritar?. As autorizações que contemplam os editais das principais carreiras nos três âmbitos jurisdicionais (municipal, estadual e federal)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502211582"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502211587"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XjlnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XjlnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XjlnDwAAQBAJ&pg=PT59&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XjlnDwAAQBAJ&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PASSE_EM_CONCURSOS_P%C3%9ABLICOS_N%C3%8DVEL_SUPE.html?hl=&id=XjlnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/PASSE_EM_CONCURSOS_P%C3%9ABLICOS_N%C3%8DVEL_SUPE-sample-epub.acsm?id=XjlnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XjlnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Obrigatórios comuns são os \u003cb\u003elivros\u003c/b\u003e exigidos de \u003cb\u003etodos\u003c/b\u003e os \u003cb\u003eempresários\u003c/b\u003e, sem \u003cbr\u003e\nqualquer distinção no tocante à atividade desenvolvida. Obrigatórios especiais \u003cbr\u003e\nsão os exigidos apenas em determinadas condições. \u003cb\u003eO único livro\u003c/b\u003e obrigatório \u003cbr\u003e\ncomum&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tv93ZaNd_3cC",
+   "etag": "j/h99djcGgU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tv93ZaNd_3cC",
+   "volumeInfo": {
+    "title": "Jurisdição - Crise, Efetividade e Plenitude Institucional",
+    "authors": [
+     "LUIZ EDUARDO GUNTHER"
+    ],
+    "publisher": "Jurua Editora",
+    "publishedDate": "2009",
+    "description": "Neste volume - razoável duração do processo e responsabilidade do estado; boa e má-fé processual; Ius Imperi e Iuris Dictio - a natureza política da tutela jurisdicional; a efetividade da tutela jurisdicional, a dignidade humana e a independência do juiz;",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536222448"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8536222441"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 711,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tv93ZaNd_3cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tv93ZaNd_3cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tv93ZaNd_3cC&pg=PA61&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tv93ZaNd_3cC&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Jurisdi%C3%A7%C3%A3o_Crise_Efetividade_e_Plenitu.html?hl=&id=tv93ZaNd_3cC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tv93ZaNd_3cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... dentre as obrigações comuns a \u003cb\u003etodos\u003c/b\u003e os \u003cb\u003eempresários\u003c/b\u003e, a escrituração dos \u003cbr\u003e\n\u003cb\u003elivros\u003c/b\u003e empresariais, seu conteúdo e a questão de sua exibição. ... Atualmente \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eúnico livro\u003c/b\u003e comum é o &quot;Dtáno&quot;43, que é exigido pelo Código Civil, e são \u003cbr\u003e\nespeciais àqueles exigidos pela legislação especial. ... lançamento contábil \u003cbr\u003e\nrealizado no \u003cb\u003elivro\u003c/b\u003e diário, que como já se mencionou (\u003cb\u003eúnico livro\u003c/b\u003e comum \u003cbr\u003e\nobrigatório), é \u003cb\u003enecessário\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B7uYtwEACAAJ",
+   "etag": "r9KFdmjM180",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B7uYtwEACAAJ",
+   "volumeInfo": {
+    "title": "Atendimento De Excelência",
+    "authors": [
+     "Josicleido Nogueira"
+    ],
+    "description": "O livro que todo profissional precisa ler! Após anos de experiência em consultoria empresarial, estruturando e desenvolvendo equipes para um atendimento de excelência, cheguei à conclusão de que elaborar um manual prático e objetivo seria a melhor solução para que todos pudessem conhecer os princípios e atitudes essenciais que transformam o atendimento numa ferramenta poderosa, capaz de gerar satisfação e resultados extraordinários para as empresas e os profissionais em geral. Atender bem deixou de ser um diferencial estratégico e passou a ser uma necessidade de toda e qualquer empresa que deseja sobreviver e crescer. Hoje é inadmissível um atendimento ruim. Se você ou a sua empresa não atenderem com excelência, os seus concorrentes farão isso e levarão os seus clientes. Como você tem atendido os seus clientes? Você sabe quem eles são, do que precisam e o que dizem da sua empresa por aí? Este é o livro que todo empresário deve entregar a todos os seus colaboradores, para que o atendimento alcance um patamar mais elevado com um único objetivo: transformar clientes em fãs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8569690266"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788569690269"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 102,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=B7uYtwEACAAJ&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=B7uYtwEACAAJ&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Atendimento_De_Excel%C3%AAncia.html?hl=&id=B7uYtwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B7uYtwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Após anos de experiência em consultoria empresarial, estruturando e desenvolvendo equipes para um atendimento de excelência, cheguei à conclusão de que elaborar um manual prático e objetivo seria a melhor solução para que todos ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HIUyBwAAQBAJ",
+   "etag": "9G5B6E7zNgg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HIUyBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Seja melhor no que realmente importa",
+    "subtitle": "A única estratégia de carreira que você vai precisar para transformar seu tempo em resultados",
+    "authors": [
+     "Joe Calloway"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2015-03-13",
+    "description": "Simplicidade e foco para maximizar resultados: quem não quer ter isso? Este livro propõe uma ideia audaciosa: ser melhor que a concorrência nas coisas que criam verdadeiro valor para os clientes. Em vez de precisar apagar mil incêndios rotineiros e perder tempo com processos que não geram lucro nem sucesso, encontre onde dar os tiros certeiros do seu negócio ou do seu produto. Para isso, Joe Calloway apresenta a única estratégia que você precisa saber para transformar seu tempo em resultados – e levar sua carreira ao topo! Conheça a estratégia que permitirá a você: Aprimorar-se de modo constante nos detalhes específicos que criam mais valor para o cliente;Esclarecer as expectativas e construir uma cultura em torno da qualidade do produto/serviço;Oferecer excelência consistente;Identificar as áreas do negócio que se tornaram tão complicadas e, então, como simplificá-las;Descobrir o que de fato motiva seus colaboradores. Para gerar resultados, crescimento e lucratividade, é preciso demonstrar excelência; você deve ser o melhor no que realmente importa!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200109"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200102"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HIUyBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HIUyBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HIUyBwAAQBAJ&pg=PT13&dq=O+%C3%BAnico+livro+que+todo+empres%C3%A1rio+precisa+ler&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HIUyBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HIUyBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HIUyBwAAQBAJ&rdid=book-HIUyBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Seja_melhor_no_que_realmente_importa-sample-epub.acsm?id=HIUyBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Seja_melhor_no_que_realmente_importa-sample-pdf.acsm?id=HIUyBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HIUyBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Bill também adquiriu alguns \u003cb\u003elivros\u003c/b\u003e sobre negócios. A maioria deles afirma que, \u003cbr\u003e\ncomo \u003cb\u003eempresário\u003c/b\u003e, ele deve tomar atitudes que tornem seu empreendimento \u003cbr\u003e\n\u003cb\u003eúnico\u003c/b\u003e e especial. \u003cb\u003eTodos\u003c/b\u003e os autores alertam que ele \u003cb\u003eprecisa\u003c/b\u003e ser bastante \u003cbr\u003e\nimaginativo&nbsp;..."
+   }
+  }
+ ]
+}

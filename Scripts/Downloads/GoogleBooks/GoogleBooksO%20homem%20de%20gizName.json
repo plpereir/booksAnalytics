@@ -1,0 +1,898 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 276,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pGJNDwAAQBAJ",
+   "etag": "U/+Raw/eqqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pGJNDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O homem de giz",
+    "authors": [
+     "C. J. Tudor"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2018-03-05",
+    "description": "Assassinato e sinais misteriosos em uma trama para fãs de Stranger Things e Stephen King Em 1986, Eddie e os amigos passam a maior parte dos dias andando de bicicleta pela pacata vizinhança em busca de aventuras. Os desenhos a giz são seu código secreto: homenzinhos rabiscados no asfalto; mensagens que só eles entendem. Mas um desenho misterioso leva o grupo de crianças até um corpo desmembrado e espalhado em um bosque. Depois disso, nada mais é como antes. Em 2016, Eddie se esforça para superar o passado, até que um dia ele e os amigos de infância recebem um mesmo aviso: o desenho de um homem de giz enforcado. Quando um dos amigos aparece morto, Eddie tem certeza de que precisa descobrir o que de fato aconteceu trinta anos atrás. Alternando habilidosamente entre presente e passado, O Homem de Giz traz o melhor do suspense: personagens maravilhosamente construídos, mistérios de prender o fôlego e reviravoltas que vão impressionar até os leitores mais escaldados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002957"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002953"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pGJNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pGJNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pGJNDwAAQBAJ&printsec=frontcover&dq=O+homem+de+giz&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pGJNDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pGJNDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pGJNDwAAQBAJ&rdid=book-pGJNDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.691E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_homem_de_giz-sample-epub.acsm?id=pGJNDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_homem_de_giz-sample-pdf.acsm?id=pGJNDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pGJNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alternando habilidosamente entre presente e passado, O Homem de Giz traz o melhor do suspense: personagens maravilhosamente construídos, mistérios de prender o fôlego e reviravoltas que vão impressionar até os leitores mais escaldados."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7hSVCwAAQBAJ",
+   "etag": "AXMpBMDDggw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7hSVCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um génio português: Edmundo Curvelo (1913-1954)",
+    "authors": [
+     "Manuel Curado",
+     "José António Alves"
+    ],
+    "publisher": "Imprensa da Universidade de Coimbra / Coimbra University Press",
+    "publishedDate": "2013-05-01",
+    "description": "O livro oferece o primeiro estudo sobre o espólio de Edmundo Curvelo (1913-1954), professor da Faculdade de Letras da Universidade de Lisboa e um dos introdutores dos laboratórios psicotécnicos e psicológicos em Portugal. São publicados pela primeira vez manuscritos filosóficos de Curvelo, bem como a sua correspondência com grandes nomes da Cultura e da Filosofia do século XX (W. V. Quine, Alonzo Church, Stephen Kiss, Joaquim de Carvalho e Delfim Santos). O livro apresenta igualmente um estudo do enquadramento da obra de Curvelo e da sua importância para a história do pensamento e da ciência portuguesa do século XX. This book presents the first study into the collection of Edmundo Curvelo (1913-1954), professor in the Faculty of Letters of the University of Lisbon and co-responsible for the introduction of psychotechnic and psychological laboratories into Portugal. Some of his philosophical manuscripts are published here for the first time, along with his correspondence with great names of 20th century Philosophy (W. V. Quine, Alonzo Church, Stephen Kiss, Joaquim de Carvalho and Delfim Santos). The book also contains a study which contextualizes Curvelo’s oeuvre within the history of 20th-century Portuguese science and thought.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789892603018"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "989260301X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 406,
+    "printType": "BOOK",
+    "categories": [
+     "Includes bibliographical references"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7hSVCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7hSVCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7hSVCwAAQBAJ&pg=PA160&dq=O+homem+de+giz&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7hSVCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7hSVCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.48,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.48,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7hSVCwAAQBAJ&rdid=book-7hSVCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.748E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.748E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Um_g%C3%A9nio_portugu%C3%AAs_Edmundo_Curvelo_191-sample-pdf.acsm?id=7hSVCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7hSVCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Foi aqui que \u003cb\u003eo\u003c/b\u003e nosso diálogo principiou, não sei se por infelicidade minha. \u003cbr\u003e\nPorque eu, sem bem saber como, ouvi-me responder ao \u003cb\u003ehomem do giz\u003c/b\u003e: – Válida \u003cbr\u003e\nem todos os casos, não. Parece-me que essa equação é válida apenas quando \u003cbr\u003e\nX é&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BvJxDwAAQBAJ",
+   "etag": "LISDSvPpDqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BvJxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Chão De Giz",
+    "authors": [
+     "José"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um excelente livro que narra a fantástica odisseia de um personagem chamado Filipo Botucatú, um garoto de cor estranha, criado nas favelas cariocas da década de sessenta. Engolido pela miséria e abstraído pela delinquência, ao tornar-se órfão de mãe, vê-se sozinho no mundo, revoltado com Deus e completamente apaixonado por seu único amor verdadeiro... Uma menina chamada Ana Sofia. Com o passar do tempo, então descobre que seu pai biológico está vivo e curiosamente se trata de uma figura religiosa, o então... Arcebispo adjunto da Arquidiocese de São Sebastião do Rio Fluminense, e vê em seu pai a possibilidade de transformar sua vida criando as condições necessárias para viver este romance avassalador... Mas o destino não lhe permite que as coisas aconteçam assim. Frustrado e absorvido por um turbilhão de sexo, vício em drogas e tendência à criminalidade, mesmo contra sua própria vontade, se vê na pele de um padre e é obrigado por seu pai, a assumir uma paróquia há 2500 kms de distância, situada numa pequena cidade no interior do estado o Pará. Aí viverá seu maior inferno pessoal, distante de seu verdadeiro amor e impotente quanto ao que a vida lhe propõe. Também conhecerá um importante personagem chamado Major Sebastião Curioso... Um corrupto oficial do exército, remanescente da “Guerrilha do Araguaia” que protegido pela ditadura militar do período, controla o lugar com mão de ferro e domina o povo como um imperador sanguinário. Beneficiado com informações privilegiadas através das confissões religiosas dos fiéis de sua paróquia, Filipo descobre um intrincado esquema de corrupção entre o alto escalão do poder que comanda o país, e o crime organizado do Rio de Janeiro. Dentro deste panorama, já cansado de tantos tropeços, atinge a maturidade e na tentativa de resolver sua vida de uma vez por todas, comete aquele que seria seu maior erro... Algo que mudaria para sempre sua existência, mas traria à tona segredos de estado, que os brasileiros jamais imaginaram que realmente aconteceram. Amor, ódio, sexo, e ambição dominam a narrativa se contrapondo à fé, à força do destino e tudo àquilo que entendemos como desígnios de Deus.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU24548"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BvJxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BvJxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=BvJxDwAAQBAJ&pg=PA86&dq=O+homem+de+giz&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BvJxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-BvJxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.58,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.58,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BvJxDwAAQBAJ&rdid=book-BvJxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.458E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.458E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ch%C3%A3o_De_Giz-sample-pdf.acsm?id=BvJxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BvJxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pena, é que, quem conta \u003cb\u003eum\u003c/b\u003e conto sempre aumenta \u003cb\u003eum\u003c/b\u003e ponto. E \u003cb\u003eo\u003c/b\u003e que corria de \u003cbr\u003e\nboca em boca era que ele ... Todos pensavam que em breve ele estaria de volta \u003cbr\u003e\nà cidade e \u003cb\u003eum\u003c/b\u003e dia seria \u003cb\u003eo\u003c/b\u003e mesmo \u003cb\u003ehomem\u003c/b\u003e de antigamente. Muita gente até me&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EcenBAAAQBAJ",
+   "etag": "85lT1aLCi/w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EcenBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O homem do engano",
+    "authors": [
+     "Christopher Morgan Jones"
+    ],
+    "publisher": "Editora Paralela",
+    "publishedDate": "2013-05-07",
+    "description": "Pouco tempo depois do colapso da União Soviética, dois jovens ocidentais se mudam para Moscou, atraídos pelas oportunidades profissionais que se abrem com a perspectiva de redemocratização do país. Um deles é jornalista e logo se desilude ao observar, no dia a dia da nação formada a partir dos escombros do regime comunista, um vaivém de expectativas e frustrações que parece não ter fim. O outro, um advogado medíocre, deixa-se seduzir pela opulência em que vivem alguns dos antigos membros da nomenclatura soviética e põe-se a serviço de um deles, emprestando seu nome para camuflar um esquema de corrupção que está por trás do maior conglomerado privado do setor petrolífero russo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580867046"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580867045"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EcenBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EcenBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EcenBAAAQBAJ&pg=PT19&dq=O+homem+de+giz&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EcenBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EcenBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EcenBAAAQBAJ&rdid=book-EcenBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.59E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.59E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_homem_do_engano-sample-epub.acsm?id=EcenBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_homem_do_engano-sample-pdf.acsm?id=EcenBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EcenBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "assunto da reunião era sério, pois Kesler não era do tipo que atravessava \u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\nAtlântico e gastava \u003cb\u003eo\u003c/b\u003e dinheiro de seus clientes sem motivo. ... \u003cb\u003eO\u003c/b\u003e terno de Kesler \u003cbr\u003e\nera de lã fina — \u003cb\u003eum\u003c/b\u003e tecido azul-marinho, com padrão risca de \u003cb\u003egiz\u003c/b\u003e e corte \u003cbr\u003e\neuropeu."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jmg9DgAAQBAJ",
+   "etag": "oEOXiGuhHSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jmg9DgAAQBAJ",
+   "volumeInfo": {
+    "title": "Um Anjo Gótico de Natal (Edição Portuguesa - Portuguese Edition)",
+    "subtitle": "Edição Brasileira, português",
+    "authors": [
+     "Anna Erishkigal"
+    ],
+    "publisher": "Seraphim Press",
+    "publishedDate": "2017-03-01",
+    "description": "Vencedor do eFestival of Words Best of the Independent eBook Awards - Melhor Conto de 2014 Os Fantasmas dos Infortúnios Antigos nunca estão muito longe… Abandonada por seu namorado às vésperas de Natal, Cassie Baruch cogitou encerrar com seu sofrimento arremessando seu carro contra uma antiga árvore faia. Mas quando um imponente anjo de asas negras surgiu e lhe disse “isso aqui não é um romance metafísico, garota“, ela compreendeu que a morte não havia resolvido seus problemas. Será que o anjo Jeremiel pode ajudá-la a exorcizar os fantasmas do passado e encontrar um pouco de tranquilidade? “Muitos poucos livros me emocionaram ao ponto de chorar mas esse aqui conseguiu da forma mais gloriosa. Há uma mensagem nele, contada com humor e graciosidade. Fantástico!“ —Avaliação de leitor “Ela me fez ter empatia. E ela me fez chorar. Estou muito, muito agradecida pelo final.“ —Avaliação de leitor “Um livro que me tocou de uma forma que nenhum outro conseguiu!“ —Avaliação de leitor “Mais uma vez Anna transforma palavras em ouro. Essa abordagem moderna gótica ao Christmas Carol é sensacional…“ —Avaliação de leitor “Se eu pudesse, eu daria a essa história uma quantidade infinita de estrelas! Esse livro me dá arrepios.“ —Avaliação de leitor",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781943036141"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1943036144"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 178,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.9.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jmg9DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jmg9DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jmg9DgAAQBAJ&pg=PT12&dq=O+homem+de+giz&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jmg9DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jmg9DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.62,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.62,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jmg9DgAAQBAJ&rdid=book-jmg9DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.362E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.362E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jmg9DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO homem\u003c/b\u003e de terno pegou \u003cb\u003eum\u003c/b\u003e biscotti embrulhado no balcão e agitou-\u003cb\u003eo\u003c/b\u003e \u003cbr\u003e\nassintosamente, encenando como se fosseum ... assim para passar à frente do \u003cbr\u003e\n\u003cb\u003ehomem\u003c/b\u003e de terno risca de \u003cb\u003egiz\u003c/b\u003e que àquele momento estava pronto para fazer uma \u003cbr\u003e\ncena."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NJpJBQAAQBAJ",
+   "etag": "rGrnsexl0JU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NJpJBQAAQBAJ",
+   "volumeInfo": {
+    "title": "É Dividindo Que Se Multiplica",
+    "authors": [
+     "Júlio Paiva"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-03-23",
+    "description": "Crianças brincam num aterro sanitário com brinquedos de sucata, cada vez que alguém tem uma questão sobe num tablado e coloca a pergunta em prática, quem souber responder vira guardião da princesa nomeada, porém, o terceiro cavalheiro encontra uma velha cerca, parecida com um ábaco, brinquedo muito antigo feito para contar equações matemáticas, e resolve que toda sucata é somada para si, e não dividi mais nada, soma até todas as garrafas e prende a princesa numa torre plástica, mas sobra um toco de giz que o reino salva.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90142922"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 23,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NJpJBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NJpJBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NJpJBQAAQBAJ&pg=PT12&dq=O+homem+de+giz&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NJpJBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NJpJBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.92,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NJpJBQAAQBAJ&rdid=book-NJpJBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.292E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.292E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/%C3%89_Dividindo_Que_Se_Multiplica-sample-pdf.acsm?id=NJpJBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NJpJBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eHomem\u003c/b\u003e:- Todos os brinquedos de sucata senhor, os de pilha e os também de fita \u003cbr\u003e\ngravada que fazem barulho e a tal internet ... \u003cb\u003eHomem\u003c/b\u003e:- Eu tenho ainda \u003cb\u003eum\u003c/b\u003e \u003cbr\u003e\npedaço de \u003cb\u003egiz\u003c/b\u003e que eu esqueci aqui no meu bolso, não que dê para desenhar \u003cbr\u003e\nmuito,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YwhWDwAAQBAJ",
+   "etag": "rCU9CP6hl2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YwhWDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Mulher Inocente",
+    "authors": [
+     "Amy Lloyd"
+    ],
+    "publisher": "Planeta Manuscrito",
+    "publishedDate": "2018-04-04",
+    "description": "Confiaste nele. Então por que estás tão assustada? Há vinte anos Dennis Danson foi preso pelo brutal assassínio de uma jovem na Florida, no condado de Red River. Na actualidade é o assunto de um documentário resultante de um frenesi on-line para descobrir a verdade e libertar o homem que foi injustamente acusado. A muitos quilómetros, em Inglaterra, Samantha é obcecada pelo caso de Dennis e começa a corresponder-se com ele. Sam, depressa cai enfeitiçada pelo charme e bondade que ele tem para com ela. Decide rumar a Red River, para trabalhar na sua libertação e casar com ele. Mas quando a campanha é bem-sucedida e Dennis é libertado, Sam começa a descobrir pormenores que sugerem que afinal ele pode não ser assim tão inocente. Mas como confrontar o marido quando não se quer descobrir a verdade? «Adorei A Mulher Inocente, bem feito e convincente. Manteve-me a adivinhar e embrenhada! 5 estrelas!» C.J. Tudor autora de O Homem de Giz «Hábil, inteligente e muito oportuno.» The Sunday Mirror «Escrito com coragem, o livro capta com habilidade a natureza da obsessão e as suas consequências e culmina num clímax que Patricia Highsmith teria admirado.» The Daily Mail",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897770807"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897770801"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YwhWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YwhWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YwhWDwAAQBAJ&dq=O+homem+de+giz&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YwhWDwAAQBAJ&dq=O+homem+de+giz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Mulher_Inocente.html?hl=&id=YwhWDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YwhWDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas como confrontar o marido quando não se quer descobrir a verdade? «Adorei A Mulher Inocente, bem feito e convincente."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1zs_AQAAMAAJ",
+   "etag": "w/zCO0r1dsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1zs_AQAAMAAJ",
+   "volumeInfo": {
+    "title": "O Universo illustrado",
+    "publishedDate": "1877",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:C2651249"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1zs_AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1zs_AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1zs_AQAAMAAJ&pg=PA203&dq=O+homem+de+giz&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1zs_AQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1zs_AQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=1zs_AQAAMAAJ&rdid=book-1zs_AQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1zs_AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Então \u003cb\u003eum homem\u003c/b\u003e que, durante \u003cb\u003eo\u003c/b\u003e combate, se conservára envolto n&#39;\u003cb\u003eum\u003c/b\u003e ca ote, \u003cbr\u003e\nveiu examinar a sua victima e ... ajudou os soldados a fechar as portas do \u003cbr\u003e\ncemiterio, no qual escreveu com \u003cb\u003eum\u003c/b\u003e pedaço de \u003cb\u003egiz o\u003c/b\u003e distico seguinte: Da parte d \u003cbr\u003e\n&#39;E&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "064TO1a468QC",
+   "etag": "p3dHMSo4vgw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/064TO1a468QC",
+   "volumeInfo": {
+    "title": "Ensino de Língua Portuguesa",
+    "publisher": "IESDE BRASIL SA",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538708162"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8538708163"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=064TO1a468QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=064TO1a468QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=064TO1a468QC&pg=PA159&dq=O+homem+de+giz&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=064TO1a468QC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-064TO1a468QC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=064TO1a468QC&rdid=book-064TO1a468QC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ensino_de_L%C3%ADngua_Portuguesa-sample-pdf.acsm?id=064TO1a468QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=064TO1a468QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO\u003c/b\u003e. ensino. de. Língua. Portuguesa. e. a. qualidade. de. vida. \u003cb\u003eO\u003c/b\u003e ensino de Língua \u003cbr\u003e\nPortuguesa deve ser orientado no sentido de proporcionar uma educação \u003cbr\u003e\nlinguística para \u003cb\u003eo homem\u003c/b\u003e de seu tempo. ... profundas na forma como se constitui \u003cbr\u003e\na dinâmica do ensino, embora saibamos que não substituirão de imediato as \u003cbr\u003e\ntecnologias mais tradicionais como \u003cb\u003eo\u003c/b\u003e quadro-de-\u003cb\u003egiz\u003c/b\u003e ou quadro-branco e o livro \u003cbr\u003e\ndidático."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aK4EQwNGut4C",
+   "etag": "/VwjBsPDxtU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aK4EQwNGut4C",
+   "volumeInfo": {
+    "title": "Causas nada naturais",
+    "authors": [
+     "P. D. James"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2011-07-15",
+    "description": "Adam Dalgliesh, o brilhante inspetor da Scotland Yard, resolve tirar uns dias de descanso após resolver um caso muito difícil, que mobilizou a opinião pública britânica. Além disso, seu relacionamento com a namorada chegou a um ponto que não permite mais adiamentos: ou eles se casam ou cada um seguirá o seu rumo. Assim, ele resolve se retirar para a casa da tia - sua única parente viva -, na pequena comunidade de Monksmere Head, na costa do Condado de Suffolk, região em que terra e mar parecem travar uma guerra há séculos. Mas o intuito de Dalgliesh é desfeito na manhã de sua chegada. Um grupo de habitantes locais, composto de escritores, dramaturgos e críticos literários, bate à sua porta para aconselhar-se sobre o desaparecimento de Maurice Seton, romancista policial de fama moderada que após o suicídio da mulher herdara uma fortuna avaliada em 200 mil libras. A secretária de Seton acabara de receber um manuscrito que dava todas as pistas de que alguém estava tentando se passar por ele. Mas, antes que o grupo vá embora, um inspetor da polícia local traz a notícia: Seton foi encontrado morto em um barco à deriva, com as mãos cortadas na altura do punho. Mesmo que a autópsia diga que foi uma morte por causas naturais, o entorno de Seton, que acumulou vários inimigos e cuja família se resume a um meio irmão distante, leva Dalgliesh a acreditar num crime premeditado e astuciosamente elaborado. Para solucioná-lo, precisará se dividir entre Londres e Monksmere, além de pôr em prática suas faculdades múltiplas: será um pouco psicólogo, um pouco filólogo e outro tanto historiador do crime.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580861150"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580861152"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.16.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aK4EQwNGut4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aK4EQwNGut4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aK4EQwNGut4C&pg=PT4&dq=O+homem+de+giz&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aK4EQwNGut4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-aK4EQwNGut4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aK4EQwNGut4C&rdid=book-aK4EQwNGut4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Causas_nada_naturais-sample-epub.acsm?id=aK4EQwNGut4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Causas_nada_naturais-sample-pdf.acsm?id=aK4EQwNGut4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aK4EQwNGut4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO\u003c/b\u003e cadáver sem mãos estava deitado no fundo de \u003cb\u003eum\u003c/b\u003e pequeno barco à vela à \u003cbr\u003e\nderiva, não muito longe do litoral de Suffolk. Era \u003cb\u003eo\u003c/b\u003e corpo de \u003cb\u003eum homem\u003c/b\u003e de \u003cbr\u003e\nmeiaidade, \u003cb\u003eum\u003c/b\u003e cadáver pequeno e bemapessoado, cujo sudário, \u003cb\u003eum\u003c/b\u003e terno \u003cbr\u003e\nescuro risca de \u003cb\u003egiz\u003c/b\u003e, caía com tanta elegância na morte quanto caíra em vida \u003cbr\u003e\nnaquele corpo franzino. Os sapatos feitos à mão reluziam, a não ser por certo \u003cbr\u003e\ndesgaste nos bicos,&nbsp;..."
+   }
+  }
+ ]
+}

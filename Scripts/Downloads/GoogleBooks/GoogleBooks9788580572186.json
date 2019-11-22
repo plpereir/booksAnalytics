@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8kvJNAEACAAJ",
+   "etag": "PMkEVBmHA24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8kvJNAEACAAJ",
+   "volumeInfo": {
+    "title": "Cinquenta tons de cinza",
+    "authors": [
+     "E. L. James"
+    ],
+    "publisher": "Editora Intríseca",
+    "publishedDate": "2012-08-01",
+    "description": "Quando Anastasia Steele entrevista o jovem empresário Christian Grey, descobre nele um homem atraente, brilhante e profundamente dominador. Ingênua e inocente, Ana se surpreende ao perceber que, a despeito da enigmática reserva de Grey, está desesperadamente atraída por ele. Incapaz de resistir à beleza discreta, à timidez e ao espírito independente de Ana, Grey admite que também a deseja — mas em seus próprios termos. Chocada e ao mesmo tempo seduzida pelas estranhas preferências de Grey, Ana hesita. Por trás da fachada de sucesso — os negócios multinacionais, a vasta fortuna, a amada família —, Grey é um homem atormentado por demônios do passado e consumido pela necessidade de controle. Quando eles embarcam num apaixonado e sensual caso de amor, Ana não só descobre mais sobre seus próprios desejos, como também sobre os segredos obscuros que Grey tenta manter escondidos...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580572185"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580572186"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8kvJNAEACAAJ&dq=isbn:9788580572186&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=8kvJNAEACAAJ&dq=isbn:9788580572186&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cinquenta_tons_de_cinza.html?hl=&id=8kvJNAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8kvJNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando Anastasia Steele entrevista o jovem empresário Christian Grey, descobre nele um homem atraente, brilhante e profundamente dominador."
+   }
+  }
+ ]
+}

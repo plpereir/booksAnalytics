@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Y0p3tAEACAAJ",
+   "etag": "l6KYz8yZTzU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Y0p3tAEACAAJ",
+   "volumeInfo": {
+    "title": "O advogado rebelde",
+    "authors": [
+     "John Grisham",
+     "Geni Hirata"
+    ],
+    "publishedDate": "2015",
+    "description": "Rudd não é o típico advogado que trabalha para uma grande firma e usa gravatas e ternos de alfaiates renomados. Ele é fã de MMA e empresário de lutador, viciado em sinuca e golfe. Seu escritório é uma van preparada com wi-fi, poltronas de couro, compartimento secreto para arma e um sortido bar, e seu motorista anda fortemente armado. Sem associados, sem assistentes, somente com a ajuda de Partner, seu motorista, guarda-costas, caddy e às vezes baby-sitter, Rudd defende pessoas que os outros advogados preferem manter distância: um garoto acusado de abusar e assassinar duas meninas pequenas de uma cidadezinha próxima, um rei do crime no corredor da morte e um aposentado preso por atirar em um oficial da Swat que invadiu sua casa em uma desastrada operação policial. Às voltas com uma ex-mulher que faz de tudo para evitar que veja seu filho e o julgamento de seu promissor lutador de MMA que atacou um juiz, Rudd ainda tem que lidar com policiais corruptos e um misterioso foragido da justiça que diz ter pistas sobre o desaparecimento da filha do chefe de policia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532530419"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532530417"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 398,
+    "printType": "BOOK",
+    "categories": [
+     "Criminal defense lawyers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Y0p3tAEACAAJ&dq=isbn:9788532530417&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Y0p3tAEACAAJ&dq=isbn:9788532530417&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_advogado_rebelde.html?hl=&id=Y0p3tAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Y0p3tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rudd não é o típico advogado que trabalha para uma grande firma e usa gravatas e ternos de alfaiates renomados."
+   }
+  }
+ ]
+}

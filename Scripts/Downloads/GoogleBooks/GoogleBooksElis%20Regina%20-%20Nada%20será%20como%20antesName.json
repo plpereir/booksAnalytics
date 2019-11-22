@@ -1,0 +1,814 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 70,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pyf2jwEACAAJ",
+   "etag": "itqlb0PEvHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pyf2jwEACAAJ",
+   "volumeInfo": {
+    "title": "Elis Regina",
+    "subtitle": "nada será como antes",
+    "authors": [
+     "Júlio Maria"
+    ],
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563201107"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563201102"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 423,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pyf2jwEACAAJ&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pyf2jwEACAAJ&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Elis_Regina.html?hl=&id=pyf2jwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pyf2jwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro &#39;Elis Regina - Nada Será Como Antes&#39; narra a vida de Elis desde seus primeiros dias em Porto Alegre, quando cantava &#39;Fascinação&#39; ao lado das amigas nas escadarias de um colégio, até sua despedida trágica, aos 36 anos, quando ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xGlaDwAAQBAJ",
+   "etag": "hbEkaNOd9Dk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xGlaDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Jingle é a alma do negócio",
+    "subtitle": "A história e as histórias das músicas de propaganda e de seus criadores",
+    "authors": [
+     "Fabio Barbosa Dias"
+    ],
+    "publisher": "Panda Books",
+    "publishedDate": "2017-11-07",
+    "description": "\"Quando você tiver qualquer dúvida sobre o que dizer em sua campanha, cante\". Essa máxima, do publicitário Sérgio Campanelli, traduzperfeitamente a importância dos jingles em propagandas inesquecíveis. Afinal, quem não se lembra do \"Quero ver pipoca pular (pipoca com guaraná)\" ou do \"Café Seleto tem sabor delicioso...\", sem contar a música das lindas crianças dos \"mamíferos Parmalat\"? Para entender como o talento desses profissionais consegue transformar a música em uma poderosa ferramenta de comunicação publicitária, Fábio Barbosa Dias empreendeu uma pesquisa inédita em busca da história dos jingles e dos jinglistas que marcaram diversas gerações. Conheça o processo de criação das mais importantes músicas da história da publicidade brasileira e descubra porque elas ficaram para sempre na cabeça das pessoas. São mais de 150 jingles para você recordar e curtir ouvindo o CD que acompanha esta edição histórica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578886103"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578886100"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 372,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xGlaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xGlaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xGlaDwAAQBAJ&pg=PT490&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xGlaDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xGlaDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xGlaDwAAQBAJ&rdid=book-xGlaDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.79E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jingle_%C3%A9_a_alma_do_neg%C3%B3cio-sample-epub.acsm?id=xGlaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Jingle_%C3%A9_a_alma_do_neg%C3%B3cio-sample-pdf.acsm?id=xGlaDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xGlaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nossa próxima atração – O interprograma do canal 3. São Paulo: Edusp, 1996. \u003cbr\u003e\nGOULART, Paulo Cezar Alves. Música e propaganda. Vargem Grande Paulista: \u003cbr\u003e\nA9, 2011. MARIA, Julio. \u003cb\u003eElis Regina\u003c/b\u003e – \u003cb\u003eNada será como antes\u003c/b\u003e. São Paulo: Master\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a2ClDgAAQBAJ",
+   "etag": "FqlG0c6HlWI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a2ClDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Caetano - Uma Biografia",
+    "authors": [
+     "Carlos Eduardo Drummond",
+     "Marcio Nolasco"
+    ],
+    "publisher": "Editora Seoman",
+    "publishedDate": "2017-05-02",
+    "description": "Caetano Veloso dispensa apresentações, porém sua história e suas facetas ainda foram pouco exploradas. Existem livros que que abordam quase que exclusivamente a sua fase Tropicalista, porém, os longos trechos ainda desconhecidos de sua história não podem permanecer sem registro. Por isso, torna-se necessário contar sua trajetória de vida de modo amplo e irrestrito, com o respeito e a isenção que o artista merece. Este livro é resultado de uma pesquisa de vinte anos dos autores, e conta a história completa do carismático músico brasileiro, passando por todas as suas fases com igual peso, permitindo ao grande público entender e conhecer um pouco mais sobre Caetano Veloso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555030529"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555030528"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 544,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a2ClDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a2ClDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=a2ClDgAAQBAJ&pg=PT654&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=a2ClDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-a2ClDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 41.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 41.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=a2ClDgAAQBAJ&rdid=book-a2ClDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.19E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caetano_Uma_Biografia-sample-epub.acsm?id=a2ClDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a2ClDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "MATOS, Edilene. Secretaria de Cultura de Turismo de Salvador. 1998. Salvador. \u003cbr\u003e\n\u003cb\u003eElis Regina\u003c/b\u003e – \u003cb\u003eNada será como antes\u003c/b\u003e. MARIA, Julio. Editora Master Books, 2015, \u003cbr\u003e\nSão Paulo. Enciclopédia da Música Brasileira (Itaú Cultural). (Vários). Art."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wGtsDAAAQBAJ",
+   "etag": "KoD4m7QGd/w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wGtsDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Chega de saudade",
+    "subtitle": "A história e as histórias da Bossa Nova - Edição revista e ampliada",
+    "authors": [
+     "Ruy Castro"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2016-06-15",
+    "description": "\"Chega de saudade\" reconstitui a vida boêmia e cultural carioca dos tempos da Bossa Nova - boate por boate, tiete por tiete, história por história. Para compor este fascinante mosaico envolvendo música e comportamento, Ruy Castro ouviu dezenas de seus participantes: compositores, cantores, instrumentistas - além dos amigos e inimigos deles. O resultado é uma narrativa que se lê como um romance, cheia de paixões e traições, amores e desamores, lances cômicos e trágicos - protagonizados por João Gilberto, Tom Jobim, Vinicius de Moraes, Newton Mendonça, Nara Leão, Carlinhos Lyra, Ronaldo Bôscoli, Maysa, Johnny Alf, Sylvinha Telles, Elis Regina e pela legião de jovens que eles seduziram com seu charme e suas canções - para sempre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543806341"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543806348"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 504,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wGtsDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wGtsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wGtsDAAAQBAJ&pg=PT570&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wGtsDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wGtsDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wGtsDAAAQBAJ&rdid=book-wGtsDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Chega_de_saudade-sample-epub.acsm?id=wGtsDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Chega_de_saudade-sample-pdf.acsm?id=wGtsDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wGtsDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eElis Regina\u003c/b\u003e — \u003cb\u003eNada será como antes\u003c/b\u003e. São Paulo: Máster Books, 2015. MARIZ, \u003cbr\u003e\nVasco. A canção popular brasileira. 6a ed. Rio: Francisco Alves, 2002. MÁXIMO, \u003cbr\u003e\nJoão. Sinfonia do Rio de Janeiro — 60 anos de história musical da cidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wvM-DwAAQBAJ",
+   "etag": "XN3JE4hrxOk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wvM-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Contos na era das canções e outros escritos",
+    "authors": [
+     "Aluízio Falcão"
+    ],
+    "publisher": "Companhia Editora de Pernambuco (CEPE)",
+    "publishedDate": "2017-11-22",
+    "description": "Contos da era das canções reúne textos de Aluízio Falcão, que neles transformou o processo de composição de célebres músicas brasileiras em crônicas, algumas inéditas, mas a maioria publicada no jornal O Estado de São Paulo. Como exímio letrista e com profunda familiaridade com o meio, por conta de seu intenso relacionamento profissional e pessoal com compositores, músicos e produtores, Aluízio Falcão tece suas crônicas com leveza ou seriedade, revelando o processo criativo de artistas de primeiro escalão do cenário musical brasileiro do século 20 e início do 21. No livro é possível ler no formato de pequenas histórias como foram compostas letras como as de Águas de Março, de Vinícius de Morais; Anunciação, de Alceu Valença e João e Maria, de Chico Buarque.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578585563"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578585569"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wvM-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wvM-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wvM-DwAAQBAJ&pg=PT39&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wvM-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wvM-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wvM-DwAAQBAJ&rdid=book-wvM-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Contos_na_era_das_can%C3%A7%C3%B5es_e_outros_esc-sample-epub.acsm?id=wvM-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Contos_na_era_das_can%C3%A7%C3%B5es_e_outros_esc-sample-pdf.acsm?id=wvM-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wvM-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eNada\u003c/b\u003e. \u003cb\u003eserá\u003c/b\u003e. como. \u003cb\u003eantes\u003c/b\u003e. Por mais bem contada que seja uma estória sempre \u003cbr\u003e\nalguma coisa faltará para torná-la ... achou também o título da canção e uma \u003cbr\u003e\nfrase que correria o mundo, depois de gravada pelo parceiro Milton e por \u003cb\u003eElis\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eRegina\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r3gxM9rB-EEC",
+   "etag": "DO4YvfoMCU4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r3gxM9rB-EEC",
+   "volumeInfo": {
+    "title": "Estado e democracia",
+    "subtitle": "pluralidade de questões",
+    "authors": [
+     "Lucia Cortes da Costa"
+    ],
+    "publisher": "Editora UEPG",
+    "publishedDate": "2008",
+    "description": "A coletânea de textos que compõe o livro 'Estado e Democracia - pluralidade de questões' aborda temas sobre o modo de viver em sociedade, tendo como destaque o papel do Estado em diferentes áreas das políticas públicas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577980376"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577980375"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r3gxM9rB-EEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r3gxM9rB-EEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r3gxM9rB-EEC&pg=PA76&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=r3gxM9rB-EEC&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Estado_e_democracia.html?hl=&id=r3gxM9rB-EEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r3gxM9rB-EEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Direito, Democracia e Risco: vínculos com o futuro. Porto Alegre: Fabris, 1998. 5 \u003cbr\u003e\nNASCIMENTO, Milton; BASTOS, Ronaldo. “\u003cb\u003eNada será como antes\u003c/b\u003e”. Disponível \u003cbr\u003e\nno sítio http:// letras.terra.com.br/\u003cb\u003eelis\u003c/b\u003e-\u003cb\u003eregina\u003c/b\u003e/87855/ . Acesso dia 20/02/2008."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_OmTBQAAQBAJ",
+   "etag": "KpwulXTi0EU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_OmTBQAAQBAJ",
+   "volumeInfo": {
+    "title": "1973 - O ano que reinventou a MPB",
+    "subtitle": "",
+    "authors": [
+     "Célio Albuquerque"
+    ],
+    "publisher": "Sonora Editora",
+    "publishedDate": "2014-11-24",
+    "description": "Em 1973, algo enigmático faz com que a música brasileira produza uma quantidade incomum de discos que teimariam em resistir ao tempo, não só por sua alta dose de inovação, mas também pela quantidade generosa de estreantes que os assinam. Sem nenhuma pretensão de destronar seu maior rival, 1968 (“o ano que não terminou”), este livro aponta para a eternidade particular de 1973, ao reunir olhares individuais de cinquenta escritores para 50 álbuns no ano em que 1973 completa 40 anos. Jornalistas, artistas e outros notáveis enriquecem a leitura com seus pontos de vista e percepções particulares, acrescendo dinamismo e refinando ainda mais seu conteúdo. Contudo, tanto o idealizador do livro como os autores não pretendem fornecer explicações para um fenômeno inexplicável em sua própria essência, apenas ratificam a certeza absoluta do mistério que envolverá para sempre 1973 – o ano que reinventou a MPB.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788566567106"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8566567102"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_OmTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_OmTBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_OmTBQAAQBAJ&pg=PT120&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_OmTBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-_OmTBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 59.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_OmTBQAAQBAJ&rdid=book-_OmTBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/1973_O_ano_que_reinventou_a_MPB-sample-epub.acsm?id=_OmTBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/1973_O_ano_que_reinventou_a_MPB-sample-pdf.acsm?id=_OmTBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_OmTBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ELIS. MUDOU,. NÃO. O. DISCO. (ELIS − \u003cb\u003eELIS REGINA\u003c/b\u003e) Danilo Casaletti e \u003cbr\u003e\noriente, rapaz. Pela constatação de que a ... um LP, também de nome Elis, que \u003cbr\u003e\ntrouxe canções como “Águas de março”, “Atrás da porta”, “\u003cb\u003eNada será como antes\u003c/b\u003e\u003cbr\u003e\n”,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TLlaAAAAMAAJ",
+   "etag": "fXi6U5ATczE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TLlaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Nada será como antes",
+    "subtitle": "MPB nos anos 70",
+    "publishedDate": "1980",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023360724"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=TLlaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=TLlaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=TLlaAAAAMAAJ&q=Elis+Regina+-+Nada+ser%C3%A1+como+antes&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=TLlaAAAAMAAJ&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nada_ser%C3%A1_como_antes.html?hl=&id=TLlaAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=TLlaAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A projeção que a dupla Bosco/Blanc obteve a partir principalmente de um \u003cbr\u003e\nlançamento via \u003cb\u003eElis Regina\u003c/b\u003e, tornou Aldir um dos letristas mais conhecidos do \u003cbr\u003e\npúblico em geral, um dos únicos a dar entrevistas isolado de seu parceiro, e a \u003cbr\u003e\nassumir&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "e5YeAQAAIAAJ",
+   "etag": "JImj70CfQRE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e5YeAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Quem matou Maria Helena?",
+    "subtitle": "Quem não ama não mata : abismo de rosas ; Nada será como antes",
+    "authors": [
+     "Claudio Simões"
+    ],
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575050958"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575050958"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 252,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=e5YeAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=e5YeAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=e5YeAQAAIAAJ&q=Elis+Regina+-+Nada+ser%C3%A1+como+antes&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=e5YeAQAAIAAJ&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Quem_matou_Maria_Helena.html?hl=&id=e5YeAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e5YeAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quem não ama não mata : abismo de rosas ; \u003cb\u003eNada será como antes\u003c/b\u003e Claudio \u003cbr\u003e\nSimões. 11 De Sueli Costa e Tite ... 15 Citação à canção Casa no campo, de Zé \u003cbr\u003e\nRodrix e Tavito, gravada por \u003cb\u003eElis Regina\u003c/b\u003e no disco Elis, de 1972. 16 De Sérgio&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WbU8AQAAIAAJ",
+   "etag": "Fjs6p8wY1qo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WbU8AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Veja Rio",
+    "publishedDate": "2008",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105132671269"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WbU8AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WbU8AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WbU8AQAAIAAJ&q=Elis+Regina+-+Nada+ser%C3%A1+como+antes&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WbU8AQAAIAAJ&dq=Elis+Regina+-+Nada+ser%C3%A1+como+antes&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja_Rio.html?hl=&id=WbU8AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WbU8AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Filho da cantora \u003cb\u003eElis Regina\u003c/b\u003e e do pianista César Camargo Mariano, o cantor \u003cbr\u003e\nlança o quinto disco, que leva seu nome. ... o novo repertório, que inclui \u003cbr\u003e\ncomposições de Jorge Vercilo e Jair Oliveira, \u003cb\u003eserá\u003c/b\u003e intercalado por canções de \u003cbr\u003e\nseus outros discos. ... Distribuição de senhas duas horas \u003cb\u003eantes\u003c/b\u003e. ... Jovem \u003cbr\u003e\npianista pernambucano, que chamou atenção pela técnica e pela forma \u003cb\u003enada\u003c/b\u003e \u003cbr\u003e\nconvencional de tocar o&nbsp;..."
+   }
+  }
+ ]
+}

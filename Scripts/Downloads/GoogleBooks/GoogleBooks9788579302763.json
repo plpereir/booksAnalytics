@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "7XPM-xKU2BsC",
+   "etag": "FvKR0dPaSOc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7XPM-xKU2BsC",
+   "volumeInfo": {
+    "title": "Mentes Geniais",
+    "authors": [
+     "ALBERTO DELL'ISOLA"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "description": "Neste livro, Alberto Dell'Isola procura revelar seus segredos e apresentar uma série de técnicas e exercícios que podem ajudar o leitor a aprimorar de forma significativa a capacidade cognitiva. É possível aprender a treinar o cérebro para gravar o maior número de informações, potencializar a capacidade de aprendizado e descobrir como é possível decorar de maneira eficaz datas, fórmulas, discursos, números e acontecimentos históricos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8579302765"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579302763"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7XPM-xKU2BsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7XPM-xKU2BsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7XPM-xKU2BsC&dq=isbn:9788579302763&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7XPM-xKU2BsC&dq=isbn:9788579302763&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mentes_Geniais.html?hl=&id=7XPM-xKU2BsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7XPM-xKU2BsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, Alberto Dell&#39;Isola procura revelar seus segredos e apresentar uma série de técnicas e exercícios que podem ajudar o leitor a aprimorar de forma significativa a capacidade cognitiva. É possível aprender a treinar o cérebro ..."
+   }
+  }
+ ]
+}

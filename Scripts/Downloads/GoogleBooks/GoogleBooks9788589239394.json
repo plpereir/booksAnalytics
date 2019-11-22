@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HttxYgEACAAJ",
+   "etag": "5iMT50v0qQM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HttxYgEACAAJ",
+   "volumeInfo": {
+    "title": "FAZENDO MEU FILME, V.3 - O ROTEIRO INESPERADO",
+    "subtitle": "DE FANI",
+    "authors": [
+     "PAULA PIMENTA"
+    ],
+    "description": "O livro começa com Estefânia Castelino Belluz, a Fani, retornando de uma temporada na Inglaterra com onze quilos a mais em relação ao início da viagem. Ao voltar para casa, percebe que sua mãe quer continuar dizendo o que ela deve ou não fazer, algo que ela não aceita muito bem, pois se acostumou a tomar as próprias decisões durante sua estada no exterior, vivendo longe dos amigos, da família e conhecendo melhor seus sentimentos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858923939X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788589239394"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HttxYgEACAAJ&dq=isbn:9788589239394&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HttxYgEACAAJ&dq=isbn:9788589239394&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/FAZENDO_MEU_FILME_V_3_O_ROTEIRO_INESPERA.html?hl=&id=HttxYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HttxYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um turbilhão de sentimentos e emoções."
+   }
+  }
+ ]
+}

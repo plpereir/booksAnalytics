@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "K39htQAACAAJ",
+   "etag": "1ovm8av9vkc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K39htQAACAAJ",
+   "volumeInfo": {
+    "title": "A DIETA DA BARRIGA ZERO",
+    "authors": [
+     "CYNTHIA SASS",
+     "LIZ VACCARIELLO",
+     "PATRICIA AZEREDO"
+    ],
+    "description": "O livro 'A dieta da barriga zero' baseia-se em um ingrediente - ácido graxo monoinsaturado, ou AGMI. Óleos, azeitonas, frutas secas, sementes e chocolate amargo têm AGMIs em sua composição. Eles fazem parte de um grupo alimentar especial que os nutricionistas classificam como 'gordura boa' e, além de ajudarem no controle do colesterol, não têm facilidade de absorção pelo organismo, ou seja, não acumulam. É este o segredo que Cynthia Sass e Liz Vaccariello buscam compartilhar com os leitores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576844443"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576844440"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=K39htQAACAAJ&dq=isbn:9788576844440&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=K39htQAACAAJ&dq=isbn:9788576844440&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_DIETA_DA_BARRIGA_ZERO.html?hl=&id=K39htQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K39htQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A dieta da barriga zero se baseia em um ingrediente simples, facilmente encontrado, eficaz e de nome complicado: ácido graxo monoinsaturado, ou AGMI, para facilitar. Óleos, azeitonas, frutas secas, sementes e chocolate amargo têm AGMIs ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,784 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 462,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zSK6FeI5q5kC",
+   "etag": "zPOydVahbMc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zSK6FeI5q5kC",
+   "volumeInfo": {
+    "title": "O melhor de mim",
+    "authors": [
+     "Nicholas Sparks"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2012-05-01",
+    "description": "Na primavera de 1984, os estudantes Amanda Collier e Dawson Cole se apaixonaram perdidamente. Embora vivessem em mundos muito diferentes, o amor que sentiam um pelo outro parecia forte o bastante para desafiar todas as convenções de Oriental, a pequena cidade em que moravam. Nascido em uma família de criminosos, o solitário Dawson acreditava que seu sentimento por Amanda lhe daria a força necessária para fugir do destino sombrio que parecia traçado para ele. Ela, uma garota bonita e de família tradicional, que sonhava entrar para uma universidade de renome, via no namorado um porto seguro para toda a sua paixão e seu espírito livre. Infelizmente, quando o verão do último ano de escola chegou ao fim, a realidade os separou de maneira cruel e implacável. Vinte e cinco anos depois, eles estão de volta a Oriental para o velório de Tuck Hostetler, o homem que um dia abrigou Dawson, acobertou o namoro do casal e acabou se tornando o melhor amigo dos dois. Seguindo as instruções de cartas deixadas por Tuck, o casal redescobrirá sentimentos sufocados há décadas. Após tanto tempo afastados, Amanda e Dawson irão perceber que não tiveram a vida que esperavam e que nunca conseguiram esquecer o primeiro amor. Um único fim de semana juntos e talvez seus destinos mudem para sempre. Num romance envolvente, Nicholas Sparks mostra toda a sua habilidade de contador de histórias e reafirma que o amor é a força mais poderosa do Universo – e que, quando duas pessoas se amam, nem a distância nem o tempo podem separá-las.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580410648"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580410649"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.32.28.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zSK6FeI5q5kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zSK6FeI5q5kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zSK6FeI5q5kC&printsec=frontcover&dq=O+melhor+de+mim&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zSK6FeI5q5kC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zSK6FeI5q5kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.74,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zSK6FeI5q5kC&rdid=book-zSK6FeI5q5kC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.499E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.374E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_melhor_de_mim-sample-epub.acsm?id=zSK6FeI5q5kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_melhor_de_mim-sample-pdf.acsm?id=zSK6FeI5q5kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zSK6FeI5q5kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Num romance envolvente, Nicholas Sparks mostra toda a sua habilidade de contador de histórias e reafirma que o amor é a força mais poderosa do Universo – e que, quando duas pessoas se amam, nem a distância nem o tempo podem separá ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XAd_DwAAQBAJ",
+   "etag": "bDl+PlKQTPE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XAd_DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O melhor de mim",
+    "authors": [
+     "Tina Wainscott"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2019-01-01",
+    "description": "Lucy Donovan estava acostumada a coisas boas e caras... Até que uma viagem às Bahamas a conduziu ao sexy Chris Maddox, que lhe mostrou outra forma de ver a vida que a deixou boquiaberta. Mas o que mais boquiaberta a deixava era o corpo de Chris. Lucy sabia que aquele homem tirava o melhor dela, mas poderia abandonar tudo por ele? Chris Maddox estava hipnotizado com aquela mulher que não parava de o surpreender. Não se parecia com nenhuma outra pessoa que ele tivesse conhecido, e não era só a sua beleza ou a sua sofisticação... era toda ela. Lucy tirava o melhor dele, mas poderia pedir-lhe que deixasse tudo mesmo sabendo que talvez depois não tivessem nada?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788413076089"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8413076080"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XAd_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XAd_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XAd_DwAAQBAJ&dq=O+melhor+de+mim&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XAd_DwAAQBAJ&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_melhor_de_mim.html?hl=&id=XAd_DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XAd_DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lucy Donovan estava acostumada a coisas boas e caras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kCyoC97gT_QC",
+   "etag": "h2NWi7HgZI0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kCyoC97gT_QC",
+   "volumeInfo": {
+    "title": "O Melhor de Oswaldo Montenegro",
+    "publisher": "Irmãos Vitale",
+    "publishedDate": "2002",
+    "description": "Oswaldo Montenegro apresenta neste livro 25 de suas canções consideradas mais famosas, além de sua biografia (escrita por Madalena Salles), discografia e uma galeria de fotos de sua vida pessoal e artística.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574071560"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574071565"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 85,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kCyoC97gT_QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kCyoC97gT_QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kCyoC97gT_QC&pg=PA84&dq=O+melhor+de+mim&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kCyoC97gT_QC&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Melhor_de_Oswaldo_Montenegro.html?hl=&id=kCyoC97gT_QC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kCyoC97gT_QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Que as palavras que falo não sejam ouvidas como prece nem repetidas com \u003cbr\u003e\nfervor Apenas respeitadas Como a única coisa que resta a um homem inundado \u003cbr\u003e\nde sentimentos Porque metade de \u003cb\u003emim\u003c/b\u003e é \u003cb\u003eo\u003c/b\u003e que ouço, a outra metade é \u003cb\u003eo\u003c/b\u003e que \u003cbr\u003e\ncalo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pwfEwAEACAAJ",
+   "etag": "Oow4h/QrILQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pwfEwAEACAAJ",
+   "volumeInfo": {
+    "title": "O melhor de mim",
+    "subtitle": "64 crônicas",
+    "authors": [
+     "Francisco Paulo Sant'Ana"
+    ],
+    "publishedDate": "2003",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8589489108"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788589489102"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=pwfEwAEACAAJ&dq=O+melhor+de+mim&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pwfEwAEACAAJ&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_melhor_de_mim.html?hl=&id=pwfEwAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pwfEwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fsAXW3ND19wC",
+   "etag": "Q//NVoaD+zA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fsAXW3ND19wC",
+   "volumeInfo": {
+    "title": "O melhor de 14 Bis",
+    "subtitle": "melodias e cifras originais para guitarra, violão e teclados",
+    "authors": [
+     "Luciano Alves"
+    ],
+    "publisher": "Irmãos Vitale",
+    "publishedDate": "1998-01-01",
+    "description": "A banda de rock mineira registra neste álbum 30 de suas mais famosas canções - A qualquer tempo, Bola de meia, bola de gude, Planeta sonho, Caçador de mim, Canção da América, Cidadela, Carrossel, Linda juventude, Mesmo de brincadeira, Nave de prata, Nova manhã, Pequenas coisas, Romance, Planeta sonho, Siga o sol, Todo azul do mar, Uma velha canção rock'n roll e Vida nova.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574070718"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574070711"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 125,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fsAXW3ND19wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fsAXW3ND19wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fsAXW3ND19wC&pg=PA74&dq=O+melhor+de+mim&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fsAXW3ND19wC&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_melhor_de_14_Bis.html?hl=&id=fsAXW3ND19wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fsAXW3ND19wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Caçador de \u003cb\u003emim\u003c/b\u003e SERGIO MAGRÂO e LUIZ CARLOS SÁ A(add9) Bm(11)/A A y \u003cbr\u003e\n99 9 9 Pfi__í&gt; AM7(9) D(add9)/A Fim ... A Ci(addb9)/Ei Eu, caçador dô \u003cb\u003emim\u003c/b\u003e F$m \u003cbr\u003e\nNada a temer F$m&gt;E$ F$n^E F$mV$ Senão, \u003cb\u003eo\u003c/b\u003e correr da lu ta Bm7 Nada a fazer\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OSVTDwAAQBAJ",
+   "etag": "MbolWc7Qs4E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OSVTDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O melhor de você: uma história de amor",
+    "authors": [
+     "Mia Sheridan"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2018-06-15",
+    "description": "A autora best-seller do The New York Times, Mia Sheridan, presenteia os leitores com um novo romance contemporâneo comovente — que recebeu a rara e cobiçada resenha cinco estrelas Gold Pick da RT Book Reviews! Uma mulher destroçada… Crystal aprendeu há muitos anos que o amor só traz sofrimento. Não sentir nada é muito melhor do que ser magoada de novo. Ela protege o coração ferido por trás de uma fachada impassível e traz dentro de si uma profunda desconfiança com relação aos homens, que, segundo sua experiência, só exploram e depois menosprezam as mulheres. Um homem necessitando de ajuda… A despeito de seu passado terrível e sombrio, existe uma inegável bondade em Gabriel Dalton. E, apesar de saber o preço dessa equação, Crystal se sente atraída por ele. O magnetismo dessa relação está derrubando suas defesas e a esperança a faz questionar tudo ao seu redor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550303222"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550303224"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OSVTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OSVTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OSVTDwAAQBAJ&pg=PT226&dq=O+melhor+de+mim&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OSVTDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OSVTDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OSVTDwAAQBAJ&rdid=book-OSVTDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_melhor_de_voc%C3%AA_uma_hist%C3%B3ria_de_amor-sample-epub.acsm?id=OSVTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_melhor_de_voc%C3%AA_uma_hist%C3%B3ria_de_amor-sample-pdf.acsm?id=OSVTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OSVTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu ficava me perguntando por que ele estava cuidando de \u003cb\u003emim\u003c/b\u003e, \u003cb\u003eo\u003c/b\u003e motivo de ele \u003cbr\u003e\ntalvez gostar de \u003cb\u003emim\u003c/b\u003e. Será que eu seria capaz de aceitar que talvez ele \u003cbr\u003e\nsimplesmente gostasse? Poderia ser tão simples assim? Ele enxergava coisas \u003cbr\u003e\nem \u003cb\u003emim\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2357DwAAQBAJ",
+   "etag": "4X3uWR+FHGQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2357DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O melhor de Nelson Rodrigues",
+    "subtitle": "Teatro, contos e crônicas",
+    "authors": [
+     "Nelson Rodrigues"
+    ],
+    "publisher": "Nova Fronteira",
+    "publishedDate": "2018-11-22",
+    "description": "O melhor de Nelson Rodrigues faz parte de uma coleção que apresenta grandes autores da literatura brasileira a partir de seus textos fundamentais, aqueles que todos deveriam conhecer. Aqui estão reunidos lado a lado o dramaturgo que revolucionou o teatro nacional, o maior frasista de todos os tempos, o comentarista fanático por futebol e pelo Fluminense, e também o contista implacável dos dilemas morais do subúrbio carioca. Todas essas facetas — e outras mais — estão representadas nesta antologia por uma de suas mais famosas peças, O beijo no asfalto, por alguns dos conhecidíssimos contos de A vida como ela é... e pelas crônicas esportivas e políticas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520943557"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8520943551"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2357DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2357DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2357DwAAQBAJ&pg=PT49&dq=O+melhor+de+mim&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2357DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2357DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2357DwAAQBAJ&rdid=book-2357DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9490000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_melhor_de_Nelson_Rodrigues-sample-epub.acsm?id=2357DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2357DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Estava sentado, ergue-se) CUNHA (com um riso exagerado e bestial) — Medo \u003cbr\u003e\nde \u003cb\u003emim\u003c/b\u003e? (abrindo os braços para \u003cb\u003eo\u003c/b\u003e repórter) — Tem medo de \u003cb\u003emim\u003c/b\u003e, Amado! De \u003cbr\u003e\n\u003cb\u003emim\u003c/b\u003e! AMADO — D. Selminha, com licença! SELMINHA (desorientada) — Não é&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g5FuSf3kY7gC",
+   "etag": "5biAZmkwOMc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g5FuSf3kY7gC",
+   "volumeInfo": {
+    "title": "O melhor de Martinho da Vila",
+    "subtitle": "melodias e cifras originais para guitarra, violão e teclados",
+    "authors": [
+     "Luciano Alves"
+    ],
+    "publisher": "Irmãos Vitale",
+    "publishedDate": "1999-01-01",
+    "description": "Este álbum descreve a carreira de Martinho da Vila, através da narração do jornalista Roberto M. Moura, e apresenta 30 sucessos da carreira do grande sambista. Estão incluídas músicas como - Casa de bamba, Quem é do mar não enjoa, O pequeno burguês, Canta",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574070319"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574070315"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g5FuSf3kY7gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g5FuSf3kY7gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g5FuSf3kY7gC&pg=PA80&dq=O+melhor+de+mim&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g5FuSf3kY7gC&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_melhor_de_Martinho_da_Vila.html?hl=&id=g5FuSf3kY7gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g5FuSf3kY7gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... D7 Era um por mi lhares G Milhares por um Em Am Como livres raios D7 G \u003cbr\u003e\nRiscando os es_paços Em Am Transando \u003cb\u003eo\u003c/b\u003e uni verso D7 G Limpando os morma \u003cbr\u003e\nços E7 Am Ai de \u003cb\u003emim\u003c/b\u003e D7 G Ai de \u003cb\u003emim\u003c/b\u003e que mal sonha va Em Am Ai de \u003cb\u003emim\u003c/b\u003e D7 G \u003cbr\u003e\nAi&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z6CosRxn5k0C",
+   "etag": "ju8ozfGxW1U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z6CosRxn5k0C",
+   "volumeInfo": {
+    "title": "O Melhor de Roberto Carlos, Vol 1",
+    "subtitle": "Piano/Vocal/Chords (Spanish Language Edition)",
+    "authors": [
+     "Roberto Carlos"
+    ],
+    "publisher": "Irmãos Vitale",
+    "publishedDate": "1998-11-01",
+    "description": "Cama e Mesa * Coisa Bonita (Gordinha) * De Que Vale Tudo Isso * Detalhes * Folhas de Outono * Jesus Cristo * Minha Senhora * Mulher de 40 * Proposta * Só Vou Gostar de Quem Gosta de Mim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574070114"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574070117"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=z6CosRxn5k0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=z6CosRxn5k0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=z6CosRxn5k0C&pg=PA35&dq=O+melhor+de+mim&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=z6CosRxn5k0C&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Melhor_de_Roberto_Carlos_Vol_1.html?hl=&id=z6CosRxn5k0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=z6CosRxn5k0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "DM7 Voz Gm7 t$=Z m T~^i Pra vo - cê eu guar - dei Se vo - cê não vol - tar A7 ^S \u003cbr\u003e\né ^ Um a - mor in - fi - ni - to \u003cb\u003eO\u003c/b\u003e que fa - ço da vi - da DM7 , 3- Am7 D7 GM7 •3 , , 3- \u003cbr\u003e\ni Íee3 í ¥ ♢ ♢ # &quot;r Pra vo ... Só vou gostar de quem gosta de \u003cb\u003emim\u003c/b\u003e &quot;6 te 35 J -82."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aQBRXTZ3eLIC",
+   "etag": "pqZVLx5CQZo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aQBRXTZ3eLIC",
+   "volumeInfo": {
+    "title": "O Melhor de Barão Vermelho",
+    "authors": [
+     "Luciano Alves"
+    ],
+    "publisher": "Irmãos Vitale",
+    "publishedDate": "2000",
+    "description": "Álbum contendo a história da banda, narrada pelo jornalista Jamari França, e os arranjos de 32 de seus maiores sucessos, revisados pelo guitarrista e líder do grupo Roberto Frejat, entre eles - Amor meu grande amor, Bete balanço, Daqui por diante, Dignidade, Eu queria ter uma bomba, Flores do mal, Maior abandonado, Nunca existiu pecado, O poeta está vivo, Pense e dance, Por você, Pro dia nascer feliz, Puro êxtase, Quando, Quem me olha só, Bilhetinho azul, Torre de Babel e Vem quente que eu estou fervendo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574070904"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574070902"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aQBRXTZ3eLIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aQBRXTZ3eLIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aQBRXTZ3eLIC&pg=PA83&dq=O+melhor+de+mim&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aQBRXTZ3eLIC&dq=O+melhor+de+mim&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Melhor_de_Bar%C3%A3o_Vermelho.html?hl=&id=aQBRXTZ3eLIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aQBRXTZ3eLIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dignidade FREJAT Bm7 F#m7 C»m7 E7 A/C» 44 E4 A(no3add9) Q \u003cb\u003eo\u003c/b\u003e op \u003cbr\u003e\nIntrodução (2Xs): A E D A Bm7 A D A D De você ... eu xingo Porque eu preciso \u003cbr\u003e\nE4 Eu não vivo sem você não Não, não não REFRÃO: A Fim Dinheiro pra \u003cb\u003emim\u003c/b\u003e \u003cbr\u003e\nnão tem&nbsp;..."
+   }
+  }
+ ]
+}

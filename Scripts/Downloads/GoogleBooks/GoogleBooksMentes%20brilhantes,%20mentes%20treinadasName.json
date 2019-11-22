@@ -1,0 +1,795 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 14,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "09KXjSnOf6IC",
+   "etag": "gT/H6olnEbo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/09KXjSnOf6IC",
+   "volumeInfo": {
+    "title": "Mentes Brilhantes, Mentes Treinadas",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-02-27",
+    "description": "Neste Livro inédito, Augusto Cury partilha com os leitores as suas reflexões sobre o fascinante mundo da mente humana.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722045605"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722045601"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=09KXjSnOf6IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=09KXjSnOf6IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=09KXjSnOf6IC&printsec=frontcover&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=09KXjSnOf6IC&dq=Mentes+brilhantes,+mentes+treinadas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mentes_Brilhantes_Mentes_Treinadas.html?hl=&id=09KXjSnOf6IC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mentes_Brilhantes_Mentes_Treinadas-sample-epub.acsm?id=09KXjSnOf6IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mentes_Brilhantes_Mentes_Treinadas-sample-pdf.acsm?id=09KXjSnOf6IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=09KXjSnOf6IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste Livro inédito, Augusto Cury partilha com os leitores as suas reflexões sobre o fascinante mundo da mente humana."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rwhkuQAACAAJ",
+   "etag": "Ji75TRLW0dk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rwhkuQAACAAJ",
+   "volumeInfo": {
+    "title": "Mentes Brilhantes, Mentes Treinadas",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "description": "Este livro aborda o assunto de gerenciamento da mente a partir da Teoria da Inteligência Multifocal. O autor prentede explicar por meio de exemplos, alguns problemas psicológicos e até transtornos psíquicos que são causados pelo descontrole, falta de gerencimanto e proteção da mente.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8560096906"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560096909"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=rwhkuQAACAAJ&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rwhkuQAACAAJ&dq=Mentes+brilhantes,+mentes+treinadas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mentes_Brilhantes_Mentes_Treinadas.html?hl=&id=rwhkuQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rwhkuQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro aborda o assunto de gerenciamento da mente a partir da Teoria da Inteligência Multifocal."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "86_vSAAACAAJ",
+   "etag": "YtSsgiFqAGU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/86_vSAAACAAJ",
+   "volumeInfo": {
+    "title": "MENTES BRILHANTES, MENTES TREINADAS - DESVENDANDO",
+    "subtitle": "O FASCINANTE MUNDO DA MENTE HUMANA",
+    "authors": [
+     "AUGUSTO CURY"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8560096817"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560096817"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=86_vSAAACAAJ&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=86_vSAAACAAJ&dq=Mentes+brilhantes,+mentes+treinadas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MENTES_BRILHANTES_MENTES_TREINADAS_DESVE.html?hl=&id=86_vSAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=86_vSAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jtlBCwAAQBAJ",
+   "etag": "/bewb2w8ZpE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jtlBCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Persuasão: Persuasion",
+    "subtitle": "Edição bilíngue português- inglês",
+    "authors": [
+     "Jane Austen"
+    ],
+    "publisher": "Editora Landmark LTDA",
+    "publishedDate": "2012-01-01",
+    "description": "Jane Austen começou a escrever 'Persuasão', seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816. O livro foi publicado, postumamente, em 1818 e serviu como base do roteiro sobre o romance dos personagens interpretados por Sandra Bullock e Keanu Reeves, no filme 'A Casa do Lago', de 2006. 'Persuasão' costuma ser associado a outro de seus romances, 'A Abadia de Northanger', pois além dos dois livros terem sido originalmente publicados em um único volume, ambas as histórias são situadas na cidade de Bath, um balneário termal onde Jane Austen viveu de1801 a 1805. O enredo deste empolgante livro gira em torno dos amores de Anne Elliot que se apaixonara pelo pobre, mas ambicioso jovem oficial da marinha, capitão Frederick Wentworth. A família de Anne não concorda com essa relação e a convence romper seu relacionamento amoroso. Anos após Anne reencontra Frederick, agora cortejando sua amiga e vizinha, Louisa Musgrove. 'Persuasão' é amplamente apreciada, pois tem uma simpática história de amor, de trama simples e bem elaborada, e mostra o estilo de narrativa irônica de Jane Austen. Além disto, é original, pelo fato, entre outros motivos, de ser uma das poucas histórias da escritora que não apresenta a heroína em plena juventude. O romance também é um apanágio ao homem de iniciativa, através do personagem do capitão Frederick Wentworth que parte de uma origem humilde e que alcança influência e status pela força de seus méritos e não através de herança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788588781993"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8588781999"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 920,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jtlBCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jtlBCwAAQBAJ&printsec=frontcover&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jtlBCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jtlBCwAAQBAJ&rdid=book-jtlBCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9800000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-epub.acsm?id=jtlBCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Persuas%C3%A3o_Persuasion-sample-pdf.acsm?id=jtlBCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jtlBCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jane Austen começou a escrever &#39;Persuasão&#39;, seu último romance completo, após ter terminado de escrever Emma, e concluiu-o, em agosto de 1816."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O5rUBQAAQBAJ",
+   "etag": "QuNF9IEg3do",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O5rUBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Inteligência Emocional",
+    "subtitle": "A arte de atrair pessoas e conduzi-las a propósitos nobres",
+    "authors": [
+     "Arão Amazonas"
+    ],
+    "publisher": "Semente de Vida",
+    "publishedDate": "2014-12-01",
+    "description": "Um dos maiores desafios que as lideranças seculares e até eclesiásticas encontram nos dias de hoje é saber como lidar com discernimento e sabedoria na condução de seus negócios e rebanhos. A falta de sabedoria, conhecimento e instrução, bem como a inaptidão na arte de lidar com as pessoas, tem sido um dos fatores mais desagregadores dentro de empesas, pequenas Igrejas e até grandes instituições. Tais fatos promovem um enorme estresse emocional e espiritual, por conta das dificuldades de relacionamentos, incapacidade técnico-administrativa de gerenciamento de pessoas, despreparo das lideranças, falta de planejamento estratégico e projetos específicos de crescimento das Igrejas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563460554"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8563460552"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O5rUBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O5rUBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=O5rUBQAAQBAJ&pg=PT133&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=O5rUBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-O5rUBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.26,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=O5rUBQAAQBAJ&rdid=book-O5rUBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.926E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.926E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Intelig%C3%AAncia_Emocional-sample-epub.acsm?id=O5rUBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Intelig%C3%AAncia_Emocional-sample-pdf.acsm?id=O5rUBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O5rUBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMentes brilhantes\u003c/b\u003e, \u003cb\u003eMentes treinadas\u003c/b\u003e. Desvendando o fascinante mundo da \u003cbr\u003e\nmente humana. São Paulo. Editora Academia de Inteligência, 2010 — (Coleção \u003cbr\u003e\nminutos de inteligência). DALGALARRONDO, Paulo. Psicopatologia e \u003cbr\u003e\nsemiologia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FsUzDwAAQBAJ",
+   "etag": "rc3ZjnyY9QE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FsUzDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia 301 Dicas para Não Ter Depressão",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-09-04",
+    "description": "Com explicações detalhadas sobre a doença, este guia propõe um amplo conhecimento sobre as causas, sintomas e métodos de cura da depressão. Confira as sugestões de alimentos, exercícios, terapias alternativas, comportamentos e padrões de pensamento que estimulam o bom humor e ajudam a combater a tristeza. Aqui, você aprende técnicas para se manter saudável e viver bem mais feliz!",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FsUzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FsUzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FsUzDwAAQBAJ&pg=PA86&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FsUzDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FsUzDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FsUzDwAAQBAJ&rdid=book-FsUzDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FsUzDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMENTES BRILHANTES\u003c/b\u003e, \u003cb\u003eMENTES TREINADAS\u003c/b\u003e, Augusto Cury, editora Academia \u003cbr\u003e\nde Inteligência A na. obra Em apresenta suas páginas, algumas você terá \u003cbr\u003e\nreflexões acesso sobre à Teoria a mente da Inteligência humaMulfatorial, que o \u003cbr\u003e\nautor&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lux7DwAAQBAJ",
+   "etag": "HOTAL/J9N08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lux7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "132 Resenhas 2012",
+    "authors": [
+     "Navarco Maia"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Este livro foi o segundo que reuniu resenhas de livros, a partir deste ano, comecei a reunir em ordem cronológica as resenhas dos livros que li ao longo do ano indicado. A ideia havia surgido há muitos anos, quando eu havia pensado na reunião que dei o nome de 100 Resenhas que ficou no prelo por muitos anos. Neste exemplar encontramos análises das minhas relações com os livros lidos e as circunstâncias em que eles cruzaram o meu caminho, não necessariamente detalhes e aspectos que tragam a público informações sobre o enredo dos mesmos. Um passeio pelas influências literárias que a mente deste autor teve naquele seu tempo de leitura.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU6853"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 169,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.38.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lux7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lux7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lux7DwAAQBAJ&pg=PA61&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lux7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lux7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lux7DwAAQBAJ&rdid=book-lux7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/132_Resenhas_2012-sample-pdf.acsm?id=lux7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lux7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Augusto Cury - \u003cb\u003eMentes Brilhantes\u003c/b\u003e, \u003cb\u003eMentes Treinadas\u003c/b\u003e Há alguns dias finalizei a \u003cbr\u003e\nleitura deste livro de Augusto Cury. A resenha acabou se perdendo e acabei não \u003cbr\u003e\nescrevendo no quente do momento ficando perdida nos desvãos da memória."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OSVADwAAQBAJ",
+   "etag": "eslH50YuIY8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OSVADwAAQBAJ",
+   "volumeInfo": {
+    "title": "O sucesso do seu negócio é você",
+    "authors": [
+     "Rubens Teixeira"
+    ],
+    "publisher": "LEYA",
+    "publishedDate": "2017-07-01",
+    "description": "Chegar ao êxito em qualquer empreendimento requer uma caminhada. Para se vencer qualquer batalha, há um conjunto de princípios e estratégias a ser usado como ferramenta. Tudo é muito dinâmico e não há receita de bolo, mas há diretrizes, doutrinas, que, se utilizadas, tornam os resultados mais previsíveis. Vai abrir a própria empresa? Ou seu negócio está passando por uma fase ruim? Em O Sucesso do seu Negócio é Você, Rubens Teixeira usa sua experiência como gestor e nos apresenta meios de superarmos as barreiras que surgem diante de cada novo caminho de modo que alcancemos o sucesso nas áreas que nos interessam. Sobre o Autor Rubens Teixeira nasceu em Rocha Miranda, no Rio de Janeiro. Aos 9 anos, já havia lido toda a Bíblia. Os resultados que obteve ao longo da vida são atribuídos, em grande parte, aos conhecimentos adquiridos por meio dessa leitura continuada. Oficial de carreira da arma de infantaria, cursou engenharia de fortificação e construção no Instituto Militar de Engenharia (IME), fez mestrado em engenharia nuclear, doutorado em economia, direito e pós-graduação em auditoria e perícia contábil. Casado e com dois filhos, é capitão da reserva do Quadro de Engenheiros Militares do Exército, analista concursado do Banco Central do Brasil, membro da Associação dos Diplomados da Escola Superior de Guerra (Adesg/RJ) e membro titular da Academia Evangélica de Brasileira do Brasil (AELB), ocupando a carreira no 37. Além de ser comentarista de rádio e televisão em diversas emissoras, possui artigos publicados em revistas científicas especializadas em economia e direito, no Brasil e no exterior.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544105962"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8544105963"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OSVADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OSVADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OSVADwAAQBAJ&pg=PT251&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OSVADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OSVADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OSVADwAAQBAJ&rdid=book-OSVADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.099E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.322E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_sucesso_do_seu_neg%C3%B3cio_%C3%A9_voc%C3%AA-sample-epub.acsm?id=OSVADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OSVADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "CORREA, Cristiane. Sonho grande. Rio de Janeiro: Sextante, 2013. CORTELLA, \u003cbr\u003e\nMario Sergio. Qual é a tua obra? Petrópolis: Vozes, 2013. CURY, Augusto. \u003cbr\u003e\n\u003cb\u003eMentes brilhantes\u003c/b\u003e, \u003cb\u003ementes treinadas\u003c/b\u003e. São Paulo: Editora Academia de \u003cbr\u003e\nInteligência,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "J31v0MDDfpIC",
+   "etag": "SePg9T3TrE4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/J31v0MDDfpIC",
+   "volumeInfo": {
+    "title": "Compreensão astrológica da personalidade",
+    "publisher": "Grupo Editorial Summus",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571832935"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571832930"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=J31v0MDDfpIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=J31v0MDDfpIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=J31v0MDDfpIC&pg=PA244&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=J31v0MDDfpIC&dq=Mentes+brilhantes,+mentes+treinadas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Compreens%C3%A3o_astrol%C3%B3gica_da_personalida.html?hl=&id=J31v0MDDfpIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J31v0MDDfpIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A \u003cb\u003emente\u003c/b\u003e é \u003cb\u003ebrilhante\u003c/b\u003e, espirituosa e rápida, mas não é meticulosa. Os padrões de \u003cbr\u003e\naprendizado e de trabalho não são sólidos porque essa criança fica aborrecida \u003cbr\u003e\nrápida e facilmente. O talento se revelará periodicamente mas não se pode&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_57uAAAAMAAJ",
+   "etag": "bteTJp431/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_57uAAAAMAAJ",
+   "volumeInfo": {
+    "title": "O escolhido",
+    "authors": [
+     "Carlos Moreira Araújo"
+    ],
+    "publisher": "Publicac7eoes Quipu",
+    "publishedDate": "1999-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9728408102"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789728408107"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 191,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_57uAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_57uAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_57uAAAAMAAJ&q=Mentes+brilhantes,+mentes+treinadas&dq=Mentes+brilhantes,+mentes+treinadas&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_57uAAAAMAAJ&dq=Mentes+brilhantes,+mentes+treinadas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_escolhido.html?hl=&id=_57uAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_57uAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lentamente, como que acordando de uma longa sonolência, Khien abriu os \u003cbr\u003e\nolhos, umas pupilas negras, \u003cb\u003ebrilhantes\u003c/b\u003e e ... que gelaram os presentes \u003cbr\u003e\nacometidos de um ligeiro sobressalto, rapidamente reprimido por \u003cb\u003ementes\u003c/b\u003e fortes e \u003cbr\u003e\n\u003cb\u003etreinadas\u003c/b\u003e."
+   }
+  }
+ ]
+}

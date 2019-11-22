@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "c4QitAEACAAJ",
+   "etag": "pisbkCXyUN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c4QitAEACAAJ",
+   "volumeInfo": {
+    "title": "Paris Para Um E Outros Contos",
+    "authors": [
+     "Jojo Moyes",
+     "Marina Vargas",
+     "Viviane Diniz",
+     "Adalgisa Campos Da Silva"
+    ],
+    "description": "Em histórias curtas e divertidas, Jojo Moyes, sem deixar de lado as personagens decididas que conquistaram o público, faz sua conhecida mágica de transformar situações comuns em eventos extraordinários. No conto que dá título ao livro, a jovem Nell planeja um final de semana romântico em Paris com o namorado e fica sabendo, já na estação, que ele desistiu de acompanhá-la. Sozinha em um país estrangeiro, Nell descobre uma nova versão de si mesma, independente e corajosa. Outros contos incluem um assalto a uma joalheria com uma reviravolta amorosa, a história de uma mulher que passa um dia inteiro com os sapatos de outra pessoa e um shopping lotado de pessoas fazendo compras de Natal que vai revelar a uma esposa estressada o que de fato importa na vida. E em \"Lua de mel em Paris\", que fecha a coletânea, Jojo Moyes brinda os leitores com um reencontro com as personagens do livro A garota que você deixou para trás, Liv e Sophie, que, separadas por algumas décadas, acreditam que o casamento é apenas o início de suas histórias de amor. Dez pequenas amostras da saborosa escrita de Jojo Moyes, divertidas, autênticas e irresistíveis - você vai ler e se encantar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580579724"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580579727"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=c4QitAEACAAJ&dq=isbn:9788580579727&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=c4QitAEACAAJ&dq=isbn:9788580579727&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Paris_Para_Um_E_Outros_Contos.html?hl=&id=c4QitAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c4QitAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em histórias curtas e divertidas, Jojo Moyes, sem deixar de lado as personagens decididas que conquistaram o público, faz sua conhecida mágica de transformar situações comuns em eventos extraordinários."
+   }
+  }
+ ]
+}

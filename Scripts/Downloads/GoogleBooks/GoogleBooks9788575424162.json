@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-sh6PgAACAAJ",
+   "etag": "lHRxbQ0DsuE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-sh6PgAACAAJ",
+   "volumeInfo": {
+    "title": "Salomão, o homem mais rico que já existiu",
+    "authors": [
+     "Steve Scott",
+     "Fabiano Morais"
+    ],
+    "publishedDate": "2008",
+    "description": "Segundo o autor, embora a Bíblia seja citada a todo instante, a sabedoria contida nela é pouco conhecida pela maioria das pessoas. Nesta obra ele pretende apresentar princípios de vida retirados da história de Salomão. Nascido por volta de 974 a.C., Salomão foi coroado rei de Israel com apenas 12 anos de idade. Segundo o Antigo Testamento, Deus apareceu para ele e ofereceu lhe dar o que quisesse, mas o jovem pediu apenas sabedoria para governar seu povo. Fascinado com tamanha humildade, Deus o transformou em um homem rico, sábio e vitorioso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575424165"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575424162"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 173,
+    "printType": "BOOK",
+    "categories": [
+     "Life skills"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-sh6PgAACAAJ&dq=isbn:9788575424162&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-sh6PgAACAAJ&dq=isbn:9788575424162&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Salom%C3%A3o_o_homem_mais_rico_que_j%C3%A1_exist.html?hl=&id=-sh6PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-sh6PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Consciente da riqueza de conselhos que ela encerra, Steven K. Scott apresenta neste livro valiosos princípios de vida retirados da história de Salomão."
+   }
+  }
+ ]
+}

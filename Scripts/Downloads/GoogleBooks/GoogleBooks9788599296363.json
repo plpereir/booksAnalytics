@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "845RPgAACAAJ",
+   "etag": "aZ4GGY2jAnw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/845RPgAACAAJ",
+   "volumeInfo": {
+    "title": "A Cabana",
+    "authors": [
+     "William P. Young",
+     "Alves Calado"
+    ],
+    "publisher": "amanda zogis",
+    "publishedDate": "2008",
+    "description": "A filha mais nova de Mackenzie Allen Philip foi raptada durante as férias em família e há evidências de que ela foi brutalmente assassinada e abandonada numa cabana. Quatro anos mais tarde, Mack recebe uma nota suspeita, aparentemente vinda de Deus, convidando-o para voltar àquela cabana e passar o fim de semana. Ignorando alertas de que poderia ser uma cilada, ele segue numa tarde de inverno e volta ao cenário de seu pior pesadelo. O que encontra lá pode mudar sua vida para sempre.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8599296361"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599296363"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Life change events"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 26,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=845RPgAACAAJ&dq=isbn:9788599296363&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=845RPgAACAAJ&dq=isbn:9788599296363&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Cabana.html?hl=&id=845RPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=845RPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A filha mais nova de Mackenzie Allen Philip foi raptada durante as férias em família e há evidências de que ela foi brutalmente assassinada e abandonada numa cabana."
+   }
+  }
+ ]
+}

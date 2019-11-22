@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "__FNSAAACAAJ",
+   "etag": "2yDE2O+iUyo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/__FNSAAACAAJ",
+   "volumeInfo": {
+    "title": "É para isso que não servem os amigos",
+    "authors": [
+     "Jim Benton"
+    ],
+    "publishedDate": "2010",
+    "description": "Agora Jamie e Angelina são amigas. Essa é uma Amizade Automática, que Jamie tem que aceitar e fazer dela a melhor possível. Entenda, se ela fosse contra, a tia Carol poderia se divorciar do tio da Angelina, o que deixaria os dois numa depressão profunda pelo resto de suas vidas, e a Angelina se sentiria tão culpada que teria que ser internada em um hospício velho e sujo, por muitos e muitos anos, e então os filhotes do Fedido iriam crescer sem poder visitar a mãe, e Jamie faria uma crueldade dessas com um cachorrinho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576768607"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576768609"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Diaries"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=__FNSAAACAAJ&dq=isbn:9788576768609&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=__FNSAAACAAJ&dq=isbn:9788576768609&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%C3%89_para_isso_que_n%C3%A3o_servem_os_amigos.html?hl=&id=__FNSAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=__FNSAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Agora Jamie e Angelina são amigas."
+   }
+  }
+ ]
+}

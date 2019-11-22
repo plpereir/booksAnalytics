@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3bQ6KQEACAAJ",
+   "etag": "19exzTxLs5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3bQ6KQEACAAJ",
+   "volumeInfo": {
+    "title": "Era uma vez minha primeira vez",
+    "authors": [
+     "Thalita Rebouças"
+    ],
+    "publishedDate": "2011",
+    "description": "Neste livro, a autora procura entrar na cabeça de cada personagem - Teresa, Clara, Tuca, Fernanda, Patty e Joana, todas entre 15 e 19 anos - para revelar o que elas estão vivendo - o antes, o durante e o depois de um dos momentos considerados importantes para mulheres. Thalita Rebouças aborda tópicos como a amizade, a relação com os pais e a importância que os adolescentes parecem dar à opinião alheia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8579800714"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579800719"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3bQ6KQEACAAJ&dq=isbn:9788579800719&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3bQ6KQEACAAJ&dq=isbn:9788579800719&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Era_uma_vez_minha_primeira_vez.html?hl=&id=3bQ6KQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3bQ6KQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Thalita Rebouças aborda tópicos como a amizade, a relação com os pais e a importância que os adolescentes parecem dar à opinião alheia."
+   }
+  }
+ ]
+}

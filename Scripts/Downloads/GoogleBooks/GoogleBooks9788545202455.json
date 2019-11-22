@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fcK2tQEACAAJ",
+   "etag": "TiaUapYNMcE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fcK2tQEACAAJ",
+   "volumeInfo": {
+    "title": "A Jornada Da Liberdade",
+    "authors": [
+     "Fagner Borges"
+    ],
+    "description": "Fagner Borges, criador do Movimento Freesider, apresenta a você o caminho para ressignificar a maneira de ver o mundo e encarar o trabalho, conquistando uma vida alinhada aos seus valores e com liberdade de tempo, mobilidade e dinheiro. Para isso, o autor mostra como desenvolver as quatro competências fundamentais para quem sonha em ser dono da própria vida: 1. Competência pessoal: desenvolva a autoconfiança e vença os inimigos internos que têm lhe impedido de avançar em seus sonhos. 2. Competência interpessoal: aprenda a arte de influenciar pessoas e delegar tarefas de maneira eficiente. 3. Competência financeira: descubra o que você tem feito de errado em relação às suas finanças e como lidar com novos tipos de renda. 4. Competência produtiva: como tornar a produtividade a sua maior aliada na busca por liberdade, fazendo você ganhar mais, trabalhando menos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8545202458"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545202455"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fcK2tQEACAAJ&dq=isbn:9788545202455&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fcK2tQEACAAJ&dq=isbn:9788545202455&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Jornada_Da_Liberdade.html?hl=&id=fcK2tQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fcK2tQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fagner Borges, criador do Movimento Freesider, apresenta a você o caminho para ressignificar a maneira de ver o mundo e encarar o trabalho, conquistando uma vida alinhada aos seus valores e com liberdade de tempo, mobilidade e dinheiro."
+   }
+  }
+ ]
+}

@@ -1,0 +1,809 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 451,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Jo00DgAAQBAJ",
+   "etag": "z83mvgAF0KM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Jo00DgAAQBAJ",
+   "volumeInfo": {
+    "title": "Moda à brasileira",
+    "subtitle": "O guia imprescindível para os novos tempos da moda",
+    "authors": [
+     "Alice Ferraz"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2017-02-28",
+    "description": "Moda não combina com medo e Alice Ferraz, a empresária de moda mais influente do Brasil, traz um livro completo para responder à pergunta que lhe fazem todos os dias: como eu faço para me vestir bem? O livro que representa os novos tempos da moda, um momento maravilhoso de quebrar paradigmas e se reinventar. Alice Ferraz não está aqui para ensinar a você o que \"pode\" e o que \"não pode\", mas como raciocinar a moda para servir à quem você quer e precisa ser, para servir à sua criatividade, ao seu jeito de ser e ao poder que você pode exercer quando se sente bem-vestida. Além disso, você ainda pode se inspirar nos moodboards das influenciadoras do F*Hits como Lalá Noleto, Camila Coelho, Helena Lunardelli, Sophia Alckmin, Silvia Braz, Luiza Sobral, Nicole Pinheiro, Rebeka Guerra, Claudia Bartelle, Alice Salazar e Lucy Ramos. Um guia imprescindível para dominar a moda sendo você mesma.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545201496"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545201494"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.5.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Jo00DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Jo00DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Jo00DgAAQBAJ&printsec=frontcover&dq=Moda+%C3%A0+brasileira&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Jo00DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Jo00DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Jo00DgAAQBAJ&rdid=book-Jo00DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.199E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Moda_%C3%A0_brasileira-sample-epub.acsm?id=Jo00DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Moda_%C3%A0_brasileira-sample-pdf.acsm?id=Jo00DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Jo00DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alice Ferraz não está aqui para ensinar a você o que &quot;pode&quot; e o que &quot;não pode&quot;, mas como raciocinar a moda para servir à quem você quer e precisa ser, para servir à sua criatividade, ao seu jeito de ser e ao poder que você pode ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AoWZAAAACAAJ",
+   "etag": "KTL70j0rghY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AoWZAAAACAAJ",
+   "volumeInfo": {
+    "title": "Vencendo a crise à moda brasileira",
+    "subtitle": "turnaround em empresas nacionais",
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8521307888"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788521307884"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Corporate reorganizations"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AoWZAAAACAAJ&dq=Moda+%C3%A0+brasileira&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AoWZAAAACAAJ&dq=Moda+%C3%A0+brasileira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vencendo_a_crise_%C3%A0_moda_brasileira.html?hl=&id=AoWZAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AoWZAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JaJUnqibx8YC",
+   "etag": "bU4lHrMDPuw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JaJUnqibx8YC",
+   "volumeInfo": {
+    "title": "Sentidos Da Moda, Os",
+    "authors": [
+     "Renata Pitombo Cidreira"
+    ],
+    "publisher": "Annablume",
+    "publishedDate": "2006",
+    "description": "O livro reúne investigações sobre o papel da moda na cultura contemporânea - destacando sua relação com o consumo, sua dimensão artística e sua capacidade comunicativa - e procura responder à demanda de estudos sobre moda no Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574195278"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574195278"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JaJUnqibx8YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JaJUnqibx8YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JaJUnqibx8YC&pg=PA70&dq=Moda+%C3%A0+brasileira&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JaJUnqibx8YC&dq=Moda+%C3%A0+brasileira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sentidos_Da_Moda_Os.html?hl=&id=JaJUnqibx8YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JaJUnqibx8YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao analisar o recente deslumbre internacional pela \u003cb\u003emoda brasileira\u003c/b\u003e, Erika \u003cbr\u003e\nPalomino relata que o primeiro a tentar uma trajetória internacional foi o estilista \u003cbr\u003e\nAlexandre Herchcovitch, em 1997, desfilando em Londres em 1999 e sendo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q0I8CwAAQBAJ",
+   "etag": "JITq1e5rv/E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q0I8CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Indumentária e moda",
+    "subtitle": "caminhos investigativos",
+    "authors": [
+     "Ivana Guilherme Simili",
+     "Ronaldo Salvador Vasques"
+    ],
+    "publisher": "Editora da Universidade Estadual de Maringá - EDUEM",
+    "publishedDate": "2013-01-01",
+    "description": "Este livro foi concebido como um desfile de pensamentos sobre as roupas e a moda. Se há um fio condutor nas roupas-textos oferecidas para a apreciação do/a leitor/a, em cada um dos capítulos, é o de fazer pensar, o que é, afinal, a moda? Os caminhos percorridos pelos/as autores/as, como estilistas do pensamento, expõem-se nas criações dos objetos de estudos, proporcionando visões e versões da moda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576286516"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576286513"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.4.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q0I8CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q0I8CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Q0I8CwAAQBAJ&pg=PA214&dq=Moda+%C3%A0+brasileira&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Q0I8CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Q0I8CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 50.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Q0I8CwAAQBAJ&rdid=book-Q0I8CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.0E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.0E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Indument%C3%A1ria_e_moda-sample-epub.acsm?id=Q0I8CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Indument%C3%A1ria_e_moda-sample-pdf.acsm?id=Q0I8CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q0I8CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Considerações finais Em suma, o que as roupas de Denerusadas por Maria \u003cbr\u003e\nThereza comunicam é que a \u003cb\u003emoda brasileira\u003c/b\u003e podia destacar e valorizar a beleza \u003cbr\u003e\nnatural da mulher brasileira; que as roupas feitas por brasileiros podiam tornar \u003cbr\u003e\nas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iK5cBAAAQBAJ",
+   "etag": "O1oN20cH/M4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iK5cBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Modos de homem e modas de mulher",
+    "authors": [
+     "Gilberto Freyre"
+    ],
+    "publisher": "Global Editora e Distribuidora Ltda",
+    "publishedDate": "2015-09-04",
+    "description": "De maneira leve e instigante, em textos curtos e saborosos, Gilberto Freyre destila em \"Modos de homem e modas de mulher\" suas observações perspicazes sobre diversos aspectos da história da moda no Brasil. Publicado pela primeira vez em 1987, o livro retorna agora numa bela edição publicada pela Global Editora, com um atraente encarte iconográfico que acompanha o passeio que o sociólogo pernambucano faz sobre penteados, vestidos, camisas e calçados que estiveram presente nas vestimentas do país desde o século XIX. Nesta incursão, Gilberto Freyre relaciona de forma inovadora as mudanças dos estilos de se vestir, de se calçar, de se pentear com as respectivas transformações nas formas de pensar ao longo da história. O sociólogo apontava já em 1987 para questões extremamente atuais, como a batalha dos seres humanos contra o envelhecimento da pele e a consequente corrida por fórmulas que conservassem à todo o custo a vitalidade da juventude. A influência marcante da moda francesa no Brasil também é visitada por Freyre e, seguindo sua missão de valorizar as soluções brasileiras frente aos elementos estrangeiros, ele destaca a criatividade nacional teria ajudado a criar uma moda brasileira e que esta seria observada com enorme interesse pelo mundo todo. Em seu ponto de vista, a moda brasileira propôs não só novos estilos - demonstrando assim uma capacidade admirável de resistência às imposições europeias e americanas - como também introduziu a utilização de novos materiais em suas confecções, mais adaptados aos climas tropicais e ecologicamente corretos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526017160"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526017160"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 333,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.415.336.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iK5cBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iK5cBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iK5cBAAAQBAJ&pg=PT118&dq=Moda+%C3%A0+brasileira&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=iK5cBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-iK5cBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.65,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.65,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=iK5cBAAAQBAJ&rdid=book-iK5cBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.065E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.065E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modos_de_homem_e_modas_de_mulher-sample-epub.acsm?id=iK5cBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Modos_de_homem_e_modas_de_mulher-sample-pdf.acsm?id=iK5cBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iK5cBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "São aspectos do assunto – pessoa situada e \u003cb\u003emoda brasileira\u003c/b\u003e – que estarão \u003cbr\u003e\nsempre presentes nas considerações que se seguem, como inter\u200b-relações. \u003cbr\u003e\nParece chegado o momento de essa espécie de moda – a brasileira – ser \u003cbr\u003e\napresentada&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MiMTRO2BF3gC",
+   "etag": "3nP4X/Cj2Tk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MiMTRO2BF3gC",
+   "volumeInfo": {
+    "title": "Um olhar sobre o design brasileiro: edição revisitada",
+    "publisher": "SESI SENAI Editora",
+    "publishedDate": "2012",
+    "description": "Segundo os autores desta obra, o aprimoramento industrial dos últimos cem anos levou o design a atingir a excelência como um produto em si mesmo, criando ao seu redor um mercado ágil e competitivo em escala mundial. O Brasil tem participado de maneira dinâmica dessa indústria, figurando como um dos maiores polos criativos do planeta. Apresentar esse um panorama é o objetivo da edição revisitada do livro 'Um Olhar Sobre o Design Brasileiro', organizado para ser um subsídio de informações e inspiração para estudantes e profissionais da área.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565418591"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8565418596"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Commercial art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MiMTRO2BF3gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MiMTRO2BF3gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=MiMTRO2BF3gC&pg=PA94&dq=Moda+%C3%A0+brasileira&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=MiMTRO2BF3gC&dq=Moda+%C3%A0+brasileira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_olhar_sobre_o_design_brasileiro_edi%C3%A7.html?hl=&id=MiMTRO2BF3gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MiMTRO2BF3gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao conquistar maior visibilidade para a \u003cb\u003emoda brasileira\u003c/b\u003e, o SPFW permitiu que \u003cbr\u003e\nnossa criação ganhasse identidade, valorizando uma estética e uma cultura \u003cbr\u003e\npróprias. Os desfiles estimularam a competição, propiciando um salto na \u003cbr\u003e\nqualidade e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IH91DwAAQBAJ",
+   "etag": "5SZ+u8Fv1+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IH91DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Breve História da Moda",
+    "authors": [
+     "Denise Pollini"
+    ],
+    "publisher": " Editora Nova Alexandria",
+    "publishedDate": "2018-10-29",
+    "description": "A trajetória da moda pouco tem a ver com a aparente banalidade que marca o mundo fashion de nossos dias, no mero glamour dos desfiles. A busca da elegância e da beleza sempre representou relações sociais ricas e profundas, como nos mostra esse livro, que traça, com sedução e riqueza de detalhes, uma breve história da moda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574924366"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574924369"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IH91DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IH91DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IH91DwAAQBAJ&pg=PT68&dq=Moda+%C3%A0+brasileira&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IH91DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IH91DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 16.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 16.1,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IH91DwAAQBAJ&rdid=book-IH91DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.61E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.61E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Breve_Hist%C3%B3ria_da_Moda-sample-epub.acsm?id=IH91DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IH91DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Também muito importantes para o período, os desfiles da Rhodia foram \u003cbr\u003e\nelemento divisor de águas no cenário da \u003cb\u003emoda brasileira\u003c/b\u003e. QUEM QUANDO? e \u003cbr\u003e\nCOMO? FOI? Dener Pamplona de Abreu (1936-1978) Dener Pamplona de \u003cbr\u003e\nAbreu foi um&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jsQxCAAAQBAJ",
+   "etag": "AEXsKU6GwO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jsQxCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Brasil Misturado",
+    "subtitle": "INOVAÇÃO BRASILEIRA EM MODA PRAIA Brincando com Moda, Arte, Cultura e Diversidade. Inclui \"Bonecas de Papel\" para brincar!",
+    "authors": [
+     "Keka Bego"
+    ],
+    "publisher": "Revolução eBook",
+    "publishedDate": "2015-03-09",
+    "description": "INOVAÇÃO BRASILEIRA EM MODA PRAIA Brincando com Moda, Arte, Cultura e Diversidade. Inclui \"Bonecas de Papel\" para brincar! Resumindo a história do Brasil desde sua formação, conhecendo as raças, etnias, moda, arte, cultura e diversidade mundial, fontes de inspiração para a inovação brasileira em moda praia, o biquíni inovador, muda para você e por você!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781942159919"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1942159919"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 40,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jsQxCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jsQxCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jsQxCAAAQBAJ&printsec=frontcover&dq=Moda+%C3%A0+brasileira&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jsQxCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jsQxCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jsQxCAAAQBAJ&rdid=book-jsQxCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Brasil_Misturado-sample-epub.acsm?id=jsQxCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Brasil_Misturado-sample-pdf.acsm?id=jsQxCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jsQxCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "INOVAÇÃO BRASILEIRA EM MODA PRAIA Brincando com Moda, Arte, Cultura e Diversidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YqZ8cgAACAAJ",
+   "etag": "F2RX64sTWeU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YqZ8cgAACAAJ",
+   "volumeInfo": {
+    "title": "COLEÇAO MODA BRASILEIRA, V.2",
+    "subtitle": "5 VOLUMES",
+    "authors": [
+     "JOAO RODOLFO QUEIROZ",
+     "REINALDO BOTELHO"
+    ],
+    "description": "A Coleção 'Moda Brasileira' conta com cinco novos volumes - 'André Lima', 'Clô Orozco', 'Lenny Niemeyer', 'Marcelo Sommer' e 'Reinaldo Lourenço'. A série pretende traçar um panorama da moda contemporânea nacional registrando a trajetória de alguns importantes criadores. Assim como na primeira leva da coleção, estes títulos também foram conceituados de acordo com o universo criativo de cada estilista. Os livros trazem encadernação especial costurada e sobrecapa diferenciada para cada volume. Reunindo material fotográfico com cerca de 1000 imagens de aproximadamente 70 coleções, registradas por mais de 50 fotógrafos, todos os volumes incluem prefácio, análises de ensaístas convidados e cronologia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575037269"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575037263"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YqZ8cgAACAAJ&dq=Moda+%C3%A0+brasileira&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YqZ8cgAACAAJ&dq=Moda+%C3%A0+brasileira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/COLE%C3%87AO_MODA_BRASILEIRA_V_2.html?hl=&id=YqZ8cgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YqZ8cgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Coleção &#39;Moda Brasileira&#39; conta com cinco novos volumes - &#39;André Lima&#39;, &#39;Clô Orozco&#39;, &#39;Lenny Niemeyer&#39;, &#39;Marcelo Sommer&#39; e &#39;Reinaldo Lourenço&#39;."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RVz3AgAAQBAJ",
+   "etag": "wKIkqPhkBbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RVz3AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Arte, Novas Tecnologias e Comunicação: Fenomenologia da Contemporaneidade",
+    "subtitle": "",
+    "authors": [
+     "Patricia Bieging"
+    ],
+    "publisher": "PMStudium Comunicação e Design",
+    "publishedDate": "2010-01-10",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 4,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RVz3AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RVz3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RVz3AgAAQBAJ&pg=PT274&dq=Moda+%C3%A0+brasileira&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RVz3AgAAQBAJ&dq=Moda+%C3%A0+brasileira&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Arte_Novas_Tecnologias_e_Comunica%C3%A7%C3%A3o_F.html?hl=&id=RVz3AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Arte_Novas_Tecnologias_e_Comunica%C3%A7%C3%A3o_F-sample-pdf.acsm?id=RVz3AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RVz3AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "adrianO jOsé marchini Resumo - Objetiva-se refletir a importância \u003cbr\u003e\nsocioambiental do uso de fibras vegetais na criação em design têxtil e de \u003cb\u003emoda\u003c/b\u003e \u003cbr\u003e\nna cultura \u003cb\u003ebrasileira\u003c/b\u003e. Procedimento teórico-metodológico baseado na relação \u003cbr\u003e\nentre design,&nbsp;..."
+   }
+  }
+ ]
+}

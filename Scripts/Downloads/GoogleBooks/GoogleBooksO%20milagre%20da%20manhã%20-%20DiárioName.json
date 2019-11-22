@@ -1,0 +1,746 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 163,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zBsDuQEACAAJ",
+   "etag": "92O/OD7kQ+M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zBsDuQEACAAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã - Diário",
+    "authors": [
+     "Hal Elrod",
+     "Patrícia Azeredo"
+    ],
+    "publishedDate": "2018-07-30",
+    "description": "Em 'O milagre da manhã - Diário', Elrod traz uma ferramenta que visa tornar a prática matinal das seis atividades diárias muito mais fácil! Ao longo de 52 semanas, será possível registrar as práticas de silêncio, leitura, afirmações, visualização, exercícios e escrita que compõem o método criado pelo autor. O livro oferece ao leitor a oportunidade de acompanhar o próprio desenvolvimento ao longo de um ano, revisitar as lições que aprendeu durante a jornada, reconhecer o progresso que teve nesse período e avaliar os pontos em que poder melhorar a sua prática de 'O milagre da manhã'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8546500851"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788546500857"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 196,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zBsDuQEACAAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zBsDuQEACAAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Milagre_Da_Manh%C3%A3_Di%C3%A1rio.html?hl=&id=zBsDuQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zBsDuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Agora, com O milagre da manhã – Diário, Elrod traz uma ferramenta que vai tornar a prática matinal das seis atividades diárias muito mais fácil!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pRp6DwAAQBAJ",
+   "etag": "bJZuTPHfIeU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pRp6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã Hal Elrod",
+    "authors": [
+     "O"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Milagre da Manhã - Hal Elrod",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35840"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=pRp6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=pRp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pRp6DwAAQBAJ&pg=PA106&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=pRp6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-pRp6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=pRp6DwAAQBAJ&rdid=book-pRp6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Milagre_Da_Manh%C3%A3_Hal_Elrod-sample-pdf.acsm?id=pRp6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=pRp6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "MANTENHA UM \u003cb\u003eDIÁRIO\u003c/b\u003e Minha forma favorita de Escrever é em um \u003cb\u003ediário\u003c/b\u003e, o que \u003cbr\u003e\nfaço por 5 a 10 minutos durante meu \u003cb\u003eMilagre da manhã\u003c/b\u003e. Tirando seus \u003cbr\u003e\npensamentos da cabeça e colocando-os por escrito, você obtém valiosos \u003cbr\u003e\ninsights que de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qxp6DwAAQBAJ",
+   "etag": "EIjv64gfPYw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qxp6DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Milagre Da Manhã Hal Elrod",
+    "authors": [
+     "Ana"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O Milagre da Manhã - Hal Elrod",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU35839"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qxp6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qxp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qxp6DwAAQBAJ&pg=PA106&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qxp6DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qxp6DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qxp6DwAAQBAJ&rdid=book-qxp6DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Milagre_Da_Manh%C3%A3_Hal_Elrod-sample-pdf.acsm?id=qxp6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qxp6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "MANTENHA UM \u003cb\u003eDIÁRIO\u003c/b\u003e Minha forma favorita de Escrever é em um \u003cb\u003ediário\u003c/b\u003e, o que \u003cbr\u003e\nfaço por 5 a 10 minutos durante meu \u003cb\u003eMilagre da manhã\u003c/b\u003e. Tirando seus \u003cbr\u003e\npensamentos da cabeça e colocando-os por escrito, você obtém valiosos \u003cbr\u003e\ninsights que de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aKmZCgAAQBAJ",
+   "etag": "yIaEM+LCPpY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aKmZCgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Alerta",
+    "subtitle": "",
+    "authors": [
+     "Charles Pereira"
+    ],
+    "publisher": "biblioteca24horas",
+    "publishedDate": "2012-09-03",
+    "description": "O Alerta é uma obra de ficção criada para discutir e repensar as realidades que estão ocorrendo no dia a dia da humanidade e possíveis acontecimentos catastróficos que estão por vir. Uma história que instigará o leitor à uma reflexão dos caminhos que orientam a humanidade em busca da verdadeira Luz e das opções que lhe são dadas para ultrapassar a grande encruzilhada em que se encontrará no final dos tempos. Cristianismo, Judaismo e Maçonaria são temas abordados nessa obra que fará com que o leitor viaje em busca da solução do mistério.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541601269"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541601269"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=aKmZCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=aKmZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aKmZCgAAQBAJ&pg=PA101&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aKmZCgAAQBAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Alerta.html?hl=&id=aKmZCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aKmZCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O \u003cb\u003eDiário\u003c/b\u003e da \u003cb\u003eManhã\u003c/b\u003e noticiou em manchete e em letras garrafais: \u003cb\u003eMILAGRE\u003c/b\u003e NA BR \u003cbr\u003e\n491. Na televisão, passavam flashes que noticiavam \u003cb\u003eo milagre\u003c/b\u003e que salvou o \u003cbr\u003e\ncoral denominado Glória a Deus. Várias rádios comentavam com os ouvintes&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "INZxDwAAQBAJ",
+   "etag": "GtcAO+pYE4U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/INZxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário De Um Milagre",
+    "authors": [
+     "Maurício"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A emocionante luta pela vida de um recém nascido é o tema central deste livro. Pedro Henrique, nosso pequeno downzinho, veio ao mundo com duas sérias complicações: a Leucemia e uma Cardiopatia cirúrgica. O enredo fará você refletir sobre o poder de Deus, pois um Milagre aconteceu!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU20748"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 103,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=INZxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=INZxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=INZxDwAAQBAJ&pg=PA88&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=INZxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-INZxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=INZxDwAAQBAJ&rdid=book-INZxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_De_Um_Milagre-sample-pdf.acsm?id=INZxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=INZxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMilagre\u003c/b\u003e! A festa de ano novo foi oportunidade de refirmar nossa confiança em \u003cbr\u003e\nDeus e de pedir a cura do Pedro Henrique. Fizemos ... Como de costume, a \u003cbr\u003e\ncoleta de sangue foi pela \u003cb\u003emanhã\u003c/b\u003e para que buscássemos o resultado a tarde. O \u003cbr\u003e\ndia 02&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G1dKBQAAQBAJ",
+   "etag": "hOcnkkiQwxE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G1dKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Diário De Um Milagre",
+    "authors": [
+     "Maurício França"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-01-29",
+    "description": "A emocionante luta pela vida de um recém nascido é o tema central deste livro. Pedro Henrique, nosso pequeno downzinho, veio ao mundo com duas sérias complicações: a Leucemia e uma Cardiopatia cirúrgica. O enredo fará você refletir sobre o poder de Deus, pois um Milagre aconteceu!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90159132"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 103,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G1dKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G1dKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G1dKBQAAQBAJ&pg=PA88&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=G1dKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-G1dKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=G1dKBQAAQBAJ&rdid=book-G1dKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.184E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.184E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Di%C3%A1rio_De_Um_Milagre-sample-pdf.acsm?id=G1dKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G1dKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMilagre\u003c/b\u003e! A festa de ano novo foi oportunidade de refirmar nossa confiança em \u003cbr\u003e\nDeus e de pedir a cura do Pedro Henrique. Fizemos ... Como de costume, a \u003cbr\u003e\ncoleta de sangue foi pela \u003cb\u003emanhã\u003c/b\u003e para que buscássemos o resultado a tarde. O \u003cbr\u003e\ndia 02&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Nn0tAAAAYAAJ",
+   "etag": "UKi5r35UFA4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Nn0tAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Diário do entardecer",
+    "subtitle": "",
+    "authors": [
+     "Josué Montello"
+    ],
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022859653"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 886,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Nn0tAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Nn0tAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Nn0tAAAAYAAJ&q=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Nn0tAAAAYAAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_do_entardecer.html?hl=&id=Nn0tAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Nn0tAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Até que se repetiu \u003cb\u003eo milagre da manhã\u003c/b\u003e, no auditório da Universidade, com a \u003cbr\u003e\npalavra viva, subindo sempre. Todo o recinto pareceu eletrizar-se. Sim, sim: era \u003cbr\u003e\nde novo o Afonso Arinos. Tão grande quanto o da Câmara, como líder da \u003cbr\u003e\nOposição."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FIXuAAAAMAAJ",
+   "etag": "rzAiGkW5QOE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FIXuAAAAMAAJ",
+   "volumeInfo": {
+    "title": "O milagre segundo Salomé",
+    "authors": [
+     "José Rodrigues Miguéis"
+    ],
+    "publishedDate": "1982",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:39000003928749"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 695,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FIXuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FIXuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FIXuAAAAMAAJ&q=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FIXuAAAAMAAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_milagre_segundo_Salom%C3%A9.html?hl=&id=FIXuAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FIXuAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sentado a uma das portas, um empregado lia o \u003cb\u003eDiário\u003c/b\u003e Illustrado e pediu- -lhe o \u003cbr\u003e\nbilhete: entregou-lho e, de nariz no ar, com ... por sobre os telhados das casas e \u003cbr\u003e\npalácios apinhados, com varandas floridas e vidraças a faiscar ao sol da \u003cb\u003emanhã\u003c/b\u003e,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9HctAAAAYAAJ",
+   "etag": "ESBMj53tgMU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9HctAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Ilha do sol",
+    "subtitle": "relatório de uma procura",
+    "publishedDate": "1965*",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022851968"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9HctAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9HctAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9HctAAAAYAAJ&q=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9HctAAAAYAAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ilha_do_sol.html?hl=&id=9HctAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9HctAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A,dous Huxley era um dêsses. Suas impressões de visita, Jeonan registrou no \u003cbr\u003e\n\u003cb\u003eDiário\u003c/b\u003e: &quot;Eu vi o que Adão havia visto na \u003cb\u003emanhã\u003c/b\u003e de sua criação — \u003cb\u003eo milagre\u003c/b\u003e, em \u003cbr\u003e\ntodos seus momentos, de uma existência nua. E isso não me pareça agradável,\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ntXpAAAAMAAJ",
+   "etag": "3+NSa7uJZ8U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ntXpAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Obras de José Rodrigues Miguéis: O milagre segundo salomé",
+    "authors": [
+     "José Rodrigues Miguéis"
+    ],
+    "publishedDate": "1974",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000005137510"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ntXpAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ntXpAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ntXpAAAAMAAJ&q=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ntXpAAAAMAAJ&dq=O+milagre+da+manh%C3%A3+-+Di%C3%A1rio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Obras_de_Jos%C3%A9_Rodrigues_Migu%C3%A9is_O_mila.html?hl=&id=ntXpAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ntXpAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sentado a uma das portas, um empregado lia o \u003cb\u003eDiário\u003c/b\u003e lllustrado e pediu-lhe o \u003cbr\u003e\nbilhete : entregou- -lho e, de nariz no ar, ... por sobre os telhados das casas e \u003cbr\u003e\npalácios apinhados, com varandas floridas e vidraças a faiscar ao sol da \u003cb\u003emanhã\u003c/b\u003e, \u003cbr\u003e\nque&nbsp;..."
+   }
+  }
+ ]
+}

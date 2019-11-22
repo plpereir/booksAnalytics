@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NTQTywAACAAJ",
+   "etag": "+80Bok9jRUA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NTQTywAACAAJ",
+   "volumeInfo": {
+    "title": "A fascinante construção do eu",
+    "subtitle": "como desenvolver uma mente saudável em uma sociedade estressante",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publishedDate": "2011",
+    "description": "\"Você teria coragem de entrar num avião sabendo que o piloto não tem experiência para usar os instrumentos de navegação para levantar voo ou aterrissar? Certamente não! O problema é que, inacreditavelmente, a mais complexa das 'aeronaves', a mente humana, tem um piloto frequentemente imaturo e despreparado para dirigi-la: o Eu\"--P. [4] of cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576657538"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576657538"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 187,
+    "printType": "BOOK",
+    "categories": [
+     "Memory"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NTQTywAACAAJ&dq=isbn:9788576657538&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NTQTywAACAAJ&dq=isbn:9788576657538&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_fascinante_constru%C3%A7%C3%A3o_do_eu.html?hl=&id=NTQTywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NTQTywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Você teria coragem de entrar num avião sabendo que o piloto não tem experiência para usar os instrumentos de navegação para levantar voo ou aterrissar?"
+   }
+  }
+ ]
+}

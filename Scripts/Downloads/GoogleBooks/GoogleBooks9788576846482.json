@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eurKjwEACAAJ",
+   "etag": "FY7/+uhPF1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eurKjwEACAAJ",
+   "volumeInfo": {
+    "title": "ONE DIRECTION - A BIOGRAFIA",
+    "authors": [
+     "DANNY WHITE",
+     "JOANA FARO"
+    ],
+    "description": "Esta obra é uma biografia do grupo One Direction. O livro conta de onde vieram estes garotos e narra a trajetória que mudou suas vidas, transformando-os em astros do mundo pop. Os leitores poderão acompanhar a jornada de altos e baixos do X-Factor, programa de talentos que terminaram em terceiro lugar, sendo imediatamente contratados por Simon Cowell - fato que os impulsionou a um outro rumo na carreira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576846489"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576846482"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 238,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eurKjwEACAAJ&dq=isbn:9788576846482&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eurKjwEACAAJ&dq=isbn:9788576846482&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ONE_DIRECTION_A_BIOGRAFIA.html?hl=&id=eurKjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eurKjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A ascenção do grupo foi meteórica — mas de onde vieram esses lindos e talentosos garotos? Em One Direction: a biografia, as histórias de Harry, Niall, Louis, Zayn e Liam são reveladas."
+   }
+  }
+ ]
+}

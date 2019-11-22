@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EJdAmwEACAAJ",
+   "etag": "DlFVh/kXKKQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EJdAmwEACAAJ",
+   "volumeInfo": {
+    "title": "Manifesto do nada na terra do nunca",
+    "authors": [
+     "Lobão (Musician)"
+    ],
+    "publishedDate": "2013",
+    "description": "''Quando aparece um ofendido que se acha no direito de vir me inquirindo com aquela famosa pergunta - 'Quem é você?', eu respondo - Eu sou O NADA, drogado, decadente, matricida, epilético, reacionário, roqueiro. E como NADA eu vou contar para vocês a história da Terra do Nunca, o Brasil-Peter Pan que se recusa a crescer.'' Lobão leva o leitor a pensar por conta própria e prova ser possível - e necessário - divergir com elegância. É, como ele mesmo diz, 'chumbo grosso envolto em nuvens de veludo'. Do seu ponto de vista original, Lobão traça uma jornada tragicômica pela estética e a política do Brasil contemporâneo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520932614"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520932612"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 247,
+    "printType": "BOOK",
+    "categories": [
+     "Popular music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EJdAmwEACAAJ&dq=isbn:9788520932612&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=EJdAmwEACAAJ&dq=isbn:9788520932612&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Manifesto_do_nada_na_terra_do_nunca.html?hl=&id=EJdAmwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EJdAmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

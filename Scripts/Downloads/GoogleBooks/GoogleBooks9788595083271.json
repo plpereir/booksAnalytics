@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ldMyvAEACAAJ",
+   "etag": "YIKZLf2c3bM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ldMyvAEACAAJ",
+   "volumeInfo": {
+    "title": "Do Mil Ao Milhão",
+    "subtitle": "SEM CORTAR O CAFEZINHO",
+    "authors": [
+     "Thiago Nigro"
+    ],
+    "publishedDate": "2018-11-10",
+    "description": "Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais. Por meio de dados e de sua própria experiência como investidor e assessor, Nigro mostra que a riqueza é possível para todos - basta estar disposto a aprender e se dedicar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8595083274"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595083271"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ldMyvAEACAAJ&dq=isbn:9788595083271&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ldMyvAEACAAJ&dq=isbn:9788595083271&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Do_Mil_Ao_Milh%C3%A3o.html?hl=&id=ldMyvAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ldMyvAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qit4tAEACAAJ",
+   "etag": "qFFcxtavE1Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qit4tAEACAAJ",
+   "volumeInfo": {
+    "title": "Direto De Washington",
+    "subtitle": "W. OLIVETTO POR ELE MESMO",
+    "authors": [
+     "Washington Olivetto"
+    ],
+    "publishedDate": "2018-04-06",
+    "description": "Washington Olivetto é o publicitário que não quis ser apenas um grande publicitário. Resolveu ser um homem de negócios que se transformou num pop star. Ganhou o primeiro Leão de Ouro do Brasil em Cannes, conquistou todos os prêmios da publicidade mundial, entrou para o Guinness Book of Records, inspirou personagem de novela, virou letra de músicas de sucesso, nome de pratos em restaurantes famosos, selo do correio do seu país, vice-presidente do seu time de futebol, cidadão carioca sendo paulista, commendatore italiano sendo brasileiro. Washington Olivetto está no Lifetime Achievement do Clio e foi o primeiro não anglo-saxão a entrar para o Hall of Fame do One Club de Nova York.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8556080332"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788556080332"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qit4tAEACAAJ&dq=isbn:9788556080332&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qit4tAEACAAJ&dq=isbn:9788556080332&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Direto_De_Washington.html?hl=&id=qit4tAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qit4tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Washington Olivetto é um dos maiores publicitários brasileiros, criador de algumas das mais marcantes, emocionantes e divertidas campanhas da propaganda nacional."
+   }
+  }
+ ]
+}

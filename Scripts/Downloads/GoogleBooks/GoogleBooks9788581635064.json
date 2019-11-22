@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_D1hvgAACAAJ",
+   "etag": "/IpmUlGuQL8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_D1hvgAACAAJ",
+   "volumeInfo": {
+    "title": "EM MEUS PENSAMENTOS",
+    "authors": [
+     "BELLA ANDRE",
+     "MARCELY DE MARCO MARTINS DANTAS"
+    ],
+    "description": "Quantos de nós podemos contar com uma segunda chance? Grayson Tyler enfrentou uma tragédia três anos atrás. Agora, ele está recomeçando sua vida nas montanhas da Califórnia. Talvez a paisagem calma, com céu azul, mar e montanhas, o ajude a se esquecer do passado infeliz. Nesse refúgio, ele também deseja ser esquecido por todos que o fizeram sofrer. A tranquilidade vai embora para sempre no dia em que a energia vibrante de Lori Sullivan invade a sua vida. Uma bailarina tão linda quanto impertinente, que não costuma levar desaforo para casa e não está nem um pouco interessada em agradar. O magnetismo entre os dois promete tirar, literalmente, o sossego de Grayson, mas o fazendeiro solitário não está disposto a baixar a guarda. Ele não vai deixar essa novata virar sua vida de cabeça para baixo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581635067"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581635064"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_D1hvgAACAAJ&dq=isbn:9788581635064&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_D1hvgAACAAJ&dq=isbn:9788581635064&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/EM_MEUS_PENSAMENTOS.html?hl=&id=_D1hvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_D1hvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O magnetismo entre os dois promete tirar, literalmente, o sossego de Grayson, mas o fazendeiro solitário não está disposto a baixar a guarda. Ele não vai deixar essa novata virar sua vida de cabeça para baixo."
+   }
+  }
+ ]
+}

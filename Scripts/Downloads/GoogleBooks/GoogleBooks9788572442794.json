@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bels9ksU164C",
+   "etag": "00mdcqaHDdo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bels9ksU164C",
+   "volumeInfo": {
+    "title": "A arte de escrever bem",
+    "subtitle": "um guia para jornalistas e profissionais do texto",
+    "authors": [
+     "Dad Squarisi",
+     "Arlete Salvador"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2004",
+    "description": "Escrever é fundamental. Afinal, quem, nos dias de hoje, não precisa mandar mensagens pelo correio eletrônico, escrever relatórios, fazer vestibular, ou produzir uma matéria jornalística? Este livro, inicialmente destinado a jornalistas e profissionais do texto, é claro e bem humorado. Donas de texto impecável, agradável e atual, Dad Squarisi e Arlete Salvador mostram como é possível redigir de modo adequado e elegante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8572442790"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572442794"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 105,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bels9ksU164C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bels9ksU164C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bels9ksU164C&dq=isbn:9788572442794&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bels9ksU164C&dq=isbn:9788572442794&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_arte_de_escrever_bem.html?hl=&id=bels9ksU164C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bels9ksU164C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro, inicialmente destinado a jornalistas e profissionais do texto, é claro e bem humorado. Donas de texto impecável, agradável e atual, Dad Squarisi e Arlete Salvador mostram como é possível redigir de modo adequado e elegante."
+   }
+  }
+ ]
+}

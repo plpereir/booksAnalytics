@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ZiBOvgAACAAJ",
+   "etag": "SyPZlibZBe8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZiBOvgAACAAJ",
+   "volumeInfo": {
+    "title": "BRASIL TEM CURA, O",
+    "authors": [
+     "RACHEL SHEHERAZADE"
+    ],
+    "description": "\"O Brasil tem cura\" faz uma radiografia, sem máscaras, da nossa pátria. Em busca de soluções, põe sob os holofotes as principais mazelas que assolam o país. Partindo de uma análise histórica, Rachel Sheherazade identifica alguns dos problemas que adoecem o Brasil e propõe caminhos para saná-los. A obra se guia pelo pressuposto de que o país só será passado a limpo se cada brasileiro fizer a sua parte e passar a agir com integridade inegociável, ensinando essa postura às futuras gerações.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8543301173"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543301174"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZiBOvgAACAAJ&dq=isbn:9788543301174&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZiBOvgAACAAJ&dq=isbn:9788543301174&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BRASIL_TEM_CURA_O.html?hl=&id=ZiBOvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZiBOvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;O Brasil tem cura&quot; faz uma radiografia, sem máscaras, da nossa pátria."
+   }
+  }
+ ]
+}

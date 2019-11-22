@@ -1,0 +1,842 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 472,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xYtfAAAAQBAJ",
+   "etag": "RmZhBLNvnyU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xYtfAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Cidades de papel",
+    "subtitle": "",
+    "authors": [
+     "John Green"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2013-08-19",
+    "description": "Quentin Jacobsen tem uma paixão platônica pela magnífica vizinha e colega de escola Margo Roth Spiegelman. Até que em um cinco de maio que poderia ter sido outro dia qualquer, ela invade sua vida pela janela de seu quarto, com a cara pintada e vestida de ninja, convocando-o a fazer parte de um engenhoso plano de vingança. E ele, é claro, aceita. Assim que a noite de aventuras acaba e um novo dia se inicia, Q vai para a escola e então descobre que o paradeiro da sempre enigmática Margo é agora um mistério. No entanto, ele logo encontra pistas e começa a segui-las. Impelido em direção a um caminho tortuoso, quanto mais Q se aproxima de Margo, mais se distancia da imagem da garota que ele achava que conhecia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580573916"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580573912"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xYtfAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xYtfAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xYtfAAAAQBAJ&printsec=frontcover&dq=Cidades+de+papel&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xYtfAAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xYtfAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xYtfAAAAQBAJ&rdid=book-xYtfAAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cidades_de_papel-sample-epub.acsm?id=xYtfAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cidades_de_papel-sample-pdf.acsm?id=xYtfAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xYtfAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quentin Jacobsen tem uma paixão platônica pela magnífica vizinha e colega de escola Margo Roth Spiegelman."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bRA5QwAACAAJ",
+   "etag": "QOTtDBOPLd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bRA5QwAACAAJ",
+   "volumeInfo": {
+    "title": "Cidades de papel",
+    "subtitle": "Sabará",
+    "authors": [
+     "Janaina Maquiaveli Cardoso",
+     "Claudio Parreiras Reis"
+    ],
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8590507815"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788590507819"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 68,
+    "printType": "BOOK",
+    "categories": [
+     "Cities and towns"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bRA5QwAACAAJ&dq=Cidades+de+papel&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=bRA5QwAACAAJ&dq=Cidades+de+papel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cidades_de_papel.html?hl=&id=bRA5QwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bRA5QwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AFmZnQAACAAJ",
+   "etag": "KDi4mIG7jCk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AFmZnQAACAAJ",
+   "volumeInfo": {
+    "title": "Cidades de papel: imprensa, progresso e tradição - Diamantina e Juiz de Fora, MG (1884-1914).",
+    "publishedDate": "2007",
+    "description": "Este trabalho propõe uma leitura do discurso divulgado pela imprensa para representar a cidade, em Diamantina e Juiz de Fora, Minas Gerais, no período de 1884 a 1914. Tal discurso foi produzido pelos homens de imprensa, grupo caracterizado por ter nos jornais sua tribuna para propagar um conceito de \\\"progresso urbano\\\". Tendo como referencial os parâmetros urbanísticos burgueses dos países capitalistas centrais, as elites letradas brasileiras elegeram alguns elementos como \\\"sinais visíveis de civilização\\\", cuja implementação deveria alterar e normatizar o espaço urbano. Nos textos analisados, podemos perceber quais foram alguns desses aspectos, quanto ao espaço físico urbano (edifícios públicos, água e esgotos, saúde pública, moradias, animais, aparelhamento tecnológico etc.) e aos habitantes citadinos (educação, trabalho, comportamento, valores, consumo etc.). A escolha das cidades privilegiou seu caráter de \\\"capitais regionais\\\" dentro de Minas Gerais, num período marcado por grandes transformações na vivência urbana brasileira. As diferenças econômicas e sócio-culturais entre elas permitem comparar e avaliar o impacto das transformações urbanas como representadas pela imprensa local, tanto no que possuía de comum, como os parâmetros do discurso \\\"civilizatório\\\", quanto pelas especificidades e os limites da vivência desse discurso em cada realidade urbana concreta.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:691641653"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AFmZnQAACAAJ&dq=Cidades+de+papel&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AFmZnQAACAAJ&dq=Cidades+de+papel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cidades_de_papel_imprensa_progresso_e_tr.html?hl=&id=AFmZnQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AFmZnQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este trabalho propõe uma leitura do discurso divulgado pela imprensa para representar a cidade, em Diamantina e Juiz de Fora, Minas Gerais, no período de 1884 a 1914."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N6JwCQAAQBAJ",
+   "etag": "Hpc9JM6z5Vo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N6JwCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Não se iluda, não",
+    "subtitle": "",
+    "authors": [
+     "Isabela Freitas"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-07-15",
+    "description": "Depois de passar um ano sem namorado, Isabela está determinada a realizar o grande sonho de ser uma escritora reconhecida. Resolve dar os primeiros passos anonimamente, criando um blog onde assina como A Garota em Preto e Branco. Em seu diário virtual, ela desabafa, fala dos amigos, dos não tão amigos assim, e confessa suas aventuras e desventuras amorosas. Assunto é o que não falta. Durante uma temporada agitada em Costa do Sauípe, na Bahia, acompanhada por Pedro, Amanda e sua insuportável prima Nataly, Isabela conhece o irresistível Gabriel, um sujeito praticamente perfeito, a não ser por um pequeno detalhe... Entre shows e passeios na praia, Isabela precisa admitir para si mesma que sente uma atração cada vez maior pelo seu melhor amigo. Em seu segundo livro, Isabela Freitas dá sequência às histórias dos personagens de Não se apega, não. Dessa vez, com a cabeça nas nuvens e os pés firmemente no chão, a personagem Isabela vai em busca daquilo que seu coração realmente deseja, mesmo quando seu caminho é bem acidentado e cada curva parece esconder uma nova surpresa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580577693"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580577691"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=N6JwCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=N6JwCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=N6JwCQAAQBAJ&pg=PT101&dq=Cidades+de+papel&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=N6JwCQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-N6JwCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=N6JwCQAAQBAJ&rdid=book-N6JwCQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_se_iluda_n%C3%A3o-sample-epub.acsm?id=N6JwCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_se_iluda_n%C3%A3o-sample-pdf.acsm?id=N6JwCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=N6JwCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ter medo do que não podemos controlar? Eu gosto de segurar o leme e guiar \u003cbr\u003e\npara onde meu barquinho vai navegar. Verdade que ele é um barco de papel, \u003cbr\u003e\nassim como eu sou uma garota de papel (li isso no livro \u003cb\u003eCidades de papel\u003c/b\u003e, do \u003cbr\u003e\nJohn&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "i4GgAwAAQBAJ",
+   "etag": "CGeGxz+jdik",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/i4GgAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Dinâmica socioespacial e saúde coletiva em cidades de Minas Gerais",
+    "subtitle": "",
+    "authors": [
+     "Julio Cesar de Lima Ramires"
+    ],
+    "publisher": "Letra Capital Editora LTDA",
+    "publishedDate": "2014-05-23",
+    "description": "Este livro procura dar continuidade a um projeto editorial de divulgação de pesquisas acadêmicas que têm procurado es elecer os nexos entre as ações de saúde e a dinâmica urbana em espaços não metropolitanos. O Estado de Minas Gerais conta com mais de 850 cidades, em sua maioria de pequeno porte, está dividido em regiões de saúde e as suas cidades médias assumem um lugar central nas políticas de saúde. Essas cidades, em sua grande maioria, possuem atividades econômicas importantes e atuam como pólos econômicos em um contexto regional, incluindo- se nessa dinâmica os serviços públicos e privados de saúde. As articulações com as pequenas cidades se colocam como um aspecto vital para a universalização e consolidação do Sistema Único de Saúde. Pesquisadores de diversas formações (geógrafos, médicos, enfermeiros, odontólogos) desenvolvem aqui estudos que procuraram es elecer relações entre a dinâmica socioespacial urbana e a saúde coletiva em algumas cidades médias de Minas Gerais, problematizando com pertinência questões relevantes dessas localidades. Esta obra apresenta aos acadêmicos e estudiosos uma coletânea de artigos que interessa também aos gestores e todos aqueles que estão comprometidos com a construção de uma sociedade com melhor qualidade de vida urbana. Com essa perspectiva integradora – cidade e saúde coletiva – esperamos contribuir com nossas reflexões para que os problemas envolvendo a saúde da população tenham um melhor encaminhamento, e possíveis soluções.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577852284"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577852288"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=i4GgAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=i4GgAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=i4GgAwAAQBAJ&pg=PA325&dq=Cidades+de+papel&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=i4GgAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-i4GgAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=i4GgAwAAQBAJ&rdid=book-i4GgAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Din%C3%A2mica_socioespacial_e_sa%C3%BAde_coletiv-sample-pdf.acsm?id=i4GgAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=i4GgAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As \u003cb\u003ecidades\u003c/b\u003e, entre outras características, se afirmam como tal e diferenciam-se \u003cbr\u003e\nem função de suas atividades, entre as ... objetivo analisar o sistema de saúde \u003cbr\u003e\nde Ituiutaba e o \u003cb\u003epapel\u003c/b\u003e desse serviço no reforço do \u003cb\u003epapel\u003c/b\u003e regional dessa \u003cb\u003ecidade\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jFsqDwAAQBAJ",
+   "etag": "Nvl3pefZlvY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jFsqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Pequeno leitor de papel",
+    "subtitle": "Um estudo sobre jornalismo para crianças",
+    "authors": [
+     "Juliana Doretto"
+    ],
+    "publisher": "Alameda Casa Editorial",
+    "publishedDate": "2014-09-22",
+    "description": "O campo do jornalismo impresso responde por um espaço importante nos discursos midiáticos contemporâneos, especialmente com os desafios trazidos pelas injunções tecnológicas na produção, na distribuição e na recepção dos mais variados produtos. Diferentes modos de difusão da informação, e sua interface com a produção audiovisual e digital, alargam o campo de abrangência das notícias e dos seus modos narrativos. A segmentação de públicos cada vez mais específicos é forte marca da produção jornalística atual, especialmente em sua feição escrita. Nesse cenário, um novo perfil se destaca por seu dinamismo e singularidade, e também no que diz respeito à inventividade de sua proposta: o jornalismo infantil, que, mesmo não sendo propriamente novo, adquire cada vez mais visibilidade e importância. As variadas formas dessa prática editorial, bem como o complexo processo de sua concepção, criação e divulgação, são o tema deste livro. Em \"Pequeno leitor de papel: jornalismo infantil na Folhinha e no Estadinho\", Juliana Doretto busca delinear esses leitores, e seu contexto, em dois suplementos infantis brasileiros, a Folhinha e o Estadinho, definindo-os como as crianças entrevistadas pelos cadernos, cujas falas aparecem nos textos publicados. Foram analisadas capas e reportagens principais de 25 edições de cada um dos dois suplementos, no segundo semestre de 2009, e os resultados apontam para a concentração de temas, para a pouca variação no perfil dos entrevistados e para o uso abusivo de textos imperativos, por meio de levantamento abrangente e minucioso.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788562157127"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8562157120"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 166,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jFsqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jFsqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jFsqDwAAQBAJ&pg=PT129&dq=Cidades+de+papel&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jFsqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jFsqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jFsqDwAAQBAJ&rdid=book-jFsqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jFsqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003epapel\u003c/b\u003e&#39;. Nas marcas de referência geográfica encontradas nos textos, nota-se que \u003cbr\u003e\nos dois tabloides têm em mente que falam para uma criança habitante da \u003cb\u003ecidade\u003c/b\u003e \u003cbr\u003e\nde São Paulo, já que foram identificadas nove edições com indicações de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "05upAwAAQBAJ",
+   "etag": "mjtkxF5KWV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/05upAwAAQBAJ",
+   "volumeInfo": {
+    "title": "O PAPEL DO JORNAL E A PROFISSÃO DO JORNALISTA",
+    "subtitle": "",
+    "authors": [
+     "Alberto Dines"
+    ],
+    "publisher": "Summus Editorial",
+    "publishedDate": "2009-11-17",
+    "description": "Alberto Dines é um dos mais respeitados jornalistas brasileiros e discute há décadas o papel da imprensa nos rumos políticos do país. Esta nona edição de O papel do jornal comemora os 35 anos de publicação do livro. Embora o contexto original fosse bem diferente do atual, os assuntos base da primeira edição permanecem: ética, exercício da profissão de jornalista, interesse público. Dines retoma um assunto que ele ressaltou em 1985: a necessidade do diploma de jornalismo para que se exerça a atividade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532308849"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8532308848"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=05upAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=05upAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=05upAwAAQBAJ&pg=PT66&dq=Cidades+de+papel&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=05upAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-05upAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=05upAwAAQBAJ&rdid=book-05upAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_PAPEL_DO_JORNAL_E_A_PROFISS%C3%83O_DO_JORN-sample-epub.acsm?id=05upAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_PAPEL_DO_JORNAL_E_A_PROFISS%C3%83O_DO_JORN-sample-pdf.acsm?id=05upAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=05upAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O consumo de \u003cb\u003epapel\u003c/b\u003e dosjornais de \u003cb\u003ecidades\u003c/b\u003e com mais de um milhão de \u003cbr\u003e\nhabitantes cresceu52%.Em \u003cb\u003ecidades\u003c/b\u003e de 100 mil a 250 mil habitantes, o aumento \u003cbr\u003e\nfoi de 62%,e naquelas com menos de 100 mil pessoas a expansão do consumo \u003cbr\u003e\ndo \u003cb\u003epapel\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "F2MTgBpMt5MC",
+   "etag": "qIdNKmkAXQ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F2MTgBpMt5MC",
+   "volumeInfo": {
+    "title": "O teorema Katherine",
+    "authors": [
+     "John Green"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2013-03-13",
+    "description": "Se o assunto é relacionamento, o tipo de garota de Colin Singleton tem nome: Katherine. E, em se tratando de Colin e Katherines, o desfecho é sempre o mesmo: ele leva o fora. Já aconteceu muito. Dezenove vezes, para ser exato. Após o mais recente e traumático pé na bunda, o Colin que só namora Katherines resolve cair na estrada. Dirigindo o Rabecão de Satã, com seu caderninho de anotações no bolso e o melhor amigo no carona, o ex-garoto prodígio, viciado em anagramas e PhD em levar o fora, descobre sua verdadeira missão: elaborar e comprovar o Teorema Fundamental da Previsibilidade das Katherines, que tornará possível antever, através da linguagem universal da matemática, o desfecho de qualquer relacionamento antes mesmo que as duas pessoas se conheçam. Uma descoberta que vai entrar para a história, vai vingar séculos de injusta vantagem entre Terminantes e Terminados e, enfim, elevará Colin Singleton diretamente ao distinto posto de gênio da humanidade. Também, é claro, vai ajudá-lo a reconquistar sua garota. Ou, pelo menos, é isso o que ele espera.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580573169"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580573165"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=F2MTgBpMt5MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=F2MTgBpMt5MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=F2MTgBpMt5MC&pg=PT234&dq=Cidades+de+papel&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=F2MTgBpMt5MC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-F2MTgBpMt5MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=F2MTgBpMt5MC&rdid=book-F2MTgBpMt5MC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_teorema_Katherine-sample-epub.acsm?id=F2MTgBpMt5MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_teorema_Katherine-sample-pdf.acsm?id=F2MTgBpMt5MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=F2MTgBpMt5MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Marina Waters, 2014 JOHN GREEN, autor de A culpa é das estrelas, \u003cb\u003eCidades de\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003epapel\u003c/b\u003e, O Teorema Katherine e Quem é você, Alasca?, é um dos escritores \u003cbr\u003e\nnorteamericanos mais queridos pelo público jovem e igualmente festejado pela\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ENdaTddtfEQC",
+   "etag": "SVlse15QfHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ENdaTddtfEQC",
+   "volumeInfo": {
+    "title": "Cidade de muros",
+    "subtitle": "crime, segregação e cidadania em São Paulo",
+    "authors": [
+     "Teresa Pires do Rio Caldeira"
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "2000",
+    "description": "A autora analisa os processos de transformação urbana envolvendo o crime, o medo da violência e o desrespeito aos direitos humanos na metrópole, estabelecendo relações com as noções de espaço público, democracia e igualdade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573261889"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573261882"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 399,
+    "printType": "BOOK",
+    "categories": [
+     "Crime"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ENdaTddtfEQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ENdaTddtfEQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ENdaTddtfEQC&pg=PA20&dq=Cidades+de+papel&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ENdaTddtfEQC&dq=Cidades+de+papel&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cidade_de_muros.html?hl=&id=ENdaTddtfEQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ENdaTddtfEQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os processos de construção nacional engajam antropólogos de maneiras \u003cbr\u003e\nparadoxais. Uma dimensão desse engajamento é a concepção do \u003cb\u003epapel\u003c/b\u003e do \u003cbr\u003e\nintelectual. No Brasil, assim como em outros países pós-coloniais, os intelectuais \u003cbr\u003e\ntendem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FFExAQAAMAAJ",
+   "etag": "2M8oMV5PL5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FFExAQAAMAAJ",
+   "volumeInfo": {
+    "title": "O Instituto",
+    "publishedDate": "1858",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112028099726"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FFExAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FFExAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FFExAQAAMAAJ&pg=PA142&dq=Cidades+de+papel&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FFExAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FFExAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=FFExAQAAMAAJ&rdid=book-FFExAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/O_Instituto.pdf?id=FFExAQAAMAAJ&hl=&output=pdf&sig=ACfU3U2qtojeMTsSQIk6U0EFFtxKVMlYJg&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FFExAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As mais antigas fabricas de \u003cb\u003epapel\u003c/b\u003e, estabelecidas na Europa, datam do seculo \u003cbr\u003e\nundecimo, e foram fundadas pelos arabes na Espanha e Sicilia; mas só no \u003cbr\u003e\nseculo dezeseis foi que mais floresceram. Troyes e Essonne foram as \u003cb\u003ecidades\u003c/b\u003e \u003cbr\u003e\nde&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_BgbvgAACAAJ",
+   "etag": "XRFEMYrDgQo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_BgbvgAACAAJ",
+   "volumeInfo": {
+    "title": "UMA PAGINA DE CADA VEZ",
+    "authors": [
+     "ADAM J. KURTZ",
+     "GIU ALONSO"
+    ],
+    "description": "Pense em alguma coisa que deixa você inseguro e escreva o que é em letras enormes. Use o espaço todo! Olhe bem para o que você escreveu. Agora vire a página. No seu primeiro livro, o artista gráfico americano Adam J. Kurtz usa provocações divertidas como esta para fazer o leitor refletir sobre sua vida ao mesmo tempo em que testa a própria criatividade. Como o título diz, cada página traz uma brincadeira diferente. Pode ser uma pergunta, uma sugestão de desenho ou um pedido para que você crie uma lista de músicas para seu amor verdadeiro ou das melhores fatias de pizza que comeu na vida. O autor também pede para o leitor colar objetos inusitados nas páginas do livro e compartilhar nas redes sociais algumas das anotações feitas nele. Uma maneira espirituosa e lúdica de buscar o autoconhecimento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8565530698"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788565530699"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_BgbvgAACAAJ&dq=isbn:9788565530699&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_BgbvgAACAAJ&dq=isbn:9788565530699&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/UMA_PAGINA_DE_CADA_VEZ.html?hl=&id=_BgbvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_BgbvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "AGora vire a página.” No seu primeiro livro, o artista gráfico americano Adam J. KUrtz usa provocações divertidas como esta para fazer o leitor refletir sobre sua vida ao mesmo tempo em que testa a própria criatividade."
+   }
+  }
+ ]
+}

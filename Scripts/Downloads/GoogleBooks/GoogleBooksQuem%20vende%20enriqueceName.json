@@ -1,0 +1,777 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 212,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aqYHywAACAAJ",
+   "etag": "+TkljxudSbw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aqYHywAACAAJ",
+   "volumeInfo": {
+    "title": "QUEM VENDE ENRIQUECE",
+    "authors": [
+     "NAPOLEON HILL"
+    ],
+    "description": "O autor se baseia na própria experiência e na vida e na carreira de outros profissionais para tentar mostrar o que leva uma pessoa a ser um vendedor talentoso. Dentre os assuntos abordados, estão - como encontrar o seu comprador em potencial e a maneira mais eficiente de falar com ele; como planejar uma estratégia vencedora; como criar o hábito de fazer sempre mais; como usar melhor o seu tempo e como a autossugestão pode ser uma forte ferramenta de vendas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539502550"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539502554"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 292,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aqYHywAACAAJ&dq=Quem+vende+enriquece&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aqYHywAACAAJ&dq=Quem+vende+enriquece&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/QUEM_VENDE_ENRIQUECE.html?hl=&id=aqYHywAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aqYHywAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O autor se baseia na própria experiência e na vida e na carreira de outros profissionais para tentar mostrar o que leva uma pessoa a ser um vendedor talentoso."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D795DwAAQBAJ",
+   "etag": "miScgF66VXI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D795DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Como Acumular",
+    "authors": [
+     "Rolden Baptista"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A mudança de atitude e a mudança de comportamento são fundamentais no processo de enriquecimento e acúmulo de riquezas. Com firmeza de propósito e ações continuadas e persistentes, o passar dos anos poderá garantir o acúmulo inteligente de uma reserva financeira que possa fazer a sua vida ficar cada vez mais próspera.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU32853"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 51,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=D795DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=D795DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=D795DwAAQBAJ&pg=PA49&dq=Quem+vende+enriquece&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=D795DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-D795DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=D795DwAAQBAJ&rdid=book-D795DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.599E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.599E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Acumular-sample-pdf.acsm?id=D795DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=D795DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "HILL, N., “QUEM PENSA ENRIQUECE”, Editora Fundamento Educacional LTDA, \u003cbr\u003e\nCuritiba - PR, 2009, p.135. HILL, N., “\u003cb\u003eQUEM VENDE ENRIQUECE\u003c/b\u003e”, Editora \u003cbr\u003e\nFundamento Educacional LTDA, Curitiba - PR, 2011, p.108. HILL, N., “QUEM&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VtCCDwAAQBAJ",
+   "etag": "7zY1VpBF93g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VtCCDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Quem pensa enriquece",
+    "subtitle": "O legado",
+    "authors": [
+     "Napoleon Hill"
+    ],
+    "publisher": "CDG Edições e Publicações LTDA",
+    "publishedDate": "2019-01-08",
+    "description": "O 9o livro mais vendido de todos os tempos, que influencia líderes e empreededores em todo o mundo, agora em uma edição especial atualizada para o século XXI. O clássico best-seller sobre o sucesso agora anotado e acrescido de exemplos modernos, comprovando que a filosofia da realização pessoal de Napoleon Hill permanece atual e ainda orienta aqueles que são bem-sucedidos. Um livro que vai mudar não só o que você pensa, vai mudar o modo como você pensa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788568014745"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8568014747"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VtCCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VtCCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VtCCDwAAQBAJ&pg=PT65&dq=Quem+vende+enriquece&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VtCCDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-VtCCDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VtCCDwAAQBAJ&rdid=book-VtCCDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Quem_pensa_enriquece-sample-epub.acsm?id=VtCCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Quem_pensa_enriquece-sample-pdf.acsm?id=VtCCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VtCCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quem pensa \u003cb\u003eenriquece\u003c/b\u003e revolucionou a literatura de autoajuda e até hoje é a \u003cbr\u003e\nrégua que mede toda literatura motivacional. Seu sucesso também ajudou a \u003cbr\u003e\ncriar o mercado para os milhares de biografias de negócios que contam com \u003cbr\u003e\ndetalhes&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u1VxDwAAQBAJ",
+   "etag": "suoY0GAmcgo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u1VxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Agência Enxuta",
+    "subtitle": "Como montar uma agência de marketing digital e ganhar dinheiro com o seu conhecimento",
+    "authors": [
+     "Natanael Oliveira"
+    ],
+    "publisher": "DVS Editora",
+    "publishedDate": "2018-10-04",
+    "description": "Qual a PRIMEIRA coisa você deve fazer quando fechar um novo contrato? Qual a maneira mais INTELIGENTE para organizar a rotina de uma agência? Como TRIPLICAR as suas chances de gerar resultados para os seus clientes? Como PREPARAR sua agência para contratos de alto valor em poucos dias? Essas são algumas das perguntas mais frequentes nas agências de Marketing Digital. Para ser mais específico, hoje as perguntas sobre a criação de uma agência enxuta estão na lista das principais perguntas do mercado. São consultores que fecham novos contratos e não fazem ideia de como conduzir um novo projeto com seus clientes e empresários que não conseguem montar uma equipe interna Foi por isso que nós criamos o livro \"Agência Enxuta\" Nesse livro vamos apresentar um processo que apesar de ser muito poderoso para a construção de uma agência de marketing digital do zero é totalmente SIMPLES de ser implementado... e você poderá fazer isso sem precisar de anos e anos de trabalho. Se você se dedicar seriamente, você conseguirá seguir todas as etapas em poucos meses. Nós iremos cobrir os principais detalhes sobre a construção de agência lucrativa e enxuta do zero, com uma linguagem simples e objetiva para te ajudar a entender na prática os 4 processos mestres para fechar contratos de R$10.000,00 O livro \"Agência Enxuta\" vai te ensinar não somente a montar sua agência da maneira mais organizada e inteligente que existe, mas vai te ajudar a gerar resultados REAIS e de maneira previsível para os seus clientes. Ponto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582891889"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582891881"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u1VxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u1VxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=u1VxDwAAQBAJ&pg=PT69&dq=Quem+vende+enriquece&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u1VxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-u1VxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.11,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u1VxDwAAQBAJ&rdid=book-u1VxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.511E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ag%C3%AAncia_Enxuta-sample-epub.acsm?id=u1VxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ag%C3%AAncia_Enxuta-sample-pdf.acsm?id=u1VxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u1VxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Napoleon hill no livro “\u003cb\u003equem vende enriquece\u003c/b\u003e” fala sobre o mundo das vendas \u003cbr\u003e\ncomo uma arte que precisa ser dominada por aqueles que desejam triunfar na \u003cbr\u003e\nvida. Napoleon define a arte de vender como “a arte DE INFLUENCIAR sem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "csZxDwAAQBAJ",
+   "etag": "NmEopdcWMfA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/csZxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Livro Mais Incrível De Automotivação E Linguagem Corporal",
+    "authors": [
+     "Giovanni"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Simples, direto e prático, este livro é o resultado de mais de 10 anos de pesquisas de Giovanni Mileo em PNL - Programação Neurolinguística, Neurociência, Linguagem Corporal, Psicologia e de sua experiência em inúmeras horas de palestras e treinamentos. Enriquecido pelo belo trabalho de fotografia de Mauro Campos, esta obra além de incrível é imperdível. Leia, pratique e dividas estas informações. Você perceberá que o mundo a sua volta naturalmente ganhará mais cor e mais vida e seus resultados serão cada vez melhores.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU18098"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.12.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=csZxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=csZxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=csZxDwAAQBAJ&pg=PA167&dq=Quem+vende+enriquece&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=csZxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-csZxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 25.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=csZxDwAAQBAJ&rdid=book-csZxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.599E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.599E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Livro_Mais_Incr%C3%ADvel_De_Automotiva%C3%A7%C3%A3-sample-pdf.acsm?id=csZxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=csZxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como fazer amigos e influenciar pessoas. São Paulo: Nacional, 2003 HILL, \u003cbr\u003e\nNapoleon. Trad. Mário Guerreiro. A chave mestra das riquezas. Rio de Janeiro: \u003cbr\u003e\nRecord, 1995. HILL, Napoleon. Trad. Neuza Campelo. \u003cb\u003eQuem vende enriquece\u003c/b\u003e:&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "neB7DwAAQBAJ",
+   "etag": "v5FX015+hIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/neB7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Arte De Influenciar Pessoas",
+    "authors": [
+     "Symon Hill"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Por que você deveria se interessar pela arte da influência? Talvez você esteja se perguntando por que não pode simplesmente se comunicar bem sem a necessidade de influenciar os outros. A comunicação interpessoal requer um envolvimento emocional, o que exige uma participação mais compreensiva e intensa. Mas poucos sabem como se destacar na multidão e assumir a liderança de um grupo para mostrar seu potencial. Todos aqueles que aspiram cargos de liderança em suas organizações e segmentos precisam aprender a comunicar-se com excelência para conquistar os colaboradores. A rejeição de um grupo impede o mais qualificado gestor de permanecer em seu cargo. Por isso a comunicação interpessoal é importante na vida dos humanos. À medida que a pessoa sobe na vida, o que ela mais precisa é de sua habilidade de comunicação, pois dela depende sua liderança que, além de sua personalidade, depende também de sua habilidade em conquistar pessoas de modo espontâneo. Conhece aquela expressão: “Eu gosto do Fulano ‘de graça’!”? Pois é! A arte de influenciar é a na realidade a habilidade de fazer os outros gostarem de você e seguirem suas orientações “de graça” – sem uma explicação ou motivo lógico. Elas fazem isso por gostarem de você. Esta questão é bastante oportuna e uma história pessoal pode ajuda-lo a entender a importância de influenciar pessoas. MAs não pára pr aí...",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU2519"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 495,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.39.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=neB7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=neB7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=neB7DwAAQBAJ&pg=PA455&dq=Quem+vende+enriquece&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=neB7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-neB7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=neB7DwAAQBAJ&rdid=book-neB7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Arte_De_Influenciar_Pessoas-sample-pdf.acsm?id=neB7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=neB7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "São Paulo: Larousse do Brasil, 2008. HILL, Napoleon. \u003cb\u003eQuem vende enriquece\u003c/b\u003e. \u003cbr\u003e\nVersão brasileira da editora. 1. ed. São Paulo: Editora Fundamento Educacional, \u003cbr\u003e\n2011. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. A Arte de Influenciar Pessoas - 455."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JskMAAAAYAAJ",
+   "etag": "hjfgE2362RU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JskMAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Democracia, liberdade, igualdade",
+    "subtitle": "os três caminhos",
+    "publishedDate": "1979",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023444981"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 615,
+    "printType": "BOOK",
+    "categories": [
+     "Democracy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JskMAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JskMAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JskMAAAAYAAJ&q=Quem+vende+enriquece&dq=Quem+vende+enriquece&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JskMAAAAYAAJ&dq=Quem+vende+enriquece&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Democracia_liberdade_igualdade.html?hl=&id=JskMAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JskMAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Estado legisla para si-mesmo; e os Estados, em comunidade, legislam para \u003cbr\u003e\ntodos eles, isto é, edificam o Direito das Gentes. Desembaraço burocrático, de \u003cbr\u003e\n\u003cb\u003equem vende\u003c/b\u003e, de quem \u003cb\u003eenriquece\u003c/b\u003e, sem produzir. Isso não foi bem o que se \u003cbr\u003e\npassou;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V9dCAAAAYAAJ",
+   "etag": "BdvsKga1s6E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V9dCAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O que é mais-valia",
+    "authors": [
+     "Paulo Sandroni"
+    ],
+    "publishedDate": "1982",
+    "description": "A partir do conceito de economia criado por Marx, Paulo Sandroni fornece ao leitor um itinerário pessoal e abrangente dos diversos graus de exploração da força de trabalho. As noções de capital, lucro, acumulação e salário estão aqui explicadas de forma extremamente clara, mas nunca simplista, em busca de uma resposta para a insistente pergunta - quando a mais-valia vai acabar?",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173024008362"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 111,
+    "printType": "BOOK",
+    "categories": [
+     "Capitalism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=V9dCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=V9dCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=V9dCAAAAYAAJ&q=Quem+vende+enriquece&dq=Quem+vende+enriquece&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=V9dCAAAAYAAJ&dq=Quem+vende+enriquece&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_que_%C3%A9_mais_valia.html?hl=&id=V9dCAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=V9dCAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... até à morte do trabalhador sem que ele extraia diferença alguma a seu favor. \u003cbr\u003e\nÉ por isso que \u003cb\u003equem vende\u003c/b\u003e força de trabalho não se \u003cb\u003eenriquece\u003c/b\u003e jamais, a náo ser \u003cbr\u003e\nque ganhe na Loteria Esportiva . . . que HB 601 52S3 A • v. entre o produtor e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eDksAQAAIAAJ",
+   "etag": "ZtDPY3MMpjA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eDksAQAAIAAJ",
+   "volumeInfo": {
+    "title": "ABC do direito romano",
+    "authors": [
+     "Adaucto de Souza Castro",
+     "Edson Crochíquia"
+    ],
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105043626295"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 454,
+    "printType": "BOOK",
+    "categories": [
+     "Roman law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eDksAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eDksAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eDksAQAAIAAJ&q=Quem+vende+enriquece&dq=Quem+vende+enriquece&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eDksAQAAIAAJ&dq=Quem+vende+enriquece&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ABC_do_direito_romano.html?hl=&id=eDksAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eDksAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como exemplo típico cita-se o enriquecimento injusto, n&lt;) qual, quem \u003cbr\u003e\nempobrece perde e quem \u003cb\u003eenriquece\u003c/b\u003e ganha; nas ... algo, como é o caso da \u003cbr\u003e\ncompra e \u003cb\u003evenda\u003c/b\u003e de uma casa em que \u003cb\u003equem vende\u003c/b\u003e a casa ganha o dinheiro, mas \u003cbr\u003e\nperde a casa,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JcEWAAAAYAAJ",
+   "etag": "N6QTNBmx6wI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JcEWAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Serões",
+    "subtitle": "revista mensal illustrada",
+    "publishedDate": "1906",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NYPL:33433081768263"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JcEWAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JcEWAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JcEWAAAAYAAJ&q=Quem+vende+enriquece&dq=Quem+vende+enriquece&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JcEWAAAAYAAJ&dq=Quem+vende+enriquece&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ser%C3%B5es.html?hl=&id=JcEWAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JcEWAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... com um dosj quaes, o morango, se dá uma anomalia medonha no que \u003cbr\u003e\nrespeita a \u003cb\u003equem vende\u003c/b\u003e o cabaz d&#39;elles. ... Mas de todas as fructas, cuja \u003cbr\u003e\nabundância e variedade \u003cb\u003eenriquece\u003c/b\u003e os nossos vergéis, nenhuma como o \u003cbr\u003e\nmorango reúne&nbsp;..."
+   }
+  }
+ ]
+}

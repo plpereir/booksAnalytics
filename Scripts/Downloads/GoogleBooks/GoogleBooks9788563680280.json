@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cGXcwAEACAAJ",
+   "etag": "85XkMYAU56Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cGXcwAEACAAJ",
+   "volumeInfo": {
+    "title": "Terapia financeira",
+    "subtitle": "realize seus sonhos com educação financeira",
+    "authors": [
+     "Reinaldo Domingos"
+    ],
+    "publishedDate": "2013",
+    "description": "Nesta obra, o autor apresenta sua metodologia, visando ensinar o leitor a diagnosticar gastos e entender como priorizar os sonhos. Oferece um modo de planejar o orçamento, para poupar dinheiro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563680285"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563680280"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cGXcwAEACAAJ&dq=isbn:9788563680280&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cGXcwAEACAAJ&dq=isbn:9788563680280&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Terapia_financeira.html?hl=&id=cGXcwAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cGXcwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, o autor apresenta sua metodologia, visando ensinar o leitor a diagnosticar gastos e entender como priorizar os sonhos. Oferece um modo de planejar o orçamento, para poupar dinheiro."
+   }
+  }
+ ]
+}

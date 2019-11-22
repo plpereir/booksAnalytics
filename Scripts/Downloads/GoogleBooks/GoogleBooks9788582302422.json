@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "CMZGvgAACAAJ",
+   "etag": "0udnkneoDq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CMZGvgAACAAJ",
+   "volumeInfo": {
+    "title": "ASSASSINATO DE REPUTAÇOES II",
+    "subtitle": "MUITO ALEM DA LAVA JATO",
+    "authors": [
+     "CLAUDIO TOGNOLLI",
+     "ROMEU TUMA JUNIOR"
+    ],
+    "description": "Com sua experiência em investigação, Romeu Tuma Junior traz novas revelações sobre os recentes escândalos da política brasileira. Mostra detalhes sobre a Operação Lava Jato, o BNDES, novos detalhes sobre o assassinato do prefeito Celso Daniel e o grampo no STF.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582302428"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582302422"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 264,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CMZGvgAACAAJ&dq=isbn:9788582302422&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CMZGvgAACAAJ&dq=isbn:9788582302422&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ASSASSINATO_DE_REPUTA%C3%87OES_II.html?hl=&id=CMZGvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CMZGvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A obra mostra também informações inéditas das falcatruas no BNDE S, as negociatas dos filhos de Lula e muitos outros fatos escabrosos do PT e de outros políticos brasileiros, revelados por Romeu Tuma Junior."
+   }
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "y0kfcbuX9NAC",
+   "etag": "zHz44UHvfC8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y0kfcbuX9NAC",
+   "volumeInfo": {
+    "title": "Gerente de Sucesso",
+    "authors": [
+     "Peter Cusins"
+    ],
+    "publisher": "Clio Editora",
+    "publishedDate": "2011-01-01",
+    "description": "Os gerentes constituem um elo entre a força de trabalho e a alta direção da empresa. São eles os responsáveis por planejar e atingir metas, por meio do trabalho de seus subordinados. E para obterem êxito, precisam de um amplo leque de técnicas. Este livro poderá ajudá-lo com os vários aspectos de liderança e checklists para consulta rápida. Os temas abordados compreendem autoridade, delegação, definição de objetivos, planejamento, treinamento, análise do campo de força, reuniões, briefings, redes de decisão, integração dos membros da equipe e muito mais.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858623401X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788586234019"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=y0kfcbuX9NAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=y0kfcbuX9NAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=y0kfcbuX9NAC&printsec=frontcover&dq=isbn:9788586234019&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=y0kfcbuX9NAC&dq=isbn:9788586234019&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gerente_de_Sucesso.html?hl=&id=y0kfcbuX9NAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gerente_de_Sucesso-sample-pdf.acsm?id=y0kfcbuX9NAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y0kfcbuX9NAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os gerentes constituem um elo entre a força de trabalho e a alta direção da empresa."
+   }
+  }
+ ]
+}

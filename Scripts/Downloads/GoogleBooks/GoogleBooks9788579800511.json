@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t-tgYgEACAAJ",
+   "etag": "WMKlnBze624",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t-tgYgEACAAJ",
+   "volumeInfo": {
+    "title": "ELA DISSE, ELE DISSE",
+    "authors": [
+     "THALITA REBOUÇAS"
+    ],
+    "description": "Alternando as vozes de Rosa e Leo, ambos adolescentes de 14 anos, novos no mesmo colégio, 'Ela disse, ele disse' é um romance que mostra como meninos e meninas podem sentir as mesmas coisas, pensar de agirem de modo muito diferente. Temas como amizade, bullying, respeito às regras e a relação entre pais e filhos também estão presentes no livro. E como num quebra-cabeça em que cada peça se encaixa perfeitamente à outra, a narrativa se desenrola revelando, com ritmo e bom humor, os sonhos e angústias de meninos e meninas diante de cada situação, com direito a passagens hilárias causadas pela difícil comunicação entre os sexos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857980051X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788579800511"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t-tgYgEACAAJ&dq=isbn:9788579800511&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=t-tgYgEACAAJ&dq=isbn:9788579800511&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/ELA_DISSE_ELE_DISSE.html?hl=&id=t-tgYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=t-tgYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alternando as vozes de Rosa e Leo, ambos adolescentes de 14 anos, novos no mesmo colégio, &#39;Ela disse, ele disse&#39; é um romance que mostra como meninos e meninas podem sentir as mesmas coisas, pensar de agirem de modo muito diferente."
+   }
+  }
+ ]
+}

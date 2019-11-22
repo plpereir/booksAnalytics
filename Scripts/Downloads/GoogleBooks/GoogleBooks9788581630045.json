@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xwWyNAEACAAJ",
+   "etag": "RwIOGk2a24o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xwWyNAEACAAJ",
+   "volumeInfo": {
+    "title": "Um Porto Seguro",
+    "authors": [
+     "Nicholas Sparks",
+     "Ivar Panazzolo Junior"
+    ],
+    "description": "Quando uma mulher misteriosa chamada Katie aparece repentinamente na pequena cidade de Southport, na Carolina do Norte, questionamentos são levantados sobre seu passado. Linda, mas discreta, Katie parece evitar laços pessoais formais até uma série de eventos levá-la a duas amizades relutantes; uma com Alex, o viúvo, com um coração maravilhoso e dois filhos pequenos, a outra com sua vizinha muito franca, Jo. Apesar de ser reservada, Katie começa a baixar a guarda lentamente, criando raízes nessa comunidade solícita e tornando-se próxima demais de Alex e de sua família. No entanto, quando Katie começa a se apaixonar, ela se depara com o segredo obscuro que ainda a assombra e a amedronta; o passado que a deixou apavorada e a fez cruzar o país para chegar no paraíso de Southport. Com o apoio simpático e insistente de Jo, Katie percebe que deve escolher entre uma vida de segurança temporária e outra com recompensas mais arriscadas e que, no momento mais sombrio, o amor é seu único refúgio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581630049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581630045"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xwWyNAEACAAJ&dq=isbn:9788581630045&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xwWyNAEACAAJ&dq=isbn:9788581630045&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_Porto_Seguro.html?hl=&id=xwWyNAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xwWyNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando uma mulher misteriosa chamada Katie aparece repentinamente na pequena cidade de Southport, na Carolina do Norte, questionamentos são levantados sobre seu passado."
+   }
+  }
+ ]
+}

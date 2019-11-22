@@ -1,0 +1,771 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 40,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "K8NhBAAAQBAJ",
+   "etag": "M/9bN9AbgKM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K8NhBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Guga, um brasileiro",
+    "authors": [
+     "Gustavo Kuerten"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2014-09-11",
+    "description": "É em junho de 1997 que Gustavo Kuerten inicia a maior virada de sua vida. O palco é Roland Garros, o torneio de tênis mais charmoso do mundo. Como personagem inicialmente coadjuvante e depois protagonista, o desconhecido cabeludo, surfista e boa-praça iria abalar as tradições do esporte refinado e entrar para a história mundial do tênis e do esporte brasileiro.Mas sua trajetória brilhante rumo ao topo do ranking tem início muito antes, quando ainda era criança em Florianópolis, onde seria preparado pela família, pelas tragédias e por um treinador que esteve ao seu lado em todos os grandes momentos.Em um relato absolutamente sincero, empolgante e emocionante, Guga revela através de seus sentimentos as passagens mais marcantes de sua vida. Ele descreve as memórias de sua infância e adolescência com o mesmo estilo modesto e divertido que o caracteriza como jogador.A forte base familiar, a inspiração no pai, a admiração pelo irmão tenista, o apoio irrestrito da mãe, a paixão pelo irmão caçula e a confiança inabalável do treinador são peças fundamentais em sua história, a base que o levou a superar a falta de incentivo, a descrença em si mesmo e os adversários mais temidos de sua época.Essa jornada sem igual, passando pelos torneios juvenis e profissionais, o tricampeonato de Roland Garros, a chegada ao topo do ranking mundial, entre outras conquistas, é contada a partir da visão única do menino que nasceu para ser campeão e cativou o coração de todos os brasileiros.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543101491"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543101492"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.29.33.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=K8NhBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=K8NhBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=K8NhBAAAQBAJ&printsec=frontcover&dq=Guga,+um+brasileiro&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=K8NhBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-K8NhBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=K8NhBAAAQBAJ&rdid=book-K8NhBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.849E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guga_um_brasileiro-sample-epub.acsm?id=K8NhBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Guga_um_brasileiro-sample-pdf.acsm?id=K8NhBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=K8NhBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É em junho de 1997 que Gustavo Kuerten inicia a maior virada de sua vida."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "A2IEAAAAMBAJ",
+   "etag": "uL4Y9IjB6S8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A2IEAAAAMBAJ",
+   "volumeInfo": {
+    "title": "Trip",
+    "publishedDate": "2007-10",
+    "description": "Revista Trip. Um olhar criativo para a diversidade, em reportagens de comportamento, esportes de prancha, cultura pop, viagens, além dos ensaios de Trip Girl e grandes entrevistas",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 171,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=A2IEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=A2IEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=A2IEAAAAMBAJ&pg=PT141&dq=Guga,+um+brasileiro&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=A2IEAAAAMBAJ&dq=Guga,+um+brasileiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Trip.html?hl=&id=A2IEAAAAMBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=A2IEAAAAMBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nunca me esqueço desse nome, pois era o nome do homem que maltratava o \u003cbr\u003e\n\u003cb\u003eGuga\u003c/b\u003e, o \u003cb\u003ebrasileiro\u003c/b\u003e que eu amava. Pioline era um jogadorzinho muito mais ou \u003cbr\u003e\nmenos – mas era um galã, ou melhor, um galant: alto, esbelto, rosto bonito, \u003cbr\u003e\npleno de&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3Vn-IyGDBJAC",
+   "etag": "Iq+zS+P3Y7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3Vn-IyGDBJAC",
+   "volumeInfo": {
+    "title": "Pátria, chuteiras e propaganda",
+    "subtitle": "o brasileiro na publicidade da Copa do Mundo",
+    "authors": [
+     "Edison Gastaldo"
+    ],
+    "publisher": "Annablume",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574192538"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574192536"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 229,
+    "printType": "BOOK",
+    "categories": [
+     "Mass media"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3Vn-IyGDBJAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3Vn-IyGDBJAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3Vn-IyGDBJAC&pg=PA113&dq=Guga,+um+brasileiro&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3Vn-IyGDBJAC&dq=Guga,+um+brasileiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/P%C3%A1tria_chuteiras_e_propaganda.html?hl=&id=3Vn-IyGDBJAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3Vn-IyGDBJAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "o \u003cb\u003ebrasileiro\u003c/b\u003e na publicidade da Copa do Mundo Edison Gastaldo ... quadra de \u003cbr\u003e\ntênis, sob arquibancadas lotadas, o renomado tenista \u003cb\u003ebrasileiro\u003c/b\u003e Gustavo Kuerten\u003cbr\u003e\n, o &quot;\u003cb\u003eGuga\u003c/b\u003e&quot;, enfrenta o jogador Denílson, da seleção \u003cb\u003ebrasileira\u003c/b\u003e da Copa de 1998."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JfTodZz4K-AC",
+   "etag": "olg9c6/HtBk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JfTodZz4K-AC",
+   "volumeInfo": {
+    "title": "Placar Magazine",
+    "publishedDate": "1994-01",
+    "description": "PLACAR: a maior revista brasileira de futebol. Notícias, perfis, entrevistas, fotos exclusivas.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "MAGAZINE",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JfTodZz4K-AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JfTodZz4K-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JfTodZz4K-AC&pg=RA1-PA4&dq=Guga,+um+brasileiro&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JfTodZz4K-AC&dq=Guga,+um+brasileiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Placar_Magazine.html?hl=&id=JfTodZz4K-AC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JfTodZz4K-AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A história de \u003cb\u003eGuga\u003c/b\u003e foi assim durante todo o \u003cb\u003eBrasileiro\u003c/b\u003e. Perseguido e provocado \u003cbr\u003e\npor torcedores fanáticos, o camisa 9 da Vila Belmiro foi obrigado a demonstrar \u003cbr\u003e\nsua importância a cada jogo, a cada gol. Mas não deixou por menos. Ofereceu à\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yXv1CwAAQBAJ",
+   "etag": "NXuNuLmN8cE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yXv1CwAAQBAJ",
+   "volumeInfo": {
+    "title": "O livro dos bichos",
+    "authors": [
+     "Roberto Kaz"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2016-04-12",
+    "description": "Roberto Kaz, um dos grandes nomes do novo jornalismo brasileiro, reúne perfis inusitados sobre bichos anônimos e famosos. Major Tom passou trinta dias no espaço, orbitando ao redor da Terra e experimentando os efeitos da gravidade, e prestou grandes serviços à comunidade científica russa. Major Tom é um camundongo, e sua vida é uma das muitas contadas neste inusitado livro de reportagens sobre animais. A partir da história de cada bicho, Roberto Kaz conduz o leitor a um universo desconhecido. Quando fala de um cavalo reprodutor, revela todo um mundo de negociações milionárias e intrigas políticas. Quando perfila uma celebridade animal, expõe uma guerra de patentes nos bastidores da maior emissora do país. Com empatia, Kaz tira desses bichos histórias marcantes, que revelam tanto sobre o mundo animal quanto sobre nós mesmos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543805559"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543805554"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yXv1CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yXv1CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yXv1CwAAQBAJ&pg=PT111&dq=Guga,+um+brasileiro&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yXv1CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yXv1CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 30.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yXv1CwAAQBAJ&rdid=book-yXv1CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_livro_dos_bichos-sample-epub.acsm?id=yXv1CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_livro_dos_bichos-sample-pdf.acsm?id=yXv1CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yXv1CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O campeão da categoria “Curió Preto com Repetição” — a que exige mais \u003cbr\u003e\nerudição do pássaro — foi \u003cb\u003eGuga\u003c/b\u003e Filho, ... que o curió Curumim do Vale lhe deu o \u003cbr\u003e\nprimeiro título de peso (do Campeonato \u003cb\u003eBrasileiro\u003c/b\u003e de Canto, que, apesar do \u003cbr\u003e\nnome,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z6yMDwAAQBAJ",
+   "etag": "gr08mPmXsv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z6yMDwAAQBAJ",
+   "volumeInfo": {
+    "title": "História dos esportes",
+    "authors": [
+     "Orlando Duarte"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2019-03-12",
+    "description": "O esporte é entretenimento, lazer, recuperação, cultura, e atende muitas das necessidades vitais do ser humano. Ninguém melhor do que Orlando Duarte, jornalista esportivo de quinze mundiais de futebol, dez olimpíadas, torneios de tênis, Fórmula 1, basquetebol, pugilismo, beisebol, atletismo, voleibol etc., para contar a história dos esportes conhecidos e as curiosidades daqueles sobre os quais temos pouca ou nenhuma informação. Prêmio Clio da Academia Paulistana de História e Câmara Municipal de São Paulo - Menção Honrosa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539605750"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539605759"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 584,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Z6yMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Z6yMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Z6yMDwAAQBAJ&pg=PT599&dq=Guga,+um+brasileiro&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Z6yMDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Z6yMDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 59.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 59.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Z6yMDwAAQBAJ&rdid=book-Z6yMDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.95E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_dos_esportes-sample-epub.acsm?id=Z6yMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Hist%C3%B3ria_dos_esportes-sample-pdf.acsm?id=Z6yMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Z6yMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eGuga\u003c/b\u003e é o maior tenista \u003cb\u003ebrasileiro\u003c/b\u003e de todos os tempos. Nasceu a 10 de setembro \u003cbr\u003e\nde 1976, em Florianópolis. Tem 1,91 m de altura. Seu hobby é o surfe; ele adora \u003cbr\u003e\n“pegar ondas” nas costas catarinenses. \u003cb\u003eGuga\u003c/b\u003e começou a jogar aos 6 anos,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9iM8AQAAMAAJ",
+   "etag": "Nhnb0U8tD6o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9iM8AQAAMAAJ",
+   "volumeInfo": {
+    "title": "Revista do Instituto Histórico e Geográfico Brasileiro",
+    "authors": [
+     "Instituto Histórico e Geográfico Brasileiro"
+    ],
+    "publishedDate": "1889",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OSU:32435064567902"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9iM8AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9iM8AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9iM8AQAAMAAJ&q=Guga,+um+brasileiro&dq=Guga,+um+brasileiro&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9iM8AQAAMAAJ&dq=Guga,+um+brasileiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Revista_do_Instituto_Hist%C3%B3rico_e_Geogr.html?hl=&id=9iM8AQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9iM8AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Instituto Histórico e Geográfico \u003cb\u003eBrasileiro\u003c/b\u003e. Parece algumas vezes, que \u003cbr\u003e\nprounnciam Bot-up (com b), e seria bom escrever esta ... T. Néréroupé \u003cb\u003eguga\u003c/b\u003e-put? \u003cbr\u003e\nNao trouxestes inxús. F. Arrout. Trouxe. &#39; T. Igatompé? Sam bonitas ? F. Guiapzw\u003cbr\u003e\n-eié."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vC7gvc8HIJQC",
+   "etag": "aC1B5WkAEGo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vC7gvc8HIJQC",
+   "volumeInfo": {
+    "title": "O Tênis no Brasil",
+    "subtitle": "de Maria Esther Bueno a Gustavo Kuerten",
+    "authors": [
+     "Gianni Carta",
+     "Roberto Marcher"
+    ],
+    "publisher": "Conex",
+    "publishedDate": "2004",
+    "description": "'O tênis no Brasil - de Maria Esther a Gustavo Kuerten', de autoria de Gianni Carta e Roberto Marcher, dois experts no esporte, conta a história do tênis no Brasil, revelada pelos principais jogadores do país, onde eles revelam curiosidades inéditas. Gustavo Kuerten, o Guga tricampeão de Roland Garros, ocupa 13 páginas do livro, onde conta, com suas palavras, desde quando iniciou no tênis, o trauma de perder o pai na infância, até conquistar a ambicionada posição de número 1 do mundo, e se transformar no maior ídolo do esporte no país. E histórias semelhantes são contadas por outros tenistas que fizeram a história do tênis brasileiro, como Thomaz Koch, Jaime Oncins, Luiz Mattar, Cássio Motta, Niege Dias, Patrícia Medrado, Fernando Meligeni.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575940317"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575940310"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Tennis"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vC7gvc8HIJQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vC7gvc8HIJQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vC7gvc8HIJQC&printsec=frontcover&dq=Guga,+um+brasileiro&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vC7gvc8HIJQC&dq=Guga,+um+brasileiro&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_T%C3%AAnis_no_Brasil.html?hl=&id=vC7gvc8HIJQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vC7gvc8HIJQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;O tênis no Brasil - de Maria Esther a Gustavo Kuerten&#39;, de autoria de Gianni Carta e Roberto Marcher, dois experts no esporte, conta a história do tênis no Brasil, revelada pelos principais jogadores do país, onde eles revelam ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X5FCAQAAMAAJ",
+   "etag": "BIlREGhxeWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X5FCAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Coleção das leis de ...",
+    "authors": [
+     "Brazil"
+    ],
+    "publishedDate": "1868",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "SRLF:A0003155462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X5FCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X5FCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X5FCAQAAMAAJ&pg=PA23&dq=Guga,+um+brasileiro&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=X5FCAQAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-X5FCAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=X5FCAQAAMAAJ&rdid=book-X5FCAQAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X5FCAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "na AGOSTO DE 4868` \\ ` Autorisa o Governo para mandar passar carta de \u003cbr\u003e\nnaturalisação de Cidadão \u003cb\u003eBrasileiro\u003c/b\u003e ao subdito ... José Luiz da Rocha, Joaquim \u003cbr\u003e\nMarinho, José Vieira, e Manoel Jose&#39; Pinto; ao Hollandez Jose Maria _ Villar-\u003cbr\u003e\n\u003cb\u003eguga\u003c/b\u003e,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WMhnAwAAQBAJ",
+   "etag": "GlGsPbMp/dY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WMhnAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cidadania e Educação",
+    "authors": [
+     "Jaime Pinsky"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "1992-03-02",
+    "description": "As lutas, as conquistas, os limites, a possibilidade de alcançar melhor qualidade de vida para todos, e não para poucos, tudo isso deve fazer parte do currículo escolar. é fundamental entender a questão da cidadania, concebida em sua dimensão histórica. Os textos de CIDADANIA E EDUCAçãO mostram o que é ser cidadão, não apenas como conceito jurídico mas como prática social. O pedestre, o estudante, o professor, o motorista são alguns dos personagens deste livro que merece ser lido e debatido por todos os que se interessam por uma sociedade mais democrática.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572448475"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8572448470"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WMhnAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WMhnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WMhnAwAAQBAJ&pg=PT42&dq=Guga,+um+brasileiro&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WMhnAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WMhnAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.54,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WMhnAwAAQBAJ&rdid=book-WMhnAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.254E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cidadania_e_Educa%C3%A7%C3%A3o-sample-epub.acsm?id=WMhnAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cidadania_e_Educa%C3%A7%C3%A3o-sample-pdf.acsm?id=WMhnAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WMhnAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um amigo historiador, argentino ecínico, garante quea identidade nacional \u003cbr\u003e\n\u003cb\u003ebrasileira\u003c/b\u003e sóse manifesta por ocasião de finais ... concretamente, ao simpático \u003cbr\u003e\n\u003cb\u003eGuga\u003c/b\u003e)e estabelecer em torno deles um forte tecido de lealdade nacional informal\u003cbr\u003e\n, que&nbsp;..."
+   }
+  }
+ ]
+}

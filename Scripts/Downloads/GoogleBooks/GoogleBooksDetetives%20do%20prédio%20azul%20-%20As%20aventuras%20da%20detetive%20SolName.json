@@ -1,0 +1,105 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8Tp6AgAAQBAJ",
+   "etag": "sIy0ZWLNeEc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8Tp6AgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Barão de Lavos",
+    "subtitle": "",
+    "authors": [
+     "Abel Botelho"
+    ],
+    "publisher": "Ediçoes Vercial",
+    "publishedDate": "2014-01-03",
+    "description": "Naquela noite de Março, desabrida e húmida, uma grande animação fervilhava alacremente ao fundo da Rua do Salitre. Era em 1867. Frente a frente, as Variedades e o Circo Price alinhavam os seus bicos de gás festeiros, a que as vesgastadas do noroeste, impunham um tremilhar inquieto. Quinta-feira – noite de cabriolas com um sobrescrito à fina sociedade. Enchente certa no Circo. De cada lado do portal da entrada, um semicírculo compacto de gente se agitava, tendo por centro cada um seu postigo de bilheteiro, e ambos por igual colados, premidos sofregamente contra a parede verdoenga do barracão, e arredondando pela rua fora, numa irregularidade gritada e confusa, a toda a largura do macadame. Tudo queria bilhete. Havia chapéus tombados, ombros que penetravam à cunha, braços arpoando vigorosamente os alizares castanhos dos postigos, mãos retirando triunfantes, muito erguidas, com um papelinho azul ao vento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897000348"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897000348"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8Tp6AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8Tp6AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8Tp6AgAAQBAJ&printsec=frontcover&dq=Detetives+do+pr%C3%A9dio+azul+-+As+aventuras+da+detetive+Sol&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8Tp6AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8Tp6AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.45,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.45,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8Tp6AgAAQBAJ&rdid=book-8Tp6AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.245E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.245E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Bar%C3%A3o_de_Lavos-sample-epub.acsm?id=8Tp6AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Bar%C3%A3o_de_Lavos-sample-pdf.acsm?id=8Tp6AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8Tp6AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Naquela noite de Março, desabrida e húmida, uma grande animação fervilhava alacremente ao fundo da Rua do Salitre."
+   }
+  }
+ ]
+}

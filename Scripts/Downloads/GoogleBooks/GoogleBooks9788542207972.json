@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gt_twAEACAAJ",
+   "etag": "k/vjVuk0SgM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gt_twAEACAAJ",
+   "volumeInfo": {
+    "title": "O vendedor de sonhos",
+    "subtitle": "o chamado",
+    "authors": [
+     "Augusto Cury"
+    ],
+    "publishedDate": "2016",
+    "description": "O romance mais vendido de Augusto Cury, que deu origem ao filme de Jayme Monjardim, com Dan Stulbach e César Troncoso nos papéis principais. Edição revista pelo autor, com passagens inéditas presentes na adaptação para o cinema. Um homem maltrapilho e desconhecido tenta impedir que um intelectual se suicide. Um desafio que nem a polícia nem um famoso psiquiatra tinham sido capazes de resolver. Depois de abalá-lo e resgatá-lo, esse homem, de quem ninguém sabe a origem, o nome ou a história, sai proclamando aos quatro ventos que as sociedades modernas se converteram em um hospício global. Com uma eloquência cativante, começa a chamar seguidores para vender sonhos em uma sociedade que deixou de sonhar. Nada tão belo e tão estranho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8542207971"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542207972"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gt_twAEACAAJ&dq=isbn:9788542207972&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gt_twAEACAAJ&dq=isbn:9788542207972&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_vendedor_de_sonhos.html?hl=&id=gt_twAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gt_twAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O romance mais vendido de Augusto Cury, que deu origem ao filme de Jayme Monjardim, com Dan Stulbach e César Troncoso nos papéis principais."
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "e3aJswEACAAJ",
+   "etag": "Nog3gAcbRVA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e3aJswEACAAJ",
+   "volumeInfo": {
+    "title": "A livraria mágica de Paris",
+    "authors": [
+     "Nina George"
+    ],
+    "publishedDate": "2016",
+    "description": "O livreiro parisiense Jean Perdu sabe exatamente que livro cada cliente deve ler para amenizar os sofrimentos da alma. Em seu barco livraria, ele vende romances como se fossem remédios. Infelizmente, o único sofrimento que não consegue curar é o seu: a desilusão amorosa que o atormenta há 21 anos, desde que a bela Manon partiu enquanto ele dormia. Tudo o que ela deixou foi uma carta que Perdu não teve coragem de ler. Até um determinado verão o verão que muda tudo e que leva Monsieur Perdu a abandonar a casa na estreita rua Montagnard e a embarcar numa jornada que o levará ao coração da Provence e de volta ao mundo dos vivos. Sucesso de público e crítica, repleto de momentos deliciosos e salpicado com uma boa dose de aventura, A livraria mágica de Paris é uma carta de amor aos livros perfeito para quem acredita no poder que as histórias têm de influenciar nossas vidas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501107611"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501107619"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Books and reading"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=e3aJswEACAAJ&dq=isbn:9788501107619&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=e3aJswEACAAJ&dq=isbn:9788501107619&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_livraria_m%C3%A1gica_de_Paris.html?hl=&id=e3aJswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=e3aJswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sucesso de público e crítica, repleto de momentos deliciosos e salpicado com uma boa dose de aventura, A livraria mágica de Paris é uma carta de amor aos livros — perfeito para quem acredita no poder que as histórias têm de ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "m6NCvgAACAAJ",
+   "etag": "w3tMUuSJyNA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m6NCvgAACAAJ",
+   "volumeInfo": {
+    "title": "PARA ONDE ELA FOI",
+    "authors": [
+     "GAYLE FORMAN",
+     "AMANDA MOURA"
+    ],
+    "description": "'Meu primeiro impulso não é agarrá-la nem beijá-la. Eu só quero tocar sua bochecha, ainda corada pela apresentação desta noite. Eu quero atravessar o espaço que nos separa, medido em passos - não em milhas, não em continentes, não em anos -, e acariciar seu rosto com um dedo calejado. Mas eu não posso tocá-la. Esse é um privilégio que me foi tirado.'",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581635679"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581635675"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=m6NCvgAACAAJ&dq=isbn:9788581635675&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=m6NCvgAACAAJ&dq=isbn:9788581635675&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PARA_ONDE_ELA_FOI.html?hl=&id=m6NCvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m6NCvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Meu primeiro impulso não é agarrá-la nem beijá-la."
+   }
+  }
+ ]
+}

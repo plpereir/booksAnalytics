@@ -1,0 +1,746 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 396,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FrcPBgAAQBAJ",
+   "etag": "li13C7fenN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FrcPBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma breve história do tempo",
+    "subtitle": "",
+    "authors": [
+     "Stephen Hawking"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-01-13",
+    "description": "Uma das mentes mais geniais do mundo moderno, Stephen Hawking guia o leitor na busca por respostas a algumas das maiores dúvidas da humanidade: Qual a origem do universo? Ele é infinito? E o tempo? Sempre existiu, ou houve um começo e haverá um fim? Existem outras dimensões além das três espaciais? E o que vai acontecer quando tudo terminar? Com ilustrações criativas e texto lúcido e bem-humorado, Hawking desvenda desde os mistérios da física de partículas até a dinâmica que movimenta centenas de milhões de galáxias por todo o universo. Para o iniciado, Uma breve história do tempo é uma bela representação de conceitos complexos; para o leigo, é um vislumbre dos segredos mais profundos da criação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576474"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580576474"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FrcPBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FrcPBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FrcPBgAAQBAJ&printsec=frontcover&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FrcPBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FrcPBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FrcPBgAAQBAJ&rdid=book-FrcPBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.74E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.74E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_breve_hist%C3%B3ria_do_tempo-sample-epub.acsm?id=FrcPBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_breve_hist%C3%B3ria_do_tempo-sample-pdf.acsm?id=FrcPBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FrcPBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para o iniciado, Uma breve história do tempo é uma bela representação de conceitos complexos; para o leigo, é um vislumbre dos segredos mais profundos da criação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "p8WOPgAACAAJ",
+   "etag": "zgdyKp8zHHU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p8WOPgAACAAJ",
+   "volumeInfo": {
+    "title": "Uma breve história do mundo: da origem da vida à época actual",
+    "authors": [
+     "H.G. Wells",
+     "Alexandra Martins"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9728293135"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789728293130"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 346,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=p8WOPgAACAAJ&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=p8WOPgAACAAJ&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_breve_hist%C3%B3ria_do_mundo_da_origem_d.html?hl=&id=p8WOPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p8WOPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4UUVpLPcb2gC",
+   "etag": "DZVvYgvNeZ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4UUVpLPcb2gC",
+   "volumeInfo": {
+    "title": "Uma breve história do conhecimento",
+    "subtitle": "Os principais eventos, pessoas e conquistas da história mundial",
+    "authors": [
+     "Charles Van Doren"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-02-01",
+    "description": "UMA VIAGEM POR MAIS DE CINCO MIL ANOS DE HISTÓRIA. Charles Van Doren relaciona, de maneira concisa e envolvente, os pensamentos revolucionários dos grandes gênios e os fatos históricos mais marcantes da história mundial. O ideal grego de justiça e as condições político-sociais que desencadearam a invenção do método científico são alguns dos exemplos de como linhas de pensamento podem influenciar radicalmente a trajetória da humanidade. Este livro reúne tudo que o homem já pensou, inventou, criou e aperfeiçoou. Com uma linguagem acessível, o autor traça o caminho da lógica humana desde as civilizações antigas do Egito e da Grécia até a cultura de tecnologia do século XXI, apresentando as teorias que revolucionaram a ciência, a arte e a filosofia e os gênios que existiram por trás delas: Buda, Einstein, Leonardo da Vinci, Shakespeare, Freud, Picasso, Aristóteles e muitos outros. Uma narrativa que mostra como grandes pensamentos podem moldar toda uma geração e, muitas vezes, definir o rumo da história.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577343393"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577343391"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.18.16.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4UUVpLPcb2gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4UUVpLPcb2gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4UUVpLPcb2gC&printsec=frontcover&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4UUVpLPcb2gC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4UUVpLPcb2gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4UUVpLPcb2gC&rdid=book-4UUVpLPcb2gC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_breve_hist%C3%B3ria_do_conhecimento-sample-epub.acsm?id=4UUVpLPcb2gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4UUVpLPcb2gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "UMA VIAGEM POR MAIS DE CINCO MIL ANOS DE HISTÓRIA. Charles Van Doren relaciona, de maneira concisa e envolvente, os pensamentos revolucionários dos grandes gênios e os fatos históricos mais marcantes da história mundial."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-zxaG2bpT90C",
+   "etag": "LyLef1Ohyyw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-zxaG2bpT90C",
+   "volumeInfo": {
+    "title": "Uma Breve História da Geopolítica",
+    "publisher": "Cenegri Edições",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788561336066"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8561336064"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-zxaG2bpT90C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-zxaG2bpT90C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-zxaG2bpT90C&printsec=frontcover&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-zxaG2bpT90C&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_Breve_Hist%C3%B3ria_da_Geopol%C3%ADtica.html?hl=&id=-zxaG2bpT90C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-zxaG2bpT90C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ASn9JxoYpLoC",
+   "etag": "SSPbhpJHm9Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ASn9JxoYpLoC",
+   "volumeInfo": {
+    "title": "Paixão pelo saber",
+    "authors": [
+     "ROBERT C. SOLOMON",
+     "KATHLEEN MARIE HIGGINS"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2001",
+    "description": "'Paixão pelo saber - Uma breve história da filosofia', de Robert C. Solomon e Kathleen M. Higgins, é uma deliciosa introdução à filosofia. Os autores mostram as origens da filosofia - tradição intelectual que tem mais de três mil anos - passando por diversas discussões entre Fé e Razão nos mais variados movimentos culturais e religiosos da história. Os autores discursam sobre os principais tópicos da filosofia, como a existência de Deus ou a uma explicação para a presença do mal no mundo. O livro analisa o budismo, o confucionismo, o sofismo e o taoísmo, passando pela Grécia antiga até chegarmos ao pós-modernismo. Ao longo do caminho percorrido pelos autores, encontraremos Platão, Tomás de Aquino, Heidegger e Simone de Beauvoir, mas também Nietzsche, Lutero, Descartes e suas respectivas biografias. Dividido em três momentos históricos - a procura pela Verdade singular, o conflito entre Fé e Razão, modernismo e pós-modernismo - explicados de forma clara e objetiva para todos aqueles que desejam uma introdução a essa ciência do comportamento humano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8520005438"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520005439"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 206,
+    "printType": "BOOK",
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ASn9JxoYpLoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ASn9JxoYpLoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ASn9JxoYpLoC&printsec=frontcover&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ASn9JxoYpLoC&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Paix%C3%A3o_pelo_saber.html?hl=&id=ASn9JxoYpLoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ASn9JxoYpLoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A história da filosofia é a história da autoconsciência da humanidade e de seu maravilhamento com o mundo. É, em suma, paixão coletiva e individual pela sabedoria. ( Robert Solomon e Kathleen Higgins) PAIXÃO PELO SABER: UMA BREVE ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jiKoBAAAQBAJ",
+   "etag": "TiSoQkqxgyA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jiKoBAAAQBAJ",
+   "volumeInfo": {
+    "title": "O mundo é plano",
+    "subtitle": "Uma breve história do século XXI",
+    "authors": [
+     "Thomas L. Friedman"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2014-02-13",
+    "description": "Em edição econômica, o best-seller que primeiro explicou o novo jogo de forças do capitalismo global no começo do século XXI. Elogiado pela crítica e sucesso mundial de vendas, O mundo é plano tornou-se já referência na história das relações internacionais. Thomas Friedman, um dos principais articulistas do New York Times e vencedor de três prêmios Pulitzer, foi pioneiro em enxergar e definir a \"nova globalização\", era em que os avanços da tecnologia e da comunicação permitiram que os indivíduos se conectassem como nunca antes, transformando as noções conhecidas de distância, tempo e trabalho. Momento este, defende o autor, que se mostrou positivo para os países emergentes, seus negócios e meio ambiente, ao contrário da era da \"velha\" globalização, que só beneficiava quem já detinha capital. Através da ideia de achatamento do mundo, Friedman descreve como as pessoas passaram a colaborar umas com as outras e também competir em um mundo de forças mais igualitárias, e procura assim explicar a ascensão de novos players mundiais, como Índia e China. A presente edição do livro traz dois capítulos em que o autor responde a perguntas frequentes de leitores, mostra como ser um ativista político e um empresário com preocupação social, e discute como é possível manter a reputação e a privacidade num tempo em que a informação circula de forma frenética. \"Um negócio da China: começar o ano lendo O mundo é plano, do jornalista Thomas Friedman, do New York Times. É uma cápsula de 460 páginas para um voo por um caminho novo, inteligente e empreendedor. \" - Elio Gaspari, Folha de S. Paulo\"Grandes livros são os que nos fazem ver o mundo de outra forma, como O mundo é plano, de Thomas Friedman. \" - Joseph E. Stiglitz",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580869378"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580869374"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jiKoBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jiKoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jiKoBAAAQBAJ&printsec=frontcover&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=jiKoBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-jiKoBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=jiKoBAAAQBAJ&rdid=book-jiKoBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.39E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.39E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_mundo_%C3%A9_plano-sample-epub.acsm?id=jiKoBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_mundo_%C3%A9_plano-sample-pdf.acsm?id=jiKoBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=jiKoBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Elogiado pela crítica e sucesso mundial de vendas, O mundo é plano tornou-se já referência na história das relações internacionais."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0REr3dXUC6kC",
+   "etag": "7BYDkv7FNtE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0REr3dXUC6kC",
+   "volumeInfo": {
+    "title": "Breve Historia Do Progresso, Uma",
+    "authors": [
+     "Ronald Wright"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2007",
+    "description": "De onde viemos? O que somos? Para onde vamos? O século XX - uma época de progresso sem precedentes - ocasionou o crescimento desenfreado da população, do consumo e da tecnologia, impondo um fardo mortífero ao planeta. Muitas das grandes ruínas dos desertos e das selvas da Terra são monumentos às armadilhas do progresso, resquícios de civilizações antigas vitimadas por seu próprio desenvolvimento. Na história desses povos residem as mais instrutivas lições para a nossa sociedade. Pensando no rumo que tomará esse crescimento desenfreado, o romancista e historiador Ronald Wright sustenta que esta aparentemente complicada questão moderna é, na verdade, tão antiga quanto a civilização. Do homem de Neandertal ao Império Romano, passando pelos sumérios, 'Uma breve história do progresso' disseca a natureza cíclica das conquistas e fracassos da humanidade, um processo que já se desenrola há 10.000 anos e que, embora engendrado por nós, ainda não fomos capazes de controlar. Wright mostra, com sólidas argumentações, que apenas compreendendo os padrões de repetição de progresso e desastre que se repetem no mundo desde a Idade da Pedra poderemos por fim rompê-los e impedir o surgimento de uma nova Idade das Trevas. Ele ilustra como várias culturas ao longo da história iniciaram de maneira clara seu processo de destruição, ao abusar insensatamente dos elementos que permitiram seu avanço. E nos aponta como, com sorte e sabedoria, evitar destino semelhante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501073814"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501073815"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 238,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0REr3dXUC6kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0REr3dXUC6kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0REr3dXUC6kC&printsec=frontcover&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0REr3dXUC6kC&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Breve_Historia_Do_Progresso_Uma.html?hl=&id=0REr3dXUC6kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0REr3dXUC6kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pensando no rumo que tomará esse crescimento desenfreado, o romancista e historiador Ronald Wright sustenta que esta aparentemente complicada questão moderna é, na verdade, tão antiga quanto a civilização."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2cNkYFix2dYC",
+   "etag": "qoLXNKJI4kc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2cNkYFix2dYC",
+   "volumeInfo": {
+    "title": "Uma muito breve história do mundo",
+    "publisher": "Leya",
+    "publishedDate": "2010",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722041416"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "972204141X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 404,
+    "printType": "BOOK",
+    "categories": [
+     "History, Modern"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2cNkYFix2dYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2cNkYFix2dYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2cNkYFix2dYC&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2cNkYFix2dYC&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_muito_breve_hist%C3%B3ria_do_mundo.html?hl=&id=2cNkYFix2dYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2cNkYFix2dYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7YO9bULJ-YAC",
+   "etag": "Vd2sL2E6Ejg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7YO9bULJ-YAC",
+   "volumeInfo": {
+    "title": "Uma Breve História do Homem",
+    "authors": [
+     "Michael Cook",
+     "MARIA LUIZA X. DE A. BORGES"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2005",
+    "description": "De forma abrangente mas detalhista, Michael Cook conduz o leitor em uma fascinante viagem por dez mil anos de história. Assim, aborda desde o surgimento da civilização até a globalização no mundo contemporâneo, passando por todos os continentes e suas fases de evolução cultural, e examina a fundo costumes e tradições específicos. O livro toma como ponto de partida a perturbadora questão - poderia a história humana ter se desenvolvido de modo radicalmente diferente? Combinando diversos campos do saber - paleontologia, geologia e lingüística histórica, por exemplo -, o autor investiga o que levou o homem a adotar certas formas de organização e não outras. E aponta a agricultura como chave para a virada da humanidade em direção à civilização.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571108749"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571108745"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 351,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7YO9bULJ-YAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7YO9bULJ-YAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7YO9bULJ-YAC&pg=PA127&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7YO9bULJ-YAC&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_Breve_Hist%C3%B3ria_do_Homem.html?hl=&id=7YO9bULJ-YAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7YO9bULJ-YAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "I. Vida e morte da mais antiga civilização do \u003cb\u003emundo\u003c/b\u003e Nos últimos capítulos \u003cbr\u003e\nconsideramos os continentes um — ou até dois — por vez. Agora chegamos a \u003cbr\u003e\n\u003cb\u003euma\u003c/b\u003e massa de terra muito maior que qualquer deles, a Eurásia. Em virtude de \u003cbr\u003e\nsuas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QZQtLgEACAAJ",
+   "etag": "RLX+/PFg+5o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QZQtLgEACAAJ",
+   "volumeInfo": {
+    "title": "UMA BREVE HISTORIA DO CRISTIANISMO",
+    "authors": [
+     "GEOFFREY BLAINEY",
+     "NEUZA MARIA SIMOES CAPELO"
+    ],
+    "description": "O historiador Geoffrey Blainey busca analisar, de forma imparcial, os primeiros passos do Cristianismo, investiga os eventos que possibilitaram sua evolução e conta por que a doutrina cristã permanece viva no século XXI. Geoffrey Blainey procura abordar assuntos como a verdadeira origem de Jesus, dos Evangelhos e que fatos levaram a disseminação do Cristianismo ao redor do mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539505339"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539505333"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QZQtLgEACAAJ&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QZQtLgEACAAJ&dq=Uma+breve+hist%C3%B3ria+do+mundo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/UMA_BREVE_HISTORIA_DO_CRISTIANISMO.html?hl=&id=QZQtLgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QZQtLgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O historiador Geoffrey Blainey busca analisar, de forma imparcial, os primeiros passos do Cristianismo, investiga os eventos que possibilitaram sua evolução e conta por que a doutrina cristã permanece viva no século XXI."
+   }
+  }
+ ]
+}

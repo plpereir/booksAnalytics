@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lzmilFZfPDAC",
+   "etag": "jhGmveYKr28",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lzmilFZfPDAC",
+   "volumeInfo": {
+    "title": "Escrever melhor",
+    "subtitle": "guia para passar os textos a limpo",
+    "authors": [
+     "Dad Squarisi",
+     "Arlete Salvador"
+    ],
+    "publisher": "Editora Contexto",
+    "publishedDate": "2008",
+    "description": "É possível transformar um texto comum numa escrita sedutora, gostosa de ler? Em 'Escrever melhor - Guia para passar os textos a limpo', os autores procuram mostrar como estudantes, jornalistas, advogados, executivos e outros profissionais que usam a escrita podem melhorar seu texto, tornando-o conciso, objetivo, claro e sedutor. O livro aponta os defeitos comuns - em relatórios, documentos, reportagens, dissertações, teses e petições - e indica como escapar das ciladas da língua portuguesa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8572443908"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572443906"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 221,
+    "printType": "BOOK",
+    "categories": [
+     "Portuguese language"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lzmilFZfPDAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lzmilFZfPDAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lzmilFZfPDAC&dq=isbn:9788572443906&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lzmilFZfPDAC&dq=isbn:9788572443906&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Escrever_melhor.html?hl=&id=lzmilFZfPDAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lzmilFZfPDAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Escrever melhor - Guia para passar os textos a limpo&#39;, os autores procuram mostrar como estudantes, jornalistas, advogados, executivos e outros profissionais que usam a escrita podem melhorar seu texto, tornando-o conciso, objetivo, ..."
+   }
+  }
+ ]
+}

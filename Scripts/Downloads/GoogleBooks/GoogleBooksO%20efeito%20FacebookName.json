@@ -1,0 +1,947 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 101,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DxZPRGW3Q5YC",
+   "etag": "TMx31r/D3i4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DxZPRGW3Q5YC",
+   "volumeInfo": {
+    "title": "O efeito facebook",
+    "authors": [
+     "David Kirkpatrick"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Essa história já foi contada: tudo começou como uma novidade entre estudantes no alojamento de uma das universidades mais exclusivas e prestigiadas do mundo. Em pouco tempo o Facebook transformou-se numa empresa com mais de 500 milhões de usuários e obteve um dos mais vertiginosos crescimentos já registrados na história. Na versão de Ben Mezrich, em Bilionários por acaso, para atingir o sucesso, Mark Zuckerberg - fundador e CEO da empresa - enganou Divya Narendra e os sócios, os irmãos Winklevoss, e, por influência do controverso Sean Parker, um dos criadores do Napster, passou por cima de seu amigo e sócio, o brasileiro Eduardo Saverin. Em O efeito Facebook, de David Kirkpatrick, Mark Zuckerberg, eleito o Homem do Ano pela revista Time, conta a sua versão, endossada pelos principais executivos da empresa. Ex-editor sênior de Internet e tecnologia da revista Fortune, o autor não se restringe à gênese da rede social mais popular do mundo, mas analisa seu impacto na vida social de adolescentes e de adultos no mundo inteiro.. Kirkpatrick mostra como Zuckerberg, um jovem de 19 anos, estudante de Harvard, recusou-se de forma categórica e sistemática a comprometer suas ideias, insistindo em manter o foco no crescimento e não nos lucros, e proclamou que o Facebook deve dominar (palavras dele) a comunicação na Internet.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570359"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580570352"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DxZPRGW3Q5YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DxZPRGW3Q5YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DxZPRGW3Q5YC&printsec=frontcover&dq=O+efeito+Facebook&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DxZPRGW3Q5YC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DxZPRGW3Q5YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DxZPRGW3Q5YC&rdid=book-DxZPRGW3Q5YC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_efeito_facebook-sample-epub.acsm?id=DxZPRGW3Q5YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_efeito_facebook-sample-pdf.acsm?id=DxZPRGW3Q5YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DxZPRGW3Q5YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em O efeito Facebook, de David Kirkpatrick, Mark Zuckerberg, eleito o Homem do Ano pela revista Time, conta a sua versão, endossada pelos principais executivos da empresa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cp04Wj-CIhYC",
+   "etag": "e4Rcnq0fp70",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cp04Wj-CIhYC",
+   "volumeInfo": {
+    "title": "O Mundo Segundo Mark ZuckeRBErg",
+    "subtitle": "As Frases Mais Inspiradoras do Gênio por Trás do Facebook",
+    "authors": [
+     "George Beahm"
+    ],
+    "publisher": "Elsevier Brasil",
+    "publishedDate": "2017-10-05",
+    "description": "Mark Zuckerberg, o mais jovem nomeado A Pessoa do Ano pela revista Time desde Charles Lindbergh, cresceu tão rapidamente quanto à empresa fundada por ele em um dormitório de Harvard, em 2004; O apetite do público por insights sobre o Facebook e seu fundador parece quase insaciável; Há uma curiosidade tremenda sobre a personalidade e estilo de gerenciamento de Zuckerberg, desde que retratos ficcionais dele em Hollywood e rumores em Wall Street pintaram um amplo quadro do jovem CEO que acaba sendo só uma fração da verdade; O potencial do Facebook é desconhecido, mas a chave para o sucesso depende das próprias ideias e visões de seu líder; Este livro mostra seus insights mais provocadores, pesquisados e escolhidos por George Beahm, autor do best-seller O mundo segundo Steve Jobs; Em O mundo segundo Mark Zuckerberg, ele lança luz sobre Zuckerberg e a companhia criada por ele, enfatizando insights, estratégias de negócio e lições aprendidas; É leitura essencial para pessoas a procura de soluções aplicáveis a seus negócios, independente de tamanho, sendo um presente ideal ou referência para qualquer pessoa interessada no mais novo ícone de negócios americano",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535263626"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8535263624"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.12.11.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=cp04Wj-CIhYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=cp04Wj-CIhYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=cp04Wj-CIhYC&pg=PT104&dq=O+efeito+Facebook&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cp04Wj-CIhYC&dq=O+efeito+Facebook&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Mundo_Segundo_Mark_ZuckeRBErg.html?hl=&id=cp04Wj-CIhYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_Segundo_Mark_ZuckeRBErg-sample-epub.acsm?id=cp04Wj-CIhYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cp04Wj-CIhYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eO efeito Facebook\u003c/b\u003e: Os bastidores da história da empresa que conecta o mundo (\u003cbr\u003e\nIntrínseca, 2011), de David Kirkpatrick, é tido como a “verdadeira história por trás \u003cbr\u003e\nde A rede social”. Há uma diferença importante, pois A rede social network e o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EU9wDwAAQBAJ",
+   "etag": "XTjTd2cRHTM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EU9wDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O time dos sonhos da inovação",
+    "subtitle": "Lições dos maiores inovadores da atualidade",
+    "authors": [
+     "Felipe Ost Scherer"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2018-09-10",
+    "description": "Como trabalham ou trabalhavam os principais inovadores dos últimos 50 anos? Que características eles desenvolveram para construir empresas inovadoras e de sucesso mundial? Será que podemos aprender algo com pessoas como Steve Jobs, Mark Zuckerberg, Sergey Brin, Larry Page e Jeff Bezos? Este livro apresenta as lições dos principais empreendedores dos últimos anos. Juntos, eles formam o time dos sonhos da inovação, já que compartilham competências extraordinárias na arte de inovar. As histórias desses inovadores são inspiradoras para novos empreendedores, executivos ou qualquer pessoa que acredita que a inovação é algo que não acontece por acaso, mas sim fruto de uma abordagem estruturada que demanda visão e comportamentos específicos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550805900"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550805904"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EU9wDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EU9wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EU9wDwAAQBAJ&pg=PA173&dq=O+efeito+Facebook&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EU9wDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EU9wDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 47.92,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EU9wDwAAQBAJ&rdid=book-EU9wDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.792E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.792E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_time_dos_sonhos_da_inova%C3%A7%C3%A3o-sample-epub.acsm?id=EU9wDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_time_dos_sonhos_da_inova%C3%A7%C3%A3o-sample-pdf.acsm?id=EU9wDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EU9wDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "mark zuckerberg 67. Kirkpatrick, D. \u003cb\u003eO Efeito Facebook\u003c/b\u003e: os bastidores da história \u003cbr\u003e\nda empresa que conecta o mundo. Intrínseca, 2011. 68. ibid. 69. ibid. 70. ibid. 71. \u003cbr\u003e\nibid. 72. ibid. 73. Number of active users at Facebook over the years. 74. 75. 76."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wRv8CgAAQBAJ",
+   "etag": "K2fGcW5Map8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wRv8CgAAQBAJ",
+   "volumeInfo": {
+    "title": "Facebook e educação: publicar, curtir, compartilhar",
+    "authors": [
+     "Cristiane Porto",
+     "Edméa Oliveira dos Santos"
+    ],
+    "publisher": "SciELO - EDUEPB",
+    "publishedDate": "2014-01-01",
+    "description": "A obra apresenta elementos capazes de instigar a reflexão sobre a mídia social Facebook nos mais diversos contextos e situações, envolvendo os usos que as pessoas fazem dessa mídia; os temas que surgem e como esses se configuram enquanto objeto de estudo num ambiente de diálogo; os potenciais sociotécnicos e educacionais da rede, enquanto espaços de subjetivação, sociabilidade e diferença; bem como os usos do Facebook no ensino superior e na formação continuada de professores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578792831"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578792831"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wRv8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wRv8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wRv8CgAAQBAJ&pg=PA328&dq=O+efeito+Facebook&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wRv8CgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wRv8CgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 0.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wRv8CgAAQBAJ&rdid=book-wRv8CgAAQBAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Facebook_e_educa%C3%A7%C3%A3o_publicar_curtir_co-sample-epub.acsm?id=wRv8CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Facebook_e_educa%C3%A7%C3%A3o_publicar_curtir_co-sample-pdf.acsm?id=wRv8CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wRv8CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Malaga: Ediciones Aljibe, 1996. GUSKEY, T. R. Professional Development and \u003cbr\u003e\nTeacher Change. Teachers and Teaching: Theory and practice, 2002, p.381-391. \u003cbr\u003e\nKIRKPATRICK, D. \u003cb\u003eO Efeito Facebook\u003c/b\u003e (Babel ed.). Lisboa: Arcádia, 2011."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "juIPWsBQwDQC",
+   "etag": "ukzYuPUtfEs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/juIPWsBQwDQC",
+   "volumeInfo": {
+    "title": "O Efeito Momento",
+    "subtitle": "Como Promover o Crescimento Excepcional do seu Negócio",
+    "authors": [
+     "J.C. Larreche"
+    ],
+    "publisher": "Bookman Editora",
+    "publishedDate": "2010-03-31",
+    "description": "Um dos maiores desafios dos executivos é - como manter o crescimento e, ao mesmo tempo, a lucratividade? Baseado em pesquisa do autor sobre 350 empresas integrantes da lista da Fortune 1000, 'O efeito momento' mostra que o velho método de gastar muito no marketing e cortar os custos estão ultrapassados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577805983"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577805980"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 330,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=juIPWsBQwDQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=juIPWsBQwDQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=juIPWsBQwDQC&pg=PA208&dq=O+efeito+Facebook&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=juIPWsBQwDQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-juIPWsBQwDQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 83.2,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 83.2,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=juIPWsBQwDQC&rdid=book-juIPWsBQwDQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.32E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8.32E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Efeito_Momento-sample-pdf.acsm?id=juIPWsBQwDQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=juIPWsBQwDQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Porque, ao contrário de muitos outros sites de relacionamento, o \u003cb\u003eFacebook\u003c/b\u003e \u003cbr\u003e\ntornou intrínseca a sensação de pertencer a um grupo. O que não é surpresa. \u003cbr\u003e\nAfinal, o site começou como um ambiente fechado em que apenas os estudantes \u003cbr\u003e\ndo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XHYeAwAAQBAJ",
+   "etag": "0EIvCzw3VBQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XHYeAwAAQBAJ",
+   "volumeInfo": {
+    "title": "The end of facebook",
+    "subtitle": "",
+    "authors": [
+     "Pedro Barbosa"
+    ],
+    "publisher": "Vida Economica Editorial",
+    "publishedDate": "2013-07-01",
+    "description": "O Futuro do Facebook e das redes sociais Será possível o fim do Facebook estar para breve? A pergunta pode parecer descabida, mas existem indícios que a tornam uma pergunta séria e actual: um número crescente de utilizadores mais antigos estão a abandonar a rede e o mesmo acontece aos adolescentes. A saturação aumenta nos que usam a rede social, enquanto na bolsa o Facebook continua sob pressão. Tendo este panorama como ponto de partida, o ebook \"The End of Facebook\" (de Pedro Barbosa, autor dos bestsellers “Speculations and Trends” e “Harvard Trends”) explora com uma assinalável profundidade as razões desta saturação nos consumidores e para onde estão a migrar os descontentes, destapando de forma inédita o véu do que será o Facebook dos próximos anos. The end of Facebook chamou a atenção das redacções de jornais, revistas e canais de televisão quando o próprio Facebook tomou a decisão de bloquear o crescimento da página do livro na sua rede social, que tem hoje muitos milhares de seguidores. O ban do Facebook ter-se-à dado sem que a empresa de Palo Alto sequer conhecesse o conteúdo do ebook, gerando uma onda de indignação. The end of Facebook acaba por se tornar obrigatório, numa altura em que as revoluções do mobile, realidade aumentada e social search mudarão o panorama das redes sociais de forma definitiva. Estar preparado para essa mudança será crucial tanto para gestores e marketers, como para os curiosos e todos os que se preocuparem na sua proópria adaptação ao futuro próximo. www.theendoffacebook.com",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789727887897"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9727887899"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XHYeAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XHYeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XHYeAwAAQBAJ&pg=PA37&dq=O+efeito+Facebook&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XHYeAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XHYeAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 3.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XHYeAwAAQBAJ&rdid=book-XHYeAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3120000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3120000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_end_of_facebook-sample-epub.acsm?id=XHYeAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_end_of_facebook-sample-pdf.acsm?id=XHYeAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XHYeAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eFACEBOOK\u003c/b\u003e. Antes de mais, interessa referir que a demografia do cool é mais \u003cbr\u003e\nrelevante no mundo virtual do que no físico, porque \u003cb\u003eo efeito\u003c/b\u003e de influência e \u003cbr\u003e\nviralidade assume proporções maiores e mais céleres, podendo conduzir \u003cbr\u003e\nmarcas e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "R9zb5nAfsw8C",
+   "etag": "kWDPb2H1/qc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/R9zb5nAfsw8C",
+   "volumeInfo": {
+    "title": "O filtro invisível",
+    "subtitle": "O que a internet está escondendo de você",
+    "authors": [
+     "Eli Pariser"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2012-03-15",
+    "description": "O Google oferece resultados de busca de acordo com as preferências de cada usuário; o Facebook oculta atualizações de amigos com quem interagimos pouco; a Amazon expõe produtos que nos interessam quando entramos no site. Baseada na análise de nossos cliques, a internet está cada vez mais feita sob medida. Mas esse reflexo de nossos desejos tem um custo: se tudo se tornar pessoal, podemos ser impedidos de entrar em contato com ideias que mudam o modo como vemos o mundo e nós mesmos. Em \"O filtro invisível\", Eli Pariser, presidente do conselho da MoveOn, um dos principais portais de ativismo online, alerta para o que chama de bolha dos filtros: a partir da navegação de cada usuário na web, gigantes como Google, Facebook, Apple e Microsoft criam filtros formados por algoritmos que personalizam o resultado das buscas na internet. O autor mostra os riscos de vivermos confinados a um universo pessoal único de informações e explica o que cada um de nós, assim como as empresas, pode fazer para tornar a web mais democrática.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537808313"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537808318"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=R9zb5nAfsw8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=R9zb5nAfsw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=R9zb5nAfsw8C&pg=PA99&dq=O+efeito+Facebook&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=R9zb5nAfsw8C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-R9zb5nAfsw8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 46.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 46.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=R9zb5nAfsw8C&rdid=book-R9zb5nAfsw8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.69E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.69E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_filtro_invis%C3%ADvel-sample-epub.acsm?id=R9zb5nAfsw8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_filtro_invis%C3%ADvel-sample-pdf.acsm?id=R9zb5nAfsw8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=R9zb5nAfsw8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gordon Bell “Você tem uma identidade”, disse Mark Zuckerberg, fundador do \u003cbr\u003e\nFacebook, ao jornalista David Kirkpatrick em seu livro \u003cb\u003eO efeito Facebook\u003c/b\u003e. “Os \u003cbr\u003e\ntempos em que tínhamos uma imagem diferente para os nossos amigos ou \u003cbr\u003e\ncolegas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3nGmAwAAQBAJ",
+   "etag": "E1AX0kx61Rc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3nGmAwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Social Book - Tudo o que precisa de saber sobre o Facebook",
+    "authors": [
+     "Virginia Coutinho"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2018-12-05",
+    "description": "Há vários anos que muito se tem ouvido falar sobre a (r)evolução da comunicação e da necessidade de empresas e profissionais se adaptarem a esta nova realidade digital. No entanto, a velocidade a que as tendências e ferramentas têm aparecido tem dificultado este processo. Neste livro encontrará tudo o que precisa saber para gerir de forma eficaz a presença da sua marca no Facebook, seja ela orientada para o consumidor final ou para outros públicos. Conheça todos segredos desta rede social.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789896940966"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9896940967"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3nGmAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3nGmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3nGmAwAAQBAJ&pg=PT195&dq=O+efeito+Facebook&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3nGmAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3nGmAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 46.54,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3nGmAwAAQBAJ&rdid=book-3nGmAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.899E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.654E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_Social_Book_Tudo_o_que_precisa_de_sa-sample-epub.acsm?id=3nGmAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/The_Social_Book_Tudo_o_que_precisa_de_sa-sample-pdf.acsm?id=3nGmAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3nGmAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Figura 83 Além disto, o cartão convidava as pessoas a irem à página de \u003cbr\u003e\n\u003cb\u003eFacebook\u003c/b\u003e do canal e a participar no passatempo. Para este \u003cb\u003eefeito\u003c/b\u003e foi criado um \u003cbr\u003e\nseparador personalizado na página com uma aplicação, através da qual se \u003cbr\u003e\npodia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qp9c5qFP_30C",
+   "etag": "qqBbk903jtA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qp9c5qFP_30C",
+   "volumeInfo": {
+    "title": "Cuidados na Demência em Enfermagem",
+    "authors": [
+     "Cynthia D. Steele"
+    ],
+    "publisher": "AMGH Editora",
+    "publishedDate": "2009-01-01",
+    "description": "O clássico Desenvolvimento Humano chega à sua 12ª edição trazendo dados e tópicos totalmente atualizados sobre as diferentes fases do desenvolvimento, da formação de uma nova vida ao inevitável momento da morte. Seguindo uma abordagem cronológica, as autoras Diane E. Papalia e Ruth Duskin Feldman apresentam os aspectos do desenvolvimento físico, cognitivo e psicossocial de forma didática e ilustrada. Principais novidades da edição Seção sobre como a tecnologia afeta a aprendizagem Nova cobertura sobre neurociência Novas informações sobre mães no mercado de trabalho Cobertura atualizada sobre amizades, incluindo o efeito Facebook Informações atualizadas sobre teorias de por que as pessoas envelhecem e até quando o tempo de vida pode ser estendido",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580550283"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580550289"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qp9c5qFP_30C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qp9c5qFP_30C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qp9c5qFP_30C&printsec=frontcover&dq=O+efeito+Facebook&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qp9c5qFP_30C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qp9c5qFP_30C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 66.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qp9c5qFP_30C&rdid=book-qp9c5qFP_30C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.64E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 6.64E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cuidados_na_Dem%C3%AAncia_em_Enfermagem-sample-pdf.acsm?id=qp9c5qFP_30C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qp9c5qFP_30C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O clássico Desenvolvimento Humano chega à sua 12ª edição trazendo dados e tópicos totalmente atualizados sobre as diferentes fases do desenvolvimento, da formação de uma nova vida ao inevitável momento da morte."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YMpQBQAAQBAJ",
+   "etag": "+d+fGwJmGn8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YMpQBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Mudando De País",
+    "authors": [
+     "Rafael Dos Santos"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-09-05",
+    "description": "Histórias reais e conselhos de quem já mudou, foi escrito com você em mente. Esse livro fornece conselhos e dicas para quem está pensando ou mesmo já tenha decidido mudar de país para conseguir realizar um sonho. Tem histórias reais de pessoas que se mudaram e passaram por barbadas ou burradas e mesmo assim se deram bem no exterior. O autor explica com detalhes as 5 fases que você passa quando muda para outro pais, incluindo a parte prática do planejamento da viagem e a parte emocional - que você só passa quando chega no país escolhido. O livro foi escrito de forma descontraída, com uma linguagem simples e bem-humorada - como se o autor estivesse conversando com você.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90150878"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YMpQBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YMpQBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YMpQBQAAQBAJ&pg=PA130&dq=O+efeito+Facebook&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YMpQBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YMpQBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YMpQBQAAQBAJ&rdid=book-YMpQBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mudando_De_Pa%C3%ADs-sample-pdf.acsm?id=YMpQBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YMpQBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O que eu chamo de \u003cb\u003eefeito\u003c/b\u003e ioiô é quando alguém não consegue lidar com a \u003cbr\u003e\ncultura de cada lado do oceano. ... Lembro-me bem de seus e-mails e \u003cbr\u003e\nmensagens de \u003cb\u003eFacebook\u003c/b\u003e sobre ter odiado o Brasil e como as pessoas se \u003cbr\u003e\ncomportavam."
+   }
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gRhWYgEACAAJ",
+   "etag": "7GRV7fZFXbo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gRhWYgEACAAJ",
+   "volumeInfo": {
+    "title": "QUEM E VOCE, ALASCA?",
+    "authors": [
+     "JOHN GREEN",
+     "RODRIGO NEVES"
+    ],
+    "description": "Miles Halter é um adolescente fissurado por célebres últimas palavras - e está cansado de sua vidinha segura e sem graça em casa. Vai para uma nova escola à procura daquilo que o poeta François Rabelais, quando estava à beira da morte, chamou de o 'Grande Talvez'. Muita coisa o aguarda em Culver Creek, inclusive Alasca Young. Inteligente, engraçada, problemática e extremamente sensual, Alasca levará Miles para o seu labirinto e o catapultará em direção ao Grande Talvez.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578273427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578273422"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gRhWYgEACAAJ&dq=isbn:9788578273422&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gRhWYgEACAAJ&dq=isbn:9788578273422&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/QUEM_E_VOCE_ALASCA.html?hl=&id=gRhWYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gRhWYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Miles Halter é um adolescente fissurado por célebres últimas palavras - e está cansado de sua vidinha segura e sem graça em casa."
+   }
+  }
+ ]
+}

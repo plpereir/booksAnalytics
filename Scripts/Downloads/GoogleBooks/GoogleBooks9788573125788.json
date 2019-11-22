@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "p0JyQgAACAAJ",
+   "etag": "FzhEr8fAOEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p0JyQgAACAAJ",
+   "volumeInfo": {
+    "title": "MINHA MAE, MEU MUNDO",
+    "authors": [
+     "ANDERSON CAVALCANTE",
+     "SIMONE PAULINO"
+    ],
+    "description": "Escrito para o Dia das Mães, o livro é, ao mesmo tempo, um presente e uma declaração de amor. As palavras e fotos escolhidas são um convite à reflexão sobre os pequenos gestos que fazem nossas mães serem absolutamente fundamentais em toda a nossa vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573125780"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573125788"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=p0JyQgAACAAJ&dq=isbn:9788573125788&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=p0JyQgAACAAJ&dq=isbn:9788573125788&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MINHA_MAE_MEU_MUNDO.html?hl=&id=p0JyQgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p0JyQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrito para o Dia das Mães, o livro é, ao mesmo tempo, um presente e uma declaração de amor."
+   }
+  }
+ ]
+}

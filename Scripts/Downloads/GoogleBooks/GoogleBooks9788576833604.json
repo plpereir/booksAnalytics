@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "E_nVuQAACAAJ",
+   "etag": "lN8r8I0hLHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/E_nVuQAACAAJ",
+   "volumeInfo": {
+    "title": "DIARIO DE UM BANANA - O LIVRO DO FILME",
+    "authors": [
+     "JEFF KINNEY"
+    ],
+    "description": "Em 'Diário de um Banana - O livro do Filme', o autor Jeff Kinney procura contar tudo o que rolou para que o personagem Greg Heffley fosse para as telas. A escolha do elenco, a locação das filmagens, o processo de produção e mais curiosidades de bastidores são contados de forma que busca ser leve.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576833603"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576833604"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=E_nVuQAACAAJ&dq=isbn:9788576833604&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=E_nVuQAACAAJ&dq=isbn:9788576833604&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DIARIO_DE_UM_BANANA_O_LIVRO_DO_FILME.html?hl=&id=E_nVuQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=E_nVuQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O que ninguém sabe é como ele foi parar em um filme. EM Diário de um Banana: O livro do filme. O autor Jeff Kinney nos conta tudo o que rolou para que o personagem mais querido dos livros fosse p"
+   }
+  }
+ ]
+}

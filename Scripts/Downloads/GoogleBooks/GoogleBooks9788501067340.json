@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-Z4_PgAACAAJ",
+   "etag": "3cuI17NuP8o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-Z4_PgAACAAJ",
+   "volumeInfo": {
+    "title": "Vidas secas",
+    "authors": [
+     "Graciliano Ramos"
+    ],
+    "publisher": "Editoria Record",
+    "publishedDate": "2004",
+    "description": "\"Vidas Secas', lançado originalmente em 1938, é o romance em que Graciliano alcança o máximo da expressão que vinha buscando em sua prosa. O que impulsiona os personagens é a seca, áspera e cruel, e paradoxalmente a ligação telúrica, afetiva, que expõe naqueles seres em retirada, à procura de meios de sobrevivência e um futuro\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501067342"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501067340"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 175,
+    "printType": "BOOK",
+    "categories": [
+     "Brazilian fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-Z4_PgAACAAJ&dq=isbn:9788501067340&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-Z4_PgAACAAJ&dq=isbn:9788501067340&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Vidas_secas.html?hl=&id=-Z4_PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-Z4_PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Vidas Secas&#39;, lançado originalmente em 1938, é o romance em que Graciliano alcança o máximo da expressão que vinha buscando em sua prosa."
+   }
+  }
+ ]
+}

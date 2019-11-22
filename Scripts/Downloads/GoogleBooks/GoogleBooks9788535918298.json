@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iuYvuQAACAAJ",
+   "etag": "b6TXaL3q42I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iuYvuQAACAAJ",
+   "volumeInfo": {
+    "title": "Scott Pilgrim Contra O Mundo",
+    "authors": [
+     "Bryan Lee O'malley",
+     "Erico Assis"
+    ],
+    "description": "Mesmo que não aparente, Scott Pilgrim deu passos importantes em direção à vida adulta. Ele já tem um emprego, mora com a namorada, Ramona Flowers, sua bandinha de garagem percebe que não tem futuro e ele consegue até assumir a responsabilidade de criar um gato. Mas, com a chegada de outros Ex-Namorados do Mal de Ramona, Scott começa a perceber que algo de estranho pode estar acontecendo com a namorada.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535918299"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535918298"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iuYvuQAACAAJ&dq=isbn:9788535918298&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iuYvuQAACAAJ&dq=isbn:9788535918298&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Scott_Pilgrim_Contra_O_Mundo.html?hl=&id=iuYvuQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iuYvuQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas mesmo aos 24 você pode participar de festas a fantasia temáticas - como a festa dos políticos-canadenses-por-volta-de-1972-que-na-verdade-eram-Batman - regadas a tequila, intrigas e lutas com robôs."
+   }
+  }
+ ]
+}

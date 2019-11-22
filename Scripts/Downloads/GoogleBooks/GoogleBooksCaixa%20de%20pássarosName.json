@@ -1,0 +1,839 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 219,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Lb4XBgAAQBAJ",
+   "etag": "G1QigbfNMLo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lb4XBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Caixa de Pássaros: Bird Box",
+    "authors": [
+     "Josh Malerman"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-01-26",
+    "description": "Livro com mais de 170 mil exemplares vendidos no Brasil é inspiração para novo lançamento da Netflix. Com uma trama cheia de suspense e terror psicológico, Caixa de pássaros explora a essência do medo em um mundo pós-apocalíptico. Quatro anos depois de as mortes terem começado, há poucos sobreviventes em Michigan. Malorie e seus dois filhos pequenos estão entre eles. O trio faz parte do grupo que tenta resistir em um mundo no qual abrir os olhos pode ser fatal. Vivendo em uma casa abandonada, Malorie e os filhos não sabem o que se passa do lado de fora. Sempre com as janelas e portas cobertas e sem comunicação com o exterior, o local é uma área isolada no meio do caos. Até o momento em que uma misteriosa neblina atinge a região e Malorie toma uma decisão que adiou por muito tempo. Após quatro anos trancados, Malorie e as crianças fogem da casa em um barco a remo na esperança de encontrar um lugar distante do surto que matou todos ao seu redor. De olhos tapados, os três encaram uma viagem assustadora rumo ao desconhecido. Em julho de 2017 foi divulgado que a Netflix havia adquirido os direitos de adaptação do thriller. Posteriormente, alguns nomes do elenco foram apresentados, como Sandra Bullock, Sarah Paulson e John Malkovich. O filme, que tem roteiro adaptado por Eric Heisserer, de A chegada, e direção da cineasta dinamarquesa Susanne Bier, é aguardado com muita expectativa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576535"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580576539"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.17.16.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Lb4XBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Lb4XBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Lb4XBgAAQBAJ&printsec=frontcover&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Lb4XBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Lb4XBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Lb4XBgAAQBAJ&rdid=book-Lb4XBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caixa_de_P%C3%A1ssaros_Bird_Box-sample-epub.acsm?id=Lb4XBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caixa_de_P%C3%A1ssaros_Bird_Box-sample-pdf.acsm?id=Lb4XBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Lb4XBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Livro com mais de 170 mil exemplares vendidos no Brasil é inspiração para novo lançamento da Netflix."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-08nDwAAQBAJ",
+   "etag": "jLgNilR7v2w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-08nDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Piano vermelho",
+    "subtitle": "",
+    "authors": [
+     "Josh Malerman"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2017-07-05",
+    "description": "O novo thriller do autor do best-seller Caixa de pássaros Ex-ícones da cena musical de Detroit, os Danes estão mergulhados no ostracismo. Sem emplacar nenhum novo hit, eles trabalham trancados em estúdio produzindo outras bandas, enchendo a cara e se dedicando com reverência à criação — ou, no caso, à ausência dela. Uma rotina interrompida pela visita de um funcionário misterioso do governo dos Estados Unidos, com um convite mais misterioso ainda: uma viagem a um deserto na África para investigar a origem de um som desconhecido que carrega em suas ondas um enorme poder de destruição. Liderados pelo pianista Philip Tonka, os Danes se juntam a um pelotão insólito em uma jornada pelas entranhas mortais do deserto. A viagem, assustadora e cheia de enigmas, leva Tonka para o centro de uma intrincada conspiração. Seis meses depois, em um hospital, a enfermeira Ellen cuida de um paciente que se recupera de um acidente quase fatal. Sobreviver depois de tantas lesões parecia impossível, mas o homem resistiu. As circunstâncias do ocorrido ainda não foram esclarecidas e organismo dele está se curando em uma velocidade inexplicável. O paciente é Philip Tonka, e os meses que o separam do deserto e tudo o que lá aconteceu de nada serviram para dissipar seu medo e sua agonia. Onde foram parar seus companheiros? O que é verdade e o que é mentira? Ele precisa escapar para descobrir. Com uma narrativa tensa e surpreendente, Josh Malerman combina em Piano Vermelho o comum e o inusitado numa escalada de acontecimentos que se desdobra nas mais improváveis direções sem jamais deixar de proporcionar aquilo pelo qual o leitor mais espera: o medo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002070"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002074"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-08nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-08nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-08nDwAAQBAJ&printsec=frontcover&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-08nDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book--08nDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-08nDwAAQBAJ&rdid=book--08nDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Piano_vermelho-sample-epub.acsm?id=-08nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Piano_vermelho-sample-pdf.acsm?id=-08nDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-08nDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com uma narrativa tensa e surpreendente, Josh Malerman combina em Piano Vermelho o comum e o inusitado numa escalada de acontecimentos que se desdobra nas mais improváveis direções sem jamais deixar de proporcionar aquilo pelo qual o ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "kNAtAAAAYAAJ",
+   "etag": "XqCZqEnzQuI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kNAtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Caixa de sapatos",
+    "subtitle": "antologia",
+    "authors": [
+     "Carpinejar"
+    ],
+    "publishedDate": "2003-01-01",
+    "description": "Não é sempre que um escritor de voz original surge com tamanha maturidade. O talento em relacionar imagens fulgurantes e apuro formal faz de Carpinejar uma voz singular da poesia brasileira contemporânea. Desde 'As solas do sol', percebe-se a densidade de sua poética, repleta de experiência da terra de origem, mas permeada de força universal. Em 'Um terno de pássaros ao sul', o autor relaciona-se com a ausência da figura paterna. Em 'Terceira sede' e 'Biografia de uma árvore', o poeta projeta-se no futuro e deixa a velhice dar contornos à poesia. Neste 'Caixa de sapatos', os espaços da imaginação, da memória e da realização poética se encontram. Para o autor, prosseguir na fábula é estratégia para fazer a realidade emergir com mais força.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173014522280"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 76,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kNAtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kNAtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=kNAtAAAAYAAJ&q=Caixa+de+p%C3%A1ssaros&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=kNAtAAAAYAAJ&dq=Caixa+de+p%C3%A1ssaros&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Caixa_de_sapatos.html?hl=&id=kNAtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kNAtAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em &#39;Terceira sede&#39; e &#39;Biografia de uma árvore&#39;, o poeta projeta-se no futuro e deixa a velhice dar contornos à poesia. Neste &#39;Caixa de sapatos&#39;, os espaços da imaginação, da memória e da realização poética se encontram."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nKrEk00xA5wC",
+   "etag": "MBizK+3HmkM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nKrEk00xA5wC",
+   "volumeInfo": {
+    "title": "CAIXA DE PANDORA",
+    "authors": [
+     "LUKE EDWARD"
+    ],
+    "publisher": "biblioteca24horas",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578936334"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578936337"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 186,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nKrEk00xA5wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nKrEk00xA5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nKrEk00xA5wC&pg=PA179&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nKrEk00xA5wC&dq=Caixa+de+p%C3%A1ssaros&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CAIXA_DE_PANDORA.html?hl=&id=nKrEk00xA5wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nKrEk00xA5wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Apenas era possível ouvir o som do vento soprando e o canto de \u003cb\u003epássaros\u003c/b\u003e que \u003cbr\u003e\necoava pela floresta. Estavam diante do imenso castelo reerguido com pedras. \u003cbr\u003e\nNenhuma porta ou janela. Daggio sentiu o ódio inundar seu corpo. A cena o fez\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m1MnDwAAQBAJ",
+   "etag": "XHJHe7wR8+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m1MnDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A caixa de Pandora",
+    "authors": [
+     "Frank Wedekind"
+    ],
+    "publisher": "Marcelo Martorelli Vessoni ME - A Cigarra eBooks",
+    "publishedDate": "2017-06-09",
+    "description": "Em A caixa de Pandora, segundo drama da trilogia teatral Lulu, cada homem, protegido pela sociedade patriarcal que vislumbra em Lulu uma afronta potencial, tem suas próprias necessidades mantidas na obscuridade. E cada homem deixa-se cair porque, cego quando se trata de perceber seu verdadeiro eu, vive uma indiferença decorrente da mistura de egoísmo e ganância que Wedekind observou como tipicamente masculina. Todos correm atrás de Lulu – mas ninguém consegue realmente alcançá-la, reter sua presença – numa maratona que acaba evidenciando a distância entre aquilo que é de fato e a imagem que os outros portam daquilo que almejam: \"Eu não tenho nada além de mim\", diz Lulu. Karl Kraus comenta: \"Lulu foi entregue à justiça terrena por um dos conflitos dramáticos entre a natureza feminina e um homem idiota, e ela teria de pensar, durante nove anos de prisão, que a beleza é um castigo de Deus, caso seus devotados escravos do amor não inventassem um plano romântico para sua libertação, um plano que no mundo real não amadurece nem nas cabeças mais fanáticas e que não pode vingar por desejos fanáticos. Com a libertação de Lulu, porém – com o sucesso do impossível, o escritor mostra melhor a capacidade de sacrifício da escravidão por amor do que com o uso de um tema mais crível –, A caixa de Pandora é aberta. Lulu, a condutora da ação em O espírito da terra, agora é conduzida. Mais cedo do que antes, mostra-se que, na realidade, sua sedução é a heroína sofredora do drama; seu retrato, a imagem de seus belos dias, tem um papel maior do que ela mesma. E, se no passado, eram seus encantos ativos que animavam a ação, agora – em todas as escalas do caminho do sofrimento – é a distância entre a for",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788593709029"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8593709028"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m1MnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m1MnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=m1MnDwAAQBAJ&pg=PT53&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=m1MnDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-m1MnDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=m1MnDwAAQBAJ&rdid=book-m1MnDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8500000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8500000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_caixa_de_Pandora-sample-epub.acsm?id=m1MnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_caixa_de_Pandora-sample-pdf.acsm?id=m1MnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m1MnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nenhum caçador de \u003cb\u003epássaros\u003c/b\u003e disse que a beleza fugaz de uma ave tropical \u003cbr\u003e\nemociona mais do que sua posse garantida, que estraga o esplendor da \u003cbr\u003e\nplumagem pelo confinamento na gaiola. Que a hetaira seja um sonho do homem\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eJleDwAAQBAJ",
+   "etag": "pIk2piZFjNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eJleDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma casa no fundo de um lago",
+    "authors": [
+     "Josh Malerman"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2018-06-29",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551003848"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551003844"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eJleDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eJleDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eJleDwAAQBAJ&printsec=frontcover&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=eJleDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-eJleDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 8.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=eJleDwAAQBAJ&rdid=book-eJleDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 8910000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_casa_no_fundo_de_um_lago-sample-epub.acsm?id=eJleDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_casa_no_fundo_de_um_lago-sample-pdf.acsm?id=eJleDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eJleDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N6JPAAAAYAAJ",
+   "etag": "Ghm0sU7zB1Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N6JPAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Sucesso na criação de pássaros",
+    "subtitle": "livro que orienta como se deve criar o Roller, o Frisado Parisiense, o Border, o Norwich, o Yorkshire, o Periquito Australiano ...",
+    "authors": [
+     "Oberland de Oliveira Coehlo"
+    ],
+    "publishedDate": "1968",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "CORNELL:31924090298682"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 93,
+    "printType": "BOOK",
+    "categories": [
+     "Cage birds"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=N6JPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=N6JPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=N6JPAAAAYAAJ&q=Caixa+de+p%C3%A1ssaros&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=N6JPAAAAYAAJ&dq=Caixa+de+p%C3%A1ssaros&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sucesso_na_cria%C3%A7%C3%A3o_de_p%C3%A1ssaros.html?hl=&id=N6JPAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=N6JPAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fossuindo o \u003cb\u003epássaro\u003c/b\u003e francês uma plumagem muito mais volumosa do qus a dos \u003cbr\u003e\ndemais, será fácil calcular os dissabores que trarão ... Os ninhos de \u003cb\u003ecaixa\u003c/b\u003e de \u003cbr\u003e\nmadeira, outrora usados, são condenados pela facilidade de abrigarem \u003cbr\u003e\nparasitas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uW1kAgAAQBAJ",
+   "etag": "tRnDFN+3rnE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uW1kAgAAQBAJ",
+   "volumeInfo": {
+    "title": "A caixa do futuro",
+    "authors": [
+     "Malba Tahan"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2013-12-06",
+    "description": "São duas histórias formidáveis do mestre Malba Tahan, contendo edificantes ensinamentos em um único livro: Em A caixa do futuro, um príncipe árabe, ao completar dez anos, pede a seu pai um curioso presente. Esse tesouro, que ele acaba encontrando, o leva a uma fantástica aventura por mar e desertos. A segunda, O guia carajá, é uma lenda sertaneja passada no Brasil: o fascinante roteiro do bandeirante Anhanguera através das matas do sertão, guiado por um intrépido carajá.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501101891"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501101893"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uW1kAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uW1kAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uW1kAgAAQBAJ&pg=PT9&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uW1kAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-uW1kAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=uW1kAgAAQBAJ&rdid=book-uW1kAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_caixa_do_futuro-sample-epub.acsm?id=uW1kAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_caixa_do_futuro-sample-pdf.acsm?id=uW1kAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uW1kAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Preferes três cavalinhos brancos? Gostarias de possuir dois viveiros de \u003cbr\u003e\n\u003cb\u003epássaros\u003c/b\u003e ou um aquário de cristal com peixinhos vermelhos? — Nada disso, \u003cbr\u003e\nmeu pai! — respondeu o menino, muito sério, com um ar compenetrado. — Nada \u003cbr\u003e\ndisso."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "APtxDwAAQBAJ",
+   "etag": "LHbRpyHX8NE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/APtxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Caixa Do Diabo",
+    "authors": [
+     "Leonardo"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Em A CAIXA DO DIABO você viajará por seis histórias de tirar o fôlego que te farão perder o sono! Tudo começa quando você abrir a caixa e coisas estranhas começarem a acontecer na sua casa, ou onde você estiver. Por isso aconselho nunca abrir a caixa quando estiver sozinho, para a sua própria segurança. Na verdade eu não aconselho que você abra a caixa em momento algum, nunca se sabe o que pode sair de dentro dela.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU25780"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 95,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=APtxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=APtxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=APtxDwAAQBAJ&pg=PA60&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=APtxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-APtxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 33.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=APtxDwAAQBAJ&rdid=book-APtxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.343E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Caixa_Do_Diabo-sample-pdf.acsm?id=APtxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=APtxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A sala estava infestada de \u003cb\u003eaves\u003c/b\u003e negras, todas enfileiradas, como se \u003cbr\u003e\naguardassem um grande espetáculo que estava para acontecer, pareciam \u003cbr\u003e\nanimais empalhados de tão imóveis que estavam. De costas para mim estava \u003cbr\u003e\nGreg, totalmente&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "g7kuAAAAYAAJ",
+   "etag": "pv8yGynxnas",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g7kuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Cinema, repercussões em caixa de eco ideológica",
+    "subtitle": "(as idéias de \"nacional\" e \"popular\" no pensamento cinematográfico brasileiro)",
+    "authors": [
+     "Maria Rita Eliezer Galvão",
+     "Jean Claude Bernardet"
+    ],
+    "publishedDate": "1983",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173017237280"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 266,
+    "printType": "BOOK",
+    "categories": [
+     "Motion pictures"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=g7kuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=g7kuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g7kuAAAAYAAJ&q=Caixa+de+p%C3%A1ssaros&dq=Caixa+de+p%C3%A1ssaros&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g7kuAAAAYAAJ&dq=Caixa+de+p%C3%A1ssaros&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Cinema_repercuss%C3%B5es_em_caixa_de_eco_ide.html?hl=&id=g7kuAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g7kuAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A figura de um negrinho nu — saci poético, inocente e condenado — trotando \u003cbr\u003e\npelos caminhos ásperos ou subindo em galhos esquálidos para contemplar \u003cbr\u003e\nninhos de \u003cb\u003epássaros\u003c/b\u003e, talvez assuma o significado de um manifesto artístico."
+   }
+  }
+ ]
+}

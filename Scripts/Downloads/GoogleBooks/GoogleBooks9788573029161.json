@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qrv1xxcn9-AC",
+   "etag": "APMnyIJJR1w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qrv1xxcn9-AC",
+   "volumeInfo": {
+    "title": "Mentes perigosas",
+    "subtitle": "o psicopata mora ao lado",
+    "authors": [
+     "Ana Beatriz Barbosa Silva"
+    ],
+    "publisher": "Editora Objetiva",
+    "publishedDate": "2008",
+    "description": "Como reconhecer e se proteger de pessoas frias e perversas, sem sentimento de culpa, que estão perto de nós. -- P. [1] of cover.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573029161"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573029161"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 217,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qrv1xxcn9-AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qrv1xxcn9-AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qrv1xxcn9-AC&dq=isbn:9788573029161&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qrv1xxcn9-AC&dq=isbn:9788573029161&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Mentes_perigosas.html?hl=&id=qrv1xxcn9-AC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qrv1xxcn9-AC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como reconhecer e se proteger de pessoas frias e perversas, sem sentimento de culpa, que estão perto de nós. -- P. [1] of cover."
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JG11PgAACAAJ",
+   "etag": "piEouF4gmWU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JG11PgAACAAJ",
+   "volumeInfo": {
+    "title": "Querido diário otário",
+    "subtitle": "tem um fantasma na minha calça",
+    "authors": [
+     "Jim Benton"
+    ],
+    "publishedDate": "2008",
+    "description": "A vida de Jamie Kelly não é moleza. E, para piorar, tudo começa a dar ainda mais errado de uma hora para outra. Isabella, é claro, tem uma teoria - a culpa é da superfantástica e glamorosa calça jeans que Jamie ganhou da mãe. Mas Jamie não sabe se vai sacrificar seu estilo por causa de um ou outro probleminha, mesmo que ela tenha que dividir a mesa com (argh) Mário Pinsetti.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576762250"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576762256"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 130,
+    "printType": "BOOK",
+    "categories": [
+     "Diaries"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JG11PgAACAAJ&dq=Querido+di%C3%A1rio+ot%C3%A1rio+-+Tem+um+fantasma+na+minha+cal%C3%A7a&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JG11PgAACAAJ&dq=Querido+di%C3%A1rio+ot%C3%A1rio+-+Tem+um+fantasma+na+minha+cal%C3%A7a&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Querido_di%C3%A1rio_ot%C3%A1rio.html?hl=&id=JG11PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JG11PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A vida de Jamie Kelly não é moleza."
+   }
+  }
+ ]
+}

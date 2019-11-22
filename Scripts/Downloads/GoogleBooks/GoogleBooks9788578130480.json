@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FoXiXwAACAAJ",
+   "etag": "R3FffYk4aMg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FoXiXwAACAAJ",
+   "volumeInfo": {
+    "title": "MAIS FORTE DO QUE NUNCA",
+    "authors": [
+     "ELIANA MACHADO COELHO",
+     "SCHELLIDA (ESPIRITO)"
+    ],
+    "description": "Abner, um arquiteto bem resolvido de 35 anos, decide assumir a sua homossexualidade e a sua relação com seu companheiro. Mas ele não esperava que fosse encontrar contrariedades dentro de sua própria casa, principalmente por parte de seu pai que o agride verbal e fisicamente. Os problemas familiares não param por aí. As duas irmãs de Abner também enfrentarão inúmeros desafios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578130480"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578130480"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FoXiXwAACAAJ&dq=isbn:9788578130480&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FoXiXwAACAAJ&dq=isbn:9788578130480&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MAIS_FORTE_DO_QUE_NUNCA.html?hl=&id=FoXiXwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FoXiXwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Abner, um arquiteto bem resolvido de 35 anos, decide assumir a sua homossexualidade e a sua relação com seu companheiro."
+   }
+  }
+ ]
+}

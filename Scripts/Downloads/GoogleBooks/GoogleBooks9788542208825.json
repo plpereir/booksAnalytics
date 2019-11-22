@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "g6y4tAEACAAJ",
+   "etag": "xRjXcwEvFy4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/g6y4tAEACAAJ",
+   "volumeInfo": {
+    "title": "Ruído branco",
+    "authors": [
+     "Ana Carolina"
+    ],
+    "publishedDate": "2017",
+    "description": "Ana Carolina é uma das mais populares cantoras de MPB na ativa. Em 17 anos de carreira ela já vendeu mais de 5 milhões de discos e acumulou prêmios nacionais além de duas indicações ao Grammy Latino. Seus fãs conhecem seu lado de compositora, arranjadora e pintora, mas em Ruído Branco, seu primeiro livro, eles serão apresentados a uma nova faceta que desconhecem- poeta. Neste livro de capa dura e recheado de telas e fotos exclusivas de sua intimidade, Ana Carolina apresenta mais de 50 poesias, prosas e letras inéditas escritas ao longo da sua vida. O que sei é que quando está com fome, ela canta. Quando está com sede, ela pinta. Mas quando deseja devorar alguém mesmo ela é poeta. - Fabrício Carpinejar, escritor Versos ‘anacarolinicos’ dão rasantes dentro de mim. Ninguém está aqui para separar a poeta da cantora. São indissociáveis. (...) Sem as margens das partituras definidas, a poesia de Ana Carolina chega cheia de sinceridade ao nosso encalço. De noite, de dia, manhã, madrugada, pode esperar, em alguma rua, um verso dela nos pegará. – Elisa Lucinda, escritora e atriz",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "854220882X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542208825"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=g6y4tAEACAAJ&dq=isbn:9788542208825&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=g6y4tAEACAAJ&dq=isbn:9788542208825&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ru%C3%ADdo_branco.html?hl=&id=g6y4tAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=g6y4tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ana Carolina é uma das mais populares cantoras de MPB na ativa."
+   }
+  }
+ ]
+}

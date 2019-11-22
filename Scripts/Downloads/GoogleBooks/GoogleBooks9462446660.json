@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ocgsvgAACAAJ",
+   "etag": "gMEHeIRGkiE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ocgsvgAACAAJ",
+   "volumeInfo": {
+    "title": "MINHA TORRE DIVERTIDA",
+    "authors": [
+     "YOYO BOOKS"
+    ],
+    "description": "Este livro colorido e versátil ensina às crianças habilidades básicas sobre as cores, formas, animais e contar até 10. Os blocos empilháveis, com lindos desenhos, tornam o aprendizado divertido e interativo, estimulando o processo de aprendizado ao desenvolver habilidades motoras.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9462446660"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789462446663"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 20,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ocgsvgAACAAJ&dq=isbn:9462446660&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ocgsvgAACAAJ&dq=isbn:9462446660&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MINHA_TORRE_DIVERTIDA.html?hl=&id=ocgsvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ocgsvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro colorido e versátil ensina às crianças habilidades básicas sobre as cores, formas, animais e contar até 10."
+   }
+  }
+ ]
+}

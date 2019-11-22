@@ -1,0 +1,868 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 446,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "r-tgYgEACAAJ",
+   "etag": "Ihmh8QM1CxQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r-tgYgEACAAJ",
+   "volumeInfo": {
+    "title": "De frente com a verdede",
+    "authors": [
+     "Mônica de Castro",
+     "LEONEL (ESPIRITO)"
+    ],
+    "publishedDate": "2010",
+    "description": "'De Frente com a Verdade' retrata a história das jovens Marcela e Luciana. Sem o amor de Luciana, Marcela pensa que não vale a pena viver, até encontrar em Flávio o verdadeiro amor. E agora, o que fazer para ocultar a verdade sobre si mesma? Por caminhos tortuosos, Marcela descobrirá que a vida não compactua com a mentira e a verdade sempre prevalece.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577221539"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577221530"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 347,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=r-tgYgEACAAJ&dq=De+frente+com+a+verdade&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=r-tgYgEACAAJ&dq=De+frente+com+a+verdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/De_frente_com_a_verdede.html?hl=&id=r-tgYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r-tgYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;De Frente com a Verdade&#39; retrata a história das jovens Marcela e Luciana. Sem o amor de Luciana, Marcela pensa que não vale a pena viver, até encontrar em Flávio o verdadeiro amor."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yMJxDwAAQBAJ",
+   "etag": "zzklaYkpKR4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yMJxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Verdade Do Lobo",
+    "authors": [
+     "Valeria"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Jonathan e Kathllen eram típicos adolescentes apaixonados. Mas ele possuía um segredo. Na tentativa de ajudá-lo, Kathllen pede auxilio de seu pai, um grande cientista do governo. Só que o namorado se revolta e uma tragédia os separam. Anos depois, Jonathan vive com um grupo diferente entre dinheiro, festas e mulheres. Até que se depara com Sarah, uma policial contratada pelo governo para caçar pessoas como ele. Se desespera ao ver que ela se parece com Kathllen. Seu passado voltando à tona. Sarah é capitã da equipe especial, a melhor, com habilidades fora do comum. Por anos jurou não se render as sensações de paixões, não podia se encantar com Jonathan. Precisava cumprir a promessa que fez ao cientista, se vingaria pelo mal feito a filha dele. Jonathan está realmente apaixonado por Sarah? Ou apenas está apaixonado por um fantasma de Kathllen que acreditou fielmente estar na policial? Sarah precisava ver Jonathan como seu inimigo, precisava cumprir a sua missão e ignorar os sentimentos. Qual ação é verdadeira? Qual sentimento é verdadeiro? Qual verdade prevalece?",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU18265"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 175,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yMJxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yMJxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yMJxDwAAQBAJ&pg=PA140&dq=De+frente+com+a+verdade&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=yMJxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-yMJxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=yMJxDwAAQBAJ&rdid=book-yMJxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Verdade_Do_Lobo-sample-pdf.acsm?id=yMJxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yMJxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reparou a fúria \u003cb\u003ede\u003c/b\u003e Jonathan que a perseguia, realmente irá matá-la. Sarah \u003cbr\u003e\nentrou em uma residência e se viu sem saída. Olhou para trás e ficou \u003cb\u003ede frente\u003c/b\u003e \u003cbr\u003e\npara aquele lobo que vinha em sua direção rosnando. Um barulho os fez olhar \u003cbr\u003e\npara o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CrFxDwAAQBAJ",
+   "etag": "bRvVh8O4hZY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CrFxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Ensaio Sobre A Verdade",
+    "authors": [
+     "Elio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "*Edição revisada e atualizada. O que é verdade afinal? Como você acredita que ficaria o mundo se todos, dissessem a verdade sobre o que faz, fez ou pensa? Como seria chegar em casa e dizer para sua esposa ou marido - Olá meu bem, onde você estava? - Estava me relacionando com outra pessoa. - Como as pessoas reagiriam, até onde é possivel se levar a cabo a expressão da verdade? Embora a história contemple base em alguns fatos reais, trata-se de uma ficção, e portanto, mesmo em tais fatos os nomes foram poupados nestas descrições, pois a intenção do livro tem apenas como objetivo o retrato de uma mente deslocada no tempo presente deturpada com a idéia de ter que entender ou aceitar o mundo como é! A história, envolve algumas famílias que até então nada tem em comum... se não fosse a VERDADE . Bem vindo a algumas de minhas experiências, à minha mente e ao quantum da loucura humana.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU15732"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 123,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CrFxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CrFxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CrFxDwAAQBAJ&pg=PA22&dq=De+frente+com+a+verdade&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CrFxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CrFxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CrFxDwAAQBAJ&rdid=book-CrFxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Ensaio_Sobre_A_Verdade-sample-pdf.acsm?id=CrFxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CrFxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Normal, cara, fui embora e nem lembrei do dinheiro, lembrei dois dias depois, e \u003cbr\u003e\ndepois \u003cb\u003ede\u003c/b\u003e todas as entregas, já eram ... em punho, simulei uma entrega do lado \u003cbr\u003e\ndo escritório pra dar \u003cb\u003ede frente\u003c/b\u003e com ela quando estivesse na saída do escritório."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tON7DwAAQBAJ",
+   "etag": "r5GzbH+krLw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tON7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Ensaio Sobre A Verdade",
+    "authors": [
+     "Elio Marchand"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O que é verdade afinal? Como você acredita que ficaria o mundo se todos, dissessem a verdade sobre o que faz, fez ou pensa? Como seria chegar em casa e dizer para sua esposa ou marido - Olá meu bem, onde você estava? - Estava me relacionando com outra pessoa. - Como as pessoas reagiriam, até onde é possivel se levar a cabo a expressão da verdade? Embora a história contemple base em alguns fatos reais, trata-se de uma ficção, e portanto, mesmo em tais fatos os nomes foram poupados nestas descrições, pois a intenção do livro tem apenas como objetivo o retrato de uma mente deslocada no tempo presente deturpada com a idéia de ter que entender ou aceitar o mundo como é! A história, envolve algumas famílias que até então nada tem em comum... se não fosse a VERDADE . Bem vindo a algumas de minhas experiências, à minha mente e ao quantum da loucura humana.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU3505"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 123,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.39.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=tON7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=tON7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=tON7DwAAQBAJ&pg=PA22&dq=De+frente+com+a+verdade&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=tON7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-tON7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=tON7DwAAQBAJ&rdid=book-tON7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Ensaio_Sobre_A_Verdade-sample-pdf.acsm?id=tON7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=tON7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Normal, cara, fui embora e nem lembrei do dinheiro, lembrei dois dias depois, e \u003cbr\u003e\ndepois \u003cb\u003ede\u003c/b\u003e todas as entregas, já eram ... em punho, simulei uma entrega do lado \u003cbr\u003e\ndo escritório pra dar \u003cb\u003ede frente\u003c/b\u003e com ela quando estivesse na saída do escritório."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uTttBQAAQBAJ",
+   "etag": "qRaZ3Fys/Xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uTttBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Entre a verdade e as mentiras",
+    "authors": [
+     "Lynne Graham"
+    ],
+    "publisher": "HarperCollins Ibérica",
+    "publishedDate": "2014-12-01",
+    "description": "Era um homem a quem não podia dizer que não. Tabby Glover era uma jovem de língua afiada, independente e rebelde, que estava disposta a fazer qualquer coisa para que o multimilionário grego Acheron Dimitrakos a apoiasse na adoção de uma menina que era filha de um primo longínquo dele, mas a última coisa que esperava era uma proposta de casamento. Só podia dizer-lhe que sim, embora o arrogante magnata a tratasse com desprezo. Então, ela percebeu que ele também tinha os seus motivos. Converter-se-ia o seu casamento em algo mais do que uma farsa enquanto o fino véu que separava a verdade das mentiras se levantava?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788468758312"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8468758310"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uTttBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uTttBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=uTttBQAAQBAJ&pg=PT33&dq=De+frente+com+a+verdade&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uTttBQAAQBAJ&dq=De+frente+com+a+verdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Entre_a_verdade_e_as_mentiras.html?hl=&id=uTttBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Entre_a_verdade_e_as_mentiras-sample-epub.acsm?id=uTttBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Entre_a_verdade_e_as_mentiras-sample-pdf.acsm?id=uTttBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uTttBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Está na hora \u003cb\u003ede\u003c/b\u003e me falares \u003cb\u003ede\u003c/b\u003e ti – declarou Acheron, sentando-se na sua cadeira \u003cbr\u003e\ne pegando no copo \u003cb\u003ede\u003c/b\u003e vinho que tinha à \u003cb\u003efrente\u003c/b\u003e. Tabby sentia-se incomodada. A \u003cbr\u003e\nsala \u003cb\u003ede\u003c/b\u003e jantar enorme e a mesa, adornada com flores e pratos elegantes para&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lXMLAQAAQBAJ",
+   "etag": "CAr6NUDVQd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lXMLAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Não aprendi dizer adeus",
+    "authors": [
+     "LEONARDO"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-09-01",
+    "description": "Leonardo, comemorando 50 anos, conta a sua história desde a infância com o irmão Leandro à sua brilhante carreira solo. E revela algo que poucas vezes se viu no Brasil: a trajetória de sucesso de um dos maiores ídolos sertanejos de todos os tempos. Vindo da pequena Goianápolis, Leonardo transformou a música sertaneja com modernas canções românticas que atingiram campo e cidade, interior e litoral. Ao longo de duas décadas, levou a música a um povo sedento de felicidade e vendeu mais de 20 milhões de discos, com canções que hoje fazem parte do DNA da cultura do país, como \"Pense em mim\", \"Eu juro\", \"Um sonhador\", \"Entre tapas e beijos\" e, claro, \"Não aprendi dizer adeus\", que empresta o título a este emocionado relato. O cantor relembra a infância difícil, a perseverança dos primeiros tempos, as traquinagens, a luta de Leandro contra a doença (que o levaria em 1998) e muito mais. Prepare-se para a emoção.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577344079"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857734407X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lXMLAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lXMLAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lXMLAQAAQBAJ&pg=PT119&dq=De+frente+com+a+verdade&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lXMLAQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lXMLAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.59,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lXMLAQAAQBAJ&rdid=book-lXMLAQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.099E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.259E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/N%C3%A3o_aprendi_dizer_adeus-sample-epub.acsm?id=lXMLAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lXMLAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nos dias seguintes, o povo acampou na \u003cb\u003efrente da\u003c/b\u003e casa dele e passou dia e noite \u003cbr\u003e\nrezando, pedindo um milagre. ... Depois que se viu no espelho, ainda fez uma \u003cbr\u003e\ncara \u003cb\u003ede\u003c/b\u003e desânimo, mas resolveu encarar \u003cb\u003ede frente\u003c/b\u003e a \u003cb\u003everdade\u003c/b\u003e. Era dia \u003cb\u003ede\u003c/b\u003e jogo do\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WpFKBQAAQBAJ",
+   "etag": "3v0kEG8JteM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WpFKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "De Frente Pro Espelho V",
+    "authors": [
+     "VinÍcius Ricardo Do Nascimento"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-03-16",
+    "description": "A EVOLUÇÃO NUNCA TERMINA. ESTE É SÓ MAIS UM PASSO. A ESTAÇÃO SEGUINTE. A EVOLUÇÃO NUNCA ACABA. ESTAMOS SÓ COMEÇANDO.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90161782"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WpFKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WpFKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WpFKBQAAQBAJ&pg=PA3&dq=De+frente+com+a+verdade&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WpFKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WpFKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WpFKBQAAQBAJ&rdid=book-WpFKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.184E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.184E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/De_Frente_Pro_Espelho_V-sample-pdf.acsm?id=WpFKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WpFKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inocentes pagam com a vida, sistema inadequado, covarde Mandando \u003cbr\u003e\ntrabalhadores pros campos \u003cb\u003ede\u003c/b\u003e batalha ... me deitar do seu lado no fim \u003cb\u003eda\u003c/b\u003e festa \u003cbr\u003e\nAssistir o sol nascer, nem que seja a última vez Eu preciso dizer a \u003cb\u003everdade\u003c/b\u003e, tirar \u003cbr\u003e\n\u003cb\u003ede\u003c/b\u003e mim o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dJ_iAwAAQBAJ",
+   "etag": "+1rzFMnVEec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dJ_iAwAAQBAJ",
+   "volumeInfo": {
+    "title": "A verdade sobre nós",
+    "subtitle": "",
+    "authors": [
+     "Amanda Grace"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2014-07-07",
+    "description": "Madelyn Hawkins está cansada. Cansada de ser sempre perfeita. Cansada de tirar A em tudo. Cansada de seguir à risca os planos que os pais fizeram para ela. Madelyn Hawkins está cansada de ser algo que não é, algo que não quer ser. E então ela conhece Bennet Cartwright. Inteligente, sensível, engraçado. A seu lado, ela se sente livre e independente. Uma história que poderia muito bem ter um final feliz, não fosse por um detalhe: Maddie tem apenas 16 anos, e Bennet, além de ter 25 anos, é seu professor. Pressionada pelos pais a participar de um programa para jovens talentos, Maddie pula dois anos do Ensino Médio e vai direto para a faculdade, onde conhece e se apaixona pelo professor de biologia. O sentimento é recíproco, e para dar uma chance àquele novo relacionamento que lhe faz tão bem, ela decide não contar para Bennet sua idade. Não demora muito para que as coisas comecem a dar errado, e as consequências da farsa de Maddie ganham contornos devastadores quando a verdade vem à tona.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580575385"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580575389"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dJ_iAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dJ_iAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=dJ_iAwAAQBAJ&pg=PT148&dq=De+frente+com+a+verdade&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=dJ_iAwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-dJ_iAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=dJ_iAwAAQBAJ&rdid=book-dJ_iAwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.791E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_verdade_sobre_n%C3%B3s-sample-epub.acsm?id=dJ_iAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_verdade_sobre_n%C3%B3s-sample-pdf.acsm?id=dJ_iAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dJ_iAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alémdo mais,\u003cb\u003ede\u003c/b\u003e um jeito ou \u003cb\u003ede\u003c/b\u003e outro eunão poderia tê-lo apresentado. Você era \u003cbr\u003e\n... Você estava olhando diretamente para a \u003cb\u003efrente\u003c/b\u003e, com os olhos meio vidrados, \u003cbr\u003e\napertando o volante com força, como se fossea únicacoisa amantê-lode pé."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1Xyy02268doC",
+   "etag": "g5v4fAyYmu0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1Xyy02268doC",
+   "volumeInfo": {
+    "title": "Uma Verdade Incómoda",
+    "authors": [
+     "John Le Carré"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-05-27",
+    "description": "O novo romance do grande mestre do thriller literário! Uma operação de contra terrorismo, batizada com o nome de código Vida Selvagem, está a ser montada na mais preciosa colónia britânica - Gibraltar. O seu objetivo: capturar e raptar um importante comprador de armas jihadista. Os seus autores: um ambicioso ministro dos Negócios Estrangeiros e um fornecedor privado de equipamentos de defesa que é também seu amigo íntimo. A operação reveste-se de tal delicadeza que nem o chefe de gabinete do ministro, Toby Bell, tem acesso a ela. Suspeitando de uma desastrosa conspiração, Toby procura preveni-la, mas é rapidamente colocado no estrangeiro. Três anos decorridos, chamado por Sir Christopher Probyn, um diplomata britânico aposentado, ao seu arruinado solar da Cornualha, e seguido de perto pela filha de Probyn, Emily, Toby vê-se obrigado a escolher entre a sua consciência e o dever para com o serviço. Mas, se a única coisa necessária para o triunfo do mal é que os homens bons nada façam, como pode ele manter-se calado?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789722052450"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9722052454"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1Xyy02268doC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1Xyy02268doC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1Xyy02268doC&pg=PT148&dq=De+frente+com+a+verdade&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1Xyy02268doC&dq=De+frente+com+a+verdade&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Uma_Verdade_Inc%C3%B3moda.html?hl=&id=1Xyy02268doC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_Verdade_Inc%C3%B3moda-sample-epub.acsm?id=1Xyy02268doC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_Verdade_Inc%C3%B3moda-sample-pdf.acsm?id=1Xyy02268doC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1Xyy02268doC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O envelope castanho \u003cb\u003ede\u003c/b\u003e tamanho A4 aterrou \u003cb\u003ede frente\u003c/b\u003e para cima no capacho do \u003cbr\u003e\napartamento \u003cb\u003ede\u003c/b\u003e Toby Bell em Islington às três e vinte \u003cb\u003ede\u003c/b\u003e uma manhã \u003cb\u003ede\u003c/b\u003e sábado, \u003cbr\u003e\npouco após o seu regresso \u003cb\u003ede\u003c/b\u003e uma recompensadora mas fatigante missão na&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KhJKBQAAQBAJ",
+   "etag": "P4D3P/2YGQY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KhJKBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Fi Cção!... A Verdade De Uma Vi Da",
+    "authors": [
+     "Elio Moreira"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-02-22",
+    "description": "Ficção!...A verdade de uma Vida 104 Páginas – Palavras – 22.997 ***** Onde o autor se perde meditando Entre fatos acontecidos no decorrer de sua vida. Onde a grandeza de um amor e as decepções sofridas se Confunde entre a realidade e os labirintos de sua imaginação. Conversando consigo mesmo, questionando-se porque estes Desencontros sem explicações aparentes e porque justamente aquela A quem dedica o seu viver não entende o seu bem querer. Às vezes, no silêncio de um quarto vazio, “transformado em local de trabalho”, O mentalizar em busca da imagem da mulher amada, Centralizando em seu original o lamento pelas palavras que nunca Foram ditas. Em conversas com Ela, conclui as próprias respostas Escrevendo sobre a felicidade que desejaria em sua companhia e o desenvolvimento de um amor que em atitudes concretas viessem A esclarecer, que em dois amantes existe um mundo de verdades. Pensamentos perturbados que fazem perder a serenidade e o desejo Do encontro é derrotado pela distância, na falta de cumplicidade, No afastamento de corpos carentes que nunca mais irão se tocar. Confusão na mente, sem saber se o que escreve é – Ficção!.. Ou simplesmente a realidade impregnada no coração. *****",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90141625"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 105,
+    "printType": "BOOK",
+    "categories": [
+     "Poetry"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KhJKBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KhJKBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KhJKBQAAQBAJ&pg=PA19&dq=De+frente+com+a+verdade&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KhJKBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-KhJKBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.92,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.92,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KhJKBQAAQBAJ&rdid=book-KhJKBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.292E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.292E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Fi_C%C3%A7%C3%A3o_A_Verdade_De_Uma_Vi_Da-sample-pdf.acsm?id=KhJKBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KhJKBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "inicio não pensei ser um engano, pois eu mesmo escolhi o trajeto e achei que \u003cbr\u003e\nestava seguindo em \u003cb\u003efrente\u003c/b\u003e para uma jornada exitosa. Encontrei um cenário \u003cbr\u003e\nconhecido onde brotavam \u003cb\u003ede\u003c/b\u003e você linda flores em um quadro pintado pela mão \u003cbr\u003e\n\u003cb\u003eda\u003c/b\u003e&nbsp;..."
+   }
+  }
+ ]
+}

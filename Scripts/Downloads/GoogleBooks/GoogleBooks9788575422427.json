@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_lCLAQAACAAJ",
+   "etag": "a+DCAjfHcNc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_lCLAQAACAAJ",
+   "volumeInfo": {
+    "title": "Transformando suor em ouro",
+    "authors": [
+     "Bernardinho"
+    ],
+    "publishedDate": "2006-01-01",
+    "description": "'Transformando suor em ouro' é a história de Bernardinho contada por ele mesmo, desde os tempos de jogador até a consagração como técnico com o ouro olímpico. Mais do que relatar uma epopeia esportiva, a obra busca apresentar diferentes facetas do treinador ao mostrar como Bernardinho burilou o método que batizou de 'Roda da Excelência'. O livro tenta mostrar ainda como o treinador da seleção brasileira masculina de vôlei revela-se um estudioso, tanto do esporte quanto da administração, como John Wooden, Winston Churchill e James Hunter, retirando e testando seus ensinamentos, incorporando alguns, descartando outros, adaptando muitos. A obra pretende revelar o que fez dele um palestrante requisitado por diversas empresas em busca de um diferencial competitivo no mundo dos negócios.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8575422421"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575422427"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Conduct of life"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_lCLAQAACAAJ&dq=isbn:9788575422427&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_lCLAQAACAAJ&dq=isbn:9788575422427&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Transformando_suor_em_ouro.html?hl=&id=_lCLAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_lCLAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Transformando suor em ouro&#39; é a história de Bernardinho contada por ele mesmo, desde os tempos de jogador até a consagração como técnico com o ouro olímpico."
+   }
+  }
+ ]
+}

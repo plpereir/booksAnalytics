@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1YtOAQAAIAAJ",
+   "etag": "BqXB7c2E9cU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1YtOAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Guia politicamente incorreto da história do Brasil",
+    "authors": [
+     "Leandro Narloch"
+    ],
+    "publishedDate": "2009",
+    "description": "Considerando que existe um esquema repetido para contar a história do Brasil, o autor propõe rever alguns conceitos sobre o tema como, por exemplo, o ideal do bom selvagem e o massacre da Guerra do Paraguai. A obra está dividida em nove capítulos - Índios, Negros, Escritores, Samba, Guerra do Paraguai, Aleijadinho, Acre, Santos Dumont e Comunistas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8562936065"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788562936067"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 319,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1YtOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1YtOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1YtOAQAAIAAJ&dq=isbn:9788562936067&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1YtOAQAAIAAJ&dq=isbn:9788562936067&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Guia_politicamente_incorreto_da_hist%C3%B3ri.html?hl=&id=1YtOAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1YtOAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Considerando que existe um esquema repetido para contar a história do Brasil, o autor propõe rever alguns conceitos sobre o tema como, por exemplo, o ideal do bom selvagem e o massacre da Guerra do Paraguai."
+   }
+  }
+ ]
+}

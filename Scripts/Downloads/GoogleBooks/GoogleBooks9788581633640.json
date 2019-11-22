@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6GpIvgAACAAJ",
+   "etag": "lk2TGhsfoz4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6GpIvgAACAAJ",
+   "volumeInfo": {
+    "title": "O MUNDO PELOS OLHOS DE BOB",
+    "authors": [
+     "JAMES BOWEN",
+     "HENRIQUE MONTEIRO"
+    ],
+    "description": "Depois de um passado difícil, James foi adotado pelo gato Bob. Agora os dois têm um emprego de verdade (são vendedores ambulantes de revistas) e se tornaram personalidades conhecidas em toda Londres. Bob tem muitos admiradores, que passam todos os dias para vê-lo - alguns deles trazem cachecóis de lã para ajudá-lo a enfrentar os dias mais gelados. Entre truques adoráveis e manhãs de puro mau humor, Bob e James se tornam cada vez mais inseparáveis. Por trás da divertida história de um homem às voltas com seu animal de estimação, o segundo livro de James Bowen fala sobre amizade, fidelidade e esperança. Bob se torna a chave que traz James de volta ao mundo, a motivação que faltava para sua decisiva volta por cima.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581633641"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581633640"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6GpIvgAACAAJ&dq=isbn:9788581633640&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6GpIvgAACAAJ&dq=isbn:9788581633640&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_MUNDO_PELOS_OLHOS_DE_BOB.html?hl=&id=6GpIvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6GpIvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Depois de um passado difícil, James foi adotado pelo gato Bob."
+   }
+  }
+ ]
+}

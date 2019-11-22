@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YM6yNAEACAAJ",
+   "etag": "PoHs1wZ4Jd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YM6yNAEACAAJ",
+   "volumeInfo": {
+    "title": "CIDA - A EMPREGUETE",
+    "subtitle": "UM DIARIO INTIMO",
+    "authors": [
+     "LEUSA ARAUJO"
+    ],
+    "description": "Menina criada no quarto dos fundos, arrumadeira desde criança, Cida sempre acreditou nos seus sonhos. O maior deles, poder encontrar um meio de se comunicar com sua mãe, que morreu quando ela tinha 13 anos. Assim nasceu este diário, onde Cida revela com intimidade e emoção suas paixões, medos, dúvidas, conquistas e desafios. Também é nestas páginas, inspiradas em seus livros e leituras, que compartilha a descoberta do verdadeiro amor, que fala da importância fundamental da amizade e narra a difícil convivência com a família Sarmento.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8577342883"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577342884"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YM6yNAEACAAJ&dq=isbn:9788577342884&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YM6yNAEACAAJ&dq=isbn:9788577342884&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/CIDA_A_EMPREGUETE.html?hl=&id=YM6yNAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YM6yNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Menina criada no quarto dos fundos, arrumadeira desde criança, Cida sempre acreditou nos seus sonhos."
+   }
+  }
+ ]
+}

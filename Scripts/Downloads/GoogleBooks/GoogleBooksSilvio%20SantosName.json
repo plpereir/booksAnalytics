@@ -1,0 +1,867 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 490,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5oeYDgAAQBAJ",
+   "etag": "fipUZlHGAuk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5oeYDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Silvio Santos, a trajetória do mito",
+    "subtitle": "",
+    "authors": [
+     "Morgado,Fernando"
+    ],
+    "publisher": "Matrix Editora",
+    "publishedDate": "2017-04-04",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582303160"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582303165"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5oeYDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5oeYDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5oeYDgAAQBAJ&printsec=frontcover&dq=Silvio+Santos&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5oeYDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5oeYDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5oeYDgAAQBAJ&rdid=book-5oeYDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos_a_trajet%C3%B3ria_do_mito-sample-epub.acsm?id=5oeYDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos_a_trajet%C3%B3ria_do_mito-sample-pdf.acsm?id=5oeYDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5oeYDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6O7MoKyW0vAC",
+   "etag": "a59BqYVdIkI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6O7MoKyW0vAC",
+   "volumeInfo": {
+    "title": "Circo eletrônico",
+    "subtitle": "Sílvio Santos e o SBT",
+    "authors": [
+     "Maria Celeste Mira"
+    ],
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1994*",
+    "description": "Este livro é uma análise sociológica das razões do sucesso da emissora de televisão SBT e seu dono Sílvio Santos à luz da evolução histórica da empresa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515011557"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515011551"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6O7MoKyW0vAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6O7MoKyW0vAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6O7MoKyW0vAC&printsec=frontcover&dq=Silvio+Santos&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6O7MoKyW0vAC&dq=Silvio+Santos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Circo_eletr%C3%B4nico.html?hl=&id=6O7MoKyW0vAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6O7MoKyW0vAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro é uma análise sociológica das razões do sucesso da emissora de televisão SBT e seu dono Sílvio Santos à luz da evolução histórica da empresa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OOFCDwAAQBAJ",
+   "etag": "3aRlYGFzo+o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OOFCDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Silvio Santos",
+    "subtitle": "vida, luta e glória",
+    "authors": [
+     "R. F. Luccetti"
+    ],
+    "publisher": "AVEC Editora",
+    "publishedDate": "2017-12-08",
+    "description": "Escrita por Rubens Francisco Lucchetti e desenhada por Sérgio M. Lima, Sílvio Santos - Vida, Luta e Glória é a primeira biografia autorizada do maior e mais icônico apresentador da televisão brasileira. Narra desde o seu nascimento até a época em que ele começa a se tonar um ídolo da TV. Ela foi publicada originalmente em 1969. Agora, a AVEC Editora a apresenta numa versão totalmente restaurada, através do selo Memórias dos Quadrinhos Brasileiros, para a satisfação dos fãs de quadrinhos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554470098"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554470095"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OOFCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OOFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OOFCDwAAQBAJ&printsec=frontcover&dq=Silvio+Santos&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OOFCDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-OOFCDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OOFCDwAAQBAJ&rdid=book-OOFCDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos-sample-epub.acsm?id=OOFCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos-sample-pdf.acsm?id=OOFCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OOFCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrita por Rubens Francisco Lucchetti e desenhada por Sérgio M. Lima, Sílvio Santos - Vida, Luta e Glória é a primeira biografia autorizada do maior e mais icônico apresentador da televisão brasileira."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ckg-CgAAQBAJ",
+   "etag": "bW9kCX7iXOw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ckg-CgAAQBAJ",
+   "volumeInfo": {
+    "title": "Te Contei? Grandes Ídolos Edição Luxo (Silvio Santos) Ed.01",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora",
+     "Grandes Ídolos On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2017-09-18",
+    "description": "A trajetória completa do primogênito da família Abravanel combina carisma, inteligência e uma habilidade incomparável para os negócios. A jornada de Silvio Santos como apresentador e empresário coleciona momentos de superação e êxitos, resultados de esforços que foram feitos desde criança para atingir o patrimônio e reconhecimento que tem hoje. Nas próximas desta publicação, você encontra textos que trazem a história do “Homem do Baú” com momentos importantes de sua carreira e detalhes de sua vida como empreendedor, administrador, comunicador, apresentador e pai. Conheça diferentes informações sobre Silvio Santos que são inspiradoras para qualquer pessoa que, apesar das dificuldades, deseja lutar e vencer na vida. Boa leitura!",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 97,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.8.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ckg-CgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ckg-CgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ckg-CgAAQBAJ&dq=Silvio+Santos&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ckg-CgAAQBAJ&dq=Silvio+Santos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Te_Contei_Grandes_%C3%8Ddolos_Edi%C3%A7%C3%A3o_Luxo.html?hl=&id=ckg-CgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ckg-CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A trajetória completa do primogênito da família Abravanel combina carisma, inteligência e uma habilidade incomparável para os negócios."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DxVyDwAAQBAJ",
+   "etag": "TEW0jeYxYCE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DxVyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Silvio Santos \"O Mestre\"",
+    "authors": [
+     "Helladio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Um grande mestre! Assim podemos definir o maior ícone da televisão brasileira que completou 85 anos em 2016, uma simples obra como esta é pouco diante do seu talento inquestionável e carisma indiscutível. Folclórico, cheio de bordões, neste livro o leitor viaja por toda a carreira fantástica deste nobre camelô, que passou a rádio rapidamente e começou a ser apresentador de televisão e depois empresário, estamos diante de uma lenda, por isso os 85 anos de vida serão insuficientes para o legado eterno que Silvio Santos deixará, na verdade ele nunca irá partir, os gênios não partem nunca e deixam uma vasta obra de aprendizado e consciência, para Sílvio, além do legado artístico ele deixa um imenso legado empresarial, uma imensa força de vontade e prazer em trabalhar, em saber tratar o semelhante, assim ele conquista e conquistou todos os públicos, desde aos mais velhos, passando pelos mais jovens e mais recentemente o público infantil, ou seja de geração em geração. Sempre em ritmo de festa e com seu sorriso imbatível, esta é a receita do sucesso. Silvio Santos O Mestre , mostra o verdadeiro gênio da televisão mundial!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU29372"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 62,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DxVyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DxVyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DxVyDwAAQBAJ&printsec=frontcover&dq=Silvio+Santos&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DxVyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DxVyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.27,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DxVyDwAAQBAJ&rdid=book-DxVyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.227E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos_O_Mestre-sample-pdf.acsm?id=DxVyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DxVyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sempre em ritmo de festa e com seu sorriso imbatível, esta é a receita do sucesso. Silvio Santos O Mestre , mostra o verdadeiro gênio da televisão mundial!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JjM8DwAAQBAJ",
+   "etag": "/4Si82xxeIE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JjM8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Silvio Santos – a biografia",
+    "subtitle": "",
+    "authors": [
+     "Marcia Batista",
+     "Anna Medeiros"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2017-11-30",
+    "description": "Seu nome é Senor Abravanel, mais conhecido como Silvio Santos. Sua característica mais marcante é a generosidade, eternizada no famoso bordão “quem quer dinheiro?”. A boa índole de Silvio Santos, inclusive, é uma faceta de sua personalidade, a qual dez em cada dez de seus funcionários faz questão de ressaltar. Compreendendo os 86 anos da figura icônica que impactou a história e a rotina de milhões de brasileiros, este livro revela, inclusive por meio de relatos e documentos exclusivos, as conquistas e dificuldades que Silvio enfrentou para ser a unanimidade que é hoje: o lado família, o apresentador, o gestor de negócios, o descobridor de talentos, como se deram seus insights de empreendedor, além de inúmeras passagens impressionantes de uma trajetória riquíssima e encorajadora.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550302485"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550302481"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JjM8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JjM8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JjM8DwAAQBAJ&pg=PT194&dq=Silvio+Santos&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JjM8DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JjM8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JjM8DwAAQBAJ&rdid=book-JjM8DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos_a_biografia-sample-epub.acsm?id=JjM8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Silvio_Santos_a_biografia-sample-pdf.acsm?id=JjM8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JjM8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "JUNIOR, J.; MORAES, F. As férias de \u003cb\u003eSilvio Santos\u003c/b\u003e em Orlando. Veja São Paulo, \u003cbr\u003e\n7 fev. 2014. Disponível em: &lt;https://vejasp.abril.com.br/cidades/\u003cb\u003esilvio\u003c/b\u003e-\u003cb\u003esantos\u003c/b\u003e/&gt;. \u003cbr\u003e\nAcesso em: 1 out. 2017. 2. QUENTAL, P. A filha rebelde de \u003cb\u003eSilvio Santos\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LbR5DwAAQBAJ",
+   "etag": "nQQuILP7WSs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LbR5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Museu De Silvio Santos !",
+    "authors": [
+     "Maria Helena Guedes"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Silvio Santos, nome artístico de Senor Abravanel, nasceu 12 de dezembro de 1930 na Travessa Bemtevi, no bairro da Lapa, no Rio de Janeiro, região central da então capital federalFilho primogênito do casal de imigrantes vindo em 1924 para o Brasil: Albert Abravanel (Tessalônica, 1897 - Rio de Janeiro 1976), um imigrante grego sefardita de Tessalônica, no Império Otomano, atual Grécia que veio para o Brasil para fugir do alistamento militar obrigatório turco e Rebeca Caro (nome de solteira) (Esmirna, 1907 - Rio de Janeiro, 1989) judia de Esmirna, na atual Turquia,[7] Silvio possui outros cinco irmãos: Beatriz (a mais velha), Perla, Sara (Sarita), Leon (Leo) e Henrique (o mais novo). Ambos seus pais estão sepultados no Cemitério Comunal Israelita do Cajú, Rio de Janeiro. Silvio e o irmão Léo freqüentaram, juntos, a Escola Primária Celestino da Silva, na rua do Lavradio, perto de onde moravam. (Nessa época haviam mudado para a rua Gomes Freire). Terminado o primário, estudaram na Escola Técnica de Comércio Amaro Cavalcanti, no largo do Machado, onde Silvio Santos se formou em Contabilidade.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU31217"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 227,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LbR5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LbR5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LbR5DwAAQBAJ&pg=PA173&dq=Silvio+Santos&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LbR5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LbR5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LbR5DwAAQBAJ&rdid=book-LbR5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Museu_De_Silvio_Santos-sample-pdf.acsm?id=LbR5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LbR5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Programas de auditório Ver artigo principal: Programa \u003cb\u003eSilvio Santos\u003c/b\u003e O Programa \u003cbr\u003e\n\u003cb\u003eSilvio Santos\u003c/b\u003e, ao longo dos anos, tornou-se um agrupamento de vários \u003cbr\u003e\nprogramas de auditório e quadros, somando quase cem atrações diferentes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HZpBDwAAQBAJ",
+   "etag": "Gsj/bkM3ZSI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HZpBDwAAQBAJ",
+   "volumeInfo": {
+    "title": "A fantástica história de Silvio Santos",
+    "authors": [
+     "Arlindo Silva"
+    ],
+    "publisher": "Editora Seoman",
+    "publishedDate": "2017-12-12",
+    "description": "A história de um menino comunicativo e de origem humilde que começou como camelô, e se tornou o melhor entre eles, conquistando o título de o maior comunicador do país, dono de um carisma que se mantém inabalável desde que assinou seu primeiro contrato como locutor, em 1954. Com sua habilidade inata para os negócios, fundou empresas em série até chegar, após sete décadas, a um conglomerado bilionário, o Grupo Silvio Santos, que engloba operações em diversas áreas, como a televisão, venda porta a porta e no varejo, hotel e capitalização. A Fantástica História de Silvio Santos é uma biografia única, inspiradora - quase uma autobiografia -, recheada de relatos pessoais narrados pelo próprio \"dono do baú\" e episódios deliciosos e emocionantes que mostram a coragem e ousadia assombrosas desse homem que ajudou a moldar a história da TV brasileira.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555030598"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555030595"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HZpBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HZpBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HZpBDwAAQBAJ&pg=PT12&dq=Silvio+Santos&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HZpBDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HZpBDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HZpBDwAAQBAJ&rdid=book-HZpBDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.44E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.976E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_fant%C3%A1stica_hist%C3%B3ria_de_Silvio_Santos-sample-epub.acsm?id=HZpBDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HZpBDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Abri a série de reportagens com uma introdução intitulada “As Duas Vidas de \u003cbr\u003e\n\u003cb\u003eSilvio Santos\u003c/b\u003e: no Palco e nos Negócios”. Pela sua leitura, pode-se constatar que \u003cbr\u003e\no principal escritório de Silvio era sua própria casa. Que os computadores&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Pn1pswEACAAJ",
+   "etag": "eZySFQyxios",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Pn1pswEACAAJ",
+   "volumeInfo": {
+    "title": "Silvio Santos",
+    "subtitle": "a trajetória do mito",
+    "authors": [
+     "Fernando Morgado"
+    ],
+    "publishedDate": "2017",
+    "description": "Silvio Santos nunca teve tantas falas suas reunidas em uma só publicação. Nascido no Rio de Janeiro em 1930, Senor Abravanel começou a trabalhar aos 14 anos de idade como camelô. Pouco tempo depois, ingressou no rádio e, mais tarde, na televisão, onde se tornou sinônimo de domingo. Formou um grupo empresarial bilionário, com milhares de empregados em todo o Brasil. Tentou ser prefeito, governador e até presidente. Cercou sua vida pessoal de mistérios, cultivados pela distância que mantém dos repórteres. Mesmo assim, ao longo da carreira, já causou polêmica ao opinar sobre diversos assuntos- de empreendedorismo até homossexualidade, passando por economia, sexo, drogas e política. Silvio Santos – A Trajetória do Mito conta toda a trajetória do animador e empresário através de um formato inédito, que combina textos ágeis, declarações dadas por Silvio ao longo das últimas seis décadas e uma completa linha do tempo. Cada capítulo revela uma faceta especial- seu tino para os negócios, sua longa carreira artística, seu estilo próprio de comandar o SBT, sua meteórica trajetória política e sua reservada vida pessoal. Combinadas, compõem a figura de um mito, verdadeira marca da comunicação do Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582303157"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582303153"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Businesspeople"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Pn1pswEACAAJ&dq=Silvio+Santos&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Pn1pswEACAAJ&dq=Silvio+Santos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Silvio_Santos.html?hl=&id=Pn1pswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Pn1pswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Silvio Santos nunca teve tantas falas suas reunidas em uma só publicação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NOl7DwAAQBAJ",
+   "etag": "mhdWAVW5bu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NOl7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Adelaide Carraro No Mundo CÃo De Silvio Santos",
+    "authors": [
+     "Shirley Queiroz"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O POVO QUE TANTO SOFRE, SE ENGANA, MAS SABE RENASCER DE NOVO” O trabalho literário “ Adelaide Carraro no Mundo Cão do Silvio Santos”, mostra o novo processo da escritora Shirley Queiroz. Não era pra menos, se antes ela conseguiu demonstrar toda uma capacidade de grande romancista, o que foi possível com : “ Sala de Aula “, “Unidos na Solidão “ e “ Confissões de uma Pomba Gira”. A ousadia própria de uma mulher baiana e ante tudo negra, fazia com que Shirley Queiroz fizesse de sua arte literária uma tribuna de denuncias populares das mais degradantes. Porem, não perdeu de vista um só momento sequer, o seu profundo senso de ficção, diferenciando-se então, qualquer outra romancista. Este novo processo da escritora, realça uma posição definida de luta contra nuvens de vampiros fantasiados de andorinhas, que vem anunciar o verão tão esperado pelo povo marcado por tristes invernos. É aí que, “Adelaide Carraro no Mundo Cão de Silvio Santos”, torna-se uma excelente pintura viva da tragédia de uma escritora, que Totalmente perseguida pela censura, teve como única opção a tentativa do suicídio, pois os Mecanismo de repressão a condenavam sob qualquer suspeita não apurada. Quando então recuperada, e estimulada por um jornalista a voltar para o trabalho da escrita, o seu enorme talento, arranja um emprego na produção do famoso Silvio Santos, que por sinal, era também seu ídolo .Repleta de felicidade,como quem poderia fazer o seu labor um instrumento de melhor contato com o povo, ou seja o publico da raposa do baú o grande golpe de infelicidade. Ainda com algumas dificuldades para enquadra-se na equipe de produção , por não ter um currículo de mafiosidade, conseguiu, na sua ingenuidade, manter a ilusão de quem vai trabalhar com um grande astro. Shirley Queiroz pincela com muito cuidado e eficiência todos esses momentos, fazendo um suspense genial; onde então a escritora- protagonista do quadro vai se envolvendo com a decepção, por entender que havia adentrado numa fossa em que a própria terra não suportava mais o cheiro, uma perfeita equipe de fezes humanas. Pois é, uma verdadeira denúncia de um mundo cão , onde o diabo se mascara de anjo sagrado e sorridente , cheio de piedade dos sofredores, fazendo meninas se desvirginarem barbaramente: a produção teria que experimentar sexualmente todas as mocinhas que quisessem participar dos conhecidos quadros do programa. Com uma tara monstruosa cujo único objetivo não deixar de sugar o pouco sangue daqueles que vem das periferias da vida, em busca de uma tentativa de se tornar um artista, para recuperar sua perda de status humano. Mais do que isso o livro deixa claro o aval que o senhor Silvio Santos dizia ter do governo e ministros, dando vazão a toda uma corrupção justificada através de atitudes ditas progressista na área da comunicação de massa. É importante deixar claro que”Adelaide Carraro no Mundo Cão do Silvio Santos “ á cada pagina nos coloca frente a uma incansável desmistificação dos racistas oportunistas que a todo custo tentam engabelar as massas populares com o intuito de cercear a capacidade de desenvolvimento e de criatividade a que todos têm direito. O desrespeito humano repetido constantemente no curso do romance jorra com uma tonalidade peculiar do potencial de ficção de Shirley Queiroz , permitindo a esse novo gênero , longe de qualquer escola literária ,ocupar junto aos grandes clássicos da literatura brasileira. A obra constitui pra que entendamos que , o povo que sofre, se engana, mas sabe renascer de novo. CELSO PRUDENTE São Paulo , setembro de l980",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU6336"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 188,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.38.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NOl7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NOl7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NOl7DwAAQBAJ&printsec=frontcover&dq=Silvio+Santos&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NOl7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NOl7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NOl7DwAAQBAJ&rdid=book-NOl7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Adelaide_Carraro_No_Mundo_C%C3%83o_De_Silvio-sample-pdf.acsm?id=NOl7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NOl7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Shirley Queirozpincela com muito cuidado e eficiência todos essesmomentos, fazendo um suspensegenial; onde entãoaescritora- protagonista do quadro vai se envolvendo com a decepção, porentenderque havia adentrado numafossa em que a ..."
+   }
+  }
+ ]
+}

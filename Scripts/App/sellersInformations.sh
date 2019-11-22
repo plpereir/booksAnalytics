@@ -1,0 +1,2 @@
+#!/bin/sh
+curl --progress-bar -o /Users/plpereir/OneDrive/MacBook/03-Treinamentos/Labs/Java/workspace/BooksAnalytics/Scripts/Downloads/Sellers/booksID$1.html "https://books.google.com.br/books?id=$1&sitesec=buy&hl=pt-BR&source=gbs_vpt_read"

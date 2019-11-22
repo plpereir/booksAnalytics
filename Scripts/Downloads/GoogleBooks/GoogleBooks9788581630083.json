@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GL-5tgAACAAJ",
+   "etag": "ivHG9Pf4Uy0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GL-5tgAACAAJ",
+   "volumeInfo": {
+    "title": "PARA SEMPRE",
+    "authors": [
+     "KIM CARPENTER",
+     "KRICKITT CARPENTER"
+    ],
+    "description": "A vida que Kim e Krickitt Carpenter conheciam mudou completamente no dia 24 de novembro de 1993, dois meses após o seu casamento, quando a traseira do seu carro foi atingida por uma caminhonete que transitava em alta velocidade. Um ferimento sério na cabeça deixou Krickitt em coma por várias semanas. Quando finalmente despertou, parte da sua memória estava comprometida e ela não conseguia se lembrar de seu marido. Ela não fazia a menor ideia de quem ele era. Essencialmente, a 'Krickitt' com quem Kim havia se casado morreu no acidente, e naquele momento ele precisava reconquistar a mulher que amava.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8581630081"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581630083"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GL-5tgAACAAJ&dq=isbn:9788581630083&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GL-5tgAACAAJ&dq=isbn:9788581630083&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PARA_SEMPRE.html?hl=&id=GL-5tgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GL-5tgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A vida que Kim e Krickitt Carpenter conheciam mudou completamente no dia 24 de novembro de 1993, dois meses após o seu casamento, quando a traseira do seu carro foi atingida por uma caminhonete que transitava em alta velocidade."
+   }
+  }
+ ]
+}

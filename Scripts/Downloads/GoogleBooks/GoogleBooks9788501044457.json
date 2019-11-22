@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vtWhueS9gQEC",
+   "etag": "sIRKw36vrK4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vtWhueS9gQEC",
+   "volumeInfo": {
+    "title": "O diário de Anne Frank",
+    "authors": [
+     "Anne Frank",
+     "Otto Frank",
+     "Mirjam Pressler"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "1995",
+    "description": "Este livro é uma edição que traz na íntegra o diário de Anne Frank, com todos os trechos que seu pai cortou para a publicação de 1947, já tão conhecida e lida. É comovente descobrir que mesmo no contexto tenebroso do nazismo e guerra, ela viveu problemas e conflitos de uma adolescente de qualquer lugar e tempo. Anne Frank registrou admiravelmente a catástofre que foi a Segunda Guerra Mundial. Seu diário está entre os documentos mais duradouros produzidos neste século, mas é também uma narrativa tenra e incomparável, que revela a força indestrutível do espírito humano.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501044458"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501044457"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 315,
+    "printType": "BOOK",
+    "categories": [
+     "Amsterdam (Netherlands)"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 27,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vtWhueS9gQEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vtWhueS9gQEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vtWhueS9gQEC&printsec=frontcover&dq=isbn:9788501044457&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=vtWhueS9gQEC&dq=isbn:9788501044457&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_di%C3%A1rio_de_Anne_Frank.html?hl=&id=vtWhueS9gQEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vtWhueS9gQEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O emocionante relato que se tornou um dos livros mais lidos do mundo O diário de Anne Frank foi publicado pela primeira vez em 1947 e faz parte do cânone literário do Holocausto."
+   }
+  }
+ ]
+}

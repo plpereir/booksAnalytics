@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Yx88vgAACAAJ",
+   "etag": "Na5t2iODLSk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yx88vgAACAAJ",
+   "volumeInfo": {
+    "title": "O LIVRO DA PSICOLOGIA",
+    "authors": [
+     ",VÁRIOS AUTORES"
+    ],
+    "description": "Seguido de uma perspectiva cronológica, e com o apoio de esquemas e gráficos, O livro da psicologia destaca autores e contextualiza suas descobertas, traz um glossário com os principais termos e teorias, além de conter um capítulo dedicado a apresentar os cientistas e psicólogos que ajudaram a aprofundar o conhecimento desenvolvido ao longo das décadas. É o mais atualizado livro sobre o tema.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8525062499"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525062499"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Yx88vgAACAAJ&dq=isbn:9788525062499&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Yx88vgAACAAJ&dq=isbn:9788525062499&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_LIVRO_DA_PSICOLOGIA.html?hl=&id=Yx88vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Yx88vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seguido de uma perspectiva cronológica, e com o apoio de esquemas e gráficos, O livro da psicologia destaca autores e contextualiza suas descobertas, traz um glossário com os principais termos e teorias, além de conter um capítulo ..."
+   }
+  }
+ ]
+}

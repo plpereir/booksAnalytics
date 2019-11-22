@@ -1,0 +1,811 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 100,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RWssDwAAQBAJ",
+   "etag": "1qcqXkd3zHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RWssDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Diário de Anne Frank",
+    "authors": [
+     "Anne Frank"
+    ],
+    "publisher": "LeBooks Editora ",
+    "publishedDate": "2017-07-12",
+    "description": "Anne Frank, foi uma adolescente alemã de origem judaica que se tornou mundialmente conhecida por ter escrito um diário, posteriormente transformado em livro. Em princípio seria apenas um diário como o de milhares de adolescentes, mas neste caso específico tratava-se de um relato direto do período de 25 meses em que ficou escondida para não ser capturada pelos nazistas. O valor da história contada em O Diário de Anne Frank, transcende aspectos literários. Trata-se de um documento histórico por retratar o cotidiano de pessoas comuns que tiveram suas vidas brutalmente transformadas pelo Nazismo. O livro, agora em formato ebook, já vendeu mais de 30 milhões de cópias, foi publicado em mais de 60 países e está traduzido em mais de 70 idiomas. O Diário de Anne Frank é uma leitura que definitivamente vale a pena.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788583861102"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8583861102"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 120,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RWssDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RWssDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RWssDwAAQBAJ&printsec=frontcover&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RWssDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RWssDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RWssDwAAQBAJ&rdid=book-RWssDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.34E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.34E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_de_Anne_Frank-sample-epub.acsm?id=RWssDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_de_Anne_Frank-sample-pdf.acsm?id=RWssDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RWssDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro, agora em formato ebook, já vendeu mais de 30 milhões de cópias, foi publicado em mais de 60 países e está traduzido em mais de 70 idiomas. O Diário de Anne Frank é uma leitura que definitivamente vale a pena."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sDghDgAAQBAJ",
+   "etag": "sJkJ6KVotmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sDghDgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Diário de Anne Frank",
+    "authors": [
+     "Anne Frank",
+     "Mirella Spinelli"
+    ],
+    "publisher": "Nemo",
+    "publishedDate": "2017-03-01",
+    "description": "Em 1942, Anne Frank, uma garota judia de apenas 13 anos, é forçada a se esconder com a família diante das constantes ameaças dos nazistas. Em seu diário, ela narra a própria história, privada do mundo exterior, enquanto sonha em ter sua liberdade de volta. Por meio dele, podemos acessar os sentimentos mais profundos da garota que, presa por tanto tempo em um pequeno abrigo com outras sete pessoas, ainda se revela uma jovem engraçada, sensível e cheia de esperança. Anne Frank não conquista a tão sonhada liberdade, mas sua história sobrevive. O diário de Anne Frank em quadrinhos é uma adaptação do título O anexo: notas do diário de 12 de junho de 1942 a 1o de agosto de 1944, um relato doce e, ao mesmo tempo, melancólico da menina judia e sua experiência durante a Segunda Guerra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582863848"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582863845"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Comics & Graphic Novels"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=sDghDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=sDghDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sDghDgAAQBAJ&printsec=frontcover&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=sDghDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-sDghDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=sDghDgAAQBAJ&rdid=book-sDghDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_de_Anne_Frank-sample-epub.acsm?id=sDghDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Di%C3%A1rio_de_Anne_Frank-sample-pdf.acsm?id=sDghDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sDghDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O diário de Anne Frank em quadrinhos é uma adaptação do título O anexo: notas do diário de 12 de junho de 1942 a 1o de agosto de 1944, um relato doce e, ao mesmo tempo, melancólico da menina judia e sua experiência durante a Segunda ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SRK4swEACAAJ",
+   "etag": "oo5wO2T47vU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SRK4swEACAAJ",
+   "volumeInfo": {
+    "title": "O Pt-diario De Anne Frank",
+    "authors": [
+     "Suelen Katerine A. Santos"
+    ],
+    "description": "A linha Paradidáticos Todolivro está alinhada às diretrizes curriculares nacionais da Educação Infantil e do Ensino Fundamental estipuladas pelo Ministério da Educação (MEC) e tem uma proposta eminentemente pedagógica- ser uma ferramenta facilitadora do desenvolvimento das crianças. Seu objetivo principal é formar leitores independentes, com senso crítico, capazes de desenvolver e expressar ideias e se comunicar de forma eficiente, por meio do domínio dos instrumentos essenciais à aprendizagem - a leitura, a escrita, a expressão oral, o cálculo e a capacidade de solucionar problemas e elaborar projetos de intervenção na realidade. É uma linha que busca proporcionar conhecimentos conceituais dos vários campos do saber, trabalhando capacidades cognitivas e sociais amplas. Além disso, ressalta valores e atitudes fundamentais à vida pessoal e à convivência social por meio de conteúdos extras formulados por especialistas em educação, com orientações e sugestões pertinentes, inovadoras e práticas para serem desenvolvidas em sala de aula. Sua proposta é promover a leitura continuada/compartilhada através de experiências significativas, que reforcem o vínculo entre pais e professores no processo de aprendizagem. São elas- . Sugestões de abordagens antes, durante e depois da leitura. . Ideias para professores. . Ideias para pais. . Vocabulário em destaque. . Roda de conversa em sala de aula. . Atividades de interpretação de texto. . Atividades diversas para serem desenvolvidas em sala de aula ou em casa. E, como cada criança é única em seu processo de aprendizagem, a linha Paradidáticos Todolivro possui uma estrutura modular flexível, com quatro níveis que servem de referência para pais e professores escolherem, com segurança e de forma assertiva, o mais adequado para a criança- NÍVEL 1 - Pré-leitores- palavras e frases curtas, em letras grandes. Vocabulário básico e divertido. Histórias simples e fáceis de seguir. NÍVEL 2 - Leitores iniciantes- frases mais extensas. Vocabulário simples, palavras novas. Histórias extensas. NÍVEL 3 - Leitores confiantes- frases mais extensas, com estruturas variadas. Vocabulário amplo. Histórias mais elaboradas. NÍVEL 4 - Leitores fluentes- frases extensas, com estrutura complexa. Vocabulário rico e desafiador. Mais ênfase no texto do que nas ilustrações. ------------------------------------------- No dia do seu aniversário, a menina Anne Frank ganhou um diário de presente do seu pai. Anne é judia e passa por um período muito difícil durante a Segunda Guerra Mundial. A Holanda, onde Anne e sua família moram, é atacada pelos alemães, que querem matar os judeus em nome de um homem chamado Hitler. Anne e sua família conseguem morar, por algum tempo, em um esconderijo, o anexo, e é durante esse período que ela descreve tudo o que viu, sentiu e viveu.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8537634115"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537634110"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 26,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SRK4swEACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=SRK4swEACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Pt_diario_De_Anne_Frank.html?hl=&id=SRK4swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SRK4swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais ênfase no texto do que nas ilustrações. -------------------------------------------------------------------------------------- No dia do seu aniversário, a menina Anne Frank ganhou um diário de presente do seu pai."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CWY-DwAAQBAJ",
+   "etag": "lL/QYagZ+fo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CWY-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O diário de Anne Frank em quadrinhos",
+    "authors": [
+     "Ari Folman",
+     "David Polonsky",
+     "Anne Frank"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2017-11-13",
+    "description": "Um dos livros mais lidos do mundo agora chega ao Brasil em sua primeira edição oficial em quadrinhos, autorizada pela Anne Frank Fonds Basel. Publicado pela primeira vez em 1947, O diário de Anne Frank faz parte do cânone literário do Holocausto. O roteirista e diretor cinematográfico Ari Folman e o ilustrador David Polonsky demonstram com essa adaptação a dimensão e a genialidade literárias da jovem autora. Eles tornam visual o contemporâneo documento histórico de Anne Frank e traduzem o contexto da época no qual foi escrito. Baseada na edição definitiva do diário, autorizada por Otto Frank, pai de Anne – um dos livros mais vendidos do mundo, publicado no Brasil pela Editora Record –, esta versão em quadrinhos torna tangível o destino dos oito habitantes do Anexo durante seus dias no esconderijo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501112583"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501112585"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CWY-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CWY-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CWY-DwAAQBAJ&printsec=frontcover&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CWY-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CWY-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CWY-DwAAQBAJ&rdid=book-CWY-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.126E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_di%C3%A1rio_de_Anne_Frank_em_quadrinhos-sample-epub.acsm?id=CWY-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_di%C3%A1rio_de_Anne_Frank_em_quadrinhos-sample-pdf.acsm?id=CWY-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CWY-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Baseada na edição definitiva do diário, autorizada por Otto Frank, pai de Anne – um dos livros mais vendidos do mundo, publicado no Brasil pela Editora Record –, esta versão em quadrinhos torna tangível o destino dos oito ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WGZADwAAQBAJ",
+   "etag": "iJ0DTu5lutE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WGZADwAAQBAJ",
+   "volumeInfo": {
+    "title": "Recordando Anne Frank",
+    "subtitle": "A história contada pela mulher que desafiou o nazismo escondendo a família Frank",
+    "authors": [
+     "Miep Gies",
+     "Alison Leslie Gold"
+    ],
+    "publisher": "Gutenberg",
+    "publishedDate": "2017-11-28",
+    "description": "Para os milhões de leitores apaixonados pelo livro O Diário de Anne Frank, aqui está a surpreendente história de Miep Gies. Por mais de dois anos, Miep e seu marido ajudaram a esconder judeus dos nazistas. Como milhares de heróis desconhecidos do Holocausto, eles arriscaram suas vidas todos os dias para levar comida, notícias e apoio emocional às vítimas. Neste livro, Miep Gies relembra seus dias com honestidade e sensível clareza. Ela narra desde sua sua infância sofrida como refugiada da Primeira Guerra Mundial até o momento em que coloca o pequeno diário xadrez de Anne Frank nas mãos de seu pai, Otto Frank. O diário ficou guardado com Miep por muitos anos, e graças a ela, ele pode ser publicado. Recordando Anne Frank é uma história fascinante e verdadeira, onde cada página nos toca com coragem e dolorosa delicadeza.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582354902"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582354908"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WGZADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WGZADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WGZADwAAQBAJ&printsec=frontcover&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WGZADwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WGZADwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WGZADwAAQBAJ&rdid=book-WGZADwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Recordando_Anne_Frank-sample-epub.acsm?id=WGZADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Recordando_Anne_Frank-sample-pdf.acsm?id=WGZADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WGZADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O diário ficou guardado com Miep por muitos anos, e graças a ela, ele pode ser publicado. Recordando Anne Frank é uma história fascinante e verdadeira, onde cada página nos toca com coragem e dolorosa delicadeza."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WTwmGwAACAAJ",
+   "etag": "1XFrWAIFaVQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WTwmGwAACAAJ",
+   "volumeInfo": {
+    "title": "Diário de Anne Frank",
+    "subtitle": "peça em 2 atos e 10 quadros",
+    "authors": [
+     "Frances Goodrich",
+     "Albert Hackett"
+    ],
+    "publishedDate": "1958",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:29842878"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Netherlands"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WTwmGwAACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WTwmGwAACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_de_Anne_Frank.html?hl=&id=WTwmGwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WTwmGwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VFd7tAEACAAJ",
+   "etag": "sq3bnRfX66Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VFd7tAEACAAJ",
+   "volumeInfo": {
+    "title": "Diario De Anne Frank, O",
+    "authors": [
+     "Anne Frank",
+     "Mirella Spinelli"
+    ],
+    "description": "Em 1942, Anne Frank, uma garota judia de apenas 13 anos, é forçada a se esconder com a família diante das constantes ameaças dos nazistas. Em seu diário, ela narra a própria história, privada do mundo exterior, enquanto sonha em ter sua liberdade de volta. Por meio dele, podemos acessar os sentimentos mais profundos da garota que, presa por tanto tempo em um pequeno abrigo com outras sete pessoas, ainda se revela uma jovem engraçada, sensível e cheia de esperança. Anne Frank não conquista a tão sonhada liberdade, mas sua história sobrevive. O diário de Anne Frank em quadrinhos é uma adaptação do título O anexo: notas do diário de 12 de junho de 1942 a 1o de agosto de 1944, um relato doce e, ao mesmo tempo, melancólico da menina judia e sua experiência durante a Segunda Guerra.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582863365"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582863367"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VFd7tAEACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VFd7tAEACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Diario_De_Anne_Frank_O.html?hl=&id=VFd7tAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VFd7tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "POr meio dele, podemos acessar os sentimentos mais profundos da garota que, presa por tanto tempo em um pequeno abrigo com outras sete pessoas, ainda se revela uma jovem engraçada, sensível e cheia de esperança.ANne Frank não conquista ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "s2LACQAAQBAJ",
+   "etag": "9XW2nV0eDJU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/s2LACQAAQBAJ",
+   "volumeInfo": {
+    "title": "Contos do esconderijo",
+    "authors": [
+     "Anne Frank"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2015-05-29",
+    "description": "Anne Frank (1929-1945) nasceu na Alemanha. Aos quatro anos, foi obrigada a sair do país com sua família após a chegada de Adolf Hitler ao poder. Em 1942, o pai de Anne, Otto Frank, sua mulher e filhas unem-se a mais quatro pessoas e decidem se esconder dos invasores alemães. Por dois anos tiveram que viver limitados ao anexo do sótão do escritório de Otto Frank. No esconderijo, o diário era o único instrumento de liberdade de Anne; nele, relatou a vida no Anexo Secreto, as transformações e as angústias de cada um dos que ali residiam. Organizada em 1982 e publicada de acordo com as instruções da Anne Frank Fonds, esta coletânea inclui textos originalmente excluídos de O diário de Anne Frank, e revela um pouco mais da jovem Anne. São relatos sobre o primeiro dia de aula, o primeiro beijo, o amor do pai, os sonhos de menina e o medo de ser denunciada e descoberta.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577994847"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577994848"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.23.21.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=s2LACQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=s2LACQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=s2LACQAAQBAJ&printsec=frontcover&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=s2LACQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-s2LACQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=s2LACQAAQBAJ&rdid=book-s2LACQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Contos_do_esconderijo-sample-epub.acsm?id=s2LACQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Contos_do_esconderijo-sample-pdf.acsm?id=s2LACQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=s2LACQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Anne Frank (1929-1945) nasceu na Alemanha."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OZxPvgAACAAJ",
+   "etag": "pUBErrBCMX4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OZxPvgAACAAJ",
+   "volumeInfo": {
+    "title": "PARA ALEM DO DIARIO DE ANNE FRANK",
+    "authors": [
+     "CASA DE ANNE FRANK",
+     "NL TRANSLATION"
+    ],
+    "description": "Você sabia que pouco se conhece sobre como foi escrito o famoso diário de Anne Frank? A corajosa e persistente menina resistiu à dura realidade de seus dias de confinamento, escrevendo em folhas soltas, desordenadas, com o que lhe caísse às mãos. E como Anne e os outros clandestinos se alimentavam? Como Anne recebeu os papéis para contar ao mundo sobre o horror da perseguição aos judeus durante a Segunda Guerra Mundial? Este livro foi feito com os depoimentos de quem conviveu com Anne Frank, com os documentos da época. Aqui, o dia a dia de Anne é recuperado, sob os nossos olhos, como se estivéssemos vivendo junto e aprendendo, com a coragem e a esperança que ela nos ensina, a acreditar na construção de um mundo melhor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8544104274"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788544104279"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=OZxPvgAACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OZxPvgAACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PARA_ALEM_DO_DIARIO_DE_ANNE_FRANK.html?hl=&id=OZxPvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OZxPvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A corajosa e persistente menina resistiu à dura realidade de seus dias de confinamento, escrevendo em folhas soltas, desordenadas, com o que lhe caísse às mãos. E como Anne e os outros clandestinos se alimentavam?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gKHqugEACAAJ",
+   "etag": "OlvAVTLox08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gKHqugEACAAJ",
+   "volumeInfo": {
+    "title": "O Diario de Anne Frank",
+    "authors": [
+     "Anne Frank"
+    ],
+    "publisher": "Castrovilli Giuseppe",
+    "publishedDate": "1984*",
+    "description": "Dagboek van een joods meisje, dat in de Tweede Wereldoorlog met haar ouders, zusje en anderen ondergedoken is in een achterhuis op een der Amsterdamse grachten. Zij spreekt zich met grote openhartigheid uit over alles wat haar van haar 13e tot haar 15e jaar bezighoudt.",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 226,
+    "printType": "BOOK",
+    "categories": [
+     "Amsterdam (Netherlands)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gKHqugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gKHqugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=gKHqugEACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gKHqugEACAAJ&dq=O+di%C3%A1rio+de+Anne+Frank&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Diario_de_Anne_Frank.html?hl=&id=gKHqugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gKHqugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

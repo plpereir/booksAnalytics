@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0K25Eqjl52kC",
+   "etag": "eTs8vLyp2WI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0K25Eqjl52kC",
+   "volumeInfo": {
+    "title": "Ame o que é seu",
+    "authors": [
+     "EMILY GIFFIN",
+     "ELENICE ARAUJO"
+    ],
+    "publisher": "Novo Conceito",
+    "description": "O casamento de Ellen e Andy não parece perfeito - ele é perfeito. São inegáveis a profundidade da devoção mútua e o quanto um desperta o melhor do outro. Mas por obra do destino, certa tarde, Ellen revê Leo pela primeira vez em oito anos. Leo, aquele que partiu seu coração sem se explicar, aquele que ela não conseguiu esquecer. Quando o reaparecimento dele desperta sentimentos há muito adormecidos, Ellen se põe a questionar se sua vida atual é de fato como ela queria que fosse.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599560532"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8599560530"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0K25Eqjl52kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0K25Eqjl52kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0K25Eqjl52kC&printsec=frontcover&dq=isbn:9788599560532&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0K25Eqjl52kC&dq=isbn:9788599560532&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ame_o_que_%C3%A9_seu.html?hl=&id=0K25Eqjl52kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0K25Eqjl52kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O casamento de Ellen e Andy não parece perfeito - ele é perfeito."
+   }
+  }
+ ]
+}

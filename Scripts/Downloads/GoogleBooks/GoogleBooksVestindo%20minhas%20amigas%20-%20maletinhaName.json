@@ -1,0 +1,138 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yd9fvgAACAAJ",
+   "etag": "sAR4U2xaHkY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yd9fvgAACAAJ",
+   "volumeInfo": {
+    "title": "MALETINHA VERMELHA - VESTINDO MINHAS AMIGAS",
+    "authors": [
+     "FIONA WATT",
+     "LUCY BOWMAN",
+     "STELLA BAGGOTT"
+    ],
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1409584631"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409584636"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yd9fvgAACAAJ&dq=Vestindo+minhas+amigas+-+maletinha&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yd9fvgAACAAJ&dq=Vestindo+minhas+amigas+-+maletinha&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MALETINHA_VERMELHA_VESTINDO_MINHAS_AMIGA.html?hl=&id=yd9fvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yd9fvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta linda maletinha traz quatro belos livrinhos da coleção Vestindo minhas amigas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ogIbvgAACAAJ",
+   "etag": "D5dlLaYH6Og",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ogIbvgAACAAJ",
+   "volumeInfo": {
+    "title": "MALETINHA DESIGNER DE MODA",
+    "subtitle": "VESTINDO MINHAS AMIGAS",
+    "authors": [
+     "FIONA WATT",
+     "ANTONIA MILLER",
+     "MATILDE DOS SANTOS"
+    ],
+    "description": "Essa linda maletinha traz quatro livrinhos da coleção Vestindo minhas amigas - Designer de moda. As crianças vão adorar vestir as amigas com as tendências de cada estação!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1409596567"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409596561"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ogIbvgAACAAJ&dq=Vestindo+minhas+amigas+-+maletinha&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ogIbvgAACAAJ&dq=Vestindo+minhas+amigas+-+maletinha&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MALETINHA_DESIGNER_DE_MODA.html?hl=&id=ogIbvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ogIbvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essa linda maletinha traz quatro livrinhos da coleção Vestindo minhas amigas - Designer de moda. As crianças vão adorar vestir as amigas com as tendências de cada estação!"
+   }
+  }
+ ]
+}

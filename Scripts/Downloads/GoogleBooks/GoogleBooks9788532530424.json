@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "H48jvgAACAAJ",
+   "etag": "kTDotVdn64A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H48jvgAACAAJ",
+   "volumeInfo": {
+    "title": "HARRY POTTER E A CRIANÇA AMALDIÇOADA - PARTE 1 E 2",
+    "authors": [
+     "J. K. ROWLING",
+     "ANNA VICENTINI"
+    ],
+    "publishedDate": "2016-10-31",
+    "description": "Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. Enquanto Harry lida com um passado que se recusa a ficar para trás, seu filho mais novo, Alvo, deve lutar com o peso de um legado de família que ele nunca quis. À medida que passado e presente se fundem de forma ameaçadora, ambos, pai e filho, aprendem uma incômoda verdade: às vezes as trevas vêm de lugares inesperados.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532530427"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532530424"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H48jvgAACAAJ&dq=isbn:9788532530424&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=H48jvgAACAAJ&dq=isbn:9788532530424&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/HARRY_POTTER_E_A_CRIAN%C3%87A_AMALDI%C3%87OADA_P.html?hl=&id=H48jvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H48jvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar."
+   }
+  }
+ ]
+}

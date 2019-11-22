@@ -1,0 +1,850 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 174,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bYT6CwAAQBAJ",
+   "etag": "v8HBZ3Vshy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bYT6CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sonhar alto, pensar grande",
+    "subtitle": "Lições de um brasileiro que enfrentou os obstáculos e tornou-se presidente de uma multinacional",
+    "authors": [
+     "Theunis Marinho"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2016-04-14",
+    "description": "O mercado de trabalho hoje é altamente competitivo. A pressão por resultados em condições adversas e o estresse decorrente disso, dentre outras condições, muitas vezes funcionam como desestimuladoras, e as pessoas acabam desistindo de fazer tudo aquilo que precisariam para ser bem-sucedidas na profissão. Podemos comparar o caminho para alcançar uma carreira promissora à escalada de uma montanha alta e fria como se fosse um Everest Corporativo, cheio de desafios que dificultam a subida. Assim, ninguém chega ao topo por sorte: é preciso muito suor e determinação para alcançá-lo. A partir de sua história de conquistas, Theunis nos mostra que a persistência é um dos segredos nesse caminho, e o topo promete uma vista incrível. Nestas páginas o leitor aprenderá, entre outras, a importância de: Sonhar alto e fazer planos desafiadores para o futuro Não delegar seu destino a terceiros Aprender a dizer não Cultivar relacionamentos construtivos Refletir sobre as consequências dos seus atos, antes de colocá-los em prática Aprender com os erros, pois eles são ótimos \"professores\" Não adiar as soluções para seus problemas Uma leitura indispensável para quem quer alcançar o sucesso de maneira sólida e sustentável",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200932"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200935"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bYT6CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bYT6CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=bYT6CwAAQBAJ&printsec=frontcover&dq=Sonhar+alto,+pensar+grande&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=bYT6CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-bYT6CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=bYT6CwAAQBAJ&rdid=book-bYT6CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.08E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sonhar_alto_pensar_grande-sample-epub.acsm?id=bYT6CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sonhar_alto_pensar_grande-sample-pdf.acsm?id=bYT6CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bYT6CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A partir de sua história de conquistas, Theunis nos mostra que a persistência é um dos segredos nesse caminho, e o topo promete uma vista incrível."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3_b1BQAAQBAJ",
+   "etag": "DKxiwK4hCqw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3_b1BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Como o Google funciona",
+    "subtitle": "",
+    "authors": [
+     "Eric Schmidt",
+     "Jonathan Rosenberg"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-02-11",
+    "description": "Em Como o Google funciona, Eric Schmidt e Jonathan Rosenberg reúnem as valiosas lições que fizeram da empresa uma gigante global conhecida pela missão de inovar incessantemente. Eles descrevem como o avanço da tecnologia transferiu o poder das corporações para os consumidores e reforçam que, para sobreviver, é essencial concentrar esforços na qualidade dos produtos e investir em uma nova categoria de profissionais: os criativos inteligentes, que unem conhecimento técnico, tino comercial e uma criatividade sem limites. Eric e Jonathan relatam casos curiosos e exemplos da história e do dia a dia do Google e abordam temas como estratégia, cultura corporativa, tomada de decisões, contratação de funcionários e capacidade de adaptação e inovação. Em um tempo de mudanças drásticas e cada vez mais rápidas nos negócios, é fundamental para gestores e empreendedores saber abraçar o espírito de inovação e atrair e manter a maior quantidade possível de talentos. Como o Google funciona mostra o caminho.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576146"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580576148"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3_b1BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3_b1BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3_b1BQAAQBAJ&pg=PT300&dq=Sonhar+alto,+pensar+grande&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3_b1BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3_b1BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3_b1BQAAQBAJ&rdid=book-3_b1BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_o_Google_funciona-sample-epub.acsm?id=3_b1BQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_o_Google_funciona-sample-pdf.acsm?id=3_b1BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3_b1BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "São os advogados, o pessoal de vendas, de finanças, todos inspirados pela \u003cbr\u003e\natitude predominante da empresa de \u003cb\u003esonhar alto\u003c/b\u003e. \u003cb\u003ePensar grande\u003c/b\u003e não é apenas \u003cbr\u003e\numa poderosa ferramenta de recrutamento e manutenção; ela é contagiosa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XZL2DQAAQBAJ",
+   "etag": "s1rsiE82WcI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XZL2DQAAQBAJ",
+   "volumeInfo": {
+    "title": "Aventura, fé e loucura é tudo igual",
+    "authors": [
+     "Samuel Couto Cabral"
+    ],
+    "publisher": "Vision Libros",
+    "publishedDate": "2017-01-16",
+    "description": "História e trajetória da Família Cabral: FAMILIA CABRAL: Uma família que desconhecia a preguiça, ignorava o medo, desprezava os desafios e não sabia e ainda não sabe parar. Mas sabia, conhecia e vivia o melhor do Universo: Tinha DEUS como aliado. No meio de tanto desconforto, vivia uma vida de CÉU, porque contava com o cuidado e o conforto do Divino inaterrupidamente. Foto do 1º Encontro, março de 2014.Uma família que iniciou pobre, mas não continuou pobre e começou quase sem nada e hoje tem quase tudo. O segredo consiste no viver em Deus, porque ele nos dá tudo. A verdadeira grandeza e progresso de uma pessoa reside na comunhão com Cristo porque é ele quem nos indica o caminho certo. Com ele não pode dar errado, naquele tempo não compreendíamos nada, mas hoje entendemos tudo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788490116036"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8490116032"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XZL2DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XZL2DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XZL2DQAAQBAJ&pg=PA15&dq=Sonhar+alto,+pensar+grande&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=XZL2DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-XZL2DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.22,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=XZL2DQAAQBAJ&rdid=book-XZL2DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.822E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.822E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Aventura_f%C3%A9_e_loucura_%C3%A9_tudo_igual-sample-pdf.acsm?id=XZL2DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XZL2DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Só em segredo podia \u003cb\u003esonhar\u003c/b\u003e e \u003cb\u003epensar grande\u003c/b\u003e. Sentia-me confortável em \u003cb\u003esonhar\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ealto\u003c/b\u003e e \u003cb\u003epensar grande\u003c/b\u003e, porque sabia que só Deus seria capaz de ler meus \u003cbr\u003e\npensamentos e só Ele iria escutar o ruído do meu silêncio, ler e decifrar meus \u003cbr\u003e\ndesejos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xhRSBQAAQBAJ",
+   "etag": "22DcnhBIH2s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xhRSBQAAQBAJ",
+   "volumeInfo": {
+    "title": "O Caminho Do Guerreiro",
+    "authors": [
+     "Joel Correia"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-04-30",
+    "description": "O Caminho traçado por um Guerreiro na maioria das vezes é um caminho cheio de desafios e duras batalhas, por isso devemos nos guiar pela luz dos grandes guerreiros e seguir seus passos deixados no chão como um guia para que tenhamos mais exito e possamos ir mais longe que nossos antepassados. O livro é baseado em minha jornada como artista marcial, e visa guia-los por uma jornada de aprendizado e superação, ensinando e mostrando o caminho das pedras, para que tenham exito aprendendo com os meus erros e os ensinamentos de Grandes Mestres e pensadores que ensinaram a mim e por vez transfiro a você esse conhecimento. Os ensinamentos passados através de milhares de anos pelas artes marciais podem elevar a sabedoria não só dos lutadores mas de todos da comunidade, não são princípios próprios para lutar ,são princípios que servem para evoluir na vida como um todo. Vai muito além de saber socar e chutar, embora também ensine a maneira de se fazer isso. O que você sabe não tem valor, o valor está no que você faz com o que sabe. Bruce Lee",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90164457"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 133,
+    "printType": "BOOK",
+    "categories": [
+     "Body, Mind & Spirit"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xhRSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xhRSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xhRSBQAAQBAJ&pg=PA127&dq=Sonhar+alto,+pensar+grande&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xhRSBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xhRSBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.06,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.06,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xhRSBQAAQBAJ&rdid=book-xhRSBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.906E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.906E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Caminho_Do_Guerreiro-sample-pdf.acsm?id=xhRSBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xhRSBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seus pais podem ser \u003cb\u003egrandes\u003c/b\u003e modelos para vocês, de perseverança ,de força \u003cbr\u003e\nde vontade,de amor... Ou seja ,um Guerreiro sabe \u003cb\u003esonhar alto\u003c/b\u003e e \u003cb\u003epensar grande\u003c/b\u003e, \u003cbr\u003e\nmas ele sempre deve honrar os que lutam junto com eles essa batalha e neles&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "joItAAAAYAAJ",
+   "etag": "SNfmrcDgXeo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/joItAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Nem todo canário é belga",
+    "authors": [
+     "Flávio Moreira da Costa"
+    ],
+    "publishedDate": "1997-01-01",
+    "description": "Depois do premiado 'O equilibrista do arame farpado', Flávio Moreira da Costa (contista também premiado com 'Malvadeza Durão') volta à história curta neste marcante e variado 'Nem todo canário é belga' - vencedor do Prêmio Jabuti 1997.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173006614870"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 139,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=joItAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=joItAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=joItAAAAYAAJ&q=Sonhar+alto,+pensar+grande&dq=Sonhar+alto,+pensar+grande&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=joItAAAAYAAJ&dq=Sonhar+alto,+pensar+grande&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nem_todo_can%C3%A1rio_%C3%A9_belga.html?hl=&id=joItAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=joItAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por outro lado (tudo, até os anúncios, tem um outro lado), de que adiantaria \u003cbr\u003e\ncontinuar vivendo na vala comum da cidade \u003cb\u003egrande\u003c/b\u003e de dejetos e objetos, \u003cbr\u003e\npoluições e tanta energia negativa? Ousar mais, \u003cb\u003epensar grande\u003c/b\u003e, \u003cb\u003esonhar alto\u003c/b\u003e. (O \u003cbr\u003e\nque fizera&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "v6p2DwAAQBAJ",
+   "etag": "VOf/BpvGzoQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/v6p2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Quem me roubou de mim?",
+    "authors": [
+     "Padre Fabio de Melo"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2018-11-15",
+    "description": "*Edição comemorativa de dez anos da publicação original* Um romance inspirador Em Quem me roubou de mim? Padre Fábio de Melo aborda uma violência sutil que aflige muitas pessoas – o sequestro da subjetividade. Essa expressão refere-se à privação que sofremos de nós mesmos quando estabelecemos com alguém, nas palavras do próprio autor, \"um vínculo que mina nossa capacidade de ser quem somos, de pensar por nós mesmos, de exercer nossa autonomia, de tomar decisões e exercer nossa liberdade de escolha\". Uma vez sequestrados, perdemos a capacidade de sonhar, ficamos impossibilitados de viver as realizações para as quais fomos feitos e não temos com quem reclamar. Precisamos, portanto, estar sempre atentos para que isso não nos aconteça pois, como escreve Padre Fábio: \"Nenhuma relação humana está privada de se transformar em roubo, perda de identidade, ainda que as pessoas nos pareçam bem-intencionadas. Um só descuido e as relações podem evoluir para essa violência silenciosa. Basta que as pessoas se percam de seus referenciais, [...] que confundam o amor com posse, que abram mão de suas identidades, e que se ausentem de si mesma\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542215144"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542215141"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=v6p2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=v6p2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=v6p2DwAAQBAJ&pg=PT146&dq=Sonhar+alto,+pensar+grande&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=v6p2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-v6p2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=v6p2DwAAQBAJ&rdid=book-v6p2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Quem_me_roubou_de_mim-sample-epub.acsm?id=v6p2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Quem_me_roubou_de_mim-sample-pdf.acsm?id=v6p2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=v6p2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Somos incentivados a \u003cb\u003esonhar alto\u003c/b\u003e, a projetar \u003cb\u003egrandes\u003c/b\u003e empreendimentos e a \u003cbr\u003e\ncolocar nossos esforços para extrair o máximo que pudermos da vida. Não é \u003cbr\u003e\nnenhum problema \u003cb\u003epensar\u003c/b\u003e assim. O \u003cb\u003egrande\u003c/b\u003e problema não está em \u003cb\u003esonhar alto\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yukuAAAAYAAJ",
+   "etag": "0/gQhAyrYWo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yukuAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Dicionário de gíria",
+    "subtitle": "modismo linguístico o equipamento falado do Brasileiro",
+    "authors": [
+     "J. B. Serra e Gurgel"
+    ],
+    "publishedDate": "2005",
+    "description": "Nesta edição, o autor apresenta um conjunto de gírias (ou quase) de Mineiros, Cariocas, Cearenses e Paulistas, surgidas através do regionalismo. O glossário é limitado, podendo ser ampliado por contribuições dos naturais (ou nativos) destes Estados. Não se trata meramente de regionalismos derivados da simplificação morfológica e fonética. Não se restringe também a um a tipologia de sotaque, a uma inflexão. É uma manifestação efetiva e profunda de modificação (ou desfiguração) do português, que se acelera sem que ninguém intervenha contra ou a favor . Geralmente a simplificação decorre da lei do menor esforço, da preguiça, da impaciência de se falar corretamente. Neste caso, não. É intencional, por desconhecimento da estrutura da língua, alcançando , não apenas a linguagem padrão e escrita, mas, e principalmente, a linguagem oral, a linguagem dos povos das ruas, de todas as classes, faixas etárias, níveis de escolaridade, tribos, cores e profissões.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8590001423"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788590001423"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 722,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=yukuAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=yukuAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=yukuAAAAYAAJ&pg=PA643&dq=Sonhar+alto,+pensar+grande&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=yukuAAAAYAAJ&dq=Sonhar+alto,+pensar+grande&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dicion%C3%A1rio_de_g%C3%ADria.html?hl=&id=yukuAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=yukuAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fArxAfw67iMC",
+   "etag": "yXE1H1qDhgo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fArxAfw67iMC",
+   "volumeInfo": {
+    "title": "Caderno de Encargos",
+    "authors": [
+     "VICTOR MOTA"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2013-03-20",
+    "description": "Entre campo e cidade tudo pode acontecer...o frio e o fogo encontram-se nos vetores de vários personagens numa obra de etnoficção.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898112095"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9898112093"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fArxAfw67iMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fArxAfw67iMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fArxAfw67iMC&pg=PT305&dq=Sonhar+alto,+pensar+grande&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=fArxAfw67iMC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-fArxAfw67iMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.57,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=fArxAfw67iMC&rdid=book-fArxAfw67iMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.157E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.049E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caderno_de_Encargos-sample-epub.acsm?id=fArxAfw67iMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Caderno_de_Encargos-sample-pdf.acsm?id=fArxAfw67iMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fArxAfw67iMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Iria limitar-se á ser medíocre ou continuava a \u003cb\u003esonhar alto\u003c/b\u003e se ser realista? Estas \u003cbr\u003e\nquestões podam não interessar ao leitor, mas eram de \u003cb\u003egrande\u003c/b\u003e importância para \u003cbr\u003e\na personagem Euclides. Agora só ... Não podia Euclides absolutamente deixar \u003cbr\u003e\nde \u003cb\u003epensar\u003c/b\u003e em si, mas tinha de \u003cb\u003epensar\u003c/b\u003e em ser menos egoísta, já o tinham \u003cbr\u003e\nalertado&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4OVuiv9X928C",
+   "etag": "KyyHZZVqHCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4OVuiv9X928C",
+   "volumeInfo": {
+    "title": "A Conquista da Prosperidade",
+    "subtitle": "O poder da intuição em momentos decisivos",
+    "authors": [
+     "Lynn A. Robinson"
+    ],
+    "publisher": "Editora Novo Conceito",
+    "publishedDate": "2012-10-10",
+    "description": "Neste livro inspirador, a autora auxilia o leitor na descoberta do seu propósito de vida, conectando-o com seu sábio sistema de orientação interior. As ideias são apresentadas de maneira prática, para que o leitor aprenda como prosperar em direção a uma vida rica e abundante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788581631622"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8581631622"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.19.19.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4OVuiv9X928C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4OVuiv9X928C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4OVuiv9X928C&pg=PT17&dq=Sonhar+alto,+pensar+grande&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4OVuiv9X928C&dq=Sonhar+alto,+pensar+grande&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Conquista_da_Prosperidade.html?hl=&id=4OVuiv9X928C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Conquista_da_Prosperidade-sample-epub.acsm?id=4OVuiv9X928C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Conquista_da_Prosperidade-sample-pdf.acsm?id=4OVuiv9X928C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4OVuiv9X928C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pegue um pedaço \u003cb\u003egrande\u003c/b\u003e de papel ou um caderno e comece a escrever e/ou \u003cbr\u003e\ndesenhar o que quer. Atenção: não se ... Coisas sobre as quais escrever/\u003cb\u003esonhar\u003c/b\u003e/\u003cbr\u003e\n\u003cb\u003epensar\u003c/b\u003e para ajuda-lo a começar Como é a sua casa? ... Ouse \u003cb\u003esonhar alto\u003c/b\u003e. Veja-\u003cbr\u003e\nse&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XBEPAAAAYAAJ",
+   "etag": "JeH6K++0pGs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XBEPAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O sonho era possível",
+    "subtitle": "a história do Partido dos Trabalhadores narrada por seus protagonistas",
+    "authors": [
+     "Marta Harnecker"
+    ],
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173003873238"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 178,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XBEPAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XBEPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XBEPAAAAYAAJ&q=Sonhar+alto,+pensar+grande&dq=Sonhar+alto,+pensar+grande&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XBEPAAAAYAAJ&dq=Sonhar+alto,+pensar+grande&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_sonho_era_poss%C3%ADvel.html?hl=&id=XBEPAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XBEPAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Eu só cheguei onde cheguei, não apenas porque tinha um \u003cb\u003egrande\u003c/b\u003e partido que \u003cbr\u003e\ntinha uma \u003cb\u003egrande\u003c/b\u003e militância, que tinha \u003cb\u003egrandes\u003c/b\u003e ... Nessa época, não era ilusão \u003cbr\u003e\n\u003cb\u003epensar\u003c/b\u003e que íamos transformar o país, produzir uma inflexão histórica, que íamos \u003cbr\u003e\ncriar uma coisa redentora, ou com ... Estávamos fazendo história Essa dinâmica \u003cbr\u003e\nde viver momentos raríssimos talvez da história em que a gente pode \u003cb\u003esonhar alto\u003c/b\u003e\u003cbr\u003e\n."
+   }
+  }
+ ]
+}

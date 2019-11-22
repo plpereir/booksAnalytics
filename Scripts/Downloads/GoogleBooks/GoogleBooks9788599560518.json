@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IOqTPgAACAAJ",
+   "etag": "XOoxWGANjOc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IOqTPgAACAAJ",
+   "volumeInfo": {
+    "title": "Noites de Tormenta",
+    "authors": [
+     "Nicholas Sparks"
+    ],
+    "publishedDate": "2010",
+    "description": "'Noites de Tormenta' acompanha as vidas de Adrianne Willis e Paul Flanner. Ela, uma mulher de 60 anos que dedicou a vida aos filhos, netos e ao trabalho, e que ainda acredita no amor como condição essencial para uma vida plena. Ele, um médico conceituado, com problemas de relacionamento com o filho. Ela busca refúgio em Rodanthe, pequena cidade na Carolina do Norte, indo passar um fim de semana na pousada de uma amiga. Ali espera encontrar a tranquilidade de que precisa desesperadamente para refletir sobre os conflitos que a angustiam- seu marido pediu para voltar para casa e sua filha adolescente critica todas as suas decisões. Pouco depois de sua chegada à pousada, houve a previsão de uma grande tempestade, e o Dr. Flanner chega à cidade. Único hóspede da pousada, ele não está atrás de um final de semana de descanso, e sim enfrentando uma crise de consciência. Agora, com a tempestade se aproximando, eles procuram consolo um no outro e, em dois dias, iniciam um romance que trará mudanças para ambos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8599560514"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788599560518"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 173,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IOqTPgAACAAJ&dq=isbn:9788599560518&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IOqTPgAACAAJ&dq=isbn:9788599560518&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Noites_de_Tormenta.html?hl=&id=IOqTPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IOqTPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Noites de Tormenta&#39; acompanha as vidas de Adrianne Willis e Paul Flanner."
+   }
+  }
+ ]
+}

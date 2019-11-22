@@ -1,0 +1,784 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 18,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3ERqDwAAQBAJ",
+   "etag": "frTy31Qp8Es",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3ERqDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O imbecil coletivo",
+    "subtitle": "Atualidades inculturais brasileiras",
+    "authors": [
+     "Olavo de Carvalho"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2018-09-17",
+    "description": "A aguardada reedição do clássico de Olavo de Carvalho. Este O imbecil coletivo é um clássico. Dos mais demandados títulos do Brasil. É preciso, no entanto, correr para que essas duas sentenças não sejam compreendidas pelo que não querem dizer. Correr para explicar que: 1) sim, este livro é reedição de uma obra clássica, cultuada, vendida a preço de ouro em sebos etc., 2) e que tudo isso se dá sem prejuízo de que também seja obra de espantosa, assustadora, atualidade. O Brasil está todo explicado no volume que ora se folheia – o Brasil de 2018 tanto quanto o de 2028. É verdade que algumas personagens caducaram. Não importa. (Ninguém sentiu falta.) Outras da mesma natureza lhes ocuparam o lugar. (Ninguém notou.) Não importa. A matéria do exame de Olavo de Carvalho está acima de fulanizações: é o conjunto de mentalidades que rebaixou o país à indigência moral, à miséria intelectual.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501104182"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501104183"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3ERqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3ERqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3ERqDwAAQBAJ&printsec=frontcover&dq=O+imbecil+coletivo&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3ERqDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3ERqDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 50.26,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3ERqDwAAQBAJ&rdid=book-3ERqDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.026E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_imbecil_coletivo-sample-epub.acsm?id=3ERqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_imbecil_coletivo-sample-pdf.acsm?id=3ERqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3ERqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A aguardada reedição do clássico de Olavo de Carvalho. Este O imbecil coletivo é um clássico."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0fsrAAAAYAAJ",
+   "etag": "gHAT+nIzse4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0fsrAAAAYAAJ",
+   "volumeInfo": {
+    "title": "O imbecil coletivo",
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173005969462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0fsrAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0fsrAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0fsrAAAAYAAJ&q=O+imbecil+coletivo&dq=O+imbecil+coletivo&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0fsrAAAAYAAJ&dq=O+imbecil+coletivo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_imbecil_coletivo.html?hl=&id=0fsrAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0fsrAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vt5EBQAAQBAJ",
+   "etag": "/cvsQqDSUx4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vt5EBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Alvíssara Em Nome Do Pai Vol. Iv",
+    "authors": [
+     "Thiago De Paiva Campos"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-03-05",
+    "description": "Alvíssara em Nome-do-Pai possui cinco selos. O objetivo do primeiro selo de Alvíssara é: fazer uma introdução a Religião Alvissarista, expondo sua epistemologia, sua ética, sua estética e sua teoria do direito especial. O objetivo do segundo selo de Alvíssara é: fazer uma introdução ao Direito Alvissarista, investigando as regras estruturais que determinam o comportamento social, estabelecendo direitos e deveres entre o sujeito e a sociedade. O objetivo do terceiro selo de Alvíssara é: arquitetar as dimensões metafísica, biológica, moral, ética, jurídica, social e religiosa que envolvem a questão primordial sobre o princípio da vida. O objetivo do quarto selo de Alvíssara é: expor os fundamentos básicos da Criminologia Alvissarista como uma semiologia criminal. O objetivo do quinto selo de Alvíssara é: expor os fundamentos básicos do direito político baseado na desobediência civil e na teodemocracia idealizada pelo Alvissarismo. O objetivo do sexto selo de Alvíssara é: expor os fundamentos básicos do direito econômico baseado na sociedade estruturalista idealizada pelo Alvissarismo. O objetivo do sétimo e último selo de Alvíssara é: expor os fundamentos básicos do direito do Estado baseado na reforma político-econômica idealizada pelo Alvissarismo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90142107"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vt5EBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vt5EBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vt5EBQAAQBAJ&pg=PA110&dq=O+imbecil+coletivo&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vt5EBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vt5EBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.07,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vt5EBQAAQBAJ&rdid=book-vt5EBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.507E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Alv%C3%ADssara_Em_Nome_Do_Pai_Vol_Iv-sample-pdf.acsm?id=vt5EBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vt5EBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por outro lado, se Olavo de Carvalho não é um imbecil, então ele não faz parte \u003cbr\u003e\ndo conjunto de todos os indivíduos ... No entanto, é óbvio que nós temos ciência \u003cbr\u003e\nde que na realidade ao escrever o livro “\u003cb\u003eO imbecil coletivo\u003c/b\u003e – atualidades&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IRByDwAAQBAJ",
+   "etag": "b44KioawVyM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IRByDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Filosofia Da Comunicação",
+    "authors": [
+     "Thiago"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Este é o livro que dá início à Filosofia da Comunicação como uma disciplina filosófica ou ramo da Filosofia que tem como objeto os processos de comunicação humana. Entre as subdisciplinas da comunicação, incluem-se a teoria da informação, a comunicação intrapessoal, a comunicação interpessoal, o marketing, a publicidade, a propaganda, as relações públicas, a análise do discurso, as telecomunicações e, por fim, o Jornalismo. Também se entende a Filosofia da Comunicação como o ramo da Filosofia que estuda o intercâmbio de informação entre sujeitos ou objetos. Deste ponto de vista, a Filosofia da Comunicação constitui-se como o estudo filosófico sobre a origem, a essência e a natureza da comunicação.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU28665"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 95,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IRByDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IRByDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IRByDwAAQBAJ&pg=PA50&dq=O+imbecil+coletivo&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IRByDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IRByDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 37.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IRByDwAAQBAJ&rdid=book-IRByDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.715E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Filosofia_Da_Comunica%C3%A7%C3%A3o-sample-pdf.acsm?id=IRByDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IRByDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Portanto, partindo da análise do título do livro de Olavo de Carvalho intitulado “\u003cb\u003eO\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eimbecil Coletivo\u003c/b\u003e – atualidades inculturais brasileiras”, que pressupõe a \u003cbr\u003e\nafirmação da sentença “O conjunto de todos os indivíduos do Brasil é um imbecil\u003cbr\u003e\n”,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PVInDwAAQBAJ",
+   "etag": "hBQqDAO1K5k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PVInDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Porque Não Eles?",
+    "subtitle": "Arte entre os deficientes",
+    "authors": [
+     "João V G de Oliveira"
+    ],
+    "publisher": "Editora Cidade Nova",
+    "publishedDate": "2015-10-13",
+    "description": "Arte entre os deficientes. Mais que um livro sobre a relação entre a arte e os deficientes, é um ensaio sobre a condição humana e sua insaciável busca de beleza. Trata das contradições e polêmicas com que o tema é enfrentado pela sociedade; fala também da arte, expressão tão humana e tão difícil de ser definida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578211202"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8578211200"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PVInDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PVInDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PVInDwAAQBAJ&pg=PT186&dq=O+imbecil+coletivo&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PVInDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PVInDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PVInDwAAQBAJ&rdid=book-PVInDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.4E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.4E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Porque_N%C3%A3o_Eles-sample-epub.acsm?id=PVInDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Porque_N%C3%A3o_Eles-sample-pdf.acsm?id=PVInDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PVInDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In: \u003cb\u003eO imbecil coletivo\u003c/b\u003e: Atualidades inculturais brasileiras. Rio de Janeiro: \u003cbr\u003e\nFaculdade da Cidade/Academia Brasileira de Filosofia. —, 1998. Verdade sem \u003cbr\u003e\ndono. In: \u003cb\u003eO imbecil coletivo\u003c/b\u003e II. Rio de Janeiro : Topbooks. CASSIRER, Ernst, 1994\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7LBxDwAAQBAJ",
+   "etag": "LsLZNqqakeY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7LBxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Lições Das Missas De Paulo Vi",
+    "authors": [
+     "Antônio"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Católico leigo faz comentários sobre as tentativas de modificação da Doutrina de Sempre da Igreja Católica Apostólica Romana depois do Concílio Vaticano II. As amostras das idéias modernas pós-Vaticano II ele colhe de folhetos distribuídos nas Missas, sobretudo o folheto O DOMINGO - Semanário Litúrgico Catequético, editado pela Pia Sociedade de São Paulo e quase onipresente nas paróquias do Brasil.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU15719"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 189,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.10.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7LBxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7LBxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7LBxDwAAQBAJ&pg=PA5&dq=O+imbecil+coletivo&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7LBxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7LBxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.84,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7LBxDwAAQBAJ&rdid=book-7LBxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.484E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Li%C3%A7%C3%B5es_Das_Missas_De_Paulo_Vi-sample-pdf.acsm?id=7LBxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7LBxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alguém observou que meus comentários tinham similaridades com “\u003cb\u003eO Imbecil\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eColetivo\u003c/b\u003e” de Olavo de Carvalho e que eu devia intitulá-los de \u003cb\u003eO Imbecil Coletivo\u003c/b\u003e \u003cbr\u003e\nCatólico. A observação talvez proceda, uma vez que, como Olavo, eu tomo como\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3D1nDwAAQBAJ",
+   "etag": "MGvCC8X4ADc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3D1nDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sinopses v. 26 - Tutela de Interesses Difusos e coletivos - 9ed",
+    "authors": [
+     "Marcus Vinicius Rios Gonçalves"
+    ],
+    "publisher": "Saraiva Educação S.A.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788502622609"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8502622609"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3D1nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3D1nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3D1nDwAAQBAJ&printsec=frontcover&dq=O+imbecil+coletivo&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3D1nDwAAQBAJ&dq=O+imbecil+coletivo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sinopses_v_26_Tutela_de_Interesses_Difus.html?hl=&id=3D1nDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Sinopses_v_26_Tutela_de_Interesses_Difus-sample-epub.acsm?id=3D1nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3D1nDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nrgTAQAAIAAJ",
+   "etag": "fmGjeVc5NmM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nrgTAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Longa marcha da vaca para o brejo",
+    "authors": [
+     "Olavo de Carvalho"
+    ],
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105021298216"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 345,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nrgTAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nrgTAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=nrgTAQAAIAAJ&q=O+imbecil+coletivo&dq=O+imbecil+coletivo&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=nrgTAQAAIAAJ&dq=O+imbecil+coletivo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Longa_marcha_da_vaca_para_o_brejo.html?hl=&id=nrgTAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nrgTAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "aY5xPgAACAAJ",
+   "etag": "5DpJhujjS6k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aY5xPgAACAAJ",
+   "volumeInfo": {
+    "title": "Como vencer um debate sem precisar ter razão",
+    "subtitle": "em 38 estratagemas : dialética erística",
+    "authors": [
+     "Arthur Schopehauer"
+    ],
+    "publishedDate": "2003",
+    "description": "Arthur Schopenhauer (1788-1860) deixou inconcluso este livro breve e perturbador com que desmascara os esquemas da argumentação maliciosa e falsa. Por mais de um século a 'Dialética Erística' ficou praticamente ignorada, até que o renascimento dos estudos sobre retórica e persuasão viesse tirá-la do esquecimento, mostrando seu potencial explosivo. Nesta edição, o texto é enriquecido por extensos comentários e acréscimos do filósofo brasileiro Olavo de Carvalho, que seu 'O imbecil coletivo' consagrou como um expert no desmascaramento da pseudo-argumentação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0000043664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780000043665"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aY5xPgAACAAJ&dq=O+imbecil+coletivo&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aY5xPgAACAAJ&dq=O+imbecil+coletivo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Como_vencer_um_debate_sem_precisar_ter_r.html?hl=&id=aY5xPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aY5xPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Arthur Schopenhauer (1788-1860) deixou inconcluso este livro breve e perturbador com que desmascara os esquemas da argumentação maliciosa e falsa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "L84jAQAAIAAJ",
+   "etag": "sfgGsoUPbIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L84jAQAAIAAJ",
+   "volumeInfo": {
+    "title": "O futuro do pensamento brasileiro",
+    "subtitle": "estudos sobre o nosso lugar no mundo",
+    "authors": [
+     "Olavo de Carvalho"
+    ],
+    "publishedDate": "2007",
+    "description": "Este livro divide-se em duas partes independentes. A primeira reproduz na íntegra, levemente corrigido, o texto 'O pensamento brasileiro no futuro - Um apelo à responsabilidade histórica', que saiu originariamente como capítulo da obra coletiva concebida pelo senador José Sarney e executada sob a direção de Joaquim Campelo Marques, Rosana Bittar e Pedro Braga dos Santos, 'O livro da profecia - O Brasil no terceiro milênio'. A obra, assinada por oitenta intelectuais brasileiros, mostrava os horizontes do futuro nacional que cada um enxergava desde seu respectivo domínio - economia, música, teatro, esporte, etc. A segunda parte do livro é como que prestação de contas de uma viagem de duas semanas a Paris e Bucareste sob os auspícios da Embaixada Brasileira na Romênia e da Faculdade da Cidade. Traz o artigo escrito pelo autor para O Globo sobre a comunicação que ia apresentar na Unesco, em Paris, mais o texto dessa comunicação, traduzido, e a transcrição de uma conferência feita na Casa de América Latina, em Bucareste. Na variedade das suas formas, determinada pelas circunstâncias que ocasionaram a produção destes escritos, as duas seções são consagradas a um mesmo tema - o lugar do Brasil na história espiritual do mundo, particularmente nesta etapa de sua vida.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105210618018"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 284,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=L84jAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=L84jAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=L84jAQAAIAAJ&q=O+imbecil+coletivo&dq=O+imbecil+coletivo&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=L84jAQAAIAAJ&dq=O+imbecil+coletivo&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_futuro_do_pensamento_brasileiro.html?hl=&id=L84jAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=L84jAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A primeira reproduz na íntegra, levemente corrigido, o texto &#39;O pensamento brasileiro no futuro - Um apelo à responsabilidade histórica&#39;, que saiu originariamente como capítulo da obra coletiva concebida pelo senador José Sarney e ..."
+   }
+  }
+ ]
+}

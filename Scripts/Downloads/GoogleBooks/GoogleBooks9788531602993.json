@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2oH-grMiNF8C",
+   "etag": "ziqcdELwTGM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2oH-grMiNF8C",
+   "volumeInfo": {
+    "title": "Poder Do Pensamento Positivo, O",
+    "authors": [
+     "Norman Vincent Peale"
+    ],
+    "publisher": "Editora Cultrix",
+    "publishedDate": "197?",
+    "description": "Neste livro, o autor Norman Vincent Peale ensina um sistema de vida baseado numa técnica espiritual simples e clara, que pode ser resumida numa única frase - todos poderão levar uma vida feliz e gratificante. Se você ler este livro observando os seus ensinamentos e se praticar os princípios e fórmulas nele expostos, irá experimentar uma modificação em si mesmo. Suas relações com as outras pessoas serão melhores e você terá uma nova e agradável sensação de bem-estar.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531602998"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531602993"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 263,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 6,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2oH-grMiNF8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2oH-grMiNF8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2oH-grMiNF8C&printsec=frontcover&dq=isbn:9788531602993&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2oH-grMiNF8C&dq=isbn:9788531602993&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Poder_Do_Pensamento_Positivo_O.html?hl=&id=2oH-grMiNF8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Poder_Do_Pensamento_Positivo_O-sample-pdf.acsm?id=2oH-grMiNF8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2oH-grMiNF8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, o autor Norman Vincent Peale ensina um sistema de vida baseado numa técnica espiritual simples e clara, que pode ser resumida numa única frase - todos poderão levar uma vida feliz e gratificante."
+   }
+  }
+ ]
+}

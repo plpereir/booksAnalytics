@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sHRcvgAACAAJ",
+   "etag": "cj9krVog7Bc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sHRcvgAACAAJ",
+   "volumeInfo": {
+    "title": "PRINCESA DAS AGUAS",
+    "authors": [
+     "PAULA PIMENTA"
+    ],
+    "description": "Uma releitura da história da Pequena Sereia, com a marca de Paula Pimenta, uma das mais importantes autoras brasileiras da atualidade Arielle Botrel é uma nadadora famosa, prestes a viver o maior desafio de sua vida - participar das Olimpíadas pela primeira vez. Porém, ao contrário do que todos pensam, ela não possui tudo que deseja. Por ser a filha caçula de uma grande família, a garota é muito protegida e, apesar das medalhas e dos troféus, sonha com uma vida diferente, onde possa ser livre. Até que um dia um acidente faz tudo mudar. Arielle é apresentada a um mundo diferente... E nele existe alguém que vira sua vida de cabeça para baixo. Porém, para conquistá-lo, ela terá que abrir mão de sua voz. Será que Arielle vai conseguir conquistar esse príncipe sem palavras? E se no coração dele já existir outra princesa?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501075728"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501075727"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=sHRcvgAACAAJ&dq=isbn:9788501075727&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sHRcvgAACAAJ&dq=isbn:9788501075727&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/PRINCESA_DAS_AGUAS.html?hl=&id=sHRcvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=sHRcvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma releitura da história da Pequena Sereia, com a marca de Paula Pimenta, uma das mais importantes autoras brasileiras da atualidade Arielle Botrel é uma nadadora famosa, prestes a viver o maior desafio de sua vida - participar das ..."
+   }
+  }
+ ]
+}

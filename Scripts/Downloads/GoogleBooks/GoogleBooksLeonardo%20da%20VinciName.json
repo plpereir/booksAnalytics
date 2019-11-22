@@ -1,0 +1,721 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 472,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "StszDwAAQBAJ",
+   "etag": "e8uHATar3Po",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/StszDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci",
+    "subtitle": "",
+    "authors": [
+     "Walter Isaacson"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2017-10-17",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551002582"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551002589"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 640,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=StszDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=StszDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=StszDwAAQBAJ&printsec=frontcover&dq=Leonardo+da+Vinci&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=StszDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-StszDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=StszDwAAQBAJ&rdid=book-StszDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Leonardo_da_Vinci-sample-epub.acsm?id=StszDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Leonardo_da_Vinci-sample-pdf.acsm?id=StszDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=StszDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CYj6W5a-lg8C",
+   "etag": "VCcNOubi24g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CYj6W5a-lg8C",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci",
+    "authors": [
+     "Martin Kemp"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2005",
+    "description": "Um homem que fez surpreendentes descobertas científicas, mas nunca as publicou. Um dos maiores pintores do Renascimento e, no entanto, deixou poucas obras finalizadas. Quem era afinal Leonardo da Vinci? Martin Kemp - grande especialista internacional no assunto - afasta as hipóteses mágicas e míticas, e estabelece a verdadeira base do pensamento desse gênio - o permanente diálogo entre arte e ciência, tão típico do espírito renascentista.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571108447"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571108448"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CYj6W5a-lg8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CYj6W5a-lg8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CYj6W5a-lg8C&printsec=frontcover&dq=Leonardo+da+Vinci&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=CYj6W5a-lg8C&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leonardo_da_Vinci.html?hl=&id=CYj6W5a-lg8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CYj6W5a-lg8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um homem que fez surpreendentes descobertas científicas, mas nunca as publicou. Um dos maiores pintores do Renascimento e, no entanto, deixou poucas obras finalizadas. Quem era afinal Leonardo da Vinci?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "D5bAWxJIS4kC",
+   "etag": "eTMmyrJs0Qc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/D5bAWxJIS4kC",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci",
+    "authors": [
+     "Sophie Chauveau"
+    ],
+    "publisher": "L&PM",
+    "publishedDate": "2010-07-06",
+    "description": "Gênio visionário, sedutor inveterado e de espírito mordaz, Leonardo da Vinci (1452-1519) quis compreender o mundo como um todo. Da física à botânica, da geologia à anatomia, passando pela astronomia, música, matemática, arquitetura, escultura, desenho, pintura: nada escapou à sua insaciável curiosidade. De todos esses interesses, porém, restaram cerca de doze quadros, dois afrescos, inúmeras obras inacabadas, nenhuma composição ou instrumento musical e milhares de páginas de anotações pessoais, os famosos Cadernos. Há cinco séculos o que se tem são apenas mistérios, encabeçados pelas dúvidas que cercam as grandes obras de Da Vinci, como a Mona Lisa e a Última ceia. O maior de todos os enigmas, porém, continua sendo sua própria vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788525426406"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8525426407"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.29.31.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=D5bAWxJIS4kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=D5bAWxJIS4kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=D5bAWxJIS4kC&printsec=frontcover&dq=Leonardo+da+Vinci&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=D5bAWxJIS4kC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-D5bAWxJIS4kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 17.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=D5bAWxJIS4kC&rdid=book-D5bAWxJIS4kC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.7E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Leonardo_da_Vinci-sample-epub.acsm?id=D5bAWxJIS4kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Leonardo_da_Vinci-sample-pdf.acsm?id=D5bAWxJIS4kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=D5bAWxJIS4kC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gênio visionário, sedutor inveterado e de espírito mordaz, Leonardo da Vinci (1452-1519) quis compreender o mundo como um todo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4SFWYA7JVDMC",
+   "etag": "zKuoHFu8LkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4SFWYA7JVDMC",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci para Crianças",
+    "publisher": "Zahar",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571106703"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571106703"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4SFWYA7JVDMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4SFWYA7JVDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4SFWYA7JVDMC&printsec=frontcover&dq=Leonardo+da+Vinci&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4SFWYA7JVDMC&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leonardo_da_Vinci_para_Crian%C3%A7as.html?hl=&id=4SFWYA7JVDMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4SFWYA7JVDMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cientista, artista, engenheiro, botânico."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fOtLMQAACAAJ",
+   "etag": "vOteU49Bsak",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fOtLMQAACAAJ",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci",
+    "subtitle": "o homem da Renascença",
+    "authors": [
+     "Filho Adonias"
+    ],
+    "publishedDate": "1982*",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:817741727"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=fOtLMQAACAAJ&dq=Leonardo+da+Vinci&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=fOtLMQAACAAJ&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leonardo_da_Vinci.html?hl=&id=fOtLMQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fOtLMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A vida de Leonardo da Vinci é um dos pontos altos da História da Humanidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "am_u5gK-JBsC",
+   "etag": "c7gWblGizDs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/am_u5gK-JBsC",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci",
+    "authors": [
+     "KENNETH CLARK"
+    ],
+    "publisher": "Ediouro Publicações",
+    "publishedDate": "2003",
+    "description": "Escrito por Kenneth Clark, este livro mostra ao leitor os aspectos do desenvolvimento artístico do grandioso Leonardo da Vinci. Ricamente ilustrado, apresenta uma lista contendo todas as ilustrações utilizadas, introdução e notas atualizadas feitas por Martin Kemp, professor de História da Arte da Universidade de Oxford, cronologia e índice remissivo, o que torna a obra mais completa e, portanto, mais atraente para o público.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8500016426"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788500016424"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=am_u5gK-JBsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=am_u5gK-JBsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=am_u5gK-JBsC&dq=Leonardo+da+Vinci&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=am_u5gK-JBsC&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leonardo_da_Vinci.html?hl=&id=am_u5gK-JBsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=am_u5gK-JBsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Publicado pela primeira vez em 1939, &#39;Leonardo da Vinci&#39;, de Kenneth Clark, é ricamente ilustrado e habilmente redigido, introduzindo ao leitor a vida e a obra do mestre da Renascença Leonardo Da Vinci."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GZfleAcn0fQC",
+   "etag": "AHweXWqf3Mk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GZfleAcn0fQC",
+   "volumeInfo": {
+    "title": "Introdução ao método de Leonardo da Vinci",
+    "authors": [
+     "Valéry, Paul"
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "1998",
+    "description": "Uma reflexão intelectual na qual Valéry atribui a Leonardo a inauguração da chamada 'lógica imaginativa'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573261013"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573261011"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 253,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GZfleAcn0fQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GZfleAcn0fQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=GZfleAcn0fQC&printsec=frontcover&dq=Leonardo+da+Vinci&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GZfleAcn0fQC&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introdu%C3%A7%C3%A3o_ao_m%C3%A9todo_de_Leonardo_da_V.html?hl=&id=GZfleAcn0fQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GZfleAcn0fQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma reflexão intelectual na qual Valéry atribui a Leonardo a inauguração da chamada &quot;lógica imaginativa&quot;."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HwFFgJGCx3sC",
+   "etag": "7FEtknn8BqQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HwFFgJGCx3sC",
+   "volumeInfo": {
+    "title": "Fabulas E Alegorias",
+    "authors": [
+     "LEONARDO DA VINCI",
+     "MONTALVO MACHADO",
+     "BRUNO BERLENDIS DE CARVALHO"
+    ],
+    "publisher": "Berlendis Editores",
+    "description": "'Fábulas e alegorias' reúne a prosa narrativa de Leonardo da Vinci, numa tradução criteriosa. O título inclui uma série de desenhos do próprio artista, uma biografia e um posfácio que localiza os escritos de Leonardo no contexto geral da história da fábul",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577230228"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577230228"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HwFFgJGCx3sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HwFFgJGCx3sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HwFFgJGCx3sC&printsec=frontcover&dq=Leonardo+da+Vinci&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HwFFgJGCx3sC&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fabulas_E_Alegorias.html?hl=&id=HwFFgJGCx3sC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HwFFgJGCx3sC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Fábulas e alegorias&#39; reúne a prosa narrativa de Leonardo da Vinci, numa tradução criteriosa."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6vxcAAAAMAAJ",
+   "etag": "gqSq9mHg+Fg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6vxcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Símbolos e mitos na pintura de Leonardo da Vinci",
+    "publishedDate": "1969",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173023454158"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6vxcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6vxcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6vxcAAAAMAAJ&q=Leonardo+da+Vinci&dq=Leonardo+da+Vinci&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6vxcAAAAMAAJ&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/S%C3%ADmbolos_e_mitos_na_pintura_de_Leonardo.html?hl=&id=6vxcAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6vxcAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IzdmdHXPQHEC",
+   "etag": "m+rwbKUPOZQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IzdmdHXPQHEC",
+   "volumeInfo": {
+    "title": "Leonardo da Vinci, coleção Artistas Famosos",
+    "authors": [
+     "Antony Mason"
+    ],
+    "publisher": "Callis Editora Ltd",
+    "publishedDate": "2000",
+    "description": "Série de livros que apresenta ao jovem leitor os pintores e escultores mais famosos do mundo. Cada livro abrange a carreira de um artista, enfocando seus trabalhos mais famosos e a interferência provocada pela História Mundial em sua carreira. Informações e atividades propostas de forma simples e criativa possibilitam ao leitor conhecer e experimentar algumas das técnicas utilizadas por cada artista.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857416111X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574161112"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IzdmdHXPQHEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IzdmdHXPQHEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IzdmdHXPQHEC&dq=Leonardo+da+Vinci&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IzdmdHXPQHEC&dq=Leonardo+da+Vinci&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Leonardo_da_Vinci_cole%C3%A7%C3%A3o_Artistas_Fam.html?hl=&id=IzdmdHXPQHEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IzdmdHXPQHEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Série de livros que apresenta ao jovem leitor os pintores e escultores mais famosos do mundo."
+   }
+  }
+ ]
+}

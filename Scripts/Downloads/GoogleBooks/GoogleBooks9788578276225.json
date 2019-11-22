@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "p1fRNAEACAAJ",
+   "etag": "jJQnZPamH+k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/p1fRNAEACAAJ",
+   "volumeInfo": {
+    "title": "HOBBIT, O - CAPA DO FILME",
+    "authors": [
+     "J. R. R. TOLKIEN",
+     "ALMIRO PISETTA",
+     "LENITA MARIA RIMOLI ESTEVES"
+    ],
+    "publishedDate": "2012-12-12",
+    "description": "Bilbo Bolseiro é um hobbit que leva uma vida confortável e sem ambições, raramente aventurando-se para além de sua despensa ou sua adega. Mas seu contentamento é perturbado quando Gandalf, o mago, e uma companhia de anões batem em sua porta e levam-no para uma expedição.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578276221"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578276225"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=p1fRNAEACAAJ&dq=isbn:9788578276225&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=p1fRNAEACAAJ&dq=isbn:9788578276225&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/HOBBIT_O_CAPA_DO_FILME.html?hl=&id=p1fRNAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=p1fRNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os hobbits são seres muito pequenos, menores do que os anões."
+   }
+  }
+ ]
+}

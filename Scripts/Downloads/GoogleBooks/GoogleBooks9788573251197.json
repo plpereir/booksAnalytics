@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qxR87zpZLpkC",
+   "etag": "cn0Qh6AQA7I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qxR87zpZLpkC",
+   "volumeInfo": {
+    "title": "As Cinco Linguagens Do Amor",
+    "authors": [
+     "GARY CHAPMAN"
+    ],
+    "publisher": "Editora Mundo Cristão",
+    "description": "Nesta obra, o autor pretende apresentar como é possível expressar um compromisso de amor, demonstrando que as pessoas expressam e recebem manifestações de diferentes maneiras, que ele denomina 'linguagens do amor'. São elas - Qualidade de tempo, Palavras de Afirmação, Receber Presentes, Formas de Servir e Toque Físico.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573251190"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573251197"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qxR87zpZLpkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qxR87zpZLpkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qxR87zpZLpkC&dq=isbn:9788573251197&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qxR87zpZLpkC&dq=isbn:9788573251197&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/As_Cinco_Linguagens_Do_Amor.html?hl=&id=qxR87zpZLpkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qxR87zpZLpkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, o autor pretende apresentar como é possível expressar um compromisso de amor, demonstrando que as pessoas expressam e recebem manifestações de diferentes maneiras, que ele denomina &#39;linguagens do amor&#39;."
+   }
+  }
+ ]
+}

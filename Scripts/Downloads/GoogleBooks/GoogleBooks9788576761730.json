@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aky6PwAACAAJ",
+   "etag": "ENf8sn5kUog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aky6PwAACAAJ",
+   "volumeInfo": {
+    "title": "Querido diário otário",
+    "subtitle": "é melhor fingir que isto nunca aconteceu",
+    "authors": [
+     "Jim Benton"
+    ],
+    "publishedDate": "2009",
+    "description": "Neste primeiro livro da série 'Querido Diário Otário', Jamie Kelly consegue, por meio de estratégias mirabolantes, ler a ficha disciplinar da sua maior inimiga, a linda e loira Angelina. Mas a ficha acaba sumindo! Quem será o culpado? Fedido, o beagle vingativo, ou o priminho Dudu?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576761734"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576761730"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 98,
+    "printType": "BOOK",
+    "categories": [
+     "Diaries"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 16,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aky6PwAACAAJ&dq=isbn:9788576761730&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aky6PwAACAAJ&dq=isbn:9788576761730&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Querido_di%C3%A1rio_ot%C3%A1rio.html?hl=&id=aky6PwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aky6PwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste primeiro livro da série &#39;Querido Diário Otário&#39;, Jamie Kelly consegue, por meio de estratégias mirabolantes, ler a ficha disciplinar da sua maior inimiga, a linda e loira Angelina."
+   }
+  }
+ ]
+}

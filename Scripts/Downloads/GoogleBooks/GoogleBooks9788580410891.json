@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AJjdtAEACAAJ",
+   "etag": "yEnGvnbDgHY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AJjdtAEACAAJ",
+   "volumeInfo": {
+    "title": "Inverno Do Mundo",
+    "authors": [
+     "Ken Follett",
+     "Fernanda Abreu"
+    ],
+    "description": "As cinco famílias - americana, alemã, russa, inglesa e galesa - que tiveram seus destinos entrelaçados no alvorecer do século XX embarcam agora no turbilhão social, político e econômico que começa com a ascensão do Terceiro Reich. A nova geração terá de enfrentar o drama da Guerra Civil Espanhola e da Segunda Guerra Mundial, culminando com a explosão das bombas atômicas. A vida de Carla von Ulrich, filha de pai alemão e mãe inglesa, sofre uma reviravolta com a subida dos nazistas ao poder, o que a leva a cometer um ato de extrema coragem. Woody e Chuck Dewar, dois irmãos americanos, cada qual com seu segredo, seguem caminhos distintos que levam a eventos decisivos - um em Washington, o outro nas selvas sangrentas do Pacífico. Em meio ao horror da Guerra Civil Espanhola, o universitário inglês Lloyd Williams descobre que tanto o comunismo quanto o fascismo têm de ser combatidos com o mesmo fervor. A jovem e ambiciosa americana Daisy Peshkov só se preocupa com status e popularidade até a guerra transformar sua vida mais de uma vez. Enquanto isso, na URSS, seu primo Volodya consegue um cargo na inteligência do Exército Vermelho que irá afetar não apenas o conflito em curso, como também o que está por vir.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580410894"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580410891"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 880,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AJjdtAEACAAJ&dq=isbn:9788580410891&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AJjdtAEACAAJ&dq=isbn:9788580410891&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Inverno_Do_Mundo.html?hl=&id=AJjdtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AJjdtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em Inverno do mundo, como em outras obras de Ken Follett, a ficção se mistura à realidade, e figuras históricas, como Hitler, Goebbels, Oppenheimer e Stalin, se mesclam aos personagens cuja vida e morte estão nas mãos do autor."
+   }
+  }
+ ]
+}

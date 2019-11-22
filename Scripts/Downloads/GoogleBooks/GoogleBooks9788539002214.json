@@ -1,0 +1,129 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "flgh2q6K_Q4C",
+   "etag": "9cXrPfc/dhU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/flgh2q6K_Q4C",
+   "volumeInfo": {
+    "title": "INQUISIÇAO - O REINADO DO MEDO",
+    "authors": [
+     "TOBY GREEN",
+     "CRISTINA CAVALCANTI"
+    ],
+    "publisher": "Editora Objetiva",
+    "description": "Esta obra procura abordar a perseguição religiosa institucionalizada por Espanha e Portugal em seus domínios. Durante quatro anos, o autor vasculhou alguns centros de memória e pesquisa - entre os quais os arquivos Secreto do Vaticano, o Geral das Índias e o Histórico Nacional, em Madri, as bibliotecas Britânica e a da Ajuda, em Lisboa, além do Museu do Prado. Ao proporcionar uma leitura dos eventos e relatos estudados, Green remete-se a Freud ao apontar a neurose, a repressão e as distorções de sexualidade como algumas das difererentes causas das mortes e dos tormentos sofridos em nome da fé e de Deus.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539002213"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539002214"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 480,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=flgh2q6K_Q4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=flgh2q6K_Q4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=flgh2q6K_Q4C&dq=isbn:9788539002214&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=flgh2q6K_Q4C&dq=isbn:9788539002214&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/INQUISI%C3%87AO_O_REINADO_DO_MEDO.html?hl=&id=flgh2q6K_Q4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=flgh2q6K_Q4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Inquisição foi, por trezentos anos, a mais eficiente máquina burocrática de repressão do mundo que assombrou o imaginário coletivo com base na pedagogia do medo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KPi3wAEACAAJ",
+   "etag": "jMEFctsPhj0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KPi3wAEACAAJ",
+   "volumeInfo": {
+    "title": "A inquisição",
+    "publishedDate": "19??",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:491384917"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KPi3wAEACAAJ&dq=isbn:9788539002214&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KPi3wAEACAAJ&dq=isbn:9788539002214&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_inquisi%C3%A7%C3%A3o.html?hl=&id=KPi3wAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KPi3wAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Inquisição: O Reinado do Medo é um trabalho de fôlego do jornalista e professor Toby Green sobre a perseguição religiosa institucionalizada por Espanha e Portugal em seus domínios, desses que se tornam referência para os ..."
+   }
+  }
+ ]
+}

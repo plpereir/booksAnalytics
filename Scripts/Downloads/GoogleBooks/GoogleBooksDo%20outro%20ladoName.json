@@ -1,0 +1,842 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 432,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ncc7WLAXlmQC",
+   "etag": "rT3VKWiDOaM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ncc7WLAXlmQC",
+   "volumeInfo": {
+    "title": "Do outro lado do Atlântico",
+    "subtitle": "um século de imigração italiana no Brasil",
+    "authors": [
+     "Angelo Trento"
+    ],
+    "publisher": "Studio Nobel",
+    "publishedDate": "1989-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852130563X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788521305637"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 574,
+    "printType": "BOOK",
+    "categories": [
+     "Alien labor, Italian"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ncc7WLAXlmQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ncc7WLAXlmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ncc7WLAXlmQC&printsec=frontcover&dq=Do+outro+lado&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ncc7WLAXlmQC&dq=Do+outro+lado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Do_outro_lado_do_Atl%C3%A2ntico.html?hl=&id=ncc7WLAXlmQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ncc7WLAXlmQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5yFyDwAAQBAJ",
+   "etag": "FEuFYEDZvSc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5yFyDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Do Outro Lado",
+    "authors": [
+     "Vanessa"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Qual o outro lado da história? O outro lado da moeda? Estamos aqui para aprender não é mesmo? Este livro é um romance, fala do amor, amizade, trabalho, adolescência...Uma obra que inclusive pode servir como autoajuda para você.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU30853"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 52,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.11.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5yFyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5yFyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5yFyDwAAQBAJ&printsec=frontcover&dq=Do+outro+lado&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5yFyDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5yFyDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5yFyDwAAQBAJ&rdid=book-5yFyDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_Outro_Lado-sample-pdf.acsm?id=5yFyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5yFyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Qual o outro lado da história? O outro lado da moeda? Estamos aqui para aprender não é mesmo? Este livro é um romance, fala do amor, amizade, trabalho, adolescência...Uma obra que inclusive pode servir como autoajuda para você."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IPJ36Rwp6N0C",
+   "etag": "fyxa6aWgqTw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IPJ36Rwp6N0C",
+   "volumeInfo": {
+    "title": "O Que Encontrei Do Outro Lado Da Vida",
+    "authors": [
+     "VERA LUCIA MARINZECK DE CARVALHO"
+    ],
+    "publisher": "Petit Editora e Distribuidor",
+    "description": "Conheça a experiência de 16 espíritos, cada um contando sua história, à sua maneira. Saiba em que situações desencarnaram e quais foram as surpresas encontradas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8572530886"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788572530880"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IPJ36Rwp6N0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IPJ36Rwp6N0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IPJ36Rwp6N0C&pg=PA4&dq=Do+outro+lado&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IPJ36Rwp6N0C&dq=Do+outro+lado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Que_Encontrei_Do_Outro_Lado_Da_Vida.html?hl=&id=IPJ36Rwp6N0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IPJ36Rwp6N0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... a Penal • O Que Encontrei \u003cb\u003edo Outro Lado\u003c/b\u003e da Vida • Deficiente Mental: Por Que \u003cbr\u003e\nFui Um? • Morri! E Agora? • Ah, Se Eu Pudesse Voltar no Tempo! Livros em \u003cbr\u003e\noutros idiomas • Violeis on the Window • Violetas en la Ventaria • Violo] sur \u003cbr\u003e\nFenestro&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iE7dyjX_BlAC",
+   "etag": "khSIm8lWLEQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iE7dyjX_BlAC",
+   "volumeInfo": {
+    "title": "Do outro lado do riacho",
+    "subtitle": "a história da cardiologia no Rio Grande do Sul",
+    "publisher": "Editora AGE Ltda",
+    "publishedDate": "2001",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574970727"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574970721"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 140,
+    "printType": "BOOK",
+    "categories": [
+     "Rio Grande do Sul (Brazil : State)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iE7dyjX_BlAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iE7dyjX_BlAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iE7dyjX_BlAC&pg=PA19&dq=Do+outro+lado&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iE7dyjX_BlAC&dq=Do+outro+lado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Do_outro_lado_do_riacho.html?hl=&id=iE7dyjX_BlAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iE7dyjX_BlAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... João Heeman, Saulo Salles Bevilacqua, Arnaldo Nicola Ferrari, Zaluar \u003cbr\u003e\nTomazzi Campos, José Marques Conceição, Paulo de Koch Bado e Osvaldo \u003cbr\u003e\nTeixeira. Foto 4 B - Turma de plantonistas em serviço: lnternos,. \u003cb\u003eDo outro Lado\u003c/b\u003e \u003cbr\u003e\ndo Riacho&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8uNmDwAAQBAJ",
+   "etag": "KJi5Xjp+f08",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8uNmDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Do outro lado",
+    "subtitle": "A história de Joel",
+    "authors": [
+     "Álvaro Pereira Silva"
+    ],
+    "publisher": "Editora Viseu LTDA - ME",
+    "publishedDate": "2018-07-23",
+    "description": "Joel convoca o destino para um último duelo. Um homem depressivo e enfadado com a própria sorte, se rende a ideia do suicídio. Mas antes, embalado pela sua mania, ele se põe a transcrever toda sua vida, num ato de desabafo e confissão. A cada passagem ele se convence mais, de que a sorte de um final feliz não cabe a um sujeito como ele, portanto, está cônscio de que a decisão lhe é um ato sensato.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554545413"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554545419"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8uNmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8uNmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8uNmDwAAQBAJ&printsec=frontcover&dq=Do+outro+lado&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8uNmDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8uNmDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8uNmDwAAQBAJ&rdid=book-8uNmDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado-sample-epub.acsm?id=8uNmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado-sample-pdf.acsm?id=8uNmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8uNmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Joel convoca o destino para um último duelo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RjItDwAAQBAJ",
+   "etag": "ZKCl3srr4GM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RjItDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Do outro lado",
+    "authors": [
+     "Carrie Hope Fletcher"
+    ],
+    "publisher": "Editora Rocco",
+    "publishedDate": "2017-08-07",
+    "description": "Sua alma está pesada demais para cruzar esta porta. Deixe o peso no mundo de outrora. Evie Snow tem 82 anos quando parte calmamente desta vida durante o sono, cercada pelos filhos e netos. Esta é a forma como a maioria de nós deseja partir, mas quando ela chega ao seu céu particular, descobre que voltou aos 27 anos e não consegue abrir a porta para entrar. A alma de Evie precisa estar leve o suficiente para que possa fazer a travessia, então ela deve se livrar de tudo que a esteja tornando pesada. Isto significa enfrentar seus três maiores segredos, carregados por mais de cinquenta anos feito um fardo, e buscar uma maneira de revelá-los antes que seja tarde demais. Ao dar início à jornada mais importante de sua vida, Evie aprende mais sobre a existência e o amor do que imaginava ser possível e, de alguma maneira, poderá também retomar sua verdadeira e secreta história de amor... Poderoso, mágico e profundamente romântico, Do outro lado transportará o leitor para um mundo impossível de ser esquecido. Esta é uma história de amor como nunca existiu, cuja beleza e alegria trarão lágrimas aos olhos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595170254"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8595170258"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.15.14.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RjItDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RjItDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RjItDwAAQBAJ&printsec=frontcover&dq=Do+outro+lado&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=RjItDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-RjItDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.02,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=RjItDwAAQBAJ&rdid=book-RjItDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.95E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.802E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado-sample-epub.acsm?id=RjItDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado-sample-pdf.acsm?id=RjItDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RjItDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Poderoso, mágico e profundamente romântico, Do outro lado transportará o leitor para um mundo impossível de ser esquecido. Esta é uma história de amor como nunca existiu, cuja beleza e alegria trarão lágrimas aos olhos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xbpRBAAAQBAJ",
+   "etag": "ehYBfJyInd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xbpRBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Do outro lado",
+    "subtitle": "A história do sobrenatural e do espiritismo",
+    "authors": [
+     "Mary Del Priore"
+    ],
+    "publisher": "Editora Planeta do Brasil",
+    "publishedDate": "2014-08-20",
+    "description": "Embarque na fascinante história do sobrenatural e do espiritismo. Autora best-seller mais de 200 mil livros vendidos. Recheada de histórias saborosas e casos pitorescos, a obra é narrada por uma das maiores historiadoras do país, permitindo ao leitor conhecer melhor nosso passado, nosso presente e nossa relação tão especial com o \"além\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542204094"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542204093"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.23.25.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xbpRBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xbpRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xbpRBAAAQBAJ&printsec=frontcover&dq=Do+outro+lado&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xbpRBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xbpRBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 23.66,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xbpRBAAAQBAJ&rdid=book-xbpRBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.366E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado-sample-epub.acsm?id=xbpRBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado-sample-pdf.acsm?id=xbpRBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xbpRBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Embarque na fascinante história do sobrenatural e do espiritismo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DO97DwAAQBAJ",
+   "etag": "OFENGEeKLZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DO97DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Do Outro Lado Do Universo",
+    "authors": [
+     "Josué Veríssimo"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "Cientistas preparados para procurar um planeta habitável, saindo da Terra na nave mais evoluída construída até hoje por mãos humanas. Só não imaginavam que seria tão complicado quanto parecia fácil. Com tudo quase certo, viram-se em sérios apuros dentro durante a missão, perdidos no espaço, tendo que protegerem a própria vida e a dos outros tripulantes de seres tão ruins quanto evoluídos. Embarque nessa missão e tente retor... permanecer vivo.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU7266"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 468,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.39.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DO97DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DO97DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DO97DwAAQBAJ&printsec=frontcover&dq=Do+outro+lado&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DO97DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DO97DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DO97DwAAQBAJ&rdid=book-DO97DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_Outro_Lado_Do_Universo-sample-pdf.acsm?id=DO97DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DO97DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Cientistas preparados para procurar um planeta habitável, saindo da Terra na nave mais evoluída construída até hoje por mãos humanas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PuhoDwAAQBAJ",
+   "etag": "Vv9lY6m1WT0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PuhoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Do outro lado do lago",
+    "authors": [
+     "Izabel Alves Macedo Mendes"
+    ],
+    "publisher": "Editora Viseu LTDA - ME",
+    "publishedDate": "2018-08-01",
+    "description": "Flora é uma mãe dedicada e amorosa. Leva uma vida simples com o marido, Juca, e sua maior alegria é inventar histórias e contá-las ao filho, Zezinho, antes de fazê-lo dormir. Para ele, aquelas horas são as melhores do seu dia; das histórias contadas pela mãe, o menino recria um mundo imaginário só seu. Para a criativa mãe e para o filho cheio de imaginação, os contos são muito mais que fantasia: em certos momentos, a ficção se confunde com a própria realidade. No entanto, Zezinho tem um relacionamento difícil com o pai, Juca, e fica tenso só de pensar nas tardes de caçada junto com o pai, na floresta. O menino não entende como pode ser certo caçar e comer os animais, ainda mais quando se lembra das histórias da mãe, nas quais os bichinhos têm casa, amigos e família. Em uma dessas tardes, Zezinho, assustado, foge do pai para proteger uma nova amiga, mas o que será dele agora, sozinho na floresta, longe de casa e de sua mãe? Enquanto isso, perto do Lago, a patinha Lili vive com as irmãs, Lilá e Lulu, e sua mãe, Dona Pata. A preocupada mãe sempre recomenda às filhas que não se aproximem Do Outro Lado do Lago, um lugar cheio de mistérios e temido por todos os animais da floresta. Lá, segundo a mãe, é o lar de caçadores temíveis e perigos inimagináveis. Porém, distraída e curiosa que é, em uma tarde de brincadeira, Lili se perde das irmãs e as piores preocupações de Dona Pata se tornam realidade: Lili vai parar Do Outro Lado do Lago. O que será de Lili agora, longe de casa, de sua mãe e de seu habitat natural? O que Zezinho e Lili não sabem é que seus mundos não estão tão distantes assim e seus caminhos vão se encontrar da maneira que menos esperavam. Juntos, o menino e a pequena patinha vão descobrir a aventura, o respeito à natureza e, principalmente, a amizade. Em Do Outro Lado do Lago, as histórias podem se tornar reais: basta usar a imaginação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788554542344"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8554542347"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 60,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PuhoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PuhoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=PuhoDwAAQBAJ&printsec=frontcover&dq=Do+outro+lado&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=PuhoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-PuhoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=PuhoDwAAQBAJ&rdid=book-PuhoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9900000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado_do_lago-sample-epub.acsm?id=PuhoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Do_outro_lado_do_lago-sample-pdf.acsm?id=PuhoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PuhoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Juntos, o menino e a pequena patinha vão descobrir a aventura, o respeito à natureza e, principalmente, a amizade. Em Do Outro Lado do Lago, as histórias podem se tornar reais: basta usar a imaginação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f3dOtAEACAAJ",
+   "etag": "VKIfQbabVtY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f3dOtAEACAAJ",
+   "volumeInfo": {
+    "title": "Do outro lado",
+    "subtitle": "programa Intergerações- Intersituações : para o conhecimento das pessoas em situação sem-abrigo em Lisboa /.",
+    "authors": [
+     "João Marrana"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9898712287"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789898712288"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 182,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f3dOtAEACAAJ&dq=Do+outro+lado&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=f3dOtAEACAAJ&dq=Do+outro+lado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Do_outro_lado.html?hl=&id=f3dOtAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f3dOtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  }
+ ]
+}

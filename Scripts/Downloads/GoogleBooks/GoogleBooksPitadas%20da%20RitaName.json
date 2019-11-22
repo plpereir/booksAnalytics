@@ -1,0 +1,854 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 164,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "AL3ttAEACAAJ",
+   "etag": "pqQu6P7eI+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AL3ttAEACAAJ",
+   "volumeInfo": {
+    "title": "Pitadas Da Rita",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "description": "Uma pitada de sal, outra de pimenta? Neste livro, uma Pitada é, acima de tudo, uma vontade de acrescentar algo especial ao momento. Pode ser na disposição da mesa, na composição do prato, uma técnica culinária que facilite o preparo da refeição. Mas não pense que Pitada é pitado, não! O conteúdo foi testado, aprovado e fotografado ao longo de quase dois anos no blog Pitadas, do site Panelinha. E também nas Pitadas da Rita na Rádio Eldorado.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539611082"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539611089"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 314,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=AL3ttAEACAAJ&dq=Pitadas+da+Rita&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AL3ttAEACAAJ&dq=Pitadas+da+Rita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pitadas_Da_Rita.html?hl=&id=AL3ttAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AL3ttAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mas não pense que Pitada é pitado, não! O conteúdo foi testado, aprovado e fotografado ao longo de quase dois anos no blog Pitadas, do site Panelinha. E também nas Pitadas da Rita na Rádio Eldorado."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4cZ-DwAAQBAJ",
+   "etag": "1oNmR2ggczM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4cZ-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cozinha prática",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Neste novo livro, Rita Lobo apresenta 60 receitas e todas as dicas, técnicas culinárias e truques de economia doméstica da temporada de b ásicos do programa Cozinha Prática, do GNT. Um curso de culinária em 13 capítulos muit o bem explicados e ilustrados. Conhece alguém que ainda foge do fogão? Essa pessoa é você? Este livro pode mudar a sua vida. #Desgourmetiza, bem!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539625277"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "853962527X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4cZ-DwAAQBAJ&printsec=frontcover&dq=Pitadas+da+Rita&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4cZ-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4cZ-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 63.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 56.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4cZ-DwAAQBAJ&rdid=book-4cZ-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.3E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.661E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_pr%C3%A1tica-sample-epub.acsm?id=4cZ-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_pr%C3%A1tica-sample-pdf.acsm?id=4cZ-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4cZ-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste novo livro, Rita Lobo apresenta 60 receitas e todas as dicas, técnicas culinárias e truques de economia doméstica da temporada de b ásicos do programa Cozinha Prática, do GNT."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "08l-DwAAQBAJ",
+   "etag": "LKHkmL25SLM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/08l-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "O que tem na geladeira?",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Como é que eu transformo a compra da feira em refeições variadas e saborosas todo santo dia? Este livro tem a resposta. Rita Lobo ensina sua fórmula de criar receitas e apresenta mais de 200 opções para variar o cardápio. Em O que tem na geladeira?, que é baseado na série de mesmo nome do canal Panelinha no YouTube, você vai descobrir que preparar comida saudável de verdade é mais simples do que parece. O livro é dividido em 30 capítulos, cada um dedicado a um alimento da abóbora ao tomate, passando pela cebola, escarola, milho, repolho, entre outros. E você vai aprender os melhores cortes, técnicas de cozimento e combinações de sabor para esses alimentos. Além das preparações com hortaliças, raízes e legumes, o livro apresenta também opções de receitas com carnes para compor o cardápio. Tem filé de pescada frita, tagine de peixe, coxa de frango assada, peito de frango grelhado, bisteca grelhada, lombo de porco, costelinha, kafta de carne, bife de contrafilé e muito mais. Nas mais de 200 receitas, bem variadas, você encontra opções de entradas, pratos principais, muitos acompanhamentos e até alguns bolos, como o de cenoura, de mandioca, de pamonha, e sobremesas, como o doce de abóbora, o curau e um incrível sorvete de cenoura indiano, o kulfi. Para Rita Lobo, cozinhar é como ler e escrever: todo mundo deveria saber. Mas ninguém nasce sabendo! Este livro vai dar uma mãozinha nesse processo de aprendizagem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539625291"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539625296"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=08l-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=08l-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=08l-DwAAQBAJ&pg=PT611&dq=Pitadas+da+Rita&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=08l-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-08l-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 58.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 58.1,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=08l-DwAAQBAJ&rdid=book-08l-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.81E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.81E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_tem_na_geladeira-sample-epub.acsm?id=08l-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_que_tem_na_geladeira-sample-pdf.acsm?id=08l-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=08l-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como autora best-seller, publicou os livros Panelinha, receitas que funcionam, \u003cbr\u003e\nCozinha de estar, \u003cb\u003ePitadas da Rita\u003c/b\u003e e Cozinha prática — este último, originado do \u003cbr\u003e\nprograma Cozinha prática com Rita Lobo, criado, apresentado e produzido por&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "48Z-DwAAQBAJ",
+   "etag": "UP+16gGFv10",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/48Z-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Cozinha de estar",
+    "subtitle": "receitas práticas para receber",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Mais do que um livro de receitas, Cozinha de estar é um guia para quem vai cozinhar para receber. Rita Lobo transforma sala e cozinha em uma coisa só, um ambiente aconchegante e espaçoso, onde cabe todo mundo e de onde ninguém quer sair! Ganhador do prêmio internacional Gourmand e finalista do prêmio Jabuti, o livro apresenta as regras tradicionais para planejar um jantar ou uma festinha em casa, e também mostra como deixar tudo mais informal. Ou não, quem escolhe é você! Mas uma coisa é certa: para receber bem, não é preciso ter pompa nem prataria. Esta edição ampliada vem com um Natal de presente: inclui um capítulo novo, com receitas e dicas para uma ceia completa, cheia de inspiração tropical. Afinal, nosso Natal é no verão e nosso verão é um forno preaquecido em temperatura máxima! Um colorido só, bem brasileiro. Divirta-se! Cozinhar é libertador.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539625253"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539625253"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 274,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=48Z-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=48Z-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=48Z-DwAAQBAJ&printsec=frontcover&dq=Pitadas+da+Rita&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=48Z-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-48Z-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 58.1,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 53.91,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=48Z-DwAAQBAJ&rdid=book-48Z-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.81E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.391E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_de_estar-sample-epub.acsm?id=48Z-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinha_de_estar-sample-pdf.acsm?id=48Z-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=48Z-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mais do que um livro de receitas, Cozinha de estar é um guia para quem vai cozinhar para receber."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5cZ-DwAAQBAJ",
+   "etag": "UrS1GJDk+nc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5cZ-DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Comida de bebê",
+    "subtitle": "uma introdução à comida de verdade",
+    "authors": [
+     "Rita Lobo"
+    ],
+    "publisher": "Senac",
+    "publishedDate": "2018-12-13",
+    "description": "Como é esperto esse seu bebê: nem fez um ano e já vai melhorar a alimentação da casa toda. Não acredita? Está tudo aqui, nas páginas de Comida de Bebê: uma introdução à comida de verdade. Com apoio de médicos e nutricionistas, Rita Lobo traz as respostas para as dúvidas mais comuns da fase de introdução alimentar e, de quebra, ainda ensina a família a comer com mais saúde, mais sabor e muito mais prazer. Venha descobrir como o pê-efe, o prato feito, essa grande instituição brasileira, vai virar o pê-efinho do bebê.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539614493"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539614499"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5cZ-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=5cZ-DwAAQBAJ&printsec=frontcover&dq=Pitadas+da+Rita&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5cZ-DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5cZ-DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 41.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 38.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5cZ-DwAAQBAJ&rdid=book-5cZ-DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.13E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.861E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Comida_de_beb%C3%AA-sample-epub.acsm?id=5cZ-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Comida_de_beb%C3%AA-sample-pdf.acsm?id=5cZ-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5cZ-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Como é esperto esse seu bebê: nem fez um ano e já vai melhorar a alimentação da casa toda. Não acredita? Está tudo aqui, nas páginas de Comida de Bebê: uma introdução à comida de verdade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Kx4mLGPSBMAC",
+   "etag": "wkIVRbj/eWI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kx4mLGPSBMAC",
+   "volumeInfo": {
+    "title": "A divina comédia dos Mutantes",
+    "authors": [
+     "Carlos Calado"
+    ],
+    "publisher": "Editora 34",
+    "publishedDate": "1996",
+    "description": "Composto a partir de dois anos de pesquisas e cerca de duzentas entrevistas, o livro do jornalista e crítico musical Carlos Calado reconstitui a trajetória da banda desde suas origens, em 1966, até sua dissolução, em 1978. O material recolhido por Calado traduz toda a irreverência e originalidade do grupo, considerado por muitos o maior fenômeno do rock brasileiro de todos os tempos. Além de contar em detalhes toda a história dos Mutantes, o livro é ilustrado com mais de cem fotografias e traz ainda a discografia completa da banda.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573260092"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573260090"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Rock music"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Kx4mLGPSBMAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Kx4mLGPSBMAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Kx4mLGPSBMAC&pg=PA11&dq=Pitadas+da+Rita&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Kx4mLGPSBMAC&dq=Pitadas+da+Rita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_divina_com%C3%A9dia_dos_Mutantes.html?hl=&id=Kx4mLGPSBMAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Kx4mLGPSBMAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Arnaldo, uma fusão de Rimbaud com Liszt e Chacrinha. Sérgio, um híbrido de \u003cbr\u003e\nPaul McCartney com Jerry Lewis, com \u003cb\u003epitadas\u003c/b\u003e de Segovia e Pernalonga. \u003cb\u003eRita\u003c/b\u003e, \u003cbr\u003e\nDa Vinci sem sair de cima, a mulher dos mil instrumentos, truques de Fada \u003cbr\u003e\nSininho&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9yJrDwAAQBAJ",
+   "etag": "TlYlpf41LrQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9yJrDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma pitada de amor",
+    "authors": [
+     "ALICIA BESSETTE"
+    ],
+    "publisher": "Editora Saraiva",
+    "publishedDate": "2017-10-06",
+    "description": "Mais de um ano após a morte do marido, Rose-Ellen, a Zell, se nega a deixar de lado o que chama de ?estilo viúva?. Ela se recusa a realizar as tarefas que eram do marido, Nick ? tirar a neve acumulada na entrada da garagem, levar o carro para a manutenção, cozinhar... Na verdade, Zell não sabe cozinhar, mas após receber por engano a revista Cozinhar é moleza, da chef celebridade Polly Pinch, e descobrir um concurso de culinária que premiará com vinte mil dólares a receita vencedora, ela decide que é hora de arriscar e, se tudo der certo, usar o dinheiro do prêmio para realizar o último desejo do marido: fazer uma doação para as vítimas do furacão Katrina, que ele estava ajudando quando perdeu a vida. Durante uma de suas tentativas de cozinhar, ela quase coloca fogo na casa e, com a chegada dos bombeiros, ela não só descobre o que havia dentro do forno ? um presente de Nick ?, como conhece seus vizinhos: Garret Knox e sua filha, Ingrid. Ingrid, uma menina a cionada por culinária ? mais precisamente por Polly ?, decide que ela e Zell devem entrar no concurso juntas. E, para desenvolver a receita que poderá lhes dar o grande prêmio, as duas esperam contar com a ajuda de EJ, o melhor amigo de Nick, e de Trudy, a ?avó emprestada? de Ingrid e professora de economia doméstica de Zell no colégio. Mas, para que seus planos deem certo, Zell precisará vencer muito mais do que o concurso: precisará abrir as portas de sua vida para que esses novos personagens entrem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582401873"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582401876"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9yJrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9yJrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9yJrDwAAQBAJ&pg=PT3&dq=Pitadas+da+Rita&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9yJrDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9yJrDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9yJrDwAAQBAJ&rdid=book-9yJrDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_pitada_de_amor-sample-epub.acsm?id=9yJrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9yJrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... das 8h30 às 19h30 www.editorasaraiva.com.br/contato Diretora editorial \u003cbr\u003e\nFlávia Alves Bravin Gerente editorial Rogério Eduardo Alves Planejamento \u003cbr\u003e\neditorial \u003cb\u003eRita\u003c/b\u003e de Cássia S. Puoço Editoras Debora Guterman Gisele Folha Mós \u003cbr\u003e\nLuiza Del&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IKfSBgAAQBAJ",
+   "etag": "sJeBmuT4DDo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IKfSBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Cozinhar Com o Coração",
+    "authors": [
+     "Rita Sambado"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2015-02-11",
+    "description": "Receitas vegetarianas para uma vida mais natural, saudável e cheia de energia. Uma das bases mais importantes numa cozinha energética é o tipo de alimentos que é usado. Ou seja, devemos não só recorrer a alimentos frescos, orgânicos, da época e da região onde habitamos, mas também a determinados alimentos que fazem toda a diferença em termos energéticos. Com Cozinhar com o Coração descubra quais os superalimentos a que pode recorrer para reforçar a sua saúde e energia, saiba quais os princípios básicos e os benefícios de comer de forma saudável e experimente um plano detox, sabendo quais os alimentos que deve escolher e utilizar.O intuito deste livro é demonstrar que é possível uma alimentação mais saudável e energética estimulando, simultaneamente, o prazer que retiramos da comida. É como se fosse uma viagem, uma aventura que cada alimento quer contar sob o formato de história.Rita Sambado cozinha desde que se conhece por gente e vê a culinária como uma forma extraordinária de expressão e libertação. Gosta de ajudar as pessoas a serem mais saudáveis, a criarem novos processos de confeção e a explorarem as suas sensações através dos alimentos. Licenciada em gestão, sentiu necessidade de se ajustar a áreas onde a criatividade e o desenvolvimento de pessoas pudessem ser fatores relevantes, e aí tem feito o seu caminho profissional, no mundo do marketing. Nos últimos anos, e fruto da prática da homeopatia e de uma alimentação de base vegetariana, enveredou pelo estudo da vertente mais nutricional e energética da alimentação, com o objetivo de ajudar as pessoas a crescerem e a serem mais saudáveis e felizes através da alimentação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789724622873"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9724622878"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IKfSBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IKfSBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IKfSBgAAQBAJ&pg=PT39&dq=Pitadas+da+Rita&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IKfSBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IKfSBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.37,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 30.75,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IKfSBgAAQBAJ&rdid=book-IKfSBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.237E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.075E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinhar_Com_o_Cora%C3%A7%C3%A3o-sample-epub.acsm?id=IKfSBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Cozinhar_Com_o_Cora%C3%A7%C3%A3o-sample-pdf.acsm?id=IKfSBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IKfSBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eRita\u003c/b\u003e Sambado ... 1 colher de sopa de sementes de girassol 1⁄2 copo de avelãs \u003cbr\u003e\nou amêndoas torradas Xarope de agave q.b. 1 \u003cb\u003epitada\u003c/b\u003e de canela 1 \u003cb\u003epitada\u003c/b\u003e de sal \u003cbr\u003e\ndos Himalaias MODO DE PREPARAÇÃO Préaqueça uma frigideira. Coloque o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "axABAAAAMAAJ",
+   "etag": "ZT3O/t/3W48",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/axABAAAAMAAJ",
+   "volumeInfo": {
+    "title": "A princesa de Boivão",
+    "subtitle": "romance",
+    "authors": [
+     "Alberto Pimentel"
+    ],
+    "publishedDate": "1919",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015062945541"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=axABAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=axABAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=axABAAAAMAAJ&q=Pitadas+da+Rita&dq=Pitadas+da+Rita&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=axABAAAAMAAJ&dq=Pitadas+da+Rita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_princesa_de_Boiv%C3%A3o.html?hl=&id=axABAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=axABAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gostariam de deprimir a \u003cb\u003eRita\u003c/b\u003e, mas fingiam acreditar o que ela dizia, para não \u003cbr\u003e\ndarem a conhecer publicamente que tambem tinham quinino no passado. E as \u003cbr\u003e\nvelhas, algumas fungando \u003cb\u003epitadas\u003c/b\u003e, diziam com refinada malícia, muito sérias e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VGctAAAAYAAJ",
+   "etag": "XfrAM3UJtGs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VGctAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Rita Lee mora ao lado",
+    "subtitle": "uma biografia alucinada da rainha do rock",
+    "authors": [
+     "Henrique Bartsch"
+    ],
+    "publisher": "Not Avail",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022560488"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VGctAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VGctAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VGctAAAAYAAJ&q=Pitadas+da+Rita&dq=Pitadas+da+Rita&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VGctAAAAYAAJ&dq=Pitadas+da+Rita&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Rita_Lee_mora_ao_lado.html?hl=&id=VGctAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VGctAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para desgosto de Diva, que jamais teria o dinheiro para uma Magdalena, \u003cbr\u003e\ncontinuei na dança, e \u003cb\u003eRita\u003c/b\u003e foi às teclas. ... não queria crescer, que queria ser \u003cbr\u003e\namiga de Sininho, e daria tudo por uma \u003cb\u003epitada\u003c/b\u003e do Pó de Pirlimpimpim, para \u003cbr\u003e\npoder voar."
+   }
+  }
+ ]
+}

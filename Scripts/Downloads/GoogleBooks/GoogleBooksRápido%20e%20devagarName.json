@@ -1,0 +1,937 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 386,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "d3FloqhQHgQC",
+   "etag": "LiMUbi5g20I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/d3FloqhQHgQC",
+   "volumeInfo": {
+    "title": "Rápido e devagar",
+    "subtitle": "Duas formas de pensar",
+    "authors": [
+     "Daniel Kahneman"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2012-08-01",
+    "description": "Uma visão inovadora sobre como nossa mente funciona e como tomamos decisões. Daniel Kahneman, ganhador do Prêmio Nobel de Economia por pesquisas que colocam em xeque a ideia de que a nossa tomada de decisões é essencialmente racional, é um dos mais importantes pensadores do século XXI. Suas ideias tiveram um impacto profundo em muitas áreas, incluindo economia, psicologia, medicina e política, mas é a primeira vez que o autor reúne seus muitos anos de pesquisa e pensamento em um único livro. Rápido e devagar: duas formas de pensar apresenta uma visão tão inovadora quanto inquietante sobre como a mente funciona e como as decisões são tomadas. No livro, o autor explica as duas formas como se desenvolvem o pensamento humano: uma é rápida, intuitiva e emocional; a outra, mais lenta, deliberativa e lógica. Kahneman expõe as capacidades extraordinárias — e também os defeitos e vícios — do pensamento rápido e revela o peso das impressões intuitivas no processo de tomada de decisões. O autor revela quando é possível ou não confiar na intuição. Oferece insights práticos e esclarecedores sobre como são tomadas as decisões nos negócios e na vida pessoal, e como se pode usar diferentes técnicas para proteger contra falhas mentais que, muitas vezes, colocam o indivíduo em situações de apuro. Eleito um dos melhores livros de 2011 pelo New York Times Book Review",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539004010"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8539004011"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 624,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.38.45.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=d3FloqhQHgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=d3FloqhQHgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=d3FloqhQHgQC&printsec=frontcover&dq=R%C3%A1pido+e+devagar&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=d3FloqhQHgQC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-d3FloqhQHgQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=d3FloqhQHgQC&rdid=book-d3FloqhQHgQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/R%C3%A1pido_e_devagar-sample-epub.acsm?id=d3FloqhQHgQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/R%C3%A1pido_e_devagar-sample-pdf.acsm?id=d3FloqhQHgQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d3FloqhQHgQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Rápido e devagar: duas formas de pensar apresenta uma visão tão inovadora quanto inquietante sobre como a mente funciona e como as decisões são tomadas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eyuDDwAAQBAJ",
+   "etag": "MIp8WRhaMKA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eyuDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Resumo Estendido De Rápido E Devagar: Duas Formas De Pensar (Thinking, Fast and Slow) - Baseado No Livro De Daniel Kahneman",
+    "authors": [
+     "Mentors Library"
+    ],
+    "publisher": "Mentors Library",
+    "publishedDate": "2019-01-27",
+    "description": "SOBRE O LIVRO ORIGINAL: \"Rápido E Devagar: Duas Formas De Pensar\" é um livro no qual se apresenta uma síntese das investigações realizadas pelo seu autor, Daniel Kahneman, que foi ganhador do Prêmio Nobel de Economia. O tema central é o modo de pensar dos seres humanos, que condiciona sua vida. A obra apresenta a dicotomia existente entre dois modos de pensamento, aos que o autor chama de \"Sistemas\". O sistema 1 é rápido, instintivo e emocional; o sistema 2 é lento, mais racional e mais lógico. Cada um desses sistemas carrega estilos cognitivos e comportamentais característicos. A partir de hipóteses extremamente originais e lógicas, se apresenta uma visão que modela a toma de decisões que as pessoas habitualmente fazem nas suas vidas diárias, de modo que esta obra tem o objetivo de introduzir ao leitor à economia do pensamento: estratégias psicológicas eficazes que servem para tomar decisões e avaliar os riscos que acarretam. É um livro recomendado tanto a profissionais da psicologia como a qualquer pessoa interessada em se conhecer melhor e aos processos envolvidos nas suas decisões, a fim de adquirir mecanismos que lhes permitam avançar no caminho da sua felicidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783966108607"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3966108607"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 30,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eyuDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eyuDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eyuDDwAAQBAJ&dq=R%C3%A1pido+e+devagar&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eyuDDwAAQBAJ&dq=R%C3%A1pido+e+devagar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Resumo_Estendido_De_R%C3%A1pido_E_Devagar_Du.html?hl=&id=eyuDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eyuDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "SOBRE O LIVRO ORIGINAL: &quot;Rápido E Devagar: Duas Formas De Pensar&quot; é um livro no qual se apresenta uma síntese das investigações realizadas pelo seu autor, Daniel Kahneman, que foi ganhador do Prêmio Nobel de Economia."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Mi3PCwAAQBAJ",
+   "etag": "Ul/MGhF01xM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Mi3PCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Mais rápido e melhor",
+    "subtitle": "Os segredos da produtividade na vida e nos negócios",
+    "authors": [
+     "Charles Duhigg"
+    ],
+    "publisher": "Objetiva",
+    "publishedDate": "2016-05-09",
+    "description": "Em O poder do hábito, o vencedor do prêmio Pulitzer Charles Duhigg explica por que fazemos o que fazemos. Em Mais rápido e melhor, ele mostra como melhorar o que fazemos.Um grupo de cientistas de dados do Google embarca num estudo sobre como as melhores equipes funcionam e descobre que a forma que um grupo interage é mais importante do que quem está no grupo. Os diretores do filme Frozen, da Disney, estão quase sem prazo e à beira de uma catástrofe - até que decidem sacudir suas equipes da maneira certa e estimulam um avanço criativo que resultou em um dos filmes mais lucrativos de todos os tempos. O que essas pessoas têm em comum? Elas sabem que produtividade tem que ver com as escolhas que fazemos. Estudos recentes sugerem que a produtividade nem sempre está relacionada a trabalhar mais horas por dia e a tentar ser mais “eficiente”. Mais rápido e melhor traz oito conceitos-chave que explicam por que algumas pessoas e empresas são tão produtivas. Ao combinar sua incansável curiosidade, histórias instigantes e grandes reportagens com a experiência de profissionais de diversas áreas - CEOs, educadores, generais, agentes do FBI, pilotos de avião e compositores da Broadway -, Duhigg mostra como todos nós podemos alcançar o sucesso com menos estresse e esforço, fazer mais sem sacrificar o que estimamos e nos tornar mais rápidos e melhores em tudo o que fazemos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788543805801"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8543805805"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 358,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Mi3PCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Mi3PCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Mi3PCwAAQBAJ&pg=PT306&dq=R%C3%A1pido+e+devagar&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Mi3PCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Mi3PCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Mi3PCwAAQBAJ&rdid=book-Mi3PCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_r%C3%A1pido_e_melhor-sample-epub.acsm?id=Mi3PCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mais_r%C3%A1pido_e_melhor-sample-pdf.acsm?id=Mi3PCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Mi3PCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Daniel Kahneman, \u003cb\u003eRápido e devagar\u003c/b\u003e: duas formas de pensar. Rio de Janeiro: \u003cbr\u003e\nObjetiva, 2012. Daniel Kahneman e Amos Tversky, “On the Psychology of \u003cbr\u003e\nPrediction”. Psychological Review, v. 80, n.4, p. 237, 1973. 21. Qiong Wang et al., \u003cbr\u003e\n“Naive&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f-a_DgAAQBAJ",
+   "etag": "CBFUCYoXPis",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f-a_DgAAQBAJ",
+   "volumeInfo": {
+    "title": "O projeto desfazer",
+    "subtitle": "",
+    "authors": [
+     "Michael Lewis"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2017-05-23",
+    "description": "Autor best-seller do The New York Times, Michael Lewis examina como uma teoria premiada com o Nobel de Economia alterou para sempre a nossa percepção da realidade. O projeto desfazer conta a envolvente história da parceria de dois psicólogos israelenses cujo trabalho deu origem ao livro Rápido e devagar: Duas formas de pensar e transbordou a psicologia, influenciando áreas como economia, medicina e gestão de negócios. Ambos tiveram carreiras importantes no meio universitário e no Exército de Israel, e suas pesquisas são profundamente conectadas às suas experiências pessoais. Amos Tversky era o centro das atenções em qualquer lugar que estivesse, um guerreiro extrovertido e autoconfiante. Já Danny Kahneman, um filho do Holocausto, é um fugitivo da guerra que se tornou um homem introvertido, inseguro, sempre se questionando em relação às suas próprias ideias. Michael Lewis conta esta parceria se tornou uma das mais importantes da história do meio científico, e esmiúça os métodos de trabalho da dupla. O entrosamento era tamanho que eles não conseguiam saber quem havia tido determinada ideia e quem deveria ter o crédito por ela. Invariavelmente, decidiam no cara e coroa quem seria o autor principal do trabalho e apenas alternavam a autoria do artigo seguinte. Ao contar a história desta amizade que transformou a nossa forma de pensar, Michael Lewis nos ajuda a entender a perigosa influência da memória e dos estereótipos nos nossos processos de avaliação. Além disso, nos mostra que confiar apenas no nosso instinto pode os levar à decisão errada e que a incerteza deve ser levada muito em conta quando estamos tomando decisões importantes. Assim, a história de Tversky e Kahneman nos dá lições de como fazer previsões, nos ajudando a tomar melhores decisões nas nossas vidas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788551001905"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8551001906"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 368,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f-a_DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f-a_DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=f-a_DgAAQBAJ&printsec=frontcover&dq=R%C3%A1pido+e+devagar&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=f-a_DgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-f-a_DgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=f-a_DgAAQBAJ&rdid=book-f-a_DgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_projeto_desfazer-sample-epub.acsm?id=f-a_DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_projeto_desfazer-sample-pdf.acsm?id=f-a_DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=f-a_DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O projeto desfazer conta a envolvente história da parceria de dois psicólogos israelenses cujo trabalho deu origem ao livro Rápido e devagar: Duas formas de pensar e transbordou a psicologia, influenciando áreas como economia, medicina ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qAbCDgAAQBAJ",
+   "etag": "QiDtSIwIaHA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qAbCDgAAQBAJ",
+   "volumeInfo": {
+    "title": "Indústria da construção no Brasil",
+    "subtitle": "Desafios da competência de gestão, pós-Lava-Jato",
+    "authors": [
+     "Paulo Matos"
+    ],
+    "publisher": "e-galáxia",
+    "publishedDate": "2017-04-12",
+    "description": "Neste livro, o autor, Paulo Matos, consultor de notória experiência em trabalhos para grandes empresas de construção, no Brasil e no exterior, trata da turbulência imposta ao Brasil, e mais especificamente à Indústria da Construção, pela crise sócio-político-econômica instalada nos últimos anos, em meio à \"Operação Lava Jato\", que envolveu governos, políticos, dirigentes de empresas controladas pelo governo e as maiores empreiteiras do país. Este novo ambiente de negócios trouxe graves consequências às decisões e ações empresariais, deixando muito claro que a prevenção se tornou a única opção para as organizações que queiram sobreviver nesse novo mercado. Será fundamental adequar as práticas empresariais e operacionais a padrões de con-formidade ético-negociais que já existiam, mas nunca haviam sido tão cobrados, no que se refere às penalizações impostas aos envolvidos. A diferença entre o sucesso e o fracasso estará onde sempre esteve: na competência de gestão. Esse tema constitui o propósito principal deste livro, que abordas as principais ques-tões sob o controle interno de uma empresa, independentemente de aspectos ligados à ambiência externa, fora do controle de qualquer negócio. Os temas são tratados com objetividade e clareza, a partir de exemplos práticos, reve-lando as perspectivas de sobrevivência e desenvolvimento empresarial, apesar da crise institucional instalada. Mais que verdades ou julgamentos definitivos, o autor apresenta pontos relevantes para uma reflexão sobre alternativas, riscos e oportunidades que o cenário pós Lava Jato tende a oferecer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788584741625"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8584741623"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qAbCDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qAbCDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qAbCDgAAQBAJ&pg=PT215&dq=R%C3%A1pido+e+devagar&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qAbCDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qAbCDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qAbCDgAAQBAJ&rdid=book-qAbCDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ind%C3%BAstria_da_constru%C3%A7%C3%A3o_no_Brasil-sample-epub.acsm?id=qAbCDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qAbCDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Construção – estratégias de competitividade e resistência às crises. Belo \u003cbr\u003e\nHorizonte: Mazza Edições, 2005. 5 KAHNEMAN, Daniel. \u003cb\u003eRápido e Devagar\u003c/b\u003e. \u003cbr\u003e\nEditora Objetiva. 6 KAHNEMAN, Daniel. \u003cb\u003eRápido e Devagar\u003c/b\u003e. Editora Objetiva. 7 \u003cbr\u003e\nBUFFET&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qjNCDQAAQBAJ",
+   "etag": "021tQaz0/O8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qjNCDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Princípios de Genética de Populações - 4.ed.",
+    "subtitle": "",
+    "authors": [
+     "Daniel L. Hartl",
+     "Andrew G. Clark"
+    ],
+    "publisher": "Artmed Editora",
+    "publishedDate": "2010-01-01",
+    "description": "Introdução clara e acessível sobre o tema, utiliza uma abordagem que alia teoria e observação, além de enfatizar o pensamento crítico e analítico por meio do uso de dados reais. Com esta obra, tem-se a possibilidade de compreender a importância desta área da genética para diversos campos das ciências biológicas, entre eles evolução, melhoramento agropecuário, conservação da biodiversidade, genética médica e genômica.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536323749"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8536323744"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 660,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=qjNCDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=qjNCDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qjNCDQAAQBAJ&pg=PA58&dq=R%C3%A1pido+e+devagar&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=qjNCDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-qjNCDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 160.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 160.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=qjNCDQAAQBAJ&rdid=book-qjNCDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.6E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.6E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Princ%C3%ADpios_de_Gen%C3%A9tica_de_Popula%C3%A7%C3%B5es-sample-pdf.acsm?id=qjNCDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=qjNCDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "6 A eletroforese de proteínas é aplicada utilizando amostra de sangue de um \u003cbr\u003e\ncamundongo de tipo selvagem para um gene com dois alelos, cujo produto irá \u003cbr\u003e\ncorrer \u003cb\u003erápido\u003c/b\u003e ou \u003cb\u003edevagar\u003c/b\u003e no gel. Entre 100 fêmeas, 64 possuem somente a \u003cbr\u003e\nbanda&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UcBVDwAAQBAJ",
+   "etag": "L6oaD99+CvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UcBVDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O voto do brasileiro - Edição Bilíngue",
+    "authors": [
+     "Alberto Carlos Almeida"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2018-05-18",
+    "description": "O cientista político Alberto Carlos Almeida destrincha as últimas três eleições presidenciais no Brasil e projeta um possível cenário para as eleições presidenciais de 2018, a partir da análise de mapas comparativos inéditos sobre o comportamento eleitoral do brasileiro nos últimos 12 anos. Do ponto de vista do comportamento eleitoral, as eleições presidenciais brasileiras são bem-estruturadas e previsíveis, e em nada devem às eleições nacionais dos países que consideramos exemplo de desenvolvimento. Ao final destas páginas, o leitor vai chegar a uma conclusão sobre as eleições deste ano, mas o livro não se esgota aí. O que tem de melhor é o retrato que faz do Brasil e o olhar que projeta para além das urnas, o que o torna leitura obrigatória a todos que se interessam por política.The Brazilian Presidential ElectionsIn The Brazilian Presidential Elections (O voto do brasileiro, in Portuguese), Alberto Carlos Almeida analyzes the last three presidential elections in Brazil. The author demonstrates that the stronghold of the PSDB in those elections was the middle class of the state of São Paulo, while poorer voters in the Northeast of the country made that region the PT citadel. The author goes on to show that presidential elections in Brazil are structured just like national elections in the world's major democracies. Consequently, he argues, it is highly unlikely that the PSDB or the PT will not contest the runoff round of the upcoming presidential election.It is of note that this important aspect still remains unclear to the majority of the country's influential thinkers, be they the politicians themselves, journalists, or the business and financial elites. The chapters of the book deal with:The voteIncomeLiving conditionsZooming inFirst world BrazilForecast of electoral results in 2018 Like most of Alberto Almeida's published work, this book is essentially analytical in nature and non-judgmental concerning values. It uses academic scholarship to divulge in accessible language, on an ample scale, a crucial aspect of Brazilian politics. The book contains several maps of the country that reveal, by region, how voting occurred in recent elections and how income is distributed, as well as indicators of living conditions. In the chapter entitled \"Zooming in\", various regions, states and some municipalities are subjected to close-up analysis, calling attention to and reflecting on discrepancies in electoral results. The chapter \"First world Brazil\" compares voting patterns in Brazil with those of Spain, Germany, France, Italy, Great Britain and the United States, pointing out important similarities. In the last chapter the reader (or the voter) will get the chance to forecast the result of the forthcoming presidential election, based on the premises chosen and the consequences of each of them on the on the outcome of the election. The book will contain both Portuguese and English texts and is to be published by Record Publishing House.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501100276"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8501100277"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UcBVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UcBVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UcBVDwAAQBAJ&printsec=frontcover&dq=R%C3%A1pido+e+devagar&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=UcBVDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-UcBVDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=UcBVDwAAQBAJ&rdid=book-UcBVDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.076E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_voto_do_brasileiro_Edi%C3%A7%C3%A3o_Bil%C3%ADngue-sample-epub.acsm?id=UcBVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_voto_do_brasileiro_Edi%C3%A7%C3%A3o_Bil%C3%ADngue-sample-pdf.acsm?id=UcBVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UcBVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The chapters of the book deal with: - The vote - Income - Living conditions - Zooming in - First world Brazil - Forecast of electoral results in 2018 Like most of Alberto Almeida&#39;s published work, this book is essentially analytical in ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eAphEYhRBdgC",
+   "etag": "+bRFv57qk6Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eAphEYhRBdgC",
+   "volumeInfo": {
+    "title": "Devagar",
+    "authors": [
+     "Carl Honoré"
+    ],
+    "publisher": "Editora Record",
+    "publishedDate": "2005",
+    "description": "Carl Honoré mostra que a cultura da velocidade teve início durante a Revolução Industrial, foi impulsionada pela urbanização e cresceu desenfreadamente com os avanços da tecnologia no século XX. Com o mundo em plena atividade, o culto à velocidade nos impeliu ao colapso. Vivendo no limite da exaustão, estamos sendo constantemente lembrados por nossos corpos e mentes que o ritmo da vida está girando fora de controle. Este livro traça a história de nossa intensa relação de pressa com o tempo, e atrela as conseqüências e charadas de viver nesta cultura acelerada, criação nossa. Por que estamos sempre com pressa? Qual a cura para a falta de tempo? É possível, ou até mesmo desejável, desacelerar? Percebendo o preço que pagamos pela velocidade implacável, as pessoas em todo o mundo estão reivindicando o tempo delas e desacelerando o passo - vivendo mais felizes e, conseqüentemente, de forma mais produtiva e saudável. Uma revolução 'Devagar' está acontecendo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8501072109"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788501072108"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=eAphEYhRBdgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=eAphEYhRBdgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eAphEYhRBdgC&pg=PA26&dq=R%C3%A1pido+e+devagar&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eAphEYhRBdgC&dq=R%C3%A1pido+e+devagar&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Devagar.html?hl=&id=eAphEYhRBdgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eAphEYhRBdgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neste livro, Depressa e \u003cb\u003eDevagar\u003c/b\u003e não se limitam a definir uma alternativa. \u003cbr\u003e\nRemetem também a maneiras de ... Como veremos, desempenhar uma tarefa \u003cbr\u003e\n\u003cb\u003eDevagar\u003c/b\u003e frequentemente produz resultados mais \u003cb\u003erápidos\u003c/b\u003e. Também é possível \u003cbr\u003e\nfazer as&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6w6gBwAAQBAJ",
+   "etag": "5H3C7xEGMgI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6w6gBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Os últimos dias de nossos pais",
+    "subtitle": "",
+    "authors": [
+     "Joël Dicker "
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-04-24",
+    "description": "Após a frustração de ter tido o Exército britânico encurralado em Dunquerque, Winston Churchill tem uma ideia capaz de mudar o curso da guerra: a criação de uma nova seção do serviço secreto britânico, a SOE (Executiva de Operações Especiais), responsável por conduzir ações de sabotagem e se infiltrar nas linhas inimigas. Algo jamais feito na história. Na esperança de se juntar à Resistência, o jovem Paul-Émile deixa Paris e vai para Londres. Logo recrutado pela SOE, ele se integra a um grupo de franceses que se tornam seus companheiros de coração e de armas. Passando por formações e treinamentos intensos nos quatro cantos da Inglaterra, os selecionados voltarão para a França ocupada para contribuir na resistência. Mas a espionagem alemã está alerta... A existência da SOE por muito tempo foi mantida em segredo. Várias décadas após o fim das atrocidades da Segunda Guerra, Os últimos dias de nossos pais é um dos primeiros romances a abordar sua criação e a relembrar as verdadeiras relações entre a Resistência e a Inglaterra de Churchill. Dicker constrói um livro sobre amor, amizade e medo, com uma profunda reflexão sobre o ser humano e suas fraquezas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580577020"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580577020"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6w6gBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6w6gBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6w6gBwAAQBAJ&pg=PT119&dq=R%C3%A1pido+e+devagar&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6w6gBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6w6gBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6w6gBwAAQBAJ&rdid=book-6w6gBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_%C3%BAltimos_dias_de_nossos_pais-sample-epub.acsm?id=6w6gBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_%C3%BAltimos_dias_de_nossos_pais-sample-pdf.acsm?id=6w6gBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6w6gBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... Seu filho Relera mais vezes, em silêncio e em voz alta, \u003cb\u003erápido e devagar\u003c/b\u003e, com \u003cbr\u003e\num suspiro e articulando exageradamente para não deixar passar nenhuma \u003cbr\u003e\npalavra. No apartamento, gritara, pulara de alegria, correra até o quarto do filho \u003cbr\u003e\ne&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1denBAAAQBAJ",
+   "etag": "3ck8DeipoSE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1denBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Os limites do possível",
+    "subtitle": "A economia além da conjuntura",
+    "authors": [
+     "André Lara Resende"
+    ],
+    "publisher": "Portfolio-Penguin",
+    "publishedDate": "2013-04-29",
+    "description": "Os limites do possível aborda temas-chave do novo século, questionando alguns dos principais axiomas da teoria econômica. É possível continuar crescendo sem esbarrar nos limites físicos do planeta? Crescimento e riqueza levam de fato ao aumento do bem-estar e da felicidade? Segundo André Lara Resende, a solução de tais dilemas passará necessariamente pela revisão dos estreitos limites que a teoria econômica se impôs. A respeito da crise financeira, André analisa os reais motivos e consequências do colapso das economias centrais em 2008. Defendendo que não se trata de apenas mais uma crise cíclica, mas de algo mais profundo, o economista argumenta que a formalização excessiva tornou a teoria incapaz de refletir sobre a realidade. Embora o cenário pareça desalentador, ele aponta possíveis caminhos para um movimento - ainda que lento - em prol da retomada do crescimento. Na última parte do livro, o economista volta a temas em que é especialista: a inflação e as altas taxas de juros que persistem por mais de uma década depois da estabilização do real.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580866919"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858086691X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.9.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=1denBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=1denBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1denBAAAQBAJ&pg=PT34&dq=R%C3%A1pido+e+devagar&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=1denBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-1denBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 30.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=1denBAAAQBAJ&rdid=book-1denBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_limites_do_poss%C3%ADvel-sample-epub.acsm?id=1denBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Os_limites_do_poss%C3%ADvel-sample-pdf.acsm?id=1denBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1denBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Seu último livro, \u003cb\u003eRápido e devagar\u003c/b\u003e: duas formas de pensar, percorre em \u003cbr\u003e\nlinguagem acessível toda a sua trajetória, desde o início da carreira de \u003cbr\u003e\npesquisador. É leitura obrigatória não apenas para os interessados em \u003cbr\u003e\npsicologia e economia,&nbsp;..."
+   }
+  }
+ ]
+}

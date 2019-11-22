@@ -1,0 +1,890 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 54,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KIdPvgAACAAJ",
+   "etag": "2LIkNV1UULA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KIdPvgAACAAJ",
+   "volumeInfo": {
+    "title": "DARTH VADER E FILHO",
+    "authors": [
+     "JEFFREY BROWN",
+     "MATEUS DUQUE"
+    ],
+    "description": "Em uma releitura divertida e encantadora, Darth Vader é um pai como qualquer outro, exceto pelo fato de ser o Senhor Sombrio dos Sith. Com ilustrações de Jeffrey Brown, o livro apresenta as alegrias da paternidade por meio da lente de uma galáxia muito, muito distante.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8576572605"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576572602"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KIdPvgAACAAJ&dq=Darth+Vader+e+filho&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KIdPvgAACAAJ&dq=Darth+Vader+e+filho&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/DARTH_VADER_E_FILHO.html?hl=&id=KIdPvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KIdPvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com ilustrações de Jeffrey Brown, o livro apresenta as alegrias da paternidade por meio da lente de uma galáxia muito, muito distante."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IoRDDwAAQBAJ",
+   "etag": "1bIFQb37CZI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IoRDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Star Wars: A ascensão e a queda de Darth Vader",
+    "subtitle": "",
+    "authors": [
+     "Ryder Windham"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2018-01-15",
+    "description": "Essa é a história de Darth Vader como nunca foi contada: sob o seu próprio ponto de vista. Conheça sua trajetória desde a infância como escravo em Tatooine junto à mãe; o treinamento como Padawan para se transformar no Jedi escolhido para equilibrar a Força e, por fim, como se deu a transição para o Lado Sombrio a fim de salvar seus entes queridos. Entenda tudo o que ocorreu por trás dos eventos que levaram o garoto Anakin Skywalker a ascender como Darth Vader e se tornar temido por uma galáxia inteira e além…",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550302690"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550302694"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=IoRDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=IoRDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=IoRDDwAAQBAJ&printsec=frontcover&dq=Darth+Vader+e+filho&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=IoRDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-IoRDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=IoRDDwAAQBAJ&rdid=book-IoRDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Star_Wars_A_ascens%C3%A3o_e_a_queda_de_Darth-sample-epub.acsm?id=IoRDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Star_Wars_A_ascens%C3%A3o_e_a_queda_de_Darth-sample-pdf.acsm?id=IoRDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=IoRDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Essa é a história de Darth Vader como nunca foi contada: sob o seu próprio ponto de vista."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0M2uCgAAQBAJ",
+   "etag": "8Y5naLokai8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0M2uCgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Jornada do Escritor",
+    "subtitle": "Estrutura mítica para escritores",
+    "authors": [
+     "Christopher Vogler"
+    ],
+    "publisher": "Aleph",
+    "publishedDate": "2015-09-16",
+    "description": "Em 1949, no clássico O herói de mil faces, o estudioso Joseph Campbell conceituou a chamada Jornada do Herói: uma estrutura presente nos mitos e replicada em todas as boas histórias já contadas e recontadas pela humanidade. Em A Jornada do Escritor, Christopher Vogler faz uma detalhada e esclarecedora análise desse conceito, tomando como base diversos filmes importantes. Resultado de anos de estudo sobre mitos e arquétipos, somados à experiência de Vogler na indústria cinematográfica norte-americana, esta edição, revisada pelo autor, é uma obra de referência fundamental não apenas para quem deseja escrever boas histórias - bebendo da fonte dos mais belos e fascinantes mitos já criados pela mente humana -, como para quem quer entendê-las melhor, relacionando-as à própria vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576572336"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576572338"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0M2uCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0M2uCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0M2uCgAAQBAJ&pg=PT296&dq=Darth+Vader+e+filho&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0M2uCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0M2uCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 47.61,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0M2uCgAAQBAJ&rdid=book-0M2uCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.24E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.761E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Jornada_do_Escritor-sample-epub.acsm?id=0M2uCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Jornada_do_Escritor-sample-pdf.acsm?id=0M2uCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0M2uCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Quando aprende a dominar a Força, é tentado pelo lado sombrio, representado \u003cbr\u003e\npelo abominável \u003cb\u003eDarth Vader\u003c/b\u003e, que no fim ... Movido pela visão da morte iminente \u003cbr\u003e\ndo \u003cb\u003efilho\u003c/b\u003e, Vader inverte a polaridade e avança sobre o lado iluminado da Força,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4LwrDwAAQBAJ",
+   "etag": "vOw89SKpE8Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4LwrDwAAQBAJ",
+   "volumeInfo": {
+    "title": "STAR WARS - Darth Plagueis",
+    "authors": [
+     "James Luceno"
+    ],
+    "publisher": "Aleph",
+    "publishedDate": "2017-07-11",
+    "description": "Um dos romances mais populares do universo expandido, STAR WARS: Darth Plagueis, de James Luceno, apresenta a história do lorde Sith - citado com uma lenda no filme STAR WARS: A Vingança dos Sith, e a sua relação com seu aprendiz, Darth Sidious. Ambientado 50 anos antes de STAR WARS: Uma Nova Esperança, o enredo leva ao leitor Darth Plagueis, um ambicioso Sith que, mais do que qualquer um, ansiava pelo poder absoluto e, para isso, a partir do uso da ciência e da Força, desenvolveu uma habilidade inimaginável: o controle da vida e da morte. Já seu aprendiz, Darth Sidious, conhecido também como Palpatine, possuía outras ambições. Seu objetivo não era apenas dominar o lado sombrio, ele desejava iniciar uma escalada até o mais alto posto no governo intergaláctico. Nesta trama envolvente, repleta de ação e golpes políticos, os dois Sith buscam o poder supremo: um por meio da imortalidade; o outro pelo controle político. Juntos, eles poderiam enfim destruir os Jedi e dominar a galáxia, mas certas tradições podem impedir esse glorioso caminho...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576573593"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576573598"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 440,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4LwrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4LwrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4LwrDwAAQBAJ&printsec=frontcover&dq=Darth+Vader+e+filho&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4LwrDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4LwrDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.76,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4LwrDwAAQBAJ&rdid=book-4LwrDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.14E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.976E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/STAR_WARS_Darth_Plagueis-sample-epub.acsm?id=4LwrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/STAR_WARS_Darth_Plagueis-sample-pdf.acsm?id=4LwrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4LwrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um dos romances mais populares do universo expandido, STAR WARS: Darth Plagueis, de James Luceno, apresenta a história do lorde Sith - citado com uma lenda no filme STAR WARS: A Vingança dos Sith, e a sua relação com seu aprendiz, Darth ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CRP4nUi3pSIC",
+   "etag": "9JkCGBQ24EQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CRP4nUi3pSIC",
+   "volumeInfo": {
+    "title": "O filho de Netuno",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2012-05-02",
+    "description": "A vida de Percy Jackson é assim mesmo: uma grande bagunça de deuses e monstros que, na maioria das vezes, acaba em problemas. Filho de Poseidon, o deus do mar, um belo dia Percy desperta sem memória e acaba em um acampamento de heróis que não reconhece. Agarrado à lembrança de uma garota, só tem uma certeza: os dias de jornadas e batalhas não terminaram. Percy e seus novos colegas semideuses vão enfrentar os misteriosos desígnios da Profecia dos Sete. Se falharem, as consequências, é claro, serão desastrosas. Com início no “outro” acampamento meio-sangue e se estendendo para além das terras dos deuses, esta sequência da série Os heróis do Olimpo apresenta novos semideuses e criaturas incríveis, além de trazer de volta alguns monstros bastante conhecidos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580571912"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858057191X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.10.10.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CRP4nUi3pSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CRP4nUi3pSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CRP4nUi3pSIC&pg=PT304&dq=Darth+Vader+e+filho&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CRP4nUi3pSIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CRP4nUi3pSIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CRP4nUi3pSIC&rdid=book-CRP4nUi3pSIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.141E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_filho_de_Netuno-sample-epub.acsm?id=CRP4nUi3pSIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_filho_de_Netuno-sample-pdf.acsm?id=CRP4nUi3pSIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CRP4nUi3pSIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "E \u003cb\u003eDarth Vader\u003c/b\u003e na verdade é o pai de Luke. E o vencedor do próximo Super Bowl \u003cbr\u003e\nserá... —Já entendi — murmurou Frank. Hazel agarrou a espada como se \u003cbr\u003e\nestivesse tentada a socar a cabeça do velho com o cabo. — Então você falou \u003cbr\u003e\ndemais&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wFYeDQAAQBAJ",
+   "etag": "j0PQy8wm+Ck",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wFYeDQAAQBAJ",
+   "volumeInfo": {
+    "title": "O livro dos vilões",
+    "authors": [
+     "Aníbal Litvin"
+    ],
+    "publisher": "V&R Editoras S/A",
+    "publishedDate": "2016-09-05",
+    "description": "Quem era Darth Vader antes de passar para o Lado Negro da Força? Quais eram as armas utilizadas pelo Coringa? E quem era o assassino em série mais charmoso e inteligente? Quais heróis e heroínas escondem uma história obscura? Este livro reúne segredos sobre diversos vilões: desde os clássicos, como Drácula e Lex Luthor, até os mais experientes nas artes da magia negra como Esqueleto e Sauron. Sem nos esquecermos das bruxas, assassinos em série e animais que deixaram suas marcas cruéis na história da ficção. Quais os motivos que os levaram a cometer tantas maldades? Contra o que e quem lutaram? Quais são suas virtudes e defeitos? Tudo isso e muito mais, só para corajosos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550700441"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550700444"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.8.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wFYeDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wFYeDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wFYeDQAAQBAJ&pg=PT10&dq=Darth+Vader+e+filho&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wFYeDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-wFYeDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 24.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=wFYeDQAAQBAJ&rdid=book-wFYeDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.45E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_livro_dos_vil%C3%B5es-sample-epub.acsm?id=wFYeDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_livro_dos_vil%C3%B5es-sample-pdf.acsm?id=wFYeDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wFYeDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eDARTH VADER\u003c/b\u003e: Junto ao Imperador, ele continuou com a brutal opressão na \u003cbr\u003e\ngaláxia, caçando os membros da Aliança Rebelde. Mas \u003cb\u003eDarth Vader\u003c/b\u003e não sabia \u003cbr\u003e\nque um dos líderes da resistência é Luke Skywalker, seu \u003cb\u003efilho\u003c/b\u003e, nascido pouco \u003cbr\u003e\nantes&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3IYaBgAAQBAJ",
+   "etag": "DNe6sGKNwMg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3IYaBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Changeman, Jaspion, Jiraiya e Cia.",
+    "subtitle": "",
+    "authors": [
+     "João Lobato"
+    ],
+    "publisher": "Matrix Editora",
+    "publishedDate": "2012-04-03",
+    "description": "Com texto bem-humorado, Changeman, Jaspion, Jiraiya & Cia. mergulha no que há de mais inusitado e intrigante sobre as séries de ação japonesas, os tokusatsu. Explorando o seu incrível – e por vezes bizarro – desenvolvimento, o livro é uma pedida certa para interessados na história da TV, para qualquer pessoa que goste da cultura nipônica ou de histórias que mesclam temas improváveis – como samurais combatendo extraterrestres – ou simplesmente para quem quer relembrar os heróis da infância e da adolescência.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582300459"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858230045X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3IYaBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3IYaBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3IYaBgAAQBAJ&pg=PT43&dq=Darth+Vader+e+filho&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3IYaBgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3IYaBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.22,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3IYaBgAAQBAJ&rdid=book-3IYaBgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.222E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.222E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Changeman_Jaspion_Jiraiya_e_Cia-sample-epub.acsm?id=3IYaBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Changeman_Jaspion_Jiraiya_e_Cia-sample-pdf.acsm?id=3IYaBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3IYaBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Satan Goss, umacriação japonesa, se inspirouem \u003cb\u003eDarth Vader\u003c/b\u003e, inspiração essa \u003cbr\u003e\nque retornou às raízesdo país. ... Outra interessante relação é que Jaspion \u003cbr\u003e\néórfão, enquanto Satan Gossé auxiliadopor seu \u003cb\u003efilho\u003c/b\u003e, MacGaren. A relação entre \u003cbr\u003e\npai&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3ulYDQAAQBAJ",
+   "etag": "75jub4TZEF4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3ulYDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Como Star Wars conquistou o universo",
+    "subtitle": "O passado, presente e o futuro da franquia multibilionária.",
+    "authors": [
+     "Chris Taylor"
+    ],
+    "publisher": "Aleph",
+    "publishedDate": "2016-11-15",
+    "description": "Por várias gerações, Star Wars tem arrastado fãs de todas as idades aos cinemas, às lojas de brinquedos, às livrarias — praticamente a todo lugar que se vai, Star Wars está presente como uma entidade maior do que os filmes da saga. É indiscutivelmente o maior fenômeno da cultura pop, tão abrangente em todos os sentidos que mesmo aqueles que não assistiram ao filme conhecem a figura de Darth Vader e a maior revelação da história criada pelo cineasta George Lucas. Em um trabalho jornalístico surpreendente, Chris Taylor revela segredos que até o fã mais radical desconhecia, derruba e confirma antigos mitos e rumores sobre sua produção, e dá voz a todo mundo que foi relevante na criação de Star Wars como um todo, de aliados a desafetos de George Lucas. Porém, apesar de falar sobre Star Wars, o livro vai muito além: fala sobre cinema em geral, administração, gerenciamento de marca e até determinação pessoal.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576572893"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576572893"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 616,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3ulYDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3ulYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3ulYDQAAQBAJ&pg=PT260&dq=Darth+Vader+e+filho&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=3ulYDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-3ulYDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 41.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 41.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=3ulYDQAAQBAJ&rdid=book-3ulYDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.19E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.19E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Star_Wars_conquistou_o_universo-sample-epub.acsm?id=3ulYDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Star_Wars_conquistou_o_universo-sample-pdf.acsm?id=3ulYDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3ulYDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "“Eu criei \u003cb\u003eDarth Vader\u003c/b\u003e”, insistiu Prowse para um repórter em novembro de 1977. \u003cbr\u003e\n... “O pai não consegue matar o \u003cb\u003efilho\u003c/b\u003e, o \u003cb\u003efilho\u003c/b\u003e não consegue matar o pai”, disse \u003cbr\u003e\nProwse – e assim os dois personagens viveriam para estrelar a próxima&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HL_4swEACAAJ",
+   "etag": "P+uZxXEFnXY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HL_4swEACAAJ",
+   "volumeInfo": {
+    "title": "Hora De Aventura - Edição Matemática",
+    "authors": [
+     "Ryan North",
+     "Braden Lamb",
+     "Dustin Nguyn",
+     "Jess Fink",
+     "Jeffrey Brown",
+     "Shelli Paroline",
+     "Jim Rugg"
+    ],
+    "publishedDate": "2018-02-28",
+    "description": "Finn e Jake finalmente passam por uma experiência fora do corpo \"literalmente\". É um novo dia em Ooo e seus maiores heróis estão vagando pela terra como fantasmas! Após desentendimentos e caça fantasmas, as coisas saem do controle e Finn e Jake vão para o além e voltam.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8583682763"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788583682769"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HL_4swEACAAJ&dq=Darth+Vader+e+filho&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HL_4swEACAAJ&dq=Darth+Vader+e+filho&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Hora_De_Aventura_Edi%C3%A7%C3%A3o_Matem%C3%A1tica.html?hl=&id=HL_4swEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HL_4swEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esta edição conta ainda com os talentos de Dustin Nguyn (Pequena Gotham), Jeffrey Brown (Darth Vader e Filho), Jess Fink (Kid With Experience), com Shelli Paroline e Braden Lamb (Hora de Aventura), trazendo a história de Ooo pela ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G0M-AQAAIAAJ",
+   "etag": "mkVjZir9hjk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G0M-AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Veja",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105112368092"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G0M-AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G0M-AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=G0M-AQAAIAAJ&q=Darth+Vader+e+filho&dq=Darth+Vader+e+filho&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G0M-AQAAIAAJ&dq=Darth+Vader+e+filho&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Veja.html?hl=&id=G0M-AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G0M-AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "res como heroísmo e temas como pai contra \u003cb\u003efilho\u003c/b\u003e, o bem contra o mal. ... e \u003cbr\u003e\nChristensen: difícil acreditar que eles são os formidáveis Obi-Wan e \u003cb\u003eDarth Vader\u003c/b\u003e \u003cbr\u003e\nMuito tempo atrás, numa galáxia que parece cada vez mais distante, Star \u003cbr\u003e\nWarsera&nbsp;..."
+   }
+  }
+ ]
+}

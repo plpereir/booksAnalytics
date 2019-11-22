@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "j3_ClgEACAAJ",
+   "etag": "QcwoZiqs8eY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j3_ClgEACAAJ",
+   "volumeInfo": {
+    "title": "GAROTA EXEMPLAR",
+    "authors": [
+     "GILLIAN FLYNN",
+     "ALEXANDRE MARTINS"
+    ],
+    "publishedDate": "2013-03-08",
+    "description": "Na manhã de seu quinto aniversário de casamento, Amy, a linda e inteligente esposa de Nick Dunne, desaparece de sua casa às margens do Rio Mississippi. Aparentemente trata-se de um crime violento, e passagens do diário de Amy revelam uma garota perfeccionista que seria capaz de levar qualquer um ao limite. Pressionado pela polícia e pela opinião pública - e também pelos ferozmente amorosos pais de Amy -, Nick desfia uma série interminável de mentiras, meias verdades e comportamentos inapropriados. Sim, ele parece estranhamente evasivo, e sem dúvida amargo, mas seria um assassino? Com sua irmã gêmea Margo a seu lado, Nick afirma inocência. O problema é; se não foi Nick, onde está Amy? E por que todas as pistas apontam para ele?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8580572908"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580572902"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=j3_ClgEACAAJ&dq=isbn:9788580572902&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=j3_ClgEACAAJ&dq=isbn:9788580572902&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/GAROTA_EXEMPLAR.html?hl=&id=j3_ClgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j3_ClgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na manhã de seu quinto aniversário de casamento, Amy, a linda e inteligente esposa de Nick Dunne, desaparece de sua casa às margens do Rio Mississippi."
+   }
+  }
+ ]
+}

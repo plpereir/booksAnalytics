@@ -1,0 +1,1 @@
+curl --progress-bar -o /Users/plpereir/OneDrive/MacBook/03-Treinamentos/Labs/Java/workspace/BooksAnalytics/Scripts/Downloads/PublishNews/PublishNewsRanking$1$2$3.html "https://www.publishnews.com.br/ranking/mensal/$1/$2/$3/0/0"

@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QZQtLgEACAAJ",
+   "etag": "5RnqZ2NRZmk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QZQtLgEACAAJ",
+   "volumeInfo": {
+    "title": "UMA BREVE HISTORIA DO CRISTIANISMO",
+    "authors": [
+     "GEOFFREY BLAINEY",
+     "NEUZA MARIA SIMOES CAPELO"
+    ],
+    "description": "O historiador Geoffrey Blainey busca analisar, de forma imparcial, os primeiros passos do Cristianismo, investiga os eventos que possibilitaram sua evolução e conta por que a doutrina cristã permanece viva no século XXI. Geoffrey Blainey procura abordar assuntos como a verdadeira origem de Jesus, dos Evangelhos e que fatos levaram a disseminação do Cristianismo ao redor do mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539505339"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539505333"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 328,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QZQtLgEACAAJ&dq=isbn:9788539505333&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QZQtLgEACAAJ&dq=isbn:9788539505333&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/UMA_BREVE_HISTORIA_DO_CRISTIANISMO.html?hl=&id=QZQtLgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QZQtLgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O historiador Geoffrey Blainey busca analisar, de forma imparcial, os primeiros passos do Cristianismo, investiga os eventos que possibilitaram sua evolução e conta por que a doutrina cristã permanece viva no século XXI."
+   }
+  }
+ ]
+}

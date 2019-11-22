@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KOmStAEACAAJ",
+   "etag": "7wQPAnBfrGA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KOmStAEACAAJ",
+   "volumeInfo": {
+    "title": "Anatomia de um desastre",
+    "subtitle": "os bastidores da crise econômica que mergulhou o país na pior recessão de sua história",
+    "authors": [
+     "Claudia Safatle",
+     "João Borges",
+     "Ribamar Oliveira"
+    ],
+    "publishedDate": "2016",
+    "description": "Escrito por três renomados jornalistas de economia, Anatomia de um desastre ajuda a entender o que aconteceu para que o Brasil, que parecia estar na rota do crescimento, acabasse mergulhando em uma enorme recessão. Indo da primeira eleição de Lula ao impeachment de Dilma Rousseff, o livro mostra como os governos petistas foram abandonando aos poucos o cuidado com a es ilidade econômica para investir num modelo desenvolvimentista, causando a deterioração das contas públicas. Ao relatar algumas das decisões mais polêmicas, como a das pedaladas fiscais que levaram ao afastamento de Dilma, os autores revelam também os surpreendentes bastidores da política nacional.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8582850433"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582850435"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 327,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=KOmStAEACAAJ&dq=isbn:9788582850435&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KOmStAEACAAJ&dq=isbn:9788582850435&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Anatomia_de_um_desastre.html?hl=&id=KOmStAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KOmStAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Escrito por três renomados jornalistas de economia, Anatomia de um desastre ajuda a entender o que aconteceu para que o Brasil, que parecia estar na rota do crescimento, acabasse mergulhando em uma enorme recessão."
+   }
+  }
+ ]
+}

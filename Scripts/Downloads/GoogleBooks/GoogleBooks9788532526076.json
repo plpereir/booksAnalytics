@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eUdvYgEACAAJ",
+   "etag": "kYBCeFoYNTk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eUdvYgEACAAJ",
+   "volumeInfo": {
+    "title": "Conversas que tive comigo",
+    "authors": [
+     "Nelson Mandela",
+     "Nivaldo Montingelli Junior",
+     "Angela Lobo De Andrade",
+     "Ana Deiro"
+    ],
+    "publishedDate": "2010",
+    "description": "'Conversas que Tive Comigo' traça um retrato pessoal do líder Nelson Mandela. Com prefácio de Barack Obama, o livro se baseia no arquivo pessoal de materiais inéditos de Nelson Mandela. São diários, cartas, anotações pessoais, recortes de jornais, rascunhos de discursos e gravações que procuram propiciar a compreensão do lado humano desta personalidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532526071"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532526076"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 415,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eUdvYgEACAAJ&dq=isbn:9788532526076&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eUdvYgEACAAJ&dq=isbn:9788532526076&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Conversas_que_tive_comigo.html?hl=&id=eUdvYgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eUdvYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Conversas que Tive Comigo&#39; traça um retrato pessoal do líder Nelson Mandela. Com prefácio de Barack Obama, o livro se baseia no arquivo pessoal de materiais inéditos de Nelson Mandela."
+   }
+  }
+ ]
+}

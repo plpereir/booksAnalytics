@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "M6_YlQEACAAJ",
+   "etag": "Y0fP7IuoZi8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M6_YlQEACAAJ",
+   "volumeInfo": {
+    "title": "O PODER DO SUBCONSCIENTE",
+    "authors": [
+     "JOSEPH MURPHY",
+     "RUY JUNGMANN"
+    ],
+    "publishedDate": "2013-02-26",
+    "description": "O livro pretende mostrar que o segredo para se conseguir o que quer - dinheiro, saúde, amor, etc. - é sempre imaginar os desejos como algo concreto e real, que está acontecendo ou que irá acontecer. As técnicas para isso estão neste livro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857684656X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576846567"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=M6_YlQEACAAJ&dq=isbn:9788576846567&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=M6_YlQEACAAJ&dq=isbn:9788576846567&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_PODER_DO_SUBCONSCIENTE.html?hl=&id=M6_YlQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M6_YlQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um dos melhores e mais populares livros de auto-ajuda já escritos. O poder do subconsciente ajudou milhões de pessoas a alcançarem grandes objetivos apenas mudando a maneira de pensar."
+   }
+  }
+ ]
+}

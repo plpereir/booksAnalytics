@@ -1,0 +1,79 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "at6FAwAAQBAJ",
+   "etag": "mmTX+62xQRs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/at6FAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Um dia",
+    "authors": [
+     "David Nicholls"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2011-12-15",
+    "description": "Dexter Mayhew e Emma Morley se conheceram em 1988. Ambos sabem que no dia seguinte, após a formatura na universidade, deverão trilhar caminhos diferentes. Mas, depois de apenas um dia juntos, não conseguem parar de pensar um no outro. Os anos se passam e Dex e Em levam vidas isoladas - vidas muito diferentes daquelas que eles sonhavam ter. Porém, incapazes de esquecer o sentimento muito especial que os arrebatou naquela primeira noite, surge uma extraordinária relação entre os dois. Ao longo dos vinte anos seguintes, flashes do relacionamento deles são narrados, um por ano, todos no mesmo dia: 15 de julho. Dexter e Emma enfrentam disputas e brigas, esperanças e oportunidades perdidas, risos e lágrimas. E, conforme o verdadeiro significado desse dia crucial é desvendado, eles precisam acertar contas com a essência do amor e da própria vida.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580570458"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858057045X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=at6FAwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=at6FAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=at6FAwAAQBAJ&dq=isbn:9788580570458&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=at6FAwAAQBAJ&dq=isbn:9788580570458&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Um_dia.html?hl=&id=at6FAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=at6FAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dexter Mayhew e Emma Morley se conheceram em 1988. Ambos sabem que no dia seguinte, após a formatura na universidade, deverão trilhar caminhos diferentes. Mas, depois de apenas um dia juntos, não conseguem parar de pensar um no outro."
+   }
+  }
+ ]
+}

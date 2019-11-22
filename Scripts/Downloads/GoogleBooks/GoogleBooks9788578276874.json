@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "aF5JnQEACAAJ",
+   "etag": "uhGGYvt6TaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/aF5JnQEACAAJ",
+   "volumeInfo": {
+    "title": "BARRIGA DE TRIGO",
+    "authors": [
+     "WILLIAM DAVIS",
+     "WALDEA BARCELLOS"
+    ],
+    "description": "'Barriga de Trigo' busca mostrar que parar de comer trigo - mesmo o integral, considerado mais saudável - pode ajudar a perder peso, reduzir gordura localizada e eliminar vários problemas de saúde. Fundamentado em décadas de estudos clínicos e nos resultados que observou depois de orientar pacientes a parar de comer trigo, o doutor William Davis apresenta argumentos contra esse ingrediente. 'Barriga de Trigo' apresenta uma perspectiva sobre os problemas de saúde mais preocupantes do início do século XXI.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8578276876"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578276874"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=aF5JnQEACAAJ&dq=isbn:9788578276874&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=aF5JnQEACAAJ&dq=isbn:9788578276874&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/BARRIGA_DE_TRIGO.html?hl=&id=aF5JnQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aF5JnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Barriga de trigo&#39; mostra que parar de comer trigo - mesmo o integral, considerado mais saudável - pode ajudar a perder peso, reduzir gordura localizada e eliminar vários problemas de saúde."
+   }
+  }
+ ]
+}

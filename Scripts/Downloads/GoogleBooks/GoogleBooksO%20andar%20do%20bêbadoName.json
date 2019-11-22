@@ -1,0 +1,927 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 229,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "X0niXrHmsZUC",
+   "etag": "V1Daxz/oljM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X0niXrHmsZUC",
+   "volumeInfo": {
+    "title": "O andar do bêbado",
+    "subtitle": "Como o acaso determina nossas vidas",
+    "authors": [
+     "Leonard Mlodinow"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2009-07-01",
+    "description": "Best-seller internacional e livro notável do New York Times Um dos 10 Melhores Livros de Ciência, segundo a Amazon.com Não estamos preparados para lidar com o aleatório e, por isso, não percebemos o quanto o acaso interfere em nossas vidas. Num tom irreverente, citando exemplos e pesquisas presentes em todos os âmbitos da vida, do mercado financeiro aos esportes, de Hollywood à medicina, Leonard Mlodinow apresenta de forma divertida e curiosa as ferramentas necessárias para identificar os indícios do acaso. Como resultado, nos ajuda a fazer escolhas mais acertadas e a conviver melhor com fatores que não podemos controlar. Prepare-se para colocar em xeque algumas certezas sobre o funcionamento do mundo e para perceber que muitas coisas são tão previsíveis quanto o próximo passo de um bêbado depois de uma noitada... \"Um guia maravilhoso e acessível sobre como o aleatório afeta nossas vidas\" Stephen Hawking \"Mlodinow escreve num estilo leve, intercalando desafios probabilísticos com perfis de cientistas... O resultado é um curso intensivo, de leitura agradável, sobre aleatoriedade e estatística.\" George Johnson, New York Times",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537801819"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "853780181X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 322,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.12.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X0niXrHmsZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X0niXrHmsZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=X0niXrHmsZUC&printsec=frontcover&dq=O+andar+do+b%C3%AAbado&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=X0niXrHmsZUC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-X0niXrHmsZUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=X0niXrHmsZUC&rdid=book-X0niXrHmsZUC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_andar_do_b%C3%AAbado-sample-epub.acsm?id=X0niXrHmsZUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_andar_do_b%C3%AAbado-sample-pdf.acsm?id=X0niXrHmsZUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X0niXrHmsZUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Num tom irreverente, citando exemplos e pesquisas presentes em todos os âmbitos da vida, do mercado financeiro aos esportes, de Hollywood à medicina, Leonard Mlodinow apresenta de forma divertida e curiosa as ferramentas necessárias para ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EtZZjjWZ4f0C",
+   "etag": "g8QeBxea6y0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EtZZjjWZ4f0C",
+   "volumeInfo": {
+    "title": "Subliminar",
+    "subtitle": "Como o inconsciente influencia nossas vidas",
+    "authors": [
+     "Leonard Mlodinow"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2013-03-07",
+    "description": "Best-seller internacional Você acha que sabe como e por que faz suas escolhas? Suas preferências políticas, a gorjeta que dá ao garçom, aquele colega de trabalho com uma cara tão amigável de quem você desconfia e até a pessoa com quem você se casa não são opções tão objetivas assim. Leonard Mlodinow, autor do best-seller O andar do bêbado, investiga, de forma divertida e brilhante, como o inconsciente modela nosso comportamento e determina nossas decisões e juízos sobre o mundo, as pessoas, as coisas. Um livro que vai mudar a sua vida. \"Mlodinow é sempre feliz em seu esforço de tornar a ciência acessível e divertida.\" Stephen Hawking \"Um dos dez livros do ano.\" NewScientist.com \"Mlodinow mostra como a ideia de inconsciente tornou-se novamente respeitável. ... Fascinante.\" The Economist \"Esse livro muito esclarecedor encanta o leitor ao estudar o funcionamento da mente humana.\" Booklist \"Divertidamente acessível, embora intelectualmente rigoroso, este livro transcende os limites tradicionais entre neurociência, psicologia e filosofia, descortinando a mente subliminar. Mlodinow oferece novos insights sobre o que o inconsciente pode fazer e faz para influenciar nossa vida.\" V.S. Ramachandran, Professor do Departamento de Psicologia e Neurociência da Universidade da Califórnia",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537810538"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537810533"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 299,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.8.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EtZZjjWZ4f0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EtZZjjWZ4f0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=EtZZjjWZ4f0C&printsec=frontcover&dq=O+andar+do+b%C3%AAbado&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EtZZjjWZ4f0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-EtZZjjWZ4f0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=EtZZjjWZ4f0C&rdid=book-EtZZjjWZ4f0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Subliminar-sample-epub.acsm?id=EtZZjjWZ4f0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Subliminar-sample-pdf.acsm?id=EtZZjjWZ4f0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EtZZjjWZ4f0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Leonard Mlodinow, autor do best-seller O andar do bêbado, investiga, de forma divertida e brilhante, como o inconsciente modela nosso comportamento e determina nossas decisões e juízos sobre o mundo, as pessoas, as coisas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0PtoDwAAQBAJ",
+   "etag": "lmIR2EK3lbA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0PtoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Elástico",
+    "subtitle": "Como o pensamento flexível pode mudar nossas vidas",
+    "authors": [
+     "Leonard Mlodinow"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2018-09-20",
+    "description": "Do superaclamado autor dos best-sellers O andar do bêbado e Subliminar, um livro que fará você enxergar além do óbvio e mudará completamente sua visão de mundo Você está preocupado em ficar para trás, atropelado pelo ritmo do mundo moderno? Sente que não vai dar conta em meio a um bombardeio de estímulos e informações? Em Elástico, Leonard Mlodinow nos ensina a liberar uma capacidade natural indispensável para progredirmos nesta época dinâmica: o pensamento flexível. O autor mostra com inteligência e bom-humor que todos temos essa habilidade — um estilo cognitivo, não linear, que nos leva a gerar e incorporar novas ideias. Lançando mão de histórias e exemplos fascinantes, ele desvenda o universo da neurociência e da psicologia de ponta para examinar de que forma o cérebro produz o pensamento flexível e quais os caminhos para aprimorá-lo. Artistas brilhantes como os músicos Miles Davis e David Bowie, a escritora Mary Shelley e até mesmo os criadores do Pokémon Go foram capazes de explorar essa aptidão e acabaram fomentando mudanças de paradigma em nossa cultura. Se de início suas ideias pareciam malucas, elas acabaram por se revelar geniais. Guiados com mestria por Mlodinow, vamos aprender também a sair da zona de conforto das soluções corriqueiras, superar posturas convencionais e reformular as perguntas que fazemos. Nesta jornada mais que oportuna pela mente humana, veremos como pensar melhor para prosperarmos num mundo em que nossa capacidade de adaptação se tornou mais crucial que nunca. *** \"Um mergulho fascinante em um dos tópicos mais importantes do momento: como nossa mente lida com mudanças. Se você gostou de Subliminar, vai amar Elástico.\" Charles Duhigg, autor de O poder do hábito \"Para todos que desejam entender como lidar com o ritmo acelerado de mudanças do mundo moderno.\" Library Journal \"Mlodinow nos mostra como tirar o melhor de um talento básico que todos temos para encontrar a verdadeira felicidade e o sucesso.\" Rudolph Tanzi, professor de neurologia da Universidade Harvard e autor de Supercérebro \"Um livro brilhante.\" Mark Williams, professor de psicologia da Universidade Oxford e autor de Atenção plena, Mindfulness \"Mlodinow nunca falha ao tornar a ciência acessível e ao mesmo tempo divertida.\" Stephen Hawking",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537818039"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537818038"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0PtoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0PtoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0PtoDwAAQBAJ&printsec=frontcover&dq=O+andar+do+b%C3%AAbado&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0PtoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0PtoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0PtoDwAAQBAJ&rdid=book-0PtoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/El%C3%A1stico-sample-epub.acsm?id=0PtoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0PtoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Sente que não vai dar conta em meio a um bombardeio de estímulos e informações? Em Elástico, Leonard Mlodinow nos ensina a liberar uma capacidade natural indispensável para progredirmos nesta época dinâmica: o pensamento flexível."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UJxRLCq9l3IC",
+   "etag": "CCWAhCByQp0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UJxRLCq9l3IC",
+   "volumeInfo": {
+    "title": "The Drunkard's Walk",
+    "subtitle": "How Randomness Rules Our Lives",
+    "authors": [
+     "Leonard Mlodinow"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2009",
+    "description": "An irreverent look at how randomness influences our lives, and how our successes and failures are far more dependent on chance events than we recognize.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307275172"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0307275175"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 45,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=UJxRLCq9l3IC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=UJxRLCq9l3IC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=UJxRLCq9l3IC&dq=O+andar+do+b%C3%AAbado&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UJxRLCq9l3IC&dq=O+andar+do+b%C3%AAbado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Drunkard_s_Walk.html?hl=&id=UJxRLCq9l3IC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=UJxRLCq9l3IC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "An irreverent look at how randomness influences our lives, and how our successes and failures are far more dependent on chance events than we recognize."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DZpQCgAAQBAJ",
+   "etag": "6TKvAAaSps8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DZpQCgAAQBAJ",
+   "volumeInfo": {
+    "title": "De primatas a astronautas",
+    "subtitle": "A jornada do homem em busca do conhecimento",
+    "authors": [
+     "Leonard Mlodinow"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2015-08-07",
+    "description": "Depois de O andar do bêbado e Subliminar, Mlodinow nos leva a mais uma grande jornada pelo mundo da ciência Uma odisseia repleta de descobertas e povoada por personagens fascinantes, cuja curiosidade insaciável conduziu nossa espécie, desde suas origens na savana africana até os dias de hoje. Mas como eles fizeram isso? Como saímos das cavernas para os automóveis, das árvores para os arranha-céus, de caminhar sobre dois pés para a exploração da Lua? Com sua habitual simplicidade, bom-humor e enorme erudição, Leonard Mlodinow explora as condições culturais que influenciaram o pensamento científico através dos tempos e as personalidades ímpares de grandes cientistas, filósofos e pensadores, como Galileu, Newton e Lavoisier. Um livro para os apaixonados pela ciência e para qualquer um interessado pelo pensamento criativo e a busca incessante de compreender o mundo. Informativo, acessível e intrigante, é um verdadeiro tributo à curiosidade humana. \"Poderoso. [...] Mlodinow imprime nova vida à história da ciência.\" Publishers Weekly \"Uma história incrível e muito prazerosa. ... [Mlodinow] é um especialista na popularização da ciência.\" Booklist \"Fascinante... Uma viagem guiada e bem selecionada sobre o processo de acúmulo de conhecimentos da humanidade... Um apanhado de tirar o fôlego.\" Kirkus Review \"Mlodinow faz um traçado vivo das revoluções do pensamento e da cultura que definem nossa civilização e, de bônus, apresenta uma estimulante visão da história e da majestosa abrangência da ciência moderna.\" V.S. Ramachandran, autor de O que o cérebro tem para contar",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537814697"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537814695"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=DZpQCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=DZpQCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=DZpQCgAAQBAJ&printsec=frontcover&dq=O+andar+do+b%C3%AAbado&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=DZpQCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-DZpQCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 39.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=DZpQCgAAQBAJ&rdid=book-DZpQCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/De_primatas_a_astronautas-sample-epub.acsm?id=DZpQCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/De_primatas_a_astronautas-sample-pdf.acsm?id=DZpQCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DZpQCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com sua habitual simplicidade, bom-humor e enorme erudição, Leonard Mlodinow explora as condições culturais que influenciaram o pensamento científico através dos tempos e as personalidades ímpares de grandes cientistas, filósofos e ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lfs6sTRwS0YC",
+   "etag": "pljhHl4IG7U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lfs6sTRwS0YC",
+   "volumeInfo": {
+    "title": "Novas Aventuras Cient’ficas de Sherlock Holmes",
+    "authors": [
+     "Colin Bruce"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2003",
+    "description": "Nesse livro, o físico Colin Bruce elucida mistérios matemáticos que fazem parte da atmosfera de jogadores ambiciosos, empresários distraídos e vigaristas sem escrúpulos. Por meio de seus profundos conhecimentos de probabilidade, estatística e teorias dos jogos Sherlock Holmes resolve crimes e protege inocentes. Episódios intrigantes apresentam de maneira acessível questões de diversas áreas da matemática, lógica e teoria dos jogos, lembrando que às vezes podemos tropeçar em escolhas aparentemente simples, sobretudo quando envolvem probabilidade ou estatística. Ao mesmo tempo, Bruce mostra como situações cotidianas que nos cercam, como a oferta irresistível de assinar uma revista científica ou a análise contábil de uma empresa, exigem muita atenção e algum conhecimento para evitar decisões erradas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8571107181"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788571107182"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 258,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lfs6sTRwS0YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lfs6sTRwS0YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lfs6sTRwS0YC&pg=PT31&dq=O+andar+do+b%C3%AAbado&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lfs6sTRwS0YC&dq=O+andar+do+b%C3%AAbado&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Novas_Aventuras_Cient_ficas_de_Sherlock.html?hl=&id=lfs6sTRwS0YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Novas_Aventuras_Cient_ficas_de_Sherlock-sample-pdf.acsm?id=lfs6sTRwS0YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lfs6sTRwS0YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma camada de neve cobria o solo, escondendo o lixo e os bueiros sob um \u003cbr\u003e\nmanto de brancura, dando à vista uma beleza pura de Natal. ... um esboço, como \u003cbr\u003e\nilustração. \u003cb\u003eO andar do bêbado\u003c/b\u003e — Este é apenas o nome de uma técnica bem."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2Y2lKoaBXq4C",
+   "etag": "12jhBdmrPXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2Y2lKoaBXq4C",
+   "volumeInfo": {
+    "title": "Ciência x espiritualidade",
+    "subtitle": "Dois pensadores, duas visões de mundo",
+    "authors": [
+     "Deepak Chopra",
+     "Leonard Mlodinow"
+    ],
+    "publisher": "Sextante",
+    "publishedDate": "2012-08-17",
+    "description": "Dois consagrados autores encontram-se num programa de TV para um apaixonado debate sobre o “Futuro de Deus”: Deepak Chopra e Leonard Mlodinow. Eles representam visões de mundo muito distintas. Para o primeiro, a realidade existe numa consciência que antecede a vida no Universo; o segundo acredita que só a física pode explicar a criação do cosmo. Um defende a espiritualidade, o outro, a ciência. Este livro é o resultado desse fantástico diálogo. Qual dos pontos de vista está correto? Para descobrir isso, Ciência x Espiritualidade aprofunda o choque das duas perspectivas em torno de quatro questões fundamentais: o Universo físico, a vida, o cérebro humano e Deus. Num diálogo sobretudo cordial e respeitoso, cada autor dá sua resposta. A extraordinária reunião de suas interpretações promove, afinal, uma convergência de pontos de vista em nome do futuro da humanidade.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575428412"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575428411"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.16.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=2Y2lKoaBXq4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=2Y2lKoaBXq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2Y2lKoaBXq4C&printsec=frontcover&dq=O+andar+do+b%C3%AAbado&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=2Y2lKoaBXq4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-2Y2lKoaBXq4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.59,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=2Y2lKoaBXq4C&rdid=book-2Y2lKoaBXq4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.659E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ci%C3%AAncia_x_espiritualidade-sample-epub.acsm?id=2Y2lKoaBXq4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ci%C3%AAncia_x_espiritualidade-sample-pdf.acsm?id=2Y2lKoaBXq4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2Y2lKoaBXq4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Qual dos pontos de vista está correto? Para descobrir isso, Ciência x Espiritualidade aprofunda o choque das duas perspectivas em torno de quatro questões fundamentais: o Universo físico, a vida, o cérebro humano e Deus."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8rtxDwAAQBAJ",
+   "etag": "QXYFrzTYhcc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8rtxDwAAQBAJ",
+   "volumeInfo": {
+    "title": "O Homem Criou Deus à Sua Imagem E Semelhança",
+    "authors": [
+     "M."
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O livro O Homem Criou Deus à Sua Imagem e Semelhança vem revolucionar os conceitos de Deus, da origem do Universo, do homem e da vida! É fruto de uma vasta pesquisa, ao longo de trinta anos e leitura de mais de mil livros no âmbito da Arqueologia, História, Antropologia, Sociologia, Química, Mitologia, Filosofia, Linguística, Teologia, entre outras e, sobretudo, o Estudo das Religiões Comparadas. Através de uma incursão em praticamente todos os ramos do conhecimento humano, é demonstrado que os deuses são criações do homem e refletem seus defeitos e emoções. Destarte, faz-se uma exposição das principais teorias sobre a origem do Universo, da Vida e do Homem, defendidas por cientistas da Universidade Harvar, Universidade Columbia, Universidade de Cambridge, de Genebra, de Tel Avive, de Edimburgo, de Illiois, entre outros. Outrossim, é feita uma explanação relativa à formação da Bíblia e sua exegese e hermenêutica. Mediante a Psicologia aplicada, fica evidenciado que a força está no interior, não no exterior, nos deuses. Por conseguinte, apresenta noções de Meditação e Neuroliguistica para controle da Mente, e consequentemente, dos pensamentos e emoções. É o começo de um novo tempo, livre de temores, preconceitos, e de verdadeira liberdade, com responsabilidades pessoais por nossos pensamentos, atos e ações.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU16238"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 302,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.11.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8rtxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8rtxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=8rtxDwAAQBAJ&pg=PA291&dq=O+andar+do+b%C3%AAbado&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=8rtxDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-8rtxDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=8rtxDwAAQBAJ&rdid=book-8rtxDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.112E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Homem_Criou_Deus_%C3%A0_Sua_Imagem_E_Semel-sample-pdf.acsm?id=8rtxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8rtxDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "o maior do mundo (de cujo empreendimento também participa o Brasil), que \u003cbr\u003e\npossui uma circunferência de 26 659 m e ... desing (O grande projeto), em \u003cbr\u003e\ncoautoria com o físico norte-americano Leonard Mlodinow (autor de \u003cb\u003eO andar do\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ebêbado\u003c/b\u003e),&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WrY8DwAAQBAJ",
+   "etag": "eP0r8UPmroY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WrY8DwAAQBAJ",
+   "volumeInfo": {
+    "title": "A Matemática do Dia a Dia: transforme o medo de números em ações eficazes para a sua vida",
+    "authors": [
+     "Steven Strogatz"
+    ],
+    "publisher": "Alta Books Editora",
+    "publishedDate": "2017-11-03",
+    "description": "Acredite ou não, a matemática exerce um papel fundamental na resposta dessas e de outras questões. Neste livro, Steven Strogatz apresenta ao leitor aos conceitos básicos da matemática, explicando sua linguagem incomum e cenários conceituais que facilitam a compreensão de problemas complexos. Cada capítulo é um momento de descoberta , começando com o porquê de os números serem tão úteis, passando pelas tortuosas verdades contidas no , no teorema de Pitágoras, nos números irracionais e nas caudas longas e chegando aos rigores e ao surpreendentes encantos do cálculo. Ganhador de diversos prêmios como professor em Cornell e elogiado por seus artigos sobre matemática no New York Times, Strogatz usa como premissa apenas o fato de que seus leitores são curiosos e têm bom senso e os recompensa com explicações claras, inteligentes e divertidas os mais importantes - e empolgantes - princípios da matemática. Trata-se de uma viagem guiada pelos elementos dessa instigante área do conhecimento, que vai desde a pré-escola até o ensino superior, e se destina a qualquer pessoa que que ira dar uma segunda chance ao tema – desta vez sob um ponto de vista adulto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788550801407"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8550801402"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WrY8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WrY8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WrY8DwAAQBAJ&pg=PA214&dq=O+andar+do+b%C3%AAbado&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WrY8DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WrY8DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.43,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 45.43,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WrY8DwAAQBAJ&rdid=book-WrY8DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.543E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.543E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Matem%C3%A1tica_do_Dia_a_Dia_transforme_o-sample-pdf.acsm?id=WrY8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WrY8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em resumo, o cenário de Anderson e Pareto funciona como uma função \u003cbr\u003e\nhierárquica, enquanto o cenário de Zipfe outros ... leia, Innumeracy, de J. A. \u003cbr\u003e\nPaulos (Vintage, 1990), e \u003cb\u003eO andar do bêbado\u003c/b\u003e, de L. Mlodinow (Rio de Janeiro: \u003cbr\u003e\nZahar, 2009)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9RjFCQAAQBAJ",
+   "etag": "R/ciIbdFesA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9RjFCQAAQBAJ",
+   "volumeInfo": {
+    "title": "O Mundo Real vai Acabar Amanhã",
+    "subtitle": "",
+    "authors": [
+     "London, Jack"
+    ],
+    "publisher": "Digitaliza Conteudo",
+    "description": "Uma vez que Jack London é o fundador da Booknet, e que ela foi o primeiro negócio virtual que ganhou fama no Brasil, podemos concluir que ele é o criador do primeiro empreendimento comercial relevante na Internet do Brasil. Isso faria dele o criadordo comércio eletrônico brasileiro? Ele também fundou a Tix, empresa de comercialização de ingressos online. Também é professor. Também é consultor. Também é empreendedor. E escreveu O MUNDO REAL VAI ACABAR AMANHÃ. Um livro que reúne 45 artigos publicados na imprensa brasileira que abordam aspectos da tecnologia da atualidade. São textos de um especialista em tecnologia sobre como ela afeta a vida cotidiana de todos nós. Opiniões de alguém que tem assento privilegiado na história da Internet no Brasil",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531211430"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8531211433"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9RjFCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9RjFCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9RjFCQAAQBAJ&pg=PT75&dq=O+andar+do+b%C3%AAbado&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9RjFCQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9RjFCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 21.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9RjFCQAAQBAJ&rdid=book-9RjFCQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.1E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_Real_vai_Acabar_Amanh%C3%A3-sample-epub.acsm?id=9RjFCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Mundo_Real_vai_Acabar_Amanh%C3%A3-sample-pdf.acsm?id=9RjFCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9RjFCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se você acha que toda sua vida se deve ao planejamento e à disciplina, não \u003cbr\u003e\npode deixar de conhecer o pensamento de Leonard Mlodinow, que escreveu \u003cb\u003eO\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eAndar do Bêbado\u003c/b\u003e, livro que o físico Stephen Hawking considera maravilhoso e o\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

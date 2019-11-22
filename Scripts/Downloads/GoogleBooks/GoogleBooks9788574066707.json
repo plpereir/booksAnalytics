@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "LqlHvgAACAAJ",
+   "etag": "t0ZWFd4XI1A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LqlHvgAACAAJ",
+   "volumeInfo": {
+    "title": "MALALA, A MENINA QUE QUERIA IR PARA A ESCOLA",
+    "authors": [
+     "ADRIANA CARRANCA CORRÊA"
+    ],
+    "publishedDate": "2015-04-30",
+    "description": "No primeiro livro-reportagem destinado ao público infantil, a jornalista Adriana Carranca relata às crianças a história da adolescente paquistanesa Malala Yousafzai, baleada por membros do Talibã aos catorze anos por defender a educação feminina. Na obra, a repórter traz suas percepções sobre o vale do Swat, a história da região e a definição dos termos mais importantes para entender a vida desta menina tão corajosa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8574066702"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574066707"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LqlHvgAACAAJ&dq=isbn:9788574066707&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LqlHvgAACAAJ&dq=isbn:9788574066707&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MALALA_A_MENINA_QUE_QUERIA_IR_PARA_A_ESC.html?hl=&id=LqlHvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LqlHvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Poucos acreditaram que ela sobreviveria. A jornalista Adriana Carranca visitou o vale do Swat dias depois do atentado, hospedou-se com uma família local e conta neste livro tudo o que viu e aprendeu por lá."
+   }
+  }
+ ]
+}

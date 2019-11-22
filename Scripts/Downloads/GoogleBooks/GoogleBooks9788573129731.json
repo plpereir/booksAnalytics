@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SL0MvgAACAAJ",
+   "etag": "zTRiYGGD96k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SL0MvgAACAAJ",
+   "volumeInfo": {
+    "title": "O PODER DA CORAGEM",
+    "authors": [
+     "JOBER CHAVES"
+    ],
+    "publishedDate": "2014-08-01",
+    "description": "As pessoas levam uma vida cheia de autoenganos, se apegam a pequenas coisas e as transformam em falsos motivadores para seguir em frente. Aquele que não usa todo o seu potencial carrega consigo, diariamente, uma dor que muitas vezes nem ele entende, ou não se permite dedicar muita atenção para descobrir a causa da apatia e do sentimento de opressão em seu peito. Além disso, essa pessoa não enxerga o que pode fazer para tirar isso de si. Por que, então, você não faz tudo o que pode fazer?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573129735"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573129731"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SL0MvgAACAAJ&dq=isbn:9788573129731&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=SL0MvgAACAAJ&dq=isbn:9788573129731&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_PODER_DA_CORAGEM.html?hl=&id=SL0MvgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SL0MvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Por que, então, você não faz tudo o que pode fazer? Porque você não conhece e, assim, não vive as cinco chaves de poder: - Sonhos - Conhecimento - Associação - Plantação - Poder da palavra"
+   }
+  }
+ ]
+}

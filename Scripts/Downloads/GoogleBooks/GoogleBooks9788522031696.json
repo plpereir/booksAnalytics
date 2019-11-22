@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gzi4jwEACAAJ",
+   "etag": "BZ+iXxhKKBA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gzi4jwEACAAJ",
+   "volumeInfo": {
+    "title": "Amar e ser livre",
+    "subtitle": "as bases para uma nova sociedade",
+    "authors": [
+     "Sri Prem Baba"
+    ],
+    "publishedDate": "2015",
+    "description": "In this book, Prem Baba talks about the quality of love and the development of relationships, showing that a happy relationship goes beyond personal achievement. Building loving, healthy and constructive relationships is key to building a better world, with less evil.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "852203169X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522031696"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Interpersonal relations"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=gzi4jwEACAAJ&dq=isbn:9788522031696&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gzi4jwEACAAJ&dq=isbn:9788522031696&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Amar_e_ser_livre.html?hl=&id=gzi4jwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gzi4jwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this book, Prem Baba talks about the quality of love and the development of relationships, showing that a happy relationship goes beyond personal achievement."
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1RPMugEACAAJ",
+   "etag": "ZOQeNdtkNv8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1RPMugEACAAJ",
+   "volumeInfo": {
+    "title": "O Pequeno Príncipe",
+    "authors": [
+     "Antoine De Saint-exupery",
+     "Dom Marcos Barbosa"
+    ],
+    "publishedDate": "2018-08-27",
+    "description": "Nesta clássica história que marcou gerações de leitores em todo o mundo, um piloto cai com seu avião no deserto do Saara e encontra um pequeno príncipe, que o leva a uma jornada filosófica e poética através de planetas que encerram a solidão humana. A edição conta com a clássica tradução do poeta imortal dom Marcos Barbosa, e é a versão mais consagrada da obra, publicada no Brasil desde 1952.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8595081514"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788595081512"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=1RPMugEACAAJ&dq=isbn:9788595081512&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1RPMugEACAAJ&dq=isbn:9788595081512&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Pequeno_Pr%C3%ADncipe.html?hl=&id=1RPMugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=1RPMugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta clássica história que marcou gerações de leitores em todo o mundo, um piloto cai com seu avião no deserto do Saara e encontra um pequeno príncipe, que o leva a uma jornada filosófica e poética através de planetas que encerram ..."
+   }
+  }
+ ]
+}

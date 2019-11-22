@@ -1,0 +1,832 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 33,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "a9g3uQEACAAJ",
+   "etag": "H0Cma+JP1mo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a9g3uQEACAAJ",
+   "volumeInfo": {
+    "title": "Livro Bolsinha",
+    "subtitle": "FADINHAS BRILHANTES",
+    "authors": [
+     "Michael Emmerson",
+     "Carla Sacrato"
+    ],
+    "publishedDate": "2018-07-02",
+    "description": "Este livro em formato de bolsinha pode ser levado para qualquer lugar. A brincadeira não vai ter hora pra começar e nem pra acabar. Com mais de 400 adesivos, lindos acessórios e uma varinha mágica incrível, as pequenas fadinhas vão se divertir muito lendo e brincando!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539422476"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539422470"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 16,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=a9g3uQEACAAJ&dq=Brilhantes+fadinhas&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=a9g3uQEACAAJ&dq=Brilhantes+fadinhas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Livro_Bolsinha.html?hl=&id=a9g3uQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a9g3uQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro em formato de bolsinha pode ser levado para qualquer lugar."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3QaXugEACAAJ",
+   "etag": "Imu2A+Cm2dk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3QaXugEACAAJ",
+   "volumeInfo": {
+    "title": "Meu Livro Brilhante",
+    "subtitle": "DE FADAS COM ATIVIDADES E ADESIVOS",
+    "authors": [
+     "Girassol"
+    ],
+    "publishedDate": "2018-08-03",
+    "description": "As meninas vão voar até a terra das fadas neste livro repleto de diversão! Com mais de 350 adesivos incríveis e lindas fadinhas para destacar e montar, ele é o passatempo perfeito para se apaixonar pelo mundo das atividades e adesivos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8539422018"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788539422012"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 18,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3QaXugEACAAJ&dq=Brilhantes+fadinhas&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3QaXugEACAAJ&dq=Brilhantes+fadinhas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Meu_Livro_Brilhante.html?hl=&id=3QaXugEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3QaXugEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As meninas vão voar até a terra das fadas neste livro repleto de diversão!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LKPZIpisSEwC",
+   "etag": "wJ7FDQWjMB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LKPZIpisSEwC",
+   "volumeInfo": {
+    "title": "Bruxas & Fadas, O Gurdião do Reino Feérico",
+    "authors": [
+     "PARDAHL RONDON HS"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "SINOPSE-No magnífico castelo Morgana, a feiticeira Malvina treina suas melhores alunas para integrarem ao letal exército do Poderoso mago Theo Mais uma vez ele colocará seus bruxos em guerra contra o povo de Ouro Verde, onde outrora derrotara a rainha das fadas, destruindo assim, a união entre o reino dos homens e das fadasDécadas após o confronto entre Theo e a rainha-fada, as ninfas das águas profetizaram o nascimento de um nobre humano que refaria tal aliançaApós encontrar o anel da rainha, o jovem Tom descobre ser ele o Guardião do Reino Feérico, cuja missão é encontrar a filha da rainha Porém, nem imaginava que Iuli, a princesa de sangue feérico era uma das melhores feiticeiras do Castelo MorganaO que impedia Iuli, ? a bruxinha-fada ? de ser a bruxa perfeita era que possuía seu caráter de fadas intacto e não conseguia ser tão má, contudo esforçava-se para ser a pior das feiticeirasTheo e seus bruxos tentarão encontrar o guardião antes que ele encontre a princesaNessa guerra, os jovens guerreiros, alguns seres mágicos e até certos bruxos protetores dos elementos ? Terra, Ar, Fogo e Água ? irão apoiar o guardião nessa aventura",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541600217"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541600211"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 284,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LKPZIpisSEwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LKPZIpisSEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LKPZIpisSEwC&pg=PA253&dq=Brilhantes+fadinhas&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=LKPZIpisSEwC&dq=Brilhantes+fadinhas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Bruxas_Fadas_O_Gurdi%C3%A3o_do_Reino_Fe%C3%A9ric.html?hl=&id=LKPZIpisSEwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LKPZIpisSEwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ao som da corneta, saiu uma linda \u003cb\u003efadinha\u003c/b\u003e negra usando uma saia muito curta e \u003cbr\u003e\numa blusa feita com pétalas de rosas, na cabeça tinha uma tiara de \u003cb\u003ebrilhantes\u003c/b\u003e e \u003cbr\u003e\nusava um par de asas de libélula duas vezes maior que seu corpo. Com uma&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SeB7DwAAQBAJ",
+   "etag": "CC9kMmrzBd0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SeB7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Elle",
+    "authors": [
+     "Marina Dutra"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "A jovem Elle vive uma tranquila rotina na monótona vila de Amarilys, onde a chegada da primavera é o grande evento do ano. Porém, uma visita inesperada põe em risco a segurança desse acontecimento, obrigando Elle a sair em uma jornada para recobrar o equilíbrio do bosque mágico em que vive e o seu próprio equilíbrio interior. Com a ajuda de uma pequena grande amiga e de um aventureiro temerário, ela sai pela primeira vez do vale, visitando terras desconhecidas em busca da força de seu coração.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU2494"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 107,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.39.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SeB7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SeB7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SeB7DwAAQBAJ&pg=PA77&dq=Brilhantes+fadinhas&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SeB7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SeB7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SeB7DwAAQBAJ&rdid=book-SeB7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Elle-sample-pdf.acsm?id=SeB7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SeB7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As \u003cb\u003efadas\u003c/b\u003e de açúcar, reunidas em volta do lago, parecem realizar algum tipo de \u003cbr\u003e\nreunião solene. ... Seus olhos se abrem de espanto, involuntariamente, o se \u003cbr\u003e\ndeparar com todas aquelas \u003cb\u003efadas\u003c/b\u003e peroladas e \u003cb\u003ebrilhantes\u003c/b\u003e flutuando a sua frente."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zNu6psj_8N8C",
+   "etag": "vprajCgnolQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zNu6psj_8N8C",
+   "volumeInfo": {
+    "title": "Kolob",
+    "authors": [
+     ", Semíramis"
+    ],
+    "publisher": "biblioteca24horas",
+    "description": "A coragem é uma virtude que não tem idade nem é preciso morrer bravamente, mas viver digno, com determinação demonstra um verdadeiro caráter Esta obra mostra exemplo de grande coragem Trata-se de uma jovem chamada Júlia que embarca em uma encantadora aventura entre o mundo que ela vive a Terra e o mundo que vem a conhecer chamado Kolob, este planeta paralelo na verdade é onde Júlia nasceu Na realidade Júlia chama-se Dália e é uma princesa, que para sua segurança foi levada por seus pais para a Terra Não demora muito para que a Família Real encontre um casal que mora numa zona rural e vivem da plantação de flores A princesa é deixada nesta cidade por nome de Brinco de princesa A criança é criada com muito amor e em meio a canção herda o mesmo sonho do pai, isto é, ser reconhecida pela música Seu pai faz uma viagem em busca do seu sonho de tornar-se um cantor famoso e nesta viagem sofre um acidente onde perde a memória deixando a família sem notícia É quando Júlia decide, junto com seus amigos Lúcia, Emily e Erick ir a procura do pai desaparecido, e é nesta busca que vão parar em Kolob, através de um portal Nesta maravilhosa experiência descobre sua verdadeira origem Um mundo maravilhoso de tão grande nobreza e fantasia encontra uma árvore chamada Arvolate, pois ela é toda de chocolate e faz parte de uma floresta chamada Floresta dos Desejos Eles também fazem novas amizades inclusive com Oiac, um jovem príncipe que é encontrado desmaiado nesta floresta, e é socorrido por Júlia e seus amigos que o levam de volta ao seu castelo E por fim Oiac acaba tendo que ajudar a salvar Júlia e seu mundo das ambições do feiticeiro Eridian",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788541600392"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8541600394"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 62,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zNu6psj_8N8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zNu6psj_8N8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zNu6psj_8N8C&pg=PA24&dq=Brilhantes+fadinhas&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zNu6psj_8N8C&dq=Brilhantes+fadinhas&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Kolob.html?hl=&id=zNu6psj_8N8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zNu6psj_8N8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A \u003cb\u003efadinha\u003c/b\u003e diz que antes que se vão quer dar algo. Então para cada um deu um \u003cbr\u003e\nsaquinho com bolinhas coloridas e \u003cb\u003ebrilhantes\u003c/b\u003e. - Que legal - disse Erick eu vou \u003cbr\u003e\nser o único que tenho bolas de gudes diferentes dos outros. A \u003cb\u003efadinha\u003c/b\u003e disse: \u003cbr\u003e\nNão&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7UouDwAAQBAJ",
+   "etag": "GWOMI7i5ojw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7UouDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Visão de Veras",
+    "authors": [
+     "E.J. Stevens"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2017-07-21",
+    "description": "Vencedor do PRG Review's Choice Award do Melhor Romance de Fantasia Paranormal e finalista da Melhor Série de Fantasia Urbana. Bem-vindo a Harborsmouth, onde os monstros caminham pelas ruas invisíveis pelos seres humanos ... exceto aqueles com visão de veras, como Ivy Granger. Há coisas melhores não vistas... A visão de veras de Ivy Granger finalmente está dando propósito a sua vida. Ivy e sua melhor amiga Jinx talvez não estejam ficando ricas, mas sua agência de detetive psíquica paga as contas - na maioria das vezes. Sua única preocupação é o tédio de um dia lento e o ocasional cliente louco - até que um demônio passe pela porta delas. Demônios nunca são coisa boa... Um advogado demônio que representa as fae aquáticas? Coisas mais estranhas já aconteceram. E as coisas estão prestes a ficar muito, mas muito estranhas mesmo quanto um pesadelo sangrento começa a caçar na cidade de Harborsmouth. Há sangue na água... Kelpies tem reputação de comer humanos. Infelizmente, os kelpies são os clientes. Quando fadas Unseelie más desse jeito perambulam as vias da sua cidade, você precisa fazer escolhas difíceis. O menor dos dois males... Visão de Veras é o primeira livro da série de fantasia urbana Ivy Granger, bestseller de E.J. Stevens. O mundo de Ivy Granger, incluindo a série Ivy Granger, Detetive Paranormal e a série Hunter's Guild, é recheada de ação, mistério paranormal, magia, humor pesado, personagens peculiares, vampiros sanguinolentos, demônios que flertam, gárgulas sarcásticas, transmorfos sexy, bruxas temperamentais, fadas psicóticas e heroínas irritadiças. \"Stevens nos convence instantaneamente com personagens bem desenvolvidos e agradáveis\". -Ted Fauster, autor da série World of Faerel \"Este é um começo maravilhoso para uma série que o deixa querendo mais!\" -Miranda Shanklin, autor da série Soul",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781547508242"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1547508248"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 157,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=7UouDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=7UouDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7UouDwAAQBAJ&pg=PT169&dq=Brilhantes+fadinhas&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7UouDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-7UouDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.25,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.25,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=7UouDwAAQBAJ&rdid=book-7UouDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.525E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.525E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7UouDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pookas eram \u003cb\u003efadinhas\u003c/b\u003e pequenas saltando cerca de sessenta centímetros, dos \u003cbr\u003e\npés descalços ao chapéu pontudo, mas as ... Antes de sair do acampamento, \u003cbr\u003e\nKaye pediu que um dos Caçadores roubasse uma das algas marinhas \u003cb\u003ebrilhantes\u003c/b\u003e\u003cbr\u003e\n."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "H7V5DwAAQBAJ",
+   "etag": "HAcf5NH+/dU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H7V5DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Grizeia Uma Fadinha Verde",
+    "authors": [
+     "Edna Regina BadÚ Teixeira"
+    ],
+    "publisher": "Clube de Autores (managed)",
+    "description": "O universo da criança é rico autêntico e divertido, repleto de cores cheiros e sabores, No conto, Grizeia é uma fadinha verde e bastante corajosa. As personagens interagem em um mundo fantástico, onde bruxas, fadas e duendes convivem com o mundo real. Grizeia, a fadinha irreverente, sonha em ser promovida a fada ajudadora real e para isso não mede esforços, No caminho de suas aventuras encontra uma frágil menina cheia de problemas, mas com muita coragem, Convido você caro leitor, a participar dessa aventura. ******",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:CLDEAU31352"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 51,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=H7V5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=H7V5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=H7V5DwAAQBAJ&pg=PA23&dq=Brilhantes+fadinhas&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=H7V5DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-H7V5DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=H7V5DwAAQBAJ&rdid=book-H7V5DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.855E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Grizeia_Uma_Fadinha_Verde-sample-pdf.acsm?id=H7V5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=H7V5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A \u003cb\u003efadinha\u003c/b\u003e verde faz cara de esnobe. - Além de malvadas ... Que horror, uma \u003cbr\u003e\n\u003cb\u003efadinha\u003c/b\u003e tão futriqueira, diz Laurinha rindo muito. -Já vi que não foi ... A \u003cb\u003efadinha\u003c/b\u003e \u003cbr\u003e\nGrizeia tira uma pequena pedrinha \u003cb\u003ebrilhante\u003c/b\u003e e mágica de sua bolsinha. Olha \u003cbr\u003e\natravés&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q91OBQAAQBAJ",
+   "etag": "TTzrx1WU5xs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q91OBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Pequenas epifanias",
+    "authors": [
+     "Caio Fernando Abreu"
+    ],
+    "publisher": "Nova Fronteira",
+    "publishedDate": "2014-10-31",
+    "description": "“Caio sentia a dor profundamente, falava de solidão, de suicídio. Mas ao mesmo tempo não se deixava levar. Debochava da dor e a superava.” — CÁSSIO SCAPIN “Muitos jovens se interessam pelo Caio porque ele joga com uma certa vontade transgressora e, ao mesmo tempo, contrabalança com um discurso de afeto. Ele se dirige muito a quem é inquieto, crítico, tem talento artístico e a quem é intenso e passional.” — ITALO MORICONI \"Se estendo a mão, no meio da poeira de dentro de mim, posso tocar também em outra coisa. Essa pequena epifania. Com corpo e face. Que reponho devagar, traço a traço, quando estou só e tenho medo. Sorrio, então.” Epifania é a expressão religiosa empregada para designar uma manifestação divina. Por extensão, é o perceber súbito e imediato de uma realidade essencial, uma espécie de iluminação. As crônicas escritas por Caio Fernando Abreu retêm essa qualidade, levam o leitor a enxergar, como num clarão, verdades bem-escondidas. Este livro apresenta uma seleção dessas epifanias. Suas crônicas têm um caráter de urgência, expondo angústias e inquietações pessoais. Elas revelam o lado significativo de fatos como os horrores da descoberta da aids, abrindo-se para visões poéticas como a da morte que se aproxima na forma do último trem — que também pode ser o primeiro. A primeira fase de Pequenas epifanias foi publicada no jornal O Estado de S. Paulo entre 1986 e 1989. Depois de um intervalo de três anos, Caio voltou ao terreno da crônica instigado por Antonio Gonçalves Filho, então editor do “Caderno 2” do jornal. É aí que sua escrita de cronista se torna mais visceral, mais atada aos fenômenos da vida e da morte. Como lembra Gonçalves Filho, na apresentação da obra, Caio vinha “disposto a fazer da crônica uma narrativa explicitamente autobiográfica e escandalosamente literária”. Pequenas epifanias foi publicado originalmente em 1996, poucos meses depois da morte de Caio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788520940235"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8520940234"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=q91OBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=q91OBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=q91OBQAAQBAJ&pg=PT64&dq=Brilhantes+fadinhas&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=q91OBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-q91OBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 28.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=q91OBQAAQBAJ&rdid=book-q91OBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.849E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pequenas_epifanias-sample-epub.acsm?id=q91OBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pequenas_epifanias-sample-pdf.acsm?id=q91OBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=q91OBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alguma coisa dentro dele disse que do outro lado daquele rio ficava o País das \u003cbr\u003e\n\u003cb\u003eFadas\u003c/b\u003e. ... Morto de vergonha, colocou aquela miséria ao lado da \u003cb\u003efadinha\u003c/b\u003e. De \u003cbr\u003e\nrepente ... O homem que acreditava abriu todas as janelas para o dia azul \u003cbr\u003e\n\u003cb\u003ebrilhante\u003c/b\u003e."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SlF-CwAAQBAJ",
+   "etag": "ogqi72aQUpc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SlF-CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma história incomum sobre livros e magia",
+    "authors": [
+     "Lisa Papademetriou"
+    ],
+    "publisher": "Editora Arqueiro",
+    "publishedDate": "2016-03-01",
+    "description": "Kai chega ao Texas para visitar sua tia-avó Lavinia – uma senhora extravagante, durona e fã de hip-hop. Do outro lado do mundo, no Paquistão, Leila deseja ser tratada como uma princesa pela família de seu pai e viver fortes emoções.Elas só não fazem ideia de que seus mundos completamente diferentes estão prestes a se chocar graças a um enigmático livro em branco.Quando Kai escreve no livro, suas palavras magicamente aparecem no exemplar de Leila. As meninas então percebem que O cadáver excêntrico reage a cada frase acrescentada – não importa se foi inspirada pelo ataque de um chihuahua ou por um mal-entendido com uma cabra – com um trecho da história de amor vivida por Ralph Flabbergast e Edwina Pickle mais de cinquenta anos antes.Uma história incomum sobre livros e magia entrelaça essas três perspectivas – de Kai, Leila e Ralph – de uma forma divertida e emocionante. É uma narrativa mágica sobre o destino e os laços invisíveis que nos ligam uns aos outros.\"Deslumbrante! A aventura e o mistério nos fazem devorar cada página. É um verdadeiro passe de mágica!\" – Rita Williams-Garcia, vencedora do prêmio Newbery Honor em 2011\"Esta história certamente agradará os leitores que adoram um mistério inteligente e de ritmo acelerado.\" – School Library Journal\"A autora escreve com segurança um conto cativante sobre personagens e eventos aparentemente não relacionados e une todas as peças com um toque de realismo mágico.\" – Kirkus Reviews \"Este livro é mágico tanto no conteúdo quanto no efeito que causa no leitor.\" – The Recorder",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580415070"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580415071"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SlF-CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SlF-CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=SlF-CwAAQBAJ&pg=PT7&dq=Brilhantes+fadinhas&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=SlF-CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-SlF-CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=SlF-CwAAQBAJ&rdid=book-SlF-CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.899E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_hist%C3%B3ria_incomum_sobre_livros_e_mag-sample-epub.acsm?id=SlF-CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_hist%C3%B3ria_incomum_sobre_livros_e_mag-sample-pdf.acsm?id=SlF-CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SlF-CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Era um livro de contos de \u003cb\u003efadas\u003c/b\u003e, escrito em inglês, pois ele queria que ela \u003cbr\u003e\naprendesse o idioma. Omi foi a única integrante da família ... A capa tinha um \u003cbr\u003e\ntom \u003cb\u003ebrilhante\u003c/b\u003e de azul e era decorada com \u003cb\u003efadinhas\u003c/b\u003e douradas. Tratava-se de um \u003cbr\u003e\nelegante&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0FtQBQAAQBAJ",
+   "etag": "e7Nbkmt9RlQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0FtQBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Uma Aventura No Reino Das árvores",
+    "authors": [
+     "Joe Siqueira"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2009-05-16",
+    "description": "A floresta Amazônica está em perigo! Grandes queimadas ameaçam o mundo do reino das árvores e os seres que lá habitam. Em uma aventura no reino da árvores, a história se passa em uma terra do imaginário Amazônico, onde tudo acontece, lá seres esquisitos, animais falantes, vilões perigosos se enfrentam. conheça você também este mundo encantado.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90145402"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 101,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0FtQBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0FtQBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0FtQBQAAQBAJ&pg=PA1&dq=Brilhantes+fadinhas&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0FtQBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0FtQBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 7.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0FtQBQAAQBAJ&rdid=book-0FtQBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7530000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Uma_Aventura_No_Reino_Das_%C3%A1rvores-sample-pdf.acsm?id=0FtQBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0FtQBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com seus cabelos compridos, encaracolados, negros e \u003cb\u003ebrilhantes\u003c/b\u003e como as \u003cbr\u003e\nnoites da floresta, embora fosse bela, ela era ... Sonhava com várias \u003cb\u003efadinhas\u003c/b\u003e \u003cbr\u003e\ncoloridas, novos amigos, num lugar misterioso, de um vale em um reino \u003cbr\u003e\nencantado da&nbsp;..."
+   }
+  }
+ ]
+}

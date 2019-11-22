@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lNzYjwEACAAJ",
+   "etag": "74ykauI3eww",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lNzYjwEACAAJ",
+   "volumeInfo": {
+    "title": "Livro - Coleção Harry Potter (7 Volumes).",
+    "publishedDate": "2015",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532512941"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532512949"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=lNzYjwEACAAJ&dq=isbn:9788532512949&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lNzYjwEACAAJ&dq=isbn:9788532512949&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Livro_Cole%C3%A7%C3%A3o_Harry_Potter_7_Volumes.html?hl=&id=lNzYjwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lNzYjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Os sete livros da saga criada por J. K. Rowling - que acompanha a jornada do adorado aprendiz de bruxo contra o maléfico Voldemort - ganham novas capas e novas ilustrações e vêm num box exclusivo.br /br / Harry Potter E A Pedra ..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 189,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vXJ-BBtt8u0C",
+   "etag": "tms4lh88wbQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vXJ-BBtt8u0C",
+   "volumeInfo": {
+    "title": "O diário de Helga",
+    "authors": [
+     "Helga Weiss"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2013-03-22",
+    "description": "Calcula-se que das 15.000 crianças que passaram pelo campo de internamento de Terezín, na antiga Tchecoslováquia, apenas 100 chegaram com vida ao fim da Segunda Guerra Mundial. Helga Weiss, uma dessas raras sobreviventes, é autora de um dos mais comoventes testemunhos do Holocausto. Em 1938, por ocasião da ocupação nazista de seu país, a menina de 8 anos, filha de um bancário e uma costureira, começou a escrever em um caderno suas impressões. Textos e desenhos registram com o olhar infantil tudo que aconteceu com sua família, desde a segregação dos judeus ainda em Praga até a desumana rotina de privações e doenças de Terezín, onde um carro fúnebre fazia frequentemente o transporte de gêneros alimentícios. Depois de três anos em Terezín, Helga e sua mãe viveram uma tétrica peregrinação por campos de extermínio como Auschwitz, quando a garota escapou por pouco da câmara de gás. Ao final da guerra, Helga, então com 15 anos, acrescentou o relato dessa experiência a seu diário. Em cada palavra e desenho, há uma lembrança de um passado que não pode ser esquecido. Artista plástica respeitada, Helga Weiss, 83 anos, vive em Praga, no mesmo apartamento em que morou com os pais antes da deportação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580573091"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580573092"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vXJ-BBtt8u0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vXJ-BBtt8u0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=vXJ-BBtt8u0C&printsec=frontcover&dq=O+di%C3%A1rio+de+Helga&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vXJ-BBtt8u0C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vXJ-BBtt8u0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vXJ-BBtt8u0C&rdid=book-vXJ-BBtt8u0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_di%C3%A1rio_de_Helga-sample-epub.acsm?id=vXJ-BBtt8u0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_di%C3%A1rio_de_Helga-sample-pdf.acsm?id=vXJ-BBtt8u0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vXJ-BBtt8u0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Em cada palavra e desenho, há uma lembrança de um passado que não pode ser esquecido. Artista plástica respeitada, Helga Weiss, 83 anos, vive em Praga, no mesmo apartamento em que morou com os pais antes da deportação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CgznAgAAQBAJ",
+   "etag": "GiiJ4XEHq/k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CgznAgAAQBAJ",
+   "volumeInfo": {
+    "title": "As meninas do quarto 28",
+    "authors": [
+     "Hannelore Brenner"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-02-01",
+    "description": "As histórias do Holocausto ainda não foram todas contadas...O que vem a sua mente quando você ouve falar em Segunda Guerra Mundial? Um nome, com certeza: Anne Frank e seu diário. Mas as vítimas do Holocausto têm tantos nomes e tantas histórias que precisamos contar! Não podemos esquecê-las. Helga, Flaška, Zajiček, Marta, Judith, Eva, Handa... Algumas das 15 sobreviventes do Quarto 28 do Abrigo para Meninas de Theresienstadt ainda estão entre nós. Elas não se deixam calar. Muitos prisioneiros judeus passaram pelo campo de concentração Theresienstadt, uma cidade de faz-de-conta, encenada para desviar a atenção da imprensa e da Cruz Vermelha Internacional. Ali, no Quarto 28 do Abrigo para Meninas, moraram 60 crianças das quais somente 15 sobreviveram. Suas histórias, mescladas com fatos históricos e anotações do diário de Helga Pollak, desenhos infantis feitos durante aulas de desenho secretas e poesias escritas em álbuns de recordações, nos convidam para uma caminhada por Theresienstadt. Neste livro, Hannelore Brenner conta essa história. Uma história feita de tristeza, amizade, compaixão e esperança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580449822"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580449820"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.23.24.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CgznAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CgznAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=CgznAgAAQBAJ&pg=PT29&dq=O+di%C3%A1rio+de+Helga&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CgznAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-CgznAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 31.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CgznAgAAQBAJ&rdid=book-CgznAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/As_meninas_do_quarto_28-sample-epub.acsm?id=CgznAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CgznAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Uma coisa é certa: este livro não existiria sem \u003cb\u003eo diário de Helga\u003c/b\u003e. Sem ele, \u003cbr\u003e\nninguém seria capaz de imaginar como era a vida no Quarto 28 do Abrigo para \u003cbr\u003e\nMeninas L 410 em Theresienstadt. Somente \u003cb\u003eo diário de Helga\u003c/b\u003e tornou possível a\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GFzjmgEACAAJ",
+   "etag": "XY6FeLZfacI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GFzjmgEACAAJ",
+   "volumeInfo": {
+    "title": "El diario de Helga : testimonio de una niña en un campo de concentración",
+    "authors": [
+     "Helga Weiss"
+    ],
+    "publishedDate": "2013-04",
+    "description": "Helga comienza a escribir e ilustrar su diario en 1938. A los ocho anos vive la invasión nazi de Praga recluida en su casa, ya que las escuelas no admiten judíos, y a sus padres se les niega la posibilidad de trabajar. En 1941, envían a toda la familia al campo de concentración de Terezín, donde durante tres años la niña documenta en sus cuadernos la vida cotidiana, las duras condiciones y los buenos momentos, hasta que son transferidos a Auschwitz. Antes de subir al vagón, le entrega a su tío las páginas de su diario y éste las esconde entre los ladrillos de una pared. De los quince mil niños que llegaron a Terezín y fueron enviados a Auschwitz, sólo cien sobrevivieron al Holocausto. Helga fue uno de ellos. Cuando regresó a Praga había cumplido quince anos y en la pobreza más absoluta continúa el relato de las experiencias sufridas desde que dejó de escribir. Reconstruido a partir de los cuadernos originales y de las hojas sueltas en las que Helga escribió después de la guerra, este diario se edita por primera vez. Se acompaña de una entrevista a la autora, y de los dibujos que realizó en Terezín. El diario de Helga es uno de los testimonios más trepidantes que se han escrito durante el Holocausto.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8415601255"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788415601258"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=GFzjmgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=GFzjmgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.com.br/books?id=GFzjmgEACAAJ&dq=O+di%C3%A1rio+de+Helga&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GFzjmgEACAAJ&dq=O+di%C3%A1rio+de+Helga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_diario_de_Helga_testimonio_de_una_ni.html?hl=&id=GFzjmgEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=GFzjmgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Se acompaña de una entrevista a la autora, y de los dibujos que realizó en Terezín. El diario de Helga es uno de los testimonios más trepidantes que se han escrito durante el Holocausto."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LWZ4BwAAQBAJ",
+   "etag": "u74gjk3Bz5o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LWZ4BwAAQBAJ",
+   "volumeInfo": {
+    "title": "Brasil: os frutos da guerra",
+    "subtitle": "",
+    "authors": [
+     "Neill Lochery"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2015-04-20",
+    "description": "Quando a Segunda Guerra Mundial eclodiu, em 1939, o Brasil parecia muito distante do conflito tanto geográfica quanto politicamente. Na época, o país tropical, subdesenvolvido e longínquo era o destino perfeito para viajantes internacionais que desejavam fugir um pouco do clima pesado dos conflitos. Contudo, a imagem bucólica de praias maravilhosas e povo amistoso escondia uma realidade bem mais complexa. Em pleno Estado Novo e movido pelo objetivo de modernizar o país, o presidente Getúlio Vargas via na Segunda Guerra Mundial uma chance de ouro. Fatores como as vastas riquezas naturais e a proximidade geográfica com os Estados Unidos despertaram o interesse tanto dos Aliados quanto do Eixo, resultando em um balé diplomático entre embaixadores, ministros e presidentes para assegurar o apoio estratégico do país na guerra. É o que defende o aclamado pesquisador Neill Lochery em Brasil: Os frutos da guerra, livro que abarca um dos períodos mais importantes da história nacional para a formação do Brasil moderno. Um relato vívido e repleto de intrigas sobre como a habilidade política e o oportunismo econômico do governo brasileiro permitiram que o conflito alçasse o país à condição de potência política e econômica da região.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580576924"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "858057692X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LWZ4BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LWZ4BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LWZ4BwAAQBAJ&pg=PT402&dq=O+di%C3%A1rio+de+Helga&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LWZ4BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LWZ4BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LWZ4BwAAQBAJ&rdid=book-LWZ4BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.241E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Brasil_os_frutos_da_guerra-sample-epub.acsm?id=LWZ4BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Brasil_os_frutos_da_guerra-sample-pdf.acsm?id=LWZ4BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LWZ4BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neill Lochery. LEIA TAMBÉM Inferno Max Hastings. No jardim das feras Erik \u003cbr\u003e\nLarsson \u003cb\u003eO diário de Helga\u003c/b\u003e Helga Weiss."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uzvqnQEACAAJ",
+   "etag": "GOqsgEcd6H8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uzvqnQEACAAJ",
+   "volumeInfo": {
+    "title": "Il diario di Helga. La testimonianza di una ragazza nei campi di Terezìn e Auschwitz",
+    "authors": [
+     "Helga Weiss"
+    ],
+    "publishedDate": "2014-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8806214381"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788806214388"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 211,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=uzvqnQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=uzvqnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com.br/books?id=uzvqnQEACAAJ&dq=O+di%C3%A1rio+de+Helga&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=uzvqnQEACAAJ&dq=O+di%C3%A1rio+de+Helga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Il_diario_di_Helga_La_testimonianza_di_u.html?hl=&id=uzvqnQEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uzvqnQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xGmbAgAAQBAJ",
+   "etag": "JE2Z29jedwk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xGmbAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Il diario di Helga",
+    "authors": [
+     "Helga Weiss"
+    ],
+    "publisher": "Giulio Einaudi Editore",
+    "publishedDate": "2014-01-21",
+    "description": "Degli oltre quindicimila bambini rinchiusi nel campo di Terezín e in seguito deportati ad Auschwitz, solo un centinaio è sopravvissuto all'Olocausto. Helga è una di questi. Il diario che Helga non smette di tenere anche durante la prigionia racconta la forza e la lucidità di una bambina capace di trovare le parole per trasformare la memoria in Storia, e la Storia in un monito eterno.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788858412176"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8858412176"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.20.18.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xGmbAgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xGmbAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com.br/books?id=xGmbAgAAQBAJ&dq=O+di%C3%A1rio+de+Helga&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xGmbAgAAQBAJ&dq=O+di%C3%A1rio+de+Helga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Il_diario_di_Helga.html?hl=&id=xGmbAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xGmbAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Helga è una di questi. Il diario che Helga non smette di tenere anche durante la prigionia racconta la forza e la lucidità di una bambina capace di trovare le parole per trasformare la memoria in Storia, e la Storia in un monito eterno."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Tl27CwAAQBAJ",
+   "etag": "zo1finK5gjo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Tl27CwAAQBAJ",
+   "volumeInfo": {
+    "title": "MUITO ALÉM DAS CINZAS",
+    "subtitle": "Narrativas de Auschwitz",
+    "authors": [
+     "Ethel Mizrahy Cuperschmid"
+    ],
+    "publishedDate": "2016-03-11",
+    "description": "A presente obra é fruto de uma tese de doutorado, defendida junto ao Departamento de História da Faculdade de Filosofia e Ciências Humanas da Universidade Federal de Minas Gerais no ano de 2005. Narrativas de sobreviventes e vítimas da “Solução Final” foram as fontes privilegiadas de estudo. A complexidade dos acontecimentos, a multiplicidade das personagens, papéis, conceitos, nacionalidades, experiências e interpretações direciona a percepção dessas narrativas para o que elas contêm de inacabado, possibilidades vislumbradas, testadas, experimentadas. Descrições eivadas de medo, terror, injustiça, violência e mesmo assim lúcidas questionadoras e inquietantes. Mesmo diante da impossibilidade de narrar o terror, o indizível, a violência potencializada nos guetos, nos campos de concentração, nas marchas da morte, as vítimas deixaram por escrito seus relatos. Necessidade de testemunhar, de humanizar e de dar sentido a vida permeiam narrativas que foram publicadas em diversos lugares do mundo e que reforçam pluralidade de situações, visões, vivências, denúncias e também esperanças.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788567169057"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8567169054"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Tl27CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Tl27CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Tl27CwAAQBAJ&pg=PT46&dq=O+di%C3%A1rio+de+Helga&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Tl27CwAAQBAJ&dq=O+di%C3%A1rio+de+Helga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/MUITO_AL%C3%89M_DAS_CINZAS.html?hl=&id=Tl27CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/MUITO_AL%C3%89M_DAS_CINZAS-sample-epub.acsm?id=Tl27CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/MUITO_AL%C3%89M_DAS_CINZAS-sample-pdf.acsm?id=Tl27CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Tl27CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Têm também uma característica confessional que se aproxima do \u003cb\u003ediário\u003c/b\u003e. As \u003cbr\u003e\nautobiografias podem também se focar ... também é uma característica dos \u003cbr\u003e\ndiários. O recém-descoberto \u003cb\u003ediário\u003c/b\u003e da judia holandesa \u003cb\u003eHelga\u003c/b\u003e Deen, foi escrito no \u003cbr\u003e\ntempo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9BgwDwAAQBAJ",
+   "etag": "rlCa3Ien7h8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9BgwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Evelyn Raleigh e a chave da lenda de ouro",
+    "authors": [
+     "Aline Martins"
+    ],
+    "publisher": "Novo Seculo Livraria e Editora Ltda",
+    "publishedDate": "2017-08-03",
+    "description": "Quando Eve pegou aquele pingente, ela não esperava que quase fosse morrer por causa disso ou que sua mãe estivesse sequestrada em outro país. Agora, a jovem de 17 anos se vê no meio de uma perigosa corrida por uma lenda perdida no coração da Floresta Amazônica, com as pessoas que mais ama como reféns.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788542808629"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8542808622"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9BgwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9BgwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9BgwDwAAQBAJ&pg=PT145&dq=O+di%C3%A1rio+de+Helga&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9BgwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9BgwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 14.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9BgwDwAAQBAJ&rdid=book-9BgwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Evelyn_Raleigh_e_a_chave_da_lenda_de_our-sample-epub.acsm?id=9BgwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Evelyn_Raleigh_e_a_chave_da_lenda_de_our-sample-pdf.acsm?id=9BgwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9BgwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O grupo já estava praticamente se dissipando pelo acampamento quando \u003cbr\u003e\nCortés entrou com o diário na mão. Aproximei-me dele, mas, antes que eu \u003cbr\u003e\npudesse pegar \u003cb\u003eo diário\u003c/b\u003e, \u003cb\u003eHelga\u003c/b\u003e me deu um empurrão com o ombro. – Eu fico com \u003cbr\u003e\nisso!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-39A7ePBix8C",
+   "etag": "uJZl4pUvRqU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-39A7ePBix8C",
+   "volumeInfo": {
+    "title": "Diário de seu último ano sabático",
+    "authors": [
+     "NOUWEN, Henri J. M."
+    ],
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "2003",
+    "description": "Este diário pessoal, escrito durante o último ano da vida de Henri Nouwn, é seu testamento espiritual. O texto reflete um momento de mudança na vida do autor. Aqui, ele deixa transbordar a própria alma, ao mesmo tempo em que questiona as noções de comunidade, oração, amizade, intimidade, apostulado, Igreja, Deus, medo, vida e morte.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515024993"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515024995"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 295,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-39A7ePBix8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-39A7ePBix8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-39A7ePBix8C&pg=PA255&dq=O+di%C3%A1rio+de+Helga&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-39A7ePBix8C&dq=O+di%C3%A1rio+de+Helga&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Di%C3%A1rio_de_seu_%C3%BAltimo_ano_sab%C3%A1tico.html?hl=&id=-39A7ePBix8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-39A7ePBix8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Voltando para casa, falamos novamente sobre o filho de Tom e \u003cb\u003eHelga\u003c/b\u003e. &quot;Onde \u003cbr\u003e\nestá ele? O que lhe aconteceu depois da morte?&quot;, perguntou sua mãe. As idéias \u003cbr\u003e\ne os pensamentos são tão impotentes em face de um coração profundamente&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "n6N9AgAAQBAJ",
+   "etag": "gzPS71RofoA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/n6N9AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Memórias - III",
+    "subtitle": "Vale de Josafat",
+    "authors": [
+     "Raul Brandão"
+    ],
+    "publisher": "Ediçoes Vercial",
+    "publishedDate": "2014-01-05",
+    "description": "\"Considero os meses mais felizes da minha vida aqueles em que eu e minha mulher fomos viver para uma aldeia remota. Ainda hoje me penetra a solidão perfumada dos montes. A casa não tinha vidros e à noite o silêncio doirado de estrelas entrava pelas janelas e desabava sobre nós... Há horas em que as coisas nos contemplam, e estão por um fio a comunicar connosco. Às vezes é um nada, um momento de êxtase em que distintamente ouvimos os passos da vida caminhando. O homem, sozinho, está mais perto de Deus e das coisas eternas. Sabe-lhe melhor a vida, compreende melhor a morte. Um pormenor que o interesse entranha-se-lhe na alma para sempre, como um perfume que nunca mais se esvai... Ainda este ano o Maio foi tão quente que toda a noite se lavrou ao luar...\"",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897000492"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897000496"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=n6N9AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=n6N9AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=n6N9AgAAQBAJ&printsec=frontcover&dq=O+di%C3%A1rio+de+Helga&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=n6N9AgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-n6N9AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.45,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 22.45,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=n6N9AgAAQBAJ&rdid=book-n6N9AgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.245E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.245E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3rias_III-sample-epub.acsm?id=n6N9AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Mem%C3%B3rias_III-sample-pdf.acsm?id=n6N9AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=n6N9AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Considero os meses mais felizes da minha vida aqueles em que eu e minha mulher fomos viver para uma aldeia remota."
+   }
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zoxpswEACAAJ",
+   "etag": "AtNdVKU+dkY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zoxpswEACAAJ",
+   "volumeInfo": {
+    "title": "Patati Patata - Aprendendo Com Os Amigos",
+    "authors": [
+     "Ciranda Cultural"
+    ],
+    "publishedDate": "2017-09-04",
+    "description": "No Parque Patati Patatá, sempre tem muita alegria e diversão. Venha brincar com esses palhaços especiais e seus amigos, enquanto aprende as vogais, os números, as formas e muito mais! Cole os adesivos no livro ou onde mais você quiser!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8538070452"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788538070450"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 48,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=zoxpswEACAAJ&dq=isbn:9788538070450&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=zoxpswEACAAJ&dq=isbn:9788538070450&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Patati_Patata_Aprendendo_Com_Os_Amigos.html?hl=&id=zoxpswEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zoxpswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No Parque Patati Patatá, sempre tem muita alegria e diversão."
+   }
+  }
+ ]
+}

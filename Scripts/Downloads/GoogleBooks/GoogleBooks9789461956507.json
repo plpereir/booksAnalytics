@@ -1,0 +1,66 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 1,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "U9g0mwEACAAJ",
+   "etag": "mA72uFIR3I0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U9g0mwEACAAJ",
+   "volumeInfo": {
+    "title": "SUPER FACIL COLORIR",
+    "authors": [
+     "YOYO"
+    ],
+    "description": "Esse livro traz desenhos com contornos grossos que tornam mais fácil para a criança pintar dentro dos seus limites. A forma e o tamanho das figuras são ideais para os mais novinhos- além de divertirem, ajudam a desenvolver a coordenação motora. Para inspirar a escolha das cores na hora de pintar os desenhos, o livro ainda tem mais de 90 adesivos multicoloridos e reutilizáveis. É diversão garantida!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9461956509"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789461956507"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 100,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=U9g0mwEACAAJ&dq=isbn:9789461956507&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=U9g0mwEACAAJ&dq=isbn:9789461956507&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/SUPER_FACIL_COLORIR.html?hl=&id=U9g0mwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=U9g0mwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Esse livro traz desenhos com contornos grossos que tornam mais fácil para a criança pintar dentro dos seus limites."
+   }
+  }
+ ]
+}

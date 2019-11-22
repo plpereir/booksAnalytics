@@ -1,0 +1,694 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 400,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wQNFIJpqWmUC",
+   "etag": "huI0afuSOuk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wQNFIJpqWmUC",
+   "volumeInfo": {
+    "title": "Getúlio Vargas",
+    "subtitle": "a construção de um mito, 1928-30",
+    "publisher": "EDIPUCRS",
+    "publishedDate": "1997",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 131,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=wQNFIJpqWmUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=wQNFIJpqWmUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wQNFIJpqWmUC&pg=PA80&dq=Get%C3%BAlio&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wQNFIJpqWmUC&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Vargas.html?hl=&id=wQNFIJpqWmUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wQNFIJpqWmUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "É importante ressaltar que as práticas coronelísticas, as violências e as fraudes \u003cbr\u003e\neleitorais não foram totalmente suprimidas durante o governo de \u003cb\u003eGetúlio\u003c/b\u003e, o que \u003cbr\u003e\nvai de encontro à tradicional imagem que se construiu do político Vargas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VIZ7AAAAMAAJ",
+   "etag": "SKNx9jOixs4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VIZ7AAAAMAAJ",
+   "volumeInfo": {
+    "title": "Getúlio Vargas",
+    "authors": [
+     "Boris Fausto"
+    ],
+    "publishedDate": "2006-01-01",
+    "description": "Nesta obra, Boris Fausto retrata Getúlio Vargas como quem fala de um velho conhecido. Não é para menos, desde os tempos de escola, quando se acostumou a ver o retrato do líder pendurado na sala de aula, até hoje, a carreira intelectual do historiador tem sido sempre atada à memória de Getúlio.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535908145"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535908145"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 233,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VIZ7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VIZ7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=VIZ7AAAAMAAJ&q=Get%C3%BAlio&dq=Get%C3%BAlio&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VIZ7AAAAMAAJ&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Vargas.html?hl=&id=VIZ7AAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VIZ7AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nesta obra, Boris Fausto retrata Getúlio Vargas como quem fala de um velho conhecido."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YhAsAAAAYAAJ",
+   "etag": "lrmFMFnyGgk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YhAsAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Getúlio Vargas",
+    "subtitle": "diário",
+    "authors": [
+     "Leda Soares"
+    ],
+    "publishedDate": "1995",
+    "description": "Anotações do ex-presidente Getúlio Vargas, com início em 3 de outubro de 1930, dia da Revolução, até setembro de 1942, quando o Brasil já havia declarado guerra aos países do Eixo. Foram acrescentadas informações complementares e elaborados índices temáticos e biográficos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8526707922"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526707924"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YhAsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YhAsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YhAsAAAAYAAJ&q=Get%C3%BAlio&dq=Get%C3%BAlio&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YhAsAAAAYAAJ&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Vargas.html?hl=&id=YhAsAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YhAsAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Anotações do ex-presidente Getúlio Vargas, com início em 3 de outubro de 1930, dia da Revolução, até setembro de 1942, quando o Brasil já havia declarado guerra aos países do Eixo."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WhYsAAAAYAAJ",
+   "etag": "VLgx/5cnV0M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WhYsAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Getúlio Vargas",
+    "subtitle": "depoimentos de um filho",
+    "authors": [
+     "Olides Canton"
+    ],
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173014279239"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 76,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WhYsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WhYsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=WhYsAAAAYAAJ&q=Get%C3%BAlio&dq=Get%C3%BAlio&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=WhYsAAAAYAAJ&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Vargas.html?hl=&id=WhYsAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WhYsAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0EXXCgAAQBAJ",
+   "etag": "C4xw9MhdPhs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0EXXCgAAQBAJ",
+   "volumeInfo": {
+    "title": "Getúlio",
+    "authors": [
+     "Juremir Machado da Silva"
+    ],
+    "publisher": "Editora Best Seller",
+    "publishedDate": "2015-10-30",
+    "description": "GETÚLIO, do jornalista Juremir Machado da Silva, é o resultado de três anos de pesquisa em arquivos de documentos históricos, em jornais e em revistas. O autor leu mais de 150 livros sobre o político mais importante da história brasileira e entrevistou 73 pessoas direta ou indiretamente tocadas pela morte de Getúlio, em 24 de agosto de 1954. Juremir mostra Vargas na intimidade e na solidão do poder. Os rastros da memória em personagens como o pistoleiro de aluguel, a Bem-Amada, o secretário pessoal, a testemunha ocular da História, a espiã alemã, o filho da vítima, os netos do presidente, a filha do Corvo, o ajudante-de-ordens, as mulheres.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577994984"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8577994988"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 434,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0EXXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0EXXCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0EXXCgAAQBAJ&printsec=frontcover&dq=Get%C3%BAlio&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0EXXCgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0EXXCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 26.5,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0EXXCgAAQBAJ&rdid=book-0EXXCgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.79E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.65E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Get%C3%BAlio-sample-epub.acsm?id=0EXXCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Get%C3%BAlio-sample-pdf.acsm?id=0EXXCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0EXXCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "GETÚLIO, do jornalista Juremir Machado da Silva, é o resultado de três anos de pesquisa em arquivos de documentos históricos, em jornais e em revistas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4CgsAAAAYAAJ",
+   "etag": "MtH5nsqMfh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4CgsAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Getúlio Vargas",
+    "publishedDate": "1986",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018175960"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 80,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4CgsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4CgsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=4CgsAAAAYAAJ&q=Get%C3%BAlio&dq=Get%C3%BAlio&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4CgsAAAAYAAJ&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Vargas.html?hl=&id=4CgsAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4CgsAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_-wSAQAAIAAJ",
+   "etag": "T54XVK1bVtk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_-wSAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Getúlio",
+    "subtitle": "50 anos depois",
+    "authors": [
+     "Mariza Tavares"
+    ],
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105122964260"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_-wSAQAAIAAJ&q=Get%C3%BAlio&dq=Get%C3%BAlio&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_-wSAQAAIAAJ&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio.html?hl=&id=_-wSAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_-wSAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6LvL8-PMdbkC",
+   "etag": "KXzhSfI8mNo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6LvL8-PMdbkC",
+   "volumeInfo": {
+    "title": "O anjo branco de Getúlio Vargas",
+    "subtitle": "entre primaveras e verões : uma viagem pela memória, pela alma e pelos pampas",
+    "authors": [
+     "Maria Thereza Rezende Teixeira"
+    ],
+    "publisher": "Editora AGE Ltda",
+    "publishedDate": "1999-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "858562762X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788585627621"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 182,
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6LvL8-PMdbkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6LvL8-PMdbkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6LvL8-PMdbkC&pg=PA123&dq=Get%C3%BAlio&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6LvL8-PMdbkC&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_anjo_branco_de_Get%C3%BAlio_Vargas.html?hl=&id=6LvL8-PMdbkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6LvL8-PMdbkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Migoel Teixeira, e \u003cb\u003eGetúlio\u003c/b\u003e respondeu que Aranha não demorasse muito, pois \u003cbr\u003e\ntinham muito que conversar... Diário de Notícias, de Porto Alegre, noticia com \u003cbr\u003e\ndetalhes a viagem de Miguel Teixeira a São Borja. Em plena gravação para o \u003cbr\u003e\nCentro&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "khUsAAAAYAAJ",
+   "etag": "xq6VMw5usU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/khUsAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Getúlio Vargas e o seu tempo: 1883-1900",
+    "publishedDate": "1985",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173018176023"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Brazil"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=khUsAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=khUsAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=khUsAAAAYAAJ&q=Get%C3%BAlio&dq=Get%C3%BAlio&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=khUsAAAAYAAJ&dq=Get%C3%BAlio&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Get%C3%BAlio_Vargas_e_o_seu_tempo_1883_1900.html?hl=&id=khUsAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=khUsAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6_enBAAAQBAJ",
+   "etag": "v5hixO5UYiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6_enBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Getúlio (1882-1930)",
+    "subtitle": "Dos anos de formação à conquista do poder",
+    "authors": [
+     "Lira Neto"
+    ],
+    "publisher": "Editora Companhia das Letras",
+    "publishedDate": "2012-05-10",
+    "description": "Getúlio Dornelles Vargas (1882-1954) é a figura histórica sobre a qual mais se escreveu no Brasil. No entanto, na copiosa bibliografia dedicada a ele, não havia até agora uma biografia completa, de cunho jornalístico e objetivo, que procurasse reconstituir em minúcias a trajetória pessoal e política do personagem do modo mais isento possível. A monumental trilogia Getúlio, de Lira Neto, da qual se lança agora o primeiro volume, vem suprir com sobras essa lacuna. Ao longo de dois anos e meio, o autor se debruçou sobre uma vastíssima gama de documentos - muitos deles inéditos ou pouco explorados - para ajudar a decifrar a \"esfinge Getúlio\" e mostrar como foi possível que convivessem no mesmo indivíduo o revolucionário, o ditador, o reformador social e o demagogo. Sem desdenhar nenhum tipo de fonte ou arquivo, Lira Neto se serviu de cartas pessoais e memorandos oficiais, de diários íntimos, autos judiciais, boletins de ocorrência, notícias de jornal, anúncios de publicidade, charges, hinos, marchinhas, livros de memórias, entrevistas, depoimentos etc. O resultado desse árduo trabalho, acompanhado de um mergulho na bibliografia histórica sobre o período, é um relato envolvente, por vezes eletrizante, ao qual o talento narrativo do autor confere a vivacidade e o ritmo de um bom romance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580862300"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580862302"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 664,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.13.12.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6_enBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6_enBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6_enBAAAQBAJ&pg=PT586&dq=Get%C3%BAlio&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=6_enBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-6_enBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=6_enBAAAQBAJ&rdid=book-6_enBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.99E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Get%C3%BAlio_1882_1930-sample-epub.acsm?id=6_enBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Get%C3%BAlio_1882_1930-sample-pdf.acsm?id=6_enBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6_enBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "149-52. 11. Francisco Doratioto, Maldita guerra, p. 221. 12. André Carrazoni, \u003cbr\u003e\n\u003cb\u003eGetúlio\u003c/b\u003e Vargas, p. 21; Barros Vidal, Um destino a serviço do Brasil, p. 33; Revista \u003cbr\u003e\ndo Globo, agosto de 1950, “Subsídios para as memórias de \u003cb\u003eGetúlio\u003c/b\u003e Vargas”. 13."
+   }
+  }
+ ]
+}

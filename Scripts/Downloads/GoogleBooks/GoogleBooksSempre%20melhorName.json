@@ -1,0 +1,926 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 430,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QtGctAEACAAJ",
+   "etag": "34RNRqCeBEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QtGctAEACAAJ",
+   "volumeInfo": {
+    "title": "Sempre Melhor",
+    "authors": [
+     "Jose Carlos De Lucca"
+    ],
+    "description": "'Sempre Melhor' traz lindas mensagens extraídas de cinco livros do consagrado autor José Carlos De Lucca, que já atingiu a marca de mais de meio milhão de livros vendidos, e tem o objetivo de nos fazer sentir, em nosso dia-a-dia, as palavras acolhedoras com que De Lucca tanto tem sensibilizado e iluminado seus leitores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8563808265"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788563808264"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QtGctAEACAAJ&dq=Sempre+melhor&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QtGctAEACAAJ&dq=Sempre+melhor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Sempre_Melhor.html?hl=&id=QtGctAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QtGctAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Sempre Melhor&#39; traz lindas mensagens extraídas de cinco livros do consagrado autor José Carlos De Lucca, que já atingiu a marca de mais de meio milhão de livros vendidos, e tem o objetivo de nos fazer sentir, em nosso dia-a-dia, as ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a3GZBAAAQBAJ",
+   "etag": "dEoS/DtMcQ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a3GZBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Como Ser Um Melhor Amigo Para Sempre",
+    "authors": [
+     "John Townsend"
+    ],
+    "publisher": "CPAD - Casa Publicadora das Assembleias de Deus",
+    "publishedDate": "2014-07-29",
+    "description": "Nesse livro encorajador sobre amizade, o psicólogo Dr. John Townsend renova a esperança e oferece ajuda para melhorar os relacionamentos. Ensina como torná-los infinitamente melhores, ainda que você já tenha um melhor amigo. Conheça oito princípios para construir e fortalecer o melhor tipo de amizade! Um produto CPAD.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526311596"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "852631159X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.9.9.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=a3GZBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=a3GZBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=a3GZBAAAQBAJ&pg=PT6&dq=Sempre+melhor&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=a3GZBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-a3GZBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 13.41,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=a3GZBAAAQBAJ&rdid=book-a3GZBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.495E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.341E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Ser_Um_Melhor_Amigo_Para_Sempre-sample-epub.acsm?id=a3GZBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Como_Ser_Um_Melhor_Amigo_Para_Sempre-sample-pdf.acsm?id=a3GZBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=a3GZBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um livro é \u003cb\u003esempre melhor\u003c/b\u003e quando você participa dele. Rob Birkhead, \u003cbr\u003e\nvicepresidente sênior de marketing da Worthy Publishing. Seu excelente \u003cbr\u003e\ntrabalho gráfico e artístico é transformador para o conteúdo. Kris Bearss, editora \u003cbr\u003e\nexecutiva da&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xrq0CwAAQBAJ",
+   "etag": "4uCxf81IVvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xrq0CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Sempre a Segunda Melhor",
+    "authors": [
+     "Elodie Nowodazkij"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2018-06-24",
+    "description": "Às vezes ser a primeira não é o que se espera. Emilia Moretti, uma bailarina de dezessete anos, está cansada de ser sempre a segunda melhor. E ela vai provar ao mundo que merece ser a primeira. Na próxima exibição da Escola de Artes Performáticas. Aos olhos de seus pais biológicos. E no coração do garoto que ela ama. Ela passa horas ensaiando, horas sonhando em se tornar a número um, horas imaginando como sua vida inteira está prestes a mudar. Mas quando nada sai como planejado, ela precisará perceber o que realmente significa ser a número um. Nick Grawski tem dezoito anos e não quer mais seguir as regras de seu Papaizinho Querido. Ele vai provar que é seu destino ser dançarino, e não advogado, e não vai mais se afastar de Em só porque seu pai mandou. Nick precisa mostrar a Em que, desta vez, ele não vai a lugar algum e que não vai partir seu coração de novo. Mesmo quando o mundo dela desmorona, mesmo quando descobre que talvez seu pai estivesse tentando protegê-lo o tempo todo, mesmo que apoiar-se um no outro seja mais difícil do que se apaixonar. SEMPRE A SEGUNDA MELHOR é um romance de esperança e corações e sonhos quebrados. É um livro sobre se apaixonar e descobrir que estar em primeiro lugar nem sempre importa.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781507132159"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1507132158"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xrq0CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xrq0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xrq0CwAAQBAJ&pg=PT175&dq=Sempre+melhor&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xrq0CwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xrq0CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.06,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.06,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xrq0CwAAQBAJ&rdid=book-xrq0CwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.906E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.906E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xrq0CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Prometo que darei o \u003cb\u003emelhor\u003c/b\u003e cuidado possível para o seu irmão. — E então \u003cbr\u003e\nmarcha para longe ... Vou garantir que Roberto consiga o \u003cb\u003emelhor\u003c/b\u003e atendimento. \u003cbr\u003e\nPrometo. ... É só que... os pais \u003cb\u003esempre\u003c/b\u003e querem o \u003cb\u003emelhor\u003c/b\u003e para os filhos. E eu não \u003cbr\u003e\nsou o&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "m3WwDQAAQBAJ",
+   "etag": "UjGP1y1h7YM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/m3WwDQAAQBAJ",
+   "volumeInfo": {
+    "title": "Venda Mais, Melhor e Sempre",
+    "authors": [
+     "Tim Dunne",
+     "Tim Hurson"
+    ],
+    "publisher": "DVS Editora",
+    "publishedDate": "2016-09-01",
+    "description": "Todo mundo sabe que a primeira regra em vendas é de que \"não existe ponto final\". Porém, e se eu lhe dissesse que se você gastasse menos tempo tentando fechar uma venda se tornaria capaz de investir mais em ajudar pessoas a resolverem seus problemas e, assim, a aproveitar oportunidades? E se o fato de você atentar para a nova regra de ouro do setor, \"sempre seja útil\", resultasse em mais negócios? Se você já vende, mas tem por objetivo vender mais e melhor, precisa conhecer o \"dilema do forasteiro\". Um estranho não tem a seu favor a capacidade de gerar credibilidade de maneira instantânea. Não surpreende, portanto, que uma grande variedade de táticas, técnicas e ferramentas de vendas tenham sido adotadas como substitutas para promover o fator \"confiança\". O propósito desses mecanismos é obter um compromisso de compra por parte do cliente, mesmo que isso não seja do melhor interesse dele. A abordagem defendida em Venda Mais, Melhor e Sempre foi projetada para superar esse \"dilema do forasteiro\", todavia, a partir de uma ótica diferenciada. Este livro não é apenas um catálogo de técnicas de vendas para ajudá-lo a arrancar dinheiro dos clientes. Trata-se de uma ampla estratégia que começa com um bom trabalho de pesquisa que visa identificar e solucionar problemas. Nele são apresentadas maneiras de avaliar sua criatividade e, desse modo, estabelecer e manter um relacionamento que, ao longo do tempo, se revele verdadeiramente útil tanto para você quanto para seus clientes. Em um sentido bastante realista, este livro mostrará a você como deixar de ser visto como um estranho. Ao oferecer uma estrutura simples e replicável para obter o máximo de novas oportunidades, o livro Venda Mais, Melhor e Sempre se aprofunda nos princípios defendidos por Tim Hurson em sua obra anterior, Think Better (Pense melhor).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788582891407"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8582891407"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=m3WwDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=m3WwDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=m3WwDQAAQBAJ&pg=PT258&dq=Sempre+melhor&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=m3WwDQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-m3WwDQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 35.05,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=m3WwDQAAQBAJ&rdid=book-m3WwDQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.83E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.505E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Venda_Mais_Melhor_e_Sempre-sample-epub.acsm?id=m3WwDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Venda_Mais_Melhor_e_Sempre-sample-pdf.acsm?id=m3WwDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=m3WwDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na verdade, seriam necessários vários volumes para que pudéssemos \u003cbr\u003e\nreconhecer o apoio de todos aqueles que nos influenciaram no processo de \u003cbr\u003e\nescrita de Venda Mais, \u003cb\u003eMelhor\u003c/b\u003e e \u003cb\u003eSempre\u003c/b\u003e, porém, infelizmente não dispomos \u003cbr\u003e\ndesse espaço."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FVh7DwAAQBAJ",
+   "etag": "6UC2hjeCWTA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FVh7DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Minha Irmã Gêmea e Eu: Uma Escoteira Sempre Faz o Seu Melhor",
+    "authors": [
+     "Emiliya Ahmadova"
+    ],
+    "publisher": "Babelcube Inc.",
+    "publishedDate": "2018-11-11",
+    "description": "Este livro não apenas introduz crianças ao Escotismo, mas também ensina valores, moral e fé. Minha Irmã Gêmea e Eu mostra como lidar com a raiva, enfrentar os medos, a importância do respeito próprio e como lidar com o bullying. Acima de tudo, este livro ajuda as crianças. Cola no peitoril da janela e pasta de dentes nos sapatos. Quem fez a arte? As gêmeas escoteiras, Julieta e Rafaela, de doze anos de idade, têm que lidar com os truques feios da irmã mais velha, o que as coloca em apuros. Na escola, Julieta está sendo ridicularizada pelas sardas no rosto e pelos dentes tortos. Esquecendo sua própria situação, no entanto, ela enfrenta um bully, Claudius, para proteger seu amigo Montano de ser perseguido. Por gentileza, ela concorda em ir ao cinema com Montano. Devido a situações fora de seu controle, essa ida ao cinema acaba sendo um constrangimento de várias maneiras diferentes. No entanto, mais uma vez, ela defende Montano. Em um outro dia, seu tio Diego surpreende a família, voando de sua casa nos EUA para Caracas para uma visita. Sua visita causa preocupação: algo está errado. Julieta enfrenta seus medos para salvar seu tio doente no meio da noite. Depois de salvá-lo, ela se torna uma heroína nos olhos do tio. Os Escoteiros planejam participar de um Jamboree na Rússia, e as garotas precisam planejar e executar vários planos para pagar pela aventura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781547557776"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "154755777X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 318,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FVh7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FVh7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=FVh7DwAAQBAJ&pg=PT106&dq=Sempre+melhor&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=FVh7DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-FVh7DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.6,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 11.6,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=FVh7DwAAQBAJ&rdid=book-FVh7DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.16E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.16E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=FVh7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Nos meus sonhos horríveis, um palhaço \u003cb\u003esempre\u003c/b\u003e saía do armário do quarto e \u003cbr\u003e\nficava parado ao lado da minha cama olhando para mim. Ele tinha uma cabeça \u003cbr\u003e\ngrande, grandes esferas pretas no lugar dos olhos e lábios pintados de \u003cbr\u003e\nvermelho."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YrpcBAAAQBAJ",
+   "etag": "8YwE0Wkpuoc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YrpcBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Melhores Crônicas Moacyr Scliar",
+    "authors": [
+     "Moacyr Scliar"
+    ],
+    "publisher": "Global Editora e Distribuidora Ltda",
+    "publishedDate": "2015-09-04",
+    "description": "Na crônica, como em tudo mais na vida, cada um dá o que tem. No caso do cronista, há ainda uma peculiaridade: ele não só transmite o que lhe está na alma, como precisa se despersonalizar ou se desdobrar, sei lá, para captar os mistérios e as banalidades do cotidiano. É como uma antena (talvez parabólica) aberta para o mundo, captando novidades, sempre filtradas através de um temperamento e uma história de vida. Quanta complicação para dizer que o cronista Moacyr Scliar, um dos grandes ficcionistas do país, revela a cada momento em suas crônicas a sua situação de médico e de judeu, filho de imigrantes, muito orgulhoso de ambas. Essa condição acentua a sua visão crítica da vida e \"muitas vezes o ângulo irônico, quando não humorístico\" (humor judaico), como salienta Luís Augusto Fischer no prefácio às Melhores Crônicas Moacyr Scliar, aliás recolhidas em livro pela primeira vez. Nada mais natural também que, como ficcionista autêntico, muitas de suas crônicas estejam mais identificadas com a ficção do que com a crônica pura, sem fermento. Ótimo. O fermento da imaginação, sobrepondo-se à simples observação, muitas vezes tem o dom de cutucar o leitor, de despertá-lo para uma outra dimensão da realidade, quando não lançá-lo em pleno absurdo. O absurdo serve também, quase em surdina, para a crítica social, a condenação das vaidades humanas, a reflexão sobre as armadilhas da vida moderna. Mas, seja em seus mergulhos no absurdo, seja na captação do cotidiano, o cronista nunca perde o poder de se comunicar com o leitor, através de uma linguagem clara, coloquial, sem rebuscamentos, a linguagem do povo, mas depurada por uma rígida disciplina. Como observa Fischer, \"sua crônica proporciona ao leitor a agradável sensação de compartilhamento, que temos ao conversar com um parceiro\". Pode haver melhor diálogo?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788526018419"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8526018418"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.404.332.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YrpcBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YrpcBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YrpcBAAAQBAJ&pg=PT220&dq=Sempre+melhor&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YrpcBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YrpcBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YrpcBAAAQBAJ&rdid=book-YrpcBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.43E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.43E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Melhores_Cr%C3%B4nicas_Moacyr_Scliar-sample-epub.acsm?id=YrpcBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Melhores_Cr%C3%B4nicas_Moacyr_Scliar-sample-pdf.acsm?id=YrpcBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YrpcBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Poucas coisas atormentam tanto as mulheres como as empregadas domésticas, \u003cbr\u003e\nmelhor dizendo, a falta de empregadas (porque é \u003cb\u003esempre melhor\u003c/b\u003e alguma \u003cbr\u003e\nempregada do que nenhuma). Faço esta afirmação e de imediato constato a \u003cbr\u003e\ninjustiça&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HIUyBwAAQBAJ",
+   "etag": "i/ED3E/ndzE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HIUyBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Seja melhor no que realmente importa",
+    "subtitle": "A única estratégia de carreira que você vai precisar para transformar seu tempo em resultados",
+    "authors": [
+     "Joe Calloway"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "publishedDate": "2015-03-13",
+    "description": "Simplicidade e foco para maximizar resultados: quem não quer ter isso? Este livro propõe uma ideia audaciosa: ser melhor que a concorrência nas coisas que criam verdadeiro valor para os clientes. Em vez de precisar apagar mil incêndios rotineiros e perder tempo com processos que não geram lucro nem sucesso, encontre onde dar os tiros certeiros do seu negócio ou do seu produto. Para isso, Joe Calloway apresenta a única estratégia que você precisa saber para transformar seu tempo em resultados – e levar sua carreira ao topo! Conheça a estratégia que permitirá a você: Aprimorar-se de modo constante nos detalhes específicos que criam mais valor para o cliente;Esclarecer as expectativas e construir uma cultura em torno da qualidade do produto/serviço;Oferecer excelência consistente;Identificar as áreas do negócio que se tornaram tão complicadas e, então, como simplificá-las;Descobrir o que de fato motiva seus colaboradores. Para gerar resultados, crescimento e lucratividade, é preciso demonstrar excelência; você deve ser o melhor no que realmente importa!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788545200109"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8545200102"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HIUyBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HIUyBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=HIUyBwAAQBAJ&pg=PT156&dq=Sempre+melhor&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HIUyBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-HIUyBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HIUyBwAAQBAJ&rdid=book-HIUyBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.09E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Seja_melhor_no_que_realmente_importa-sample-epub.acsm?id=HIUyBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Seja_melhor_no_que_realmente_importa-sample-pdf.acsm?id=HIUyBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HIUyBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Digamos, portanto, que esse sujeito \u003cb\u003esempre\u003c/b\u003e foi o \u003cb\u003emelhor\u003c/b\u003e naquilo que importa. E \u003cbr\u003e\nainda é. Já não mais uma criança, ele conseguiu transformar seu \u003cbr\u003e\nempreendimento em uma das mais bem-sucedidas empresas de paisagismo do \u003cbr\u003e\nmeio-oeste&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z4ziBgAAQBAJ",
+   "etag": "MB04npbOEeE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z4ziBgAAQBAJ",
+   "volumeInfo": {
+    "title": "Linha de Chegada",
+    "authors": [
+     "Jaime Fernández Garrido"
+    ],
+    "publisher": "RBC Publicações",
+    "publishedDate": "2008-03-01",
+    "description": "Publicado na Europa e América do Norte Linha de Chegada chega ao Brasil como uma boa maneira de começar bem o dia na presença de Jesus. O devocional traz reflexões e estudo da Palavra de Deus na companhia de grandes atletas como Kaká, Lucio, Baltazar, Silvinho, Zé Roberto, entre outros.Jaime Fernandez Garrido traz uma linguagem dinâmica e empolgante. Acontecimentos marcantes, situações desafiadoras e experiências marcantes nas quais, Deus chama a nossa atenção para que o deixemos trabalhar em nossas vidas e para que o glorifiquemos ao cumprir a sua vontade.“O futebol é o meu ministério, é minha maneira de falar ao mundo sobre Jesus. Linha de Chegada o ajudará a conhecer mais o Senhor Jesus\". —Kaká Bola de Ouro 2007 como melhor jogador de futebol do mundo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604850291"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1604850299"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Z4ziBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Z4ziBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Z4ziBgAAQBAJ&pg=PT205&dq=Sempre+melhor&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Z4ziBgAAQBAJ&dq=Sempre+melhor&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Linha_de_Chegada.html?hl=&id=Z4ziBgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Linha_de_Chegada-sample-pdf.acsm?id=Z4ziBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Z4ziBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Suponho que você se lembra que ele foi um dos melhores atacantes da década \u003cbr\u003e\ndos anos 1980, jogando futebol no ... ser melhores em tudo: o mundo os valoriza \u003cbr\u003e\ne a vida parece estar reduzida a uma louca corrida para ser o \u003cb\u003esempre melhor\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9ebiBAAAQBAJ",
+   "etag": "yWxhklD4k78",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9ebiBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Ocupado demais para ler este livro",
+    "subtitle": "Um manual prático para administrar melhor o tempo, ganhar produtividade e garantir o sucesso",
+    "authors": [
+     "Tony Crabbe"
+    ],
+    "publisher": "Agir",
+    "publishedDate": "2014-10-17",
+    "description": "Neste guia cativante sobre a cultura do exagero, Tony Crabbe destrói o mito do 'busyness' e oferece dicas práticas e ponderadas que ajudam indivíduos (e suas organizações) a despertarem seu verdadeiro potencial.Dave Coplin, CEO da Microsoft no Reino Unido e autor de Business ReimaginedEsse livro me permitiu melhorar imediatamente minha rotina e conquistar benefícios de longo prazo em minha carreira.Chris Keeling, diretor de contabilidade da Walt Disney CompanyOcupado demais para ler este livro está repleto de grandes ideias, baseadas em pesquisas recentes e nas melhores práticas. Este é o melhor livro que eu li nos últimos dez anos!Michael Marquardt, professor da Universidade George Washington e presidente do Institute of Action LearningSua agenda está sempre lotada?Você não tem tempo para se atualizar?Tudo na sua vida é urgente?Se você sente que está perdendo o controle da sua vida profissional ou deixando de lado o que realmente importa, a boa notícia é que existe uma solução.Especialista em psicologia e negócios, Tony Crabbe apresenta neste livro exemplos de grandes empresas, como Disney e Microsoft, que desmascaram o mito de que a satisfação no local de trabalho só é alcançada quando todas as tarefas são concluídas no fim do dia. Ele demonstra que aqueles que focam na criatividade e dão a devida atenção aos detalhes são mais motivados, felizes e bem-sucedidos profissionalmente. Se você quer retomar o controle da sua carreira — e da sua vida —, dê logo o primeiro passo e se certifique de que não está ocupado demais para ler este livro.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788522033201"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "852203320X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 351,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.12.11.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9ebiBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9ebiBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=9ebiBAAAQBAJ&pg=PT281&dq=Sempre+melhor&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9ebiBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9ebiBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9ebiBAAAQBAJ&rdid=book-9ebiBAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.99E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.89E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ocupado_demais_para_ler_este_livro-sample-epub.acsm?id=9ebiBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ocupado_demais_para_ler_este_livro-sample-pdf.acsm?id=9ebiBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9ebiBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Um manual prático para administrar melhor o tempo, ganhar produtividade e \u003cbr\u003e\ngarantir o sucesso Tony Crabbe ... a flexibilidade para concentrar-se em projetos \u003cbr\u003e\ncriativos ao longo do seu dia de trabalho, é \u003cb\u003esempre melhor\u003c/b\u003e agir de forma \u003cbr\u003e\nproativa&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LQ_gAgAAQBAJ",
+   "etag": "CYRBRs8hH9M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LQ_gAgAAQBAJ",
+   "volumeInfo": {
+    "title": "O Meu Pai é o Melhor do Mundo",
+    "authors": [
+     "Maria João Lopo;Nogueira Carvalho"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2014-01-03",
+    "description": "O Gil odeia ser gozado pelos colegas.- O que é que faz o teu pai, Gil?A resposta é sempre a mesma:- O meu pai é só Pai O que mais ninguém sabe é que o pai do Gil pertence à família dos Invencíveis e que tem mesmo Poderes Altamente Invencíveis! Sabes como? O Gil conta-te tudo! Se achas que o teu pai é o melhor do mundo, lê esta história!Vais gostar e o teu pai também!Maria João Lopo de Carvalho licenciou-se em Línguas e Literaturas Modernas. Foi professora de português e de inglês e trabalhou como copywriter em publicidade. Passou ainda pelas áreas de Educação e Cultura na Câmara Municipal de Lisboa. O seu primeiro bestseller, Virada do Avesso, foi publicado pela Oficina do Livro em 2000. Tem mais de cinquenta títulos editados, entre romances, livros de crónicas, manuais escolares e dezenas de livros infanto-juvenis, a maioria deles no Plano Nacional de Leitura. Em 2011, editou o primeiro romance histórico Marquesa de Alorna que, em pouco tempo, se tornou um bestseller.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789897411205"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9897411208"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LQ_gAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LQ_gAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=LQ_gAgAAQBAJ&pg=PT10&dq=Sempre+melhor&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LQ_gAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-LQ_gAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.57,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 20.49,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LQ_gAgAAQBAJ&rdid=book-LQ_gAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.157E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.049E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Meu_Pai_%C3%A9_o_Melhor_do_Mundo-sample-epub.acsm?id=LQ_gAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Meu_Pai_%C3%A9_o_Melhor_do_Mundo-sample-pdf.acsm?id=LQ_gAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LQ_gAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Odiava que fizessem troça dele, e aquilo era sóo princípio, depois vinhatudo o \u003cbr\u003e\nresto: chamavamlhe totó, caixa deóculos, pernas de arame, menino do papá. \u003cbr\u003e\n\u003cb\u003eSempre\u003c/b\u003e que chegava acasa, voltavaa insistir. – Mas, ó pai, o que é que tu fazes?"
+   }
+  }
+ ]
+}
