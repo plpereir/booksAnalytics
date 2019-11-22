@@ -33,8 +33,8 @@ import br.com.Books.Controller.sellerBooks;
 public class ConnectionFactory {
 	public	Connection	getConnection() {
 		Properties properties = new Properties();
-		properties.setProperty("user", "root");
-		properties.setProperty("password", "League2016");
+		properties.setProperty("user", "xxxxxxx");
+		properties.setProperty("password", "xxxxxx");
 		properties.setProperty("useSSL", "false");
 		properties.setProperty("autoReconnect", "true");
 		try	{
@@ -255,7 +255,7 @@ public class ConnectionFactory {
 	    	/*
 	    	 * selecionando as tabelas de vendas 
 	    	 * */
-	    	String querySellers = "Select UploadDate, idGoogle, min(Price), max(Price), avg(Price), count(*) as Qty from BooksSellers where Price <> 'Sem Preço' and idGoogle='"+rs.getString(4)+"' group by UploadDate, idGoogle order by Qty desc;";
+	    	String querySellers = "Select UploadDate, idGoogle, min(Price), max(Price), avg(Price), count(*) as Qty from BooksSellers where Price <> 'Sem Pre¬ço' and idGoogle='"+rs.getString(4)+"' group by UploadDate, idGoogle order by Qty desc;";
 			Connection conSellers = new ConnectionFactory().getConnection();
 		    PreparedStatement stSellers = conSellers.prepareStatement(querySellers);
 		    ResultSet rsSellers = stSellers.executeQuery();
@@ -624,7 +624,7 @@ public class ConnectionFactory {
 	{
 		List<DashBoard> getSelectRows = new ArrayList<DashBoard>();
 	    Connection con = new ConnectionFactory().getConnection();
-	    String query = "select a.title, sum(a.RatingsCount) as \"Rating Total\", FORMAT(avg(a.AverageRatin),1) as \"Average Rating\", b.Seller, b.rating as \"Rating Seller\", b.price as \"Price Seller\" from BooksAnalytics.Books as a, BooksAnalytics.BooksSellers as b where (a.idGoogle=b.idGoogle) and (b.Price <> 'Sem preço') group by a.title, b.seller, b.rating, b.price order by sum(a.RatingsCount) desc limit 100";
+	    String query = "select a.title, sum(a.RatingsCount) as \"Rating Total\", FORMAT(avg(a.AverageRatin),1) as \"Average Rating\", b.Seller, b.rating as \"Rating Seller\", b.price as \"Price Seller\" from BooksAnalytics.Books as a, BooksAnalytics.BooksSellers as b where (a.idGoogle=b.idGoogle) and (b.Price <> 'Sem pre¬ço') group by a.title, b.seller, b.rating, b.price order by sum(a.RatingsCount) desc limit 100";
 	    //from result set give metadata
 	    PreparedStatement st2 = con.prepareStatement(query);
 	    ResultSet rs2 = st2.executeQuery();
